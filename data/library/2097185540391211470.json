@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T11:03:06.897Z",
+  "model": "seedance",
+  "prompt": "Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.",
+  "promptTranslations": {
+    "en": "Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16."
+  },
+  "summary": "Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.",
+  "summaryEn": "Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097185540391211470",
+    "canonicalUrl": "https://x.com/AIwithMinal/status/2097185540391211470",
+    "author": {
+      "username": "AIwithMinal",
+      "displayName": "AIwithMinal",
+      "profileUrl": "https://x.com/AIwithMinal"
+    },
+    "publishedAt": "2026-09-08T04:49:31.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "Chasing dreams through the wild, where every fall becomes a step closer to the top.\n\nCreated with seedance 2.0\n\nPrompt:\n\nUltra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIwithMinal/status/2097185540391211470",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097185470707048448/img/o-YrU7nxYm5ayOKt.jpg",
+        "analysisUrl": "https://x.com/AIwithMinal/status/2097185540391211470"
+      }
+    ],
+    "metrics": {
+      "likeCount": 27,
+      "repostCount": 0,
+      "replyCount": 18,
+      "quoteCount": 0,
+      "viewCount": 754
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIwithMinal/status/2097185540391211470",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097185470707048448/img/o-YrU7nxYm5ayOKt.jpg",
+  "coverPath": "covers/2097185540391211470.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097185470707048448",
+    "x-post:2097185540391211470"
+  ],
+  "analysis": {
+    "summary": "Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.",
+    "summaryEn": "Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.",
+    "sourceRange": {
+      "start": 121,
+      "end": 705
+    },
+    "translations": {
+      "zh": "超逼真电影感高山徒步场景，一条狭窄崎岖的小径蜿蜒穿过茂密的高山森林，两侧有巨大的风化岩石，高耸的树木投下戏剧性的阴影，温暖的金色时刻阳光透过树枝洒下，远处可见壮丽的层叠山脉，柔和的大气薄雾，自然大地色调，身临其境的荒野氛围，平滑的电影级运镜，逼真的纹理，体积光，浅景深，HDR，8K，逼真如照片，电影级调色，专业户外探险电影摄影，竖屏 9:16。",
+      "en": "Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic nature landscape video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
