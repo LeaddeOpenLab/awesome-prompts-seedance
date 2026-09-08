@@ -1,2 +1,11 @@
-# x-prompts-seedance
-已确认 Prompt · 封面与 X 来源链接 · 等待推流
+# seedance · Prompt 资料库
+
+按 Prompt 主题与用途分组。点击分类或条目即可在本页定位，图片与完整 Prompt 直接展示；各组可收起。
+
+共 **0** 条内容 · **0** 个语义分类
+
+<a name="catalog"></a>
+
+## 分类目录
+
+暂无已确认入库内容。首条内容入库后，将自动生成分类导航与图文 Prompt 条目。
