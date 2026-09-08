@@ -29,18 +29,9 @@
 
 ### Estilo
 
-[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still)
+[Cinematográfico / Imagem de Filme](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Fotografia · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- Fotografia · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -68,20 +59,11 @@
 
 ### Corpo principal
 
-[Personagem](#category-character) · [Paisagem / Natureza](#category-landscape-nature)
+
 
 - Retrato / Selfie · 0
 - Influenciador(a) / Modelo · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>Personagem · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- Personagem · 0
 - Grupo / Casal · 0
 - Produto · 0
 - Alimentos / Bebidas · 0
@@ -89,16 +71,7 @@
 - Animal / Criatura · 0
 - Veículo · 0
 - Arquitetura / Interiores · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>Paisagem / Natureza · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- Paisagem / Natureza · 0
 - Paisagem Urbana / Rua · 0
 - Diagrama / Gráfico · 0
 - Texto / Tipografia · 0
@@ -114,7 +87,7 @@
 
 Autor：[@arsalannazir07](https://x.com/arsalannazir07) · [Publicação original](https://x.com/arsalannazir07/status/2096791786807275583)
 
-Fotografia · Cinematográfico / Imagem de Filme · Personagem · Paisagem / Natureza · Distribuição pendente
+Cinematográfico / Imagem de Filme · Distribuição pendente
 
 **Resumo:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 

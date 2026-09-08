@@ -29,18 +29,9 @@
 
 ### スタイル
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still)
+[シネマティック / フィルムスチル](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>写真撮影 · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- 写真撮影 · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -68,20 +59,11 @@
 
 ### 本文
 
-[キャラクター](#category-character) · [風景 / 自然](#category-landscape-nature)
+
 
 - ポートレート / セルフィー · 0
 - インフルエンサー / モデル · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>キャラクター · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- キャラクター · 0
 - グループ / カップル · 0
 - 製品 · 0
 - 食品・飲料 · 0
@@ -89,16 +71,7 @@
 - 動物 / 生き物 · 0
 - 車両 · 0
 - 建築 / インテリア · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>風景 / 自然 · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- 風景 / 自然 · 0
 - 街並み / ストリート · 0
 - 図 / チャート · 0
 - テキスト / タイポグラフィ · 0
@@ -114,7 +87,7 @@
 
 作者：[@arsalannazir07](https://x.com/arsalannazir07) · [元の投稿](https://x.com/arsalannazir07/status/2096791786807275583)
 
-写真撮影 · シネマティック / フィルムスチル · キャラクター · 風景 / 自然 · 配信待ち
+シネマティック / フィルムスチル · 配信待ち
 
 **概要:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 

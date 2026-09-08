@@ -29,18 +29,9 @@
 
 ### Phong cách
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still)
+[Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Nhiếp ảnh · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- Nhiếp ảnh · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -68,20 +59,11 @@
 
 ### Nội dung chính
 
-[Nhân vật](#category-character) · [Phong cảnh / Thiên nhiên](#category-landscape-nature)
+
 
 - Chân dung / Ảnh tự chụp · 0
 - Người có ảnh hưởng / Người mẫu · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>Nhân vật · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- Nhân vật · 0
 - Nhóm / Cặp đôi · 0
 - Sản phẩm · 0
 - Thực phẩm / Đồ uống · 0
@@ -89,16 +71,7 @@
 - Động vật / Sinh vật · 0
 - Phương tiện · 0
 - Kiến trúc / Nội thất · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>Phong cảnh / Thiên nhiên · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- Phong cảnh / Thiên nhiên · 0
 - Quang cảnh thành phố / Đường phố · 0
 - Sơ đồ / Biểu đồ · 0
 - Văn bản / Kiểu chữ · 0
@@ -114,7 +87,7 @@
 
 Tác giả：[@arsalannazir07](https://x.com/arsalannazir07) · [Bài gốc](https://x.com/arsalannazir07/status/2096791786807275583)
 
-Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Phong cảnh / Thiên nhiên · Chờ phân phối
+Điện ảnh / Ảnh tĩnh từ phim · Chờ phân phối
 
 **Tóm tắt:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 

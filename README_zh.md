@@ -29,18 +29,9 @@
 
 ### 风格
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still)
+[电影 / 电影剧照](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>摄影 · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- 摄影 · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -68,20 +59,11 @@
 
 ### 主体
 
-[角色](#category-character) · [风景 / 自然](#category-landscape-nature)
+
 
 - 人像 / 自拍 · 0
 - 网红 / 模特 · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>角色 · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- 角色 · 0
 - 团体 / 情侣 · 0
 - 产品 · 0
 - 食品 / 饮料 · 0
@@ -89,16 +71,7 @@
 - 动物 / 生物 · 0
 - 车辆 · 0
 - 建筑 / 室内设计 · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>风景 / 自然 · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- 风景 / 自然 · 0
 - 城市风光 / 街道 · 0
 - 图表 · 0
 - 文本 / 排版 · 0
@@ -114,7 +87,7 @@
 
 作者：[@arsalannazir07](https://x.com/arsalannazir07) · [查看 X 原帖](https://x.com/arsalannazir07/status/2096791786807275583)
 
-摄影 · 电影 / 电影剧照 · 角色 · 风景 / 自然 · 待推流
+电影 / 电影剧照 · 待推流
 
 **Summary (English):** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 

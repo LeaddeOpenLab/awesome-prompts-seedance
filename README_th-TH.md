@@ -29,18 +29,9 @@
 
 ### สไตล์
 
-[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still)
+[ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>การถ่ายภาพ · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- การถ่ายภาพ · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -68,20 +59,11 @@
 
 ### เนื้อหาหลัก
 
-[ตัวละคร](#category-character) · [ทิวทัศน์ / ธรรมชาติ](#category-landscape-nature)
+
 
 - ภาพบุคคล / เซลฟี่ · 0
 - อินฟลูเอนเซอร์ / นางแบบ · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>ตัวละคร · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- ตัวละคร · 0
 - กลุ่ม / คู่ · 0
 - ผลิตภัณฑ์ · 0
 - อาหาร / เครื่องดื่ม · 0
@@ -89,16 +71,7 @@
 - สัตว์ / สิ่งมีชีวิต · 0
 - ยานพาหนะ · 0
 - สถาปัตยกรรม / การตกแต่งภายใน · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>ทิวทัศน์ / ธรรมชาติ · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- ทิวทัศน์ / ธรรมชาติ · 0
 - ทิวทัศน์เมือง / ถนน · 0
 - แผนภาพ / แผนภูมิ · 0
 - ข้อความ / การจัดพิมพ์ · 0
@@ -114,7 +87,7 @@
 
 ผู้เขียน：[@arsalannazir07](https://x.com/arsalannazir07) · [โพสต์ต้นฉบับ](https://x.com/arsalannazir07/status/2096791786807275583)
 
-การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ตัวละคร · ทิวทัศน์ / ธรรมชาติ · รอเผยแพร่
+ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · รอเผยแพร่
 
 **สรุป:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 

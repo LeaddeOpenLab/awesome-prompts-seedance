@@ -29,18 +29,9 @@
 
 ### Tarz
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still)
+[Sinematik / Film Karesi](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Fotoğrafçılık · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- Fotoğrafçılık · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -68,20 +59,11 @@
 
 ### Ana İçerik
 
-[Karakter](#category-character) · [Manzara / Doğa](#category-landscape-nature)
+
 
 - Portre / Selfie · 0
 - Influencer / Model · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>Karakter · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- Karakter · 0
 - Grup / Çift · 0
 - Ürün · 0
 - Yiyecek / İçecek · 0
@@ -89,16 +71,7 @@
 - Hayvan / Yaratık · 0
 - Araç · 0
 - Mimari / İç Mekan · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>Manzara / Doğa · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- Manzara / Doğa · 0
 - Şehir Manzarası / Sokak · 0
 - Diyagram / Grafik · 0
 - Metin / Tipografi · 0
@@ -114,7 +87,7 @@
 
 Yazar：[@arsalannazir07](https://x.com/arsalannazir07) · [Orijinal gönderi](https://x.com/arsalannazir07/status/2096791786807275583)
 
-Fotoğrafçılık · Sinematik / Film Karesi · Karakter · Manzara / Doğa · Dağıtım bekliyor
+Sinematik / Film Karesi · Dağıtım bekliyor
 
 **Özet:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 

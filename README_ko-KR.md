@@ -29,18 +29,9 @@
 
 ### 스타일
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still)
+[시네마틱 / 영화 스틸컷](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>사진술 · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- 사진술 · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -68,20 +59,11 @@
 
 ### 본문
 
-[캐릭터](#category-character) · [풍경 / 자연](#category-landscape-nature)
+
 
 - 인물 사진 / 셀카 · 0
 - 인플루언서 / 모델 · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>캐릭터 · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- 캐릭터 · 0
 - 그룹 / 커플 · 0
 - 제품 · 0
 - 음식 / 음료 · 0
@@ -89,16 +71,7 @@
 - 동물 / 생명체 · 0
 - 차량 · 0
 - 건축 / 인테리어 · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>풍경 / 자연 · 1</summary>
-
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
+- 풍경 / 자연 · 0
 - 도시 풍경 / 거리 · 0
 - 다이어그램 / 차트 · 0
 - 텍스트 / 타이포그래피 · 0
@@ -114,7 +87,7 @@
 
 작성자：[@arsalannazir07](https://x.com/arsalannazir07) · [원본 게시물](https://x.com/arsalannazir07/status/2096791786807275583)
 
-사진술 · 시네마틱 / 영화 스틸컷 · 캐릭터 · 풍경 / 자연 · 배포 대기
+시네마틱 / 영화 스틸컷 · 배포 대기
 
 **요약:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 
