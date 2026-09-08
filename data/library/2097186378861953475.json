@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T11:09:16.830Z",
+  "model": "seedance2.5",
+  "prompt": "Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.\n\nAuthentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.",
+  "promptTranslations": {
+    "en": "Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.\\n\\nAuthentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark."
+  },
+  "summary": "Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.",
+  "summaryEn": "Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097186378861953475",
+    "canonicalUrl": "https://x.com/aiwithaly/status/2097186378861953475",
+    "author": {
+      "username": "aiwithaly",
+      "displayName": "Ali",
+      "profileUrl": "https://x.com/aiwithaly"
+    },
+    "publishedAt": "2026-09-08T04:52:51.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "Sometimes missing the bus leads to the best memories. \n\nCreated on seedance 2.5\n\nPrompt:\nCreate a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.\n\nAuthentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/aiwithaly/status/2097186378861953475",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097186202952851456/img/aRp9SMbVMDQZxwha.jpg",
+        "analysisUrl": "https://x.com/aiwithaly/status/2097186378861953475"
+      }
+    ],
+    "metrics": {
+      "likeCount": 150,
+      "repostCount": 7,
+      "replyCount": 50,
+      "quoteCount": 1,
+      "viewCount": 3457
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/aiwithaly/status/2097186378861953475",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097186202952851456/img/aRp9SMbVMDQZxwha.jpg",
+  "coverPath": "covers/2097186378861953475.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097186202952851456",
+    "x-post:2097186378861953475"
+  ],
+  "analysis": {
+    "summary": "Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.",
+    "summaryEn": "Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.\n\nAuthentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.",
+    "sourceRange": {
+      "start": 89,
+      "end": 996
+    },
+    "translations": {
+      "zh": "创作一段30秒逼真的日本山城旅行vlog，跟随一位年轻日本女性展开：她错过了巴士，花了25分钟探索这座安静的小镇。展示她追赶离去的巴士 → 查看时刻表 → 走过宁静的街道并穿过一座红桥 → 发现一家传统茶馆 → 品尝热腾腾的绿茶 → 欣赏日落余晖的山景 → 听到下一班巴士到达并返回车站。\n\n逼真的2026年旅行镜头，自然的日本风光，真实的步行和人物动作，随风飘动的头发与衣物，流淌的溪流，冒着热气的茶，逼真的巴士物理效果与黄金时刻光影。手持智能手机/电影摄影机风格，带有自然的自动对焦、曝光变化和微妙的动态模糊。仅限英语对白，真实的乡村环境音，无背景音乐。无CGI、动画、VHS质感、字幕、标志或水印。",
+      "en": "Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.\n\nAuthentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "travel vlog video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

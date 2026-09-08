@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T11:10:07.316Z",
+  "model": "seedance2.5",
+  "prompt": "A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.\n\nShe looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.\n\nVoiceover dialogue:\n“Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”\n\nCut to her buying a local pastry from a small street bakery. She smiles and says:\n“This looks absolutely delicious. I had to try it!”\n\nThen she sits at an outdoor café enjoying coffee while watching people pass by:\n“Sometimes the best part of traveling is simply slowing down and enjoying the moment.”\n\nFinal shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:\n“Okay, this view is definitely the highlight of my day. Would you come here?”\n\nNatural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic.",
+  "promptTranslations": {
+    "en": "A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.\n\nShe looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.\n\nVoiceover dialogue:\n“Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”\n\nCut to her buying a local pastry from a small street bakery. She smiles and says:\n“This looks absolutely delicious. I had to try it!”\n\nThen she sits at an outdoor café enjoying coffee while watching people pass by:\n“Sometimes the best part of traveling is simply slowing down and enjoying the moment.”\n\nFinal shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:\n“Okay, this view is definitely the highlight of my day. Would you come here?”\n\nNatural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic."
+  },
+  "summary": "A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.",
+  "summaryEn": "A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097184908250845406",
+    "canonicalUrl": "https://x.com/CaliraVal/status/2097184908250845406",
+    "author": {
+      "username": "CaliraVal",
+      "displayName": "Calira",
+      "profileUrl": "https://x.com/CaliraVal"
+    },
+    "publishedAt": "2026-09-08T04:47:00.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "A little adventure, one frame at a time \nCollecting moments, not just memories. \n\nCreated with Seedance 2.5\n\nPrompt:\n\nA cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.\n\nShe looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.\n\nVoiceover dialogue:\n“Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”\n\nCut to her buying a local pastry from a small street bakery. She smiles and says:\n“This looks absolutely delicious. I had to try it!”\n\nThen she sits at an outdoor café enjoying coffee while watching people pass by:\n“Sometimes the best part of traveling is simply slowing down and enjoying the moment.”\n\nFinal shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:\n“Okay, this view is definitely the highlight of my day. Would you come here?”\n\nNatural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/CaliraVal/status/2097184908250845406",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097184292212482048/img/_fkPTsYjlbmfdpaW.jpg",
+        "analysisUrl": "https://x.com/CaliraVal/status/2097184908250845406"
+      }
+    ],
+    "metrics": {
+      "likeCount": 175,
+      "repostCount": 8,
+      "replyCount": 44,
+      "quoteCount": 0,
+      "viewCount": 5217
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CaliraVal/status/2097184908250845406",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097184292212482048/img/_fkPTsYjlbmfdpaW.jpg",
+  "coverPath": "covers/2097184908250845406.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097184292212482048",
+    "x-post:2097184908250845406"
+  ],
+  "analysis": {
+    "summary": "A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.",
+    "summaryEn": "A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.\n\nShe looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.\n\nVoiceover dialogue:\n“Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”\n\nCut to her buying a local pastry from a small street bakery. She smiles and says:\n“This looks absolutely delicious. I had to try it!”\n\nThen she sits at an outdoor café enjoying coffee while watching people pass by:\n“Sometimes the best part of traveling is simply slowing down and enjoying the moment.”\n\nFinal shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:\n“Okay, this view is definitely the highlight of my day. Would you come here?”\n\nNatural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic.",
+    "sourceRange": {
+      "start": 118,
+      "end": 1911
+    },
+    "translations": {
+      "zh": "一段电影感AI旅行Vlog，镜头展现一位时尚年轻女子在日落时分探索充满活力的欧洲老镇。她留着飘逸的深色长发，身着白色短款上衣、轻便廓形外套和米色短裤。她自信地漫步在狭窄的鹅卵石街道上，周围是色彩鲜艳的古老建筑、温馨的咖啡馆、特色小店和温暖柔和的街灯。\n\n她自然地面向镜头，以亲切且充满活力的神态直接与观众交谈。配以清晰咬字、真实对话语调且富有细腻情感的年轻女性自然英语画外音，并确保台词与口型完美对齐同步。\n\n画外音对白：\n“大家好！我今天正在探索这座美丽的城市，说实话，这里的每条街巷都像电影一样。这儿的氛围简直不可思议，我迫不及待想向大家展示我的所见所闻！”\n\n镜头切换至她在街头小烘焙坊购买当地糕点。她微笑着说道：\n“这个看起来真的太好吃了，我必须尝尝！”\n\n接着她坐在户外咖啡馆喝着咖啡，静静看着来往行人：\n“有时候，旅行最棒的部分就是放慢脚步，享受当下的时光。”\n\n终景：伴着夕阳余晖，她走向能俯瞰整座城市的绝美观景点，转身面对镜头说：\n“好吧，这片美景绝对是我今天最心动的时刻。你想来这里看看吗？”\n\n自然的面部表情、精准的口型同步、逼真的英语女声、细腻的呼吸与停顿、自然的手势动作、逼真的皮肤纹理、发丝微风拂动、真实的手持Vlog镜头感、平滑的运镜追踪、浅景深、逼真的背景人群、电影级黄金时刻光影、柔和镜头光晕、逼真写实、4K分辨率、超高细节、动作流畅自然、高级旅行电影质感美学。",
+      "en": "A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.\n\nShe looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.\n\nVoiceover dialogue:\n“Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”\n\nCut to her buying a local pastry from a small street bakery. She smiles and says:\n“This looks absolutely delicious. I had to try it!”\n\nThen she sits at an outdoor café enjoying coffee while watching people pass by:\n“Sometimes the best part of traveling is simply slowing down and enjoying the moment.”\n\nFinal shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:\n“Okay, this view is definitely the highlight of my day. Would you come here?”\n\nNatural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic AI travel vlog narrative generation with synchronized lip-sync and dialogue",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

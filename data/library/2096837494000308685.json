@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T11:04:45.096Z",
+  "model": "seedance2.5",
+  "prompt": "Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.\n\nBegin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.\n\nEnd with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.\n\nUse continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.\n\n16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.",
+  "promptTranslations": {
+    "en": "Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.\n\nBegin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.\n\nEnd with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.\n\nUse continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.\n\n16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements."
+  },
+  "summary": "A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.",
+  "summaryEn": "A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096837494000308685",
+    "canonicalUrl": "https://x.com/RuzainaMeer/status/2096837494000308685",
+    "author": {
+      "username": "RuzainaMeer",
+      "displayName": "Ruzaina",
+      "profileUrl": "https://x.com/RuzainaMeer"
+    },
+    "publishedAt": "2026-09-07T05:46:30.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "13.8 billion years of evolution, from the birth of the universe to modern humanity.\n\nA cinematic journey through time, created with Seedance 2.5.\n\nFull Prompt:\n\nCreate a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.\n\nBegin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.\n\nEnd with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.\n\nUse continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.\n\n16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/RuzainaMeer/status/2096837494000308685",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096837333505208320/img/TxXHOgYhU1JuT4Wl.jpg",
+        "analysisUrl": "https://x.com/RuzainaMeer/status/2096837494000308685"
+      }
+    ],
+    "metrics": {
+      "likeCount": 209,
+      "repostCount": 10,
+      "replyCount": 67,
+      "quoteCount": 1,
+      "viewCount": 15438
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RuzainaMeer/status/2096837494000308685",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096837333505208320/img/TxXHOgYhU1JuT4Wl.jpg",
+  "coverPath": "covers/2096837494000308685.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2096837333505208320",
+    "x-post:2096837494000308685"
+  ],
+  "analysis": {
+    "summary": "A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.",
+    "summaryEn": "A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.\n\nBegin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.\n\nEnd with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.\n\nUse continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.\n\n16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.",
+    "sourceRange": {
+      "start": 161,
+      "end": 1288
+    },
+    "translations": {
+      "zh": "创作一部 30 秒、超逼真的电影感纪录片，以无缝衔接的长镜头展现宇宙与地球生命的演化历程。\n\n从大爆炸与空间膨胀开始，随后展现物质形成、最初的恒星、星系、超新星，以及太阳系和地球的诞生。过渡到火山遍布的早期地球、逐渐冷却的海洋、原始单细胞生物、复杂的海洋生物、登上陆地的生命、史前森林、恐龙、早期哺乳动物、灵长类、古人类，最后到现代智人。\n\n结尾为一名现代人类望向地平线，镜头迅速从地球拉远至月球、太阳系和银河系，将人类与宇宙相连。\n\n采用连续的电影运镜、穿越时间和尺度的无缝转场、真实的物理规律、科学考究的环境、自然的动态、细致的动物解剖结构、逼真的光影、HDR 以及高端纪录片摄影质感。\n\n16:9，超写实，逼真摄影感，极具情感张力，符合科学事实。无文字、标签、旁白、奇幻、赛博朋克、霓虹或未来主义元素。",
+      "en": "Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.\n\nBegin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.\n\nEnd with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.\n\nUse continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.\n\n16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic documentary video depicting the evolution of the universe and life on Earth.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
