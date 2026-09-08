@@ -2,9 +2,7 @@
 
 [![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-Current-brightgreen)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
 
-> नेविगेशन अनुवादित है; शीर्षक Gemini सारांश से हैं। प्रॉम्प्ट मूल भाषा में रहते हैं।
-
-**1** प्रॉम्प्ट
+**2** प्रॉम्प्ट
 
 <a name="catalog"></a>
 
@@ -36,8 +34,9 @@
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>सिनेमैटिक / फ़िल्म स्टिल · 1</summary>
+<summary>सिनेमैटिक / फ़िल्म स्टिल · 2</summary>
 
+- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
 - [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
 
 </details>
@@ -59,7 +58,7 @@
 
 ### मुख्य सामग्री
 
-
+[लैंडस्केप / प्रकृति](#category-landscape-nature)
 
 - पोर्ट्रेट / सेल्फ़ी · 0
 - इन्फ्लुएंसर / मॉडल · 0
@@ -71,7 +70,16 @@
 - पशु / जीव · 0
 - वाहन · 0
 - आर्किटेक्चर / इंटीरियर · 0
-- लैंडस्केप / प्रकृति · 0
+
+<a name="category-landscape-nature"></a>
+
+<details open>
+<summary>लैंडस्केप / प्रकृति · 1</summary>
+
+- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
+
+</details>
+
 - शहर का नज़ारा / सड़क · 0
 - आरेख / चार्ट · 0
 - टेक्स्ट / टाइपोग्राफी · 0
@@ -80,6 +88,28 @@
 <a name="all-prompts"></a>
 
 ## सभी प्रॉम्प्ट
+
+<a name="prompt-2097185540391211470"></a>
+
+### Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+
+लेखक：[@AIwithMinal](https://x.com/AIwithMinal) · [मूल पोस्ट](https://x.com/AIwithMinal/status/2097185540391211470)
+
+सिनेमैटिक / फ़िल्म स्टिल · लैंडस्केप / प्रकृति · प्रकाशन लंबित
+
+**सारांश:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+
+<img src="covers/2097185540391211470.jpg" alt="封面" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
 
 <a name="prompt-2096791786807275583"></a>
 
