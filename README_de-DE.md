@@ -123,31 +123,20 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 <a name="prompt-2097182529564365135"></a>
 
-### A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+### Ein wettergegerbter Leuchtturmwärter nachts auf einer nebligen Klippe, umgeben von aufsteigenden biolumineszenten Kugeln, mit einer kontinuierlichen filmischen Kamera-Vorwärtsfahrt.
 
 Autor：[@SyntheSarah](https://x.com/SyntheSarah) · [Originalbeitrag](https://x.com/SyntheSarah/status/2097182529564365135)
 
 Fotografie · Kinematisch / Filmstill · Architektur / Interieur · Verteilung ausstehend
 
-**Zusammenfassung:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+**Zusammenfassung:** Ein wettergegerbter Leuchtturmwärter nachts auf einer nebligen Klippe, umgeben von aufsteigenden biolumineszenten Kugeln, mit einer kontinuierlichen filmischen Kamera-Vorwärtsfahrt.
 
 <img src="covers/2097182529564365135.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-A weathered old lighthouse keeper stands on a foggy cliff at night,
-wearing a thick wool coat, holding an old brass lantern. Below him,
-the ocean waves glow with soft bioluminescent blue light with each
-crash against the rocks. As he raises the lantern, dozens of floating
-glowing orbs (like fireflies) rise up from the water and drift past
-him into the misty air, swirling gently around his figure. Volumetric
-moonlight beams cut through the fog. Camera starts wide on the cliff,
-then does a slow cinematic push-in toward the keeper's face as the
-orbs surround him, ending on a close-up with orbs reflecting in his
-eyes. Teal and warm-amber color grade, hyper-realistic textures,
-shallow depth of field, film grain, atmospheric fog, 15 seconds,
-smooth continuous camera motion, no cuts.
+Ein wettergegerbter alter Leuchtturmwärter steht nachts auf einer nebligen Klippe, trägt einen dicken Wollmantel und hält eine alte Messinglaterne. Unter ihm leuchten die Meereswellen bei jedem Aufprall auf die Felsen in einem sanften biolumineszenten blauen Licht. Als er die Laterne hebt, steigen Dutzende schwebender, leuchtender Kugeln (wie Glühwürmchen) aus dem Wasser auf und ziehen an ihm vorbei in die diesige Luft, während sie sanft um seine Gestalt wirbeln. Volumetrische Mondlichtstrahlen durchdringen den Nebel. Die Kamera beginnt mit einer Weitwinkelaufnahme der Klippe und vollzieht dann eine langsame, filmische Vorwärtsfahrt auf das Gesicht des Wärters, während die Kugeln ihn umgeben, und endet in einer Nahaufnahme, in der sich die Kugeln in seinen Augen spiegeln. Teal- und Warm-Bernstein-Farbkorrektur, hyperrealistische Texturen, geringe Schärfentiefe, Filmkorn, atmosphärischer Nebel, 15 Sekunden, sanfte, kontinuierliche Kamerabewegung, keine Schnitte.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

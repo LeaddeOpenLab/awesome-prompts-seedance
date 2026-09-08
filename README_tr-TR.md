@@ -123,31 +123,20 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 <a name="prompt-2097182529564365135"></a>
 
-### A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+### Gece sisli bir uçurumda, etrafı yükselen biyolüminesans kürelerle çevrili, kesintisiz sinematik bir kamera yaklaşma hareketine sahip yıpranmış bir fener bekçisi.
 
 Yazar：[@SyntheSarah](https://x.com/SyntheSarah) · [Orijinal gönderi](https://x.com/SyntheSarah/status/2097182529564365135)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Mimari / İç Mekan · Dağıtım bekliyor
 
-**Özet:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+**Özet:** Gece sisli bir uçurumda, etrafı yükselen biyolüminesans kürelerle çevrili, kesintisiz sinematik bir kamera yaklaşma hareketine sahip yıpranmış bir fener bekçisi.
 
 <img src="covers/2097182529564365135.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-A weathered old lighthouse keeper stands on a foggy cliff at night,
-wearing a thick wool coat, holding an old brass lantern. Below him,
-the ocean waves glow with soft bioluminescent blue light with each
-crash against the rocks. As he raises the lantern, dozens of floating
-glowing orbs (like fireflies) rise up from the water and drift past
-him into the misty air, swirling gently around his figure. Volumetric
-moonlight beams cut through the fog. Camera starts wide on the cliff,
-then does a slow cinematic push-in toward the keeper's face as the
-orbs surround him, ending on a close-up with orbs reflecting in his
-eyes. Teal and warm-amber color grade, hyper-realistic textures,
-shallow depth of field, film grain, atmospheric fog, 15 seconds,
-smooth continuous camera motion, no cuts.
+Yıpranmış yaşlı bir fener bekçisi, geceleyin sisli bir uçurumun üzerinde, kalın yün bir palto giymiş, eski bir pirinç fener tutarak duruyor. Altında, okyanus dalgaları kayalara her çarptığında yumuşak bir biyolüminesans mavi ışıkla parlıyor. Feneri kaldırdığında, onlarca süzülen parlak küre (ateş böcekleri gibi) sudan yükselip sisli havaya doğru yanından geçerek silüetinin etrafında nazikçe dönüyor. Hacimsel ay ışığı hüzmeleri sisi yarıp geçiyor. Kamera uçurumun geniş açısıyla başlıyor, ardından küreler etrafını sararken bekçinin yüzüne doğru yavaş ve sinematik bir yaklaşma hareketi yapıyor ve kürelerin gözlerinde yansıdığı bir yakın planla sona eriyor. Camgöbeği ve sıcak kehribar renk derecelendirmesi, hiper-gerçekçi dokular, sığ alan derinliği, film greni, atmosferik sis, 15 saniye, akıcı ve kesintisiz kamera hareketi, kesme yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

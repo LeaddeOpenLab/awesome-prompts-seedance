@@ -123,31 +123,20 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 <a name="prompt-2097182529564365135"></a>
 
-### A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+### 夜の霧深い崖の上で立ち上る生物発光の光球に包まれる風雪を経た灯台守、連続的なシネマティックプッシュインのカメラワーク。
 
 作者：[@SyntheSarah](https://x.com/SyntheSarah) · [元の投稿](https://x.com/SyntheSarah/status/2097182529564365135)
 
 写真撮影 · シネマティック / フィルムスチル · 建築 / インテリア · 配信待ち
 
-**概要:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+**概要:** 夜の霧深い崖の上で立ち上る生物発光の光球に包まれる風雪を経た灯台守、連続的なシネマティックプッシュインのカメラワーク。
 
 <img src="covers/2097182529564365135.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-A weathered old lighthouse keeper stands on a foggy cliff at night,
-wearing a thick wool coat, holding an old brass lantern. Below him,
-the ocean waves glow with soft bioluminescent blue light with each
-crash against the rocks. As he raises the lantern, dozens of floating
-glowing orbs (like fireflies) rise up from the water and drift past
-him into the misty air, swirling gently around his figure. Volumetric
-moonlight beams cut through the fog. Camera starts wide on the cliff,
-then does a slow cinematic push-in toward the keeper's face as the
-orbs surround him, ending on a close-up with orbs reflecting in his
-eyes. Teal and warm-amber color grade, hyper-realistic textures,
-shallow depth of field, film grain, atmospheric fog, 15 seconds,
-smooth continuous camera motion, no cuts.
+夜、霧に包まれた崖の上に立つ、風雪に耐えた老灯台守。厚手のウールコートを着て、古びた真鍮のランタンを手に持っている。足下では、岩に打ち寄せる波が柔らかな青い生物発光を放っている。彼がランタンを掲げると、（蛍のような）無数の浮遊する光の球が水面から立ち上り、霧が立ち込める空気の中を彼をかすめて漂い、その体の周りを優しく旋回する。立体的な月光の光線が霧を切り裂く。カメラは崖のワイドショットから始まり、光球が彼を取り囲むにつれて灯台守の顔へとゆっくりとシネマティックにズームイン（プッシュイン）し、彼の瞳に光球が反射するクローズアップで終わる。ティールと温かみのあるアンバーのカラーグレーディング、超リアルな質感、浅い被写界深度、フィルムグレイン、大気感のある霧、15秒、スムーズで連続的なカメラモーション、ノーカット。
 ```
 
 [↑ カテゴリに戻る](#catalog)

@@ -123,31 +123,20 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 <a name="prompt-2097182529564365135"></a>
 
-### A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+### 밤의 안개 낀 절벽에서 떠오르는 생체발광 구체들에 둘러싸인 노 등대지기와 연속적인 영화적 푸시인 카메라 움직임.
 
 작성자：[@SyntheSarah](https://x.com/SyntheSarah) · [원본 게시물](https://x.com/SyntheSarah/status/2097182529564365135)
 
 사진술 · 시네마틱 / 영화 스틸컷 · 건축 / 인테리어 · 배포 대기
 
-**요약:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+**요약:** 밤의 안개 낀 절벽에서 떠오르는 생체발광 구체들에 둘러싸인 노 등대지기와 연속적인 영화적 푸시인 카메라 움직임.
 
 <img src="covers/2097182529564365135.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-A weathered old lighthouse keeper stands on a foggy cliff at night,
-wearing a thick wool coat, holding an old brass lantern. Below him,
-the ocean waves glow with soft bioluminescent blue light with each
-crash against the rocks. As he raises the lantern, dozens of floating
-glowing orbs (like fireflies) rise up from the water and drift past
-him into the misty air, swirling gently around his figure. Volumetric
-moonlight beams cut through the fog. Camera starts wide on the cliff,
-then does a slow cinematic push-in toward the keeper's face as the
-orbs surround him, ending on a close-up with orbs reflecting in his
-eyes. Teal and warm-amber color grade, hyper-realistic textures,
-shallow depth of field, film grain, atmospheric fog, 15 seconds,
-smooth continuous camera motion, no cuts.
+밤의 안개 낀 절벽 위에 선 비바람을 겪은 노인 등대지기. 두꺼운 울 코트를 입고 낡은 황동 랜턴을 들고 있다. 그의 발아래에서는 파도가 바위에 부딪칠 때마다 은은한 생체발광 푸른 빛을 발한다. 그가 랜턴을 들어 올리자, (반딧불이 같은) 수십 개의 떠다니는 빛나는 구체들이 물에서 솟아올라 그를 지나 안개 낀 공기 속으로 떠다니며 그의 주위를 부드럽게 맴돈다. 볼류메트릭 달빛 광선이 안개를 뚫고 들어온다. 카메라는 절벽의 와이드 샷으로 시작해, 구체들이 등대지기를 감싸는 동안 그의 얼굴을 향해 느리고 영화적인 푸시인을 진행하며, 그의 눈 속에 구체들이 비치는 클로즈업으로 끝난다. 틸과 따뜻한 호박색 컬러 그레이딩, 극사실적 질감, 얕은 피사계 심도, 필름 그레인, 분위기 있는 안개, 15초, 매끄러운 연속 카메라 움직임, 무편집.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

@@ -123,31 +123,20 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 <a name="prompt-2097182529564365135"></a>
 
-### A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+### Un gardien de phare buriné sur une falaise brumeuse la nuit, entouré d'orbes bioluminescents s'élevant dans les airs, avec un travelling avant cinématographique continu.
 
 Auteur：[@SyntheSarah](https://x.com/SyntheSarah) · [Publication originale](https://x.com/SyntheSarah/status/2097182529564365135)
 
 Photographie · Image cinématographique / Photogramme de film · Architecture / Intérieur · Diffusion en attente
 
-**Résumé:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+**Résumé:** Un gardien de phare buriné sur une falaise brumeuse la nuit, entouré d'orbes bioluminescents s'élevant dans les airs, avec un travelling avant cinématographique continu.
 
 <img src="covers/2097182529564365135.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-A weathered old lighthouse keeper stands on a foggy cliff at night,
-wearing a thick wool coat, holding an old brass lantern. Below him,
-the ocean waves glow with soft bioluminescent blue light with each
-crash against the rocks. As he raises the lantern, dozens of floating
-glowing orbs (like fireflies) rise up from the water and drift past
-him into the misty air, swirling gently around his figure. Volumetric
-moonlight beams cut through the fog. Camera starts wide on the cliff,
-then does a slow cinematic push-in toward the keeper's face as the
-orbs surround him, ending on a close-up with orbs reflecting in his
-eyes. Teal and warm-amber color grade, hyper-realistic textures,
-shallow depth of field, film grain, atmospheric fog, 15 seconds,
-smooth continuous camera motion, no cuts.
+Un vieux gardien de phare buriné se tient sur une falaise brumeuse la nuit, vêtu d'un épais manteau de laine, tenant une vieille lanterne en laiton. En contrebas, les vagues de l'océan brillent d'une douce lumière bleue bioluminescente à chaque fracas contre les rochers. Lorsqu'il lève la lanterne, des dizaines d'orbes lumineux flottants (comme des lucioles) s'élèvent de l'eau et dérivent devant lui dans l'air brumeux, tourbillonnant doucement autour de sa silhouette. Des rayons volumétriques de clair de lune percent la brume. La caméra commence par un plan large sur la falaise, puis effectue un lent travelling avant cinématographique vers le visage du gardien alors que les orbes l'entourent, se terminant par un gros plan avec les orbes se reflétant dans ses yeux. Étalonnage des couleurs sarcelle et ambre chaud, textures hyperréalistes, faible profondeur de champ, grain argentique, brume atmosphérique, 15 secondes, mouvement de caméra continu et fluide, sans coupure.
 ```
 
 [↑ Retour aux catégories](#catalog)

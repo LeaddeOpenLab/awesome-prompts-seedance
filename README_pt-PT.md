@@ -123,31 +123,20 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 <a name="prompt-2097182529564365135"></a>
 
-### A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+### Um faroleiro curtido pelo tempo numa falésia nevoenta à noite rodeado por orbes bioluminescentes ascendentes, com um movimento contínuo de aproximação cinematográfica de câmara.
 
 Autor：[@SyntheSarah](https://x.com/SyntheSarah) · [Publicação original](https://x.com/SyntheSarah/status/2097182529564365135)
 
 Fotografia · Cena de Cinema / Fotograma · Arquitetura / Interiores · Distribuição pendente
 
-**Resumo:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+**Resumo:** Um faroleiro curtido pelo tempo numa falésia nevoenta à noite rodeado por orbes bioluminescentes ascendentes, com um movimento contínuo de aproximação cinematográfica de câmara.
 
 <img src="covers/2097182529564365135.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-A weathered old lighthouse keeper stands on a foggy cliff at night,
-wearing a thick wool coat, holding an old brass lantern. Below him,
-the ocean waves glow with soft bioluminescent blue light with each
-crash against the rocks. As he raises the lantern, dozens of floating
-glowing orbs (like fireflies) rise up from the water and drift past
-him into the misty air, swirling gently around his figure. Volumetric
-moonlight beams cut through the fog. Camera starts wide on the cliff,
-then does a slow cinematic push-in toward the keeper's face as the
-orbs surround him, ending on a close-up with orbs reflecting in his
-eyes. Teal and warm-amber color grade, hyper-realistic textures,
-shallow depth of field, film grain, atmospheric fog, 15 seconds,
-smooth continuous camera motion, no cuts.
+Um velho faroleiro curtido pelo tempo encontra-se sobre uma falésia nevoenta à noite, vestindo um casaco espesso de lã e segurando uma velha lanterna de latão. Abaixo dele, as ondas do oceano brilham com uma suave luz azul bioluminescente a cada embate contra as rochas. Ao levantar a lanterna, dezenas de orbes brilhantes flutuantes (como pirilampos) erguem-se da água e passam por ele em direção ao ar brumoso, volteando suavemente em redor da sua figura. Feixes volumétricos de luar cortam o nevoeiro. A câmara começa num plano aberto da falésia, efetuando depois um lento avanço cinematográfico (push-in) em direção ao rosto do faroleiro enquanto os orbes o rodeiam, terminando num grande plano com os orbes refletidos nos seus olhos. Gradação de cor em cerceta e âmbar quente, texturas hiper-realistas, profundidade de campo reduzida, grão de película, nevoeiro atmosférico, 15 segundos, movimento de câmara suave e contínuo, sem cortes.
 ```
 
 [↑ Voltar às categorias](#catalog)

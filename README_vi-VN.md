@@ -123,31 +123,20 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 <a name="prompt-2097182529564365135"></a>
 
-### A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+### Một người gác hải đăng dãi dầu sương gió trên vách đá mù sương ban đêm được bao quanh bởi các quả cầu phát quang sinh học bay lên, với chuyển động máy quay đẩy vào liên tục mang phong cách điện ảnh.
 
 Tác giả：[@SyntheSarah](https://x.com/SyntheSarah) · [Bài gốc](https://x.com/SyntheSarah/status/2097182529564365135)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Kiến trúc / Nội thất · Chờ phân phối
 
-**Tóm tắt:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+**Tóm tắt:** Một người gác hải đăng dãi dầu sương gió trên vách đá mù sương ban đêm được bao quanh bởi các quả cầu phát quang sinh học bay lên, với chuyển động máy quay đẩy vào liên tục mang phong cách điện ảnh.
 
 <img src="covers/2097182529564365135.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-A weathered old lighthouse keeper stands on a foggy cliff at night,
-wearing a thick wool coat, holding an old brass lantern. Below him,
-the ocean waves glow with soft bioluminescent blue light with each
-crash against the rocks. As he raises the lantern, dozens of floating
-glowing orbs (like fireflies) rise up from the water and drift past
-him into the misty air, swirling gently around his figure. Volumetric
-moonlight beams cut through the fog. Camera starts wide on the cliff,
-then does a slow cinematic push-in toward the keeper's face as the
-orbs surround him, ending on a close-up with orbs reflecting in his
-eyes. Teal and warm-amber color grade, hyper-realistic textures,
-shallow depth of field, film grain, atmospheric fog, 15 seconds,
-smooth continuous camera motion, no cuts.
+Một người gác hải đăng già dãi dầu sương gió đứng trên vách đá mù sương lúc nửa đêm, mặc chiếc áo khoác len dày, cầm một chiếc đèn lồng đồng thau cổ. Bên dưới ông, những con sóng biển phát ra ánh sáng sinh học màu xanh lam dịu nhẹ mỗi khi đập vào ghềnh đá. Khi ông nâng chiếc đèn lồng lên, hàng chục quả cầu phát sáng trôi nổi (như đom đóm) từ mặt nước bay lên và lướt qua ông vào không khí mờ sương, nhẹ nhàng xoay quanh thân hình ông. Những luồng ánh trăng thể tích xuyên qua màn sương mù. Máy quay bắt đầu bằng góc rộng trên vách đá, sau đó từ từ đẩy lại gần khuôn mặt người gác đèn theo phong cách điện ảnh khi các quả cầu vây quanh ông, kết thúc bằng một cảnh cận cảnh với những quả cầu phản chiếu trong mắt ông. Chỉnh màu tông xanh mòng két và hổ phách ấm áp, kết cấu siêu thực, độ sâu trường ảnh nông, hạt phim, sương mù đậm chất khí quyển, 15 giây, chuyển động máy quay mượt mà liên tục, không cắt cảnh.
 ```
 
 [↑ Về danh mục](#catalog)

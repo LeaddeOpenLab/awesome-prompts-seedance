@@ -123,31 +123,20 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 <a name="prompt-2097182529564365135"></a>
 
-### A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+### คนเฝ้าประภาคารชราบนหน้าผาที่เต็มไปด้วยหมอกยามค่ำคืนรายล้อมไปด้วยลูกทรงกลมเรืองแสงชีวภาพที่ลอยขึ้นมา พร้อมการเคลื่อนกล้องแบบพุชอินอย่างต่อเนื่องตามสไตล์ภาพยนตร์
 
 ผู้เขียน：[@SyntheSarah](https://x.com/SyntheSarah) · [โพสต์ต้นฉบับ](https://x.com/SyntheSarah/status/2097182529564365135)
 
 การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · สถาปัตยกรรม / การตกแต่งภายใน · รอเผยแพร่
 
-**สรุป:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+**สรุป:** คนเฝ้าประภาคารชราบนหน้าผาที่เต็มไปด้วยหมอกยามค่ำคืนรายล้อมไปด้วยลูกทรงกลมเรืองแสงชีวภาพที่ลอยขึ้นมา พร้อมการเคลื่อนกล้องแบบพุชอินอย่างต่อเนื่องตามสไตล์ภาพยนตร์
 
 <img src="covers/2097182529564365135.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-A weathered old lighthouse keeper stands on a foggy cliff at night,
-wearing a thick wool coat, holding an old brass lantern. Below him,
-the ocean waves glow with soft bioluminescent blue light with each
-crash against the rocks. As he raises the lantern, dozens of floating
-glowing orbs (like fireflies) rise up from the water and drift past
-him into the misty air, swirling gently around his figure. Volumetric
-moonlight beams cut through the fog. Camera starts wide on the cliff,
-then does a slow cinematic push-in toward the keeper's face as the
-orbs surround him, ending on a close-up with orbs reflecting in his
-eyes. Teal and warm-amber color grade, hyper-realistic textures,
-shallow depth of field, film grain, atmospheric fog, 15 seconds,
-smooth continuous camera motion, no cuts.
+คนเฝ้าประภาคารชราผู้ผ่านโลกมาอย่างโชกโชนยืนอยู่บนหน้าผาที่ปกคลุมด้วยสายหมอกในยามค่ำคืน เขาสวมเสื้อโค้ตผ้าขนสัตว์หนาและถือตะเกียงทองเหลืองโบราณ เบื้องล่างของเขา คลื่นทะเลส่องประกายแสงสีฟ้าเรืองแสงทางชีวภาพอย่างนุ่มนวลทุกครั้งที่ซัดกระทบโขดหิน เมื่อเขายกตะเกียงขึ้น ลูกทรงกลมเรืองแสงลอยได้หลายสิบลูก (คล้ายหิ่งห้อย) ลอยขึ้นมาจากผืนน้ำและลอยผ่านเขาเข้าสู่ม่านหมอก วนเวียนอย่างแผ่วเบารอบกายเขา ลำแสงจันทร์แบบวอลูเมตริกส่องทะลุสายหมอก กล้องเริ่มต้นด้วยมุมกว้างบนหน้าผา จากนั้นค่อยๆ เคลื่อนกล้องเข้าไปใกล้ใบหน้าของคนเฝ้าประภาคารอย่างช้าๆ ในสไตล์ภาพยนตร์ขณะที่ลูกทรงกลมโอบล้อมตัวเขา และจบลงด้วยภาพโคลสอัปที่สะท้อนลูกทรงกลมในดวงตาของเขา โทนสีทีลและสีเหลืองอำพันอบอุ่น พื้นผิวสมจริงระดับไฮเปอร์เรียลลิสติก ระยะชัดตื้น เกรนฟิล์ม หมอกสร้างบรรยากาศ 15 วินาที การเคลื่อนไหวของกล้องต่อเนื่องราบรื่น ไม่มีคัต
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

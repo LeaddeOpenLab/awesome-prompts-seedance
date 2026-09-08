@@ -123,31 +123,20 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 <a name="prompt-2097182529564365135"></a>
 
-### A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+### Un guardiano del faro segnato dal tempo su una scogliera nebbiosa di notte circondato da sfere bioluminescenti che si sollevano, con un movimento di carrellata in avanti cinematografico continuo.
 
 Autore：[@SyntheSarah](https://x.com/SyntheSarah) · [Post originale](https://x.com/SyntheSarah/status/2097182529564365135)
 
 Fotografia · Fermo immagine cinematografico / Still fotografico · Architettura / Interni · Distribuzione in attesa
 
-**Riepilogo:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+**Riepilogo:** Un guardiano del faro segnato dal tempo su una scogliera nebbiosa di notte circondato da sfere bioluminescenti che si sollevano, con un movimento di carrellata in avanti cinematografico continuo.
 
 <img src="covers/2097182529564365135.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-A weathered old lighthouse keeper stands on a foggy cliff at night,
-wearing a thick wool coat, holding an old brass lantern. Below him,
-the ocean waves glow with soft bioluminescent blue light with each
-crash against the rocks. As he raises the lantern, dozens of floating
-glowing orbs (like fireflies) rise up from the water and drift past
-him into the misty air, swirling gently around his figure. Volumetric
-moonlight beams cut through the fog. Camera starts wide on the cliff,
-then does a slow cinematic push-in toward the keeper's face as the
-orbs surround him, ending on a close-up with orbs reflecting in his
-eyes. Teal and warm-amber color grade, hyper-realistic textures,
-shallow depth of field, film grain, atmospheric fog, 15 seconds,
-smooth continuous camera motion, no cuts.
+Un anziano guardiano del faro segnato dalle intemperie si trova su una scogliera nebbiosa di notte, indossa un pesante cappotto di lana e tiene in mano una vecchia lanterna d'ottone. Sotto di lui, le onde dell'oceano brillano di una tenue luce blu bioluminescente a ogni schianto contro gli scogli. Mentre solleva la lanterna, dozzine di sfere luminose fluttuanti (simili a lucciole) si sollevano dall'acqua e gli passano accanto nell'aria nebbiosa, vorticando dolcemente attorno alla sua figura. Fasci volumetrici di luce lunare fendono la nebbia. La telecamera inizia con un campo lungo sulla scogliera, poi effettua una lenta carrellata cinematografica in avanti verso il volto del guardiano mentre le sfere lo circondano, terminando con un primo piano con le sfere riflesse nei suoi occhi. Color grading verde acqua e ambra caldo, texture iperrealistiche, profondità di campo ridotta, grana della pellicola, nebbia atmosferica, 15 secondi, movimento fluido e continuo della telecamera, senza stacchi.
 ```
 
 [↑ Torna alle categorie](#catalog)

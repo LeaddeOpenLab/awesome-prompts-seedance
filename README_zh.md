@@ -125,31 +125,20 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 <a name="prompt-2097182529564365135"></a>
 
-### A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+### 夜晚多雾悬崖上饱经风霜的灯塔看守人被升起的生物荧光光球环绕，伴随平滑连续的电影感推进镜头。
 
 作者：[@SyntheSarah](https://x.com/SyntheSarah) · [查看 X 原帖](https://x.com/SyntheSarah/status/2097182529564365135)
 
 摄影 · 电影 / 电影剧照 · 建筑 / 室内设计 · 待推流
 
-**Summary (English):** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+**概括:** 夜晚多雾悬崖上饱经风霜的灯塔看守人被升起的生物荧光光球环绕，伴随平滑连续的电影感推进镜头。
 
 <img src="covers/2097182529564365135.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-A weathered old lighthouse keeper stands on a foggy cliff at night,
-wearing a thick wool coat, holding an old brass lantern. Below him,
-the ocean waves glow with soft bioluminescent blue light with each
-crash against the rocks. As he raises the lantern, dozens of floating
-glowing orbs (like fireflies) rise up from the water and drift past
-him into the misty air, swirling gently around his figure. Volumetric
-moonlight beams cut through the fog. Camera starts wide on the cliff,
-then does a slow cinematic push-in toward the keeper's face as the
-orbs surround him, ending on a close-up with orbs reflecting in his
-eyes. Teal and warm-amber color grade, hyper-realistic textures,
-shallow depth of field, film grain, atmospheric fog, 15 seconds,
-smooth continuous camera motion, no cuts.
+夜晚，一位饱经风霜的老灯塔看守人站在多雾的悬崖上，身穿厚羊毛大衣，手提一盏复古黄铜马灯。在他脚下，海浪每次拍打岩石，都会绽放出柔和的生物发光蓝色光芒。当他举起灯笼时，数十个漂浮的发光光球（如萤火虫般）从水中升起，飘过他身旁进入迷雾中，在他身周轻轻盘旋。体积感强烈的月光光束穿透浓雾。镜头最初以悬崖全景开始，随后以慢速电影感推向看守人的脸庞，光球将他环绕，最后定格在特写镜头，眼中倒映着闪烁的光球。青色与暖琥珀色调，超逼真质感，浅景深，胶片颗粒感，氛围感浓雾，15秒，平滑连续运镜，无剪辑。
 ```
 
 [↑ 返回分类目录](#catalog)

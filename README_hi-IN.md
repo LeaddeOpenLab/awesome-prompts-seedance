@@ -123,31 +123,20 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 <a name="prompt-2097182529564365135"></a>
 
-### A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+### रात में कोहरे वाली चट्टान पर उभरते जैव-संदीप्त गोलों से घिरा एक अनुभवी लाइटहाउस कीपर, निरंतर सिनेमाई पुश-इन कैमरा गति के साथ।
 
 लेखक：[@SyntheSarah](https://x.com/SyntheSarah) · [मूल पोस्ट](https://x.com/SyntheSarah/status/2097182529564365135)
 
 फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · आर्किटेक्चर / इंटीरियर · प्रकाशन लंबित
 
-**सारांश:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+**सारांश:** रात में कोहरे वाली चट्टान पर उभरते जैव-संदीप्त गोलों से घिरा एक अनुभवी लाइटहाउस कीपर, निरंतर सिनेमाई पुश-इन कैमरा गति के साथ।
 
 <img src="covers/2097182529564365135.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-A weathered old lighthouse keeper stands on a foggy cliff at night,
-wearing a thick wool coat, holding an old brass lantern. Below him,
-the ocean waves glow with soft bioluminescent blue light with each
-crash against the rocks. As he raises the lantern, dozens of floating
-glowing orbs (like fireflies) rise up from the water and drift past
-him into the misty air, swirling gently around his figure. Volumetric
-moonlight beams cut through the fog. Camera starts wide on the cliff,
-then does a slow cinematic push-in toward the keeper's face as the
-orbs surround him, ending on a close-up with orbs reflecting in his
-eyes. Teal and warm-amber color grade, hyper-realistic textures,
-shallow depth of field, film grain, atmospheric fog, 15 seconds,
-smooth continuous camera motion, no cuts.
+रात में एक कोहरे वाली चट्टान पर खड़ा एक अनुभवी बूढ़ा लाइटहाउस कीपर, जिसने ऊन का मोटा कोट पहना हुआ है और हाथ में पुराना पीतल का लालटेन थामे हुए है। उसके नीचे, चट्टानों से टकराने पर समुद्र की लहरें हर बार कोमल जैव-संदीप्त नीली रोशनी से चमक उठती हैं। जैसे ही वह लालटेन उठाता है, दर्जनों तैरते हुए चमकते गोले (जुगनुओं की तरह) पानी से ऊपर उठते हैं और उसके पास से होते हुए धुंधली हवा में बहते हैं, और धीरे से उसके चारों ओर चक्कर लगाते हैं। वॉल्यूमेट्रिक चांदनी की किरणें कोहरे को चीरती हैं। कैमरा चट्टान पर एक विस्तृत शॉट से शुरू होता है, फिर कीपर के चेहरे की ओर धीरे-धीरे सिनेमाई अंदाज़ में आगे बढ़ता है (पुश-इन) जैसे ही गोले उसे घेर लेते हैं, और अंत में एक क्लोज़-अप पर समाप्त होता है जिसमें गोले उसकी आँखों में प्रतिबिंबित होते हैं। टील और गर्म-अंबर कलर ग्रेड, अत्यधिक यथार्थवादी बनावट, उथली फील्ड गहराई, फिल्म ग्रेन, वायुमंडलीय कोहरा, 15 सेकंड, सहज निरंतर कैमरा गति, कोई कट नहीं।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

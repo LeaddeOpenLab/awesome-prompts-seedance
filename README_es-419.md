@@ -123,31 +123,20 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 <a name="prompt-2097182529564365135"></a>
 
-### A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+### Un curtido farero en un acantilado brumoso por la noche rodeado de orbes bioluminiscentes que se elevan, con un movimiento continuo de cámara de acercamiento cinematográfico.
 
 Autor：[@SyntheSarah](https://x.com/SyntheSarah) · [Publicación original](https://x.com/SyntheSarah/status/2097182529564365135)
 
 Fotografía · Cine / Fotograma · Arquitectura / Interiores · Pendiente de distribución
 
-**Resumen:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
+**Resumen:** Un curtido farero en un acantilado brumoso por la noche rodeado de orbes bioluminiscentes que se elevan, con un movimiento continuo de cámara de acercamiento cinematográfico.
 
 <img src="covers/2097182529564365135.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-A weathered old lighthouse keeper stands on a foggy cliff at night,
-wearing a thick wool coat, holding an old brass lantern. Below him,
-the ocean waves glow with soft bioluminescent blue light with each
-crash against the rocks. As he raises the lantern, dozens of floating
-glowing orbs (like fireflies) rise up from the water and drift past
-him into the misty air, swirling gently around his figure. Volumetric
-moonlight beams cut through the fog. Camera starts wide on the cliff,
-then does a slow cinematic push-in toward the keeper's face as the
-orbs surround him, ending on a close-up with orbs reflecting in his
-eyes. Teal and warm-amber color grade, hyper-realistic textures,
-shallow depth of field, film grain, atmospheric fog, 15 seconds,
-smooth continuous camera motion, no cuts.
+Un curtido y viejo farero está de pie sobre un acantilado brumoso de noche, vistiendo un grueso abrigo de lana y sosteniendo un viejo farol de latón. Debajo de él, las olas del océano brillan con una suave luz azul bioluminiscente con cada choque contra las rocas. Al levantar el farol, decenas de orbes brillantes flotantes (como luciérnagas) se elevan del agua y pasan flotando junto a él hacia el aire neblinoso, arremolinándose suavemente alrededor de su figura. Haces volumétricos de luz lunar atraviesan la niebla. La cámara comienza en un plano general del acantilado, luego hace un lento acercamiento cinematográfico hacia el rostro del farero mientras los orbes lo rodean, terminando en un primer plano con los orbes reflejándose en sus ojos. Gradación de color en verde azulado y ámbar cálido, texturas hiperrealistas, profundidad de campo reducida, grano de película, niebla atmosférica, 15 segundos, movimiento de cámara continuo y fluido, sin cortes.
 ```
 
 [↑ Volver a categorías](#catalog)
