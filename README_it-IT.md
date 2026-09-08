@@ -1,8 +1,20 @@
-# seedance · Raccolta di prompt
+# Seedance · Raccolta di prompt · Leadde.ai
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-Current-brightgreen)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-brightgreen)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**9** Prompt
+> **Prompt di qualità selezionati ogni giorno**
+
+Scopri prompt completi per immagini, video e creazioni 3D con l’IA. Esplora gli stili, le versioni multilingue e le fonti degli autori originali.
+
+[Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
+
+## Scopri Leadde.ai
+
+Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video aziendali con l’IA per formazione, inserimento del personale e marketing.
+
+Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
+
+**9** Prompt · Ultima aggiunta: **2026-09-08**
 
 <a name="catalog"></a>
 
@@ -26,7 +38,7 @@ Fotografia · Personaggio · Paesaggio / Natura · Distribuzione in attesa
 
 **Riepilogo:** Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
 
-<img src="covers/2097186378861953475.jpg" alt="封面" width="480" />
+<img src="covers/2097186378861953475.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -50,7 +62,7 @@ Fumetto / Storyboard · Fotografia · Personaggio · Distribuzione in attesa
 
 **Riepilogo:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
-<img src="covers/2097097582262825180.jpg" alt="封面" width="480" />
+<img src="covers/2097097582262825180.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -81,7 +93,7 @@ Fermo immagine cinematografico / Still fotografico · Personaggio · Paesaggio /
 
 **Riepilogo:** A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
 
-<img src="covers/2097184908250845406.jpg" alt="封面" width="480" />
+<img src="covers/2097184908250845406.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -119,7 +131,7 @@ Fotografia · Fermo immagine cinematografico / Still fotografico · Architettura
 
 **Riepilogo:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
 
-<img src="covers/2097182529564365135.jpg" alt="封面" width="480" />
+<img src="covers/2097182529564365135.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -152,7 +164,7 @@ Fotografia · Fermo immagine cinematografico / Still fotografico · Rendering 3D
 
 **Riepilogo:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
-<img src="covers/2097225058439840092.jpg" alt="封面" width="480" />
+<img src="covers/2097225058439840092.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -188,7 +200,7 @@ Fotografia · Fermo immagine cinematografico / Still fotografico · Distribuzion
 
 **Riepilogo:** A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
 
-<img src="covers/2096837494000308685.jpg" alt="封面" width="480" />
+<img src="covers/2096837494000308685.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -218,7 +230,7 @@ Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Dist
 
 **Riepilogo:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
 
-<img src="covers/2097185540391211470.jpg" alt="封面" width="480" />
+<img src="covers/2097185540391211470.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -240,7 +252,7 @@ Fermo immagine cinematografico / Still fotografico · Distribuzione in attesa
 
 **Riepilogo:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 
-<img src="covers/2096791786807275583.jpg" alt="封面" width="480" />
+<img src="covers/2096791786807275583.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -276,7 +288,7 @@ Fotografia · Fermo immagine cinematografico / Still fotografico · Retro / Vint
 
 **Riepilogo:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
 
-<img src="covers/2096840505355370629.jpg" alt="封面" width="480" />
+<img src="covers/2096840505355370629.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -310,4 +322,6 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 
 ---
 
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+[Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
+
+Riferimento di navigazione: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

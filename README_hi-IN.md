@@ -1,8 +1,20 @@
-# seedance · प्रॉम्प्ट संग्रह
+# Seedance · प्रॉम्प्ट संग्रह · Leadde.ai
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-Current-brightgreen)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-brightgreen)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**9** प्रॉम्प्ट
+> **हर दिन चुने गए उच्च गुणवत्ता वाले प्रॉम्प्ट**
+
+AI चित्र, वीडियो और 3D निर्माण के लिए संपूर्ण प्रॉम्प्ट खोजें। शैली के अनुसार देखें, अलग-अलग भाषाएँ चुनें और मूल रचनाकार तथा स्रोत जानें।
+
+[Leadde.ai देखें →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
+
+## Leadde.ai का परिचय
+
+Leadde.ai टीमों को दस्तावेज़ों, स्लाइडों और पाठ से प्रशिक्षण, नए कर्मचारियों के परिचय और विपणन के लिए AI व्यावसायिक वीडियो बनाने में मदद करता है।
+
+दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
+
+**9** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-08**
 
 <a name="catalog"></a>
 
@@ -26,9 +38,9 @@
 
 **सारांश:** Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
 
-<img src="covers/2097186378861953475.jpg" alt="封面" width="480" />
+<img src="covers/2097186378861953475.jpg" alt="चित्र 1" width="480" />
 
-**Prompt**
+**प्रॉम्प्ट**
 
 ```text
 Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.
@@ -50,9 +62,9 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 **सारांश:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
-<img src="covers/2097097582262825180.jpg" alt="封面" width="480" />
+<img src="covers/2097097582262825180.jpg" alt="चित्र 1" width="480" />
 
-**Prompt**
+**प्रॉम्प्ट**
 
 ```text
 ｜15秒｜男主第一人称｜海妖风暧昧喜剧 【剧情锁定】 成年女主角#1发现男主准备击球，故意走进他的视野，主动侧坐上台球桌，屈起一条腿，让预定#2服装原有剪裁自然呈现大腿线条，以海妖风眼神和姿态干扰瞄准。男主停杆、抬头，她以为自己的小心思奏效；男主却不耐烦地倒转球杆，用橡胶粗端隔着衣服轻顶她臀侧一下，催她下桌。她被识破后调皮又无奈地让开，男主立即继续击球，母球撞中目标球，目标球落袋。 必须完整呈现“她先站着—主动上桌—故意展示腿部线条并观察他的反应”。她明知会干扰打球，仍主动试探；不能开场便让她已经坐好，也不能演成偶然挡路。 【人物与服装】 画面中唯一可见的人物是成年女主角#1
@@ -81,9 +93,9 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 **सारांश:** A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
 
-<img src="covers/2097184908250845406.jpg" alt="封面" width="480" />
+<img src="covers/2097184908250845406.jpg" alt="चित्र 1" width="480" />
 
-**Prompt**
+**प्रॉम्प्ट**
 
 ```text
 A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.
@@ -119,9 +131,9 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 **सारांश:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
 
-<img src="covers/2097182529564365135.jpg" alt="封面" width="480" />
+<img src="covers/2097182529564365135.jpg" alt="चित्र 1" width="480" />
 
-**Prompt**
+**प्रॉम्प्ट**
 
 ```text
 A weathered old lighthouse keeper stands on a foggy cliff at night,
@@ -152,9 +164,9 @@ smooth continuous camera motion, no cuts.
 
 **सारांश:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
-<img src="covers/2097225058439840092.jpg" alt="封面" width="480" />
+<img src="covers/2097225058439840092.jpg" alt="चित्र 1" width="480" />
 
-**Prompt**
+**प्रॉम्प्ट**
 
 ```text
 Create a 30-second vertical 9:16 cinematic comparison video demonstrating how a simple Blender 3D blockout can be transformed into a highly detailed cinematic AI-generated scene.
@@ -188,9 +200,9 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 **सारांश:** A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
 
-<img src="covers/2096837494000308685.jpg" alt="封面" width="480" />
+<img src="covers/2096837494000308685.jpg" alt="चित्र 1" width="480" />
 
-**Prompt**
+**प्रॉम्प्ट**
 
 ```text
 Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.
@@ -218,9 +230,9 @@ Use continuous cinematic camera movement, seamless transitions through time and 
 
 **सारांश:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
 
-<img src="covers/2097185540391211470.jpg" alt="封面" width="480" />
+<img src="covers/2097185540391211470.jpg" alt="चित्र 1" width="480" />
 
-**Prompt**
+**प्रॉम्प्ट**
 
 ```text
 Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
@@ -240,9 +252,9 @@ Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding t
 
 **सारांश:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 
-<img src="covers/2096791786807275583.jpg" alt="封面" width="480" />
+<img src="covers/2096791786807275583.jpg" alt="चित्र 1" width="480" />
 
-**Prompt**
+**प्रॉम्प्ट**
 
 ```text
 Create a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.
@@ -276,9 +288,9 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 **सारांश:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
 
-<img src="covers/2096840505355370629.jpg" alt="封面" width="480" />
+<img src="covers/2096840505355370629.jpg" alt="चित्र 1" width="480" />
 
-**Prompt**
+**प्रॉम्प्ट**
 
 ```text
 A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Bali during a dreamy summer getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style.
@@ -310,4 +322,6 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 
 ---
 
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+[Leadde.ai देखें →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
+
+नेविगेशन संदर्भ: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
