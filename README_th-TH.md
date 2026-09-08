@@ -85,36 +85,40 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 <a name="prompt-2097184908250845406"></a>
 
-### A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+### วิดีโอบล็อกท่องเที่ยว AI สไตล์ภาพยนตร์ของหญิงสาวมีสไตล์ที่ออกสำรวจเมืองเก่าในยุโรปช่วงอาทิตย์อัสดง พร้อมบทสนทนาอย่างละเอียด คำแนะนำลิปซิงค์ และสุนทรียภาพภาพยนตร์ท่องเที่ยวระดับพรีเมียม
 
 ผู้เขียน：[@CaliraVal](https://x.com/CaliraVal) · [โพสต์ต้นฉบับ](https://x.com/CaliraVal/status/2097184908250845406)
 
 ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ตัวละคร · ทิวทัศน์ / ธรรมชาติ · รอเผยแพร่
 
-**สรุป:** A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+**สรุป:** วิดีโอบล็อกท่องเที่ยว AI สไตล์ภาพยนตร์ของหญิงสาวมีสไตล์ที่ออกสำรวจเมืองเก่าในยุโรปช่วงอาทิตย์อัสดง พร้อมบทสนทนาอย่างละเอียด คำแนะนำลิปซิงค์ และสุนทรียภาพภาพยนตร์ท่องเที่ยวระดับพรีเมียม
 
 <img src="covers/2097184908250845406.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.
+วิดีโอบล็อกท่องเที่ยว AI สไตล์ภาพยนตร์ของหญิงสาวที่มีสไตล์กำลังสำรวจย่านเมืองเก่าที่มีชีวิตชีวาในยุโรปช่วงพระอาทิตย์ตกดิน เธอไว้ผมยาวสีเข้มพลิ้วไหวและสวมเสื้อครอปท็อปสีขาว แจ็กเก็ตโอเวอร์ไซส์น้ำหนักเบา และกางเกงขาสั้นสีเบจ เธอเดินอย่างมั่นใจผ่านถนนปูหินแคบๆ ที่รายล้อมไปด้วยอาคารเก่าแก่สีสันสดใส คาเฟ่อบอุ่น ร้านค้าท้องถิ่น และโคมไฟถนนที่เปล่งแสงอบอุ่น
 
-She looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.
+เธอมองกล้องอย่างเป็นธรรมชาติและพูดคุยกับผู้ชมโดยตรงด้วยบุคลิกที่เป็นกันเองและเปี่ยมด้วยพลัง ใส่เสียงพากย์ภาษาอังกฤษของผู้หญิงวัยรุ่นที่เป็นธรรมชาติ ด้วยการออกเสียงที่ชัดเจน โทนเสียงสนทนาที่สมจริง และอารมณ์ที่ละเอียดอ่อน ปรับเสียงพูดของเธอให้ซิงค์กับการขยับริมฝีปากอย่างสมบูรณ์แบบ
 
-Voiceover dialogue:
+บทพูดเสียงพากย์:
 “Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”
+(สวัสดีทุกคน! วันนี้ฉันกำลังมาสำรวจเมืองที่สวยงามแห่งนี้ และบอกตามตรงว่า ทุกถนนรู้สึกเหมือนฉากในหนังเลย บรรยากาศที่นี่สุดยอดมาก และฉันแทบรอไม่ไหวที่จะให้ทุกคนได้เห็นสิ่งที่ฉันเจอแล้ว!)
 
-Cut to her buying a local pastry from a small street bakery. She smiles and says:
+ตัดภาพไปยังตอนที่เธอกำลังซื้อขนมอบท้องถิ่นจากร้านเบเกอรีริมถนนเล็กๆ เธอยิ้มแล้วพูดว่า:
 “This looks absolutely delicious. I had to try it!”
+(อันนี้น่ากินมากจริงๆ ฉันต้องลองให้ได้เลย!)
 
-Then she sits at an outdoor café enjoying coffee while watching people pass by:
+จากนั้นเธอนั่งที่คาเฟ่กลางแจ้ง จิบกาแฟพลางมองดูผู้คนที่เดินผ่านไปมา:
 “Sometimes the best part of traveling is simply slowing down and enjoying the moment.”
+(บางครั้งสิ่งที่ดีที่สุดของการเดินทางก็แค่การชะลอจังหวะลงและเพลิดเพลินกับช่วงเวลานั้น)
 
-Final shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:
+ช็อตสุดท้าย: เธอเดินไปยังจุดชมวิวที่สวยงามมองเห็นตัวเมืองในขณะที่พระอาทิตย์กำลังตกดิน เธอหันมามองกล้องแล้วพูดว่า:
 “Okay, this view is definitely the highlight of my day. Would you come here?”
+(โอเค วิวนี้คือไฮไลต์ที่สุดของวันสำหรับฉันแน่นอน คุณอยากจะมาที่นี่ไหม?)
 
-Natural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic.
+การแสดงสีหน้าอย่างเป็นธรรมชาติ ลิปซิงค์ที่แม่นยำ เสียงพากย์ภาษาอังกฤษของผู้หญิงที่สมจริง จังหวะการหายใจและการหยุดพูดที่แนบเนียน ท่าทางมือที่เป็นธรรมชาติ พื้นผิวผิวหนังที่สมจริง การเคลื่อนไหวของเส้นผมที่ละเอียดอ่อน ให้ความรู้สึกของกล้องวล็อกถือมือจริง การติดตามของกล้องที่ลื่นไหล ระยะชัดตื้น ผู้คนในฉากหลังที่สมจริง แสงช่วงเวลาโกลเดนอาวร์สไตล์ภาพยนตร์ เลนส์แฟลร์ที่นุ่มนวล สมจริงดุจภาพถ่าย ระดับ 4K รายละเอียดสูง การเคลื่อนไหวที่เป็นธรรมชาติ สุนทรียภาพฟิล์มท่องเที่ยวระดับพรีเมียม
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

@@ -85,36 +85,40 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 <a name="prompt-2097184908250845406"></a>
 
-### A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+### 자세한 대사, 립싱크 지침, 영화 같은 여행 필름 미학을 갖춘 일몰 무렵 활기찬 유럽 구시가지를 탐험하는 스타일리시한 여성의 시네마틱 AI 여행 브이로그.
 
 작성자：[@CaliraVal](https://x.com/CaliraVal) · [원본 게시물](https://x.com/CaliraVal/status/2097184908250845406)
 
 시네마틱 / 영화 스틸컷 · 캐릭터 · 풍경 / 자연 · 배포 대기
 
-**요약:** A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+**요약:** 자세한 대사, 립싱크 지침, 영화 같은 여행 필름 미학을 갖춘 일몰 무렵 활기찬 유럽 구시가지를 탐험하는 스타일리시한 여성의 시네마틱 AI 여행 브이로그.
 
 <img src="covers/2097184908250845406.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.
+일몰 무렵 활기찬 유럽의 구시가지를 탐험하는 스타일리시한 젊은 여성의 시네마틱 AI 여행 브이로그. 그녀는 흐르는 듯한 긴 흑발을 지녔으며 화이트 크롭 탑, 가벼운 오버사이즈 재킷, 베이지색 반바지를 착용하고 있습니다. 다채로운 색감의 역사적인 건물들, 아늑한 카페, 현지 상점들과 따뜻하게 빛나는 가로등으로 둘러싸인 좁은 자갈길을 그녀는 자신감 넘치게 걸어갑니다.
 
-She looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.
+그녀는 카메라를 자연스럽게 바라보며 친근하고 에너지 넘치는 성격으로 시청자들에게 직접 말을 건넵니다. 명확한 발음, 사실적인 대화 톤, 섬세한 감정을 담은 자연스러운 젊은 여성의 영어 보이스오버를 추가하세요. 그녀의 음성과 입술 움직임을 완벽하게 동기화하세요.
 
-Voiceover dialogue:
+보이스오버 대사:
 “Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”
+(여러분 안녕하세요! 오늘 이 아름다운 도시를 둘러보고 있는데, 솔직히 모든 거리가 영화 같아요. 이곳 분위기는 정말 환상적이고, 제가 발견한 것들을 빨리 보여드리고 싶어요!)
 
-Cut to her buying a local pastry from a small street bakery. She smiles and says:
+작은 길거리 베이커리에서 현지 페이스트리를 구매하는 장면으로 전환됩니다. 그녀는 미소 지으며 말합니다:
 “This looks absolutely delicious. I had to try it!”
+(이거 정말 맛있어 보여요. 안 먹어볼 수가 없었어요!)
 
-Then she sits at an outdoor café enjoying coffee while watching people pass by:
+그런 다음 그녀는 야외 카페에 앉아 지나가는 사람들을 바라보며 커피를 즐깁니다:
 “Sometimes the best part of traveling is simply slowing down and enjoying the moment.”
+(때로는 여행에서 가장 좋은 순간이 그저 속도를 늦추고 지금 이 순간을 즐기는 것이죠.)
 
-Final shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:
+마지막 장면: 해가 질 무렵 도시가 내려다보이는 아름다운 전망대로 그녀가 걸어갑니다. 그녀는 카메라를 돌아보며 말합니다:
 “Okay, this view is definitely the highlight of my day. Would you come here?”
+(좋아요, 이 전망은 분명 오늘 하루의 최고의 하이라이트예요. 여러분도 여기 오고 싶으신가요?)
 
-Natural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic.
+자연스러운 얼굴 표정, 정확한 립싱크, 사실적인 여성 영어 음성, 섬세한 호흡과 멈춤, 자연스러운 손짓 제스처, 사실적인 피부 질감, 섬세한 머릿결의 움직임, 실감 나는 핸드헬드 브이로그 카메라, 부드러운 카메라 트래킹, 얕은 심도, 사실적인 배경 행인들, 영화 같은 골든아워 조명, 부드러운 렌즈 플레어, 포토리얼리스틱, 4K, 매우 정교한 디테일, 자연스러운 움직임, 프리미엄 여행 영화 미학.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

@@ -85,36 +85,40 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Chờ ph
 
 <a name="prompt-2097184908250845406"></a>
 
-### A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+### Một vlog du lịch AI đậm chất điện ảnh về cô gái trẻ sành điệu khám phá phố cổ châu Âu lúc hoàng hôn với lời thoại chi tiết, hướng dẫn khớp khẩu hình và tính thẩm mỹ phim du lịch điện ảnh.
 
 Tác giả：[@CaliraVal](https://x.com/CaliraVal) · [Bài gốc](https://x.com/CaliraVal/status/2097184908250845406)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Phong cảnh / Thiên nhiên · Chờ phân phối
 
-**Tóm tắt:** A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+**Tóm tắt:** Một vlog du lịch AI đậm chất điện ảnh về cô gái trẻ sành điệu khám phá phố cổ châu Âu lúc hoàng hôn với lời thoại chi tiết, hướng dẫn khớp khẩu hình và tính thẩm mỹ phim du lịch điện ảnh.
 
 <img src="covers/2097184908250845406.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.
+Một vlog du lịch AI mang phong cách điện ảnh về một cô gái trẻ trung, sành điệu đang khám phá khu phố cổ châu Âu tràn đầy sức sống lúc hoàng hôn. Cô có mái tóc đen dài bồng bềnh, mặc áo crop-top màu trắng, áo khoác oversized mỏng nhẹ và quần short màu be. Cô tự tin sải bước qua những con phố lát đá cuội hẹp, bao quanh bởi những tòa nhà cổ kính đầy màu sắc, những quán cà phê ấm cúng, cửa hiệu địa phương và ánh đèn đường vàng ấm áp.
 
-She looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.
+Cô nhìn tự nhiên vào máy quay và trò chuyện trực tiếp với khán giả bằng phong thái thân thiện, tràn đầy năng lượng. Thêm giọng lồng tiếng tiếng Anh nữ trẻ tự nhiên với phát âm rõ ràng, tông giọng đối thoại chân thực và cảm xúc tinh tế. Đảm bảo lời nói của cô khớp hoàn hảo với chuyển động của môi.
 
-Voiceover dialogue:
+Lời thoại lồng tiếng:
 “Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”
+(Chào mọi người! Hôm nay mình đang khám phá thành phố tuyệt đẹp này, và thật lòng mà nói, mỗi góc phố đều đẹp như một thước phim. Bầu không khí ở đây thật tuyệt vời, và mình rất nóng lòng được cho các bạn thấy những gì mình tìm được!)
 
-Cut to her buying a local pastry from a small street bakery. She smiles and says:
+Chuyển cảnh đến cảnh cô mua một chiếc bánh ngọt địa phương từ tiệm bánh nhỏ ven đường. Cô mỉm cười và nói:
 “This looks absolutely delicious. I had to try it!”
+(Món này trông ngon tuyệt vời luôn. Mình nhất định phải thử mới được!)
 
-Then she sits at an outdoor café enjoying coffee while watching people pass by:
+Sau đó, cô ngồi tại một quán cà phê ngoài trời thưởng thức cà phê trong khi ngắm nhìn dòng người qua lại:
 “Sometimes the best part of traveling is simply slowing down and enjoying the moment.”
+(Đôi khi điều tuyệt vời nhất của những chuyến đi chỉ đơn giản là sống chậm lại và tận hưởng từng khoảnh khắc.)
 
-Final shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:
+Cảnh quay cuối cùng: cô bước về phía một điểm ngắm cảnh tuyệt đẹp nhìn ra toàn thành phố khi hoàng hôn buông xuống. Cô quay lại nhìn vào máy quay và nói:
 “Okay, this view is definitely the highlight of my day. Would you come here?”
+(Được rồi, khung cảnh này chắc chắn là điểm nhấn tuyệt vời nhất trong ngày của mình. Bạn có muốn đến đây không?)
 
-Natural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic.
+Biểu cảm khuôn mặt tự nhiên, khớp khẩu hình chính xác, giọng nữ tiếng Anh chân thực, nhịp thở và khoảng ngắt tinh tế, cử chỉ tay tự nhiên, kết cấu làn da chân thực, chuyển động tóc mềm mại, cảm giác máy quay vlog cầm tay chân thực, chuyển động camera mượt mà, độ sâu trường ảnh nông, người đi lại phía sau chân thực, ánh sáng giờ vàng điện ảnh, hiệu ứng lóe sáng ống kính dịu nhẹ, chân thực như ảnh chụp, 4K, độ chi tiết cao, chuyển động tự nhiên, thẩm mỹ phim du lịch cao cấp.
 ```
 
 [↑ Về danh mục](#catalog)

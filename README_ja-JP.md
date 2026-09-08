@@ -85,36 +85,36 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 <a name="prompt-2097184908250845406"></a>
 
-### A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+### 夕暮れの活気あるヨーロッパの旧市街を探索するスタイリッシュな若い女性のシネマティックAIトラベルVlog。詳細な会話セリフ、リップシンク指示、映画風トラベルフィルムの美学を備えています。
 
 作者：[@CaliraVal](https://x.com/CaliraVal) · [元の投稿](https://x.com/CaliraVal/status/2097184908250845406)
 
 シネマティック / フィルムスチル · キャラクター · 風景 / 自然 · 配信待ち
 
-**概要:** A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+**概要:** 夕暮れの活気あるヨーロッパの旧市街を探索するスタイリッシュな若い女性のシネマティックAIトラベルVlog。詳細な会話セリフ、リップシンク指示、映画風トラベルフィルムの美学を備えています。
 
 <img src="covers/2097184908250845406.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.
+夕暮れ時に活気あるヨーロッパの旧市街を散策する、スタイリッシュな若い女性を描いた映画のようなAIトラベルVlog。彼女は流れるような長い黒髪で、白いクロップトップ、軽やかなオーバーサイズジャケット、ベージュのショートパンツを身に着けています。色鮮やかな歴史的建造物、居心地の良いカフェ、地元のショップ、温かく輝く街灯に囲まれた狭い石畳の道を、彼女は自信を持って歩きます。
 
-She looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.
+彼女は自然にカメラを見つめ、親しみやすくエネルギッシュな人柄で視聴者に直接話しかけます。明瞭な発音、リアルな会話のトーン、繊細な感情を込めた、自然な若い女性の英語のボイスオーバーを追加してください。彼女の音声と唇の動きを完璧に同期させてください。
 
-Voiceover dialogue:
-“Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”
+ボイスオーバーのセリフ：
+「Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!」（みなさん、こんにちは！今日はこの美しい街を巡っているのですが、正直どの通りもまるで映画のワンシーンのようです。ここの雰囲気は最高で、見つけたものを皆さんに早くお見せしたいです！）
 
-Cut to her buying a local pastry from a small street bakery. She smiles and says:
-“This looks absolutely delicious. I had to try it!”
+小さな街のベーカリーで地元のペストリーを買うシーンへとカットが切り替わります。彼女は微笑みながら言います：
+「This looks absolutely delicious. I had to try it!」（これ、すごく美味しそう。食べずにはいられませんでした！）
 
-Then she sits at an outdoor café enjoying coffee while watching people pass by:
-“Sometimes the best part of traveling is simply slowing down and enjoying the moment.”
+その後、彼女はオープンテラスのカフェに座り、行き交う人々を眺めながらコーヒーを楽しみます：
+「Sometimes the best part of traveling is simply slowing down and enjoying the moment.」（旅の最高の醍醐味は、ただ立ち止まってその瞬間を楽しむことだったりします。）
 
-Final shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:
-“Okay, this view is definitely the highlight of my day. Would you come here?”
+ラストショット：日が沈む中、街を一望できる美しい展望ポイントに向かって彼女は歩いていきます。カメラを振り返りながら彼女は言います：
+「Okay, this view is definitely the highlight of my day. Would you come here?」（はい、この景色は間違いなく今日の最高のハイライトです。みなさんもここに来てみたいですか？）
 
-Natural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic.
+自然な表情、正確なリップシンク、リアルな女性の英語音声、微細な呼吸や間合い、自然な手のジェスチャー、リアルな肌の質感、細やかな髪の揺れ、臨場感あふれる手持ちVlogカメラ、滑らかなカメラスムーズトラッキング、浅い被写界深度、リアルな背景の通行人、映画のようなゴールデンアワーの光線、柔らかなレンズフレア、フォトリアリスティック、4K、極めて高精細、自然なモーション、プレミアムなトラベルフィルムの美学。
 ```
 
 [↑ カテゴリに戻る](#catalog)

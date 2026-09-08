@@ -85,36 +85,20 @@ Cómic / Guion gráfico · Fotografía · Personaje · Pendiente de distribució
 
 <a name="prompt-2097184908250845406"></a>
 
-### A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+### Un videoblog de viajes cinematográfico por IA de una mujer joven y estilosa explorando un vibrante casco antiguo europeo al atardecer con diálogos detallados, instrucciones de sincronización labial y estética de película de viajes prémium.
 
 Autor：[@CaliraVal](https://x.com/CaliraVal) · [Publicación original](https://x.com/CaliraVal/status/2097184908250845406)
 
 Cine / Fotograma · Personaje · Paisaje / Naturaleza · Pendiente de distribución
 
-**Resumen:** A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+**Resumen:** Un videoblog de viajes cinematográfico por IA de una mujer joven y estilosa explorando un vibrante casco antiguo europeo al atardecer con diálogos detallados, instrucciones de sincronización labial y estética de película de viajes prémium.
 
 <img src="covers/2097184908250845406.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.
-
-She looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.
-
-Voiceover dialogue:
-“Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”
-
-Cut to her buying a local pastry from a small street bakery. She smiles and says:
-“This looks absolutely delicious. I had to try it!”
-
-Then she sits at an outdoor café enjoying coffee while watching people pass by:
-“Sometimes the best part of traveling is simply slowing down and enjoying the moment.”
-
-Final shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:
-“Okay, this view is definitely the highlight of my day. Would you come here?”
-
-Natural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic.
+Un videoblog de viajes cinematográfico generado por IA de una mujer joven y estilosa explorando un vibrante casco antiguo europeo al atardecer. Tiene el cabello largo, oscuro y ondulante, y viste un top corto blanco, una chaqueta ligera oversize y shorts beige. Camina con seguridad por estrechas calles empedradas rodeadas de coloridos edificios históricos, cafés acogedores, tiendas locales y farolas de luz cálida. Mira con naturalidad a la cámara y habla directamente a la audiencia con una personalidad amigable y energética. Añade una voz en off femenina joven en inglés natural con pronunciación clara, tono conversacional realista y emoción sutil. Haz que su discurso esté perfectamente sincronizado con los movimientos de sus labios. Diálogo de la voz en off: “Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!” Corte a ella comprando un pastel local en una pequeña panadería de barrio. Sonríe y dice: “This looks absolutely delicious. I had to try it!” Luego se sienta en un café al aire libre disfrutando de un café mientras ve a la gente pasar: “Sometimes the best part of traveling is simply slowing down and enjoying the moment.” Toma final: camina hacia un hermoso mirador con vista a la ciudad mientras se pone el sol. Se gira hacia la cámara y dice: “Okay, this view is definitely the highlight of my day. Would you come here?” Expresiones faciales naturales, sincronización labial precisa, voz femenina en inglés realista, respiraciones y pausas sutiles, gestos naturales con las manos, textura de piel realista, movimiento sutil del cabello, auténtica cámara de vlog en mano, paneo de cámara fluido, profundidad de campo reducida, personas de fondo realistas, iluminación cinematográfica de hora dorada, destello suave del lente, fotorrealista, 4K, altamente detallado, movimiento natural, estética de película de viajes prémium.
 ```
 
 [↑ Volver a categorías](#catalog)

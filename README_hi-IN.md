@@ -85,36 +85,40 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 <a name="prompt-2097184908250845406"></a>
 
-### A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+### सूर्यास्त के समय एक जीवंत यूरोपीय पुराने शहर की खोज करती स्टाइलिश युवती का सिनेमाई AI ट्रैवल व्लॉग, जिसमें विस्तृत संवाद, लिप-सिंक निर्देश और सिनेमाई यात्रा-फिल्म सौंदर्यशास्त्र शामिल हैं।
 
 लेखक：[@CaliraVal](https://x.com/CaliraVal) · [मूल पोस्ट](https://x.com/CaliraVal/status/2097184908250845406)
 
 सिनेमैटिक / फ़िल्म स्टिल · कैरेक्टर · लैंडस्केप / प्रकृति · प्रकाशन लंबित
 
-**सारांश:** A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+**सारांश:** सूर्यास्त के समय एक जीवंत यूरोपीय पुराने शहर की खोज करती स्टाइलिश युवती का सिनेमाई AI ट्रैवल व्लॉग, जिसमें विस्तृत संवाद, लिप-सिंक निर्देश और सिनेमाई यात्रा-फिल्म सौंदर्यशास्त्र शामिल हैं।
 
 <img src="covers/2097184908250845406.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.
+सूर्यास्त के समय एक जीवंत यूरोपीय पुराने शहर की खोज करती एक स्टाइलिश युवती का सिनेमाई AI ट्रैवल व्लॉग। उसके लंबे, लहराते काले बाल हैं और उसने सफेद क्रॉप्ड टॉप, हल्का ओवरसाइज़्ड जैकेट और बेज शॉर्ट्स पहने हुए हैं। वह रंग-बिरंगी ऐतिहासिक इमारतों, आरामदायक कैफ़े, स्थानीय दुकानों और गर्म चमकती स्ट्रीट लाइटों से घिरी संकरी पथरीली (कोबलस्टोन) सड़कों पर आत्मविश्वास से चलती है।
 
-She looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.
+वह स्वाभाविक रूप से कैमरे की ओर देखती है और एक दोस्ताना, ऊर्जावान व्यक्तित्व के साथ सीधे दर्शकों से बात करती है। स्पष्ट उच्चारण, यथार्थवादी संवादात्मक लहजे और सूक्ष्म भावनाओं के साथ एक स्वाभाविक युवा महिला अंग्रेज़ी वॉयसओवर जोड़ें। उसके बोलने को उसके होंठों की गति के साथ पूरी तरह से सिंक (synchronized) करें।
 
-Voiceover dialogue:
+वॉयसओवर संवाद:
 “Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”
+(अरे दोस्तों! आज मैं इस खूबसूरत शहर की सैर कर रही हूँ, और सच कहूँ तो, हर सड़क किसी फ़िल्म जैसी लगती है। यहाँ का माहौल वाकई शानदार है, और मैं आपको यह सब दिखाने के लिए बेताब हूँ!)
 
-Cut to her buying a local pastry from a small street bakery. She smiles and says:
+कट: वह एक छोटी सी स्ट्रीट बेकरी से एक स्थानीय पेस्ट्री खरीदती है। वह मुस्कुराती है और कहती है:
 “This looks absolutely delicious. I had to try it!”
+(यह दिखने में बेहद स्वादिष्ट लग रही है। मुझे इसे चखना ही था!)
 
-Then she sits at an outdoor café enjoying coffee while watching people pass by:
+फिर वह एक आउटडोर कैफ़े में बैठकर कॉफ़ी का आनंद लेती है और आते-जाते लोगों को देखती है:
 “Sometimes the best part of traveling is simply slowing down and enjoying the moment.”
+(कभी-कभी यात्रा का सबसे खूबसूरत हिस्सा बस अपनी गति धीमी करना और उस पल का आनंद लेना होता है।)
 
-Final shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:
+अंतिम शॉट: सूर्यास्त के समय शहर का मनोरम दृश्य दिखाने वाले एक खूबसूरत व्यू-पॉइंट की ओर वह आगे बढ़ती है। वह कैमरे की ओर मुड़ती है और कहती है:
 “Okay, this view is definitely the highlight of my day. Would you come here?”
+(ठीक है, यह नज़ारा निश्चित रूप से आज के दिन का सबसे बेहतरीन पल है। क्या आप यहाँ आना चाहेंगे?)
 
-Natural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic.
+स्वाभाविक चेहरे के भाव, सटीक लिप-सिंक, यथार्थवादी महिला अंग्रेज़ी आवाज़, सूक्ष्म सांसें और ठहराव, प्राकृतिक हाथ के इशारे, यथार्थवादी त्वचा बनावट, सूक्ष्म बालों का हिलना, प्रामाणिक हैंडहेल्ड व्लॉग कैमरा, सुचारू कैमरा ट्रैकिंग, उथली डेप्थ ऑफ फील्ड, यथार्थवादी बैकग्राउंड लोग, सिनेमाई गोल्डन-ऑवर लाइटिंग, सॉफ्ट लेंस फ्लेयर, फ़ोटोरियलिस्टिक, 4K, अत्यधिक विस्तृत, प्राकृतिक गति, प्रीमियम ट्रैवल-फ़िल्म सौंदर्यशास्त्र।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

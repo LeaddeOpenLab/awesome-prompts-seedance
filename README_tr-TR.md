@@ -85,36 +85,20 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2097184908250845406"></a>
 
-### A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+### Gün batımında hareketli bir Avrupa tarihi kent merkezini keşfeden şık bir genç kadının, ayrıntılı diyaloglar, dudak senkronizasyonu talimatları ve sinematik seyahat filmi estetiği içeren sinematik yapay zekâ seyahat vlogu.
 
 Yazar：[@CaliraVal](https://x.com/CaliraVal) · [Orijinal gönderi](https://x.com/CaliraVal/status/2097184908250845406)
 
 Sinematik / Film Karesi · Karakter · Manzara / Doğa · Dağıtım bekliyor
 
-**Özet:** A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+**Özet:** Gün batımında hareketli bir Avrupa tarihi kent merkezini keşfeden şık bir genç kadının, ayrıntılı diyaloglar, dudak senkronizasyonu talimatları ve sinematik seyahat filmi estetiği içeren sinematik yapay zekâ seyahat vlogu.
 
 <img src="covers/2097184908250845406.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.
-
-She looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.
-
-Voiceover dialogue:
-“Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”
-
-Cut to her buying a local pastry from a small street bakery. She smiles and says:
-“This looks absolutely delicious. I had to try it!”
-
-Then she sits at an outdoor café enjoying coffee while watching people pass by:
-“Sometimes the best part of traveling is simply slowing down and enjoying the moment.”
-
-Final shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:
-“Okay, this view is definitely the highlight of my day. Would you come here?”
-
-Natural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic.
+Gün batımında hareketli bir Avrupa tarihi kent merkezini keşfeden şık bir genç kadının sinematik yapay zekâ seyahat vlogu. Uzun ve dalgalı koyu renk saçları var; beyaz bir crop top, hafif dökümlü bir ceket ve bej şort giyiyor. Renkli tarihi binalar, samimi kafeler, yerel dükkânlar ve sıcak parıltılı sokak lambalarıyla çevrili dar arnavut kaldırımlı sokaklarda özgüvenle yürüyor. Kameraya doğal bir şekilde bakıyor ve samimi, enerjik bir tavırla doğrudan izleyicilere hitap ediyor. Net telaffuza, gerçekçi sohbet tonuna ve ince duyguya sahip doğal, genç kadın İngilizce dış ses ekleyin. Konuşmasını dudak hareketleriyle kusursuz şekilde senkronize edin. Dış ses diyaloğu: “Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!” Küçük bir sokak fırınından yerel bir hamur işi aldığı sahneye geçiş. Gülümseyip şöyle diyor: “This looks absolutely delicious. I had to try it!” Ardından açık hava kafesinde oturup gelip geçen insanları izlerken kahvesini yudumluyor: “Sometimes the best part of traveling is simply slowing down and enjoying the moment.” Son çekim: Güneş batarken şehre tepeden bakan harika bir seyir noktasına doğru yürüyor. Kameraya dönüp şöyle diyor: “Okay, this view is definitely the highlight of my day. Would you come here?” Doğal yüz ifadeleri, doğru dudak senkronizasyonu, gerçekçi kadın İngilizce ses, hafif nefes alışlar ve duraklamalar, doğal el jestleri, gerçekçi cilt dokusu, ince saç hareketleri, özgün el kamerası vlog çekimi, akıcı kamera takibi, sığ alan derinliği, gerçekçi arka plan insanları, sinematik altın saat ışıklandırması, yumuşak lens parlaması, fotogerçekçi, 4K, son derece ayrıntılı, doğal hareket, seçkin seyahat filmi estetiği.
 ```
 
 [↑ Kategorilere dön](#catalog)

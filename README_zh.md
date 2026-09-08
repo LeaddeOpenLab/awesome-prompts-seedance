@@ -87,36 +87,36 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 <a name="prompt-2097184908250845406"></a>
 
-### A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+### 一段电影级AI旅行Vlog：日落时分时尚年轻女子探索充满活力的欧洲古镇，包含详尽的对白、口型同步指令与电影级旅行影片美学。
 
 作者：[@CaliraVal](https://x.com/CaliraVal) · [查看 X 原帖](https://x.com/CaliraVal/status/2097184908250845406)
 
 电影 / 电影剧照 · 角色 · 风景 / 自然 · 待推流
 
-**Summary (English):** A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
+**概括:** 一段电影级AI旅行Vlog：日落时分时尚年轻女子探索充满活力的欧洲古镇，包含详尽的对白、口型同步指令与电影级旅行影片美学。
 
 <img src="covers/2097184908250845406.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.
+一段电影级AI旅行Vlog：日落时分，一位时尚的年轻女子正在探索一座充满活力的欧洲古镇。她留着飘逸的深色长发，身穿白色短款上衣、轻便的宽松夹克和米色短裤。她自信地穿行在狭窄的鹅卵石街道上，周围环绕着色彩缤纷的古老建筑、温馨的咖啡馆、特色小店和散发温暖光芒的街灯。
 
-She looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.
+她自然地看着镜头，以亲切且充满活力的个性直接对观众说话。配以自然清脆的年轻女性英文旁白，发音清晰，具有逼真的对话语调和微妙的情感。让她的语音与嘴唇动作完美同步。
 
-Voiceover dialogue:
-“Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”
+旁白对白：
+“Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”（大家好！今天我正在探索这座美丽的城市，说实话，这里的每条街道都像电影里的场景一样。这里的氛围太棒了，我迫不及待想向大家展示我的发现了！）
 
-Cut to her buying a local pastry from a small street bakery. She smiles and says:
-“This looks absolutely delicious. I had to try it!”
+镜头切至她在街边的一家小烘焙店购买当地糕点。她微笑着说：
+“This looks absolutely delicious. I had to try it!”（这看起来太好吃了。我一定要尝尝！）
 
-Then she sits at an outdoor café enjoying coffee while watching people pass by:
-“Sometimes the best part of traveling is simply slowing down and enjoying the moment.”
+接着，她坐在露天咖啡馆一边喝着咖啡，一边注视着过往的行人：
+“Sometimes the best part of traveling is simply slowing down and enjoying the moment.”（有时旅行最美好的部分，就是慢下来享受当下。）
 
-Final shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:
-“Okay, this view is definitely the highlight of my day. Would you come here?”
+最后一个镜头：日落时分，她走向俯瞰整座城市的绝美观景点。她转向镜头说道：
+“Okay, this view is definitely the highlight of my day. Would you come here?”（好吧，这里的景色绝对是我今天最难忘的高光时刻。你会想来这里吗？）
 
-Natural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic.
+自然生动的面部表情，精准的对唇同步，逼真的女性英文语音，微妙的呼吸与停顿，自然的手势动作，真实的皮肤质感，细腻的发丝飘动，真实的防抖手持Vlog镜头感，流畅的镜头跟拍，浅景深，逼真的背景人群，电影级黄金时刻光影，柔和镜头光晕，逼真写实，4K，高细节，自然动态，高级旅行大片美学风格。
 ```
 
 [↑ 返回分类目录](#catalog)
