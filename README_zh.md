@@ -1,41 +1,41 @@
-# seedance · Prompt Library
+# seedance · Prompt 资料库
 
-[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Current-brightgreen)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
 
-> Navigation is translated; entry titles use Gemini summaries. Prompts retain their original wording.
+> 导航随语言切换，条目标题沿用 Gemini 概括，Prompt 保留原文。
 
-**1** Prompts
+**1** 条内容
 
 <a name="catalog"></a>
 
-## Browse by Category
+## 分类目录
 
-[All Prompts](#all-prompts)
+[所有提示词](#all-prompts)
 
-### Use Cases
+### 使用场景
 
 
 
-- Profile / Avatar · 0
-- Social Media Post · 0
-- Infographic / Edu Visual · 0
-- YouTube Thumbnail · 0
-- Comic / Storyboard · 0
-- Product Marketing · 0
-- E-commerce Main Image · 0
-- Game Asset · 0
-- Poster / Flyer · 0
-- App / Web Design · 0
+- 个人资料 / 头像 · 0
+- 社交媒体帖子 · 0
+- 信息图 / 教育视觉图 · 0
+- YouTube 缩略图 · 0
+- 漫画 / 故事板 · 0
+- 产品营销 · 0
+- 电商主图 · 0
+- 游戏素材 · 0
+- 海报 / 传单 · 0
+- App / 网页设计 · 0
 
-### Style
+### 风格
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still)
 
 
 <a name="category-photography"></a>
 
 <details open>
-<summary>Photography · 1</summary>
+<summary>摄影 · 1</summary>
 
 - [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
 
@@ -45,78 +45,78 @@
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>Cinematic / Film Still · 1</summary>
+<summary>电影 / 电影剧照 · 1</summary>
 
 - [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
 
 </details>
 
-- Anime / Manga · 0
-- Illustration · 0
-- Sketch / Line Art · 0
-- Comic / Graphic Novel · 0
-- 3D Render · 0
-- Chibi / Q-Style · 0
-- Isometric · 0
-- Pixel Art · 0
-- Oil Painting · 0
-- Watercolor · 0
-- Ink / Chinese Style · 0
-- Retro / Vintage · 0
-- Cyberpunk / Sci-Fi · 0
-- Minimalism · 0
+- 动漫 / 漫画 · 0
+- 插画 · 0
+- 草图 / 线稿 · 0
+- 漫画 / 图画小说 · 0
+- 3D 渲染 · 0
+- Q 版 / Q 萌风 · 0
+- 等距 · 0
+- 像素艺术 · 0
+- 油画 · 0
+- 水彩画 · 0
+- 水墨 / 中国风 · 0
+- 复古 / 怀旧 · 0
+- 赛博朋克 / 科幻 · 0
+- 极简主义 · 0
 
-### Subjects
+### 主体
 
-[Character](#category-character) · [Landscape / Nature](#category-landscape-nature)
+[角色](#category-character) · [风景 / 自然](#category-landscape-nature)
 
-- Portrait / Selfie · 0
-- Influencer / Model · 0
+- 人像 / 自拍 · 0
+- 网红 / 模特 · 0
 
 <a name="category-character"></a>
 
 <details open>
-<summary>Character · 1</summary>
+<summary>角色 · 1</summary>
 
 - [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
 
 </details>
 
-- Group / Couple · 0
-- Product · 0
-- Food / Drink · 0
-- Fashion Item · 0
-- Animal / Creature · 0
-- Vehicle · 0
-- Architecture / Interior · 0
+- 团体 / 情侣 · 0
+- 产品 · 0
+- 食品 / 饮料 · 0
+- 时尚单品 · 0
+- 动物 / 生物 · 0
+- 车辆 · 0
+- 建筑 / 室内设计 · 0
 
 <a name="category-landscape-nature"></a>
 
 <details open>
-<summary>Landscape / Nature · 1</summary>
+<summary>风景 / 自然 · 1</summary>
 
 - [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
 
 </details>
 
-- Cityscape / Street · 0
-- Diagram / Chart · 0
-- Text / Typography · 0
-- Abstract / Background · 0
+- 城市风光 / 街道 · 0
+- 图表 · 0
+- 文本 / 排版 · 0
+- 摘要 / 背景 · 0
 
 <a name="all-prompts"></a>
 
-## All Prompts
+## 所有提示词
 
 <a name="prompt-2096791786807275583"></a>
 
 ### A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 
-Author：[@arsalannazir07](https://x.com/arsalannazir07) · [Source](https://x.com/arsalannazir07/status/2096791786807275583)
+作者：[@arsalannazir07](https://x.com/arsalannazir07) · [查看 X 原帖](https://x.com/arsalannazir07/status/2096791786807275583)
 
-Photography · Cinematic / Film Still · Character · Landscape / Nature · Pending distribution
+摄影 · 电影 / 电影剧照 · 角色 · 风景 / 自然 · 待推流
 
-**Summary:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+**Summary (English):** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 
 <img src="covers/2096791786807275583.jpg" alt="封面" width="480" />
 
@@ -140,7 +140,7 @@ Style: ultra-realistic live-action environment + whimsical photorealistic stone 
 Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.
 ```
 
-[↑ Back to categories](#catalog)
+[↑ 返回分类目录](#catalog)
 
 ---
 

@@ -1,41 +1,41 @@
-# seedance · Prompt Library
+# seedance · Prompt Kütüphanesi
 
-[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Current-brightgreen)](README_tr-TR.md)
 
-> Navigation is translated; entry titles use Gemini summaries. Prompts retain their original wording.
+> Gezinme çevrilir; başlıklar Gemini özetlerini kullanır. Promptlar özgün metnini korur.
 
-**1** Prompts
+**1** Prompt
 
 <a name="catalog"></a>
 
-## Browse by Category
+## Kategoriye göre göz at
 
-[All Prompts](#all-prompts)
+[Tüm promptlar](#all-prompts)
 
-### Use Cases
+### Kullanım Senaryoları
 
 
 
-- Profile / Avatar · 0
-- Social Media Post · 0
-- Infographic / Edu Visual · 0
-- YouTube Thumbnail · 0
-- Comic / Storyboard · 0
-- Product Marketing · 0
-- E-commerce Main Image · 0
-- Game Asset · 0
-- Poster / Flyer · 0
-- App / Web Design · 0
+- Profil / Avatar · 0
+- Sosyal Medya Gönderisi · 0
+- İnfografik / Eğitici Görsel · 0
+- YouTube Küçük Resmi · 0
+- Çizgi Roman / Hikaye Taslağı · 0
+- Ürün Pazarlaması · 0
+- E-ticaret Ana Görseli · 0
+- Oyun Varlığı · 0
+- Poster / El İlanı · 0
+- Uygulama / Web Tasarımı · 0
 
-### Style
+### Tarz
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still)
 
 
 <a name="category-photography"></a>
 
 <details open>
-<summary>Photography · 1</summary>
+<summary>Fotoğrafçılık · 1</summary>
 
 - [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
 
@@ -45,78 +45,78 @@
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>Cinematic / Film Still · 1</summary>
+<summary>Sinematik / Film Karesi · 1</summary>
 
 - [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
 
 </details>
 
 - Anime / Manga · 0
-- Illustration · 0
-- Sketch / Line Art · 0
-- Comic / Graphic Novel · 0
-- 3D Render · 0
-- Chibi / Q-Style · 0
-- Isometric · 0
-- Pixel Art · 0
-- Oil Painting · 0
-- Watercolor · 0
-- Ink / Chinese Style · 0
+- İllüstrasyon · 0
+- Çizim / Çizgi Sanatı · 0
+- Çizgi Roman / Grafik Roman · 0
+- 3D Modelleme · 0
+- Chibi / Q-Stil · 0
+- İzometrik · 0
+- Piksel Sanatı · 0
+- Yağlı Boya Tablo · 0
+- Suluboya · 0
+- Mürekkep / Çin Tarzı · 0
 - Retro / Vintage · 0
-- Cyberpunk / Sci-Fi · 0
-- Minimalism · 0
+- Siberpunk / Bilim Kurgu · 0
+- Minimalizm · 0
 
-### Subjects
+### Ana İçerik
 
-[Character](#category-character) · [Landscape / Nature](#category-landscape-nature)
+[Karakter](#category-character) · [Manzara / Doğa](#category-landscape-nature)
 
-- Portrait / Selfie · 0
+- Portre / Selfie · 0
 - Influencer / Model · 0
 
 <a name="category-character"></a>
 
 <details open>
-<summary>Character · 1</summary>
+<summary>Karakter · 1</summary>
 
 - [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
 
 </details>
 
-- Group / Couple · 0
-- Product · 0
-- Food / Drink · 0
-- Fashion Item · 0
-- Animal / Creature · 0
-- Vehicle · 0
-- Architecture / Interior · 0
+- Grup / Çift · 0
+- Ürün · 0
+- Yiyecek / İçecek · 0
+- Moda Ürünü · 0
+- Hayvan / Yaratık · 0
+- Araç · 0
+- Mimari / İç Mekan · 0
 
 <a name="category-landscape-nature"></a>
 
 <details open>
-<summary>Landscape / Nature · 1</summary>
+<summary>Manzara / Doğa · 1</summary>
 
 - [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
 
 </details>
 
-- Cityscape / Street · 0
-- Diagram / Chart · 0
-- Text / Typography · 0
-- Abstract / Background · 0
+- Şehir Manzarası / Sokak · 0
+- Diyagram / Grafik · 0
+- Metin / Tipografi · 0
+- Özet / Arka Plan · 0
 
 <a name="all-prompts"></a>
 
-## All Prompts
+## Tüm promptlar
 
 <a name="prompt-2096791786807275583"></a>
 
 ### A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 
-Author：[@arsalannazir07](https://x.com/arsalannazir07) · [Source](https://x.com/arsalannazir07/status/2096791786807275583)
+Yazar：[@arsalannazir07](https://x.com/arsalannazir07) · [Orijinal gönderi](https://x.com/arsalannazir07/status/2096791786807275583)
 
-Photography · Cinematic / Film Still · Character · Landscape / Nature · Pending distribution
+Fotoğrafçılık · Sinematik / Film Karesi · Karakter · Manzara / Doğa · Dağıtım bekliyor
 
-**Summary:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+**Özet:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 
 <img src="covers/2096791786807275583.jpg" alt="封面" width="480" />
 
@@ -140,7 +140,7 @@ Style: ultra-realistic live-action environment + whimsical photorealistic stone 
 Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.
 ```
 
-[↑ Back to categories](#catalog)
+[↑ Kategorilere dön](#catalog)
 
 ---
 

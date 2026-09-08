@@ -1,41 +1,41 @@
-# seedance · Prompt Library
+# seedance · 프롬프트 라이브러리
 
-[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Current-brightgreen)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
 
-> Navigation is translated; entry titles use Gemini summaries. Prompts retain their original wording.
+> 탐색 메뉴는 번역됩니다. 제목은 Gemini 요약을 사용하며 프롬프트 원문은 유지됩니다.
 
-**1** Prompts
+**1** 개
 
 <a name="catalog"></a>
 
-## Browse by Category
+## 카테고리 탐색
 
-[All Prompts](#all-prompts)
+[모든 프롬프트](#all-prompts)
 
-### Use Cases
+### 사용 사례
 
 
 
-- Profile / Avatar · 0
-- Social Media Post · 0
-- Infographic / Edu Visual · 0
-- YouTube Thumbnail · 0
-- Comic / Storyboard · 0
-- Product Marketing · 0
-- E-commerce Main Image · 0
-- Game Asset · 0
-- Poster / Flyer · 0
-- App / Web Design · 0
+- 프로필 / 아바타 · 0
+- 소셜 미디어 게시물 · 0
+- 인포그래픽 / 교육용 시각 자료 · 0
+- YouTube 썸네일 · 0
+- 만화 / 스토리보드 · 0
+- 제품 마케팅 · 0
+- 전자상거래 메인 이미지 · 0
+- 게임 에셋 · 0
+- 포스터 / 전단지 · 0
+- 앱 / 웹 디자인 · 0
 
-### Style
+### 스타일
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still)
 
 
 <a name="category-photography"></a>
 
 <details open>
-<summary>Photography · 1</summary>
+<summary>사진술 · 1</summary>
 
 - [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
 
@@ -45,78 +45,78 @@
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>Cinematic / Film Still · 1</summary>
+<summary>시네마틱 / 영화 스틸컷 · 1</summary>
 
 - [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
 
 </details>
 
-- Anime / Manga · 0
-- Illustration · 0
-- Sketch / Line Art · 0
-- Comic / Graphic Novel · 0
-- 3D Render · 0
-- Chibi / Q-Style · 0
-- Isometric · 0
-- Pixel Art · 0
-- Oil Painting · 0
-- Watercolor · 0
-- Ink / Chinese Style · 0
-- Retro / Vintage · 0
-- Cyberpunk / Sci-Fi · 0
-- Minimalism · 0
+- 애니메이션 / 만화 · 0
+- 일러스트레이션 · 0
+- 스케치 / 선화 · 0
+- 만화 / 그래픽 노블 · 0
+- 3D 렌더링 · 0
+- 치비 / Q-스타일 · 0
+- 아이소메트릭 · 0
+- 픽셀 아트 · 0
+- 유화 · 0
+- 수채화 · 0
+- 잉크 / 중국풍 · 0
+- 레트로 / 빈티지 · 0
+- 사이버펑크 / SF · 0
+- 미니멀리즘 · 0
 
-### Subjects
+### 본문
 
-[Character](#category-character) · [Landscape / Nature](#category-landscape-nature)
+[캐릭터](#category-character) · [풍경 / 자연](#category-landscape-nature)
 
-- Portrait / Selfie · 0
-- Influencer / Model · 0
+- 인물 사진 / 셀카 · 0
+- 인플루언서 / 모델 · 0
 
 <a name="category-character"></a>
 
 <details open>
-<summary>Character · 1</summary>
+<summary>캐릭터 · 1</summary>
 
 - [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
 
 </details>
 
-- Group / Couple · 0
-- Product · 0
-- Food / Drink · 0
-- Fashion Item · 0
-- Animal / Creature · 0
-- Vehicle · 0
-- Architecture / Interior · 0
+- 그룹 / 커플 · 0
+- 제품 · 0
+- 음식 / 음료 · 0
+- 패션 아이템 · 0
+- 동물 / 생명체 · 0
+- 차량 · 0
+- 건축 / 인테리어 · 0
 
 <a name="category-landscape-nature"></a>
 
 <details open>
-<summary>Landscape / Nature · 1</summary>
+<summary>풍경 / 자연 · 1</summary>
 
 - [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
 
 </details>
 
-- Cityscape / Street · 0
-- Diagram / Chart · 0
-- Text / Typography · 0
-- Abstract / Background · 0
+- 도시 풍경 / 거리 · 0
+- 다이어그램 / 차트 · 0
+- 텍스트 / 타이포그래피 · 0
+- 초록 / 배경 · 0
 
 <a name="all-prompts"></a>
 
-## All Prompts
+## 모든 프롬프트
 
 <a name="prompt-2096791786807275583"></a>
 
 ### A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 
-Author：[@arsalannazir07](https://x.com/arsalannazir07) · [Source](https://x.com/arsalannazir07/status/2096791786807275583)
+작성자：[@arsalannazir07](https://x.com/arsalannazir07) · [원본 게시물](https://x.com/arsalannazir07/status/2096791786807275583)
 
-Photography · Cinematic / Film Still · Character · Landscape / Nature · Pending distribution
+사진술 · 시네마틱 / 영화 스틸컷 · 캐릭터 · 풍경 / 자연 · 배포 대기
 
-**Summary:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+**요약:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 
 <img src="covers/2096791786807275583.jpg" alt="封面" width="480" />
 
@@ -140,7 +140,7 @@ Style: ultra-realistic live-action environment + whimsical photorealistic stone 
 Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.
 ```
 
-[↑ Back to categories](#catalog)
+[↑ 카테고리로 돌아가기](#catalog)
 
 ---
 
