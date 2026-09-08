@@ -203,20 +203,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2097185540391211470"></a>
 
-### Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+### 高山林の険しい小道を進む、ゴールデンアワーの陽光と雄大な山々が広がる超リアルな映画調の山岳ハイキングシーン。
 
 作者：[@AIwithMinal](https://x.com/AIwithMinal) · [元の投稿](https://x.com/AIwithMinal/status/2097185540391211470)
 
 シネマティック / フィルムスチル · 風景 / 自然 · 配信待ち
 
-**概要:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+**概要:** 高山林の険しい小道を進む、ゴールデンアワーの陽光と雄大な山々が広がる超リアルな映画調の山岳ハイキングシーン。
 
 <img src="covers/2097185540391211470.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
+超リアルな映画調の山岳ハイキングシーン、鬱蒼とした高山林を縫うように続く狭く険しい小道、両側にそびえる風化した巨大な岩、ドラマチックな影を落とす背の高い木々、枝の間から差し込む温かいゴールデンアワーの日差し、遠くに見える雄大に重なり合う山並み、柔らかな大気の霞、自然なアースカラー、没入感のある大自然の雰囲気、滑らかな映画的カメラワーク、リアルな質感、ボリュメトリックライティング、浅い被写界深度、HDR、8K、写実的、映画的なカラーグレーディング、プロフェッショナルなアウトドア冒険映画撮影、縦型 9:16。
 ```
 
 [↑ カテゴリに戻る](#catalog)

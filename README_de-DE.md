@@ -195,20 +195,20 @@ Verwende kontinuierliche filmische Kamerabewegungen, nahtlose Übergänge durch 
 
 <a name="prompt-2097185540391211470"></a>
 
-### Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+### Ultrarealistische filmische Bergwanderszene entlang eines zerklüfteten Pfades in einem Bergwald mit Sonnenlicht der goldenen Stunde und majestätischen Bergen.
 
 Autor：[@AIwithMinal](https://x.com/AIwithMinal) · [Originalbeitrag](https://x.com/AIwithMinal/status/2097185540391211470)
 
 Kinematisch / Filmstill · Landschaft / Natur · Verteilung ausstehend
 
-**Zusammenfassung:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+**Zusammenfassung:** Ultrarealistische filmische Bergwanderszene entlang eines zerklüfteten Pfades in einem Bergwald mit Sonnenlicht der goldenen Stunde und majestätischen Bergen.
 
 <img src="covers/2097185540391211470.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
+Ultrarealistische filmische Bergwanderszene, ein schmaler, zerklüfteter Pfad, der sich durch einen dichten Bergwald schlängelt, massive, verwitterte Felsen auf beiden Seiten, hohe Bäume, die dramatische Schatten werfen, warmes Sonnenlicht der goldenen Stunde, das durch die Äste fällt, majestätische, gestaffelte Berge in der Ferne sichtbar, zarter atmosphärischer Dunst, natürliche Erdtöne, immersive Wildnisatmosphäre, sanfte filmische Kamerabewegung, realistische Texturen, volumetrisches Licht, geringe Schärfentiefe, HDR, 8K, fotorealistisch, filmisches Color-Grading, professionelle Outdoor-Abenteuer-Kinematografie, vertikal 9:16.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

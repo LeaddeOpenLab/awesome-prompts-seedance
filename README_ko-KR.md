@@ -207,20 +207,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2097185540391211470"></a>
 
-### Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+### 골든아워의 햇살과 웅장한 산세가 어우러진 알파인 숲 속 험준한 길을 걷는 초현실적인 시네마틱 산악 하이킹 장면.
 
 작성자：[@AIwithMinal](https://x.com/AIwithMinal) · [원본 게시물](https://x.com/AIwithMinal/status/2097185540391211470)
 
 시네마틱 / 영화 스틸컷 · 풍경 / 자연 · 배포 대기
 
-**요약:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+**요약:** 골든아워의 햇살과 웅장한 산세가 어우러진 알파인 숲 속 험준한 길을 걷는 초현실적인 시네마틱 산악 하이킹 장면.
 
 <img src="covers/2097185540391211470.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
+초현실적인 시네마틱 산악 하이킹 장면, 울창한 알파인 숲을 구불구불 통과하는 좁고 험준한 산길, 양쪽에 늘어선 거대하고 풍화된 바위들, 드라마틱한 그림자를 드리우는 키 큰 나무들, 나뭇가지 사이로 비쳐 드는 따뜻한 골든아워의 햇살, 멀리 보이는 웅장하고 겹겹이 쌓인 산맥, 부드러운 대기 안개, 자연스러운 어스 톤, 몰입감 넘치는 대자연의 분위기, 매끄러운 시네마틱 카메라 워크, 사실적인 질감, 볼륨메트릭 라이팅, 얕은 심도, HDR, 8K, 포토리얼리스틱, 시네마틱 컬러 그레이딩, 전문 야외 모험 촬영 기법, 세로 9:16.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

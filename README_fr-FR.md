@@ -195,20 +195,20 @@ Utilisez des mouvements de caméra cinématographiques continus, des transitions
 
 <a name="prompt-2097185540391211470"></a>
 
-### Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+### Scène cinématique ultra-réaliste de randonnée en montagne le long d'un sentier accidenté dans une forêt alpine avec la lumière de l'heure dorée et de majestueuses montagnes.
 
 Auteur：[@AIwithMinal](https://x.com/AIwithMinal) · [Publication originale](https://x.com/AIwithMinal/status/2097185540391211470)
 
 Image cinématographique / Photogramme de film · Paysage / Nature · Diffusion en attente
 
-**Résumé:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+**Résumé:** Scène cinématique ultra-réaliste de randonnée en montagne le long d'un sentier accidenté dans une forêt alpine avec la lumière de l'heure dorée et de majestueuses montagnes.
 
 <img src="covers/2097185540391211470.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
+Scène cinématique ultra-réaliste de randonnée en montagne, un sentier étroit et accidenté serpentant à travers une dense forêt alpine, d'immenses rochers altérés de chaque côté, de grands arbres projetant des ombres dramatiques, une chaude lumière du soleil de l'heure dorée filtrant à travers les branches, de majestueuses montagnes étagées visibles au loin, une douce brume atmosphérique, des tons terreux naturels, une atmosphère de nature sauvage immersive, un mouvement de caméra cinématique fluide, des textures réalistes, un éclairage volumétrique, une faible profondeur de champ, HDR, 8K, photoréaliste, étalonnage des couleurs cinématique, cinématographie professionnelle d'aventure en plein air, vertical 9:16.
 ```
 
 [↑ Retour aux catégories](#catalog)

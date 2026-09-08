@@ -207,20 +207,20 @@ Tạo một thước phim tài liệu điện ảnh siêu thực dài 30 giây t
 
 <a name="prompt-2097185540391211470"></a>
 
-### Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+### Cảnh đi bộ đường dài trên núi mang phong cách điện ảnh siêu thực dọc theo con đường gồ ghề trong rừng núi cao với ánh nắng giờ vàng và những ngọn núi hùng vĩ.
 
 Tác giả：[@AIwithMinal](https://x.com/AIwithMinal) · [Bài gốc](https://x.com/AIwithMinal/status/2097185540391211470)
 
 Điện ảnh / Ảnh tĩnh từ phim · Phong cảnh / Thiên nhiên · Chờ phân phối
 
-**Tóm tắt:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+**Tóm tắt:** Cảnh đi bộ đường dài trên núi mang phong cách điện ảnh siêu thực dọc theo con đường gồ ghề trong rừng núi cao với ánh nắng giờ vàng và những ngọn núi hùng vĩ.
 
 <img src="covers/2097185540391211470.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
+Cảnh đi bộ đường dài trên núi mang phong cách điện ảnh siêu thực, một con đường mòn hẹp gồ ghề uốn lượn qua khu rừng núi cao rậm rạp, những tảng đá phong hóa khổng lồ ở cả hai bên, những hàng cây cao đổ bóng đầy ấn tượng, ánh nắng ấm áp của giờ vàng xuyên qua các nhánh cây, những dãy núi hùng vĩ trập trùng ở phía xa, làn sương mờ khí quyển dịu nhẹ, tông màu đất tự nhiên, bầu không khí hoang dã đắm chìm, chuyển động máy quay điện ảnh mượt mà, kết cấu chân thực, ánh sáng thể tích, độ sâu trường ảnh nông, HDR, 8K, chân thực như ảnh chụp, chỉnh màu điện ảnh, kỹ thuật quay phim phiêu lưu dã ngoại chuyên nghiệp, khung hình dọc 9:16.
 ```
 
 [↑ Về danh mục](#catalog)

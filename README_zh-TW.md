@@ -203,20 +203,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2097185540391211470"></a>
 
-### Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+### 高山森林崎嶇小徑上伴隨黃金時刻陽光與雄偉山巒的超逼真電影級山地徒步場景。
 
 作者：[@AIwithMinal](https://x.com/AIwithMinal) · [查看 X 原帖](https://x.com/AIwithMinal/status/2097185540391211470)
 
 電影感 / 電影劇照 · 風景 / 大自然 · 待推送
 
-**概括:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+**概括:** 高山森林崎嶇小徑上伴隨黃金時刻陽光與雄偉山巒的超逼真電影級山地徒步場景。
 
 <img src="covers/2097185540391211470.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
+超逼真的電影級山地徒步場景，一條狹窄崎嶇的小徑蜿蜒穿過茂密的高山森林，兩側是巨大的風化岩石，高聳的樹木投下富有戲劇性的陰影，溫暖的黃金時刻陽光穿透樹枝灑落，遠處可見雄偉的層疊山脈，柔和的大氣薄霧，自然大地色調，沉浸式的荒野氛圍，流暢的電影級運鏡，逼真的紋理，體積光，淺景深，HDR，8K，照片級真實，電影級調色，專業戶外探險攝影，直式 9:16。
 ```
 
 [↑ 返回分類目錄](#catalog)

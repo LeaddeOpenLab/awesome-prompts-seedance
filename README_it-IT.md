@@ -195,20 +195,20 @@ Utilizza movimenti di macchina cinematografici continui, transizioni fluide attr
 
 <a name="prompt-2097185540391211470"></a>
 
-### Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+### Scena cinematografica ultra-realistica di escursionismo in montagna lungo un sentiero impervio in una foresta alpina con la luce solare dell'ora d'oro e maestose montagne.
 
 Autore：[@AIwithMinal](https://x.com/AIwithMinal) · [Post originale](https://x.com/AIwithMinal/status/2097185540391211470)
 
 Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Distribuzione in attesa
 
-**Riepilogo:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+**Riepilogo:** Scena cinematografica ultra-realistica di escursionismo in montagna lungo un sentiero impervio in una foresta alpina con la luce solare dell'ora d'oro e maestose montagne.
 
 <img src="covers/2097185540391211470.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
+Scena cinematografica ultra-realistica di escursionismo in montagna, uno stretto sentiero impervio che si snoda attraverso una fitta foresta alpina, enormi rocce erose su entrambi i lati, alberi alti che proiettano ombre drammatiche, calda luce solare dell'ora d'oro che filtra tra i rami, maestose montagne a strati visibili in lontananza, morbida foschia atmosferica, tonalità terrose naturali, atmosfera selvaggia e immersiva, movimento fluido della macchina da presa cinematografica, texture realistiche, illuminazione volumetrica, profondità di campo ridotta, HDR, 8K, fotorealistico, color grading cinematografico, cinematografia professionale di avventura all'aperto, verticale 9:16.
 ```
 
 [↑ Torna alle categorie](#catalog)

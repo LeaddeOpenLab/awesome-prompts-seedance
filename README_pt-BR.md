@@ -195,20 +195,20 @@ Use movimentos contínuos de câmera cinematográfica, transições suaves atrav
 
 <a name="prompt-2097185540391211470"></a>
 
-### Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+### Cena cinematográfica ultrarrealista de trilha na montanha ao longo de uma trilha acidentada em uma floresta alpina com luz solar da hora dourada e montanhas majestosas.
 
 Autor：[@AIwithMinal](https://x.com/AIwithMinal) · [Publicação original](https://x.com/AIwithMinal/status/2097185540391211470)
 
 Cinematográfico / Imagem de Filme · Paisagem / Natureza · Distribuição pendente
 
-**Resumo:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+**Resumo:** Cena cinematográfica ultrarrealista de trilha na montanha ao longo de uma trilha acidentada em uma floresta alpina com luz solar da hora dourada e montanhas majestosas.
 
 <img src="covers/2097185540391211470.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
+Cena cinematográfica ultrarrealista de trilha na montanha, uma trilha estreita e acidentada serpenteando por uma densa floresta alpina, enormes rochas desgastadas em ambos os lados, árvores altas projetando sombras dramáticas, luz solar quente da hora de ouro filtrando pelos galhos, montanhas majestosas em camadas visíveis à distância, suave névoa atmosférica, tons terrosos naturais, atmosfera imersiva de natureza selvagem, movimento de câmera cinematográfico e suave, texturas realistas, iluminação volumétrica, profundidade de campo reduzida, HDR, 8K, fotorrealista, gradação de cor cinematográfica, cinematografia profissional de aventura ao ar livre, vertical 9:16.
 ```
 
 [↑ Voltar às categorias](#catalog)

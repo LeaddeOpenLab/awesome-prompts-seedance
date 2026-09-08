@@ -207,20 +207,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2097185540391211470"></a>
 
-### Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+### ฉากการเดินป่าบนภูเขาแนวภาพยนตร์ที่สมจริงอย่างยิ่งตามเส้นทางขรุขระในป่าอัลไพน์ พร้อมแสงแดดสีทองยามโกลเดนอาวร์และทิวเขาอันงดงาม
 
 ผู้เขียน：[@AIwithMinal](https://x.com/AIwithMinal) · [โพสต์ต้นฉบับ](https://x.com/AIwithMinal/status/2097185540391211470)
 
 ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ทิวทัศน์ / ธรรมชาติ · รอเผยแพร่
 
-**สรุป:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+**สรุป:** ฉากการเดินป่าบนภูเขาแนวภาพยนตร์ที่สมจริงอย่างยิ่งตามเส้นทางขรุขระในป่าอัลไพน์ พร้อมแสงแดดสีทองยามโกลเดนอาวร์และทิวเขาอันงดงาม
 
 <img src="covers/2097185540391211470.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
+ฉากการเดินป่าบนภูเขาแนวภาพยนตร์ที่สมจริงอย่างยิ่ง ทางเดินแคบขรุขระคดเคี้ยวผ่านป่าสนอัลไพน์หนาทึบ สองข้างทางมีโขดหินผุกร่อนขนาดมหึมา ต้นไม้สูงตระหง่านทอดเงาอันน่าทึ่ง แสงแดดสีทองอบอุ่นยามโกลเดนอาวร์ส่องลอดผ่านกิ่งก้าน ทิวเขาซ้อนสลับสวยงามตระการตาปรากฏอยู่ไกลๆ หมอกควันบรรยากาศนุ่มนวล โทนสีธรรมชาติดั่งผืนดิน บรรยากาศป่าเขาอันดื่มด่ำ การเคลื่อนกล้องแบบภาพยนตร์ที่นุ่มนวล พื้นผิวที่สมจริง แสงแบบวอลุ่มเมตริก ระยะชัดตื้น HDR, 8K, สมจริงดั่งภาพถ่าย, การเกรดสีระดับภาพยนตร์, งานภาพการผจญภัยกลางแจ้งระดับมืออาชีพ, แนวตั้ง 9:16
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

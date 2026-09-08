@@ -207,20 +207,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2097185540391211470"></a>
 
-### Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+### अल्पाइन जंगल में सुनहरी धूप और भव्य पहाड़ों के साथ एक ऊबड़-खाबड़ रास्ते पर अल्ट्रा-रियलिस्टिक सिनेमाई पर्वतीय हाइकिंग दृश्य।
 
 लेखक：[@AIwithMinal](https://x.com/AIwithMinal) · [मूल पोस्ट](https://x.com/AIwithMinal/status/2097185540391211470)
 
 सिनेमैटिक / फ़िल्म स्टिल · लैंडस्केप / प्रकृति · प्रकाशन लंबित
 
-**सारांश:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+**सारांश:** अल्पाइन जंगल में सुनहरी धूप और भव्य पहाड़ों के साथ एक ऊबड़-खाबड़ रास्ते पर अल्ट्रा-रियलिस्टिक सिनेमाई पर्वतीय हाइकिंग दृश्य।
 
 <img src="covers/2097185540391211470.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
+अल्ट्रा-रियलिस्टिक सिनेमाई पर्वतीय हाइकिंग दृश्य, घने अल्पाइन जंगल से होकर गुजरता हुआ एक संकरा ऊबड़-खाबड़ रास्ता, दोनों तरफ विशाल अपक्षयित चट्टानें, नाटकीय छाया डालते ऊंचे पेड़, शाखाओं के बीच से छनकर आती सुनहरी धूप (गोल्डन ऑवर की किरणें), दूर दिखाई देते भव्य परतदार पहाड़, नरम वायुमंडलीय धुंध, प्राकृतिक मटमैले रंग, गहन बीहड़ वातावरण, सहज सिनेमाई कैमरा मूवमेंट, यथार्थवादी बनावट, वॉल्यूमेट्रिक लाइटिंग, उथली फील्ड गहराई, एचडीआर, 8K, फोटोरियलिस्टिक, सिनेमाई कलर ग्रेडिंग, पेशेवर आउटडोर एडवेंचर सिनेमैटोग्राफी, लंबवत 9:16।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

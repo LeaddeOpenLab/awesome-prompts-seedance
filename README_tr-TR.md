@@ -195,20 +195,20 @@ Sürekli sinematik kamera hareketi, zaman ve ölçek boyunca kusursuz geçişler
 
 <a name="prompt-2097185540391211470"></a>
 
-### Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+### Görkemli dağlar ve altın saatlerin güneş ışığı eşliğinde, bir dağ ormanındaki engebeli patika boyunca ultra gerçekçi sinematik dağ yürüyüşü sahnesi.
 
 Yazar：[@AIwithMinal](https://x.com/AIwithMinal) · [Orijinal gönderi](https://x.com/AIwithMinal/status/2097185540391211470)
 
 Sinematik / Film Karesi · Manzara / Doğa · Dağıtım bekliyor
 
-**Özet:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
+**Özet:** Görkemli dağlar ve altın saatlerin güneş ışığı eşliğinde, bir dağ ormanındaki engebeli patika boyunca ultra gerçekçi sinematik dağ yürüyüşü sahnesi.
 
 <img src="covers/2097185540391211470.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
+Ultra gerçekçi sinematik dağ yürüyüşü sahnesi, sık bir dağ ormanının içinden kıvrılarak geçen dar ve engebeli bir patika, her iki tarafta aşınmış devasa kayalar, dramatik gölgeler düşüren uzun ağaçlar, dalların arasından süzülen altın saatlerin sıcak güneş ışığı, uzakta görünen görkemli katmanlı dağlar, yumuşak atmosferik pus, doğal toprak tonları, sarmalayıcı vahşi doğa atmosferi, akıcı sinematik kamera hareketi, gerçekçi dokular, hacimsel aydınlatma, sığ alan derinliği, HDR, 8K, fotogerçekçi, sinematik renk derecelendirme, profesyonel açık hava macera sinematografisi, dikey 9:16.
 ```
 
 [↑ Kategorilere dön](#catalog)
