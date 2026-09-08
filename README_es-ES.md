@@ -192,28 +192,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2096837494000308685"></a>
 
-### A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+### Un prompt para un documental cinematográfico fotorrealista de 30 segundos que representa la evolución fluida del universo y la vida en la Tierra, desde el Big Bang hasta la humanidad moderna.
 
 Autor：[@RuzainaMeer](https://x.com/RuzainaMeer) · [Publicación original](https://x.com/RuzainaMeer/status/2096837494000308685)
 
 Fotografía · Cine / Fotograma de película · Pendiente de distribución
 
-**Resumen:** A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+**Resumen:** Un prompt para un documental cinematográfico fotorrealista de 30 segundos que representa la evolución fluida del universo y la vida en la Tierra, desde el Big Bang hasta la humanidad moderna.
 
 <img src="covers/2096837494000308685.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.
+Crea un documental cinematográfico ultrafotorrealista de 30 segundos que muestre la evolución del universo y la vida en la Tierra en un viaje continuo y fluido.
 
-Begin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.
+Comienza con el Big Bang y la expansión del espacio, luego muestra la formación de la materia, las primeras estrellas, galaxias, supernovas y el nacimiento del Sistema Solar y la Tierra. Realiza una transición hacia la Tierra primitiva volcánica, océanos que se enfrían, vida unicelular primitiva, organismos marinos complejos, la vida colonizando la tierra firme, bosques prehistóricos, dinosaurios, primeros mamíferos, primates, homínidos y, finalmente, el Homo sapiens moderno.
 
-End with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.
+Termina con un humano moderno mirando hacia el horizonte mientras la cámara retrocede rápidamente desde la Tierra hacia la Luna, el Sistema Solar y la Vía Láctea, conectando a la humanidad con el universo.
 
-Use continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.
+Utiliza un movimiento continuo de cámara cinematográfica, transiciones fluidas a través del tiempo y la escala, física realista, entornos de inspiración científica, movimiento natural, anatomía animal detallada, iluminación realista, HDR y cinematografía documental de primera calidad.
 
-16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.
+16:9, ultrarrealista, fotorrealista, emocionalmente impactante, con base científica. Sin texto, etiquetas, narración, fantasía, cyberpunk, neón ni elementos futuristas.
 ```
 
 [↑ Volver a categorías](#catalog)

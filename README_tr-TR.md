@@ -192,28 +192,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2096837494000308685"></a>
 
-### A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+### Büyük Patlama'dan modern insanlığa kadar evrenin ve Dünya'daki yaşamın kusursuz evrimini tasvir eden 30 saniyelik fotogerçekçi sinematik bir belgesel istemi.
 
 Yazar：[@RuzainaMeer](https://x.com/RuzainaMeer) · [Orijinal gönderi](https://x.com/RuzainaMeer/status/2096837494000308685)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Dağıtım bekliyor
 
-**Özet:** A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+**Özet:** Büyük Patlama'dan modern insanlığa kadar evrenin ve Dünya'daki yaşamın kusursuz evrimini tasvir eden 30 saniyelik fotogerçekçi sinematik bir belgesel istemi.
 
 <img src="covers/2096837494000308685.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.
+Evrenin ve Dünya'daki yaşamın evrimini kesintisiz tek bir yolculukta gösteren 30 saniyelik, ultra fotogerçekçi sinematik bir belgesel oluşturun.
 
-Begin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.
+Büyük Patlama ve uzayın genişlemesiyle başlayın, ardından maddenin oluşumunu, ilk yıldızları, galaksileri, süpernovaları, Güneş Sistemi'nin ve Dünya'nın doğumunu gösterin. Volkanik erken Dünya'ya, soğuyan okyanuslara, ilkel tek hücreli yaşama, karmaşık deniz canlılarına, karaya çıkan yaşama, tarih öncesi ormanlara, dinozorlara, erken memelilere, primatlara, insansılara ve nihayet modern Homo sapiens'e geçiş yapın.
 
-End with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.
+Kamera Dünya'dan Ay'a, Güneş Sistemi'ne ve Samanyolu'na hızla geri çekilerek insanlığı evrene bağlarken, ufka bakan modern bir insanla sonlandırın.
 
-Use continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.
+Sürekli sinematik kamera hareketi, zaman ve ölçek boyunca kusursuz geçişler, gerçekçi fizik, bilimsel temelli ortamlar, doğal hareketler, ayrıntılı hayvan anatomisi, gerçekçi aydınlatma, HDR ve üst düzey belgesel sinematografisi kullanın.
 
-16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.
+16:9, ultra gerçekçi, fotogerçekçi, duygusal açıdan güçlü, bilimsel temelli. Metin, etiket, anlatım, fantezi, siberpunk, neon veya fütüristik ögeler içermez.
 ```
 
 [↑ Kategorilere dön](#catalog)

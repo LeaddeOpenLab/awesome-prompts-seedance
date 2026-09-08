@@ -192,28 +192,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2096837494000308685"></a>
 
-### A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+### ビッグバンから現代人類に至る、宇宙と地球生命のシームレスな進化を描く30秒間のフォトリアリスティックなシネマティック・ドキュメンタリーのプロンプト。
 
 作者：[@RuzainaMeer](https://x.com/RuzainaMeer) · [元の投稿](https://x.com/RuzainaMeer/status/2096837494000308685)
 
 写真撮影 · シネマティック / フィルムスチル · 配信待ち
 
-**概要:** A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+**概要:** ビッグバンから現代人類に至る、宇宙と地球生命のシームレスな進化を描く30秒間のフォトリアリスティックなシネマティック・ドキュメンタリーのプロンプト。
 
 <img src="covers/2096837494000308685.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.
-
-Begin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.
-
-End with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.
-
-Use continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.
-
-16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.
+宇宙の進化と地球上の生命の歩みをひとつのシームレスな旅として描く、30秒間の超写実的なシネマティック・ドキュメンタリーを作成してください。\n\nビッグバンと空間の膨張から始まり、物質の形成、最初の恒星、銀河、超新星爆発、そして太陽系と地球の誕生を描きます。続いて火山活動が活発な初期の地球、冷えていく海、原始的な単細胞生物、複雑な海洋生物、生命の陸上進出、先史時代の森林、恐竜、初期の哺乳類、霊長類、初期人類、そして最後に現代のホモ・サピエンスへと移行します。\n\nラストは、現代の人類が地平線を見つめる中、カメラが地球から月、太陽系、天の川銀河へと急速にズームバックし、人類と宇宙を結びつけます。\n\n連続的なシネマティックカメラワーク、時間とスケールを跨ぐシームレスなトランジション、リアルな物理法則、科学に基づいた環境、自然な動き、詳細な動物の解剖学的構造、リアルなライティング、HDR、そして最高品質のドキュメンタリー撮影技術を使用してください。\n\n16:9、超写実的、フォトリアリスティック、感情を揺さぶる力強い表現、科学的根拠に基づく。テキスト、ラベル、ナレーション、ファンタジー、サイバーパンク、ネオン、未来的要素は一切含めないでください。
 ```
 
 [↑ カテゴリに戻る](#catalog)

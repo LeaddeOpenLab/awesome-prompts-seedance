@@ -192,28 +192,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2096837494000308685"></a>
 
-### A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+### 빅뱅부터 현대 인류에 이르기까지 우주와 지구 생명의 매끄러운 진화를 묘사하는 30초 분량의 포토리얼리스틱 시네마틱 다큐멘터리 프롬프트.
 
 작성자：[@RuzainaMeer](https://x.com/RuzainaMeer) · [원본 게시물](https://x.com/RuzainaMeer/status/2096837494000308685)
 
 사진술 · 시네마틱 / 영화 스틸컷 · 배포 대기
 
-**요약:** A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+**요약:** 빅뱅부터 현대 인류에 이르기까지 우주와 지구 생명의 매끄러운 진화를 묘사하는 30초 분량의 포토리얼리스틱 시네마틱 다큐멘터리 프롬프트.
 
 <img src="covers/2096837494000308685.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.
-
-Begin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.
-
-End with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.
-
-Use continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.
-
-16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.
+우주의 진화와 지구 생명체의 역사를 하나의 매끄러운 여정으로 보여주는 30초 분량의 초극사실적 시네마틱 다큐멘터리를 제작하세요.\n\n빅뱅과 공간의 팽창으로 시작하여, 물질의 형성, 최초의 별들, 은하, 초신성, 그리고 태양계와 지구의 탄생을 보여줍니다. 이어 화산 활동이 활발한 초기 지구, 식어가는 바다, 원시 단세포 생물, 복잡한 해양 생물, 생명체의 육상 진출, 선사 시대의 숲, 공룡, 초기 포유류, 영장류, 초기 인류, 그리고 마침내 현대 호모 사피엔스로 전환됩니다.\n\n마지막에는 현대 인류가 지평선을 바라보는 가운데, 카메라가 지구에서 달, 태양계, 은하수로 빠르게 줌아웃되며 인류와 우주를 연결합니다.\n\n연속적인 시네마틱 카메라 움직임, 시간과 규모를 넘나드는 매끄러운 전환, 사실적인 물리 법칙, 과학적 고증에 기반한 환경, 자연스러운 움직임, 정밀한 동물 해부학적 구조, 사실적인 조명, HDR 및 프리미엄 다큐멘터리 촬영 기법을 사용하세요.\n\n16:9, 극사실적, 포토리얼리스틱, 감정적으로 강력함, 과학적 근거에 기반함. 텍스트, 라벨, 내레이션, 판타지, 사이버펑크, 네온 또는 미래주의적 요소 배제.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

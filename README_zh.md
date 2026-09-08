@@ -194,28 +194,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2096837494000308685"></a>
 
-### A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+### 一段30秒逼真电影级纪录片提示词，描绘从大爆炸到现代人类的宇宙与地球生命无缝演化历程。
 
 作者：[@RuzainaMeer](https://x.com/RuzainaMeer) · [查看 X 原帖](https://x.com/RuzainaMeer/status/2096837494000308685)
 
 摄影 · 电影 / 电影剧照 · 待推流
 
-**Summary (English):** A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+**概括:** 一段30秒逼真电影级纪录片提示词，描绘从大爆炸到现代人类的宇宙与地球生命无缝演化历程。
 
 <img src="covers/2096837494000308685.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.
-
-Begin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.
-
-End with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.
-
-Use continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.
-
-16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.
+创作一段时长30秒的超逼真电影感纪录片，以一趟无缝衔接的旅程展现宇宙的演化以及地球生命的历程。\n\n从宇宙大爆炸和空间的膨胀开始，接着展现物质的形成、第一批恒星、星系、超新星，以及太阳系和地球的诞生。过渡到火山喷发的早期地球、逐渐冷却的海洋、原始单细胞生命、复杂海洋生物、生命走向陆地、史前森林、恐龙、早期哺乳动物、灵长类动物、古人类，最后到现代智人。\n\n结尾处，一个现代人凝视地平线，镜头迅速从地球拉开，掠过月球、太阳系和银河系，将人类与宇宙相连。\n\n运用连续的电影摄影机运镜、时间和空间尺度上的无缝转场、逼真的物理效果、基于科学灵感的环境、自然的动作、精细的动物解剖结构、写实的光影、HDR以及顶级纪录片的摄影质感。\n\n16:9，超逼真，写实级逼真，极具情感冲击力，严谨科学。无文字、标签、旁白、奇幻、赛博朋克、霓虹或未来主义元素。
 ```
 
 [↑ 返回分类目录](#catalog)

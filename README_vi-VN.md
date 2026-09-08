@@ -192,28 +192,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2096837494000308685"></a>
 
-### A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+### Lời nhắc tạo phim tài liệu điện ảnh siêu thực dài 30 giây khắc họa sự tiến hóa liền mạch của vũ trụ và sự sống trên Trái Đất, từ Vụ Nổ Lớn đến nhân loại hiện đại.
 
 Tác giả：[@RuzainaMeer](https://x.com/RuzainaMeer) · [Bài gốc](https://x.com/RuzainaMeer/status/2096837494000308685)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chờ phân phối
 
-**Tóm tắt:** A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+**Tóm tắt:** Lời nhắc tạo phim tài liệu điện ảnh siêu thực dài 30 giây khắc họa sự tiến hóa liền mạch của vũ trụ và sự sống trên Trái Đất, từ Vụ Nổ Lớn đến nhân loại hiện đại.
 
 <img src="covers/2096837494000308685.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.
-
-Begin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.
-
-End with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.
-
-Use continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.
-
-16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.
+Tạo một thước phim tài liệu điện ảnh siêu thực dài 30 giây thể hiện sự tiến hóa của vũ trụ và sự sống trên Trái Đất trong một hành trình liền mạch duy nhất.\n\nBắt đầu với Vụ Nổ Lớn (Big Bang) và sự giãn nở của không gian, sau đó thể hiện vật chất hình thành, những ngôi sao đầu tiên, các thiên hà, siêu tân tinh, cùng sự ra đời của Hệ Mặt Trời và Trái Đất. Chuyển tiếp sang Trái Đất sơ khai đầy núi lửa, đại dương nguội dần, sinh vật đơn bào nguyên thủy, sinh vật biển phức tạp, sự sống tiến lên cạn, những khu rừng tiền sử, khủng long, động vật có vú sơ khai, linh trưởng, vượn người, và cuối cùng là Người hiện đại (Homo sapiens).\n\nKết thúc với hình ảnh một con người hiện đại nhìn về phía đường chân trời khi máy quay nhanh chóng lùi xa từ Trái Đất đến Mặt Trăng, Hệ Mặt Trời và Ngân Hà, kết nối nhân loại với vũ trụ.\n\nSử dụng chuyển động máy quay điện ảnh liên tục, các chuyển cảnh liền mạch qua thời gian và quy mô không gian, vật lý chân thực, môi trường dựa trên cảm hứng khoa học, chuyển động tự nhiên, giải phẫu động vật chi tiết, ánh sáng chân thực, HDR và kỹ thuật quay phim tài liệu cao cấp.\n\n16:9, siêu thực, photorealistic, giàu cảm xúc, có cơ sở khoa học. Không có văn bản, nhãn dán, lời tường thuật, yếu tố kỳ ảo, cyberpunk, neon hoặc các yếu tố tương lai.
 ```
 
 [↑ Về danh mục](#catalog)

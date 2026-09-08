@@ -192,28 +192,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2096837494000308685"></a>
 
-### A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+### พรอมต์สารคดีภาพยนตร์สมจริงความยาว 30 วินาที ถ่ายทอดวิวัฒนาการอันไร้รอยต่อของจักรวาลและสิ่งมีชีวิตบนโลก ตั้งแต่บิกแบงจนถึงมนุษยชาติยุคปัจจุบัน
 
 ผู้เขียน：[@RuzainaMeer](https://x.com/RuzainaMeer) · [โพสต์ต้นฉบับ](https://x.com/RuzainaMeer/status/2096837494000308685)
 
 การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · รอเผยแพร่
 
-**สรุป:** A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+**สรุป:** พรอมต์สารคดีภาพยนตร์สมจริงความยาว 30 วินาที ถ่ายทอดวิวัฒนาการอันไร้รอยต่อของจักรวาลและสิ่งมีชีวิตบนโลก ตั้งแต่บิกแบงจนถึงมนุษยชาติยุคปัจจุบัน
 
 <img src="covers/2096837494000308685.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.
-
-Begin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.
-
-End with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.
-
-Use continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.
-
-16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.
+สร้างสารคดีภาพยนตร์แนวสมจริงระดับอัลตราความยาว 30 วินาที ที่ถ่ายทอดวิวัฒนาการของจักรวาลและสิ่งมีชีวิตบนโลกในการเดินทางอันไร้รอยต่อครั้งเดียว\n\nเริ่มต้นด้วยบิกแบงและการขยายตัวของอวกาศ จากนั้นแสดงการก่อตัวของสสาร ดาวฤกษ์ดวงแรก ดาราจักร ซูเปอร์โนวา ตลอดจนการกำเนิดของระบบสุริยะและโลก เปลี่ยนผ่านไปยังโลกยุคแรกเริ่มที่เต็มไปด้วยภูเขาไฟ ทะเลที่ค่อยๆ เย็นตัวลง สิ่งมีชีวิตเซลล์เดียวโบราณ สิ่งมีชีวิตในทะเลที่ซับซ้อน สิ่งมีชีวิตที่ก้าวขึ้นสู่พื้นดิน ป่าดึกดำบรรพ์ ไดโนเสาร์ สัตว์เลี้ยงลูกด้วยนมยุคแรก ไพรเมต มนุษย์วานร และในที่สุดคือโฮโมเซเปียนส์ยุคปัจจุบัน\n\nจบลงด้วยภาพมนุษย์ยุคใหม่กำลังทอดสายตามองไปยังเส้นขอบฟ้า ขณะที่กล้องเคลื่อนถอยหลังอย่างรวดเร็วจากโลกไปยังดวงจันทร์ ระบบสุริยะ และทางช้างเผือก เชื่อมโยงมนุษยชาติเข้ากับจักรวาล\n\nใช้การเคลื่อนกล้องแบบภาพยนตร์อย่างต่อเนื่อง การเปลี่ยนฉากที่ไร้รอยต่อผ่านกาลเวลาและขนาดสเกล ฟิสิกส์ที่สมจริง สภาพแวดล้อมที่อิงตามหลักวิทยาศาสตร์ การเคลื่อนไหวที่เป็นธรรมชาติ กายวิภาคของสัตว์ที่ละเอียด แสงที่สมจริง HDR และงานภาพยนตร์สารคดีระดับพรีเมียม\n\n16:9, สมจริงระดับอัลตรา, โฟโตเรียลิสติก, ทรงพลังทางอารมณ์, อิงตามหลักวิทยาศาสตร์ ไม่ใส่ข้อความ, ป้ายกำกับ, เสียงบรรยาย, แฟนตาซี, ไซเบอร์พังก์, นีออน หรือองค์ประกอบแห่งอนาคต
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

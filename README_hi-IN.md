@@ -192,28 +192,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2096837494000308685"></a>
 
-### A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+### बिग बैंग से लेकर आधुनिक मानवता तक, ब्रह्मांड और पृथ्वी पर जीवन के निर्बाध विकास को दर्शाने वाला 30-सेकंड का फ़ोटोरियलिस्टिक सिनेमाई वृत्तचित्र प्रॉम्प्ट।
 
 लेखक：[@RuzainaMeer](https://x.com/RuzainaMeer) · [मूल पोस्ट](https://x.com/RuzainaMeer/status/2096837494000308685)
 
 फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · प्रकाशन लंबित
 
-**सारांश:** A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
+**सारांश:** बिग बैंग से लेकर आधुनिक मानवता तक, ब्रह्मांड और पृथ्वी पर जीवन के निर्बाध विकास को दर्शाने वाला 30-सेकंड का फ़ोटोरियलिस्टिक सिनेमाई वृत्तचित्र प्रॉम्प्ट।
 
 <img src="covers/2096837494000308685.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.
-
-Begin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.
-
-End with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.
-
-Use continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.
-
-16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.
+एक निर्बाध यात्रा में ब्रह्मांड और पृथ्वी पर जीवन के विकास को दर्शाने वाला 30-सेकंड का अति-यथार्थवादी सिनेमाई वृत्तचित्र बनाएं।\n\nइसकी शुरुआत बिग बैंग और अंतरिक्ष के विस्तार से करें, फिर पदार्थ का निर्माण, पहले तारे, आकाशगंगाएं, सुपरनोवा और सौर मंडल तथा पृथ्वी का जन्म दिखाएं। इसके बाद ज्वालामुखियों से भरी प्रारंभिक पृथ्वी, ठंडे होते महासागर, आदिम एककोशिकीय जीवन, जटिल समुद्री जीव, जमीन पर जीवन का आगमन, प्रागैतिहासिक वन, डायनासोर, प्रारंभिक स्तनधारी, प्राइमेट्स, होमिनिन और अंत में आधुनिक होमो सेपियन्स में रूपांतरण दिखाएं।\n\nसमापन एक आधुनिक मानव द्वारा क्षितिज की ओर देखने के साथ हो, जब कैमरा तेजी से पृथ्वी से चंद्रमा, सौर मंडल और आकाशगंगा की ओर पीछे खींचता है, जो मानवता को ब्रह्मांड से जोड़ता है।\n\nनिरंतर सिनेमाई कैमरा मूवमेंट, समय और पैमाने के बीच निर्बाध बदलाव, यथार्थवादी भौतिकी, वैज्ञानिक रूप से प्रेरित वातावरण, प्राकृतिक गति, विस्तृत पशु शरीर रचना, यथार्थवादी प्रकाश व्यवस्था, HDR और प्रीमियम वृत्तचित्र छायांकन का उपयोग करें।\n\n16:9, अति-यथार्थवादी, फ़ोटोरियलिस्टिक, भावनात्मक रूप से प्रभावशाली, वैज्ञानिक रूप से समर्थित। कोई टेक्स्ट, लेबल, वॉयसओवर, फंतासी, साइबरपंक, नियॉन या भविष्यवादी तत्व नहीं।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)
