@@ -244,32 +244,32 @@ Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding t
 
 <a name="prompt-2096791786807275583"></a>
 
-### A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+### แอนิเมชันสต็อปโมชันภาพยนตร์แนวตั้งขนาด 9:16 ความยาว 21 วินาที ของหุ่นมนุษย์จิ๋วที่ทำจากหินชายหาดกำลังเต้นระบำและพังทลายลงในแอ่งน้ำขึ้นน้ำลงตื้นๆ
 
 ผู้เขียน：[@arsalannazir07](https://x.com/arsalannazir07) · [โพสต์ต้นฉบับ](https://x.com/arsalannazir07/status/2096791786807275583)
 
 ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · รอเผยแพร่
 
-**สรุป:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+**สรุป:** แอนิเมชันสต็อปโมชันภาพยนตร์แนวตั้งขนาด 9:16 ความยาว 21 วินาที ของหุ่นมนุษย์จิ๋วที่ทำจากหินชายหาดกำลังเต้นระบำและพังทลายลงในแอ่งน้ำขึ้นน้ำลงตื้นๆ
 
 <img src="covers/2096791786807275583.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-Create a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.
+สร้างแอนิเมชันสต็อปโมชันภาพยนตร์แนวตั้งขนาด 9:16 ความยาว 21 วินาที หุ่นมนุษย์จิ๋วที่สร้างขึ้นจากหินชายหาดผิวเรียบตามธรรมชาติมีชีวิตขึ้นมาในแอ่งน้ำขึ้นน้ำลงตื้นๆ บนชายฝั่งหิน ส่วนต่างๆ ของร่างกายสร้างขึ้นจากหินแต่ละก้อน ได้แก่ หินรูปไข่ขนาดใหญ่เป็นหัว หินกลมซ้อนกันเป็นลำตัว และหินก้อนเล็กๆ ประกอบเป็นแขนและขา
 
-The scene is filmed through a slightly out-of-focus chain-link fence, creating a natural foreground frame. Behind the character is a calm shoreline, shallow seawater, barnacle-covered rocks, seaweed, and a softly blurred forest under an overcast sky. Photorealistic textures, natural muted colors, shallow depth of field, realistic water reflections.
+ฉากนี้ถ่ายทำผ่านรั้วตาข่ายถักที่หลุดโฟกัสเล็กน้อย ทำให้เกิดกรอบภาพโฟร์กราวด์ที่เป็นธรรมชาติ ด้านหลังตัวละครคือชายฝั่งอันเงียบสงบ น้ำทะเลตื้นๆ โขดหินที่ปกคลุมไปด้วยเพรียง สาหร่าย และป่าไม้ที่เบลอนุ่มนวลใต้ท้องฟ้าที่มีเมฆมาก พื้นผิวสมจริง สีสันธรรมชาติโทนหม่น ระยะชัดตื้น การสะท้อนของน้ำที่สมจริง
 
-Animation: The stone figure slowly balances itself and begins moving like a playful little human. It shifts its weight, raises one leg, bends its knees, swings its stone arms, and performs a quirky little dance while carefully maintaining balance on the wet surface. Tiny ripples form beneath every footstep, and its reflection moves naturally in the water. The movements should feel hand-crafted stop-motion, slightly imperfect but believable, with realistic stone physics and weight.
+แอนิเมชัน: หุ่นหินค่อยๆ ทรงตัวและเริ่มเคลื่อนไหวเหมือนมนุษย์ตัวน้อยขี้เล่น มันถ่ายน้ำหนักตัว ยกขาข้างหนึ่ง ย่อเข่า แกว่งแขนหิน และเต้นรำท่าทางแปลกๆ เล็กน้อยพร้อมกับรักษาสมดุลอย่างระมัดระวังบนพื้นผิวที่เปียก ระลอกคลื่นเล็กๆ ก่อตัวขึ้นใต้ทุกย่างก้าว และเงาสะท้อนในน้ำเคลื่อนไหวอย่างเป็นธรรมชาติ การเคลื่อนไหวควรให้ความรู้สึกเหมือนสต็อปโมชันงานฝีมือ ไม่สมบูรณ์แบบเล็กน้อยแต่ดูสมจริง พร้อมฟิสิกส์และน้ำหนักของหินที่สมจริง
 
-Toward the final seconds, the figure loses its balance, stumbles, and collapses naturally, with the individual stones separating and tumbling onto the shallow wet ground. The character completely disassembles into ordinary stones. End with the camera holding on the scattered stones and their reflections.
+ในช่วงวินาทีสุดท้าย หุ่นสูญเสียการทรงตัว โซเซ และพังทลายลงอย่างเป็นธรรมชาติ โดยหินแต่ละก้อนแยกออกจากกันและกลิ้งไปบนพื้นเปียกตื้นๆ ตัวละครแยกส่วนกลายเป็นหินธรรมดาอย่างสมบูรณ์ จบลงด้วยการที่กล้องจับภาพนิ่งอยู่ที่ก้อนหินที่กระจัดกระจายและเงาสะท้อนของพวกมัน
 
-Camera: locked-off smartphone-style vertical composition, subtle natural camera movement, medium-full shot, low angle close to water level, strong foreground bokeh from the fence, cinematic depth of field.
+กล้อง: องค์ประกอบแนวตั้งสไตล์สมาร์ตโฟนแบบล็อกนิ่ง มีการเคลื่อนไหวของกล้องตามธรรมชาติเพียงเล็กน้อย ภาพระยะปานกลางถึงเต็มตัว มุมต่ำใกล้ระดับน้ำ โบเก้โฟร์กราวด์ที่เด่นชัดจากรั้ว ระยะชัดลึกแบบภาพยนตร์
 
-Lighting: soft diffused daylight, overcast coastal atmosphere, realistic reflections and wet stone highlights.
+แสง: แสงแดดกระจายนุ่มนวล บรรยากาศชายฝั่งที่มีเมฆมาก การสะท้อนและไฮไลต์ของหินเปียกที่สมจริง
 
-Style: ultra-realistic live-action environment + whimsical photorealistic stone stop-motion character, tactile stone textures, physically believable movement, cinematic macro photography, no CGI-looking surfaces, no text, no humans.
+สไตล์: สภาพแวดล้อมแบบคนแสดงจริงที่สมจริงเป็นพิเศษ + ตัวละครสต็อปโมชันหินที่สมจริงและแปลกใหม่ พื้นผิวหินที่สัมผัสได้ การเคลื่อนไหวที่สมจริงตามหลักฟิสิกส์ การถ่ายภาพมาโครแบบภาพยนตร์ ไม่มีพื้นผิวที่ดูเป็น CGI ไม่มีข้อความ ไม่มีมนุษย์
 
 Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.
 ```

@@ -244,34 +244,34 @@ Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding t
 
 <a name="prompt-2096791786807275583"></a>
 
-### A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+### 얕은 조수 웅덩이에서 해변 자갈로 만들어진 작은 인간형 피규어가 춤을 추다 무너지는 21초 길이의 세로형 9:16 시네마틱 스톱모션 애니메이션.
 
 작성자：[@arsalannazir07](https://x.com/arsalannazir07) · [원본 게시물](https://x.com/arsalannazir07/status/2096791786807275583)
 
 시네마틱 / 영화 스틸컷 · 배포 대기
 
-**요약:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+**요약:** 얕은 조수 웅덩이에서 해변 자갈로 만들어진 작은 인간형 피규어가 춤을 추다 무너지는 21초 길이의 세로형 9:16 시네마틱 스톱모션 애니메이션.
 
 <img src="covers/2096791786807275583.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-Create a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.
+21초 길이의 세로형 9:16 시네마틱 스톱모션 애니메이션을 제작합니다. 자연스러운 형태의 매끄러운 해변 자갈들로만 만들어진 아주 작은 인간형 피규어가 바위투성이 해변의 얕은 조수 웅덩이에서 살아 움직입니다. 신체의 각 부위는 개별 자갈로 구성되어 있습니다. 머리는 커다란 타원형 자갈, 몸통은 차곡차곡 쌓인 둥근 자갈들, 팔과 다리는 더 작은 자갈들로 이루어져 있습니다.
 
-The scene is filmed through a slightly out-of-focus chain-link fence, creating a natural foreground frame. Behind the character is a calm shoreline, shallow seawater, barnacle-covered rocks, seaweed, and a softly blurred forest under an overcast sky. Photorealistic textures, natural muted colors, shallow depth of field, realistic water reflections.
+이 장면은 살짝 초점이 맞지 않는 철조망을 통해 촬영되어 자연스러운 전경 프레임을 만듭니다. 캐릭터 뒤로는 고요한 해안선, 얕은 바닷물, 따개비로 뒤덮인 바위, 해조류, 그리고 흐린 하늘 아래 은은하게 흐려진 숲이 펼쳐집니다. 사실적인 텍스처, 자연스럽고 차분한 색감, 얕은 피사계 심도, 사실적인 물의 반사.
 
-Animation: The stone figure slowly balances itself and begins moving like a playful little human. It shifts its weight, raises one leg, bends its knees, swings its stone arms, and performs a quirky little dance while carefully maintaining balance on the wet surface. Tiny ripples form beneath every footstep, and its reflection moves naturally in the water. The movements should feel hand-crafted stop-motion, slightly imperfect but believable, with realistic stone physics and weight.
+애니메이션: 돌 피규어는 천천히 균형을 잡고 장난기 넘치는 작은 인간처럼 움직이기 시작합니다. 무게중심을 옮기고, 한쪽 다리를 들고, 무릎을 굽히고, 돌로 된 팔을 흔들며 젖은 표면에서 조심스럽게 균형을 유지하면서 기발하고 독특한 작은 춤을 춥니다. 발걸음마다 작은 물결이 일고, 물속에 비친 모습이 자연스럽게 움직입니다. 움직임은 손으로 직접 만든 스톱모션의 느낌이어야 하며, 약간 불완전하지만 사실적인 돌의 물리 법칙과 무게감을 지녀 믿을 수 있어야 합니다.
 
-Toward the final seconds, the figure loses its balance, stumbles, and collapses naturally, with the individual stones separating and tumbling onto the shallow wet ground. The character completely disassembles into ordinary stones. End with the camera holding on the scattered stones and their reflections.
+마지막 몇 초 동안, 피규어는 균형을 잃고 비틀거리다 자연스럽게 무너지며, 개별 돌들이 분리되어 얕고 젖은 바닥 위로 굴러떨어집니다. 캐릭터는 완전히 평범한 돌들로 분해됩니다. 흩어진 돌들과 그 반사 모습을 비추는 카메라로 끝납니다.
 
-Camera: locked-off smartphone-style vertical composition, subtle natural camera movement, medium-full shot, low angle close to water level, strong foreground bokeh from the fence, cinematic depth of field.
+카메라: 고정된 스마트폰 스타일의 세로 구도, 미세하고 자연스러운 카메라 움직임, 미디엄 풀 샷, 수면과 가까운 로우 앵글, 철조망으로 인한 강한 전경 보케, 시네마틱한 피사계 심도.
 
-Lighting: soft diffused daylight, overcast coastal atmosphere, realistic reflections and wet stone highlights.
+조명: 부드럽게 확산된 일광, 흐린 해안 분위기, 사실적인 반사 및 젖은 돌의 하이라이트.
 
-Style: ultra-realistic live-action environment + whimsical photorealistic stone stop-motion character, tactile stone textures, physically believable movement, cinematic macro photography, no CGI-looking surfaces, no text, no humans.
+스타일: 극도로 사실적인 실사 환경 + 기발하고 사실적인 돌 스톱모션 캐릭터, 촉감이 느껴지는 돌의 텍스처, 물리적으로 믿을 수 있는 움직임, 시네마틱 매크로 사진, CGI 느낌의 표면 없음, 텍스트 없음, 사람 없음.
 
-Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.
+네거티브 프롬프트: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

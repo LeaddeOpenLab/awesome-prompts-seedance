@@ -244,32 +244,32 @@ Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding t
 
 <a name="prompt-2096791786807275583"></a>
 
-### A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+### Một hoạt hình tĩnh vật \(stop-motion\) điện ảnh tỉ lệ dọc 9:16 dài 21 giây về một nhân vật hình người tí hon làm từ đá bờ biển nhảy múa rồi sụp đổ trong một vũng thủy triều nông.
 
 Tác giả：[@arsalannazir07](https://x.com/arsalannazir07) · [Bài gốc](https://x.com/arsalannazir07/status/2096791786807275583)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chờ phân phối
 
-**Tóm tắt:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+**Tóm tắt:** Một hoạt hình tĩnh vật \(stop-motion\) điện ảnh tỉ lệ dọc 9:16 dài 21 giây về một nhân vật hình người tí hon làm từ đá bờ biển nhảy múa rồi sụp đổ trong một vũng thủy triều nông.
 
 <img src="covers/2096791786807275583.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Create a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.
+Tạo một hoạt hình tĩnh vật (stop-motion) điện ảnh tỉ lệ dọc 9:16 dài 21 giây. Một nhân vật hình người tí hon được làm hoàn toàn từ những viên đá cuội bờ biển nhẵn nhụi có hình dạng tự nhiên sống dậy trong một vũng thủy triều nông trên bờ biển đầy đá. Mỗi bộ phận cơ thể được cấu tạo từ các viên đá riêng lẻ—viên đá lớn hình bầu dục làm đầu, các viên đá tròn xếp chồng lên nhau làm thân, các viên đá nhỏ hơn tạo thành tay và chân.
 
-The scene is filmed through a slightly out-of-focus chain-link fence, creating a natural foreground frame. Behind the character is a calm shoreline, shallow seawater, barnacle-covered rocks, seaweed, and a softly blurred forest under an overcast sky. Photorealistic textures, natural muted colors, shallow depth of field, realistic water reflections.
+Cảnh quay qua một hàng rào lưới mắt cáo hơi mất nét, tạo thành khung tiền cảnh tự nhiên. Phía sau nhân vật là bờ biển phẳng lặng, nước biển nông, đá bám đầy hà biển, rong biển và một khu rừng mờ ảo nhẹ nhàng dưới bầu trời u ám. Kết cấu chân thực như ảnh chụp, màu sắc tự nhiên trầm lắng, độ sâu trường ảnh nông, hình ảnh phản chiếu trên mặt nước chân thực.
 
-Animation: The stone figure slowly balances itself and begins moving like a playful little human. It shifts its weight, raises one leg, bends its knees, swings its stone arms, and performs a quirky little dance while carefully maintaining balance on the wet surface. Tiny ripples form beneath every footstep, and its reflection moves naturally in the water. The movements should feel hand-crafted stop-motion, slightly imperfect but believable, with realistic stone physics and weight.
+Hoạt họa: Nhân vật bằng đá từ từ lấy thăng bằng và bắt đầu chuyển động như một con người nhỏ bé tinh nghịch. Nó chuyển trọng tâm, nhấc một chân lên, gập đầu gối, đung đưa cánh tay bằng đá và thực hiện một điệu nhảy nhỏ kỳ quặc trong khi cẩn thận giữ thăng bằng trên bề mặt ẩm ướt. Những gợn sóng nhỏ hình thành dưới mỗi bước chân và hình ảnh phản chiếu của nó di chuyển tự nhiên trong nước. Các chuyển động phải mang lại cảm giác stop-motion thủ công, hơi không hoàn hảo nhưng đáng tin cậy, với trọng lượng và vật lý của đá chân thực.
 
-Toward the final seconds, the figure loses its balance, stumbles, and collapses naturally, with the individual stones separating and tumbling onto the shallow wet ground. The character completely disassembles into ordinary stones. End with the camera holding on the scattered stones and their reflections.
+Về những giây cuối cùng, nhân vật mất thăng bằng, vấp ngã và sụp đổ tự nhiên, các viên đá riêng lẻ tách rời và lăn trên mặt đất ẩm ướt nông. Nhân vật hoàn toàn rã thành những viên đá bình thường. Kết thúc bằng cảnh máy quay giữ nguyên khung hình trên những viên đá rải rác và hình ảnh phản chiếu của chúng.
 
-Camera: locked-off smartphone-style vertical composition, subtle natural camera movement, medium-full shot, low angle close to water level, strong foreground bokeh from the fence, cinematic depth of field.
+Máy quay: bố cục dọc kiểu điện thoại thông minh cố định, chuyển động máy quay tự nhiên tinh tế, góc quay trung toàn cảnh (medium-full shot), góc thấp sát mặt nước, hiệu ứng bokeh tiền cảnh mạnh từ hàng rào, độ sâu trường ảnh điện ảnh.
 
-Lighting: soft diffused daylight, overcast coastal atmosphere, realistic reflections and wet stone highlights.
+Ánh sáng: ánh sáng ban ngày khuếch tán mềm mại, bầu không khí bờ biển u ám, phản chiếu chân thực và điểm sáng trên đá ướt.
 
-Style: ultra-realistic live-action environment + whimsical photorealistic stone stop-motion character, tactile stone textures, physically believable movement, cinematic macro photography, no CGI-looking surfaces, no text, no humans.
+Phong cách: môi trường cảnh quay thực tế siêu thực + nhân vật stop-motion bằng đá kỳ thú như ảnh chụp thực, kết cấu đá xúc giác, chuyển động hợp lý về mặt vật lý, nhiếp ảnh macro điện ảnh, không có bề mặt trông như CGI, không có văn bản, không có con người.
 
 Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.
 ```

@@ -244,32 +244,32 @@ Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding t
 
 <a name="prompt-2096791786807275583"></a>
 
-### A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+### उथले ज्वार के ताल में समुद्र तट के पत्थरों से बनी एक नन्हीं मानवाकार आकृति के नाचने और बिखर जाने का 21 सेकंड का वर्टिकल 9:16 सिनेमाई स्टॉप-मोशन एनिमेशन।
 
 लेखक：[@arsalannazir07](https://x.com/arsalannazir07) · [मूल पोस्ट](https://x.com/arsalannazir07/status/2096791786807275583)
 
 सिनेमैटिक / फ़िल्म स्टिल · प्रकाशन लंबित
 
-**सारांश:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+**सारांश:** उथले ज्वार के ताल में समुद्र तट के पत्थरों से बनी एक नन्हीं मानवाकार आकृति के नाचने और बिखर जाने का 21 सेकंड का वर्टिकल 9:16 सिनेमाई स्टॉप-मोशन एनिमेशन।
 
 <img src="covers/2096791786807275583.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-Create a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.
+21 सेकंड का वर्टिकल 9:16 सिनेमाई स्टॉप-मोशन एनिमेशन बनाएं। प्राकृतिक आकार के चिकने समुद्री पत्थरों से बनी एक नन्हीं मानवाकार आकृति चट्टानी समुद्र तट पर उथले ज्वार के पानी के गड्ढे में जीवित हो उठती है। शरीर का प्रत्येक भाग अलग-अलग पत्थरों से बना है—सिर के रूप में एक बड़ा अंडाकार पत्थर, धड़ के लिए एक के ऊपर एक रखे हुए गोल पत्थर, और हाथ-पैर बनाने वाले छोटे पत्थर।
 
-The scene is filmed through a slightly out-of-focus chain-link fence, creating a natural foreground frame. Behind the character is a calm shoreline, shallow seawater, barnacle-covered rocks, seaweed, and a softly blurred forest under an overcast sky. Photorealistic textures, natural muted colors, shallow depth of field, realistic water reflections.
+यह दृश्य हल्के आउट-ऑफ-फोकस चेन-लिंक बाड़ के पार से फिल्माया गया है, जिससे एक प्राकृतिक अग्रभूमि फ्रेम बनता है। पात्र के पीछे एक शांत तटरेखा, उथला समुद्री पानी, बार्नेकल से ढकी चट्टानें, समुद्री घास और बादलों से घिरे आसमान के नीचे धुंधला सा जंगल है। फोटोरियलिस्टिक टेक्सचर, प्राकृतिक शांत रंग, उथला डेप्थ ऑफ फील्ड, यथार्थवादी पानी के प्रतिबिंब।
 
-Animation: The stone figure slowly balances itself and begins moving like a playful little human. It shifts its weight, raises one leg, bends its knees, swings its stone arms, and performs a quirky little dance while carefully maintaining balance on the wet surface. Tiny ripples form beneath every footstep, and its reflection moves naturally in the water. The movements should feel hand-crafted stop-motion, slightly imperfect but believable, with realistic stone physics and weight.
+एनिमेशन: पत्थर की आकृति धीरे-धीरे अपना संतुलन बनाती है और एक चंचल नन्हे इंसान की तरह हिलना-डुलना शुरू करती है। यह अपना वजन बदलती है, एक पैर उठाती है, अपने घुटने मोड़ती है, अपने पत्थर के हाथों को हिलाती है, और गीली सतह पर सावधानी से संतुलन बनाए रखते हुए एक अनोखा छोटा सा नृत्य करती है। हर कदम के नीचे छोटी-छोटी लहरें बनती हैं, और पानी में इसका प्रतिबिंब स्वाभाविक रूप से चलता है। गतिविधियों में हाथ से बने स्टॉप-मोशन का अहसास होना चाहिए, थोड़ा अपूर्ण लेकिन विश्वसनीय, जिसमें पत्थर की यथार्थवादी भौतिकी और वजन हो।
 
-Toward the final seconds, the figure loses its balance, stumbles, and collapses naturally, with the individual stones separating and tumbling onto the shallow wet ground. The character completely disassembles into ordinary stones. End with the camera holding on the scattered stones and their reflections.
+अंतिम सेकंडों की ओर, आकृति अपना संतुलन खो देती है, लड़खड़ाती है और स्वाभाविक रूप से ढह जाती है, जिससे अलग-अलग पत्थर बिखर कर उथली गीली जमीन पर गिर जाते हैं। पात्र पूरी तरह से साधारण पत्थरों में बदल कर बिखर जाता है। बिखरे हुए पत्थरों और उनके प्रतिबिंबों पर कैमरा स्थिर रहने के साथ समाप्त करें।
 
-Camera: locked-off smartphone-style vertical composition, subtle natural camera movement, medium-full shot, low angle close to water level, strong foreground bokeh from the fence, cinematic depth of field.
+कैमरा: लॉक-ऑफ स्मार्टफोन-शैली वर्टिकल कंपोज़िशन, सूक्ष्म प्राकृतिक कैमरा मूवमेंट, मीडियम-फुल शॉट, पानी के स्तर के करीब लो एंगल, बाड़ से मजबूत फोरग्राउंड बोकेह, सिनेमाई डेप्थ ऑफ फील्ड।
 
-Lighting: soft diffused daylight, overcast coastal atmosphere, realistic reflections and wet stone highlights.
+प्रकाश: नरम विसरित दिन का प्रकाश, बादलों से घिरा तटीय वातावरण, यथार्थवादी प्रतिबिंब और गीले पत्थर के हाइलाइट्स।
 
-Style: ultra-realistic live-action environment + whimsical photorealistic stone stop-motion character, tactile stone textures, physically believable movement, cinematic macro photography, no CGI-looking surfaces, no text, no humans.
+शैली: अत्यधिक यथार्थवादी लाइव-एक्शन वातावरण + सनकी फोटोरियलिस्टिक पत्थर का स्टॉप-मोशन पात्र, स्पर्शनीय पत्थर के टेक्सचर, शारीरिक रूप से विश्वसनीय गति, सिनेमाई मैक्रो फोटोग्राफी, कोई सीजीआई जैसी सतहें नहीं, कोई टेक्स्ट नहीं, कोई इंसान नहीं।
 
 Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.
 ```

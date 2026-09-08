@@ -244,34 +244,34 @@ Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding t
 
 <a name="prompt-2096791786807275583"></a>
 
-### A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+### 一段時長21秒、9:16直式電影級定格動畫：由海灘石頭組成的小人偶在淺潮池中跳舞並散落解體。
 
 作者：[@arsalannazir07](https://x.com/arsalannazir07) · [查看 X 原帖](https://x.com/arsalannazir07/status/2096791786807275583)
 
 電影感 / 電影劇照 · 待推送
 
-**概括:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+**概括:** 一段時長21秒、9:16直式電影級定格動畫：由海灘石頭組成的小人偶在淺潮池中跳舞並散落解體。
 
 <img src="covers/2096791786807275583.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-Create a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.
+創作一段時長21秒、9:16直式電影級定格動畫。在岩石海岸的淺潮池中，一個完全由自然形狀的光滑海灘石頭組成的小人偶被賦予了生命。每個身體部位均由獨立的石頭構成——大而橢圓的石頭作為頭部，堆疊的圓形石頭作為軀幹，較小的石頭組成手臂和雙腿。
 
-The scene is filmed through a slightly out-of-focus chain-link fence, creating a natural foreground frame. Behind the character is a calm shoreline, shallow seawater, barnacle-covered rocks, seaweed, and a softly blurred forest under an overcast sky. Photorealistic textures, natural muted colors, shallow depth of field, realistic water reflections.
+場景透過略微失焦的鐵絲網柵欄拍攝，營造出自然的前景畫框感。角色身後是寧靜的海岸線、淺淺的海水、覆蓋著藤壺的岩石、海藻，以及陰天柔和虛化的森林。逼真的紋理、自然柔和的色調、淺景深，以及逼真的水面倒影。
 
-Animation: The stone figure slowly balances itself and begins moving like a playful little human. It shifts its weight, raises one leg, bends its knees, swings its stone arms, and performs a quirky little dance while carefully maintaining balance on the wet surface. Tiny ripples form beneath every footstep, and its reflection moves naturally in the water. The movements should feel hand-crafted stop-motion, slightly imperfect but believable, with realistic stone physics and weight.
+動畫：石人慢慢保持平衡，開始像一個頑皮的小人一樣活動。它轉移重心，抬起一條腿，彎曲膝蓋，擺動石頭手臂，在濕潤的表面上小心翼翼保持平衡的同時，跳起古怪有趣的舞步。每一步腳下都會泛起細小的漣漪，倒影在水中自然擺動。動作應具有手工定格動畫的質感，略帶不完美但真實可信，具備逼真的石頭物理特質與重量感。
 
-Toward the final seconds, the figure loses its balance, stumbles, and collapses naturally, with the individual stones separating and tumbling onto the shallow wet ground. The character completely disassembles into ordinary stones. End with the camera holding on the scattered stones and their reflections.
+在最後幾秒鐘，小人失去平衡，踉蹌跌倒並自然散落，各塊石頭分開並滾落到淺淺的濕地上。角色完全解體為普通的石頭。鏡頭最終定格在散落的石頭及其水面倒影上。
 
-Camera: locked-off smartphone-style vertical composition, subtle natural camera movement, medium-full shot, low angle close to water level, strong foreground bokeh from the fence, cinematic depth of field.
+攝影機：固定機位智慧型手機風格的直式構圖，微妙自然的鏡頭晃動，中遠景全景，貼近水面的低角度拍攝，柵欄形成強烈的前景虛化，電影感景深。
 
-Lighting: soft diffused daylight, overcast coastal atmosphere, realistic reflections and wet stone highlights.
+光照：柔和漫射的日光，陰天的海岸氛圍，逼真的反光和濕石高光。
 
-Style: ultra-realistic live-action environment + whimsical photorealistic stone stop-motion character, tactile stone textures, physically believable movement, cinematic macro photography, no CGI-looking surfaces, no text, no humans.
+風格：超寫實實景環境 + 異想天開的寫實風格石頭定格動畫角色，觸感分明的石頭紋理，符合物理規律的可信動作，電影級微距攝影，無CGI質感表面，無文字，無人類。
 
-Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.
+負面提示詞：卡通，塑膠感石頭，誇張的面部特徵，光滑的CGI角色，懸浮物體，不符合物理規律，多餘的肢體，環境突變，鏡頭切換，文字，浮水印，過度飽和的色彩。
 ```
 
 [↑ 返回分類目錄](#catalog)

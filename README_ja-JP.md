@@ -244,34 +244,34 @@ Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding t
 
 <a name="prompt-2096791786807275583"></a>
 
-### A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+### 浅い潮だまりの中で、海辺の小石でできた小さな人型が踊り、最後には崩れ落ちる21秒間の縦向き9:16シネマティック・ストップモーションアニメーション。
 
 作者：[@arsalannazir07](https://x.com/arsalannazir07) · [元の投稿](https://x.com/arsalannazir07/status/2096791786807275583)
 
 シネマティック / フィルムスチル · 配信待ち
 
-**概要:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+**概要:** 浅い潮だまりの中で、海辺の小石でできた小さな人型が踊り、最後には崩れ落ちる21秒間の縦向き9:16シネマティック・ストップモーションアニメーション。
 
 <img src="covers/2096791786807275583.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-Create a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.
+21秒間の縦向き9:16シネマティック・ストップモーションアニメーションを作成してください。岩だらけの海岸にある浅い潮だまりの中で、自然な形をした滑らかな丸石だけで作られた小さな人型の生き物が命を宿します。体の各部位は個別の石で構成されています。頭部は大きな楕円形の石、胴体は積み重ねられた丸い石、腕と脚は小さめの石で作られています。
 
-The scene is filmed through a slightly out-of-focus chain-link fence, creating a natural foreground frame. Behind the character is a calm shoreline, shallow seawater, barnacle-covered rocks, seaweed, and a softly blurred forest under an overcast sky. Photorealistic textures, natural muted colors, shallow depth of field, realistic water reflections.
+シーンはわずかにピントの合っていない金網フェンス越しに撮影されており、自然な前ボケのフレームが作られています。キャラクターの背景には、穏やかな波打ち際、浅い海水、フジツボに覆われた岩、海藻、そして曇り空の下で柔らかくぼやけた森が広がっています。写実的な質感、自然で落ち着いた色彩、浅い被写界深度、リアルな水面の反射。
 
-Animation: The stone figure slowly balances itself and begins moving like a playful little human. It shifts its weight, raises one leg, bends its knees, swings its stone arms, and performs a quirky little dance while carefully maintaining balance on the wet surface. Tiny ripples form beneath every footstep, and its reflection moves naturally in the water. The movements should feel hand-crafted stop-motion, slightly imperfect but believable, with realistic stone physics and weight.
+アニメーション：石の小人はゆっくりとバランスを取り、遊び心のある小さな人間のように動き始めます。重心を移動させ、片足を上げ、膝を曲げ、石の腕を振り、濡れた足場で慎重にバランスを保ちながら、少し風変わりで愛らしいダンスを披露します。足を踏み出すたびに小さな波紋が広がり、水面に映る姿も自然に揺らめきます。動きは手作りのストップモーションの質感を持ち、わずかに不完全でありながらも説得力があり、リアルな石の物理特性と重量感を備えています。
 
-Toward the final seconds, the figure loses its balance, stumbles, and collapses naturally, with the individual stones separating and tumbling onto the shallow wet ground. The character completely disassembles into ordinary stones. End with the camera holding on the scattered stones and their reflections.
+最後の数秒に向かって、小人はバランスを崩してよろめき、自然に崩れ落ち、個々の石がバラバラになって浅く濡れた地面へと転がります。キャラクターは完全に解体され、普通の石へと戻ります。最後は散らばった石と水面の反射を静かに映して終わります。
 
-Camera: locked-off smartphone-style vertical composition, subtle natural camera movement, medium-full shot, low angle close to water level, strong foreground bokeh from the fence, cinematic depth of field.
+カメラ：スマートフォン風の縦型固定構図、かすかな自然なカメラの揺れ、ミディアムフルショット、水面に近いローアングル、フェンスによる強い前ボケ、映画的な被写界深度。
 
-Lighting: soft diffused daylight, overcast coastal atmosphere, realistic reflections and wet stone highlights.
+ライティング：柔らかく拡散した自然光、曇り空の海岸の雰囲気、リアルな反射と濡れた石のハイライト。
 
-Style: ultra-realistic live-action environment + whimsical photorealistic stone stop-motion character, tactile stone textures, physically believable movement, cinematic macro photography, no CGI-looking surfaces, no text, no humans.
+スタイル：超写実的な実写環境＋どこか幻想的でフォトリアリスティックな石のストップモーションキャラクター、触覚的な石の質感、物理的に説得力のある動き、シネマティックなマクロ撮影、CGっぽさを感じさせない表面、テキストなし、人間なし。
 
-Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.
+ネガティブプロンプト：カートゥーン、プラスチックのような石、誇張された顔立ち、滑らかなCGIキャラクター、浮遊するオブジェクト、非現実的な物理挙動、余分な四肢、変化する環境、カメラのカット割り、テキスト、ウォーターマーク、過度に鮮やかな色彩。
 ```
 
 [↑ カテゴリに戻る](#catalog)

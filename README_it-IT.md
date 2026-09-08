@@ -244,34 +244,34 @@ Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding t
 
 <a name="prompt-2096791786807275583"></a>
 
-### A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+### Un'animazione stop-motion cinematografica verticale in 9:16 di 21 secondi di una minuscola figura umanoide fatta di pietre da spiaggia che danza e crolla in una pozza di marea poco profonda.
 
 Autore：[@arsalannazir07](https://x.com/arsalannazir07) · [Post originale](https://x.com/arsalannazir07/status/2096791786807275583)
 
 Fermo immagine cinematografico / Still fotografico · Distribuzione in attesa
 
-**Riepilogo:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+**Riepilogo:** Un'animazione stop-motion cinematografica verticale in 9:16 di 21 secondi di una minuscola figura umanoide fatta di pietre da spiaggia che danza e crolla in una pozza di marea poco profonda.
 
 <img src="covers/2096791786807275583.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Create a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.
+Crea un'animazione stop-motion cinematografica verticale in 9:16 di 21 secondi. Una minuscola figura umanoide fatta interamente di pietre di spiaggia lisce e modellate naturalmente prende vita in una pozza di marea poco profonda su una costa rocciosa. Ogni parte del corpo è costruita da singole pietre: una grande pietra ovale come testa, pietre arrotondate impilate per il busto, pietre più piccole che formano braccia e gambe.
 
-The scene is filmed through a slightly out-of-focus chain-link fence, creating a natural foreground frame. Behind the character is a calm shoreline, shallow seawater, barnacle-covered rocks, seaweed, and a softly blurred forest under an overcast sky. Photorealistic textures, natural muted colors, shallow depth of field, realistic water reflections.
+La scena è ripresa attraverso una rete metallica leggermente fuori fuoco, che crea una cornice naturale in primo piano. Dietro il personaggio ci sono una costa calma, acqua di mare poco profonda, rocce ricoperte di cirripedi, alghe e una foresta sfocata in modo soffuso sotto un cielo coperto. Texture fotorealistiche, colori naturali desaturati, profondità di campo ridotta, riflessi dell'acqua realistici.
 
-Animation: The stone figure slowly balances itself and begins moving like a playful little human. It shifts its weight, raises one leg, bends its knees, swings its stone arms, and performs a quirky little dance while carefully maintaining balance on the wet surface. Tiny ripples form beneath every footstep, and its reflection moves naturally in the water. The movements should feel hand-crafted stop-motion, slightly imperfect but believable, with realistic stone physics and weight.
+Animazione: la figura di pietra si mette lentamente in equilibrio e inizia a muoversi come un piccolo umano giocoso. Sposta il proprio peso, solleva una gamba, piega le ginocchia, fa oscillare le braccia di pietra ed esegue una stravagante danza mantenendo con cura l'equilibrio sulla superficie bagnata. Piccole increspature si formano sotto ogni passo e il suo riflesso si muove naturalmente nell'acqua. I movimenti dovrebbero sembrare stop-motion artigianale, leggermente imperfetti ma credibili, con fisica e peso della pietra realistici.
 
-Toward the final seconds, the figure loses its balance, stumbles, and collapses naturally, with the individual stones separating and tumbling onto the shallow wet ground. The character completely disassembles into ordinary stones. End with the camera holding on the scattered stones and their reflections.
+Verso gli ultimi secondi, la figura perde l'equilibrio, inciampa e collassa naturalmente, con le singole pietre che si separano e cadono rovinosamente sul terreno bagnato e poco profondo. Il personaggio si disassembla completamente in normali pietre. Termina con la telecamera fissa sulle pietre sparse e sui loro riflessi.
 
-Camera: locked-off smartphone-style vertical composition, subtle natural camera movement, medium-full shot, low angle close to water level, strong foreground bokeh from the fence, cinematic depth of field.
+Telecamera: inquadratura verticale fissa in stile smartphone, sottile movimento naturale della telecamera, figura intera/piano medio, angolazione bassa vicina al livello dell'acqua, marcato bokeh in primo piano dato dalla recinzione, profondità di campo cinematografica.
 
-Lighting: soft diffused daylight, overcast coastal atmosphere, realistic reflections and wet stone highlights.
+Illuminazione: luce diurna morbida e diffusa, atmosfera costiera nuvolosa, riflessi realistici e riflessi lucidi sulla pietra bagnata.
 
-Style: ultra-realistic live-action environment + whimsical photorealistic stone stop-motion character, tactile stone textures, physically believable movement, cinematic macro photography, no CGI-looking surfaces, no text, no humans.
+Stile: ambiente dal vivo ultra-realistico + personaggio in stop-motion di pietra fotorealistico e stravagante, texture tattili delle pietre, movimento fisicamente credibile, fotografia macro cinematografica, nessuna superficie dall'aspetto CGI, nessun testo, nessun essere umano.
 
-Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.
+Prompt negativo: cartone animato, pietre dall'aspetto plastico, tratti del viso esagerati, personaggio liscio in CGI, oggetti fluttuanti, fisica non realistica, arti extra, ambiente che cambia, tagli di telecamera, testo, filigrana, colori ipersaturi.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -244,32 +244,32 @@ Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding t
 
 <a name="prompt-2096791786807275583"></a>
 
-### A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+### Une animation stop-motion cinématographique verticale 9:16 de 21 secondes d'une minuscule silhouette humanoïde faite de galets de plage dansant et s'effondrant dans une cuvette de marée peu profonde.
 
 Auteur：[@arsalannazir07](https://x.com/arsalannazir07) · [Publication originale](https://x.com/arsalannazir07/status/2096791786807275583)
 
 Image cinématographique / Photogramme de film · Diffusion en attente
 
-**Résumé:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
+**Résumé:** Une animation stop-motion cinématographique verticale 9:16 de 21 secondes d'une minuscule silhouette humanoïde faite de galets de plage dansant et s'effondrant dans une cuvette de marée peu profonde.
 
 <img src="covers/2096791786807275583.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Create a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.
+Créez une animation stop-motion cinématographique verticale 9:16 de 21 secondes. Une minuscule silhouette humanoïde entièrement faite de galets de plage lisses aux formes naturelles prend vie dans une cuvette de marée peu profonde sur un rivage rocheux. Chaque partie du corps est construite à partir de pierres individuelles : un grand galet ovale pour la tête, des galets arrondis empilés pour le torse, des pierres plus petites formant les bras et les jambes.
 
-The scene is filmed through a slightly out-of-focus chain-link fence, creating a natural foreground frame. Behind the character is a calm shoreline, shallow seawater, barnacle-covered rocks, seaweed, and a softly blurred forest under an overcast sky. Photorealistic textures, natural muted colors, shallow depth of field, realistic water reflections.
+La scène est filmée à travers un grillage légèrement flou, créant un cadre naturel au premier plan. Derrière le personnage se trouvent un rivage calme, de l'eau de mer peu profonde, des rochers couverts de balanes, des algues et une forêt délicatement floutée sous un ciel couvert. Textures photoréalistes, couleurs naturelles et atténuées, faible profondeur de champ, reflets aquatiques réalistes.
 
-Animation: The stone figure slowly balances itself and begins moving like a playful little human. It shifts its weight, raises one leg, bends its knees, swings its stone arms, and performs a quirky little dance while carefully maintaining balance on the wet surface. Tiny ripples form beneath every footstep, and its reflection moves naturally in the water. The movements should feel hand-crafted stop-motion, slightly imperfect but believable, with realistic stone physics and weight.
+Animation : La silhouette de pierre trouve lentement son équilibre et commence à bouger comme un petit humain joueur. Elle déplace son poids, lève une jambe, plie les genoux, balance ses bras de pierre et exécute une petite danse loufoque tout en maintenant prudemment son équilibre sur la surface mouillée. De minuscules ondulations se forment sous chaque pas, et son reflet bouge naturellement dans l'eau. Les mouvements doivent évoquer un stop-motion artisanal, légèrement imparfaits mais crédibles, avec une physique et un poids de pierre réalistes.
 
-Toward the final seconds, the figure loses its balance, stumbles, and collapses naturally, with the individual stones separating and tumbling onto the shallow wet ground. The character completely disassembles into ordinary stones. End with the camera holding on the scattered stones and their reflections.
+Dans les dernières secondes, la silhouette perd l'équilibre, trébuche et s'effondre naturellement, les pierres individuelles se séparant et roulant sur le sol humide et peu profond. Le personnage se désassemble complètement en pierres ordinaires. La vidéo se termine par un plan fixe de la caméra sur les pierres éparpillées et leurs reflets.
 
-Camera: locked-off smartphone-style vertical composition, subtle natural camera movement, medium-full shot, low angle close to water level, strong foreground bokeh from the fence, cinematic depth of field.
+Caméra : cadrage vertical fixe façon smartphone, mouvement de caméra subtil et naturel, plan moyen-large, angle bas au ras de l'eau, fort bokeh de premier plan créé par le grillage, profondeur de champ cinématographique.
 
-Lighting: soft diffused daylight, overcast coastal atmosphere, realistic reflections and wet stone highlights.
+Éclairage : lumière du jour douce et diffuse, atmosphère côtière couverte, reflets réalistes et reflets brillants sur les pierres mouillées.
 
-Style: ultra-realistic live-action environment + whimsical photorealistic stone stop-motion character, tactile stone textures, physically believable movement, cinematic macro photography, no CGI-looking surfaces, no text, no humans.
+Style : environnement en prise de vue réelle ultra-réaliste + personnage en stop-motion de pierre photoréaliste et fantaisiste, textures tactiles de pierre, mouvement physiquement crédible, macrophotographie cinématographique, pas de surfaces à l'aspect CGI, aucun texte, aucun humain.
 
 Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.
 ```
