@@ -8,113 +8,13 @@
 
 ## เรียกดูตามหมวดหมู่
 
-[พรอมต์ทั้งหมด](#all-prompts)
-
-### กรณีการใช้งาน
-
-[คอมิก / สตอรี่บอร์ด](#category-comic-storyboard)
-
-- โปรไฟล์ / รูปประจำตัว · 0
-- โพสต์บนโซเชียลมีเดีย · 0
-- อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา · 0
-- ภาพขนาดย่อของ YouTube · 0
-
-<a name="category-comic-storyboard"></a>
-
-<details open>
-<summary>คอมิก / สตอรี่บอร์ด · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- การตลาดผลิตภัณฑ์ · 0
-- ภาพหลักสำหรับอีคอมเมิร์ซ · 0
-- สินทรัพย์เกม · 0
-- โปสเตอร์ / ใบปลิว · 0
-- การออกแบบแอป / เว็บ · 0
-
-### สไตล์
-
 [การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still)
-
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>การถ่ายภาพ · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · 2</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
-- อนิเมะ / มังงะ · 0
-- ภาพประกอบ · 0
-- ภาพร่าง / ลายเส้น · 0
-- การ์ตูน / นิยายภาพ · 0
-- ภาพเรนเดอร์ 3 มิติ · 0
-- จิบิ / Q-Style · 0
-- ไอโซเมตริก · 0
-- พิกเซลอาร์ต · 0
-- ภาพวาดสีน้ำมัน · 0
-- สีน้ำ · 0
-- หมึก / สไตล์จีน · 0
-- ย้อนยุค / วินเทจ · 0
-- ไซเบอร์พังก์ / ไซไฟ · 0
-- มินิมอลลิสต์ · 0
-
-### เนื้อหาหลัก
-
-[ตัวละคร](#category-character) · [ทิวทัศน์ / ธรรมชาติ](#category-landscape-nature)
-
-- ภาพบุคคล / เซลฟี่ · 0
-- อินฟลูเอนเซอร์ / นางแบบ · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>ตัวละคร · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- กลุ่ม / คู่ · 0
-- ผลิตภัณฑ์ · 0
-- อาหาร / เครื่องดื่ม · 0
-- ไอเทมแฟชั่น · 0
-- สัตว์ / สิ่งมีชีวิต · 0
-- ยานพาหนะ · 0
-- สถาปัตยกรรม / การตกแต่งภายใน · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>ทิวทัศน์ / ธรรมชาติ · 1</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-
-</details>
-
-- ทิวทัศน์เมือง / ถนน · 0
-- แผนภาพ / แผนภูมิ · 0
-- ข้อความ / การจัดพิมพ์ · 0
-- บทคัดย่อ / ความเป็นมา · 0
 
 <a name="all-prompts"></a>
 
-## พรอมต์ทั้งหมด
+<a name="category-photography"></a>
+
+## การถ่ายภาพ
 
 <a name="prompt-2097097582262825180"></a>
 
@@ -142,6 +42,10 @@
 [↑ กลับสู่หมวดหมู่](#catalog)
 
 ---
+
+<a name="category-cinematic-film-still"></a>
+
+## ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์
 
 <a name="prompt-2097185540391211470"></a>
 

@@ -8,113 +8,13 @@
 
 ## Browse by Category
 
-[All Prompts](#all-prompts)
-
-### Use Cases
-
-[Comic / Storyboard](#category-comic-storyboard)
-
-- Profile / Avatar · 0
-- Social Media Post · 0
-- Infographic / Edu Visual · 0
-- YouTube Thumbnail · 0
-
-<a name="category-comic-storyboard"></a>
-
-<details open>
-<summary>Comic / Storyboard · 1</summary>
-
-- [A 15-second first-person POV video prompt for a flirty comedy scene in a pool hall, featuring detailed timestamps, character interactions, camera motion, pool shot trajectories, audio cues, and negative constraints.](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- Product Marketing · 0
-- E-commerce Main Image · 0
-- Game Asset · 0
-- Poster / Flyer · 0
-- App / Web Design · 0
-
-### Style
-
 [Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still)
-
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Photography · 1</summary>
-
-- [A 15-second first-person POV video prompt for a flirty comedy scene in a pool hall, featuring detailed timestamps, character interactions, camera motion, pool shot trajectories, audio cues, and negative constraints.](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>Cinematic / Film Still · 2</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
-- Anime / Manga · 0
-- Illustration · 0
-- Sketch / Line Art · 0
-- Comic / Graphic Novel · 0
-- 3D Render · 0
-- Chibi / Q-Style · 0
-- Isometric · 0
-- Pixel Art · 0
-- Oil Painting · 0
-- Watercolor · 0
-- Ink / Chinese Style · 0
-- Retro / Vintage · 0
-- Cyberpunk / Sci-Fi · 0
-- Minimalism · 0
-
-### Subjects
-
-[Character](#category-character) · [Landscape / Nature](#category-landscape-nature)
-
-- Portrait / Selfie · 0
-- Influencer / Model · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>Character · 1</summary>
-
-- [A 15-second first-person POV video prompt for a flirty comedy scene in a pool hall, featuring detailed timestamps, character interactions, camera motion, pool shot trajectories, audio cues, and negative constraints.](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- Group / Couple · 0
-- Product · 0
-- Food / Drink · 0
-- Fashion Item · 0
-- Animal / Creature · 0
-- Vehicle · 0
-- Architecture / Interior · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>Landscape / Nature · 1</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-
-</details>
-
-- Cityscape / Street · 0
-- Diagram / Chart · 0
-- Text / Typography · 0
-- Abstract / Background · 0
 
 <a name="all-prompts"></a>
 
-## All Prompts
+<a name="category-photography"></a>
+
+## Photography
 
 <a name="prompt-2097097582262825180"></a>
 
@@ -195,6 +95,10 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 [↑ Back to categories](#catalog)
 
 ---
+
+<a name="category-cinematic-film-still"></a>
+
+## Cinematic / Film Still
 
 <a name="prompt-2097185540391211470"></a>
 

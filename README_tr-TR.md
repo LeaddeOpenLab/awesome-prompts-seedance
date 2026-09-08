@@ -8,113 +8,13 @@
 
 ## Kategoriye göre göz at
 
-[Tüm promptlar](#all-prompts)
-
-### Kullanım Senaryoları
-
-[Çizgi Roman / Hikaye Taslağı](#category-comic-storyboard)
-
-- Profil / Avatar · 0
-- Sosyal Medya Gönderisi · 0
-- İnfografik / Eğitici Görsel · 0
-- YouTube Küçük Resmi · 0
-
-<a name="category-comic-storyboard"></a>
-
-<details open>
-<summary>Çizgi Roman / Hikaye Taslağı · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- Ürün Pazarlaması · 0
-- E-ticaret Ana Görseli · 0
-- Oyun Varlığı · 0
-- Poster / El İlanı · 0
-- Uygulama / Web Tasarımı · 0
-
-### Tarz
-
 [Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still)
-
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Fotoğrafçılık · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>Sinematik / Film Karesi · 2</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
-- Anime / Manga · 0
-- İllüstrasyon · 0
-- Çizim / Çizgi Sanatı · 0
-- Çizgi Roman / Grafik Roman · 0
-- 3D Modelleme · 0
-- Chibi / Q-Stil · 0
-- İzometrik · 0
-- Piksel Sanatı · 0
-- Yağlı Boya Tablo · 0
-- Suluboya · 0
-- Mürekkep / Çin Tarzı · 0
-- Retro / Vintage · 0
-- Siberpunk / Bilim Kurgu · 0
-- Minimalizm · 0
-
-### Ana İçerik
-
-[Karakter](#category-character) · [Manzara / Doğa](#category-landscape-nature)
-
-- Portre / Selfie · 0
-- Influencer / Model · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>Karakter · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- Grup / Çift · 0
-- Ürün · 0
-- Yiyecek / İçecek · 0
-- Moda Ürünü · 0
-- Hayvan / Yaratık · 0
-- Araç · 0
-- Mimari / İç Mekan · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>Manzara / Doğa · 1</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-
-</details>
-
-- Şehir Manzarası / Sokak · 0
-- Diyagram / Grafik · 0
-- Metin / Tipografi · 0
-- Özet / Arka Plan · 0
 
 <a name="all-prompts"></a>
 
-## Tüm promptlar
+<a name="category-photography"></a>
+
+## Fotoğrafçılık
 
 <a name="prompt-2097097582262825180"></a>
 
@@ -142,6 +42,10 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 [↑ Kategorilere dön](#catalog)
 
 ---
+
+<a name="category-cinematic-film-still"></a>
+
+## Sinematik / Film Karesi
 
 <a name="prompt-2097185540391211470"></a>
 

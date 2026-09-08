@@ -8,113 +8,13 @@
 
 ## 카테고리 탐색
 
-[모든 프롬프트](#all-prompts)
-
-### 사용 사례
-
-[만화 / 스토리보드](#category-comic-storyboard)
-
-- 프로필 / 아바타 · 0
-- 소셜 미디어 게시물 · 0
-- 인포그래픽 / 교육용 시각 자료 · 0
-- YouTube 썸네일 · 0
-
-<a name="category-comic-storyboard"></a>
-
-<details open>
-<summary>만화 / 스토리보드 · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- 제품 마케팅 · 0
-- 전자상거래 메인 이미지 · 0
-- 게임 에셋 · 0
-- 포스터 / 전단지 · 0
-- 앱 / 웹 디자인 · 0
-
-### 스타일
-
 [사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still)
-
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>사진술 · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>시네마틱 / 영화 스틸컷 · 2</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
-- 애니메이션 / 만화 · 0
-- 일러스트레이션 · 0
-- 스케치 / 선화 · 0
-- 만화 / 그래픽 노블 · 0
-- 3D 렌더링 · 0
-- 치비 / Q-스타일 · 0
-- 아이소메트릭 · 0
-- 픽셀 아트 · 0
-- 유화 · 0
-- 수채화 · 0
-- 잉크 / 중국풍 · 0
-- 레트로 / 빈티지 · 0
-- 사이버펑크 / SF · 0
-- 미니멀리즘 · 0
-
-### 본문
-
-[캐릭터](#category-character) · [풍경 / 자연](#category-landscape-nature)
-
-- 인물 사진 / 셀카 · 0
-- 인플루언서 / 모델 · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>캐릭터 · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- 그룹 / 커플 · 0
-- 제품 · 0
-- 음식 / 음료 · 0
-- 패션 아이템 · 0
-- 동물 / 생명체 · 0
-- 차량 · 0
-- 건축 / 인테리어 · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>풍경 / 자연 · 1</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-
-</details>
-
-- 도시 풍경 / 거리 · 0
-- 다이어그램 / 차트 · 0
-- 텍스트 / 타이포그래피 · 0
-- 초록 / 배경 · 0
 
 <a name="all-prompts"></a>
 
-## 모든 프롬프트
+<a name="category-photography"></a>
+
+## 사진술
 
 <a name="prompt-2097097582262825180"></a>
 
@@ -142,6 +42,10 @@
 [↑ 카테고리로 돌아가기](#catalog)
 
 ---
+
+<a name="category-cinematic-film-still"></a>
+
+## 시네마틱 / 영화 스틸컷
 
 <a name="prompt-2097185540391211470"></a>
 

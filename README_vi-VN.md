@@ -8,113 +8,13 @@
 
 ## Duyệt theo danh mục
 
-[Tất cả Prompt](#all-prompts)
-
-### Các trường hợp sử dụng
-
-[Truyện tranh / Bảng phân cảnh](#category-comic-storyboard)
-
-- Hồ sơ / Ảnh đại diện · 0
-- Bài đăng trên mạng xã hội · 0
-- Infographic / Hình ảnh giáo dục · 0
-- Hình thu nhỏ trên YouTube · 0
-
-<a name="category-comic-storyboard"></a>
-
-<details open>
-<summary>Truyện tranh / Bảng phân cảnh · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- Tiếp thị sản phẩm · 0
-- Hình ảnh chính thương mại điện tử · 0
-- Tài sản trò chơi · 0
-- Áp phích / Tờ rơi · 0
-- Thiết kế ứng dụng / web · 0
-
-### Phong cách
-
 [Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still)
-
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Nhiếp ảnh · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>Điện ảnh / Ảnh tĩnh từ phim · 2</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
-- Anime / Manga · 0
-- Minh họa · 0
-- Phác Thảo / Nét Vẽ · 0
-- Truyện tranh / Tiểu thuyết đồ họa · 0
-- Kết xuất 3D · 0
-- Chibi / Phong cách Q · 0
-- Đẳng cự · 0
-- Nghệ thuật Pixel · 0
-- Tranh Sơn Dầu · 0
-- Màu nước · 0
-- Mực / Phong cách Trung Hoa · 0
-- Cổ điển / Cổ điển · 0
-- Cyberpunk / Khoa học viễn tưởng · 0
-- Chủ nghĩa tối giản · 0
-
-### Nội dung chính
-
-[Nhân vật](#category-character) · [Phong cảnh / Thiên nhiên](#category-landscape-nature)
-
-- Chân dung / Ảnh tự chụp · 0
-- Người có ảnh hưởng / Người mẫu · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>Nhân vật · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- Nhóm / Cặp đôi · 0
-- Sản phẩm · 0
-- Thực phẩm / Đồ uống · 0
-- Mặt hàng thời trang · 0
-- Động vật / Sinh vật · 0
-- Phương tiện · 0
-- Kiến trúc / Nội thất · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>Phong cảnh / Thiên nhiên · 1</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-
-</details>
-
-- Quang cảnh thành phố / Đường phố · 0
-- Sơ đồ / Biểu đồ · 0
-- Văn bản / Kiểu chữ · 0
-- Tóm tắt / Bối cảnh · 0
 
 <a name="all-prompts"></a>
 
-## Tất cả Prompt
+<a name="category-photography"></a>
+
+## Nhiếp ảnh
 
 <a name="prompt-2097097582262825180"></a>
 
@@ -142,6 +42,10 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Chờ ph
 [↑ Về danh mục](#catalog)
 
 ---
+
+<a name="category-cinematic-film-still"></a>
+
+## Điện ảnh / Ảnh tĩnh từ phim
 
 <a name="prompt-2097185540391211470"></a>
 

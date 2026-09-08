@@ -8,113 +8,13 @@
 
 ## カテゴリから探す
 
-[すべてのプロンプト](#all-prompts)
-
-### 使用シーン
-
-[コミック / ストーリーボード](#category-comic-storyboard)
-
-- プロフィール / アバター · 0
-- ソーシャルメディア投稿 · 0
-- インフォグラフィック / 教育ビジュアル · 0
-- YouTube サムネイル · 0
-
-<a name="category-comic-storyboard"></a>
-
-<details open>
-<summary>コミック / ストーリーボード · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- プロダクトマーケティング · 0
-- E コマースのメイン画像 · 0
-- ゲームアセット · 0
-- ポスター / チラシ · 0
-- アプリ / Web デザイン · 0
-
-### スタイル
-
 [写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still)
-
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>写真撮影 · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>シネマティック / フィルムスチル · 2</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
-- アニメ / 漫画 · 0
-- イラスト · 0
-- スケッチ / 線画 · 0
-- コミック / グラフィックノベル · 0
-- 3D レンダリング · 0
-- ちび / Q スタイル · 0
-- アイソメトリック · 0
-- ピクセルアート · 0
-- 油絵 · 0
-- 水彩 · 0
-- 墨 / 中国風 · 0
-- レトロ / ヴィンテージ · 0
-- サイバーパンク / SF · 0
-- ミニマリズム · 0
-
-### 本文
-
-[キャラクター](#category-character) · [風景 / 自然](#category-landscape-nature)
-
-- ポートレート / セルフィー · 0
-- インフルエンサー / モデル · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>キャラクター · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- グループ / カップル · 0
-- 製品 · 0
-- 食品・飲料 · 0
-- ファッションアイテム · 0
-- 動物 / 生き物 · 0
-- 車両 · 0
-- 建築 / インテリア · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>風景 / 自然 · 1</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-
-</details>
-
-- 街並み / ストリート · 0
-- 図 / チャート · 0
-- テキスト / タイポグラフィ · 0
-- 要旨 / 背景 · 0
 
 <a name="all-prompts"></a>
 
-## すべてのプロンプト
+<a name="category-photography"></a>
+
+## 写真撮影
 
 <a name="prompt-2097097582262825180"></a>
 
@@ -142,6 +42,10 @@
 [↑ カテゴリに戻る](#catalog)
 
 ---
+
+<a name="category-cinematic-film-still"></a>
+
+## シネマティック / フィルムスチル
 
 <a name="prompt-2097185540391211470"></a>
 

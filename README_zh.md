@@ -8,113 +8,13 @@
 
 ## 分类目录
 
-[所有提示词](#all-prompts)
-
-### 使用场景
-
-[漫画 / 故事板](#category-comic-storyboard)
-
-- 个人资料 / 头像 · 0
-- 社交媒体帖子 · 0
-- 信息图 / 教育视觉图 · 0
-- YouTube 缩略图 · 0
-
-<a name="category-comic-storyboard"></a>
-
-<details open>
-<summary>漫画 / 故事板 · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- 产品营销 · 0
-- 电商主图 · 0
-- 游戏素材 · 0
-- 海报 / 传单 · 0
-- App / 网页设计 · 0
-
-### 风格
-
 [摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still)
-
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>摄影 · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>电影 / 电影剧照 · 2</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
-- 动漫 / 漫画 · 0
-- 插画 · 0
-- 草图 / 线稿 · 0
-- 漫画 / 图画小说 · 0
-- 3D 渲染 · 0
-- Q 版 / Q 萌风 · 0
-- 等距 · 0
-- 像素艺术 · 0
-- 油画 · 0
-- 水彩画 · 0
-- 水墨 / 中国风 · 0
-- 复古 / 怀旧 · 0
-- 赛博朋克 / 科幻 · 0
-- 极简主义 · 0
-
-### 主体
-
-[角色](#category-character) · [风景 / 自然](#category-landscape-nature)
-
-- 人像 / 自拍 · 0
-- 网红 / 模特 · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>角色 · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- 团体 / 情侣 · 0
-- 产品 · 0
-- 食品 / 饮料 · 0
-- 时尚单品 · 0
-- 动物 / 生物 · 0
-- 车辆 · 0
-- 建筑 / 室内设计 · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>风景 / 自然 · 1</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-
-</details>
-
-- 城市风光 / 街道 · 0
-- 图表 · 0
-- 文本 / 排版 · 0
-- 摘要 / 背景 · 0
 
 <a name="all-prompts"></a>
 
-## 所有提示词
+<a name="category-photography"></a>
+
+## 摄影
 
 <a name="prompt-2097097582262825180"></a>
 
@@ -144,6 +44,10 @@
 [↑ 返回分类目录](#catalog)
 
 ---
+
+<a name="category-cinematic-film-still"></a>
+
+## 电影 / 电影剧照
 
 <a name="prompt-2097185540391211470"></a>
 

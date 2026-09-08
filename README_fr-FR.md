@@ -8,113 +8,13 @@
 
 ## Parcourir par catégorie
 
-[Tous les prompts](#all-prompts)
-
-### Cas d'utilisation
-
-[Bande dessinée / Storyboard](#category-comic-storyboard)
-
-- Profil / Avatar · 0
-- Publication sur les réseaux sociaux · 0
-- Infographie / Visuel éducatif · 0
-- Miniature YouTube · 0
-
-<a name="category-comic-storyboard"></a>
-
-<details open>
-<summary>Bande dessinée / Storyboard · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- Marketing produit · 0
-- Image principale du e-commerce · 0
-- Ressource de jeu · 0
-- Affiche / Flyer · 0
-- Conception d'applications / de sites web · 0
-
-### Style
-
 [Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still)
-
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Photographie · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>Image cinématographique / Photogramme de film · 2</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
-- Anime / Manga · 0
-- Illustration · 0
-- Croquis / Dessin au trait · 0
-- Bande dessinée / Roman graphique · 0
-- Rendu 3D · 0
-- Chibi / Q-Style · 0
-- Isométrique · 0
-- Pixel Art · 0
-- Peinture à l'huile · 0
-- Aquarelle · 0
-- Encre / Style Chinois · 0
-- Rétro / Vintage · 0
-- Cyberpunk / Science-fiction · 0
-- Minimalisme · 0
-
-### Contenu principal
-
-[Personnage](#category-character) · [Paysage / Nature](#category-landscape-nature)
-
-- Portrait / Selfie · 0
-- Influenceur / Mannequin · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>Personnage · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- Groupe / Couple · 0
-- Produit · 0
-- Alimentation / Boissons · 0
-- Article de mode · 0
-- Animal / Créature · 0
-- Véhicule · 0
-- Architecture / Intérieur · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>Paysage / Nature · 1</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-
-</details>
-
-- Paysage urbain / Rue · 0
-- Diagramme / Graphique · 0
-- Texte / Typographie · 0
-- Résumé / Contexte · 0
 
 <a name="all-prompts"></a>
 
-## Tous les prompts
+<a name="category-photography"></a>
+
+## Photographie
 
 <a name="prompt-2097097582262825180"></a>
 
@@ -142,6 +42,10 @@ Bande dessinée / Storyboard · Photographie · Personnage · Diffusion en atten
 [↑ Retour aux catégories](#catalog)
 
 ---
+
+<a name="category-cinematic-film-still"></a>
+
+## Image cinématographique / Photogramme de film
 
 <a name="prompt-2097185540391211470"></a>
 

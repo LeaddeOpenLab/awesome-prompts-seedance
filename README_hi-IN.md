@@ -8,113 +8,13 @@
 
 ## श्रेणी के अनुसार देखें
 
-[सभी प्रॉम्प्ट](#all-prompts)
-
-### उपयोग के मामले
-
-[कॉमिक / स्टोरीबोर्ड](#category-comic-storyboard)
-
-- प्रोफ़ाइल / अवतार · 0
-- सोशल मीडिया पोस्ट · 0
-- इन्फोग्राफिक / शैक्षिक विज़ुअल · 0
-- YouTube थंबनेल · 0
-
-<a name="category-comic-storyboard"></a>
-
-<details open>
-<summary>कॉमिक / स्टोरीबोर्ड · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- प्रोडक्ट मार्केटिंग · 0
-- ई-कॉमर्स मुख्य इमेज · 0
-- गेम एसेट · 0
-- पोस्टर / फ़्लायर · 0
-- ऐप / वेब डिज़ाइन · 0
-
-### शैली
-
 [फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still)
-
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>फोटोग्राफी · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>सिनेमैटिक / फ़िल्म स्टिल · 2</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-- [A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.](#prompt-2096791786807275583) · [@arsalannazir07](https://x.com/arsalannazir07)
-
-</details>
-
-- एनिमे / मंगा · 0
-- चित्रण · 0
-- स्केच / लाइन आर्ट · 0
-- कॉमिक / ग्राफिक नॉवेल · 0
-- 3D रेंडर · 0
-- चिबी / क्यू-स्टाइल · 0
-- आइसोमेट्रिक · 0
-- पिक्सेल आर्ट · 0
-- तैल चित्रकला · 0
-- वॉटरकलर · 0
-- स्याही / चीनी शैली · 0
-- रेट्रो / विंटेज · 0
-- साइबरपंक / साइंस-फाई · 0
-- मिनिमलिज़्म · 0
-
-### मुख्य सामग्री
-
-[कैरेक्टर](#category-character) · [लैंडस्केप / प्रकृति](#category-landscape-nature)
-
-- पोर्ट्रेट / सेल्फ़ी · 0
-- इन्फ्लुएंसर / मॉडल · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>कैरेक्टर · 1</summary>
-
-- [15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。](#prompt-2097097582262825180) · [@john87445528](https://x.com/john87445528)
-
-</details>
-
-- समूह / युगल · 0
-- उत्पाद · 0
-- भोजन / पेय · 0
-- फ़ैशन आइटम · 0
-- पशु / जीव · 0
-- वाहन · 0
-- आर्किटेक्चर / इंटीरियर · 0
-
-<a name="category-landscape-nature"></a>
-
-<details open>
-<summary>लैंडस्केप / प्रकृति · 1</summary>
-
-- [Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.](#prompt-2097185540391211470) · [@AIwithMinal](https://x.com/AIwithMinal)
-
-</details>
-
-- शहर का नज़ारा / सड़क · 0
-- आरेख / चार्ट · 0
-- टेक्स्ट / टाइपोग्राफी · 0
-- सार / पृष्ठभूमि · 0
 
 <a name="all-prompts"></a>
 
-## सभी प्रॉम्प्ट
+<a name="category-photography"></a>
+
+## फोटोग्राफी
 
 <a name="prompt-2097097582262825180"></a>
 
@@ -142,6 +42,10 @@
 [↑ श्रेणियों पर लौटें](#catalog)
 
 ---
+
+<a name="category-cinematic-film-still"></a>
+
+## सिनेमैटिक / फ़िल्म स्टिल
 
 <a name="prompt-2097185540391211470"></a>
 
