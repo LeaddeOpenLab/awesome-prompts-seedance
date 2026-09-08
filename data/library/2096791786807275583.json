@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T10:46:14.872Z",
+  "model": "seedance",
+  "prompt": "Create a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.\n\nThe scene is filmed through a slightly out-of-focus chain-link fence, creating a natural foreground frame. Behind the character is a calm shoreline, shallow seawater, barnacle-covered rocks, seaweed, and a softly blurred forest under an overcast sky. Photorealistic textures, natural muted colors, shallow depth of field, realistic water reflections.\n\nAnimation: The stone figure slowly balances itself and begins moving like a playful little human. It shifts its weight, raises one leg, bends its knees, swings its stone arms, and performs a quirky little dance while carefully maintaining balance on the wet surface. Tiny ripples form beneath every footstep, and its reflection moves naturally in the water. The movements should feel hand-crafted stop-motion, slightly imperfect but believable, with realistic stone physics and weight.\n\nToward the final seconds, the figure loses its balance, stumbles, and collapses naturally, with the individual stones separating and tumbling onto the shallow wet ground. The character completely disassembles into ordinary stones. End with the camera holding on the scattered stones and their reflections.\n\nCamera: locked-off smartphone-style vertical composition, subtle natural camera movement, medium-full shot, low angle close to water level, strong foreground bokeh from the fence, cinematic depth of field.\n\nLighting: soft diffused daylight, overcast coastal atmosphere, realistic reflections and wet stone highlights.\n\nStyle: ultra-realistic live-action environment + whimsical photorealistic stone stop-motion character, tactile stone textures, physically believable movement, cinematic macro photography, no CGI-looking surfaces, no text, no humans.\n\nNegative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.",
+  "summary": "A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.",
+  "summaryEn": "A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096791786807275583",
+    "canonicalUrl": "https://x.com/arsalannazir07/status/2096791786807275583",
+    "author": {
+      "username": "arsalannazir07",
+      "displayName": "Marcos",
+      "profileUrl": "https://x.com/arsalannazir07"
+    },
+    "publishedAt": "2026-09-07T02:44:53.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "Generated with seedance 2 on @PixVerse \n\nPrompt :-\n\nCreate a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.\n\nThe scene is filmed through a slightly out-of-focus chain-link fence, creating a natural foreground frame. Behind the character is a calm shoreline, shallow seawater, barnacle-covered rocks, seaweed, and a softly blurred forest under an overcast sky. Photorealistic textures, natural muted colors, shallow depth of field, realistic water reflections.\n\nAnimation: The stone figure slowly balances itself and begins moving like a playful little human. It shifts its weight, raises one leg, bends its knees, swings its stone arms, and performs a quirky little dance while carefully maintaining balance on the wet surface. Tiny ripples form beneath every footstep, and its reflection moves naturally in the water. The movements should feel hand-crafted stop-motion, slightly imperfect but believable, with realistic stone physics and weight.\n\nToward the final seconds, the figure loses its balance, stumbles, and collapses naturally, with the individual stones separating and tumbling onto the shallow wet ground. The character completely disassembles into ordinary stones. End with the camera holding on the scattered stones and their reflections.\n\nCamera: locked-off smartphone-style vertical composition, subtle natural camera movement, medium-full shot, low angle close to water level, strong foreground bokeh from the fence, cinematic depth of field.\n\nLighting: soft diffused daylight, overcast coastal atmosphere, realistic reflections and wet stone highlights.\n\nStyle: ultra-realistic live-action environment + whimsical photorealistic stone stop-motion character, tactile stone textures, physically believable movement, cinematic macro photography, no CGI-looking surfaces, no text, no humans.\n\nNegative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/arsalannazir07/status/2096791786807275583",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096791751994609664/img/vtRtf7pbhXreFq2a.jpg",
+        "analysisUrl": "https://x.com/arsalannazir07/status/2096791786807275583"
+      }
+    ],
+    "metrics": {
+      "likeCount": 322,
+      "repostCount": 47,
+      "replyCount": 73,
+      "quoteCount": 3,
+      "viewCount": 13931
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/arsalannazir07/status/2096791786807275583",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096791751994609664/img/vtRtf7pbhXreFq2a.jpg",
+  "coverPath": "covers/2096791786807275583.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2096791751994609664",
+    "x-post:2096791786807275583"
+  ],
+  "analysis": {
+    "summary": "A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.",
+    "summaryEn": "A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.\n\nThe scene is filmed through a slightly out-of-focus chain-link fence, creating a natural foreground frame. Behind the character is a calm shoreline, shallow seawater, barnacle-covered rocks, seaweed, and a softly blurred forest under an overcast sky. Photorealistic textures, natural muted colors, shallow depth of field, realistic water reflections.\n\nAnimation: The stone figure slowly balances itself and begins moving like a playful little human. It shifts its weight, raises one leg, bends its knees, swings its stone arms, and performs a quirky little dance while carefully maintaining balance on the wet surface. Tiny ripples form beneath every footstep, and its reflection moves naturally in the water. The movements should feel hand-crafted stop-motion, slightly imperfect but believable, with realistic stone physics and weight.\n\nToward the final seconds, the figure loses its balance, stumbles, and collapses naturally, with the individual stones separating and tumbling onto the shallow wet ground. The character completely disassembles into ordinary stones. End with the camera holding on the scattered stones and their reflections.\n\nCamera: locked-off smartphone-style vertical composition, subtle natural camera movement, medium-full shot, low angle close to water level, strong foreground bokeh from the fence, cinematic depth of field.\n\nLighting: soft diffused daylight, overcast coastal atmosphere, realistic reflections and wet stone highlights.\n\nStyle: ultra-realistic live-action environment + whimsical photorealistic stone stop-motion character, tactile stone textures, physically believable movement, cinematic macro photography, no CGI-looking surfaces, no text, no humans.\n\nNegative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.",
+    "sourceRange": {
+      "start": 52,
+      "end": 2341
+    },
+    "translations": {
+      "zh": "创作一段21秒的竖屏9:16电影质感定格动画。在岩石海岸的浅潮池中，一个完全由自然形状的光滑海滩石头组成的小人形复活了。身体各部位由独立的石头组成——大椭圆石为头，叠放的圆石为躯干，较小的石头组成四肢。\n\n场景透过微脱焦的铁丝网拍摄，形成自然的前景画框。角色身后是平静的海岸线、浅海水、长满藤壶的岩石、海藻以及阴天下微模糊的森林。写实纹理，自然柔和的色彩，浅景深，逼真的水面倒影。\n\n动画：石头小人慢慢保持平衡，开始像顽皮的小人一样活动。它转移重心、抬起一条腿、屈膝、摆动石臂，在湿润表面小心维持平衡的同时跳起古怪有趣的小舞蹈。每一步脚下泛起细微涟漪，倒影在水中自然变动。动作应具有手制定格动画的质感，略带瑕疵但真实可信，带有逼真的石头物理效果与重量感。\n\n接近最后几秒，小人失去平衡，绊倒并自然散架，各块石头散落翻滚在浅湿地面上。角色完全解体为普通石头。镜头定格在散落的石头及其水面倒影上结束。\n\n镜头：锁定智能手机式竖屏构图，微弱自然的镜头晃动，中全景，接近水面的低角度，铁丝网带来的强前景虚化，电影感景深。\n\n光照：柔和漫射日光，阴天海岸氛围，真实的反光与湿石高光。\n\n风格：超写实实景环境 + 奇异逼真的石头定格动画角色，触感石质纹理，物理上可信的动作，电影微距摄影，无CG感表面，无文字，无人类。\n\n负面提示词：卡通，塑料感石头，夸张面部特征，平滑CG角色，悬浮物体，不符合物理规律，多余肢体，变化的环境，镜头剪辑，文字，水印，过度饱和色彩。",
+      "en": "Create a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.\n\nThe scene is filmed through a slightly out-of-focus chain-link fence, creating a natural foreground frame. Behind the character is a calm shoreline, shallow seawater, barnacle-covered rocks, seaweed, and a softly blurred forest under an overcast sky. Photorealistic textures, natural muted colors, shallow depth of field, realistic water reflections.\n\nAnimation: The stone figure slowly balances itself and begins moving like a playful little human. It shifts its weight, raises one leg, bends its knees, swings its stone arms, and performs a quirky little dance while carefully maintaining balance on the wet surface. Tiny ripples form beneath every footstep, and its reflection moves naturally in the water. The movements should feel hand-crafted stop-motion, slightly imperfect but believable, with realistic stone physics and weight.\n\nToward the final seconds, the figure loses its balance, stumbles, and collapses naturally, with the individual stones separating and tumbling onto the shallow wet ground. The character completely disassembles into ordinary stones. End with the camera holding on the scattered stones and their reflections.\n\nCamera: locked-off smartphone-style vertical composition, subtle natural camera movement, medium-full shot, low angle close to water level, strong foreground bokeh from the fence, cinematic depth of field.\n\nLighting: soft diffused daylight, overcast coastal atmosphere, realistic reflections and wet stone highlights.\n\nStyle: ultra-realistic live-action environment + whimsical photorealistic stone stop-motion character, tactile stone textures, physically believable movement, cinematic macro photography, no CGI-looking surfaces, no text, no humans.\n\nNegative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
