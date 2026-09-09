@@ -217,20 +217,20 @@ Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Mặt h
 
 <a name="prompt-2096832969453543579"></a>
 
-### Đang dịch
+### Tạo một vlog lãng mạn phong cách đại học Mỹ chân thực như ảnh dài 30 giây trong cơn mưa dông buổi chiều, theo chân hai sinh viên che chung ô và ghé một quán cà phê.
 
 Tác giả：[@nawalsehar](https://x.com/nawalsehar) · [Bài gốc](https://x.com/nawalsehar/status/2096832969453543579)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một vlog lãng mạn phong cách đại học Mỹ chân thực như ảnh dài 30 giây trong cơn mưa dông buổi chiều, theo chân hai sinh viên che chung ô và ghé một quán cà phê.
 
 <img src="covers/2096832969453543579.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một vlog lãng mạn quay người thật, chân thực như ảnh dài 30 giây lấy bối cảnh tại một trường đại học Mỹ trong cơn mưa dông bất chợt vào buổi chiều. Một nữ sinh bị mắc kẹt dưới cơn mưa tầm tã mà không có ô, cho đến khi một nam sinh tốt bụng che chung chiếc ô màu đen của mình. Họ cùng nhau bước đi trong khuôn viên trường đại học Mỹ chân thực, vừa trêu đùa vừa dần trở nên thoải mái bên nhau. Họ trú mưa tại một quán cà phê ấm cúng trong khuôn viên trường, cùng nhau uống cà phê nóng bên khung cửa sổ đọng đầy nước mưa, và có một khoảnh khắc kết nối đầy tinh tế. Khi mưa tạnh, ánh nắng vàng rực rỡ xuyên qua những đám mây và họ cùng nhau dạo bước qua khuôn viên trường còn ướt nước mưa. Phong cách điện ảnh tuổi trưởng thành hiện đại năm 2026, đối thoại tiếng Anh Mỹ tự nhiên, mưa chân thực, tóc và quần áo ướt, chuyển động vật lý của ô, phản chiếu trên vũng nước, hành vi sinh viên chân thực, góc máy phong cách cầm tay bằng điện thoại thông minh, biểu cảm tự nhiên và sự lãng mạn nhẹ nhàng. Không diễn xuất phóng đại, không CGI, không hoạt hình, không phụ đề, không âm nhạc hay hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

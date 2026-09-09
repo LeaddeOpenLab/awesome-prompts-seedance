@@ -215,20 +215,24 @@ Fotoğrafçılık · Sinematik / Film Karesi · Karakter · Moda Ürünü · Yay
 
 <a name="prompt-2096832969453543579"></a>
 
-### Çeviri sürüyor
+### Öğleden sonraki bir yağmur fırtınasında geçen, bir şemsiyeyi paylaşan ve bir kafeyi ziyaret eden iki öğrenciyi takip eden, 30 saniyelik fotogerçekçi bir Amerikan üniversitesi romantizm vlog'u oluşturun.
 
 Yazar：[@nawalsehar](https://x.com/nawalsehar) · [Orijinal gönderi](https://x.com/nawalsehar/status/2096832969453543579)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Öğleden sonraki bir yağmur fırtınasında geçen, bir şemsiyeyi paylaşan ve bir kafeyi ziyaret eden iki öğrenciyi takip eden, 30 saniyelik fotogerçekçi bir Amerikan üniversitesi romantizm vlog'u oluşturun.
 
 <img src="covers/2096832969453543579.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ani bir öğleden sonra yağmur fırtınası sırasında geçen, 30 saniyelik, fotogerçekçi, canlı çekim bir Amerikan üniversitesi romantizm vlog'u oluşturun. Genç bir kadın öğrenci şemsiyesiz bir şekilde şiddetli yağmura yakalanır, ta ki bir erkek öğrenci nazikçe siyah şemsiyesini onunla paylaşana kadar. Gerçekçi bir ABD üniversite kampüsünde birlikte yürürler, şakalaşırlar ve yavaş yavaş birbirlerine alışırlar.
+
+Kampüsteki sıcak bir kafeye sığınırlar, yağmurla kaplı bir pencerenin kenarında sıcak kahve paylaşırlar ve aralarında ince bir bağ anı yaşanır. Yağmur dindiğinde, altın sarısı güneş ışığı bulutların arasından süzülür ve ıslak kampüste birlikte yürürler.
+
+Modern 2026 sinematik büyüme hikayesi (coming-of-age) tarzı, doğal Amerikan İngilizcesi diyaloglar, gerçekçi yağmur, ıslak saç ve kıyafetler, şemsiye fiziği, su birikintisi yansımaları, otantik öğrenci davranışları, akıllı telefon tarzı elde çekim kamera, doğal ifadeler ve zarif bir romantizm. Abartılı oyunculuk, CGI, animasyon, altyazı, müzik veya filigran olmasın.
 ```
 
 [↑ Kategorilere dön](#catalog)

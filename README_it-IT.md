@@ -215,20 +215,24 @@ Traduzione in corso
 
 <a name="prompt-2096832969453543579"></a>
 
-### Traduzione in corso
+### Crea un vlog romantico fotorealistico di 30 secondi in un'università americana ambientato durante un temporale pomeridiano, seguendo due studenti che condividono un ombrello e visitano un bar.
 
 Autore：[@nawalsehar](https://x.com/nawalsehar) · [Post originale](https://x.com/nawalsehar/status/2096832969453543579)
 
 Fotografia · Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un vlog romantico fotorealistico di 30 secondi in un'università americana ambientato durante un temporale pomeridiano, seguendo due studenti che condividono un ombrello e visitano un bar.
 
 <img src="covers/2096832969453543579.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un vlog romantico live-action fotorealistico di 30 secondi ambientato in un'università americana durante un improvviso temporale pomeridiano. Una giovane studentessa viene sorpresa da una pioggia battente senza ombrello, finché uno studente non condivide gentilmente il suo ombrello nero. Camminano insieme attraverso un realistico campus universitario statunitense, scherzando ed entrando lentamente in confidenza.
+
+Si rifugiano in un accogliente bar del campus, condividono un caffè caldo accanto a una finestra bagnata dalla pioggia e vivono un sottile momento di intesa. Quando la pioggia cessa, la luce dorata del sole squarcia le nuvole ed entrambi camminano insieme attraverso il campus bagnato.
+
+Stile cinematografico moderno di formazione del 2026, dialoghi naturali in inglese americano, pioggia realistica, capelli e vestiti bagnati, fisica dell'ombrello, riflessi nelle pozzanghere, comportamento studentesco autentico, telecamera a mano in stile smartphone, espressioni naturali e romanticismo sottile. Niente recitazione esagerata, CGI, animazione, sottotitoli, musica o filigrane.
 ```
 
 [↑ Torna alle categorie](#catalog)

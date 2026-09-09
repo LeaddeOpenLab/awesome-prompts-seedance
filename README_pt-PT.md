@@ -215,20 +215,24 @@ Tradução em curso
 
 <a name="prompt-2096832969453543579"></a>
 
-### Tradução em curso
+### Crie um vlog de romance fotorrealista de 30 segundos numa universidade americana durante uma tempestade à tarde, acompanhando dois estudantes que partilham um guarda-chuva e vão a um café.
 
 Autor：[@nawalsehar](https://x.com/nawalsehar) · [Publicação original](https://x.com/nawalsehar/status/2096832969453543579)
 
 Fotografia · Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Crie um vlog de romance fotorrealista de 30 segundos numa universidade americana durante uma tempestade à tarde, acompanhando dois estudantes que partilham um guarda-chuva e vão a um café.
 
 <img src="covers/2096832969453543579.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vlog de romance live-action fotorrealista de 30 segundos numa universidade americana ambientado durante uma tempestade repentina à tarde. Uma jovem estudante é apanhada por uma chuva forte sem guarda-chuva, até que um estudante gentilmente partilha o seu guarda-chuva preto. Eles caminham juntos por um campus universitário realista dos EUA, brincando e sentindo-se gradualmente à vontade um com o outro.
+
+Eles refugiam-se num café acolhedor do campus, partilham um café quente junto a uma janela coberta de chuva e partilham um momento subtil de cumplicidade. Quando a chuva para, a luz dourada do sol rompe as nuvens e caminham juntos pelo campus molhado.
+
+Estilo cinematográfico moderno de rito de passagem de 2026, diálogos naturais em inglês americano, chuva realista, cabelo e roupas molhados, física de guarda-chuva, reflexos em poças de água, comportamento estudantil autêntico, câmara na mão em estilo smartphone, expressões naturais e romance subtil. Sem representações exageradas, CGI, animação, legendas, música ou marcas de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

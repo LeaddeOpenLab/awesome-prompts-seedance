@@ -215,20 +215,24 @@ Traducción en curso
 
 <a name="prompt-2096832969453543579"></a>
 
-### Traducción en curso
+### Crea un vlog romántico fotorrealista de 30 segundos ambientado en una universidad estadounidense durante una tormenta vespertina, siguiendo a dos estudiantes que comparten un paraguas y visitan una cafetería.
 
 Autor：[@nawalsehar](https://x.com/nawalsehar) · [Publicación original](https://x.com/nawalsehar/status/2096832969453543579)
 
 Fotografía · Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un vlog romántico fotorrealista de 30 segundos ambientado en una universidad estadounidense durante una tormenta vespertina, siguiendo a dos estudiantes que comparten un paraguas y visitan una cafetería.
 
 <img src="covers/2096832969453543579.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un vlog romántico de acción real y fotorrealista de 30 segundos ambientado en una universidad estadounidense durante una repentina tormenta vespertina. Una joven estudiante queda atrapada bajo una fuerte lluvia sin paraguas, hasta que un estudiante amablemente comparte su paraguas negro. Caminan juntos por un campus universitario realista de EE. UU., bromeando y sintiéndose poco a poco cómodos el uno con el otro.
+
+Se refugian en una acogedora cafetería del campus, comparten un café caliente junto a una ventana cubierta de lluvia y tienen un sutil momento de conexión. Cuando la lluvia se detiene, la luz dorada del sol atraviesa las nubes y caminan juntos por el campus mojado.
+
+Estilo cinematográfico moderno de iniciación a la madurez de 2026, diálogo natural en inglés estadounidense, lluvia realista, cabello y ropa mojados, física de paraguas, reflejos en charcos, comportamiento estudiantil auténtico, cámara estilo teléfono inteligente en mano, expresiones naturales y romance sutil. Sin actuaciones exageradas, CGI, animación, subtítulos, música ni marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

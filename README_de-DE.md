@@ -215,20 +215,24 @@ Fotografie · Kinematisch / Filmstill · Charakter · Modeartikel · Veröffentl
 
 <a name="prompt-2096832969453543579"></a>
 
-### Übersetzung läuft
+### Erstelle einen 30-sekündigen, fotorealistischen Vlog über eine Romanze an einer US-amerikanischen Universität während eines nachmittäglichen Regenschauers, in dem zwei Studierende einen Regenschirm teilen und ein Café besuchen.
 
 Autor：[@nawalsehar](https://x.com/nawalsehar) · [Originalbeitrag](https://x.com/nawalsehar/status/2096832969453543579)
 
 Fotografie · Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle einen 30-sekündigen, fotorealistischen Vlog über eine Romanze an einer US-amerikanischen Universität während eines nachmittäglichen Regenschauers, in dem zwei Studierende einen Regenschirm teilen und ein Café besuchen.
 
 <img src="covers/2096832969453543579.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 30-sekündigen, fotorealistischen Live-Action-Vlog über eine Romanze an einer US-amerikanischen Universität während eines plötzlichen Regenschauers am Nachmittag. Eine junge Studentin gerät ohne Regenschirm in starken Regen, bis ein Student freundlicherweise seinen schwarzen Regenschirm mit ihr teilt. Sie gehen gemeinsam über einen realistischen US-Campus, scherzen und fühlen sich allmählich wohl miteinander.
+
+Sie flüchten in ein gemütliches Campus-Café, trinken heißen Kaffee an einem regenverhangenen Fenster und erleben einen subtilen Moment der Verbundenheit. Als der Regen aufhört, bricht goldenes Sonnenlicht durch die Wolken und sie gehen gemeinsam über den nassen Campus.
+
+Moderner cineastischer Coming-of-Age-Stil des Jahres 2026, natürliche Dialoge auf amerikanischem Englisch, realistischer Regen, nasse Haare und Kleidung, Regenschirm-Physik, Pfützenreflexionen, authentisches Verhalten von Studierenden, Handheld-Kamera im Smartphone-Stil, natürliche Gesichtsausdrücke und subtile Romantik. Kein übertriebenes Schauspiel, kein CGI, keine Animation, keine Untertitel, keine Musik oder Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

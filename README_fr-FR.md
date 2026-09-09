@@ -215,20 +215,24 @@ Traduction en cours
 
 <a name="prompt-2096832969453543579"></a>
 
-### Traduction en cours
+### Créez un vlog romantique photoréaliste de 30 secondes dans une université américaine lors d'une averse l'après-midi, suivant deux étudiants qui partagent un parapluie et se rendent dans un café.
 
 Auteur：[@nawalsehar](https://x.com/nawalsehar) · [Publication originale](https://x.com/nawalsehar/status/2096832969453543579)
 
 Photographie · Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créez un vlog romantique photoréaliste de 30 secondes dans une université américaine lors d'une averse l'après-midi, suivant deux étudiants qui partagent un parapluie et se rendent dans un café.
 
 <img src="covers/2096832969453543579.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un vlog romantique en prises de vues réelles photoréaliste de 30 secondes se déroulant dans une université américaine lors d'une soudaine averse l'après-midi. Une jeune étudiante est prise sous une pluie battante sans parapluie, jusqu'à ce qu'un étudiant partage gentiment son parapluie noir. Ils marchent ensemble à travers un campus universitaire américain réaliste, plaisantent et s'apprivoisent peu à peu.
+
+Ils se réfugient dans un café chaleureux du campus, partagent un café chaud près d'une fenêtre couverte de gouttes de pluie et partagent un moment subtil de complicité. Alors que la pluie s'arrête, une lumière dorée perce à travers les nuages et ils marchent ensemble sur le campus détrempé.
+
+Style cinématographique moderne de passage à l'âge adulte de 2026, dialogues naturels en anglais américain, pluie réaliste, cheveux et vêtements mouillés, physique du parapluie, reflets dans les flaques d'eau, comportement étudiant authentique, caméra portée façon smartphone, expressions naturelles et romance subtile. Pas de jeu d'acteur exagéré, pas d'images de synthèse, pas d'animation, pas de sous-titres, pas de musique ni de filigrane.
 ```
 
 [↑ Retour aux catégories](#catalog)
