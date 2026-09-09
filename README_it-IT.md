@@ -110,20 +110,20 @@ Realismo estremo e grezzo da videocamera DV a mano: movimenti marcati, micro-tre
 
 <a name="prompt-2097185861259727263"></a>
 
-### Traduzione in corso
+### Prompt fotorealistico per un vlog di viaggio di 30 secondi sulla costa coreana che cattura un percorso serale, dai mercati del pesce al tramonto e le passeggiate costiere fino a una diga frangiflutti a mezzanotte.
 
 Autore：[@nawalsehar](https://x.com/nawalsehar) · [Post originale](https://x.com/nawalsehar/status/2097185861259727263)
 
 Fotografia · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt fotorealistico per un vlog di viaggio di 30 secondi sulla costa coreana che cattura un percorso serale, dai mercati del pesce al tramonto e le passeggiate costiere fino a una diga frangiflutti a mezzanotte.
 
 <img src="covers/2097185861259727263.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un vlog di viaggio live-action fotorealistico di 30 secondi sulla costa coreana, seguendo una giovane donna coreana durante una serata in un tranquillo villaggio costiero. Inizia in un vivace mercato del pesce con frutti di mare freschi, pavimenti bagnati e la luce del tramonto. Fa il check-in in un'accogliente guesthouse tradizionale, poi cammina a piedi nudi lungo la spiaggia mentre le onde le bagnano i piedi durante l'ora d'oro. Passa a un caldo mercato notturno di pesce dove gusta frutti di mare appena grigliati e interagisce naturalmente con l'ambiente circostante. Concludi a mezzanotte accanto a una tranquilla diga frangiflutti, guardando l'oceano scuro con luci di pescherecci in lontananza e le onde che si infrangono sotto. Autentico stile vlog 2026 da smartphone o cinepresa, ambiente coreano naturale, pelle, capelli, vestiti, acqua, cibo, fumo, onde e movimenti umani realistici. Fotocamera a mano, messa a fuoco automatica naturale, cambi di esposizione e sfocatura da movimento realistica. Solo dialoghi in inglese, audio ambientale naturale, nessuna musica di sottofondo o narrazione. Forte enfasi su fisica credibile, illuminazione, movimenti fluidi ed espressioni spontanee. Niente CGI, animazioni, sottotitoli, loghi o filigrane.
 ```
 
 [↑ Torna alle categorie](#catalog)

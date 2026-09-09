@@ -96,20 +96,20 @@ Otantik Endonezyalı kadın, 2000'lerin başı Endonezya ev videosu estetiği. B
 
 <a name="prompt-2097185861259727263"></a>
 
-### Çeviri sürüyor
+### Gün batımındaki balık pazarlarından ve sahil yürüyüşlerinden gece yarısı dalgakıranına kadar uzanan bir akşam yolculuğunu yakalayan 30 saniyelik Kore sahili seyahat vlogu için fotogerçekçi istem.
 
 Yazar：[@nawalsehar](https://x.com/nawalsehar) · [Orijinal gönderi](https://x.com/nawalsehar/status/2097185861259727263)
 
 Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gün batımındaki balık pazarlarından ve sahil yürüyüşlerinden gece yarısı dalgakıranına kadar uzanan bir akşam yolculuğunu yakalayan 30 saniyelik Kore sahili seyahat vlogu için fotogerçekçi istem.
 
 <img src="covers/2097185861259727263.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Huzurlu bir kıyı köyünde bir akşam boyunca genç bir Koreli kadını takip eden, Kore sahilinde geçen 30 saniyelik fotogerçekçi bir canlı çekim seyahat vlogger videosu oluşturun. Taze deniz ürünleri, ıslak zeminler ve gün batımı ışığının olduğu hareketli bir deniz ürünleri pazarında başlayın. Rahat ve geleneksel bir konukevine giriş yapar, ardından altın saatte dalgalar ayaklarına vururken sahilde çıplak ayakla yürür. Taze ızgara deniz ürünlerinin tadını çıkardığı ve çevresiyle doğal bir şekilde etkileşime girdiği sıcak bir gece deniz ürünleri pazarına geçiş yapın. Gece yarısı sessiz bir dalgakıranın yanında, uzaktaki balıkçı ışıkları ve aşağıda çarpan dalgalarla karanlık okyanusu izleyerek bitirin. Otantik 2026 akıllı telefon/sinema kamerası vlog tarzı, doğal Kore ortamı, gerçekçi cilt, saç, kıyafet, su, yemek, duman, dalgalar ve insan hareketi. Elde taşınan kamera, doğal otomatik odaklama, pozlama değişiklikleri ve gerçekçi hareket bulanıklığı. Yalnızca İngilizce diyalog, doğal çevresel ses, arka plan müziği veya dış ses yok. İnandırıcı fizik kurallarına, aydınlatmaya, akıcı harekete ve kendiliğinden gelişen ifadelere güçlü vurgu. CGI, animasyon, altyazı, logo veya filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

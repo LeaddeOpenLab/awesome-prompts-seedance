@@ -110,20 +110,20 @@ Réalisme brut extrême de caméscope DV à main levée : mouvements brusques, m
 
 <a name="prompt-2097185861259727263"></a>
 
-### Traduction en cours
+### Prompt photoréaliste pour un vlog de voyage côtier coréen de 30 secondes capturant un périple nocturne, des marchés aux poissons au coucher du soleil et promenades côtières jusqu'à une digue à minuit.
 
 Auteur：[@nawalsehar](https://x.com/nawalsehar) · [Publication originale](https://x.com/nawalsehar/status/2097185861259727263)
 
 Photographie · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt photoréaliste pour un vlog de voyage côtier coréen de 30 secondes capturant un périple nocturne, des marchés aux poissons au coucher du soleil et promenades côtières jusqu'à une digue à minuit.
 
 <img src="covers/2097185861259727263.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un vlog de voyage en prises de vues réelles et photoréaliste de 30 secondes en bord de mer en Corée, suivant une jeune femme coréenne tout au long d'une soirée dans un paisible village côtier. Commencez dans un marché aux fruits de mer animé avec des produits frais, des sols mouillés et la lumière du coucher de soleil. Elle s'installe dans une maison d'hôtes traditionnelle et chaleureuse, puis marche pieds nus le long de la plage tandis que les vagues atteignent ses pieds pendant l'heure dorée. Enchaînez avec un marché aux fruits de mer nocturne et chaleureux où elle déguste des fruits de mer fraîchement grillés et interagit naturellement avec les alentours. Terminez à minuit près d'une digue tranquille, contemplant l'océan sombre avec des lumières de bateaux de pêche au loin et les vagues s'écrasant en bas. Style authentique de vlog 2026 filmé au smartphone ou caméra de cinéma, environnement coréen naturel, peau, cheveux, vêtements, eau, nourriture, fumée, vagues et mouvements humains réalistes. Caméra à l'épaule, autofocus naturel, changements d'exposition et flou de mouvement réaliste. Dialogue en anglais uniquement, ambiance sonore naturelle, pas de musique de fond ni de narration. Accent mis sur une physique crédible, l'éclairage, des mouvements fluides et des expressions spontanées. Pas d'effets spéciaux numériques (CGI), d'animation, de sous-titres, de logos ou de filigranes.
 ```
 
 [↑ Retour aux catégories](#catalog)

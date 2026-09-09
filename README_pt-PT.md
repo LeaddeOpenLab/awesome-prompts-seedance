@@ -96,20 +96,20 @@ Mulher indonésia autêntica, estética de vídeo caseiro indonésio do início 
 
 <a name="prompt-2097185861259727263"></a>
 
-### Tradução em curso
+### Prompt fotorrealista para um vlog de viagem de 30 segundos pelo litoral coreano capturando uma jornada noturna, desde mercados de peixe ao pôr do sol e passeios costeiros até um paredão à meia-noite.
 
 Autor：[@nawalsehar](https://x.com/nawalsehar) · [Publicação original](https://x.com/nawalsehar/status/2097185861259727263)
 
 Fotografia · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt fotorrealista para um vlog de viagem de 30 segundos pelo litoral coreano capturando uma jornada noturna, desde mercados de peixe ao pôr do sol e passeios costeiros até um paredão à meia-noite.
 
 <img src="covers/2097185861259727263.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vlog de viagem live-action fotorrealista de 30 segundos no litoral coreano acompanhando uma jovem coreana durante uma noite numa pacata vila costeira. Comece num movimentado mercado de frutos do mar com produtos frescos, pisos molhados e a luz do pôr do sol. Ela faz o check-in numa acolhedora casa de hóspedes tradicional e depois caminha descalça pela praia enquanto as ondas lhe tocam os pés durante a hora dourada. Transição para um acolhedor mercado noturno de frutos do mar, onde ela saboreia marisco fresco grelhado e interage naturalmente com o ambiente. Termine à meia-noite ao lado de um paredão silencioso, contemplando o oceano escuro com luzes de barcos de pesca ao longe e ondas a rebentar em baixo. Autêntico estilo de vlog de 2026 para smartphone/câmara de cinema, ambiente coreano natural, pele, cabelo, roupa, água, comida, fumo, ondas e movimentos humanos realistas. Câmara na mão, foco automático natural, alterações de exposição e desfoque de movimento realista. Diálogo apenas em inglês, áudio ambiente natural, sem música de fundo ou narração. Grande ênfase em física credível, iluminação, movimento fluido e expressões espontâneas. Sem CGI, animação, legendas, logótipos ou marcas de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

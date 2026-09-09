@@ -110,20 +110,20 @@ Realismo de videocámara DV en mano extremadamente crudo: movimientos marcados, 
 
 <a name="prompt-2097185861259727263"></a>
 
-### Traducción en curso
+### Prompt fotorrealista para un vlog de viajes costero coreano de 30 segundos que captura un recorrido vespertino desde los mercados de pescado al atardecer y paseos costeros hasta un malecón a medianoche.
 
 Autor：[@nawalsehar](https://x.com/nawalsehar) · [Publicación original](https://x.com/nawalsehar/status/2097185861259727263)
 
 Fotografía · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt fotorrealista para un vlog de viajes costero coreano de 30 segundos que captura un recorrido vespertino desde los mercados de pescado al atardecer y paseos costeros hasta un malecón a medianoche.
 
 <img src="covers/2097185861259727263.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un vlog de viajes de acción real fotorrealista de 30 segundos junto al mar en Corea, siguiendo a una joven coreana durante una tarde en un tranquilo pueblo costero. Comienza en un animado mercado de mariscos con productos frescos del mar, suelos mojados y la luz del atardecer. Ella se registra en una acogedora casa de huéspedes tradicional y luego camina descalza por la playa mientras las olas le llegan a los pies durante la hora dorada. Haz una transición hacia un cálido mercado nocturno de mariscos donde disfruta de mariscos recién asados e interactúa de manera natural con el entorno. Termina a medianoche junto a un tranquilo malecón, contemplando el océano oscuro con luces de pesca lejanas y las olas rompiendo abajo. Auténtico estilo de vlog de 2026 grabado con smartphone/cámara de cine, entorno coreano natural, piel, cabello, ropa, agua, comida, humo, olas y movimiento humano realistas. Cámara en mano, enfoque automático natural, cambios de exposición y desenfoque de movimiento realista. Solo diálogo en inglés, audio ambiental natural, sin música de fondo ni narración. Gran énfasis en física creíble, iluminación, movimiento fluido y expresiones espontáneas. Sin CGI, animación, subtítulos, logotipos ni marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

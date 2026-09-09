@@ -110,20 +110,20 @@ Chân thực tột cùng kiểu máy quay DV cầm tay thô ráp: chuyển độ
 
 <a name="prompt-2097185861259727263"></a>
 
-### Đang dịch
+### Lời nhắc chân thực sống động cho một vlog du lịch bờ biển Hàn Quốc dài 30 giây ghi lại hành trình buổi tối từ chợ cá lúc hoàng hôn, dạo bộ ven biển đến bờ kè chắn sóng lúc nửa đêm.
 
 Tác giả：[@nawalsehar](https://x.com/nawalsehar) · [Bài gốc](https://x.com/nawalsehar/status/2097185861259727263)
 
 Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân thực sống động cho một vlog du lịch bờ biển Hàn Quốc dài 30 giây ghi lại hành trình buổi tối từ chợ cá lúc hoàng hôn, dạo bộ ven biển đến bờ kè chắn sóng lúc nửa đêm.
 
 <img src="covers/2097185861259727263.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một vlog du lịch bờ biển Hàn Quốc hành động thực tế sống động như thật dài 30 giây theo chân một phụ nữ trẻ Hàn Quốc trải qua một buổi tối tại một ngôi làng ven biển yên bình. Bắt đầu tại một khu chợ hải sản sôi động với hải sản tươi sống, sàn nhà ẩm ướt và ánh hoàng hôn. Cô nhận phòng tại một nhà khách truyền thống ấm cúng, sau đó đi chân trần dọc theo bãi biển khi những con sóng vỗ nhẹ vào chân cô trong giờ vàng. Chuyển cảnh sang chợ hải sản ban đêm ấm cúng, nơi cô thưởng thức hải sản nướng tươi ngon và tương tác tự nhiên với khung cảnh xung quanh. Kết thúc vào nửa đêm bên cạnh một bờ kè chắn sóng yên tĩnh, phóng tầm mắt ra đại dương đen thẳm với ánh đèn câu cá xa xa và sóng vỗ bên dưới. Phong cách vlog bằng điện thoại thông minh/máy quay điện ảnh chân thực năm 2026, môi trường Hàn Quốc tự nhiên, làn da, mái tóc, trang phục, nước, thức ăn, khói, sóng biển và chuyển động của con người sống động như thật. Máy quay cầm tay, tự động lấy nét tự nhiên, thay đổi độ phơi sáng và hiệu ứng làm mờ chuyển động chân thực. Chỉ đối thoại bằng tiếng Anh, âm thanh môi trường tự nhiên, không có nhạc nền hoặc lời dẫn chuyện. Nhấn mạnh vào tính chân thực của vật lý, ánh sáng, chuyển động mượt mà và biểu cảm tự nhiên. Không có CGI, hoạt hình, phụ đề, biểu trưng hoặc hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

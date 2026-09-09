@@ -110,20 +110,20 @@ Extrem roher DV-Camcorder-Realismus aus der Hand: starke Bewegung, Mikrowackler,
 
 <a name="prompt-2097185861259727263"></a>
 
-### Übersetzung läuft
+### Fotorealistischer Prompt für einen 30-sekündigen koreanischen Küsten-Reise-Vlog, der eine abendliche Reise von Fischmärkten bei Sonnenuntergang und Küstenspaziergängen bis hin zu einer Ufermauer um Mitternacht festhält.
 
 Autor：[@nawalsehar](https://x.com/nawalsehar) · [Originalbeitrag](https://x.com/nawalsehar/status/2097185861259727263)
 
 Fotografie · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistischer Prompt für einen 30-sekündigen koreanischen Küsten-Reise-Vlog, der eine abendliche Reise von Fischmärkten bei Sonnenuntergang und Küstenspaziergängen bis hin zu einer Ufermauer um Mitternacht festhält.
 
 <img src="covers/2097185861259727263.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 30-sekündigen, fotorealistischen Live-Action-Reise-Vlog von der koreanischen Küste, der eine junge Koreanerin an einem Abend in einem friedlichen Küstendorf begleitet. Beginne auf einem lebhaften Fischmarkt mit frischen Meeresfrüchten, nassen Böden und Abendlicht. Sie checkt in einem gemütlichen traditionellen Gästehaus ein und geht dann während der goldenen Stunde barfuß am Strand entlang, während Wellen ihre Füße umspülen. Gehe über zu einem warmen nächtlichen Meeresfrüchtemarkt, auf dem sie frisch gegrillte Meeresfrüchte genießt und natürlich mit der Umgebung interagiert. Ende um Mitternacht an einer ruhigen Ufermauer mit Blick auf den dunklen Ozean, fernen Fischerbootlichtern und unten brechenden Wellen. Authentischer Smartphone-/Kino-Kamera-Vlog-Stil von 2026, natürliche koreanische Umgebung, realistische Haut, Haare, Kleidung, Wasser, Essen, Rauch, Wellen und menschliche Bewegungen. Handkamera, natürlicher Autofokus, Belichtungswechsel und realistische Bewegungsunschärfe. Nur englische Dialoge, natürliche Umgebungsgeräusche, keine Hintergrundmusik oder Erzählung. Starker Fokus auf glaubwürdige Physik, Beleuchtung, flüssige Bewegungen und spontane Gesichtsausdrücke. Kein CGI, keine Animation, keine Untertitel, keine Logos oder Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
