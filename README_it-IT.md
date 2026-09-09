@@ -127,20 +127,20 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2096948259059085379"></a>
 
-### Traduzione in corso
+### Duello cinematografico di arti marziali Wuxia in una foresta autunnale di aceri con combattimento con la spada al rallentatore, effetti visivi di pittura a inchiostro e illuminazione volumetrica.
 
 Autore：[@aiwithlumi](https://x.com/aiwithlumi) · [Post originale](https://x.com/aiwithlumi/status/2096948259059085379)
 
 Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Duello cinematografico di arti marziali Wuxia in una foresta autunnale di aceri con combattimento con la spada al rallentatore, effetti visivi di pittura a inchiostro e illuminazione volumetrica.
 
 <img src="covers/2096948259059085379.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Sequenza cinematografica Wuxia in una foresta autunnale di aceri: due artisti marziali, una guerriera in un fluente Hanfu di seta rosa e bianca e un guerriero in vesti blu, si affrontano su rocce fluviali bagnate e muschiose mentre raggi di sole dorati squarciano la nebbia e cadono foglie rosse di acero. Lei spicca un balzo in aria, sguaina il suo Jian d'acciaio e scivola verso di lui in un drammatico rallentatore prima che le loro lame si scontrino con un'esplosione di scintille incandescenti. Atterra con grazia, spruzzando acqua attorno a sé, mentre un effetto di pittura a inchiostro sumi-e nero si diffonde nell'inquadratura. Conclusione con un campo lungo perfettamente simmetrico di entrambi i guerrieri che impugnano le spade sopra la testa in una postura di guardia sincronizzata, incorniciati da aceri rossi e da una radiosa retroilluminazione, con trame iper-dettagliate, movimento cinematografico a 24 fps e illuminazione volumetrica atmosferica.
 ```
 
 [↑ Torna alle categorie](#catalog)

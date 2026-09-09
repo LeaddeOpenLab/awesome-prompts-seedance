@@ -127,20 +127,20 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2096948259059085379"></a>
 
-### Traduction en cours
+### Duel cinématographique d'arts martiaux Wuxia dans une forêt d'érables d'automne avec combats d'épée au ralenti, visuels de lavis d'encre et éclairage volumétrique.
 
 Auteur：[@aiwithlumi](https://x.com/aiwithlumi) · [Publication originale](https://x.com/aiwithlumi/status/2096948259059085379)
 
 Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Duel cinématographique d'arts martiaux Wuxia dans une forêt d'érables d'automne avec combats d'épée au ralenti, visuels de lavis d'encre et éclairage volumétrique.
 
 <img src="covers/2096948259059085379.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Séquence cinématographique de Wuxia dans une forêt d'érables d'automne : deux artistes martiaux, une guerrière vêtue d'un Hanfu fluide en soie rose et blanche et un guerrier en robes bleues, s'affrontent sur des rochers de rivière humides et moussus tandis que des rayons de soleil dorés percent la brume et que des feuilles d'érable rouges tombent. Elle bondit dans les airs, dégaine son Jian en acier et glisse vers lui dans un ralenti dramatique avant que leurs lames ne s'entrechoquent dans une explosion d'étincelles incandescentes. Elle atterrit avec grâce, éclaboussant l'eau autour d'elle, tandis qu'un effet de lavis d'encre sumi-e noire s'étend sur le cadre. Terminez par un plan large parfaitement symétrique des deux guerriers tenant leurs épées au-dessus de leur tête dans une posture de garde synchronisée, encadrés par des érables rouges et un contre-jour éclatant, avec des textures hyper-détaillées, un mouvement cinématographique à 24 ips et un éclairage volumétrique atmosphérique.
 ```
 
 [↑ Retour aux catégories](#catalog)

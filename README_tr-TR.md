@@ -127,20 +127,20 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2096948259059085379"></a>
 
-### Çeviri sürüyor
+### Ağır çekim kılıç dövüşü, mürekkep yıkama görselleri ve hacimsel aydınlatma içeren sonbahar akçaağaç ormanında sinematik Wuxia dövüş sanatları düellosu.
 
 Yazar：[@aiwithlumi](https://x.com/aiwithlumi) · [Orijinal gönderi](https://x.com/aiwithlumi/status/2096948259059085379)
 
 Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ağır çekim kılıç dövüşü, mürekkep yıkama görselleri ve hacimsel aydınlatma içeren sonbahar akçaağaç ormanında sinematik Wuxia dövüş sanatları düellosu.
 
 <img src="covers/2096948259059085379.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sonbahar akçaağaç ormanında sinematik Wuxia sekansı: dökümlü pembe-beyaz ipek Hanfu giymiş bir kadın savaşçı ile mavi cüppeli bir erkek savaşçıdan oluşan iki dövüş sanatçısı, altın sarısı güneş ışınları sisi delip kırmızı akçaağaç yaprakları dökülürken ıslak yosunlu nehir kayaları üzerinde karşı karşıya gelir. Kadın havaya sıçrar, çelik Jian'ını çeker ve kılıçları parlayan kıvılcımlar saçarak çarpışmadan önce dramatik bir ağır çekimde adama doğru süzülür. Kadın, etrafına su sıçratarak zarif bir şekilde yere inerken, kadraj boyunca siyah bir sumi-e mürekkep yıkama efekti yayılır. Kırmızı akçaağaçlar ve ışıltılı arka ışıkla çerçevelenmiş, son derece ayrıntılı dokular, 24 fps sinematik hareket ve atmosferik hacimsel aydınlatma ile her iki savaşçının da senkronize bir gard duruşunda kılıçlarını başlarının üzerinde tuttuğu mükemmel derecede simetrik bir geniş açılı çekimle sonlanır.
 ```
 
 [↑ Kategorilere dön](#catalog)

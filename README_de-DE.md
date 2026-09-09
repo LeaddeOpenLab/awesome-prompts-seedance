@@ -127,20 +127,20 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2096948259059085379"></a>
 
-### Übersetzung läuft
+### Filmischer Wuxia-Kampfkunst-Zweikampf in einem herbstlichen Ahornwald mit Schwertkampf in Zeitlupe, Tuschewaschung-Optik und volumetrischer Beleuchtung.
 
 Autor：[@aiwithlumi](https://x.com/aiwithlumi) · [Originalbeitrag](https://x.com/aiwithlumi/status/2096948259059085379)
 
 Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmischer Wuxia-Kampfkunst-Zweikampf in einem herbstlichen Ahornwald mit Schwertkampf in Zeitlupe, Tuschewaschung-Optik und volumetrischer Beleuchtung.
 
 <img src="covers/2096948259059085379.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Filmische Wuxia-Sequenz in einem herbstlichen Ahornwald: Zwei Kampfkünstler, eine Kriegerin in fließendem rosa-weißem Seiden-Hanfu und ein Krieger in blauen Gewändern, stehen sich auf nassen, moosigen Flussfelsen gegenüber, während goldene Sonnenstrahlen den Nebel durchdringen und rote Ahornblätter herabfallen. Sie springt in die Luft, zieht ihr Jian aus Stahl und gleitet in dramatischer Zeitlupe auf ihn zu, bevor ihre Klingen mit einem Ausbruch glühender Funken aufeinandertreffen. Sie landet anmutig, spritzt Wasser um sich herum auf, während sich ein schwarzer Sumi-e-Tuschewaschung-Effekt über das Bild ausbreitet. Das Ende bildet eine vollkommen symmetrische Totale beider Krieger, die ihre Schwerter in synchronisierter Abwehrhaltung über ihren Köpfen halten, eingerahmt von roten Ahornbäumen und strahlendem Gegenlicht, mit hyperdetaillierten Texturen, filmischer 24fps-Bewegung und stimmungsvoller volumetrischer Beleuchtung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

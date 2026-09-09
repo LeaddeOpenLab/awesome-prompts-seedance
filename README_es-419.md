@@ -127,20 +127,20 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2096948259059085379"></a>
 
-### Traducción en curso
+### Duelo cinematográfico de artes marciales Wuxia en un bosque de arces otoñales con combate de espadas en cámara lenta, efectos visuales de aguada de tinta e iluminación volumétrica.
 
 Autor：[@aiwithlumi](https://x.com/aiwithlumi) · [Publicación original](https://x.com/aiwithlumi/status/2096948259059085379)
 
 Cine / Fotograma · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Duelo cinematográfico de artes marciales Wuxia en un bosque de arces otoñales con combate de espadas en cámara lenta, efectos visuales de aguada de tinta e iluminación volumétrica.
 
 <img src="covers/2096948259059085379.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Secuencia cinematográfica de Wuxia en un bosque de arces otoñales: dos artistas marciales, una guerrera con un fluido Hanfu de seda rosa y blanco y un guerrero con túnicas azules, se enfrentan sobre rocas fluviales húmedas y cubiertas de musgo mientras rayos de sol dorados atraviesan la niebla y caen hojas rojas de arce. Ella salta por los aires, desenvaina su Jian de acero y se desliza hacia él en una dramática cámara lenta antes de que sus hojas choquen con un estallido de chispas brillantes. Ella aterriza con gracia, salpicando agua a su alrededor, mientras un efecto de aguada de tinta sumi-e negra se extiende por el encuadre. Finaliza con un plano amplio perfectamente simétrico de ambos guerreros sosteniendo espadas sobre sus cabezas en una postura de guardia sincronizada, enmarcados por arces rojos y un contraluz radiante, con texturas hiperdetalladas, movimiento cinematográfico a 24 fps e iluminación volumétrica atmosférica.
 ```
 
 [↑ Volver a categorías](#catalog)

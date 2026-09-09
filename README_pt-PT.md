@@ -127,20 +127,20 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2096948259059085379"></a>
 
-### Tradução em curso
+### Duelo cinematográfico de artes marciais Wuxia numa floresta de áceres no outono com combate de espadas em câmara lenta, visuais de aguarela de tinta e iluminação volumétrica.
 
 Autor：[@aiwithlumi](https://x.com/aiwithlumi) · [Publicação original](https://x.com/aiwithlumi/status/2096948259059085379)
 
 Cena de Cinema / Fotograma · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Duelo cinematográfico de artes marciais Wuxia numa floresta de áceres no outono com combate de espadas em câmara lenta, visuais de aguarela de tinta e iluminação volumétrica.
 
 <img src="covers/2096948259059085379.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Sequência cinematográfica de Wuxia numa floresta de áceres no outono: dois artistas marciais, uma guerreira num fluido Hanfu de seda rosa e branca e um guerreiro em vestes azuis, enfrentam-se em rochas de rio húmidas e cobertas de musgo enquanto raios de sol dourados atravessam o nevoeiro e folhas vermelhas de ácer caem. Ela salta pelo ar, desembainha o seu Jian de aço e desliza na direção dele num dramático slow motion antes de as suas lâminas colidirem com uma explosão de faíscas incandescentes. Aterra graciosamente, salpicando água à sua volta, enquanto um efeito de aguarela de tinta sumi-e preta se espalha pelo enquadramento. Termina com um plano geral perfeitamente simétrico de ambos os guerreiros a segurar espadas acima das suas cabeças em postura de guarda sincronizada, emoldurados por áceres vermelhos e uma contraluz radiante, com texturas hiperdetalhadas, movimento cinematográfico a 24fps e iluminação volumétrica atmosférica.
 ```
 
 [↑ Voltar às categorias](#catalog)

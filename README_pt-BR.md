@@ -127,20 +127,20 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2096948259059085379"></a>
 
-### Tradução em andamento
+### Duelo cinematográfico de artes marciais Wuxia em uma floresta de bordos no outono com luta de espadas em câmera lenta, visuais de aquarela de tinta e iluminação volumétrica.
 
 Autor：[@aiwithlumi](https://x.com/aiwithlumi) · [Publicação original](https://x.com/aiwithlumi/status/2096948259059085379)
 
 Cinematográfico / Imagem de Filme · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Duelo cinematográfico de artes marciais Wuxia em uma floresta de bordos no outono com luta de espadas em câmera lenta, visuais de aquarela de tinta e iluminação volumétrica.
 
 <img src="covers/2096948259059085379.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Sequência cinematográfica de Wuxia em uma floresta de bordos no outono: dois artistas marciais, uma guerreira em um fluido Hanfu de seda rosa e branca e um guerreiro em vestes azuis, enfrentam-se em rochas de rio úmidas e musgosas enquanto raios de sol dourados atravessam a névoa e folhas vermelhas de bordo caem. Ela salta no ar, saca seu Jian de aço e desliza em direção a ele em uma câmera lenta dramática antes que suas lâminas colidam com uma explosão de faíscas brilhantes. Ela pousa com graça, espirrando água ao seu redor, enquanto um efeito de aquarela de tinta sumi-e preta se espalha pelo quadro. Termine com um plano aberto perfeitamente simétrico de ambos os guerreiros segurando espadas acima de suas cabeças em postura de guarda sincronizada, emoldurados por bordos vermelhos e luz de fundo radiante, com texturas hiperdetalhadas, movimento cinematográfico a 24fps e iluminação volumétrica atmosférica.
 ```
 
 [↑ Voltar às categorias](#catalog)

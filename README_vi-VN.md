@@ -129,20 +129,20 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2096948259059085379"></a>
 
-### Đang dịch
+### Màn đấu võ kiếm hiệp điện ảnh trong rừng phong mùa thu với đấu kiếm chuyển động chậm, hình ảnh hiệu ứng thủy mặc và ánh sáng thể tích.
 
 Tác giả：[@aiwithlumi](https://x.com/aiwithlumi) · [Bài gốc](https://x.com/aiwithlumi/status/2096948259059085379)
 
 Điện ảnh / Ảnh tĩnh từ phim · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Màn đấu võ kiếm hiệp điện ảnh trong rừng phong mùa thu với đấu kiếm chuyển động chậm, hình ảnh hiệu ứng thủy mặc và ánh sáng thể tích.
 
 <img src="covers/2096948259059085379.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Trường đoạn kiếm hiệp điện ảnh trong rừng phong mùa thu: hai võ sĩ, một nữ hiệp trong bộ Hán phục lụa hồng trắng thướt tha và một nam hiệp trong tà áo lam, đối đầu trên những tảng đá rêu phong ướt át bên sông khi những tia nắng vàng xuyên qua làn sương và lá phong đỏ rơi rụng. Nàng phóng mình lên không trung, rút thanh kiếm thép và lướt về phía chàng trong chuyển động chậm đầy kịch tính trước khi lưỡi kiếm chạm nhau tóe ra những tia lửa rực rỡ. Nàng tiếp đất duyên dáng, làm nước bắn tung tóe xung quanh, trong khi hiệu ứng tranh thủy mặc sumi-e đen tuyền lan tỏa khắp khung hình. Kết thúc bằng cảnh quay góc rộng đối xứng hoàn hảo của hai võ sĩ giơ kiếm qua đầu trong tư thế thủ đồng bộ, được viền bởi những tán phong đỏ và ánh sáng ngược rực rỡ, với kết cấu siêu chi tiết, chuyển động điện ảnh 24fps và ánh sáng thể tích đầy không khí nghệ thuật.
 ```
 
 [↑ Về danh mục](#catalog)
