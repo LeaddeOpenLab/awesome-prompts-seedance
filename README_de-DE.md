@@ -721,20 +721,21 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 
 <a name="prompt-2096903888813330826"></a>
 
-### Übersetzung läuft
+### ASMR-Video-Prompt im Werbestil, der das Kochen, das Herausspritzen der Brühe und die Präsentation von knusprigen Shengjianbao zeigt.
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Originalbeitrag](https://x.com/Lianaalane/status/2096903888813330826)
 
 Produktmarketing · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** ASMR-Video-Prompt im Werbestil, der das Kochen, das Herausspritzen der Brühe und die Präsentation von knusprigen Shengjianbao zeigt.
 
 <img src="covers/2096903888813330826.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein hyperrealistisches, filmreifes 15-Sekunden-Food-Video im exakt glänzenden, ultradetaillierten Werbestil von erstklassigen asiatischen Street-Food-ASMR-Filmen, mit cremiger, sanfter Beleuchtung, saftigen Tropfen in Zeitlupe, aufsteigendem Dampf und mundwässernden Nahaufnahmen. 
+Holzstäbchen heben langsam ein pralles weißes Shengjianbao aus einer schwarzen Eisenpfanne, belegt mit schwarzen Sesamsamen und Frühlingszwiebeln, der Teig glänzt unter warmem Licht. Das Bao wird in dramatischer Zeitlupe aufgerissen, während dicke goldene Brühe und eine saftige Hackfleischfüllung hervorbrechen, klebrige bernsteinfarbene Sauce sich dehnt und in langen, glänzenden Strängen herabfließt, während dichter weißer Dampf nach oben wirbelt. Extreme Nahaufnahme der herzhaften, fleischbällchenartigen Füllung, während kontinuierlich goldene Flüssigkeit in einen weißen Keramiklöffel tropft und perfekte, schwere Tropfen bildet. Weitwinkelaufnahme einer gusseisernen Pfanne voller perfekt gefalteter roher Baozi auf einem Gasherd, während klares Wasser hineingegossen wird, was sofort dicke Dampfwolken erzeugt. Nahe Einstellungen zeigen, wie die Unterseiten zu goldenen, spitzenartigen Krusten anbraten, während ein Metallspatel sie wendet und karamellisierte, knusprige Ränder zum Vorschein bringt. Fertige Baozi auf einem blau-weißen Teller gestapelt, eines angebissen, um dampfendes rosafarbenes Fleisch und Sauce zu enthüllen, Essstäbchen tunken es in eine dunkle Soja-Sesam-Dipsauce. Letzte Weitwinkelaufnahme des dampfenden Tellers unter einer warmen Hängelampe auf einem Holztisch in einer gemütlichen nächtlichen Küche, zarter Dampf steigt vor einem dunklen Fenster mit fernen Lichtern der Stadt auf.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

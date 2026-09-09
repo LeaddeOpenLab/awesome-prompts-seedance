@@ -721,20 +721,21 @@ Traducción en curso
 
 <a name="prompt-2096903888813330826"></a>
 
-### Traducción en curso
+### Prompt de video ASMR de estilo comercial que muestra la cocción, el caldo que brota y la presentación de shengjianbao crujientes.
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Publicación original](https://x.com/Lianaalane/status/2096903888813330826)
 
 Marketing de producto · Comida y bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video ASMR de estilo comercial que muestra la cocción, el caldo que brota y la presentación de shengjianbao crujientes.
 
 <img src="covers/2096903888813330826.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video cinemático hiperrealista de comida de 15 segundos con el estilo comercial exactamente brillante y ultradetallado de los filmes prémium de comida callejera asiática estilo ASMR, con iluminación suave y cremosa, gotas de jugo en cámara lenta, vapor ascendente y primeros planos que hacen agua la boca. 
+Unos palillos de madera levantan lentamente un rollizo shengjianbao blanco de una sartén de hierro negro, con semillas de sésamo negro y cebollín en la parte superior, la masa brillando bajo una luz cálida. El bao se abre en una dramática cámara lenta mientras brotan un espeso caldo dorado y un jugoso relleno de carne picada, con una salsa ámbar pegajosa estirándose y cayendo en cascada en largos hilos brillantes mientras un denso vapor blanco se arremolina hacia arriba. Primerísimo primer plano del sabroso relleno similar a una albóndiga mientras el líquido dorado gotea continuamente en una cuchara de cerámica blanca, formando gotas pesadas perfectas. Plano general de una sartén de hierro fundido repleta de baozi crudos perfectamente plegados sobre una estufa de gas mientras se vierte agua clara, creando instantáneamente densas nubes de vapor. Tomas cerradas muestran cómo las partes inferiores se van dorando hasta convertirse en costras doradas parecidas a encajes, mientras una espátula de metal les da la vuelta, revelando bordes crujientes caramelizados. Baozi terminados apilados en un plato azul y blanco, uno de ellos mordido para revelar carne rosácea humeante y salsa, unos palillos sumergiéndolo en una salsa oscura para mojar de soya y sésamo. Plano general final del plato humeante bajo una cálida lámpara colgante sobre una mesa de madera en una acogedora cocina nocturna, con un suave vapor que se eleva contra una ventana oscura con luces lejanas de la ciudad.
 ```
 
 [↑ Volver a categorías](#catalog)

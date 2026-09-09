@@ -721,20 +721,21 @@ Traduction en cours
 
 <a name="prompt-2096903888813330826"></a>
 
-### Traduction en cours
+### Prompt de vidéo ASMR de style publicitaire présentant la cuisson, le bouillon qui jaillit et le dressage de shengjianbao croustillants.
 
 Auteur：[@Lianaalane](https://x.com/Lianaalane) · [Publication originale](https://x.com/Lianaalane/status/2096903888813330826)
 
 Marketing produit · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de vidéo ASMR de style publicitaire présentant la cuisson, le bouillon qui jaillit et le dressage de shengjianbao croustillants.
 
 <img src="covers/2096903888813330826.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo culinaire cinématographique hyperréaliste de 15 secondes dans le style commercial ultra-détaillé et brillant exact des films ASMR de street food asiatique haut de gamme, avec un éclairage doux et crémeux, des gouttes de jus au ralenti, de la vapeur qui s'élève et des gros plans appétissants. 
+Des baguettes en bois soulèvent lentement un shengjianbao blanc et rebondi d'une poêle en fonte noire, garni de graines de sésame noir et d'oignon vert, la pâte brillant sous une lumière chaude. Le bao est déchiré au ralenti de manière spectaculaire tandis qu'un bouillon doré épais et une garniture juteuse de viande hachée jaillissent, la sauce ambrée collante s'étirant et tombant en cascade en longs filaments brillants tandis qu'une vapeur blanche et dense tourbillonne vers le haut. Très gros plan sur la savoureuse garniture semblable à une boulette de viande alors que le liquide doré s'écoule continuellement dans une cuillère en céramique blanche, formant de parfaites gouttes denses. Plan large d'une poêle en fonte remplie de baozi crus parfaitement plissés sur une cuisinière à gaz au moment où de l'eau claire est versée, créant instantanément d'épais nuages de vapeur. Des plans serrés montrent les fonds croustiller pour former des croûtes dorées semblables à de la dentelle tandis qu'une spatule en métal les retourne, révélant des bords caramélisés et croustillants. Des baozi cuits empilés sur une assiette bleue et blanche, l'un d'eux entamé pour révéler une viande rosée fumante et de la sauce, des baguettes le trempant dans une sauce foncée au soja et au sésame. Plan large final de l'assiette fumante sous une suspension chaleureuse sur une table en bois dans une cuisine nocturne et chaleureuse, une douce vapeur s'élevant devant une fenêtre sombre avec les lumières lointaines de la ville.
 ```
 
 [↑ Retour aux catégories](#catalog)

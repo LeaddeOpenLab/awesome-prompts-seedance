@@ -707,20 +707,21 @@ Tradução em curso
 
 <a name="prompt-2096903888813330826"></a>
 
-### Tradução em curso
+### Prompt de vídeo ASMR de estilo comercial que apresenta a confeção, o caldo a rebentar e a apresentação de shengjianbao estaladiços.
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Publicação original](https://x.com/Lianaalane/status/2096903888813330826)
 
 Marketing de Produto · Comida / Bebida · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo ASMR de estilo comercial que apresenta a confeção, o caldo a rebentar e a apresentação de shengjianbao estaladiços.
 
 <img src="covers/2096903888813330826.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo cinematográfico hiper-realista de 15 segundos sobre comida, no exato estilo comercial brilhante e ultradetalhado dos filmes ASMR de comida de rua asiática premium, com iluminação suave e cremosa, gotas de suco em câmara lenta, vapor a subir e grandes planos de fazer crescer água na boca. 
+Pauzinhos de madeira levantam lentamente um shengjianbao branco e roliço de uma frigideira de ferro preto, com sementes de sésamo preto e cebolinho por cima, a massa a brilhar sob uma luz quente. O bao é aberto em câmara lenta dramática enquanto um caldo dourado espesso e um recheio suculento de carne picada rebentam para fora, com o molho âmbar pegajoso a esticar e a cair em cascata em longos fios brilhantes enquanto o vapor branco denso se enrola para cima. Grande plano extremo do recheio saboroso semelhante a uma almôndega, enquanto o líquido dourado pinga continuamente para uma colher de cerâmica branca, formando gotas perfeitas e pesadas. Plano geral de uma frigideira de ferro fundido repleta de baozi crus perfeitamente plissados num fogão a gás enquanto é vertida água limpa, criando instantaneamente nuvens espessas de vapor. Planos fechados mostram o fundo a tostar em rendas douradas enquanto uma espátula de metal os vira, revelando bordas caramelizadas e estaladiças. Baozi terminados empilhados num prato azul e branco, um deles mordido para revelar carne rosada a fumegar e molho, com pauzinhos a mergulhá-lo num molho escuro de soja e sésamo. Plano geral final do prato a fumegar sob um candeeiro suspenso acolhedor sobre uma mesa de madeira numa cozinha noturna acolhedora, vapor suave a subir contra uma janela escura com luzes distantes da cidade.
 ```
 
 [↑ Voltar às categorias](#catalog)

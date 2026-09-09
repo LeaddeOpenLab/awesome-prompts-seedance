@@ -721,20 +721,21 @@ Traduzione in corso
 
 <a name="prompt-2096903888813330826"></a>
 
-### Traduzione in corso
+### Prompt video ASMR in stile commerciale che mostra la cottura, il brodo che trabocca e la presentazione di shengjianbao croccanti.
 
 Autore：[@Lianaalane](https://x.com/Lianaalane) · [Post originale](https://x.com/Lianaalane/status/2096903888813330826)
 
 Marketing di Prodotto · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt video ASMR in stile commerciale che mostra la cottura, il brodo che trabocca e la presentazione di shengjianbao croccanti.
 
 <img src="covers/2096903888813330826.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video culinario cinematografico iperrealistico di 15 secondi nell'esatto stile commerciale lucido e ultra-dettagliato dei film ASMR di street-food asiatico di alta gamma, con un'illuminazione morbida e cremosa, gocce di succo al rallentatore, vapore che sale e primi piani da far venire l'acquolina in bocca. 
+Bacchette di legno sollevano lentamente un paffuto shengjianbao bianco da una padella di ferro nero, con semi di sesamo nero e cipollotto sopra, l'impasto che brilla sotto una luce calda. Il bao viene aperto in un drammatico rallentatore mentre fuoriescono denso brodo dorato e un succulento ripieno di carne macinata, con la salsa ambrata e appiccicosa che si allunga e scende a cascata in lunghi filamenti lucidi mentre un denso vapore bianco si solleva vorticando. Primissimo piano del saporito ripieno a forma di polpetta mentre il liquido dorato gocciola continuamente in un cucchiaio di ceramica bianca, formando gocce pesanti perfette. Campo largo di una padella di ghisa piena di baozi crudi perfettamente pieghettati su un fornello a gas mentre viene versata acqua limpida, creando istantaneamente dense nuvole di vapore. Inquadrature strette mostrano il fondo che diventa dorato e croccante come un merletto mentre una spatola di metallo li capovolge, rivelando bordi caramellati e croccanti. Baozi finiti impilati su un piatto bianco e blu, uno morso per rivelare carne rosata fumante e salsa, con le bacchette che lo immergono in una salsa scura a base di soia e sesamo. Campo largo finale del piatto fumante sotto una calda lampada a sospensione su un tavolo di legno in un'accogliente cucina notturna, vapore leggero che si alza contro una finestra buia con le luci lontane della città.
 ```
 
 [↑ Torna alle categorie](#catalog)

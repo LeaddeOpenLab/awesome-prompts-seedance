@@ -707,20 +707,21 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 
 <a name="prompt-2096903888813330826"></a>
 
-### Çeviri sürüyor
+### Çıtır shengjianbao'ların pişirilmesini, fışkıran et suyunu ve sunumunu sergileyen reklam tarzı ASMR video istemi.
 
 Yazar：[@Lianaalane](https://x.com/Lianaalane) · [Orijinal gönderi](https://x.com/Lianaalane/status/2096903888813330826)
 
 Ürün Pazarlaması · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Çıtır shengjianbao'ların pişirilmesini, fışkıran et suyunu ve sunumunu sergileyen reklam tarzı ASMR video istemi.
 
 <img src="covers/2096903888813330826.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kremamsı yumuşak aydınlatma, ağır çekimde damlayan et suları, yükselen buhar ve ağız sulandıran yakın çekimlerle, birinci sınıf Asya sokak lezzetleri ASMR filmlerinin tam olarak parlak ve ultra detaylı reklam tarzında 15 saniyelik hiper gerçekçi sinematik bir yemek videosu oluşturun. 
+Ahşap yemek çubukları, siyah demir bir tavadan tombul beyaz bir shengjianbao'yu yavaşça kaldırır; üzerinde siyah susam taneleri ve yeşil soğan bulunur, hamur sıcak ışık altında parıldar. Bao, dramatik bir ağır çekimde yırtılarak açılır; içinden koyu altın sarısı bir et suyu ve sulu kıyma harcı fışkırır, yapışkan kehribar rengi sos uzun parlak şeritler halinde uzayıp aşağı dökülürken yoğun beyaz buhar yukarı doğru kıvrılır. Yuvarlak köfte benzeri lezzetli harcın aşırı yakın çekiminde altın rengi sıvı, beyaz seramik bir kaşığa sürekli damlayarak mükemmel ağır damlalar oluşturur. Gazlı ocak üzerindeki dökme demir tavaya mükemmel kıvrımlı çiğ baoziler dizilmişken berrak su döküldüğü ve anında yoğun buhar bulutları oluşturduğu geniş çekim. Yakın çekimlerde, metal bir spatula onları çevirip karamelize çıtır kenarları ortaya çıkarırken tabanlarının altın rengi dantel benzeri kabuklara dönüştüğü görülür. Mavi-beyaz bir tabağa üst üste dizilmiş pişmiş baoziler; biri buharlı pembemsi etini ve sosunu gösterecek şekilde ısırılmış, yemek çubukları onu koyu soya-susam sosuna batırır. Rahat bir gece mutfağında ahşap bir masanın üzerindeki sıcak sarkıt lambanın altında tüten tabağın son geniş çekimi, uzaktaki şehir ışıklarıyla aydınlanan karanlık bir pencereye karşı yükselen hafif buhar.
 ```
 
 [↑ Kategorilere dön](#catalog)

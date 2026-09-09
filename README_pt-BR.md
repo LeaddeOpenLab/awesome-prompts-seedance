@@ -707,20 +707,21 @@ Tradução em andamento
 
 <a name="prompt-2096903888813330826"></a>
 
-### Tradução em andamento
+### Prompt de vídeo ASMR estilo comercial apresentando o cozimento, o caldo jorrando e a apresentação de shengjianbao crocantes.
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Publicação original](https://x.com/Lianaalane/status/2096903888813330826)
 
 Marketing de Produto · Alimentos / Bebidas · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de vídeo ASMR estilo comercial apresentando o cozimento, o caldo jorrando e a apresentação de shengjianbao crocantes.
 
 <img src="covers/2096903888813330826.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo cinematográfico hiper-realista de 15 segundos sobre comida, no exato estilo comercial brilhante e ultradetalhado dos filmes ASMR de comida de rua asiática premium, com iluminação suave e cremosa, gotas de suco em câmera lenta, vapor subindo e close-ups de dar água na boca. 
+Hashis de madeira levantam lentamente um shengjianbao branco e farto de uma frigideira de ferro preto, com gergelim preto e cebolinha por cima, a massa brilhando sob a luz quente. O bao é rasgado em câmera lenta dramática enquanto um caldo dourado e espesso e um recheio suculento de carne moída jorram para fora, com o molho âmbar pegajoso esticando e caindo em cascata em longos fios brilhantes enquanto o vapor branco denso gira para cima. Close-up extremo do recheio saboroso semelhante a uma almôndega, enquanto o líquido dourado goteja continuamente em uma colher de cerâmica branca, formando gotas pesadas e perfeitas. Plano aberto de uma frigideira de ferro fundido cheia de baozi crus perfeitamente pregueados em um fogão a gás, enquanto água limpa é despejada, criando instantaneamente nuvens espessas de vapor. Planos fechados mostram o fundo ficando crocante em rendas douradas enquanto uma espátula de metal os vira, revelando bordas caramelizadas e crocantes. Baozi prontos empilhados em um prato azul e branco, um deles mordido para revelar carne rosada fumegante e molho, com hashis mergulhando-o em um molho escuro de soja e gergelim. Plano aberto final do prato fumegante sob uma luminária pendente quente sobre uma mesa de madeira em uma cozinha noturna aconchegante, vapor suave subindo contra uma janela escura com luzes distantes da cidade.
 ```
 
 [↑ Voltar às categorias](#catalog)
