@@ -209,20 +209,20 @@ Tác giả：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Bài gốc](h
 
 <a name="prompt-2096826123330138410"></a>
 
-### Đang dịch
+### Bức ảnh thời trang điện ảnh về người phụ nữ tóc vàng mặc áo khoác lông thú nhân tạo màu kem mang ván trượt tuyết màu trắng trên sườn núi tuyết vùng núi cao vào giờ vàng.
 
 Tác giả：[@noorlewisx](https://x.com/noorlewisx) · [Bài gốc](https://x.com/noorlewisx/status/2096826123330138410)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức ảnh thời trang điện ảnh về người phụ nữ tóc vàng mặc áo khoác lông thú nhân tạo màu kem mang ván trượt tuyết màu trắng trên sườn núi tuyết vùng núi cao vào giờ vàng.
 
 <img src="covers/2096826123330138410.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Ảnh tĩnh phim thời trang đậm chất điện ảnh, góc chụp từ dưới lên về một phụ nữ trẻ xinh đẹp với mái tóc vàng gợn sóng màu hạt dẻ và đôi mắt nâu đang bước về phía máy ảnh trên sườn núi phủ tuyết trắng ngập nắng lúc hoàng hôn vàng. Cô mặc chiếc áo khoác lông thú nhân tạo màu kem quá khổ bên ngoài áo crop top dệt kim gân màu trắng và quần soóc trắng đồng điệu, bốt trượt tuyết lông trắng xù xì và găng tay trắng. Cô vác một đôi ván trượt tuyết màu trắng bóng bẩy có khóa liên kết màu đen trên một bên vai. Tuyết kết tinh lấp lánh ở cận cảnh cực hạn với độ sâu trường ảnh nông và hiệu ứng bokeh, các đỉnh núi phủ đầy tuyết và bầu trời chuyển từ xanh trong sang chạng vạng ở hậu cảnh, ánh sáng viền ấn tượng, nhiếp ảnh biên tập thời trang cao cấp, hạt phim 35mm, cực kỳ chân thực, chân thực như ảnh chụp, 8k
 ```
 
 [↑ Về danh mục](#catalog)
