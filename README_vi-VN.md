@@ -30,22 +30,22 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2097186378861953475"></a>
 
-### Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+### Tạo một vlog du lịch chân thực dài 30 giây tại thị trấn miền núi Nhật Bản, theo chân một cô gái trẻ khám phá ngôi làng yên tĩnh sau khi lỡ xe buýt, mang phong cách ánh sáng tự nhiên và máy quay cầm tay.
 
 Tác giả：[@aiwithaly](https://x.com/aiwithaly) · [Bài gốc](https://x.com/aiwithaly/status/2097186378861953475)
 
-Nhiếp ảnh · Nhân vật · Phong cảnh / Thiên nhiên · Chờ phân phối
+Nhiếp ảnh · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+**Tóm tắt:** Tạo một vlog du lịch chân thực dài 30 giây tại thị trấn miền núi Nhật Bản, theo chân một cô gái trẻ khám phá ngôi làng yên tĩnh sau khi lỡ xe buýt, mang phong cách ánh sáng tự nhiên và máy quay cầm tay.
 
 <img src="covers/2097186378861953475.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.
+Tạo một vlog du lịch chân thực dài 30 giây tại thị trấn miền núi Nhật Bản, theo chân một cô gái trẻ người Nhật bị lỡ xe buýt và dành 25 phút khám phá thị trấn yên bình. Thể hiện cảnh cô chạy đuổi theo chiếc xe buýt vừa rời bến → kiểm tra bảng giờ xe chạy → đi bộ qua những con phố tĩnh lặng và băng qua cây cầu màu đỏ → khám phá một quán trà truyền thống → thưởng thức tách trà xanh ấm nóng → ngắm nhìn khung cảnh núi non trong giờ vàng → nghe thấy tiếng xe buýt tiếp theo đang tới và quay trở lại trạm dừng.
 
-Authentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.
+Cảnh quay du lịch thực tế năm 2026, phong cảnh Nhật Bản tự nhiên, chuyển động bước đi và cơ thể người chân thực, tóc và trang phục bay theo gió, dòng suối chảy, trà bốc khói nghi ngút, chuyển động vật lý của xe buýt chuẩn xác và ánh sáng giờ vàng. Phong cách máy quay phim/điện thoại thông minh cầm tay với khả năng tự động lấy nét tự nhiên, thay đổi độ phơi sáng và hiệu ứng mờ chuyển động tinh tế. Chỉ có đối thoại bằng tiếng Anh, âm thanh môi trường làng quê chân thực và không có nhạc nền. Không có CGI, hoạt hình, hiệu ứng VHS, phụ đề, logo hoặc hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -58,7 +58,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 Tác giả：[@john87445528](https://x.com/john87445528) · [Bài gốc](https://x.com/john87445528/status/2097097582262825180)
 
-Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Chờ phân phối
+Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xuất bản
 
 **Tóm tắt:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
@@ -89,7 +89,7 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Chờ ph
 
 Tác giả：[@CaliraVal](https://x.com/CaliraVal) · [Bài gốc](https://x.com/CaliraVal/status/2097184908250845406)
 
-Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Phong cảnh / Thiên nhiên · Chờ phân phối
+Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 **Tóm tắt:** Một vlog du lịch AI đậm chất điện ảnh về cô gái trẻ sành điệu khám phá phố cổ châu Âu lúc hoàng hôn với lời thoại chi tiết, hướng dẫn khớp khẩu hình và tính thẩm mỹ phim du lịch điện ảnh.
 
@@ -131,7 +131,7 @@ Biểu cảm khuôn mặt tự nhiên, khớp khẩu hình chính xác, giọng 
 
 Tác giả：[@SyntheSarah](https://x.com/SyntheSarah) · [Bài gốc](https://x.com/SyntheSarah/status/2097182529564365135)
 
-Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Kiến trúc / Nội thất · Chờ phân phối
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Kiến trúc / Nội thất · Đã xuất bản
 
 **Tóm tắt:** Một người gác hải đăng dãi dầu sương gió trên vách đá mù sương ban đêm được bao quanh bởi các quả cầu phát quang sinh học bay lên, với chuyển động máy quay đẩy vào liên tục mang phong cách điện ảnh.
 
@@ -153,7 +153,7 @@ Một người gác hải đăng già dãi dầu sương gió đứng trên vác
 
 Tác giả：[@Itswsm105f](https://x.com/Itswsm105f) · [Bài gốc](https://x.com/Itswsm105f/status/2097225058439840092)
 
-Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Cyberpunk / Khoa học viễn tưởng · Chờ phân phối
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
 
 **Tóm tắt:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
@@ -189,7 +189,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 Tác giả：[@RuzainaMeer](https://x.com/RuzainaMeer) · [Bài gốc](https://x.com/RuzainaMeer/status/2096837494000308685)
 
-Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chờ phân phối
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
 **Tóm tắt:** Lời nhắc tạo phim tài liệu điện ảnh siêu thực dài 30 giây khắc họa sự tiến hóa liền mạch của vũ trụ và sự sống trên Trái Đất, từ Vụ Nổ Lớn đến nhân loại hiện đại.
 
@@ -211,7 +211,7 @@ Tạo một thước phim tài liệu điện ảnh siêu thực dài 30 giây t
 
 Tác giả：[@AIwithMinal](https://x.com/AIwithMinal) · [Bài gốc](https://x.com/AIwithMinal/status/2097185540391211470)
 
-Điện ảnh / Ảnh tĩnh từ phim · Phong cảnh / Thiên nhiên · Chờ phân phối
+Điện ảnh / Ảnh tĩnh từ phim · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 **Tóm tắt:** Cảnh đi bộ đường dài trên núi mang phong cách điện ảnh siêu thực dọc theo con đường gồ ghề trong rừng núi cao với ánh nắng giờ vàng và những ngọn núi hùng vĩ.
 
@@ -233,7 +233,7 @@ Cảnh đi bộ đường dài trên núi mang phong cách điện ảnh siêu t
 
 Tác giả：[@arsalannazir07](https://x.com/arsalannazir07) · [Bài gốc](https://x.com/arsalannazir07/status/2096791786807275583)
 
-Điện ảnh / Ảnh tĩnh từ phim · Chờ phân phối
+Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
 **Tóm tắt:** Một hoạt hình tĩnh vật \(stop-motion\) điện ảnh tỉ lệ dọc 9:16 dài 21 giây về một nhân vật hình người tí hon làm từ đá bờ biển nhảy múa rồi sụp đổ trong một vũng thủy triều nông.
 
@@ -269,7 +269,7 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 Tác giả：[@eshal\_\_ai](https://x.com/eshal__ai) · [Bài gốc](https://x.com/eshal__ai/status/2096840505355370629)
 
-Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Cổ điển / Cổ điển · Nhân vật · Chờ phân phối
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Cổ điển / Cổ điển · Nhân vật · Đã xuất bản
 
 **Tóm tắt:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
 
@@ -308,5 +308,3 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 ---
 
 [Khám phá Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
-
-Tham khảo điều hướng: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

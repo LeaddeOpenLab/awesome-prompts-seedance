@@ -30,22 +30,22 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 <a name="prompt-2097186378861953475"></a>
 
-### Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+### สร้างวิดีโอบล็อกท่องเที่ยวเมืองบนภูเขาของญี่ปุ่นความยาว 30 วินาทีที่สมจริงดุจภาพถ่าย ติดตามหญิงสาวที่สำรวจหมู่บ้านอันเงียบสงบหลังจากตกรถประจำทาง โดดเด่นด้วยแสงธรรมชาติและสไตล์กล้องถือด้วยมือ
 
 ผู้เขียน：[@aiwithaly](https://x.com/aiwithaly) · [โพสต์ต้นฉบับ](https://x.com/aiwithaly/status/2097186378861953475)
 
-การถ่ายภาพ · ตัวละคร · ทิวทัศน์ / ธรรมชาติ · รอเผยแพร่
+การถ่ายภาพ · ตัวละคร · ทิวทัศน์ / ธรรมชาติ · เผยแพร่แล้ว
 
-**สรุป:** Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+**สรุป:** สร้างวิดีโอบล็อกท่องเที่ยวเมืองบนภูเขาของญี่ปุ่นความยาว 30 วินาทีที่สมจริงดุจภาพถ่าย ติดตามหญิงสาวที่สำรวจหมู่บ้านอันเงียบสงบหลังจากตกรถประจำทาง โดดเด่นด้วยแสงธรรมชาติและสไตล์กล้องถือด้วยมือ
 
 <img src="covers/2097186378861953475.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.
+สร้างวิดีโอบล็อกท่องเที่ยวเมืองบนภูเขาของญี่ปุ่นความยาว 30 วินาทีที่สมจริงดุจภาพถ่าย ติดตามหญิงสาวชาวญี่ปุ่นคนหนึ่งที่ตกรถประจำทางและใช้เวลา 25 นาทีในการเดินสำรวจเมืองอันเงียบสงบ แสดงภาพเธอวิ่งตามรถประจำทางที่เพิ่งออกไป → ตรวจดูตารางเวลาเดินรถ → เดินผ่านถนนอันเงียบสงบและข้ามสะพานสีแดง → ค้นพบร้านน้ำชาแบบดั้งเดิม → เพลิดเพลินกับชาเขียวอุ่นๆ → ชมวิวภูเขาในช่วงเวลาแสงสีทอง (golden-hour) → ได้ยินเสียงรถประจำทางคันต่อไปมาถึงและเดินกลับไปยังป้ายรถ
 
-Authentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.
+ฟุตเทจการเดินทางที่สมจริงสไตล์ปี 2026 ทิวทัศน์ธรรมชาติของญี่ปุ่น การเดินและการเคลื่อนไหวของมนุษย์ที่สมจริง เส้นผมและเสื้อผ้าที่พลิ้วไหวตามแรงลม ลำธารที่ไหลเอื่อย ชาร้อนมีควันกรุ่น ฟิสิกส์การเคลื่อนที่ของรถประจำทางที่สมจริงและแสงช่วง golden-hour รูปแบบกล้องสมาร์ตโฟน/กล้องถ่ายภาพยนตร์แบบถือด้วยมือพร้อมระบบโฟกัสอัตโนมัติ การปรับระดับแสงที่ดูเป็นธรรมชาติ และโมชันเบลอเล็กน้อย มีบทสนทนาภาษาอังกฤษเท่านั้น เสียงบรรยากาศหมู่บ้านที่สมจริงและไม่มีดนตรีประกอบ ไม่มี CGI, แอนิเมชัน, เอฟเฟกต์แบบม้วนเทป VHS, คำบรรยาย, โลโก้ หรือลายน้ำ
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)
@@ -58,7 +58,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 ผู้เขียน：[@john87445528](https://x.com/john87445528) · [โพสต์ต้นฉบับ](https://x.com/john87445528/status/2097097582262825180)
 
-คอมิก / สตอรี่บอร์ด · การถ่ายภาพ · ตัวละคร · รอเผยแพร่
+คอมิก / สตอรี่บอร์ด · การถ่ายภาพ · ตัวละคร · เผยแพร่แล้ว
 
 **สรุป:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
@@ -89,7 +89,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 ผู้เขียน：[@CaliraVal](https://x.com/CaliraVal) · [โพสต์ต้นฉบับ](https://x.com/CaliraVal/status/2097184908250845406)
 
-ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ตัวละคร · ทิวทัศน์ / ธรรมชาติ · รอเผยแพร่
+ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ตัวละคร · ทิวทัศน์ / ธรรมชาติ · เผยแพร่แล้ว
 
 **สรุป:** วิดีโอบล็อกท่องเที่ยว AI สไตล์ภาพยนตร์ของหญิงสาวมีสไตล์ที่ออกสำรวจเมืองเก่าในยุโรปช่วงอาทิตย์อัสดง พร้อมบทสนทนาอย่างละเอียด คำแนะนำลิปซิงค์ และสุนทรียภาพภาพยนตร์ท่องเที่ยวระดับพรีเมียม
 
@@ -131,7 +131,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 ผู้เขียน：[@SyntheSarah](https://x.com/SyntheSarah) · [โพสต์ต้นฉบับ](https://x.com/SyntheSarah/status/2097182529564365135)
 
-การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · สถาปัตยกรรม / การตกแต่งภายใน · รอเผยแพร่
+การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · สถาปัตยกรรม / การตกแต่งภายใน · เผยแพร่แล้ว
 
 **สรุป:** คนเฝ้าประภาคารชราบนหน้าผาที่เต็มไปด้วยหมอกยามค่ำคืนรายล้อมไปด้วยลูกทรงกลมเรืองแสงชีวภาพที่ลอยขึ้นมา พร้อมการเคลื่อนกล้องแบบพุชอินอย่างต่อเนื่องตามสไตล์ภาพยนตร์
 
@@ -153,7 +153,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 ผู้เขียน：[@Itswsm105f](https://x.com/Itswsm105f) · [โพสต์ต้นฉบับ](https://x.com/Itswsm105f/status/2097225058439840092)
 
-การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ภาพเรนเดอร์ 3 มิติ · ไซเบอร์พังก์ / ไซไฟ · รอเผยแพร่
+การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ภาพเรนเดอร์ 3 มิติ · ไซเบอร์พังก์ / ไซไฟ · เผยแพร่แล้ว
 
 **สรุป:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
@@ -189,7 +189,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 ผู้เขียน：[@RuzainaMeer](https://x.com/RuzainaMeer) · [โพสต์ต้นฉบับ](https://x.com/RuzainaMeer/status/2096837494000308685)
 
-การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · รอเผยแพร่
+การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · เผยแพร่แล้ว
 
 **สรุป:** พรอมต์สารคดีภาพยนตร์สมจริงความยาว 30 วินาที ถ่ายทอดวิวัฒนาการอันไร้รอยต่อของจักรวาลและสิ่งมีชีวิตบนโลก ตั้งแต่บิกแบงจนถึงมนุษยชาติยุคปัจจุบัน
 
@@ -211,7 +211,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 ผู้เขียน：[@AIwithMinal](https://x.com/AIwithMinal) · [โพสต์ต้นฉบับ](https://x.com/AIwithMinal/status/2097185540391211470)
 
-ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ทิวทัศน์ / ธรรมชาติ · รอเผยแพร่
+ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ทิวทัศน์ / ธรรมชาติ · เผยแพร่แล้ว
 
 **สรุป:** ฉากการเดินป่าบนภูเขาแนวภาพยนตร์ที่สมจริงอย่างยิ่งตามเส้นทางขรุขระในป่าอัลไพน์ พร้อมแสงแดดสีทองยามโกลเดนอาวร์และทิวเขาอันงดงาม
 
@@ -233,7 +233,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 ผู้เขียน：[@arsalannazir07](https://x.com/arsalannazir07) · [โพสต์ต้นฉบับ](https://x.com/arsalannazir07/status/2096791786807275583)
 
-ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · รอเผยแพร่
+ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · เผยแพร่แล้ว
 
 **สรุป:** แอนิเมชันสต็อปโมชันภาพยนตร์แนวตั้งขนาด 9:16 ความยาว 21 วินาที ของหุ่นมนุษย์จิ๋วที่ทำจากหินชายหาดกำลังเต้นระบำและพังทลายลงในแอ่งน้ำขึ้นน้ำลงตื้นๆ
 
@@ -269,7 +269,7 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 ผู้เขียน：[@eshal\_\_ai](https://x.com/eshal__ai) · [โพสต์ต้นฉบับ](https://x.com/eshal__ai/status/2096840505355370629)
 
-การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ย้อนยุค / วินเทจ · ตัวละคร · รอเผยแพร่
+การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ย้อนยุค / วินเทจ · ตัวละคร · เผยแพร่แล้ว
 
 **สรุป:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
 
@@ -308,5 +308,3 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 ---
 
 [สำรวจ Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
-
-แหล่งอ้างอิงการนำทาง: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

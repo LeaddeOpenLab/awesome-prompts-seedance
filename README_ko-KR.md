@@ -30,22 +30,22 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2097186378861953475"></a>
 
-### Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+### 버스를 놓친 후 조용한 마을을 탐방하는 젊은 여성을 따라가는 자연스러운 조명과 핸드헬드 카메라 스타일의 30초 사실적인 일본 산골 마을 여행 브이로그를 제작해 주세요.
 
 작성자：[@aiwithaly](https://x.com/aiwithaly) · [원본 게시물](https://x.com/aiwithaly/status/2097186378861953475)
 
-사진술 · 캐릭터 · 풍경 / 자연 · 배포 대기
+사진술 · 캐릭터 · 풍경 / 자연 · 배포 완료
 
-**요약:** Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+**요약:** 버스를 놓친 후 조용한 마을을 탐방하는 젊은 여성을 따라가는 자연스러운 조명과 핸드헬드 카메라 스타일의 30초 사실적인 일본 산골 마을 여행 브이로그를 제작해 주세요.
 
 <img src="covers/2097186378861953475.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.
+버스를 놓쳐 조용한 마을을 25분 동안 탐방하는 젊은 일본인 여성을 따라가는 30초 분량의 사실적인 일본 산골 마을 여행 브이로그를 제작해 주세요. 떠나는 버스를 쫓아 달리는 모습 → 시간표 확인 → 한적한 거리를 걷고 붉은 다리를 건너는 모습 → 전통 찻집 발견 → 따뜻한 녹차 음미 → 골든 아워의 산 풍경 감상 → 다음 버스 도착 소리를 듣고 정류장으로 돌아가는 모습을 보여줍니다.
 
-Authentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.
+2026년 스타일의 실감 나는 여행 영상, 자연스러운 일본 풍경, 사실적인 걸음걸이와 인물 움직임, 바람에 흩날리는 머리카락과 옷자락, 흐르는 시냇물, 김이 피어오르는 차, 자연스러운 버스 물리 역학 및 골든 아워 조명. 자연스러운 자동 초점, 노출 변화, 미세한 모션 블러가 있는 핸드헬드 스마트폰/시네마 카메라 스타일. 영어 대화만 포함, 사실적인 마을 앰비언스 사운드, 배경 음악 없음. CGI, 애니메이션, VHS 질감, 자막, 로고, 워터마크 제외.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
@@ -58,7 +58,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 작성자：[@john87445528](https://x.com/john87445528) · [원본 게시물](https://x.com/john87445528/status/2097097582262825180)
 
-만화 / 스토리보드 · 사진술 · 캐릭터 · 배포 대기
+만화 / 스토리보드 · 사진술 · 캐릭터 · 배포 완료
 
 **요약:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
@@ -89,7 +89,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 작성자：[@CaliraVal](https://x.com/CaliraVal) · [원본 게시물](https://x.com/CaliraVal/status/2097184908250845406)
 
-시네마틱 / 영화 스틸컷 · 캐릭터 · 풍경 / 자연 · 배포 대기
+시네마틱 / 영화 스틸컷 · 캐릭터 · 풍경 / 자연 · 배포 완료
 
 **요약:** 자세한 대사, 립싱크 지침, 영화 같은 여행 필름 미학을 갖춘 일몰 무렵 활기찬 유럽 구시가지를 탐험하는 스타일리시한 여성의 시네마틱 AI 여행 브이로그.
 
@@ -131,7 +131,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 작성자：[@SyntheSarah](https://x.com/SyntheSarah) · [원본 게시물](https://x.com/SyntheSarah/status/2097182529564365135)
 
-사진술 · 시네마틱 / 영화 스틸컷 · 건축 / 인테리어 · 배포 대기
+사진술 · 시네마틱 / 영화 스틸컷 · 건축 / 인테리어 · 배포 완료
 
 **요약:** 밤의 안개 낀 절벽에서 떠오르는 생체발광 구체들에 둘러싸인 노 등대지기와 연속적인 영화적 푸시인 카메라 움직임.
 
@@ -153,7 +153,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 작성자：[@Itswsm105f](https://x.com/Itswsm105f) · [원본 게시물](https://x.com/Itswsm105f/status/2097225058439840092)
 
-사진술 · 시네마틱 / 영화 스틸컷 · 3D 렌더링 · 사이버펑크 / SF · 배포 대기
+사진술 · 시네마틱 / 영화 스틸컷 · 3D 렌더링 · 사이버펑크 / SF · 배포 완료
 
 **요약:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
@@ -189,7 +189,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 작성자：[@RuzainaMeer](https://x.com/RuzainaMeer) · [원본 게시물](https://x.com/RuzainaMeer/status/2096837494000308685)
 
-사진술 · 시네마틱 / 영화 스틸컷 · 배포 대기
+사진술 · 시네마틱 / 영화 스틸컷 · 배포 완료
 
 **요약:** 빅뱅부터 현대 인류에 이르기까지 우주와 지구 생명의 매끄러운 진화를 묘사하는 30초 분량의 포토리얼리스틱 시네마틱 다큐멘터리 프롬프트.
 
@@ -211,7 +211,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 작성자：[@AIwithMinal](https://x.com/AIwithMinal) · [원본 게시물](https://x.com/AIwithMinal/status/2097185540391211470)
 
-시네마틱 / 영화 스틸컷 · 풍경 / 자연 · 배포 대기
+시네마틱 / 영화 스틸컷 · 풍경 / 자연 · 배포 완료
 
 **요약:** 골든아워의 햇살과 웅장한 산세가 어우러진 알파인 숲 속 험준한 길을 걷는 초현실적인 시네마틱 산악 하이킹 장면.
 
@@ -233,7 +233,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 작성자：[@arsalannazir07](https://x.com/arsalannazir07) · [원본 게시물](https://x.com/arsalannazir07/status/2096791786807275583)
 
-시네마틱 / 영화 스틸컷 · 배포 대기
+시네마틱 / 영화 스틸컷 · 배포 완료
 
 **요약:** 얕은 조수 웅덩이에서 해변 자갈로 만들어진 작은 인간형 피규어가 춤을 추다 무너지는 21초 길이의 세로형 9:16 시네마틱 스톱모션 애니메이션.
 
@@ -269,7 +269,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 작성자：[@eshal\_\_ai](https://x.com/eshal__ai) · [원본 게시물](https://x.com/eshal__ai/status/2096840505355370629)
 
-사진술 · 시네마틱 / 영화 스틸컷 · 레트로 / 빈티지 · 캐릭터 · 배포 대기
+사진술 · 시네마틱 / 영화 스틸컷 · 레트로 / 빈티지 · 캐릭터 · 배포 완료
 
 **요약:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
 
@@ -308,5 +308,3 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 ---
 
 [Leadde.ai 살펴보기 →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
-
-탐색 참고: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

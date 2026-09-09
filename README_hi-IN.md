@@ -30,22 +30,22 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 <a name="prompt-2097186378861953475"></a>
 
-### Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+### एक युवा महिला द्वारा बस छूटने के बाद शांत गांव की सैर करने वाला 30-सेकंड का फोटोरियलिस्टिक जापानी पहाड़ी-शहर यात्रा व्लॉग बनाएं, जिसमें प्राकृतिक रोशनी और हैंडहेल्ड कैमरा शैली शामिल हो।
 
 लेखक：[@aiwithaly](https://x.com/aiwithaly) · [मूल पोस्ट](https://x.com/aiwithaly/status/2097186378861953475)
 
-फोटोग्राफी · कैरेक्टर · लैंडस्केप / प्रकृति · प्रकाशन लंबित
+फोटोग्राफी · कैरेक्टर · लैंडस्केप / प्रकृति · प्रकाशित
 
-**सारांश:** Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+**सारांश:** एक युवा महिला द्वारा बस छूटने के बाद शांत गांव की सैर करने वाला 30-सेकंड का फोटोरियलिस्टिक जापानी पहाड़ी-शहर यात्रा व्लॉग बनाएं, जिसमें प्राकृतिक रोशनी और हैंडहेल्ड कैमरा शैली शामिल हो।
 
 <img src="covers/2097186378861953475.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.
+एक 30-सेकंड का फोटोरियलिस्टिक जापानी पहाड़ी-शहर यात्रा व्लॉग बनाएं, जिसमें एक युवा जापानी महिला का अनुसरण किया गया है जो अपनी बस छूट जाने के बाद शांत शहर की सैर में 25 मिनट बिताती है। उसे छूटती हुई बस के पीछे दौड़ते हुए → समय सारिणी देखते हुए → शांत गलियों से गुजरते हुए और एक लाल पुल पार करते हुए → एक पारंपरिक चाय की दुकान खोजते हुए → गर्म हरी चाय का आनंद लेते हुए → गोल्डन-आवर (सुनहरी शाम) के पहाड़ी दृश्य को निहारते हुए → अगली बस के आने की आवाज सुनकर स्टॉप पर वापस लौटते हुए दिखाएं।
 
-Authentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.
+प्रामाणिक 2026 यात्रा फुटेज, प्राकृतिक जापानी दृश्य, यथार्थवादी चाल और मानवीय हलचल, हवा से लहराते बाल और कपड़े, बहता हुआ झरना, भाप छोड़ती चाय, बस की स्वाभाविक भौतिक गति और गोल्डन-आवर की रोशनी। हैंडहेल्ड स्मार्टफोन/सिनेमा-कैमरा शैली जिसमें प्राकृतिक ऑटोफोकस, एक्सपोज़र परिवर्तन और हल्का मोशन ब्लर शामिल हो। केवल अंग्रेजी संवाद, यथार्थवादी ग्रामीण परिवेश की ध्वनियां और कोई पृष्ठभूमि संगीत नहीं। कोई CGI, एनिमेशन, VHS एस्थेटिक, उपशीर्षक, लोगो या वॉटरमार्क नहीं।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)
@@ -58,7 +58,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 लेखक：[@john87445528](https://x.com/john87445528) · [मूल पोस्ट](https://x.com/john87445528/status/2097097582262825180)
 
-कॉमिक / स्टोरीबोर्ड · फोटोग्राफी · कैरेक्टर · प्रकाशन लंबित
+कॉमिक / स्टोरीबोर्ड · फोटोग्राफी · कैरेक्टर · प्रकाशित
 
 **सारांश:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
@@ -89,7 +89,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 लेखक：[@CaliraVal](https://x.com/CaliraVal) · [मूल पोस्ट](https://x.com/CaliraVal/status/2097184908250845406)
 
-सिनेमैटिक / फ़िल्म स्टिल · कैरेक्टर · लैंडस्केप / प्रकृति · प्रकाशन लंबित
+सिनेमैटिक / फ़िल्म स्टिल · कैरेक्टर · लैंडस्केप / प्रकृति · प्रकाशित
 
 **सारांश:** सूर्यास्त के समय एक जीवंत यूरोपीय पुराने शहर की खोज करती स्टाइलिश युवती का सिनेमाई AI ट्रैवल व्लॉग, जिसमें विस्तृत संवाद, लिप-सिंक निर्देश और सिनेमाई यात्रा-फिल्म सौंदर्यशास्त्र शामिल हैं।
 
@@ -131,7 +131,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 लेखक：[@SyntheSarah](https://x.com/SyntheSarah) · [मूल पोस्ट](https://x.com/SyntheSarah/status/2097182529564365135)
 
-फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · आर्किटेक्चर / इंटीरियर · प्रकाशन लंबित
+फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · आर्किटेक्चर / इंटीरियर · प्रकाशित
 
 **सारांश:** रात में कोहरे वाली चट्टान पर उभरते जैव-संदीप्त गोलों से घिरा एक अनुभवी लाइटहाउस कीपर, निरंतर सिनेमाई पुश-इन कैमरा गति के साथ।
 
@@ -153,7 +153,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 लेखक：[@Itswsm105f](https://x.com/Itswsm105f) · [मूल पोस्ट](https://x.com/Itswsm105f/status/2097225058439840092)
 
-फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · 3D रेंडर · साइबरपंक / साइंस-फाई · प्रकाशन लंबित
+फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · 3D रेंडर · साइबरपंक / साइंस-फाई · प्रकाशित
 
 **सारांश:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
@@ -189,7 +189,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 लेखक：[@RuzainaMeer](https://x.com/RuzainaMeer) · [मूल पोस्ट](https://x.com/RuzainaMeer/status/2096837494000308685)
 
-फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · प्रकाशन लंबित
+फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · प्रकाशित
 
 **सारांश:** बिग बैंग से लेकर आधुनिक मानवता तक, ब्रह्मांड और पृथ्वी पर जीवन के निर्बाध विकास को दर्शाने वाला 30-सेकंड का फ़ोटोरियलिस्टिक सिनेमाई वृत्तचित्र प्रॉम्प्ट।
 
@@ -211,7 +211,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 लेखक：[@AIwithMinal](https://x.com/AIwithMinal) · [मूल पोस्ट](https://x.com/AIwithMinal/status/2097185540391211470)
 
-सिनेमैटिक / फ़िल्म स्टिल · लैंडस्केप / प्रकृति · प्रकाशन लंबित
+सिनेमैटिक / फ़िल्म स्टिल · लैंडस्केप / प्रकृति · प्रकाशित
 
 **सारांश:** अल्पाइन जंगल में सुनहरी धूप और भव्य पहाड़ों के साथ एक ऊबड़-खाबड़ रास्ते पर अल्ट्रा-रियलिस्टिक सिनेमाई पर्वतीय हाइकिंग दृश्य।
 
@@ -233,7 +233,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 लेखक：[@arsalannazir07](https://x.com/arsalannazir07) · [मूल पोस्ट](https://x.com/arsalannazir07/status/2096791786807275583)
 
-सिनेमैटिक / फ़िल्म स्टिल · प्रकाशन लंबित
+सिनेमैटिक / फ़िल्म स्टिल · प्रकाशित
 
 **सारांश:** उथले ज्वार के ताल में समुद्र तट के पत्थरों से बनी एक नन्हीं मानवाकार आकृति के नाचने और बिखर जाने का 21 सेकंड का वर्टिकल 9:16 सिनेमाई स्टॉप-मोशन एनिमेशन।
 
@@ -269,7 +269,7 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 लेखक：[@eshal\_\_ai](https://x.com/eshal__ai) · [मूल पोस्ट](https://x.com/eshal__ai/status/2096840505355370629)
 
-फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · रेट्रो / विंटेज · कैरेक्टर · प्रकाशन लंबित
+फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · रेट्रो / विंटेज · कैरेक्टर · प्रकाशित
 
 **सारांश:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
 
@@ -308,5 +308,3 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 ---
 
 [Leadde.ai देखें →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
-
-नेविगेशन संदर्भ: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

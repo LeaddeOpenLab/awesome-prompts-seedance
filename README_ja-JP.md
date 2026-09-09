@@ -30,22 +30,22 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 <a name="prompt-2097186378861953475"></a>
 
-### Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+### バスに乗り遅れた若い女性が静かな村を探索する、自然光と手持ちカメラスタイルが特徴の30秒の実写風日本の山あいの町旅行Vlogを作成してください。
 
 作者：[@aiwithaly](https://x.com/aiwithaly) · [元の投稿](https://x.com/aiwithaly/status/2097186378861953475)
 
-写真撮影 · キャラクター · 風景 / 自然 · 配信待ち
+写真撮影 · キャラクター · 風景 / 自然 · 配信済み
 
-**概要:** Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+**概要:** バスに乗り遅れた若い女性が静かな村を探索する、自然光と手持ちカメラスタイルが特徴の30秒の実写風日本の山あいの町旅行Vlogを作成してください。
 
 <img src="covers/2097186378861953475.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.
+バスに乗り遅れ、静かな町を25分間散策することになった若い日本人女性を追う、30秒の実写風日本の山あいの町の旅行Vlogを作成してください。発車したバスを追いかけて走る様子 → 時刻表を確認する姿 → 静かな通りを歩き赤い橋を渡る様子 → 伝統的な茶屋を発見するシーン → 温かい緑茶を味わう様子 → ゴールデンアワーの山並みの絶景を眺める姿 → 次のバスの到着音を聞いて停留所に戻る様子を描写してください。
 
-Authentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.
+2026年の本格的な旅行映像、自然な日本の風景、リアルな歩行と人間の動き、風になびく髪と衣服、流れる小川、湯気を立てるお茶、リアルなバスの挙動とゴールデンアワーの照明。自然なオートフォーカス、露出変化、わずかなモーションブラーを伴う手持ちスマートフォン/シネマカメラのスタイル。英語のセリフのみ、リアルな村の環境音、BGMなし。CGI、アニメーション、VHS風エフェクト、字幕、ロゴ、透かしは不可。
 ```
 
 [↑ カテゴリに戻る](#catalog)
@@ -58,7 +58,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 作者：[@john87445528](https://x.com/john87445528) · [元の投稿](https://x.com/john87445528/status/2097097582262825180)
 
-コミック / ストーリーボード · 写真撮影 · キャラクター · 配信待ち
+コミック / ストーリーボード · 写真撮影 · キャラクター · 配信済み
 
 **概要:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
@@ -89,7 +89,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 作者：[@CaliraVal](https://x.com/CaliraVal) · [元の投稿](https://x.com/CaliraVal/status/2097184908250845406)
 
-シネマティック / フィルムスチル · キャラクター · 風景 / 自然 · 配信待ち
+シネマティック / フィルムスチル · キャラクター · 風景 / 自然 · 配信済み
 
 **概要:** 夕暮れの活気あるヨーロッパの旧市街を探索するスタイリッシュな若い女性のシネマティックAIトラベルVlog。詳細な会話セリフ、リップシンク指示、映画風トラベルフィルムの美学を備えています。
 
@@ -127,7 +127,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 作者：[@SyntheSarah](https://x.com/SyntheSarah) · [元の投稿](https://x.com/SyntheSarah/status/2097182529564365135)
 
-写真撮影 · シネマティック / フィルムスチル · 建築 / インテリア · 配信待ち
+写真撮影 · シネマティック / フィルムスチル · 建築 / インテリア · 配信済み
 
 **概要:** 夜の霧深い崖の上で立ち上る生物発光の光球に包まれる風雪を経た灯台守、連続的なシネマティックプッシュインのカメラワーク。
 
@@ -149,7 +149,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 作者：[@Itswsm105f](https://x.com/Itswsm105f) · [元の投稿](https://x.com/Itswsm105f/status/2097225058439840092)
 
-写真撮影 · シネマティック / フィルムスチル · 3D レンダリング · サイバーパンク / SF · 配信待ち
+写真撮影 · シネマティック / フィルムスチル · 3D レンダリング · サイバーパンク / SF · 配信済み
 
 **概要:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
@@ -185,7 +185,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 作者：[@RuzainaMeer](https://x.com/RuzainaMeer) · [元の投稿](https://x.com/RuzainaMeer/status/2096837494000308685)
 
-写真撮影 · シネマティック / フィルムスチル · 配信待ち
+写真撮影 · シネマティック / フィルムスチル · 配信済み
 
 **概要:** ビッグバンから現代人類に至る、宇宙と地球生命のシームレスな進化を描く30秒間のフォトリアリスティックなシネマティック・ドキュメンタリーのプロンプト。
 
@@ -207,7 +207,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 作者：[@AIwithMinal](https://x.com/AIwithMinal) · [元の投稿](https://x.com/AIwithMinal/status/2097185540391211470)
 
-シネマティック / フィルムスチル · 風景 / 自然 · 配信待ち
+シネマティック / フィルムスチル · 風景 / 自然 · 配信済み
 
 **概要:** 高山林の険しい小道を進む、ゴールデンアワーの陽光と雄大な山々が広がる超リアルな映画調の山岳ハイキングシーン。
 
@@ -229,7 +229,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 作者：[@arsalannazir07](https://x.com/arsalannazir07) · [元の投稿](https://x.com/arsalannazir07/status/2096791786807275583)
 
-シネマティック / フィルムスチル · 配信待ち
+シネマティック / フィルムスチル · 配信済み
 
 **概要:** 浅い潮だまりの中で、海辺の小石でできた小さな人型が踊り、最後には崩れ落ちる21秒間の縦向き9:16シネマティック・ストップモーションアニメーション。
 
@@ -265,7 +265,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 作者：[@eshal\_\_ai](https://x.com/eshal__ai) · [元の投稿](https://x.com/eshal__ai/status/2096840505355370629)
 
-写真撮影 · シネマティック / フィルムスチル · レトロ / ヴィンテージ · キャラクター · 配信待ち
+写真撮影 · シネマティック / フィルムスチル · レトロ / ヴィンテージ · キャラクター · 配信済み
 
 **概要:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
 
@@ -304,5 +304,3 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 ---
 
 [Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
-
-ナビゲーション参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

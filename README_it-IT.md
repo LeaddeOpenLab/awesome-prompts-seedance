@@ -30,22 +30,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2097186378861953475"></a>
 
-### Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+### Crea un vlog di viaggio fotorealistico di 30 secondi ambientato in una cittadina di montagna giapponese che segue una giovane donna che esplora un villaggio tranquillo dopo aver perso il bus, con illuminazione naturale e stile a camera a mano.
 
 Autore：[@aiwithaly](https://x.com/aiwithaly) · [Post originale](https://x.com/aiwithaly/status/2097186378861953475)
 
-Fotografia · Personaggio · Paesaggio / Natura · Distribuzione in attesa
+Fotografia · Personaggio · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+**Riepilogo:** Crea un vlog di viaggio fotorealistico di 30 secondi ambientato in una cittadina di montagna giapponese che segue una giovane donna che esplora un villaggio tranquillo dopo aver perso il bus, con illuminazione naturale e stile a camera a mano.
 
 <img src="covers/2097186378861953475.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.
-
-Authentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.
+Crea un vlog di viaggio fotorealistico di 30 secondi ambientato in una cittadina di montagna giapponese, seguendo una giovane donna giapponese che perde il suo autobus e trascorre 25 minuti a esplorare la quieta località. Mostrala mentre corre dietro all'autobus che parte → controlla gli orari → cammina per strade tranquille e attraversa un ponte rosso → scopre una tradizionale sala da tè → gusta del tè verde caldo → ammira il panorama montano durante l'ora d'oro → sente arrivare l'autobus successivo e torna alla fermata. Riprese di viaggio autentiche del 2026, paesaggi naturali giapponesi, camminata e movimenti umani realistici, capelli e vestiti che reagiscono al vento, ruscello che scorre, tè fumante, fisica dell'autobus credibile e illuminazione da ora d'oro. Stile da smartphone o cinepresa a mano con messa a fuoco automatica naturale, variazioni di esposizione e sfocatura da movimento discreta. Solo dialoghi in inglese, ambiente di paese realistico e nessuna musica di sottofondo. Niente CGI, animazione, estetica VHS, sottotitoli, loghi o filigrane.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -58,7 +56,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 Autore：[@john87445528](https://x.com/john87445528) · [Post originale](https://x.com/john87445528/status/2097097582262825180)
 
-Fumetto / Storyboard · Fotografia · Personaggio · Distribuzione in attesa
+Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 **Riepilogo:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
@@ -89,7 +87,7 @@ Fumetto / Storyboard · Fotografia · Personaggio · Distribuzione in attesa
 
 Autore：[@CaliraVal](https://x.com/CaliraVal) · [Post originale](https://x.com/CaliraVal/status/2097184908250845406)
 
-Fermo immagine cinematografico / Still fotografico · Personaggio · Paesaggio / Natura · Distribuzione in attesa
+Fermo immagine cinematografico / Still fotografico · Personaggio · Paesaggio / Natura · Pubblicato
 
 **Riepilogo:** Un vlog di viaggio cinematografico generato dall'IA di una giovane donna elegante che esplora un vivace centro storico europeo al tramonto con dialoghi dettagliati, istruzioni di sincronizzazione labiale ed estetica cinematografica da film di viaggio.
 
@@ -111,7 +109,7 @@ Un vlog di viaggio cinematografico generato dall'IA di una giovane donna elegant
 
 Autore：[@SyntheSarah](https://x.com/SyntheSarah) · [Post originale](https://x.com/SyntheSarah/status/2097182529564365135)
 
-Fotografia · Fermo immagine cinematografico / Still fotografico · Architettura / Interni · Distribuzione in attesa
+Fotografia · Fermo immagine cinematografico / Still fotografico · Architettura / Interni · Pubblicato
 
 **Riepilogo:** Un guardiano del faro segnato dal tempo su una scogliera nebbiosa di notte circondato da sfere bioluminescenti che si sollevano, con un movimento di carrellata in avanti cinematografico continuo.
 
@@ -133,7 +131,7 @@ Un anziano guardiano del faro segnato dalle intemperie si trova su una scogliera
 
 Autore：[@Itswsm105f](https://x.com/Itswsm105f) · [Post originale](https://x.com/Itswsm105f/status/2097225058439840092)
 
-Fotografia · Fermo immagine cinematografico / Still fotografico · Rendering 3D · Cyberpunk / Sci-Fi · Distribuzione in attesa
+Fotografia · Fermo immagine cinematografico / Still fotografico · Rendering 3D · Cyberpunk / Sci-Fi · Pubblicato
 
 **Riepilogo:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
@@ -169,7 +167,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 Autore：[@RuzainaMeer](https://x.com/RuzainaMeer) · [Post originale](https://x.com/RuzainaMeer/status/2096837494000308685)
 
-Fotografia · Fermo immagine cinematografico / Still fotografico · Distribuzione in attesa
+Fotografia · Fermo immagine cinematografico / Still fotografico · Pubblicato
 
 **Riepilogo:** Un prompt per un documentario cinematografico fotorealistico di 30 secondi che ritrae l'evoluzione senza soluzione di continuità dell'universo e della vita sulla Terra, dal Big Bang all'umanità moderna.
 
@@ -199,7 +197,7 @@ Utilizza movimenti di macchina cinematografici continui, transizioni fluide attr
 
 Autore：[@AIwithMinal](https://x.com/AIwithMinal) · [Post originale](https://x.com/AIwithMinal/status/2097185540391211470)
 
-Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Distribuzione in attesa
+Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Pubblicato
 
 **Riepilogo:** Scena cinematografica ultra-realistica di escursionismo in montagna lungo un sentiero impervio in una foresta alpina con la luce solare dell'ora d'oro e maestose montagne.
 
@@ -221,7 +219,7 @@ Scena cinematografica ultra-realistica di escursionismo in montagna, uno stretto
 
 Autore：[@arsalannazir07](https://x.com/arsalannazir07) · [Post originale](https://x.com/arsalannazir07/status/2096791786807275583)
 
-Fermo immagine cinematografico / Still fotografico · Distribuzione in attesa
+Fermo immagine cinematografico / Still fotografico · Pubblicato
 
 **Riepilogo:** Un'animazione stop-motion cinematografica verticale in 9:16 di 21 secondi di una minuscola figura umanoide fatta di pietre da spiaggia che danza e crolla in una pozza di marea poco profonda.
 
@@ -257,7 +255,7 @@ Prompt negativo: cartone animato, pietre dall'aspetto plastico, tratti del viso 
 
 Autore：[@eshal\_\_ai](https://x.com/eshal__ai) · [Post originale](https://x.com/eshal__ai/status/2096840505355370629)
 
-Fotografia · Fermo immagine cinematografico / Still fotografico · Retro / Vintage · Personaggio · Distribuzione in attesa
+Fotografia · Fermo immagine cinematografico / Still fotografico · Retro / Vintage · Personaggio · Pubblicato
 
 **Riepilogo:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
 
@@ -296,5 +294,3 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 ---
 
 [Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
-
-Riferimento di navigazione: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

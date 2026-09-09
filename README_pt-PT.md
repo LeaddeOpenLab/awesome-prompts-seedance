@@ -30,22 +30,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2097186378861953475"></a>
 
-### Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+### Crie um vlog de viagem fotorrealista de 30 segundos numa vila de montanha japonesa acompanhando uma jovem que explora uma aldeia pacata após perder o autocarro, com iluminação natural e estilo de câmara na mão.
 
 Autor：[@aiwithaly](https://x.com/aiwithaly) · [Publicação original](https://x.com/aiwithaly/status/2097186378861953475)
 
-Fotografia · Personagem · Paisagem / Natureza · Distribuição pendente
+Fotografia · Personagem · Paisagem / Natureza · Publicado
 
-**Resumo:** Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+**Resumo:** Crie um vlog de viagem fotorrealista de 30 segundos numa vila de montanha japonesa acompanhando uma jovem que explora uma aldeia pacata após perder o autocarro, com iluminação natural e estilo de câmara na mão.
 
 <img src="covers/2097186378861953475.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.
-
-Authentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.
+Crie um vlog de viagem fotorrealista de 30 segundos numa vila de montanha japonesa, acompanhando uma jovem japonesa que perde o autocarro e passa 25 minutos a explorar a vila pacata. Mostre-a a correr atrás do autocarro que parte → a verificar o horário → a caminhar por ruas serenas e a atravessar uma ponte vermelha → a descobrir uma casa de chá tradicional → a saborear chá verde quente → a contemplar a vista da montanha à hora dourada → a ouvir o autocarro seguinte chegar e a regressar à paragem. Filmagens de viagem autênticas de 2026, paisagens japonesas naturais, caminhar e movimentos humanos realistas, cabelo e roupas a reagir ao vento, riacho a correr, chá fumegante, física credível do autocarro e iluminação de hora dourada. Estilo de câmara de cinema ou smartphone na mão com focagem automática natural, mudanças de exposição e subtil desfoque de movimento. Diálogo apenas em inglês, ambiente de aldeia realista e sem música de fundo. Sem CGI, animação, estética VHS, legendas, logótipos ou marcas de água.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -58,7 +56,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 Autor：[@john87445528](https://x.com/john87445528) · [Publicação original](https://x.com/john87445528/status/2097097582262825180)
 
-Banda desenhada / Storyboard · Fotografia · Personagem · Distribuição pendente
+Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 **Resumo:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
@@ -89,7 +87,7 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Distribuição pende
 
 Autor：[@CaliraVal](https://x.com/CaliraVal) · [Publicação original](https://x.com/CaliraVal/status/2097184908250845406)
 
-Cena de Cinema / Fotograma · Personagem · Paisagem / Natureza · Distribuição pendente
+Cena de Cinema / Fotograma · Personagem · Paisagem / Natureza · Publicado
 
 **Resumo:** Um vlog de viagem cinematográfico gerado por IA de uma jovem elegante a explorar um centro histórico europeu vibrante ao pôr do sol com diálogos detalhados, instruções de sincronização labial e estética cinematográfica de filme de viagem.
 
@@ -111,7 +109,7 @@ Um vlog de viagem cinematográfico gerado por IA de uma jovem elegante a explora
 
 Autor：[@SyntheSarah](https://x.com/SyntheSarah) · [Publicação original](https://x.com/SyntheSarah/status/2097182529564365135)
 
-Fotografia · Cena de Cinema / Fotograma · Arquitetura / Interiores · Distribuição pendente
+Fotografia · Cena de Cinema / Fotograma · Arquitetura / Interiores · Publicado
 
 **Resumo:** Um faroleiro curtido pelo tempo numa falésia nevoenta à noite rodeado por orbes bioluminescentes ascendentes, com um movimento contínuo de aproximação cinematográfica de câmara.
 
@@ -133,7 +131,7 @@ Um velho faroleiro curtido pelo tempo encontra-se sobre uma falésia nevoenta à
 
 Autor：[@Itswsm105f](https://x.com/Itswsm105f) · [Publicação original](https://x.com/Itswsm105f/status/2097225058439840092)
 
-Fotografia · Cena de Cinema / Fotograma · Renderização 3D · Cyberpunk / Ficção Científica · Distribuição pendente
+Fotografia · Cena de Cinema / Fotograma · Renderização 3D · Cyberpunk / Ficção Científica · Publicado
 
 **Resumo:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
@@ -169,7 +167,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 Autor：[@RuzainaMeer](https://x.com/RuzainaMeer) · [Publicação original](https://x.com/RuzainaMeer/status/2096837494000308685)
 
-Fotografia · Cena de Cinema / Fotograma · Distribuição pendente
+Fotografia · Cena de Cinema / Fotograma · Publicado
 
 **Resumo:** Um prompt para um documentário cinematográfico fotorrealista de 30 segundos a retratar a evolução fluida do universo e da vida na Terra, desde o Big Bang até à humanidade moderna.
 
@@ -199,7 +197,7 @@ Utiliza movimentos de câmara cinematográficos contínuos, transições fluidas
 
 Autor：[@AIwithMinal](https://x.com/AIwithMinal) · [Publicação original](https://x.com/AIwithMinal/status/2097185540391211470)
 
-Cena de Cinema / Fotograma · Paisagem / Natureza · Distribuição pendente
+Cena de Cinema / Fotograma · Paisagem / Natureza · Publicado
 
 **Resumo:** Cena cinematográfica ultrarrealista de caminhada na montanha ao longo de um trilho acidentado numa floresta alpina com a luz solar da hora dourada e montanhas majestosas.
 
@@ -221,7 +219,7 @@ Cena cinematográfica ultrarrealista de caminhada na montanha, um trilho estreit
 
 Autor：[@arsalannazir07](https://x.com/arsalannazir07) · [Publicação original](https://x.com/arsalannazir07/status/2096791786807275583)
 
-Cena de Cinema / Fotograma · Distribuição pendente
+Cena de Cinema / Fotograma · Publicado
 
 **Resumo:** Uma animação cinematográfica em stop-motion vertical em 9:16 de 21 segundos de uma minúscula figura humanoide feita de pedras de praia a dançar e a desmoronar-se numa poça de maré pouco profunda.
 
@@ -257,7 +255,7 @@ Prompt negativo: desenho animado, pedras com aspeto de plástico, traços faciai
 
 Autor：[@eshal\_\_ai](https://x.com/eshal__ai) · [Publicação original](https://x.com/eshal__ai/status/2096840505355370629)
 
-Fotografia · Cena de Cinema / Fotograma · Retrô / Vintage · Personagem · Distribuição pendente
+Fotografia · Cena de Cinema / Fotograma · Retrô / Vintage · Personagem · Publicado
 
 **Resumo:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
 
@@ -296,5 +294,3 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 ---
 
 [Explore a Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
-
-Referência de navegação: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

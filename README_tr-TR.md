@@ -30,22 +30,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2097186378861953475"></a>
 
-### Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+### Otobüsünü kaçırdıktan sonra sakin bir köyü keşfeden genç bir kadını takip eden, doğal aydınlatma ve elde kamera tarzı içeren, Japon dağ kasabasında geçen 30 saniyelik fotogerçekçi bir seyahat vLog'u oluşturun.
 
 Yazar：[@aiwithaly](https://x.com/aiwithaly) · [Orijinal gönderi](https://x.com/aiwithaly/status/2097186378861953475)
 
-Fotoğrafçılık · Karakter · Manzara / Doğa · Dağıtım bekliyor
+Fotoğrafçılık · Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+**Özet:** Otobüsünü kaçırdıktan sonra sakin bir köyü keşfeden genç bir kadını takip eden, doğal aydınlatma ve elde kamera tarzı içeren, Japon dağ kasabasında geçen 30 saniyelik fotogerçekçi bir seyahat vLog'u oluşturun.
 
 <img src="covers/2097186378861953475.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.
-
-Authentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.
+Otobüsünü kaçıran ve 25 dakikasını bu sakin kasabayı keşfederek geçiren genç bir Japon kadını takip eden, Japon dağ kasabasında geçen 30 saniyelik fotogerçekçi bir seyahat vLog'u oluşturun. Kadının hareket eden otobüsün ardından koşmasını → sefer saatlerini kontrol etmesini → huzurlu sokaklarda ve kırmızı bir köprünün üzerinden yürümesini → geleneksel bir çay dükkanını keşfetmesini → sıcak yeşil çayın tadını çıkarmasını → altın saatteki dağ manzarasını izlemesini → bir sonraki otobüsün geldiğini duyup durağa geri dönmesini gösterin. 2026 yılına ait otantik seyahat görüntüleri, doğal Japon manzaraları, gerçekçi yürüme ve insan hareketleri, rüzgarda hareket eden saç ve giysiler, akan dere, tüten çay, inandırıcı otobüs fiziği ve altın saat aydınlatması. Doğal otomatik odaklama, pozlama değişiklikleri ve hafif hareket bulanıklığı ile elde tutulan akıllı telefon veya sinema kamerası tarzı. Yalnızca İngilizce diyalog, gerçekçi köy ortamı ve arka plan müziği yok. CGI, animasyon, VHS estetiği, altyazı, logo veya filigran olmasın.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -58,7 +56,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https://x.com/john87445528/status/2097097582262825180)
 
-Çizgi Roman / Hikaye Taslağı · Fotoğrafçılık · Karakter · Dağıtım bekliyor
+Çizgi Roman / Hikaye Taslağı · Fotoğrafçılık · Karakter · Yayımlandı
 
 **Özet:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
@@ -89,7 +87,7 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 Yazar：[@CaliraVal](https://x.com/CaliraVal) · [Orijinal gönderi](https://x.com/CaliraVal/status/2097184908250845406)
 
-Sinematik / Film Karesi · Karakter · Manzara / Doğa · Dağıtım bekliyor
+Sinematik / Film Karesi · Karakter · Manzara / Doğa · Yayımlandı
 
 **Özet:** Gün batımında hareketli bir Avrupa tarihi kent merkezini keşfeden şık bir genç kadının, ayrıntılı diyaloglar, dudak senkronizasyonu talimatları ve sinematik seyahat filmi estetiği içeren sinematik yapay zekâ seyahat vlogu.
 
@@ -111,7 +109,7 @@ Gün batımında hareketli bir Avrupa tarihi kent merkezini keşfeden şık bir 
 
 Yazar：[@SyntheSarah](https://x.com/SyntheSarah) · [Orijinal gönderi](https://x.com/SyntheSarah/status/2097182529564365135)
 
-Fotoğrafçılık · Sinematik / Film Karesi · Mimari / İç Mekan · Dağıtım bekliyor
+Fotoğrafçılık · Sinematik / Film Karesi · Mimari / İç Mekan · Yayımlandı
 
 **Özet:** Gece sisli bir uçurumda, etrafı yükselen biyolüminesans kürelerle çevrili, kesintisiz sinematik bir kamera yaklaşma hareketine sahip yıpranmış bir fener bekçisi.
 
@@ -133,7 +131,7 @@ Yıpranmış yaşlı bir fener bekçisi, geceleyin sisli bir uçurumun üzerinde
 
 Yazar：[@Itswsm105f](https://x.com/Itswsm105f) · [Orijinal gönderi](https://x.com/Itswsm105f/status/2097225058439840092)
 
-Fotoğrafçılık · Sinematik / Film Karesi · 3D Modelleme · Siberpunk / Bilim Kurgu · Dağıtım bekliyor
+Fotoğrafçılık · Sinematik / Film Karesi · 3D Modelleme · Siberpunk / Bilim Kurgu · Yayımlandı
 
 **Özet:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
@@ -169,7 +167,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 Yazar：[@RuzainaMeer](https://x.com/RuzainaMeer) · [Orijinal gönderi](https://x.com/RuzainaMeer/status/2096837494000308685)
 
-Fotoğrafçılık · Sinematik / Film Karesi · Dağıtım bekliyor
+Fotoğrafçılık · Sinematik / Film Karesi · Yayımlandı
 
 **Özet:** Büyük Patlama'dan modern insanlığa kadar evrenin ve Dünya'daki yaşamın kusursuz evrimini tasvir eden 30 saniyelik fotogerçekçi sinematik bir belgesel istemi.
 
@@ -199,7 +197,7 @@ Sürekli sinematik kamera hareketi, zaman ve ölçek boyunca kusursuz geçişler
 
 Yazar：[@AIwithMinal](https://x.com/AIwithMinal) · [Orijinal gönderi](https://x.com/AIwithMinal/status/2097185540391211470)
 
-Sinematik / Film Karesi · Manzara / Doğa · Dağıtım bekliyor
+Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
 **Özet:** Görkemli dağlar ve altın saatlerin güneş ışığı eşliğinde, bir dağ ormanındaki engebeli patika boyunca ultra gerçekçi sinematik dağ yürüyüşü sahnesi.
 
@@ -221,7 +219,7 @@ Ultra gerçekçi sinematik dağ yürüyüşü sahnesi, sık bir dağ ormanının
 
 Yazar：[@arsalannazir07](https://x.com/arsalannazir07) · [Orijinal gönderi](https://x.com/arsalannazir07/status/2096791786807275583)
 
-Sinematik / Film Karesi · Dağıtım bekliyor
+Sinematik / Film Karesi · Yayımlandı
 
 **Özet:** Sahil taşlarından yapılmış minik bir insansı figürün sığ bir gelgit havuzunda dans edip yıkıldığı 21 saniyelik dikey 9:16 sinematik bir stop-motion animasyon.
 
@@ -257,7 +255,7 @@ Negatif istem: çizgi film, plastik görünümlü taşlar, abartılı yüz hatla
 
 Yazar：[@eshal\_\_ai](https://x.com/eshal__ai) · [Orijinal gönderi](https://x.com/eshal__ai/status/2096840505355370629)
 
-Fotoğrafçılık · Sinematik / Film Karesi · Retro / Vintage · Karakter · Dağıtım bekliyor
+Fotoğrafçılık · Sinematik / Film Karesi · Retro / Vintage · Karakter · Yayımlandı
 
 **Özet:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
 
@@ -296,5 +294,3 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 ---
 
 [Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
-
-Gezinme kaynağı: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

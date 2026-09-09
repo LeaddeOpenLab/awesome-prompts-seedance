@@ -30,22 +30,22 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 <a name="prompt-2097186378861953475"></a>
 
-### Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+### 制作一段30秒逼真写实的日本山中小镇旅行Vlog，跟拍一位错失公交车后探索宁静村落的年轻女性，呈现自然光影与手持摄影风格。
 
 作者：[@aiwithaly](https://x.com/aiwithaly) · [查看 X 原帖](https://x.com/aiwithaly/status/2097186378861953475)
 
-摄影 · 角色 · 风景 / 自然 · 待推流
+摄影 · 角色 · 风景 / 自然 · 已推流
 
-**Summary (English):** Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+**概括:** 制作一段30秒逼真写实的日本山中小镇旅行Vlog，跟拍一位错失公交车后探索宁静村落的年轻女性，呈现自然光影与手持摄影风格。
 
 <img src="covers/2097186378861953475.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.
+制作一段30秒逼真写实的日本山中小镇旅行Vlog，镜头跟拍一位错过了公交车、并在宁静小镇中度过25分钟漫步探索的年轻日本女性。展现她追赶驶离的公交车 → 查看时刻表 → 漫步在宁静的街道并走过一座红桥 → 发现一家传统茶铺 → 享用温热的绿茶 → 欣赏黄金时刻的山景 → 听到下一班公交车进站的声音并返回车站。
 
-Authentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.
+2026年真实的旅行实拍质感，自然的日本风光，逼真的行走与肢体动作，随风拂动的头发和衣物，潺潺的溪流，热气腾腾的绿茶，真实可信的公交车动态物理效果以及黄金时段的光影。手持智能手机/电影摄影机风格，带有自然的自动对焦、曝光变化和微妙的运动模糊。仅限英语对白，逼真的村庄环境音，无背景音乐。无CGI、动画、VHS复古风格、字幕、标志或水印。
 ```
 
 [↑ 返回分类目录](#catalog)
@@ -58,7 +58,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 作者：[@john87445528](https://x.com/john87445528) · [查看 X 原帖](https://x.com/john87445528/status/2097097582262825180)
 
-漫画 / 故事板 · 摄影 · 角色 · 待推流
+漫画 / 故事板 · 摄影 · 角色 · 已推流
 
 **概括（Prompt 原语言）：** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
@@ -91,7 +91,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 作者：[@CaliraVal](https://x.com/CaliraVal) · [查看 X 原帖](https://x.com/CaliraVal/status/2097184908250845406)
 
-电影 / 电影剧照 · 角色 · 风景 / 自然 · 待推流
+电影 / 电影剧照 · 角色 · 风景 / 自然 · 已推流
 
 **概括:** 一段电影级AI旅行Vlog：日落时分时尚年轻女子探索充满活力的欧洲古镇，包含详尽的对白、口型同步指令与电影级旅行影片美学。
 
@@ -129,7 +129,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 作者：[@SyntheSarah](https://x.com/SyntheSarah) · [查看 X 原帖](https://x.com/SyntheSarah/status/2097182529564365135)
 
-摄影 · 电影 / 电影剧照 · 建筑 / 室内设计 · 待推流
+摄影 · 电影 / 电影剧照 · 建筑 / 室内设计 · 已推流
 
 **概括:** 夜晚多雾悬崖上饱经风霜的灯塔看守人被升起的生物荧光光球环绕，伴随平滑连续的电影感推进镜头。
 
@@ -151,7 +151,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 作者：[@Itswsm105f](https://x.com/Itswsm105f) · [查看 X 原帖](https://x.com/Itswsm105f/status/2097225058439840092)
 
-摄影 · 电影 / 电影剧照 · 3D 渲染 · 赛博朋克 / 科幻 · 待推流
+摄影 · 电影 / 电影剧照 · 3D 渲染 · 赛博朋克 / 科幻 · 已推流
 
 **Summary (English):** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
@@ -187,7 +187,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 作者：[@RuzainaMeer](https://x.com/RuzainaMeer) · [查看 X 原帖](https://x.com/RuzainaMeer/status/2096837494000308685)
 
-摄影 · 电影 / 电影剧照 · 待推流
+摄影 · 电影 / 电影剧照 · 已推流
 
 **概括:** 一段30秒逼真电影级纪录片提示词，描绘从大爆炸到现代人类的宇宙与地球生命无缝演化历程。
 
@@ -209,7 +209,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 作者：[@AIwithMinal](https://x.com/AIwithMinal) · [查看 X 原帖](https://x.com/AIwithMinal/status/2097185540391211470)
 
-电影 / 电影剧照 · 风景 / 自然 · 待推流
+电影 / 电影剧照 · 风景 / 自然 · 已推流
 
 **概括:** 高山森林崎岖小径上伴有金色时刻阳光与雄伟山峦的超逼真电影级山地徒步场景。
 
@@ -231,7 +231,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 作者：[@arsalannazir07](https://x.com/arsalannazir07) · [查看 X 原帖](https://x.com/arsalannazir07/status/2096791786807275583)
 
-电影 / 电影剧照 · 待推流
+电影 / 电影剧照 · 已推流
 
 **概括:** 一段时长21秒、9:16竖屏电影级定格动画：由海滩石头组成的小人偶在浅潮池中跳舞并散落解体。
 
@@ -267,7 +267,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 作者：[@eshal\_\_ai](https://x.com/eshal__ai) · [查看 X 原帖](https://x.com/eshal__ai/status/2096840505355370629)
 
-摄影 · 电影 / 电影剧照 · 复古 / 怀旧 · 角色 · 待推流
+摄影 · 电影 / 电影剧照 · 复古 / 怀旧 · 角色 · 已推流
 
 **Summary (English):** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
 
@@ -306,5 +306,3 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
-
-目录参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

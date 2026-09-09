@@ -34,7 +34,7 @@ Star this repository to follow our daily prompt curation and find fresh creative
 
 Author：[@aiwithaly](https://x.com/aiwithaly) · [Source](https://x.com/aiwithaly/status/2097186378861953475)
 
-Photography · Character · Landscape / Nature · Pending distribution
+Photography · Character · Landscape / Nature · Published
 
 **Summary:** Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
 
@@ -43,7 +43,9 @@ Photography · Character · Landscape / Nature · Pending distribution
 **Prompt**
 
 ```text
-Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.\n\nAuthentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.
+Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.
+
+Authentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.
 ```
 
 [↑ Back to categories](#catalog)
@@ -56,7 +58,7 @@ Create a 30-second photorealistic Japanese mountain-town travel vlog following a
 
 Author：[@john87445528](https://x.com/john87445528) · [Source](https://x.com/john87445528/status/2097097582262825180)
 
-Comic / Storyboard · Photography · Character · Pending distribution
+Comic / Storyboard · Photography · Character · Published
 
 **Summary:** A 15-second first-person POV video prompt for a flirty comedy scene in a pool hall, featuring detailed timestamps, character interactions, camera motion, pool shot trajectories, audio cues, and negative constraints.
 
@@ -140,7 +142,7 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 
 Author：[@CaliraVal](https://x.com/CaliraVal) · [Source](https://x.com/CaliraVal/status/2097184908250845406)
 
-Cinematic / Film Still · Character · Landscape / Nature · Pending distribution
+Cinematic / Film Still · Character · Landscape / Nature · Published
 
 **Summary:** A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset with detailed dialogue, lip-sync instructions, and cinematic travel-film aesthetics.
 
@@ -178,7 +180,7 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 Author：[@SyntheSarah](https://x.com/SyntheSarah) · [Source](https://x.com/SyntheSarah/status/2097182529564365135)
 
-Photography · Cinematic / Film Still · Architecture / Interior · Pending distribution
+Photography · Cinematic / Film Still · Architecture / Interior · Published
 
 **Summary:** A weathered lighthouse keeper on a foggy cliff at night surrounded by rising bioluminescent orbs, with a continuous cinematic push-in camera movement.
 
@@ -200,7 +202,7 @@ A weathered old lighthouse keeper stands on a foggy cliff at night, wearing a th
 
 Author：[@Itswsm105f](https://x.com/Itswsm105f) · [Source](https://x.com/Itswsm105f/status/2097225058439840092)
 
-Photography · Cinematic / Film Still · 3D Render · Cyberpunk / Sci-Fi · Pending distribution
+Photography · Cinematic / Film Still · 3D Render · Cyberpunk / Sci-Fi · Published
 
 **Summary:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
@@ -236,7 +238,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 Author：[@RuzainaMeer](https://x.com/RuzainaMeer) · [Source](https://x.com/RuzainaMeer/status/2096837494000308685)
 
-Photography · Cinematic / Film Still · Pending distribution
+Photography · Cinematic / Film Still · Published
 
 **Summary:** A 30-second photorealistic cinematic documentary prompt depicting the seamless evolution of the universe and life on Earth, from the Big Bang to modern humanity.
 
@@ -258,7 +260,7 @@ Create a 30-second ultra-photorealistic cinematic documentary showing the evolut
 
 Author：[@AIwithMinal](https://x.com/AIwithMinal) · [Source](https://x.com/AIwithMinal/status/2097185540391211470)
 
-Cinematic / Film Still · Landscape / Nature · Pending distribution
+Cinematic / Film Still · Landscape / Nature · Published
 
 **Summary:** Ultra-realistic cinematic mountain hiking scene along a rugged trail in an alpine forest with golden-hour sunlight and majestic mountains.
 
@@ -280,7 +282,7 @@ Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding t
 
 Author：[@arsalannazir07](https://x.com/arsalannazir07) · [Source](https://x.com/arsalannazir07/status/2096791786807275583)
 
-Cinematic / Film Still · Pending distribution
+Cinematic / Film Still · Published
 
 **Summary:** A 21-second vertical 9:16 cinematic stop-motion animation of a tiny humanoid figure made from beach stones dancing and collapsing in a shallow tidal pool.
 
@@ -316,7 +318,7 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 Author：[@eshal\_\_ai](https://x.com/eshal__ai) · [Source](https://x.com/eshal__ai/status/2096840505355370629)
 
-Photography · Cinematic / Film Still · Retro / Vintage · Character · Pending distribution
+Photography · Cinematic / Film Still · Retro / Vintage · Character · Published
 
 **Summary:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
 
@@ -355,5 +357,3 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 ---
 
 [Explore Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
-
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

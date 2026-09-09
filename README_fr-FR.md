@@ -30,22 +30,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2097186378861953475"></a>
 
-### Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+### Créez un vlog de voyage photoréaliste de 30 secondes dans une ville de montagne japonaise suivant une jeune femme qui explore un village tranquille après avoir manqué son bus, avec un éclairage naturel et un style de caméra portée.
 
 Auteur：[@aiwithaly](https://x.com/aiwithaly) · [Publication originale](https://x.com/aiwithaly/status/2097186378861953475)
 
-Photographie · Personnage · Paysage / Nature · Diffusion en attente
+Photographie · Personnage · Paysage / Nature · Publié
 
-**Résumé:** Create a 30-second photorealistic Japanese mountain-town travel vlog following a young woman exploring a quiet village after missing her bus, featuring natural lighting and handheld camera style.
+**Résumé:** Créez un vlog de voyage photoréaliste de 30 secondes dans une ville de montagne japonaise suivant une jeune femme qui explore un village tranquille après avoir manqué son bus, avec un éclairage naturel et un style de caméra portée.
 
 <img src="covers/2097186378861953475.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Create a 30-second photorealistic Japanese mountain-town travel vlog following a young Japanese woman who misses her bus and spends 25 minutes exploring the quiet town. Show her running after the departing bus → checking the timetable → walking through peaceful streets and across a red bridge → discovering a traditional tea shop → enjoying warm green tea → watching the golden-hour mountain view → hearing the next bus arrive and returning to the stop.
-
-Authentic 2026 travel footage, natural Japanese scenery, realistic walking and human movement, wind-reactive hair and clothing, flowing stream, steaming tea, believable bus physics and golden-hour lighting. Handheld smartphone/cinema-camera style with natural autofocus, exposure changes and subtle motion blur. English dialogue only, realistic village ambience and no background music. No CGI, animation, VHS aesthetic, subtitles, logos or watermark.
+Créez un vlog de voyage photoréaliste de 30 secondes dans une ville de montagne japonaise suivant une jeune femme japonaise qui manque son bus et passe 25 minutes à explorer la ville paisible. Montrez-la courant après le bus qui s'éloigne → consultant les horaires → se promenant dans des rues tranquilles et traversant un pont rouge → découvrant un salon de thé traditionnel → savourant un thé vert chaud → admirant la vue sur la montagne à l'heure dorée → entendant le bus suivant arriver et retournant à l'arrêt. Véritables prises de vue de voyage de 2026, paysages naturels japonais, mouvements humains et démarche réalistes, cheveux et vêtements réagissant au vent, ruisseau qui coule, thé fumant, physique réaliste du bus et éclairage d'heure dorée. Style caméra portée de smartphone ou de cinéma avec autofocus naturel, variations d'exposition et léger flou de bougé. Dialogues en anglais uniquement, ambiance de village réaliste et aucune musique de fond. Sans CGI, animation, esthétique VHS, sous-titres, logos ni filigranes.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -58,7 +56,7 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 Auteur：[@john87445528](https://x.com/john87445528) · [Publication originale](https://x.com/john87445528/status/2097097582262825180)
 
-Bande dessinée / Storyboard · Photographie · Personnage · Diffusion en attente
+Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 **Résumé:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
@@ -89,7 +87,7 @@ Bande dessinée / Storyboard · Photographie · Personnage · Diffusion en atten
 
 Auteur：[@CaliraVal](https://x.com/CaliraVal) · [Publication originale](https://x.com/CaliraVal/status/2097184908250845406)
 
-Image cinématographique / Photogramme de film · Personnage · Paysage / Nature · Diffusion en attente
+Image cinématographique / Photogramme de film · Personnage · Paysage / Nature · Publié
 
 **Résumé:** Un vlog de voyage cinématographique généré par IA d'une jeune femme élégante explorant une vieille ville européenne animée au coucher du soleil avec des dialogues détaillés, des instructions de synchronisation labiale et une esthétique cinématographique de film de voyage.
 
@@ -111,7 +109,7 @@ Un vlog de voyage cinématographique généré par IA d'une jeune femme élégan
 
 Auteur：[@SyntheSarah](https://x.com/SyntheSarah) · [Publication originale](https://x.com/SyntheSarah/status/2097182529564365135)
 
-Photographie · Image cinématographique / Photogramme de film · Architecture / Intérieur · Diffusion en attente
+Photographie · Image cinématographique / Photogramme de film · Architecture / Intérieur · Publié
 
 **Résumé:** Un gardien de phare buriné sur une falaise brumeuse la nuit, entouré d'orbes bioluminescents s'élevant dans les airs, avec un travelling avant cinématographique continu.
 
@@ -133,7 +131,7 @@ Un vieux gardien de phare buriné se tient sur une falaise brumeuse la nuit, vê
 
 Auteur：[@Itswsm105f](https://x.com/Itswsm105f) · [Publication originale](https://x.com/Itswsm105f/status/2097225058439840092)
 
-Photographie · Image cinématographique / Photogramme de film · Rendu 3D · Cyberpunk / Science-fiction · Diffusion en attente
+Photographie · Image cinématographique / Photogramme de film · Rendu 3D · Cyberpunk / Science-fiction · Publié
 
 **Résumé:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
@@ -169,7 +167,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 Auteur：[@RuzainaMeer](https://x.com/RuzainaMeer) · [Publication originale](https://x.com/RuzainaMeer/status/2096837494000308685)
 
-Photographie · Image cinématographique / Photogramme de film · Diffusion en attente
+Photographie · Image cinématographique / Photogramme de film · Publié
 
 **Résumé:** Un prompt de documentaire cinématographique photoréaliste de 30 secondes illustrant l'évolution fluide de l'univers et de la vie sur Terre, du Big Bang à l'humanité moderne.
 
@@ -199,7 +197,7 @@ Utilisez des mouvements de caméra cinématographiques continus, des transitions
 
 Auteur：[@AIwithMinal](https://x.com/AIwithMinal) · [Publication originale](https://x.com/AIwithMinal/status/2097185540391211470)
 
-Image cinématographique / Photogramme de film · Paysage / Nature · Diffusion en attente
+Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 
 **Résumé:** Scène cinématique ultra-réaliste de randonnée en montagne le long d'un sentier accidenté dans une forêt alpine avec la lumière de l'heure dorée et de majestueuses montagnes.
 
@@ -221,7 +219,7 @@ Scène cinématique ultra-réaliste de randonnée en montagne, un sentier étroi
 
 Auteur：[@arsalannazir07](https://x.com/arsalannazir07) · [Publication originale](https://x.com/arsalannazir07/status/2096791786807275583)
 
-Image cinématographique / Photogramme de film · Diffusion en attente
+Image cinématographique / Photogramme de film · Publié
 
 **Résumé:** Une animation stop-motion cinématographique verticale 9:16 de 21 secondes d'une minuscule silhouette humanoïde faite de galets de plage dansant et s'effondrant dans une cuvette de marée peu profonde.
 
@@ -257,7 +255,7 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 Auteur：[@eshal\_\_ai](https://x.com/eshal__ai) · [Publication originale](https://x.com/eshal__ai/status/2096840505355370629)
 
-Photographie · Image cinématographique / Photogramme de film · Rétro / Vintage · Personnage · Diffusion en attente
+Photographie · Image cinématographique / Photogramme de film · Rétro / Vintage · Personnage · Publié
 
 **Résumé:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
 
@@ -296,5 +294,3 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 ---
 
 [Explorer Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=seedance)
-
-Référence de navigation: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
