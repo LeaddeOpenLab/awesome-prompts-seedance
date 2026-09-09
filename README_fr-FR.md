@@ -14,13 +14,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**16** Prompts · Dernier ajout: **2026-09-09**
+**17** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -441,6 +441,32 @@ Style de caméra : Cinématographie authentique de vlog de voyage, tremblement r
 Style visuel : Film de vacances de rêve à Bali, esthétique de marque de voyage haut de gamme, douce lumière dorée du soleil, texture de peau réaliste, faible profondeur de champ cinématographique, aspect rétro nostalgique de film 35 mm, tons chauds et atmosphériques, expressions naturelles et spontanées, narration émouvante.
 
 À éviter : style dessin animé, aspect images de synthèse (CGI), peau d'aspect plastique, visage irréaliste, apparence incohérente du personnage, coiffure changeante, doigts supplémentaires, corps déformé, éclairage artificiel, couleurs sursaturées, visage flou, mouvements anormaux, personnes en double.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Autres
+
+<a name="prompt-2097261787548615064"></a>
+
+### Traduction en cours
+
+Auteur：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Publication originale](https://x.com/AvelyrahnAI/status/2097261787548615064)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097261787548615064.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

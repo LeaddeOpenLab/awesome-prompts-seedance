@@ -14,13 +14,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**16** Prompts · Latest addition: **2026-09-09**
+**17** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -524,6 +524,32 @@ Camera Style: Authentic travel vlog cinematography, handheld camera shake, smoot
 Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
 
 Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Other
+
+<a name="prompt-2097261787548615064"></a>
+
+### A 3-scene high-end skincare commercial prompt showcasing COSRX snail mucin essence with macro shots, viscous dripping texture, and studio lighting.
+
+Author：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Source](https://x.com/AvelyrahnAI/status/2097261787548615064)
+
+Other · Published
+
+**Summary:** A 3-scene high-end skincare commercial prompt showcasing COSRX snail mucin essence with macro shots, viscous dripping texture, and studio lighting.
+
+<img src="covers/2097261787548615064.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Scene 1: Cinematic macro shot of a COSRX Advanced Snail 96 Mucin Power Essence bottle standing on a sleek glass surface, surrounded by rolling ethereal white smoke and floating crystal-clear water droplets, warm beige and soft golden studio lighting, 4k resolution, photorealistic.\n\nScene 2: Dynamic close-up transition as thick, glossy, viscous snail mucin essence slowly drips and stretches from above onto the glass reflective surface next to the bottle, creating rippling micro-droplets, elegant and luxurious aesthetic, hyper-detailed textures.\n\nScene 3: Gentle camera push-in focusing sharply on the product label as soft light glints across the glass bottle and a final ripple settles in the pooling essence below, minimalist and high-end commercial look.
 ```
 
 [↑ Back to categories](#catalog)

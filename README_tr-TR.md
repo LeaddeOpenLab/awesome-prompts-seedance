@@ -14,13 +14,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**16** Prompt · Son eklenen: **2026-09-09**
+**17** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -441,6 +441,32 @@ Kamera Tarzı: Otantik seyahat vlogger sinematografisi, el kamerası sarsıntıs
 Görsel Tarz: Rüya gibi Bali tatil filmi, butik seyahat markası estetiği, yumuşak altın güneş ışığı, gerçekçi cilt dokusu, sinematik sığ alan derinliği, nostaljik 35mm film görünümü, sıcak atmosferik tonlar, doğal ve kurgusuz ifadeler, duygusal hikaye anlatımı.
 
 Kaçınılması gerekenler: çizgi film tarzı, CGI görünümü, plastik cilt, gerçekçi olmayan yüz, tutarsız karakter görünümü, değişen saç modeli, fazladan parmaklar, bozuk vücut, yapay aydınlatma, aşırı doygun renkler, bulanık yüz, doğal olmayan hareketler, yinelenen insanlar.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Diğer
+
+<a name="prompt-2097261787548615064"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Orijinal gönderi](https://x.com/AvelyrahnAI/status/2097261787548615064)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097261787548615064.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

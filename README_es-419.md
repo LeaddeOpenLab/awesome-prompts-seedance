@@ -14,13 +14,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**16** Prompts · Última incorporación: **2026-09-09**
+**17** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -441,6 +441,32 @@ Estilo de cámara: Cinematografía auténtica de vlog de viajes, movimiento de c
 Estilo visual: Película de vacaciones de ensueño en Bali, estética de marca de viajes boutique, luz solar dorada y suave, textura de piel realista, profundidad de campo cinematográfica reducida, aspecto nostálgico de película de 35 mm, tonos atmosféricos cálidos, expresiones naturales sin guion, narrativa emotiva.
 
 Evitar: estilo caricaturesco, aspecto CGI, piel plástica, rostro poco realista, apariencia inconsistente del personaje, peinado cambiante, dedos adicionales, cuerpo distorsionado, iluminación artificial, colores sobresaturados, rostro borroso, movimientos antinaturales, personas duplicadas.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Otros
+
+<a name="prompt-2097261787548615064"></a>
+
+### Traducción en curso
+
+Autor：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Publicación original](https://x.com/AvelyrahnAI/status/2097261787548615064)
+
+Otros · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097261787548615064.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

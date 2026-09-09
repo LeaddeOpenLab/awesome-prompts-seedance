@@ -14,13 +14,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**16** Prompt · Ultima aggiunta: **2026-09-09**
+**17** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -441,6 +441,32 @@ Stile di ripresa: Cinematografia autentica da travel vlog, vibrazione naturale d
 Stile visivo: Film da vacanza da sogno a Bali, estetica da brand di viaggi boutique, morbida luce solare dorata, texture della pelle realistica, ridotta profondità di campo cinematografica, nostalgico look da pellicola 35mm, tonalità atmosferiche calde, espressioni naturali non recitate, narrazione emotiva.
 
 Evitare: stile cartone animato, aspetto CGI, pelle di plastica, viso irrealistico, aspetto del personaggio incoerente, pettinatura che cambia, dita extra, corpo distorto, illuminazione artificiale, colori ipersaturi, viso sfocato, movimenti innaturali, persone duplicate.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Altro
+
+<a name="prompt-2097261787548615064"></a>
+
+### Traduzione in corso
+
+Autore：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Post originale](https://x.com/AvelyrahnAI/status/2097261787548615064)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2097261787548615064.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
