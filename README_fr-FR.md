@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**25** Prompts · Dernier ajout: **2026-09-09**
+**26** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -627,6 +627,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2096903888813330826"></a>
+
+### Traduction en cours
+
+Auteur：[@Lianaalane](https://x.com/Lianaalane) · [Publication originale](https://x.com/Lianaalane/status/2096903888813330826)
+
+Marketing produit · Alimentation / Boissons · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2096903888813330826.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097194787564658942"></a>
 

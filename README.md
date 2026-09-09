@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**25** Prompts · Latest addition: **2026-09-09**
+**26** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1091,6 +1091,28 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2096903888813330826"></a>
+
+### Commercial-style ASMR video prompt showcasing the cooking, bursting broth, and presentation of crispy shengjianbao.
+
+Author：[@Lianaalane](https://x.com/Lianaalane) · [Source](https://x.com/Lianaalane/status/2096903888813330826)
+
+Product Marketing · Food / Drink · Published
+
+**Summary:** Commercial-style ASMR video prompt showcasing the cooking, bursting broth, and presentation of crispy shengjianbao.
+
+<img src="covers/2096903888813330826.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a hyper-realistic cinematic 15-second food video in the exact glossy ultra-detailed commercial style of premium Asian street-food ASMR films, with creamy soft lighting, slow-motion juice drips, rising steam and mouth-watering close-ups. \nWooden chopsticks slowly lift a plump white shengjianbao from a black iron pan, black sesame seeds and green onion on top, dough shining under warm light. The bao is torn open in dramatic slow motion as thick golden broth and juicy minced meat filling burst out, sticky amber sauce stretching and cascading downward in long glossy strands while dense white steam swirls upward. Extreme close-up of the savory meatball-like filling as golden liquid continuously drips into a white ceramic spoon, forming perfect heavy droplets. Wide shot of a cast-iron skillet packed with perfectly pleated raw baozi on a gas stove as clear water is poured in, instantly creating thick clouds of steam. Tight shots show the bottoms crisping into golden lace-like crusts while a metal spatula flips them, revealing caramelized crunchy edges. Finished baozi stacked on a blue-and-white plate, one bitten open to reveal steaming pinkish meat and sauce, chopsticks dipping it into dark soy-sesame dipping sauce. Final wide shot of the steaming plate under a warm hanging lamp on a wooden table in a cozy night kitchen, soft steam rising against a dark window with distant city lights.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097194787564658942"></a>
 
