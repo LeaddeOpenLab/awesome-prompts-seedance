@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**13** Prompts · Latest addition: **2026-09-09**
+**14** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -157,6 +157,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2096815972560835061"></a>
+
+### A 30-second cinematic 3D cartoon adventure prompt featuring two young friends exploring a countryside village and discovering a hidden magical door behind a waterfall.
+
+Author：[@iamrealsnow](https://x.com/iamrealsnow) · [Source](https://x.com/iamrealsnow/status/2096815972560835061)
+
+Cinematic / Film Still · Illustration · 3D Render · Published
+
+**Summary:** A 30-second cinematic 3D cartoon adventure prompt featuring two young friends exploring a countryside village and discovering a hidden magical door behind a waterfall.
+
+<img src="covers/2096815972560835061.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a charming 30-second cinematic 3D cartoon adventure in a beautiful countryside village, 16:9 landscape.\n\nScene 1 — 0–5 sec:\nEarly morning in a colorful little village surrounded by green hills, wooden cottages, vegetable gardens, and a sparkling river. Two adorable original cartoon friends, a curious little boy and a clever little girl, step outside their cottage carrying tiny adventure backpacks. Birds fly overhead and warm sunlight fills the village.\n\nScene 2 — 5–10 sec:\nThe two friends discover an old wooden map tucked beneath a large tree. Their eyes widen with excitement. The map shows a mysterious waterfall deep inside the nearby forest. They excitedly point toward the forest and begin their journey.\n\nScene 3 — 10–17 sec:\nThey run along a cheerful village path, cross a small wooden bridge, pass friendly farm animals, and enter a lush forest. Butterflies flutter around them while sunlight streams through the trees. Their expressions show excitement and curiosity.\n\nScene 4 — 17–24 sec:\nThey reach a hidden waterfall surrounded by glowing flowers and giant mossy rocks. Behind the waterfall they discover a tiny mysterious wooden door carved into the mountain. The boy slowly opens it while the girl looks over his shoulder.\n\nScene 5 — 24–30 sec:\nA magical golden light shines from inside the doorway, illuminating their amazed faces. They look at each other, smile, and step inside together. Camera pulls backward through the forest, revealing the beautiful village in the distance as the scene ends with a sense of a bigger adventure about to begin.\n\nStyle: cute high-quality 3D animated cartoon, expressive faces, playful character animation, vibrant countryside colors, cinematic lighting, soft volumetric sunlight, detailed environments, whimsical adventure atmosphere, smooth camera movement, family-friendly, original characters, no recognizable copyrighted characters, no text, no logos, 16:9.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097182918368276602"></a>
 
