@@ -56,7 +56,7 @@ Once the visual clip is approved, add factual narration, captions, presenter del
 
 ## Related libraries
 
+- [Complete document-to-video workflows](https://github.com/LeaddeOpenLab/awesome-document-to-video)
 - [GPT-6 Astra prompt library](https://github.com/LeaddeOpenLab/awesome-prompts-astra)
 - [Image 2.5 prompt library](https://github.com/LeaddeOpenLab/awesome-prompts-image2.5)
 - [Emerging visual prompts](https://github.com/LeaddeOpenLab/awesome-prompts-uncategorized)
-
