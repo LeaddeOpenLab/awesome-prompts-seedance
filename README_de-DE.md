@@ -30,20 +30,51 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2096930655615758734"></a>
 
-### Übersetzung läuft
+### 30-Sekunden-Prompt für ultra-realistisches UGC-Video: Junge Koreanerin filmt im Schlafzimmer per Handkamera einen täglichen Vlog, zeigt eine neu gekaufte Kamera und spricht ganz natürlich.
 
 Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Originalbeitrag](https://x.com/AIwithkhan/status/2096930655615758734)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 30-Sekunden-Prompt für ultra-realistisches UGC-Video: Junge Koreanerin filmt im Schlafzimmer per Handkamera einen täglichen Vlog, zeigt eine neu gekaufte Kamera und spricht ganz natürlich.
 
 <img src="covers/2096930655615758734.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 30-sekündiges, ultra-realistisches UGC-Video in 1080p von einer jungen Koreanerin in ihrem eigenen Schlafzimmer, die beiläufig zur Kamera über die neue Kamera spricht, die sie kürzlich gekauft hat.
+HAUPTPERSON
+Junge Koreanerin Anfang 20, natürlich schön, realistische Hauttextur, minimales Make-up, schwarzes welliges Haar, locker zu einem unordentlichen seitlichen Pferdeschwanz zusammengebunden mit ein paar losen Strähnen um ihr Gesicht. Sie trägt ein figurbetontes pastellblaues Cropped-Top, eine weite cremefarbene Hose im Pyjama-Stil und eine einfache Silberkette.
+Behalte ihre exakte Gesichtsidentität, Frisur, Outfit, Körperproportionen und das gesamte Erscheinungsbild im gesamten Video durchgehend bei.
+UMGEBUNG
+Ihr eigenes gemütliches Schlafzimmer in einer ganz normalen koreanischen Wohnung an einem warmen Montagmorgen. Sie sitzt bequem auf ihrem Bett mit leicht zerknitterter weißer Bettwäsche, einem Kissen im Rücken, einem kleinen Nachttisch, ein paar alltäglichen persönlichen Gegenständen und weichem, natürlichem Sonnenlicht, das durch das Fenster fällt.
+Der Raum sollte bewohnt und authentisch wirken, nicht inszeniert oder luxuriös.
+UGC-STIL
+Sie hält die Kamera selbst oder sie steht beiläufig auf dem Bett vor ihr aufgestützt. Der Bildausschnitt ist leicht unperfekt, mit natürlicher Handkamerabewegung, kleinen Autofokus-Nachjustierungen und gelegentlichen Belichtungswechseln.
+Das Video sollte wie ein echter persönlicher Vlog wirken, der für ihre Follower aufgenommen wurde, nicht wie ein aufpolierter Werbespot.
+AKTION / DIALOG
+Sie sitzt im Schneidersitz auf dem Bett, blickt ins Objektiv und lächelt.
+Sie sagt ganz natürlich:
+„Okay, I finally got this camera I’ve been talking about.“
+Sie lacht leise und nimmt die Kamera in die Hand, um sie kurz zu zeigen.
+„I’ve only had it for like two days, but I already bring it everywhere.“
+Sie stellt sie wieder ab und lehnt sich an das Kissen.
+„I wanted something that feels a little more personal than just using my phone.“
+Sie blickt sich in ihrem Zimmer um, dann wieder ins Objektiv.
+„The footage has this old-school look that I really love. It kind of feels like I’m recording memories instead of just posting videos.“
+Sie lächelt und streicht eine lose Haarsträhne hinter ihr Ohr.
+Gegen Ende blickt sie auf die Uhr, lacht und sagt:
+„Anyway, it’s Monday, I should probably get out of bed.“
+Sie greift zur Kamera, als wolle sie die Aufnahme beenden, lächelt dabei natürlich, und das Video bricht mitten in der Bewegung ab.
+KAMERA / VISUELLER LOOK
+Authentischer UGC-Look mit einem subtilen DV-Stil der frühen 2000er Jahre: weiche digitale Details, leichtes Bildrauschen, dezentes Autofokus-Pumpen, natürliche Hauttextur und warmes Morgenlicht. Keine dramatische Beleuchtung oder filmische Kamerabewegungen.
+AUDIO
+Nur natürliche Schlafzimmer-Atmosphäre, ihre Stimme, subtiles Rascheln von Stoff, entfernte Nachbarschaftsgeräusche und leises Kamerahandhabungsgeräusch. Keine Musik, kein Sprechertext.
+FINALE WIRKUNG
+Entspannter Content einer koreanischen Lifestyle-Creatorin. Warm, feminin, intim und glaubwürdig, wie ein ungezwungener Montagmorgen-Vlog, der im eigenen Zimmer gedreht wurde.
+NEGATIV
+Kein kommerzielles Schauspiel, keine perfekte Studiobeleuchtung, keine gestellten Influencer-Posen, keine Identitätsabweichungen, keine Outfit-Wechsel, keine verzerrten Hände, keine zusätzlichen Finger, keine Untertitel, Logos, Wasserzeichen oder KI-Artefakte.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

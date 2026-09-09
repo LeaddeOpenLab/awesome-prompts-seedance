@@ -30,20 +30,51 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2096930655615758734"></a>
 
-### Traduction en cours
+### Prompt pour vidéo UGC ultra-réaliste de 30 secondes : Une jeune femme coréenne filme un vlog quotidien caméra au poing dans sa chambre, montrant une caméra récemment achetée et discutant naturellement.
 
 Auteur：[@AIwithkhan](https://x.com/AIwithkhan) · [Publication originale](https://x.com/AIwithkhan/status/2096930655615758734)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour vidéo UGC ultra-réaliste de 30 secondes : Une jeune femme coréenne filme un vlog quotidien caméra au poing dans sa chambre, montrant une caméra récemment achetée et discutant naturellement.
 
 <img src="covers/2096930655615758734.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo UGC ultra-réaliste de 30 secondes en 1080p d’une jeune femme coréenne dans sa propre chambre, parlant spontanément à la caméra de la nouvelle caméra qu’elle vient d’acheter.
+SUJET PRINCIPAL
+Jeune femme coréenne au début de la vingtaine, naturellement belle, texture de peau réaliste, maquillage minimal, cheveux noirs ondulés lâchement attachés en une queue-de-cheval latérale décoiffée avec quelques mèches tombant autour de son visage. Vêtue d’un haut court ajusté bleu pastel, d’un pantalon fluide beige clair style pyjama et d’un simple collier argenté.
+Conservez fidèlement son identité faciale, sa coiffure, sa tenue, ses proportions corporelles et son apparence générale tout au long de la vidéo.
+CADRE
+Sa propre chambre douillette dans un appartement coréen ordinaire par une douce matinée de lundi. Elle est assise confortablement sur son lit avec des draps blancs légèrement froissés, un oreiller derrière elle, une petite table de nuit, quelques objets personnels du quotidien et une douce lumière naturelle du soleil traversant la fenêtre.
+La pièce doit paraître habitée et authentique, ni mise en scène ni luxueuse.
+STYLE UGC
+Elle tient elle-même la caméra ou celle-ci est simplement posée sur le lit devant elle. Le cadrage est légèrement imparfait, avec des mouvements naturels caméra au poing, de discrets ajustements de la mise au point automatique et des changements occasionnels d’exposition.
+La vidéo doit donner l’impression d’un vlog personnel authentique enregistré pour ses abonnés, et non d’une publicité soignée.
+ACTION / DIALOGUE
+Elle est assise en tailleur sur le lit, regarde l’objectif et sourit.
+Elle dit naturellement :
+« Okay, I finally got this camera I’ve been talking about. »
+Elle rit doucement et prend la caméra pour la montrer brièvement.
+« I’ve only had it for like two days, but I already bring it everywhere. »
+Elle la repose et s’adosse contre l’oreiller.
+« I wanted something that feels a little more personal than just using my phone. »
+Elle regarde autour de sa chambre, puis à nouveau vers l’objectif.
+« The footage has this old-school look that I really love. It kind of feels like I’m recording memories instead of just posting videos. »
+Elle sourit et glisse une mèche de cheveux rebelle derrière son oreille.
+Vers la fin, elle jette un coup d’œil à l’horloge, rit et dit :
+« Anyway, it’s Monday, I should probably get out of bed. »
+Elle tend la main vers la caméra comme pour arrêter l’enregistrement, souriant naturellement, et la vidéo se coupe en plein mouvement.
+CAMÉRA / ASPECT VISUEL
+UGC authentique avec une subtile touche inspirée des caméras DV du début des années 2000 : détails numériques doux, léger bruit d’image, discret pompage de l’autofocus, texture de peau naturelle et chaude lumière matinale. Pas d’éclairage dramatique ni de mouvements de caméra cinématographiques.
+AUDIO
+Uniquement l’ambiance naturelle de la chambre, sa voix, le bruissement subtil du tissu, des bruits lointains du quartier et de discrets bruits de manipulation de la caméra. Pas de musique, pas de voix hors champ.
+IMPRESSION FINALE
+Contenu décontracté d’une créatrice de contenu lifestyle coréenne. Chaleureux, féminin, intime et crédible, tel un vlog informel d’un lundi matin filmé dans sa propre chambre.
+NÉGATIF
+Pas de jeu d’acteur commercial, pas d’éclairage de studio parfait, pas de poses d’influenceuse répétées, pas de dérive d’identité, pas de changements de tenue, pas de mains déformées, pas de doigts supplémentaires, pas de sous-titres, logos, filigranes ni artefacts d’IA.
 ```
 
 [↑ Retour aux catégories](#catalog)
