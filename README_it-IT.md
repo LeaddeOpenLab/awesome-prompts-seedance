@@ -859,20 +859,29 @@ Bacchette di legno sollevano lentamente un paffuto shengjianbao bianco da una pa
 
 <a name="prompt-2097194787564658942"></a>
 
-### Traduzione in corso
+### Spot pubblicitario di gioielli di lusso di 30 secondi con un unboxing mattutino in camera da letto e un set scintillante con pietre preziose blu.
 
 Autore：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Post originale](https://x.com/ayzalnooor24521/status/2097194787564658942)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Spot pubblicitario di gioielli di lusso di 30 secondi con un unboxing mattutino in camera da letto e un set scintillante con pietre preziose blu.
 
 <img src="covers/2097194787564658942.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video pubblicitario cinematografico di 30 secondi per gioielli di lusso in uno stile caldo ed elegante.
+Il video si apre con una camera da letto splendidamente decorata, una morbida luce mattutina e una confezione regalo per gioielli di alta qualità posizionata su un tavolo di legno.
+Una donna solleva delicatamente l'elegante scatola, creando un momento di unboxing delicato ed emozionante.
+La telecamera passa a primi piani cinematografici del suo viso e delle sue mani mentre svela il gioiello.
+Un pendente con pietra preziosa blu scintillante viene mostrato in dettagliati scatti macro con una morbida illuminazione dorata.
+Indossa la collana con grazia, evidenziando il suo design elegante e la sua lussuosa brillantezza.
+La scena prosegue con un tranquillo momento mattutino vicino alla finestra, tenendo una tazza nella calda luce del sole.
+I primi piani catturano il ciondolo che brilla naturalmente sulla sua pelle, con ombre e riflessi realistici.
+Il video si conclude con un portagioie premium che mostra il set completo di gioielli abbinati.
+Illuminazione cinematografica morbida, calde tonalità dorate, estetica da spot pubblicitario di lusso, movimenti di macchina fluidi, profondità di campo ridotta, dettagli fotorealistici, formato verticale 9:16.
 ```
 
 [↑ Torna alle categorie](#catalog)

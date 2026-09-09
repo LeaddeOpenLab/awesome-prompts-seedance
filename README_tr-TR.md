@@ -845,20 +845,29 @@ Ahşap yemek çubukları, siyah demir bir tavadan tombul beyaz bir shengjianbao'
 
 <a name="prompt-2097194787564658942"></a>
 
-### Çeviri sürüyor
+### Sabah vakti yatak odasında yapılan bir kutu açılışını ve parıldayan mavi değerli taş setini içeren 30 saniyelik lüks mücevher reklamı.
 
 Yazar：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Orijinal gönderi](https://x.com/ayzalnooor24521/status/2097194787564658942)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sabah vakti yatak odasında yapılan bir kutu açılışını ve parıldayan mavi değerli taş setini içeren 30 saniyelik lüks mücevher reklamı.
 
 <img src="covers/2097194787564658942.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sıcak ve zarif bir tarzda 30 saniyelik sinematik lüks mücevher reklam videosu oluşturun.
+Video, güzelce dekore edilmiş bir yatak odası, yumuşak sabah güneş ışığı ve ahşap bir masanın üzerine yerleştirilmiş birinci sınıf bir mücevher hediye kutusuyla açılır.
+Bir kadın zarif kutuyu nazikçe eline alır ve narin ve duygusal bir kutu açma anı yaratır.
+Kamera, mücevheri ortaya çıkarırken yüzünün ve ellerinin sinematik yakın çekimlerine doğru hareket eder.
+Işıl ışıl parlayan mavi değerli taşlı bir kolye ucu, yumuşak altın rengi ışıklandırmayla ayrıntılı makro çekimlerde gösterilir.
+Kolyeyi zarif bir şekilde takarak şık tasarımını ve lüks ışıltısını vurgular.
+Sahne, pencerenin yanında, sıcak güneş ışığında bir fincan tutarak huzurlu bir sabah anıyla devam eder.
+Yakın çekimler, gerçekçi gölgeler ve yansımalarla kolyenin teninde doğal olarak parıldamasını yakalar.
+Video, birbiriyle eşleşen tam mücevher setini sergileyen birinci sınıf bir mücevher kutusuyla sona erer.
+Yumuşak sinematik aydınlatma, sıcak altın tonları, lüks reklam estetiği, pürüzsüz kamera hareketleri, sığ alan derinliği, fotogerçekçi detaylar, 9:16 dikey format.
 ```
 
 [↑ Kategorilere dön](#catalog)

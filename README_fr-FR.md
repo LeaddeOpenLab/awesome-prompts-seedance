@@ -859,20 +859,29 @@ Des baguettes en bois soulèvent lentement un shengjianbao blanc et rebondi d'un
 
 <a name="prompt-2097194787564658942"></a>
 
-### Traduction en cours
+### Publicité de 30 secondes pour des bijoux de luxe présentant un déballage matinal dans une chambre et une parure étincelante de pierres précieuses bleues.
 
 Auteur：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Publication originale](https://x.com/ayzalnooor24521/status/2097194787564658942)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Publicité de 30 secondes pour des bijoux de luxe présentant un déballage matinal dans une chambre et une parure étincelante de pierres précieuses bleues.
 
 <img src="covers/2097194787564658942.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo publicitaire cinématographique de 30 secondes pour des bijoux de luxe dans un style chaleureux et élégant.
+La vidéo s'ouvre sur une chambre magnifiquement décorée, une douce lumière matinale et un coffret cadeau de bijoux haut de gamme posé sur une table en bois.
+Une femme prend délicatement l'élégante boîte, créant un moment de déballage délicat et émouvant.
+La caméra passe à des gros plans cinématographiques de son visage et de ses mains alors qu'elle dévoile le bijou.
+Un pendentif orné d'une pierre précieuse bleue étincelante est montré dans des plans macro détaillés avec un éclairage doré doux.
+Elle porte le collier avec grâce, soulignant son design élégant et son éclat luxueux.
+La scène se poursuit avec un moment matinal paisible près de la fenêtre, tenant une tasse dans la chaude lumière du soleil.
+Des gros plans capturent le pendentif qui scintille naturellement contre sa peau avec des ombres et des reflets réalistes.
+La vidéo se termine par un coffret de bijoux haut de gamme présentant la parure complète assortie.
+Éclairage cinématographique doux, tons dorés chaleureux, esthétique de spot publicitaire de luxe, mouvements de caméra fluides, faible profondeur de champ, détails photoréalistes, format vertical 9:16.
 ```
 
 [↑ Retour aux catégories](#catalog)

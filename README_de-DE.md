@@ -859,20 +859,29 @@ Holzstäbchen heben langsam ein pralles weißes Shengjianbao aus einer schwarzen
 
 <a name="prompt-2097194787564658942"></a>
 
-### Übersetzung läuft
+### 30-sekündiger Luxusschmuck-Werbespot mit einem morgendlichen Auspacken im Schlafzimmer und einem funkelnden blauen Edelsteinset.
 
 Autor：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Originalbeitrag](https://x.com/ayzalnooor24521/status/2097194787564658942)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 30-sekündiger Luxusschmuck-Werbespot mit einem morgendlichen Auspacken im Schlafzimmer und einem funkelnden blauen Edelsteinset.
 
 <img src="covers/2097194787564658942.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 30-sekündiges, filmisches Luxusschmuck-Werbevideo in einem warmen und eleganten Stil.
+Das Video beginnt mit einem wunderschön eingerichteten Schlafzimmer, sanftem Morgensonnenlicht und einer hochwertigen Schmuck-Geschenkbox auf einem Holztisch.
+Eine Frau hebt die elegante Schachtel sanft an, wodurch ein zarter und emotionaler Moment des Auspackens entsteht.
+Die Kamera wechselt in filmische Nahaufnahmen ihres Gesichts und ihrer Hände, während sie den Schmuck enthüllt.
+Ein funkelnder blauer Edelsteinanhänger wird in detaillierten Makroaufnahmen mit sanfter goldener Beleuchtung gezeigt.
+Sie trägt die Halskette anmutig und betont ihr elegantes Design und ihren luxuriösen Glanz.
+Die Szene setzt sich mit einem friedlichen Morgenmoment am Fenster fort, während sie eine Tasse im warmen Sonnenlicht hält.
+Nahaufnahmen fangen das natürliche Funkeln des Anhängers auf ihrer Haut mit realistischen Schatten und Reflexionen ein.
+Das Video endet mit einer hochwertigen Schmuckschatulle, die das vollständige passende Schmuckset präsentiert.
+Sanfte filmische Beleuchtung, warme Goldtöne, Ästhetik eines Luxus-Werbespots, geschmeidige Kamerabewegungen, geringe Tiefenschärfe, fotorealistische Details, vertikales Format 9:16.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

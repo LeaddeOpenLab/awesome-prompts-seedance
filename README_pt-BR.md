@@ -845,20 +845,29 @@ Hashis de madeira levantam lentamente um shengjianbao branco e farto de uma frig
 
 <a name="prompt-2097194787564658942"></a>
 
-### Tradução em andamento
+### Comercial de joias de luxo de 30 segundos apresentando um unboxing matinal no quarto e um conjunto brilhante de pedras preciosas azuis.
 
 Autor：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Publicação original](https://x.com/ayzalnooor24521/status/2097194787564658942)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Comercial de joias de luxo de 30 segundos apresentando um unboxing matinal no quarto e um conjunto brilhante de pedras preciosas azuis.
 
 <img src="covers/2097194787564658942.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo publicitário cinematográfico de 30 segundos de joias de luxo em um estilo caloroso e elegante.
+O vídeo começa com um quarto lindamente decorado, luz suave do sol matinal e uma caixa de presente de joias premium colocada sobre uma mesa de madeira.
+Uma mulher pega suavemente a elegante caixa, criando um momento delicado e emocional de unboxing.
+A câmera se aproxima em planos detalhados e cinematográficos do rosto e das mãos dela enquanto ela revela a joia.
+Um pingente de pedra preciosa azul brilhante é mostrado em planos macro detalhados com iluminação dourada suave.
+Ela usa o colar com graça, destacando seu design elegante e brilho luxuoso.
+A cena continua com um momento matinal tranquilo perto da janela, segurando uma xícara sob a luz quente do sol.
+Planos de detalhe capturam o pingente brilhando naturalmente contra sua pele com sombras e reflexos realistas.
+O vídeo termina com um porta-joias premium exibindo o conjunto completo de joias combinando.
+Iluminação suave e cinematográfica, tons dourados quentes, estética de comercial de luxo, movimentos de câmera suaves, profundidade de campo rasa, detalhes fotorrealistas, formato vertical 9:16.
 ```
 
 [↑ Voltar às categorias](#catalog)

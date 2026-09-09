@@ -859,20 +859,29 @@ Unos palillos de madera levantan lentamente un rollizo shengjianbao blanco de un
 
 <a name="prompt-2097194787564658942"></a>
 
-### Traducción en curso
+### Comercial de joyería de lujo de 30 segundos que presenta un desempaque matutino en un dormitorio y un conjunto brillante de gemas azules.
 
 Autor：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Publicación original](https://x.com/ayzalnooor24521/status/2097194787564658942)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Comercial de joyería de lujo de 30 segundos que presenta un desempaque matutino en un dormitorio y un conjunto brillante de gemas azules.
 
 <img src="covers/2097194787564658942.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video publicitario cinematográfico de joyería de lujo de 30 segundos en un estilo cálido y elegante.
+El video comienza con un dormitorio hermosamente decorado, suave luz matutina y una caja de regalo de joyería premium colocada sobre una mesa de madera.
+Una mujer toma suavemente la elegante caja, creando un momento de desempaque delicado y emotivo.
+La cámara se acerca con planos detalle cinematográficos de su rostro y sus manos mientras revela la joya.
+Un colgante de gema azul brillante se muestra en tomas macro detalladas con una suave iluminación dorada.
+Ella se coloca el collar con gracia, resaltando su elegante diseño y brillo lujoso.
+La escena continúa con un pacífico momento matutino cerca de la ventana, sosteniendo una taza bajo la cálida luz del sol.
+Los primeros planos capturan el colgante brillando naturalmente contra su piel con sombras y reflejos realistas.
+El video termina con una caja de joyería premium que exhibe el juego de joyas a juego completo.
+Iluminación cinematográfica suave, tonos dorados cálidos, estética comercial de lujo, movimientos de cámara fluidos, profundidad de campo reducida, detalles fotorrealistas, formato vertical 9:16.
 ```
 
 [↑ Volver a categorías](#catalog)

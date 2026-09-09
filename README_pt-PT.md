@@ -845,20 +845,29 @@ Pauzinhos de madeira levantam lentamente um shengjianbao branco e roliço de uma
 
 <a name="prompt-2097194787564658942"></a>
 
-### Tradução em curso
+### Comercial de joalharia de luxo de 30 segundos com um desembalamento matinal no quarto e um conjunto brilhante de pedras preciosas azuis.
 
 Autor：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Publicação original](https://x.com/ayzalnooor24521/status/2097194787564658942)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Comercial de joalharia de luxo de 30 segundos com um desembalamento matinal no quarto e um conjunto brilhante de pedras preciosas azuis.
 
 <img src="covers/2097194787564658942.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo publicitário cinematográfico de 30 segundos de joalharia de luxo num estilo caloroso e elegante.
+O vídeo abre com um quarto decorado de forma magnífica, suave luz solar matinal e uma caixa de presente de joias de luxo pousada numa mesa de madeira.
+Uma mulher pega suavemente na elegante caixa, criando um momento de desembalamento delicado e emotivo.
+A câmara desloca-se para planos de pormenor cinematográficos do rosto e das mãos dela enquanto revela a joia.
+Um pendente de pedra preciosa azul cintilante é mostrado em planos macro detalhados com uma iluminação dourada suave.
+Ela coloca o colar graciosamente, destacando o seu design elegante e brilho luxuoso.
+A cena continua com um momento matinal sereno perto da janela, a segurar numa chávena sob a luz quente do sol.
+Planos aproximados captam o pendente a brilhar naturalmente contra a pele dela com sombras e reflexos realistas.
+O vídeo termina com um guarda-joias premium a exibir o conjunto de joias completo a condizer.
+Iluminação cinematográfica suave, tons dourados quentes, estética comercial de luxo, movimentos de câmara fluidos, profundidade de campo reduzida, detalhes fotorrealistas, formato vertical 9:16.
 ```
 
 [↑ Voltar às categorias](#catalog)
