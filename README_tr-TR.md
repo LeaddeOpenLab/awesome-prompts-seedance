@@ -193,20 +193,53 @@ Sinematik / Film Karesi · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2096906803967840616"></a>
 
-### Çeviri sürüyor
+### Kablolu kulaklıklarla Çongçing'i keşfeden K-pop idolü bir kızı içeren, tam zaman çizelgesi dökümü, kamera açıları, gardırop ve negatif istemleri kapsayan 30 saniyelik sinematik seyahat ve moda klibi \(MV\) istemi.
 
 Yazar：[@ImaStudio\_ai](https://x.com/ImaStudio_ai) · [Orijinal gönderi](https://x.com/ImaStudio_ai/status/2096906803967840616)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kablolu kulaklıklarla Çongçing'i keşfeden K-pop idolü bir kızı içeren, tam zaman çizelgesi dökümü, kamera açıları, gardırop ve negatif istemleri kapsayan 30 saniyelik sinematik seyahat ve moda klibi \(MV\) istemi.
 
 <img src="covers/2096906803967840616.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Çin'in Çongçing kentinde geçen 30 saniyelik, 16:9 oranında, 24fps fotogerçekçi sinematik seyahat ve moda klibi (MV) oluşturun.
+TEMEL KONSEPT:
+K-pop tarzında kurgusal genç bir Koreli kadın, beyaz kablolu kulaklıklarla müzik dinlerken bir gününü Çongçing'i keşfederek geçirir. Filmin tamamı, şık bir Kore seyahat vlogu ile gençlik müzik videosunun birleşimi hissini verir; taze, çabasız, hayat dolu ve sinematiktir, asla bir turizm reklamı gibi durmaz.
+KARAKTER SABİTLEME:
+Yalnızca tek bir kadın, 20–23 yaşlarında, Koreli idol görünümünde: küçük zarif bir yüz, doğal açık ten, hafif ince kâküllü uzun siyah saçlar, koyu kahverengi gözler, hafif aegyo-sal, ince göz kalemi, parlak nude-pembe dudaklar, ince vücut yapısı.
+Her çekimde birebir aynı yüzü, saçı, vücut oranlarını, makyajı ve kimliği koruyun.
+Beyaz kablolu kulaklıklar video boyunca görünür kalmalıdır.
+Diyalog yok. Duygu; göz teması, hafif tebessümler, yürüme, arkaya dönüp bakma, gülme ve müziğe göre doğal hareket etme yoluyla yansıtılır.
+GARDROP:
+Gündüz: krem rengi crop triko üst, açık mavi yüksek bel kot pantolon, gümüş küpeler, siyah omuz çantası.
+Gün batımı: vücuda oturan açık mavi-gri üst, siyah crop ceket, kot pantolon.
+Gece: siyah askılı bluz, oversize siyah ceket, gümüş takılar.
+Kıyafet değişiklikleri yalnızca sert kesmelerde (hard cut) gerçekleşir.
+ZAMAN ÇİZELGESİ:
+0–3 sn: Nehir kenarındaki bir seyir noktasında aşırı yakın selfie çekimi. Çongçing silüeti ve köprü arkada yumuşak bir şekilde bulanıklaşmış. Kulaklığın tekini kulağına takar, müzik başlar, kameraya gülümser.
+3–6 sn: Çongçing'in dik bir yamaç sokağında takip çekimi. Katmanlı binalar, yokuşlar, ağaçlar, yaprakların arasından süzülen güneş ışığı. Saçlar ve kulaklık kablosu doğal biçimde hareket eder.
+6–9 sn: Liziba. Havaray konut binasının içinden geçerken alt açı çekimi. Yukarı bakar, ardından arkasını dönüp gülümser.
+9–12 sn: Yangtze Nehri Teleferiği. Pencerenin yakınında durup nehri, köprüleri, kuleleri ve şehrin dik katmanlarını izler. Rüzgâr saçlarını ve kulaklık kablosunu hareket ettirir.
+12–15 sn: Eski yamaç sokağı / Shancheng Patikası / Shibati. Taş merdivenler, eski binalar, fenerler, küçük dükkânlar. Yukarı doğru yürür ve arkasına dönüp kameraya bakar.
+15–18 sn: Hızlı yaşam tarzı montajı: taş basamaklardaki ayakkabılar, tırabzandaki el, bir içecek satın alma, rüzgârda uçuşan saçlar, dar sokakların arasına çerçevelenmiş yüksek binalar.
+18–22 sn: Gün batımı manzarası. GÖRÜNÜM 2'ye geçiş. Geniş şehir silüeti, nehir ve köprüler sıcak turuncu ışık altında. Arkasından başlar, ardından yan profili görünür. Gözlerini kısa bir süre kapatır ve dinler.
+22–26 sn: Gece vakti Hongya Mağarası. GÖRÜNÜM 3'e geçiş. Sıcak altın sarısı ışıklar, koyu mavi gökyüzü, gerçek kalabalıklar. Onu takip eden bir arkadaş gibi rahat bir çekim yapın. Arkasına bakar, güler ve yürümeye devam eder.
+26–30 sn: Qiansimen Köprüsü yakınında gece nehir kenarı. Yanına bir kız arkadaşı katılır. Koreografi olmadan, müziğin ritmine uyarak rahatça zıplar, döner, güler ve hareket ederler. Başroldeki kız daha da yaklaşır, kulaklığın tekini çıkarır ve ışıldayan şehre arkasını dönüp bakar.
+Bitiş metni:
+CHONGQING
+FOLLOW THE SOUND.
+KAMERA:
+24mm şehir genel planları, 35–50mm portreler, 85mm detaylar. Yumuşak el kamerası, yürüyüş takibi, selfie çerçeveleme, yavaş içeri doğru yaklaşmalar (push-in), doğal alt açılar. Eyleme bağlı sert kesmeler.
+GERÇEKÇİLİK:
+Gerçek cilt dokusu, doğal saç fiziği, sabit kulaklık kablosu, gerçekçi Çongçing mimarisi, havaray, teleferik, kalabalıklar, nehir ve yamaçlar.
+NEGATİF:
+Yüzün bozulması veya kayması, karakter kopyalanması, rastgele kıyafet değişimi, eksik kulaklık, şekli bozuk eller, plastik cilt, siberpunk Çongçing, Çongçing'in yerini alan Japon veya Kore sokakları, sahte simge yapılar, rastgele metin, altyazı, filigran, aşırı güzellik filtresi yok.
+SON HİS:
+Koreli bir K-pop kızının Çongçing'deki ilk günü — kulaklarında müzik, tüm şehir onun kendi klibi gibi akıp gidiyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -193,20 +193,53 @@ Tradução em curso
 
 <a name="prompt-2096906803967840616"></a>
 
-### Tradução em curso
+### Prompt de MV de moda e viagem cinematográfico de 30 segundos apresentando uma jovem idol de K-pop a explorar Chongqing com auriculares de fios, incluindo detalhe completo da linha temporal, ângulos de câmara, guarda-roupa e prompts negativos.
 
 Autor：[@ImaStudio\_ai](https://x.com/ImaStudio_ai) · [Publicação original](https://x.com/ImaStudio_ai/status/2096906803967840616)
 
 Fotografia · Cena de Cinema / Fotograma · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de MV de moda e viagem cinematográfico de 30 segundos apresentando uma jovem idol de K-pop a explorar Chongqing com auriculares de fios, incluindo detalhe completo da linha temporal, ângulos de câmara, guarda-roupa e prompts negativos.
 
 <img src="covers/2096906803967840616.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um MV de moda e viagem cinematográfico, fotorrealista, de 30 segundos, em 16:9, a 24fps, ambientado em Chongqing, China.
+CONCEITO PRINCIPAL:
+Uma jovem fictícia no estilo K-pop coreano passa um dia a explorar Chongqing enquanto ouve música através de auriculares brancos com fios. O filme inteiro parece um elegante vlog de viagens coreano misturado com um videoclipe juvenil — fresco, espontâneo, vivo e cinematográfico, nunca parecendo um anúncio publicitário de turismo.
+FIXAÇÃO DA PERSONAGEM:
+Apenas uma mulher, idade entre 20–23 anos, visual de idol coreana: rosto pequeno e refinado, pele clara natural, cabelo comprido e preto com franja suave e rala, olhos castanho-escuros, aegyo-sal subtil, eyeliner fino, lábios rosa-nude brilhantes, silhueta esguia.
+Mantenha rigorosamente o mesmo rosto, cabelo, proporções corporais, maquilhagem e identidade em todos os planos.
+Auriculares brancos com fios mantêm-se visíveis ao longo de todo o vídeo.
+Sem diálogo. A emoção é transmitida através de contacto visual, pequenos sorrisos, a caminhar, a olhar para trás, a rir e a mover-se naturalmente com a música.
+GUARDA-ROUPA:
+Dia: camisola curta (cropped) de malha em tom creme, calças de ganga azul-claro de cintura subida, brincos prateados, mala de ombro preta.
+Pôr do sol: camisola justa azul-acinzentada clara, casaco curto (cropped) preto, calças de ganga.
+Noite: top de alças preto, casaco oversized preto, joalharia prateada.
+Mudanças de indumentária apenas em cortes secos.
+LINHA TEMPORAL:
+0–3s: Selfie em primeiríssimo plano num miradouro junto ao rio. A linha do horizonte e a ponte de Chongqing suavemente desfocadas em segundo plano. Ela coloca um auricular, a música começa, ela sorri para a câmara.
+3–6s: Plano de seguimento numa rua inclinada na encosta de Chongqing. Edifícios em camadas, declives, árvores, luz do sol filtrada pelas folhas. O cabelo e o fio do auricular movem-se naturalmente.
+6–9s: Liziba. Ângulo contra-picado enquanto o monocarril atravessa o edifício residencial. Ela olha para cima, depois volta-se para trás e sorri.
+9–12s: Teleférico do Rio Yangtzé. Ela está de pé perto da janela, a contemplar o rio, as pontes, as torres e os socalcos íngremes da cidade. O vento agita-lhe o cabelo e o fio do auricular.
+12–15s: Rua antiga na encosta / Trilho Shancheng / Shibati. Degraus de pedra, edifícios antigos, lanternas, pequenas lojas. Ela sobe a pé e deita um olhar para trás, para a câmara.
+15–18s: Montagem rápida de estilo de vida: sapatos sobre degraus de pedra, mão num corrimão, a comprar uma bebida, cabelo ao vento, edifícios altos enquadrados entre ruas estreitas.
+18–22s: Miradouro ao pôr do sol. Mudar para o LOOK 2. Horizonte panorâmico, rio e pontes sob uma luz cor de laranja quente. Iniciar pelas costas dela, depois o perfil lateral. Ela cerra os olhos brevemente e ouve.
+22–26s: Gruta de Hongya à noite. Mudar para o LOOK 3. Luzes douradas quentes, céu azul-escuro profundo, multidões reais. Filmar de forma informal, como um amigo a segui-la. Ela olha para trás, ri e continua a caminhar.
+26–30s: Zona ribeirinha noturna perto da Ponte Qiansimen. Junta-se uma amiga. Elas balançam, giram, riem e movem-se descontraidamente ao ritmo — sem coreografia formal. A protagonista aproxima-se, retira um auricular, volta a olhar para trás em direção à cidade iluminada.
+Texto final:
+CHONGQING
+FOLLOW THE SOUND.
+CÂMARA:
+Planos gerais da cidade em 24mm, retratos em 35–50mm, pormenores em 85mm. Câmara à mão suave, seguimento em marcha, enquadramento de selfie, travellings lentos para a frente, contra-picados naturais. Cortes secos motivados pelo movimento.
+REALISMO:
+Textura de pele autêntica, física realista do cabelo, fio do auricular estável, arquitetura realista de Chongqing, monocarril, teleférico, multidões, rio e encostas.
+NEGATIVO:
+Sem deformação facial, personagem duplicada, troca arbitrária de roupa, falta de auriculares, mãos deformadas, pele plástica, Chongqing estilo cyberpunk, ruas japonesas ou coreanas em vez de Chongqing, pontos de referência falsos, texto aleatório, legendas, marca de água, filtros excessivos de beleza.
+IMPRESSÃO FINAL:
+O primeiro dia de uma jovem coreana estilo K-pop em Chongqing — música nos ouvidos, a cidade inteira a mover-se como o seu próprio videoclipe.
 ```
 
 [↑ Voltar às categorias](#catalog)

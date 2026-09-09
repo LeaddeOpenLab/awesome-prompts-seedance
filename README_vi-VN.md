@@ -195,20 +195,53 @@ Tác giả：[@MissDelulu9](https://x.com/MissDelulu9) · [Bài gốc](https://x
 
 <a name="prompt-2096906803967840616"></a>
 
-### Đang dịch
+### Lời nhắc MV thời trang du lịch điện ảnh 30 giây khắc họa một cô gái thần tượng K-pop khám phá Trùng Khánh với tai nghe có dây, bao gồm phân tích timeline chi tiết, góc máy, trang phục và lời nhắc phủ định.
 
 Tác giả：[@ImaStudio\_ai](https://x.com/ImaStudio_ai) · [Bài gốc](https://x.com/ImaStudio_ai/status/2096906803967840616)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc MV thời trang du lịch điện ảnh 30 giây khắc họa một cô gái thần tượng K-pop khám phá Trùng Khánh với tai nghe có dây, bao gồm phân tích timeline chi tiết, góc máy, trang phục và lời nhắc phủ định.
 
 <img src="covers/2096906803967840616.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một MV thời trang du lịch điện ảnh chân thực 30 giây, tỷ lệ 16:9, 24fps lấy bối cảnh tại Trùng Khánh, Trung Quốc.
+Ý TƯỞNG CỐT LÕI:
+Một cô gái trẻ phong cách K-pop Hàn Quốc hư cấu dành một ngày khám phá Trùng Khánh trong khi nghe nhạc qua tai nghe có dây màu trắng. Toàn bộ thước phim mang lại cảm giác như một vlog du lịch Hàn Quốc phong cách kết hợp với một video ca nhạc tuổi trẻ — tươi mới, tự nhiên, sống động và đậm chất điện ảnh, không bao giờ giống một quảng cáo du lịch.
+KHÓA NHÂN VẬT:
+Chỉ một người phụ nữ duy nhất, 20–23 tuổi, ngoại hình thần tượng Hàn Quốc: khuôn mặt nhỏ nhắn thanh tú, làn da sáng tự nhiên, mái tóc đen dài với tóc mái thưa mềm mại, đôi mắt nâu sẫm, bọng mắt cười (aegyo-sal) tinh tế, đường kẻ mắt mỏng, đôi môi màu hồng nude bóng nhẹ, vóc dáng thon thả.
+Giữ nguyên vẹn khuôn mặt, mái tóc, tỷ lệ cơ thể, lớp trang điểm và danh tính trong từng cảnh quay.
+Tai nghe có dây màu trắng luôn hiển thị xuyên suốt.
+Không có lời thoại. Cảm xúc được thể hiện qua ánh mắt, nụ cười nhẹ, bước đi, ngoảnh lại, cười đùa và chuyển động tự nhiên theo điệu nhạc.
+TRANG PHỤC:
+Ban ngày: áo dệt kim dáng lửng màu kem, quần jean cạp cao màu xanh nhạt, khuyên tai bạc, túi đeo vai màu đen.
+Hoàng hôn: áo ôm vừa vặn màu xanh xám nhạt, áo khoác lửng màu đen, quần jean.
+Ban đêm: áo hai dây màu đen, áo khoác đen rộng (oversized), trang sức bạc.
+Chỉ đổi trang phục tại các điểm cắt cảnh dứt khoát (hard cuts).
+TIMELINE:
+0–3 giây: Tự chụp góc cực cận (extreme close selfie) tại điểm ngắm cảnh ven sông. Đường chân trời và cây cầu Trùng Khánh mờ nhẹ phía sau. Cô đeo một bên tai nghe vào, nhạc bắt đầu, cô mỉm cười với máy quay.
+3–6 giây: Cảnh theo dõi (follow shot) trên con phố sườn đồi dốc ở Trùng Khánh. Những tòa nhà nhiều tầng, dốc núi, cây cối, ánh nắng xuyên qua kẽ lá. Mái tóc và dây tai nghe chuyển động tự nhiên.
+6–9 giây: Lý Tử Bá (Liziba). Góc máy thấp khi tàu điện một ray chạy xuyên qua tòa nhà chung cư. Cô ngước nhìn lên, rồi quay lại mỉm cười.
+9–12 giây: Cáp treo sông Dương Tử. Cô đứng gần cửa sổ, nhìn ra dòng sông, những cây cầu, các tòa tháp và các tầng lớp dốc của thành phố. Gió thổi bay mái tóc và dây tai nghe của cô.
+12–15 giây: Phố cổ sườn đồi / Lối đi bộ Sơn Thành (Shancheng Trail) / Thập Bát Đễ (Shibati). Bậc thang đá, nhà cổ, lồng đèn, hàng quán nhỏ. Cô bước lên dốc và liếc nhìn lại máy quay.
+15–18 giây: Đoạn dựng phong cách sống nhanh: giày bước trên bậc đá, tay vịn lan can, mua đồ uống, tóc bay trong gió, các tòa nhà cao tầng đóng khung giữa những con phố hẹp.
+18–22 giây: Điểm ngắm cảnh hoàng hôn. Chuyển sang OUTFIT 2. Toàn cảnh đường chân trời rộng lớn, dòng sông và các cây cầu ngập trong ánh sáng cam ấm áp. Bắt đầu từ phía sau lưng cô, sau đó là góc nghiêng. Cô nhắm mắt lại trong giây lát và lắng nghe.
+22–26 giây: Hồng Nhai Động về đêm. Chuyển sang OUTFIT 3. Ánh đèn vàng ấm áp, bầu trời xanh thẫm, đám đông chân thực. Quay một cách tự nhiên như một người bạn đang đi theo sau cô. Cô ngoảnh lại, cười lớn và tiếp tục bước đi.
+26–30 giây: Bờ sông về đêm gần cầu Thiên Tư Môn (Qiansimen). Một cô bạn gái cùng tham gia. Họ nhún nhảy nhẹ nhàng, xoay người, cười đùa và chuyển động theo nhịp điệu — không phải vũ đạo bài bản. Nhân vật chính bước lại gần hơn, tháo một bên tai nghe, nhìn lại thành phố rực rỡ ánh đèn.
+Chữ cuối phim:
+CHONGQING
+FOLLOW THE SOUND.
+MÁY QUAY:
+Góc rộng thành phố 24mm, chân dung 35–50mm, chi tiết 85mm. Cầm tay nhẹ nhàng (handheld), đi theo chuyển động, căn khung kiểu selfie, đẩy vào từ từ (slow push-in), góc thấp tự nhiên. Cắt cảnh dứt khoát dựa trên hành động.
+ĐỘ CHÂN THỰC:
+Kết cấu da thật, vật lý tóc tự nhiên, dây tai nghe ổn định, kiến trúc Trùng Khánh chân thực, tàu điện một ray, cáp treo, đám đông, dòng sông và các con dốc.
+TIÊU CỰC (NEGATIVE):
+Không biến dạng khuôn mặt, nhân vật trùng lặp, tự ý đổi trang phục ngẫu nhiên, thiếu tai nghe, bàn tay méo mó, làn da nhựa bóng giả tạo, Trùng Khánh phong cách cyberpunk, phố xá Nhật Bản hoặc Hàn Quốc thay thế Trùng Khánh, địa danh giả mạo, văn bản ngẫu nhiên, phụ đề, hình mờ (watermark), bộ lọc làm đẹp quá đà.
+CẢM XÚC CUỐI CÙNG:
+Ngày đầu tiên của một cô gái thần tượng K-pop Hàn Quốc tại Trùng Khánh — âm nhạc văng vẳng bên tai, cả thành phố chuyển động như MV của chính cô.
 ```
 
 [↑ Về danh mục](#catalog)
