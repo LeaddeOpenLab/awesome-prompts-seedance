@@ -193,20 +193,20 @@ Sinematik / Film Karesi · 3D Modelleme · Karakter · Hayvan / Yaratık · Yay�
 
 <a name="prompt-2096826123330138410"></a>
 
-### Çeviri sürüyor
+### Altın saatte karlı bir dağ yamacında beyaz kayaklar taşıyan, krem rengi suni kürk kabanlı sarışın bir kadının sinematik moda çekimi.
 
 Yazar：[@noorlewisx](https://x.com/noorlewisx) · [Orijinal gönderi](https://x.com/noorlewisx/status/2096826123330138410)
 
 Sinematik / Film Karesi · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Altın saatte karlı bir dağ yamacında beyaz kayaklar taşıyan, krem rengi suni kürk kabanlı sarışın bir kadının sinematik moda çekimi.
 
 <img src="covers/2096826123330138410.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sinematik moda filmi karesi, dalgalı kumral saçlı ve kahverengi gözlü güzel genç bir kadının, altın saatte güneşli, karlı bir dağ yamacında kameraya doğru yürüdüğü alt açı çekimi. Beyaz fitilli büstiyer ve uyumlu beyaz şort üzerine dökümlü krem rengi suni kürk kaban, beyaz tüylü kayak botları ve beyaz eldivenler giyiyor. Bir omzuna asılmış siyah bağlamalı zarif beyaz kayak takımı taşıyor. Sığ alan derinliği ve bokeh ile en ön planda parıldayan kristal kar, arka planda karla kaplı zirveler ve maviden alacakaranlığa dönen berrak gökyüzü, dramatik kenar aydınlatması, yüksek moda editoryal fotoğrafçılığı, 35mm film greni, ultra gerçekçi, fotogerçekçi, 8k
 ```
 
 [↑ Kategorilere dön](#catalog)

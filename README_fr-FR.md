@@ -207,20 +207,20 @@ Traduction en cours
 
 <a name="prompt-2096826123330138410"></a>
 
-### Traduction en cours
+### Prise de vue de mode cinématographique d'une femme blonde dans un manteau en fausse fourrure crème portant des skis blancs sur une pente alpine enneigée à l'heure dorée.
 
 Auteur：[@noorlewisx](https://x.com/noorlewisx) · [Publication originale](https://x.com/noorlewisx/status/2096826123330138410)
 
 Image cinématographique / Photogramme de film · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prise de vue de mode cinématographique d'une femme blonde dans un manteau en fausse fourrure crème portant des skis blancs sur une pente alpine enneigée à l'heure dorée.
 
 <img src="covers/2096826123330138410.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Plan de film de mode cinématographique, vue en contre-plongée d'une belle jeune femme aux cheveux blond foncé ondulés et aux yeux marron marchant vers la caméra sur une pente de montagne alpine enneigée et ensoleillée à l'heure dorée. Elle porte un manteau oversize en fausse fourrure crème sur un crop top côtelé blanc et un short blanc assorti, des après-skis duveteux blancs et des gants blancs. Elle porte sur une épaule une paire de skis blancs épurés avec des fixations noires. Neige cristalline étincelante au premier plan extrême avec une faible profondeur de champ et un effet bokeh, sommets enneigés et ciel clair passant du bleu au crépuscule en arrière-plan, éclairage dramatique en contre-jour, photographie éditoriale de haute couture, grain de film 35 mm, ultra-réaliste, photoréaliste, 8k
 ```
 
 [↑ Retour aux catégories](#catalog)

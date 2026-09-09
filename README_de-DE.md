@@ -207,20 +207,20 @@ Kinematisch / Filmstill · 3D-Rendering · Charakter · Tier / Kreatur · Veröf
 
 <a name="prompt-2096826123330138410"></a>
 
-### Übersetzung läuft
+### Cinematografische Modeaufnahme einer blonden Frau in einem cremefarbenen Kunstpelzmantel, die weiße Skier auf einem verschneiten alpinen Hang zur goldenen Stunde trägt.
 
 Autor：[@noorlewisx](https://x.com/noorlewisx) · [Originalbeitrag](https://x.com/noorlewisx/status/2096826123330138410)
 
 Kinematisch / Filmstill · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Cinematografische Modeaufnahme einer blonden Frau in einem cremefarbenen Kunstpelzmantel, die weiße Skier auf einem verschneiten alpinen Hang zur goldenen Stunde trägt.
 
 <img src="covers/2096826123330138410.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Cinematografisches Mode-Filmstill, Untersicht einer wunderschönen jungen Frau mit welligem, dunkelblondem Haar und braunen Augen, die zur goldenen Stunde auf einem sonnenbeschienenen, verschneiten alpinen Berghang auf die Kamera zugeht. Sie trägt einen oversized cremefarbenen Kunstpelzmantel über einem weißen gerippten Crop-Top und passenden weißen Shorts, weiße flauschige Skistiefel und weiße Handschuhe. Sie trägt ein Paar schlanke weiße Skier mit schwarzen Bindungen lässig über einer Schulter. Glitzernder kristalliner Schnee im extremen Vordergrund mit geringer Schärfentiefe und Bokeh, schneebedeckte Gipfel und ein klarer Himmel vom Blau zur Dämmerung im Hintergrund, dramatische Kantenbeleuchtung, High-Fashion-Editorial-Fotografie, 35mm-Filmkorn, ultrarealistisch, fotorealistisch, 8k
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

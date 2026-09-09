@@ -193,20 +193,20 @@ Tradução em andamento
 
 <a name="prompt-2096826123330138410"></a>
 
-### Tradução em andamento
+### Foto de moda cinematográfica de uma mulher loira em um casaco de pele sintética creme carregando esquis brancos em uma encosta alpina nevada na hora dourada.
 
 Autor：[@noorlewisx](https://x.com/noorlewisx) · [Publicação original](https://x.com/noorlewisx/status/2096826123330138410)
 
 Cinematográfico / Imagem de Filme · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Foto de moda cinematográfica de uma mulher loira em um casaco de pele sintética creme carregando esquis brancos em uma encosta alpina nevada na hora dourada.
 
 <img src="covers/2096826123330138410.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Fotograma de filme de moda cinematográfico, ângulo baixo de uma linda jovem com cabelos loiro-escuro ondulados e olhos castanhos caminhando em direção à câmera em uma encosta de montanha alpina nevada e ensolarada na hora dourada. Ela veste um casaco oversized de pele sintética creme sobre um cropped canelado branco e shorts brancos combinando, botas de esqui felpudas brancas e luvas brancas. Ela carrega um par de esquis brancos elegantes com fixações pretas apoiados em um ombro. Neve cristalina cintilante em primeiro plano extremo com profundidade de campo rasa e bokeh, picos cobertos de neve e céu limpo variando do azul ao crepúsculo ao fundo, iluminação dramática de contorno, fotografia editorial de alta-costura, granulação de filme 35mm, ultrarrealista, fotorrealista, 8k
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -207,20 +207,20 @@ Traducción en curso
 
 <a name="prompt-2096826123330138410"></a>
 
-### Traducción en curso
+### Toma de moda cinematográfica de una mujer rubia con un abrigo de piel sintética color crema cargando esquís blancos en una ladera alpina nevada en la hora dorada.
 
 Autor：[@noorlewisx](https://x.com/noorlewisx) · [Publicación original](https://x.com/noorlewisx/status/2096826123330138410)
 
 Cine / Fotograma · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Toma de moda cinematográfica de una mujer rubia con un abrigo de piel sintética color crema cargando esquís blancos en una ladera alpina nevada en la hora dorada.
 
 <img src="covers/2096826123330138410.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Fotograma cinematográfico de moda, plano en contrapicado de una hermosa mujer joven con cabello rubio cenizo ondulado y ojos marrones caminando hacia la cámara en la ladera nevada de una montaña alpina iluminada por el sol en la hora dorada. Lleva un abrigo oversize de piel sintética color crema sobre un crop top acanalado blanco y pantalones cortos blancos a juego, botas de esquí blancas y afelpadas y guantes blancos. Lleva un par de elegantes esquís blancos con fijaciones negras colgados sobre un hombro. Nieve cristalina brillante en primer plano extremo con poca profundidad de campo y bokeh, picos cubiertos de nieve y cielo despejado de azul a crepuscular en el fondo, iluminación de borde dramática, fotografía editorial de alta costura, grano de película de 35 mm, ultrarrealista, fotorrealista, 8k
 ```
 
 [↑ Volver a categorías](#catalog)

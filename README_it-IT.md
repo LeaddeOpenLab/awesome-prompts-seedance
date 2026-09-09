@@ -207,20 +207,20 @@ Traduzione in corso
 
 <a name="prompt-2096826123330138410"></a>
 
-### Traduzione in corso
+### Scatto di moda cinematografico di una donna bionda con un cappotto in ecopelliccia color crema che trasporta sci bianchi su un pendio alpino innevato durante l'ora d'oro.
 
 Autore：[@noorlewisx](https://x.com/noorlewisx) · [Post originale](https://x.com/noorlewisx/status/2096826123330138410)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scatto di moda cinematografico di una donna bionda con un cappotto in ecopelliccia color crema che trasporta sci bianchi su un pendio alpino innevato durante l'ora d'oro.
 
 <img src="covers/2096826123330138410.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Fotogramma cinematografico di moda, ripresa dal basso di una bellissima giovane donna con capelli biondo cenere ondulati e occhi marroni che cammina verso la fotocamera su un pendio montano alpino innevato e soleggiato durante l'ora d'oro. Indossa un cappotto oversize in ecopelliccia color crema sopra un crop top bianco a coste e pantaloncini bianchi coordinati, stivali da sci pelosi bianchi e guanti bianchi. Porta un paio di eleganti sci bianchi con attacchi neri a tracolla su una spalla. Neve cristallina scintillante in primissimo piano con profondità di campo ridotta e bokeh, cime innevate e cielo terso dal blu al crepuscolo sullo sfondo, drammatica illuminazione d'effetto (rim lighting), fotografia editoriale di alta moda, grana di pellicola a 35 mm, ultra-realistico, fotorealistico, 8k
 ```
 
 [↑ Torna alle categorie](#catalog)
