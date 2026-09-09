@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**19** Prompts · Dernier ajout: **2026-09-09**
+**20** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2096931238460178592"></a>
+
+### Traduction en cours
+
+Auteur：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Publication originale](https://x.com/SimplyAnnisa/status/2096931238460178592)
+
+Photographie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2096931238460178592.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097181982924984513"></a>
 

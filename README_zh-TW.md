@@ -14,7 +14,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**19** 筆內容 · 最新收錄: **2026-09-09**
+**20** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2096931238460178592"></a>
+
+### 翻譯中
+
+作者：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [查看 X 原帖](https://x.com/SimplyAnnisa/status/2096931238460178592)
+
+攝影 · 角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2096931238460178592.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2097181982924984513"></a>
 
