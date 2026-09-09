@@ -319,20 +319,37 @@ Sequenza cinematografica Wuxia in una foresta autunnale di aceri: due artisti ma
 
 <a name="prompt-2096815972560835061"></a>
 
-### Traduzione in corso
+### Un prompt per un'avventura cinematografica in cartone animato 3D di 30 secondi con due giovani amici che esplorano un villaggio di campagna e scoprono una porta magica nascosta dietro una cascata.
 
 Autore：[@iamrealsnow](https://x.com/iamrealsnow) · [Post originale](https://x.com/iamrealsnow/status/2096815972560835061)
 
 Fermo immagine cinematografico / Still fotografico · Illustrazione · Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt per un'avventura cinematografica in cartone animato 3D di 30 secondi con due giovani amici che esplorano un villaggio di campagna e scoprono una porta magica nascosta dietro una cascata.
 
 <img src="covers/2096815972560835061.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un'affascinante avventura cinematografica in cartone animato 3D di 30 secondi in uno splendido villaggio di campagna, formato orizzontale 16:9.
+
+Scena 1 — 0–5 sec:
+Primo mattino in un piccolo e colorato villaggio circondato da verdi colline, cottage in legno, orti e un fiume scintillante. Due adorabili amici cartone animato originali, un bambino curioso e una bambina intelligente, escono dal loro cottage portando minuscoli zaini da avventura. Uccelli volano in alto e la calda luce del sole riempie il villaggio.
+
+Scena 2 — 5–10 sec:
+I due amici scoprono una vecchia mappa di legno infilata sotto un grande albero. I loro occhi si spalancano per l'emozione. La mappa mostra una misteriosa cascata nel profondo della foresta vicina. Indicano con entusiasmo verso la foresta e iniziano il loro viaggio.
+
+Scena 3 — 10–17 sec:
+Corrono lungo un allegro sentiero del villaggio, attraversano un piccolo ponte di legno, superano amichevoli animali della fattoria ed entrano in una foresta lussureggiante. Farfalle svolazzano attorno a loro mentre la luce del sole filtra tra gli alberi. Le loro espressioni mostrano eccitazione e curiosità.
+
+Scena 4 — 17–24 sec:
+Raggiungono una cascata nascosta circondata da fiori luminosi e gigantesche rocce muschiose. Dietro la cascata scoprono una minuscola e misteriosa porta di legno intagliata nella montagna. Il bambino la apre lentamente mentre la bambina guarda da sopra la sua spalla.
+
+Scena 5 — 24–30 sec:
+Una magica luce dorata risplende dall'interno della soglia, illuminando i loro volti meravigliati. Si guardano, sorridono ed entrano insieme. La telecamera arretra attraverso la foresta, svelando in lontananza il bellissimo villaggio mentre la scena si conclude con la sensazione che stia per iniziare un'avventura ancora più grande.
+
+Stile: animazione 3D in stile cartone animato tenera e di alta qualità, volti espressivi, animazione dei personaggi vivace, colori campestri vibranti, illuminazione cinematografica, morbida luce solare volumetrica, ambienti dettagliati, atmosfera di avventura fiabesca, movimenti fluidi della telecamera, adatto alle famiglie, personaggi originali, nessun personaggio protetto da copyright riconoscibile, nessun testo, nessun logo, 16:9.
 ```
 
 [↑ Torna alle categorie](#catalog)

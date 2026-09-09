@@ -319,20 +319,37 @@ Séquence cinématographique de Wuxia dans une forêt d'érables d'automne : deu
 
 <a name="prompt-2096815972560835061"></a>
 
-### Traduction en cours
+### Un prompt d'aventure cinématique en dessin animé 3D de 30 secondes mettant en scène deux jeunes amis explorant un village de campagne et découvrant une porte magique cachée derrière une cascade.
 
 Auteur：[@iamrealsnow](https://x.com/iamrealsnow) · [Publication originale](https://x.com/iamrealsnow/status/2096815972560835061)
 
 Image cinématographique / Photogramme de film · Illustration · Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt d'aventure cinématique en dessin animé 3D de 30 secondes mettant en scène deux jeunes amis explorant un village de campagne et découvrant une porte magique cachée derrière une cascade.
 
 <img src="covers/2096815972560835061.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une charmante aventure cinématique en dessin animé 3D de 30 secondes dans un magnifique village de campagne, format paysage 16:9.
+
+Scène 1 — 0–5 sec :
+Tôt le matin dans un petit village coloré entouré de collines verdoyantes, de chalets en bois, de potagers et d'une rivière scintillante. Deux adorables amis originaux de dessin animé, un petit garçon curieux et une petite fille intelligente, sortent de leur cottage en portant de minuscules sacs à dos d'aventure. Des oiseaux volent dans le ciel et une chaude lumière de soleil emplit le village.
+
+Scène 2 — 5–10 sec :
+Les deux amis découvrent une vieille carte en bois dissimulée sous un grand arbre. Leurs yeux s'écarquillent d'excitation. La carte indique une mystérieuse cascade au plus profond de la forêt voisine. Ils pointent joyeusement du doigt vers la forêt et commencent leur voyage.
+
+Scène 3 — 10–17 sec :
+Ils courent le long d'un sentier de village joyeux, traversent un petit pont en bois, croisent des animaux de ferme amicaux et pénètrent dans une forêt luxuriante. Des papillons voltigent autour d'eux tandis que la lumière du soleil filtre à travers les arbres. Leurs expressions témoignent d'excitation et de curiosité.
+
+Scène 4 — 17–24 sec :
+Ils atteignent une cascade cachée entourée de fleurs luminescentes et de rochers géants recouverts de mousse. Derrière la cascade, ils découvrent une minuscule porte mystérieuse en bois sculptée dans la montagne. Le garçon l'ouvre lentement tandis que la fille regarde par-dessus son épaule.
+
+Scène 5 — 24–30 sec :
+Une lumière dorée magique brille depuis l'intérieur de l'encadrement de la porte, illuminant leurs visages émerveillés. Ils se regardent, sourient et entrent ensemble. La caméra recule à travers la forêt, révélant au loin le magnifique village alors que la scène se termine sur l'impression qu'une aventure plus grande encore est sur le point de commencer.
+
+Style : dessin animé d'animation 3D mignon et de haute qualité, visages expressifs, animation de personnages enjouée, couleurs champêtres éclatantes, éclairage cinématographique, douce lumière solaire volumétrique, environnements détaillés, atmosphère d'aventure féerique, mouvements de caméra fluides, adapté aux familles, personnages originaux, aucun personnage protégé par des droits d'auteur reconnaissable, pas de texte, pas de logos, 16:9.
 ```
 
 [↑ Retour aux catégories](#catalog)

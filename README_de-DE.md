@@ -319,20 +319,37 @@ Filmische Wuxia-Sequenz in einem herbstlichen Ahornwald: Zwei Kampfkünstler, ei
 
 <a name="prompt-2096815972560835061"></a>
 
-### Übersetzung läuft
+### Ein Prompt für ein 30-sekündiges filmisches 3D-Cartoon-Abenteuer mit zwei jungen Freunden, die ein ländliches Dorf erkunden und eine verborgene magische Tür hinter einem Wasserfall entdecken.
 
 Autor：[@iamrealsnow](https://x.com/iamrealsnow) · [Originalbeitrag](https://x.com/iamrealsnow/status/2096815972560835061)
 
 Kinematisch / Filmstill · Illustration · 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Prompt für ein 30-sekündiges filmisches 3D-Cartoon-Abenteuer mit zwei jungen Freunden, die ein ländliches Dorf erkunden und eine verborgene magische Tür hinter einem Wasserfall entdecken.
 
 <img src="covers/2096815972560835061.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein charmantes 30-sekündiges filmisches 3D-Cartoon-Abenteuer in einem wunderschönen ländlichen Dorf, 16:9 Querformat.
+
+Szene 1 — 0–5 Sek.:
+Früher Morgen in einem farbenfrohen kleinen Dorf, umgeben von grünen Hügeln, Holzhütten, Gemüsegärten und einem glitzernden Fluss. Zwei bezaubernde originale Zeichentrickfreunde, ein neugieriger kleiner Junge und ein kluges kleines Mädchen, treten mit winzigen Abenteuerrucksäcken vor ihre Hütte. Vögel fliegen am Himmel und warmes Sonnenlicht erfüllt das Dorf.
+
+Szene 2 — 5–10 Sek.:
+Die beiden Freunde entdecken eine alte hölzerne Karte, die unter einem großen Baum versteckt ist. Ihre Augen weiten sich vor Aufregung. Die Karte zeigt einen geheimnisvollen Wasserfall tief im nahegelegenen Wald. Sie zeigen aufgeregt in Richtung des Waldes und beginnen ihre Reise.
+
+Szene 3 — 10–17 Sek.:
+Sie rennen einen fröhlichen Dorfweg entlang, überqueren eine kleine Holzbrücke, kommen an freundlichen Nutztieren vorbei und betreten einen üppigen Wald. Schmetterlinge flattern um sie herum, während das Sonnenlicht durch die Bäume fällt. Ihre Gesichter spiegeln Begeisterung und Neugier wider.
+
+Szene 4 — 17–24 Sek.:
+Sie erreichen einen versteckten Wasserfall, der von leuchtenden Blumen und riesigen moosbewachsenen Felsen umgeben ist. Hinter dem Wasserfall entdecken sie eine winzige, geheimnisvolle Holztür, die in den Berg gehauen ist. Der Junge öffnet sie langsam, während das Mädchen über seine Schulter blickt.
+
+Szene 5 — 24–30 Sek.:
+Ein magisches goldenes Licht strahlt aus dem Inneren der Türöffnung und erleuchtet ihre staunenden Gesichter. Sie sehen einander an, lächeln und treten gemeinsam hinein. Die Kamera zieht sich durch den Wald zurück und enthüllt in der Ferne das wunderschöne Dorf, während die Szene mit dem Gefühl endet, dass ein noch größeres Abenteuer bevorsteht.
+
+Stil: niedlicher hochwertiger 3D-Animationsfilm im Cartoon-Stil, ausdrucksstarke Gesichter, verspielte Charakteranimation, lebendige ländliche Farben, filmische Beleuchtung, weiches volumetrisches Sonnenlicht, detaillierte Umgebungen, verspielte Abenteueratmosphäre, sanfte Kamerabewegung, familienfreundlich, originelle Charaktere, keine erkennbaren urheberrechtlich geschützten Charaktere, kein Text, keine Logos, 16:9.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
