@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**10** Prompts · Latest addition: **2026-09-08**
+**11** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097185861259727263"></a>
+
+### Photorealistic prompt for a 30-second Korean seaside travel vlog capturing an evening journey from sunset fish markets and coastal walks to a midnight seawall.
+
+Author：[@nawalsehar](https://x.com/nawalsehar) · [Source](https://x.com/nawalsehar/status/2097185861259727263)
+
+Photography · Landscape / Nature · Published
+
+**Summary:** Photorealistic prompt for a 30-second Korean seaside travel vlog capturing an evening journey from sunset fish markets and coastal walks to a midnight seawall.
+
+<img src="covers/2097185861259727263.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30-second photorealistic live-action Korean seaside travel vlog following a young Korean woman through one evening in a peaceful coastal village. Start at a lively seafood market with fresh seafood, wet floors and sunset light. She checks into a cozy traditional guesthouse, then walks barefoot along the beach as waves reach her feet during golden hour.\n\nTransition into a warm nighttime seafood market where she enjoys freshly grilled seafood and interacts naturally with the surroundings. End at midnight beside a quiet seawall, looking over the dark ocean with distant fishing lights and waves crashing below.\n\nAuthentic 2026 smartphone/cinema-camera vlog style, natural Korean environment, realistic skin, hair, clothing, water, food, smoke, waves and human movement. Handheld camera, natural autofocus, exposure changes and realistic motion blur. English dialogue only, natural environmental audio, no background music or narration. Strong emphasis on believable physics, lighting, fluid motion and spontaneous expressions. No CGI, animation, subtitles, logos or watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097186378861953475"></a>
 

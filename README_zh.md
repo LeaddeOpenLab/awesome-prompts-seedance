@@ -14,7 +14,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**10** 条内容 · 最新收录: **2026-09-08**
+**11** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2097185861259727263"></a>
+
+### 翻译中
+
+作者：[@nawalsehar](https://x.com/nawalsehar) · [查看 X 原帖](https://x.com/nawalsehar/status/2097185861259727263)
+
+摄影 · 风景 / 自然 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2097185861259727263.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097186378861953475"></a>
 
