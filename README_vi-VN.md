@@ -321,20 +321,37 @@ Trường đoạn kiếm hiệp điện ảnh trong rừng phong mùa thu: hai v
 
 <a name="prompt-2096815972560835061"></a>
 
-### Đang dịch
+### Lời nhắc hoạt hình 3D điện ảnh dài 30 giây kể về hai người bạn nhỏ khám phá một ngôi làng nông thôn và phát hiện ra một cánh cửa ma thuật ẩn sau thác nước.
 
 Tác giả：[@iamrealsnow](https://x.com/iamrealsnow) · [Bài gốc](https://x.com/iamrealsnow/status/2096815972560835061)
 
 Điện ảnh / Ảnh tĩnh từ phim · Minh họa · Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc hoạt hình 3D điện ảnh dài 30 giây kể về hai người bạn nhỏ khám phá một ngôi làng nông thôn và phát hiện ra một cánh cửa ma thuật ẩn sau thác nước.
 
 <img src="covers/2096815972560835061.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một chuyến phiêu lưu hoạt hình 3D điện ảnh dài 30 giây đầy quyến rũ tại một ngôi làng nông thôn tuyệt đẹp, tỉ lệ khung hình ngang 16:9.
+
+Cảnh 1 — 0–5 giây:
+Sáng sớm tại một ngôi làng nhỏ đầy màu sắc được bao quanh bởi những ngọn đồi xanh mướt, những ngôi nhà gỗ nhỏ, vườn rau và dòng sông lấp lánh. Hai người bạn hoạt hình nguyên bản đáng yêu, một cậu bé tò mò và một cô bé thông minh, bước ra khỏi ngôi nhà gỗ với những chiếc ba lô phiêu lưu tí hon. Những chú chim bay lượn trên cao và ánh nắng ấm áp tràn ngập ngôi làng.
+
+Cảnh 2 — 5–10 giây:
+Hai người bạn phát hiện một tấm bản đồ bằng gỗ cũ kỹ giấu dưới gốc cây lớn. Mắt họ mở to vì phấn khích. Tấm bản đồ chỉ ra một thác nước bí ẩn sâu bên trong khu rừng gần đó. Họ hào hứng chỉ tay về phía khu rừng và bắt đầu cuộc hành trình.
+
+Cảnh 3 — 10–17 giây:
+Họ chạy dọc theo con đường làng vui vẻ, băng qua một cây cầu gỗ nhỏ, đi ngang qua những con vật nuôi thân thiện trong nông trại, và bước vào một khu rừng tươi tốt. Những cánh bướm dập dờn bay quanh họ trong khi ánh nắng xuyên qua tán cây. Nét mặt của họ thể hiện sự phấn khích và tò mò.
+
+Cảnh 4 — 17–24 giây:
+Họ đến một thác nước ẩn mình được bao quanh bởi những bông hoa phát sáng và những tảng đá khổng lồ phủ đầy rêu. Phía sau thác nước, họ phát hiện một cánh cửa gỗ bí ẩn tí hon được khắc vào vách núi. Cậu bé từ từ mở nó ra trong khi cô bé nhìn qua vai cậu.
+
+Cảnh 5 — 24–30 giây:
+Một luồng ánh sáng vàng kỳ diệu tỏa ra từ bên trong ngưỡng cửa, chiếu sáng gương mặt kinh ngạc của họ. Họ nhìn nhau, mỉm cười và cùng nhau bước vào bên trong. Máy quay lùi dần qua khu rừng, để lộ ngôi làng xinh đẹp ở đằng xa khi khung cảnh khép lại với cảm giác về một cuộc phiêu lưu lớn hơn sắp sửa bắt đầu.
+
+Phong cách: phim hoạt hình 3D chất lượng cao đáng yêu, khuôn mặt biểu cảm, hoạt họa nhân vật tinh nghịch, màu sắc nông thôn rực rỡ, ánh sáng điện ảnh, ánh nắng thể tích dịu nhẹ, môi trường chi tiết, bầu không khí phiêu lưu kỳ thú, chuyển động máy quay mượt mà, thân thiện với gia đình, nhân vật nguyên bản, không có nhân vật có bản quyền dễ nhận biết, không có văn bản, không có logo, 16:9.
 ```
 
 [↑ Về danh mục](#catalog)

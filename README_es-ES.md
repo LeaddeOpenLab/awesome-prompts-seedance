@@ -319,20 +319,37 @@ Secuencia cinematográfica de Wuxia en un bosque de arces otoñales: dos artista
 
 <a name="prompt-2096815972560835061"></a>
 
-### Traducción en curso
+### Un prompt de aventura de dibujos animados en 3D cinematográfica de 30 segundos que presenta a dos jóvenes amigos explorando un pueblo rural y descubriendo una puerta mágica oculta detrás de una cascada.
 
 Autor：[@iamrealsnow](https://x.com/iamrealsnow) · [Publicación original](https://x.com/iamrealsnow/status/2096815972560835061)
 
 Cine / Fotograma de película · Ilustración · Render 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt de aventura de dibujos animados en 3D cinematográfica de 30 segundos que presenta a dos jóvenes amigos explorando un pueblo rural y descubriendo una puerta mágica oculta detrás de una cascada.
 
 <img src="covers/2096815972560835061.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una encantadora aventura de dibujos animados en 3D cinematográfica de 30 segundos en un hermoso pueblo rural, paisaje 16:9.
+
+Escena 1 — 0–5 s:
+Temprano por la mañana en un pequeño y colorido pueblo rodeado de colinas verdes, cabañas de madera, huertos y un río resplandeciente. Dos adorables amigos de dibujos animados originales, un niño curioso y una niña inteligente, salen de su cabaña con diminutas mochilas de aventura. Los pájaros vuelan por encima y la cálida luz del sol llena el pueblo.
+
+Escena 2 — 5–10 s:
+Los dos amigos descubren un viejo mapa de madera escondido debajo de un gran árbol. Sus ojos se abren de par en par con emoción. El mapa muestra una misteriosa cascada en lo profundo del bosque cercano. Señalan emocionados hacia el bosque y comienzan su viaje.
+
+Escena 3 — 10–17 s:
+Corren por un alegre sendero del pueblo, cruzan un pequeño puente de madera, pasan junto a simpáticos animales de granja y se adentran en un bosque frondoso. Las mariposas revolotean a su alrededor mientras los rayos de sol se filtran a través de los árboles. Sus expresiones muestran entusiasmo y curiosidad.
+
+Escena 4 — 17–24 s:
+Llegan a una cascada oculta rodeada de flores brillantes y rocas gigantes cubiertas de musgo. Detrás de la cascada descubren una diminuta y misteriosa puerta de madera tallada en la montaña. El niño la abre lentamente mientras la niña mira por encima de su hombro.
+
+Escena 5 — 24–30 s:
+Una mágica luz dorada brilla desde el interior del umbral, iluminando sus rostros asombrados. Se miran, sonríen y entran juntos. La cámara retrocede a través del bosque, revelando el hermoso pueblo en la distancia mientras la escena termina con la sensación de que una aventura aún mayor está a punto de comenzar.
+
+Estilo: animación de dibujos animados en 3D tierna y de alta calidad, rostros expresivos, animación de personajes juguetona, colores campestres vibrantes, iluminación cinematográfica, suave luz solar volumétrica, entornos detallados, atmósfera de aventura fantástica, movimiento de cámara fluido, apto para toda la familia, personajes originales, sin personajes protegidos por derechos de autor reconocibles, sin texto, sin logotipos, 16:9.
 ```
 
 [↑ Volver a categorías](#catalog)
