@@ -30,20 +30,51 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2096930655615758734"></a>
 
-### Tradução em curso
+### Prompt de vídeo UGC ultrarrealista de 30 segundos: Jovem mulher coreana no quarto a filmar um vlog diário segurando a câmara, a mostrar a câmara que acabou de comprar e a conversar naturalmente.
 
 Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Publicação original](https://x.com/AIwithkhan/status/2096930655615758734)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo UGC ultrarrealista de 30 segundos: Jovem mulher coreana no quarto a filmar um vlog diário segurando a câmara, a mostrar a câmara que acabou de comprar e a conversar naturalmente.
 
 <img src="covers/2096930655615758734.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo UGC ultrarrealista de 30 segundos em 1080p de uma jovem mulher coreana no seu próprio quarto, a conversar casualmente com a câmara sobre a nova câmara que comprou recentemente.
+ASSUNTO PRINCIPAL
+Jovem mulher coreana com cerca de 20 anos, naturalmente bonita, textura de pele realista, maquilhagem mínima, cabelo preto ondulado apanhado frouxamente num rabo-de-cavalo lateral desalinhado com algumas mechas soltas em redor do rosto. A vestir uma camisola curta justa em azul-pastel, calças largas estilo pijama em tom creme e um colar de prata simples.
+Mantenha a sua identidade facial exata, penteado, roupa, proporções corporais e aparência geral consistentes ao longo de todo o vídeo.
+CENÁRIO
+O seu próprio quarto acolhedor num apartamento coreano vulgar numa manhã quente de segunda-feira. Está sentada confortavelmente na sua cama com roupa de cama branca ligeiramente amarrotada, uma almofada atrás de si, uma pequena mesinha de cabeceira, alguns objetos pessoais do quotidiano e luz solar suave e natural a entrar pela janela.
+O quarto deve parecer vivido e autêntico, não encenado ou luxuoso.
+ESTILO UGC
+Ela própria segura a câmara ou esta está casualmente apoiada na cama à sua frente. O enquadramento é ligeiramente imperfeito, com movimento natural de câmara à mão, pequenos ajustes de focagem automática e mudanças ocasionais de exposição.
+O vídeo deve parecer um vlog pessoal genuíno gravado para os seus seguidores, não um anúncio publicitário cuidado.
+AÇÃO / DIÁLOGO
+Ela senta-se de pernas cruzadas na cama, olha para a lente e sorri.
+Ela diz naturalmente:
+“Okay, I finally got this camera I’ve been talking about.”
+Ela ri-se suavemente e pega na câmara para a mostrar brevemente.
+“I’ve only had it for like two days, but I already bring it everywhere.”
+Ela pousa-a novamente e encosta-se à almofada.
+“I wanted something that feels a little more personal than just using my phone.”
+Ela olha em redor do quarto e, em seguida, volta a olhar para a lente.
+“The footage has this old-school look that I really love. It kind of feels like I’m recording memories instead of just posting videos.”
+Ela sorri e coloca uma mecha de cabelo solta atrás da orelha.
+Perto do fim, olha de relance para o relógio, ri-se e diz:
+“Anyway, it’s Monday, I should probably get out of bed.”
+Ela estende a mão em direção à câmara como se fosse parar de gravar, a sorrir naturalmente, e o vídeo é interrompido a meio do movimento.
+CÂMARA / APARÊNCIA VISUAL
+UGC autêntico com uma sensação subtil inspirada no formato DV do início dos anos 2000: detalhe digital suave, ruído de imagem ligeiro, ligeira procura de focagem automática, textura de pele natural e luz matinal quente. Sem iluminação dramática ou movimentos de câmara cinematográficos.
+ÁUDIO
+Apenas a ambiência natural do quarto, a voz dela, o movimento subtil dos tecidos, sons distantes da vizinhança e um ligeiro ruído de manuseamento da câmara. Sem música, sem narração.
+SENSAÇÃO FINAL
+Conteúdo descontraído de criadora de estilo de vida coreana. Quente, feminino, íntimo e credível, como um vlog casual de segunda-feira de manhã filmado no seu próprio quarto.
+NEGATIVO
+Sem representação comercial, sem iluminação perfeita de estúdio, sem poses encenadas de influenciador, sem desvio de identidade, sem mudanças de roupa, sem mãos distorcidas, sem dedos a mais, sem legendas, logótipos, marcas de água ou artefactos de IA.
 ```
 
 [↑ Voltar às categorias](#catalog)

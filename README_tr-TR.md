@@ -30,20 +30,51 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2096930655615758734"></a>
 
-### Çeviri sürüyor
+### 30 saniyelik ultra gerçekçi UGC video istemi: Genç Koreli kadın yatak odasında kamerayı elde tutarak günlük vlog çekiyor, yeni aldığı kamerayı gösteriyor ve doğal bir şekilde konuşuyor.
 
 Yazar：[@AIwithkhan](https://x.com/AIwithkhan) · [Orijinal gönderi](https://x.com/AIwithkhan/status/2096930655615758734)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 30 saniyelik ultra gerçekçi UGC video istemi: Genç Koreli kadın yatak odasında kamerayı elde tutarak günlük vlog çekiyor, yeni aldığı kamerayı gösteriyor ve doğal bir şekilde konuşuyor.
 
 <img src="covers/2096930655615758734.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kendi yatak odasında, yakın zamanda satın aldığı yeni kamera hakkında kameraya samimi bir şekilde konuşan genç bir Koreli kadının 30 saniyelik, 1080p ultra gerçekçi bir UGC videosunu oluşturun.
+ANA ÖZNE
+20'li yaşlarının başında genç Koreli kadın, doğal olarak güzel, gerçekçi cilt dokusu, hafif makyaj, yüzünün etrafında birkaç serbest tutam olan, gevşekçe bağlanmış dağınık yandan at kuyruğu şeklinde dalgalı siyah saçlar. Üzerinde vücuda oturan pastel mavi kısa bir üst, krem rengi dökümlü pijama tarzı pantolon ve sade gümüş bir kolye var.
+Tam yüz kimliğini, saç stilini, kıyafetini, vücut hatlarını ve genel görünümünü tüm video boyunca tutarlı bir şekilde koruyun.
+MEKÂN
+Ilık bir pazartesi sabahında normal bir Kore dairesinde bulunan kendi sıcak ve samimi yatak odası. Arkasında bir yastık, küçük bir komodin, birkaç günlük kişisel eşya ve pencereden giren yumuşak doğal güneş ışığıyla, hafifçe kırışmış beyaz nevresimli yatağında rahatça oturuyor.
+Oda sahnelenmiş veya lüks değil, içinde yaşanmış ve özgün hissettirmelidir.
+UGC TARZI
+Kamerayı kendisi tutuyor veya kamera önündeki yatağa rastgele yaslanmış durumda. Çerçeveleme, doğal el hareketleri, küçük otomatik odaklama ayarlamaları ve ara sıra değişen pozlama ile hafifçe kusurludur.
+Video, parlatılmış bir reklam gibi değil, takipçileri için kaydedilmiş samimi, kişisel bir vlog gibi hissettirmelidir.
+HAREKET / DİYALOG
+Yatakta bağdaş kurup oturur, lense bakar ve gülümser.
+Doğal bir şekilde şöyle der:
+“Okay, I finally got this camera I’ve been talking about.”
+Hafifçe güler ve kısa bir süre göstermek için kamerayı eline alır.
+“I’ve only had it for like two days, but I already bring it everywhere.”
+Kamerayı tekrar yerine koyar ve yastığa yaslanır.
+“I wanted something that feels a little more personal than just using my phone.”
+Odasının etrafına bakar, ardından tekrar lense döner.
+“The footage has this old-school look that I really love. It kind of feels like I’m recording memories instead of just posting videos.”
+Gülümser ve açıkta kalan bir saç tutamını kulağının arkasına sıkıştırır.
+Sona doğru saate bir göz atar, güler ve şöyle der:
+“Anyway, it’s Monday, I should probably get out of bed.”
+Doğal bir şekilde gülümseyerek kaydı durdurmak istercesine kameraya doğru uzanır ve video hareketin ortasında kesilir.
+KAMERA / GÖRSEL GÖRÜNÜM
+2000'lerin başındaki DV tarzından ilham alan ince bir dokunuşa sahip özgün UGC: yumuşak dijital ayrıntılar, hafif görüntü gürültüsü, hafif otomatik odaklama araması, doğal cilt dokusu ve sıcak sabah ışığı. Dramatik ışıklandırma veya sinematik kamera hareketleri yok.
+SES
+Yalnızca doğal yatak odası ortam sesi, onun sesi, ince kumaş hareketleri, uzaktan gelen mahalle sesleri ve hafif kamera tutma gürültüsü. Müzik yok, dış ses yok.
+SON HİS
+Rahat bir Koreli yaşam tarzı içerik üreticisi videosu. Kendi odasında çekilmiş sıradan bir pazartesi sabahı vlog'u gibi sıcak, feminen, samimi ve inandırıcı.
+NEGATİF
+Ticari reklam oyunculuğu yok, kusursuz stüdyo aydınlatması yok, kurgulanmış influencer pozları yok, kimlik kayması yok, kıyafet değişikliği yok, bozuk eller yok, fazla parmaklar yok, altyazı, logo, filigran veya yapay zekâ kusurları yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
