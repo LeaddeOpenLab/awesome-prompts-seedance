@@ -83,20 +83,104 @@ Không diễn xuất thương mại, không ánh sáng studio hoàn hảo, khôn
 
 <a name="prompt-2096931238460178592"></a>
 
-### Đang dịch
+### Tạo một video gia đình dạng DV đầu những năm 2000, thời lượng 30 giây, độ phân giải 1080p, tỷ lệ 16:9 siêu thực tế về một phụ nữ trẻ Hàn Quốc trải qua một buổi tối mùa hè bình thường nhưng đáng nhớ tại một khu phố cổ ở Seoul, bao gồm các hành động theo dòng thời gian chi tiết, lỗi máy quay cầm tay và âm thanh môi trường.
 
 Tác giả：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Bài gốc](https://x.com/SimplyAnnisa/status/2096931238460178592)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một video gia đình dạng DV đầu những năm 2000, thời lượng 30 giây, độ phân giải 1080p, tỷ lệ 16:9 siêu thực tế về một phụ nữ trẻ Hàn Quốc trải qua một buổi tối mùa hè bình thường nhưng đáng nhớ tại một khu phố cổ ở Seoul, bao gồm các hành động theo dòng thời gian chi tiết, lỗi máy quay cầm tay và âm thanh môi trường.
 
 <img src="covers/2096931238460178592.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video gia đình dạng DV đầu những năm 2000, thời lượng 30 giây, độ phân giải 1080p, tỷ lệ 16:9 siêu thực tế về một phụ nữ trẻ Hàn Quốc trải qua một buổi tối mùa hè bình thường nhưng đáng nhớ bất ngờ tại một khu phố cổ ở Seoul.
+
+Một phụ nữ Hàn Quốc xinh đẹp tự nhiên ở độ tuổi đầu 20, làn da chân thực, trang điểm tối giản, mái tóc đen dài hơi gợn sóng, áo dệt kim màu xanh nhạt, quần dài màu kem ống rộng, giày thể thao trắng, túi đeo chéo màu nâu và đồng hồ bạc. Giữ cho danh tính, khuôn mặt, trang phục, kiểu tóc và tỷ lệ cơ thể của cô ấy luôn nhất quán hoàn hảo.
+
+BỐI CẢNH
+
+Một con phố dân cư cũ kỹ yên tĩnh ở Seoul với những con ngõ bê tông, các tòa nhà chung cư, chậu cây, xe đạp, cột điện, cây cối rậm rạp và một cửa hàng tiện lợi nhỏ trong khu phố. Đậm chất đời thường và chân thực. Không có nhãn hiệu, logo, quảng cáo hoặc địa điểm du lịch.
+
+PHONG CÁCH MÁY QUAY
+
+Cảnh quay thô từ máy quay DV giá rẻ đầu những năm 2000: chuyển động cầm tay rung lắc, căn khung chưa hoàn hảo, hiện tượng giật nét tự động (autofocus hunting), thay đổi độ phơi sáng, màu sắc phai nhạt, chi tiết mờ nhẹ, nhiễu băng từ nhẹ, các cú zoom vô tình và những lỗi máy quay tự nhiên. Không chống rung hoặc góc quay điện ảnh.
+
+00:00–00:06 — ĐIỀU BÍ ẨN
+
+Cô ấy đi bộ trên phố, tay cầm một chiếc túi nhựa nhỏ thì đột nhiên nghe thấy một tiếng leng keng nhỏ phía sau.
+
+Cô ấy dừng lại và nhìn xung quanh.
+
+Máy quay phóng nhanh về phía khuôn mặt bối rối của cô ấy.
+
+Cô ấy nói:
+
+“Did you hear that?”
+
+00:06–00:12 — PHÁT HIỆN NHỎ
+
+Cô ấy đi theo âm thanh và tìm thấy một chiếc xe đạp cũ nhỏ với chiếc chuông tí hon hơi bị kẹt mở.
+
+Cô ấy gõ nhẹ vào chuông.
+
+Kính coong.
+
+Cô ấy nhìn vào máy quay và bật cười.
+
+Sau đó cô ấy nhận thấy một thẻ giấy nhỏ trông như viết tay treo trên xe đạp, nhưng chữ viết quá mờ để có thể đọc được.
+
+00:12–00:18 — CƠN GIÓ
+
+Một cơn gió bất ngờ thổi vài chiếc lá khô bay qua phố.
+
+Một chiếc lá rơi trúng đầu cô ấy.
+
+Cô ấy không nhận ra.
+
+Người quay phim bật cười.
+
+Cô ấy bối rối, sau đó nhận ra và gỡ chiếc lá xuống.
+
+Cô ấy nhìn máy quay bằng ánh mắt ngại ngùng.
+
+00:18–00:24 — THỬ THÁCH NHỎ
+
+Cô ấy đặt chiếc lá lên yên xe đạp và cố gắng giữ thăng bằng cho nó ở đó.
+
+Gió lập tức thổi bay chiếc lá đi.
+
+Cô ấy thử lại.
+
+Nó lại rơi xuống.
+
+Cô ấy bật cười và cuối cùng bỏ cuộc.
+
+00:24–00:30 — KỶ NIỆM
+
+Cô ấy nhặt chiếc lá lên, cất vào chiếc túi nhỏ của mình và bắt đầu đi bộ về nhà.
+
+Sau vài bước chân, cô ấy quay về phía máy quay và nói:
+
+“Okay, that was pointless.”
+
+Cô ấy mỉm cười và tiếp tục bước đi.
+
+Máy quay dõi theo cô ấy vài giây trước khi đột ngột chuyển sang màn hình đen.
+
+ÂM THANH
+
+Chỉ có âm thanh thực tế tại hiện trường: tiếng bước chân, tiếng xe cộ xa xa, tiếng chuông xe đạp, tiếng côn trùng mùa hè, tiếng lá cây, tiếng gió, không gian âm thanh xung quanh khu phố và tiếng cười tự nhiên.
+
+Không có âm nhạc, lời tường thuật, phụ đề, chú thích, logo, watermark hoặc văn bản trên màn hình.
+
+ĐỘ CHÂN THỰC
+
+Phản ứng tự nhiên của con người, nhịp thời gian không hoàn hảo, vật lý thực tế, đồ vật nhất quán, chi tiết khu phố Hàn Quốc chân thực và các khuyết điểm của máy quay DV đáng tin cậy. Không có vẻ ngoài CGI, bàn tay biến dạng, thừa ngón tay, người bị nhân bản, trôi dạt danh tính hoặc thay đổi trang phục.
+
+Tỷ lệ khung hình 16:9.
 ```
 
 [↑ Về danh mục](#catalog)
