@@ -731,20 +731,21 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 <a name="prompt-2096903888813330826"></a>
 
-### Đang dịch
+### Lời nhắc video ASMR phong cách quảng cáo giới thiệu quá trình nấu nướng, làn nước súp trào ra và cách trình bày món sinh tiên bao giòn rụm.
 
 Tác giả：[@Lianaalane](https://x.com/Lianaalane) · [Bài gốc](https://x.com/Lianaalane/status/2096903888813330826)
 
 Tiếp thị sản phẩm · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video ASMR phong cách quảng cáo giới thiệu quá trình nấu nướng, làn nước súp trào ra và cách trình bày món sinh tiên bao giòn rụm.
 
 <img src="covers/2096903888813330826.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video ẩm thực 15 giây đậm chất điện ảnh, siêu thực theo đúng phong cách quảng cáo bóng bẩy, cực kỳ chi tiết của các thước phim ASMR ẩm thực đường phố cao cấp châu Á, với ánh sáng dịu nhẹ ấm áp, những giọt nước súp rơi chậm, làn khói nghi ngút và các góc quay cận cảnh đầy kích thích vị giác.
+Đôi đũa gỗ từ từ gắp một chiếc bánh sinh tiên bao tròn trịa, trắng mịn từ chiếc chảo sắt đen, bên trên rắc mè đen và hành lá, lớp vỏ bánh bóng loáng dưới ánh đèn ấm áp. Chiếc bánh bao được xé ra trong chuyển động chậm đầy kịch tính khi làn nước súp vàng óng đậm đà cùng nhân thịt băm mọng nước trào ra, dòng xốt hổ phách sánh mịn kéo dài thành những sợi bóng bẩy tuôn xuống trong khi làn hơi nước trắng dày đặc cuộn xoáy bay lên. Góc quay siêu cận cảnh vào phần nhân thịt thơm ngon như viên thịt khi dòng chất lỏng vàng óng liên tục nhỏ giọt xuống chiếc thìa sứ trắng, tạo thành những giọt nước nặng trĩu hoàn hảo. Góc máy toàn cảnh chiếc chảo gang xếp đầy những chiếc bánh bao sống được tạo nếp gấp hoàn hảo trên bếp gas khi nước trong được đổ vào, ngay lập tức tạo nên những đám mây hơi nước dày đặc. Các khung hình cận cảnh cho thấy phần đáy bánh giòn tan thành lớp vỏ màu vàng như ren trong khi chiếc xẻng kim loại lật chúng lại, để lộ những mép bánh giòn rụm màu caramel. Những chiếc bánh bao chín được xếp trên đĩa hoa văn xanh trắng, một chiếc được cắn mở để lộ phần thịt màu hồng hấp dẫn đang bốc khói cùng nước xốt, đũa gắp chấm vào chén nước chấm xì dầu mè đen đậm màu. Cảnh quay toàn cảnh cuối cùng về chiếc đĩa bốc khói dưới ánh đèn treo ấm áp trên chiếc bàn gỗ trong gian bếp ấm cúng ban đêm, làn hơi nước nhẹ nhàng bốc lên bên khung cửa sổ tối phản chiếu ánh đèn thành phố xa xa.
 ```
 
 [↑ Về danh mục](#catalog)
