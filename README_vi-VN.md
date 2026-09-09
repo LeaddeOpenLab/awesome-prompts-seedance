@@ -302,20 +302,40 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2097502400961761425"></a>
 
-### Đang dịch
+### Cảnh hoạt hình điện ảnh 3D về một bé trai mới biết đi và một chú rồng con màu trắng ngọc trai đang chơi đùa trong một thung lũng hoa nhiệt đới.
 
 Tác giả：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Bài gốc](https://x.com/Zarnab_with_Ai/status/2097502400961761425)
 
 Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Nhân vật · Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh hoạt hình điện ảnh 3D về một bé trai mới biết đi và một chú rồng con màu trắng ngọc trai đang chơi đùa trong một thung lũng hoa nhiệt đới.
 
 <img src="covers/2097502400961761425.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một khung cảnh giả tưởng hoạt hình 3D chất lượng cao theo phong cách điện ảnh đầy màu sắc.
+
+Một bé trai mới biết đi dễ thương với mái tóc đen rối và bộ trang phục bằng vải màu be đơn giản đang ngồi chơi giữa một cánh đồng hoa tuyệt đẹp bên cạnh một chú rồng con thân thiện. Chú rồng to lớn, đáng yêu, có màu trắng ngọc trai với những điểm nhấn màu xanh lam nhạt, sừng nhỏ, đôi mắt màu xanh lam sáng đầy biểu cảm, những chiếc vảy mềm như lông vũ quanh đầu và cổ, cùng một chiếc đuôi dài thanh lịch.
+
+Khung cảnh diễn ra trong một thung lũng nhiệt đới huyền diệu được bao quanh bởi những ngọn núi xanh tươi tốt, làn nước màu ngọc bích trong vắt, cây cối nhiệt đới và bầu trời xanh sáng với những đám mây trắng mềm mại.
+
+Bắt đầu bằng một cảnh cận cảnh chú rồng con đang ngủ yên bình giữa những bông hoa màu đỏ hồng rực rỡ trong khi cậu bé ngồi gần đó. Chú rồng từ từ mở mắt, tò mò nhìn quanh và làm một nét mặt vui tươi dễ thương.
+
+Chuyển sang một cảnh quay rộng hơn, nơi chú rồng và đứa trẻ được bao quanh bởi một cánh đồng hoa màu xanh lam tuyệt đẹp gần mép nước. Chú rồng tinh nghịch lăn ngửa qua những bông hoa trong khi đứa trẻ quan sát và cười lớn.
+
+Hiển thị một cảnh quay toàn cảnh trên không đậm chất điện ảnh hé lộ cảnh quan tuyệt đẹp tựa như hòn đảo, những cánh đồng hoa, cây nhiệt đới, núi non và làn nước màu ngọc bích. Những chú chim nhỏ đầy màu sắc bay lượn và nhảy nhót quanh một cái cây gần đó trong khi đứa trẻ và chú rồng chơi đùa cùng nhau bên dưới.
+
+Sau đó quay lại cảnh cận cảnh đứa trẻ ngồi trên lưng rồng. Chú rồng làm những nét mặt hài hước, tinh nghịch khi đứa trẻ cười hạnh phúc.
+
+Kết thúc bằng cảnh đứa trẻ và chú rồng đáng yêu nằm yên bình bên nhau trên một đồng cỏ hoa khổng lồ đầy màu sắc, mỉm cười và tận hưởng khoảnh khắc kỳ diệu.
+
+Sử dụng hoạt ảnh nhân vật mượt mà, cảm xúc khuôn mặt đầy biểu cảm, chuyển động cơ thể tự nhiên, chuyển cảnh máy quay đậm chất điện ảnh, độ sâu trường ảnh nông, ánh sáng thể tích mềm mại, màu sắc rực rỡ, chi tiết kết cấu 3D, bầu không khí kỳ diệu thân thiện với gia đình, chất lượng phim hoạt hình trau chuốt và tông màu ấm áp làm tan chảy trái tim.
+
+Không có văn bản, không có phụ đề, không có hình mờ.
+Tỷ lệ khung hình: 16:9.
+Thời lượng: khoảng 15 giây.
 ```
 
 [↑ Về danh mục](#catalog)
