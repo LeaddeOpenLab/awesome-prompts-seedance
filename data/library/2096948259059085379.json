@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T02:29:01.970Z",
+  "model": "seedance2.5",
+  "prompt": "Cinematic Wuxia sequence in an autumn maple forest: two martial artists, a female warrior in flowing pink-and-white silk Hanfu and a male warrior in blue robes, face off on wet mossy river rocks as golden sunbeams pierce mist and red maple leaves fall. She leaps into the air, draws her steel Jian, and glides toward him in dramatic slow motion before their blades clash with a burst of glowing sparks. She lands gracefully, splashing water around her, while a black sumi-e ink-wash effect spreads across the frame. End with a perfectly symmetrical wide shot of both warriors holding swords above their heads in synchronized guard stance, framed by red maples and radiant backlight, with hyper-detailed textures, cinematic 24fps motion, and atmospheric volumetric lighting.",
+  "promptTranslations": {
+    "en": "Cinematic Wuxia sequence in an autumn maple forest: two martial artists, a female warrior in flowing pink-and-white silk Hanfu and a male warrior in blue robes, face off on wet mossy river rocks as golden sunbeams pierce mist and red maple leaves fall. She leaps into the air, draws her steel Jian, and glides toward him in dramatic slow motion before their blades clash with a burst of glowing sparks. She lands gracefully, splashing water around her, while a black sumi-e ink-wash effect spreads across the frame. End with a perfectly symmetrical wide shot of both warriors holding swords above their heads in synchronized guard stance, framed by red maples and radiant backlight, with hyper-detailed textures, cinematic 24fps motion, and atmospheric volumetric lighting."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic Wuxia martial arts duel in an autumn maple forest with slow-motion swordplay, ink-wash visuals, and volumetric lighting."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic Wuxia martial arts duel in an autumn maple forest with slow-motion swordplay, ink-wash visuals, and volumetric lighting.",
+  "summaryEn": "Cinematic Wuxia martial arts duel in an autumn maple forest with slow-motion swordplay, ink-wash visuals, and volumetric lighting.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096948259059085379",
+    "canonicalUrl": "https://x.com/aiwithlumi/status/2096948259059085379",
+    "author": {
+      "username": "aiwithlumi",
+      "displayName": "lumiAI",
+      "profileUrl": "https://x.com/aiwithlumi"
+    },
+    "publishedAt": "2026-09-07T13:06:39.000Z",
+    "collectedAt": "2026-09-08T11:32:47.871Z",
+    "language": "en",
+    "originalText": "Seedance 2.5\n\nPrompt:\nCinematic Wuxia sequence in an autumn maple forest: two martial artists, a female warrior in flowing pink-and-white silk Hanfu and a male warrior in blue robes, face off on wet mossy river rocks as golden sunbeams pierce mist and red maple leaves fall. She leaps into the air, draws her steel Jian, and glides toward him in dramatic slow motion before their blades clash with a burst of glowing sparks. She lands gracefully, splashing water around her, while a black sumi-e ink-wash effect spreads across the frame. End with a perfectly symmetrical wide shot of both warriors holding swords above their heads in synchronized guard stance, framed by red maples and radiant backlight, with hyper-detailed textures, cinematic 24fps motion, and atmospheric volumetric lighting.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/aiwithlumi/status/2096948259059085379",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096948087067693056/img/L7TFhyOyxuafKfdt.jpg",
+        "analysisUrl": "https://x.com/aiwithlumi/status/2096948259059085379"
+      }
+    ],
+    "metrics": {
+      "likeCount": 64,
+      "repostCount": 6,
+      "replyCount": 35,
+      "quoteCount": 0,
+      "viewCount": 1450
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\",\"nano banana\"]"
+    ]
+  },
+  "xUrl": "https://x.com/aiwithlumi/status/2096948259059085379",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096948087067693056/img/L7TFhyOyxuafKfdt.jpg",
+  "coverPath": "covers/2096948259059085379.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2096948087067693056",
+    "x-post:2096948259059085379"
+  ],
+  "analysis": {
+    "summary": "Cinematic Wuxia martial arts duel in an autumn maple forest with slow-motion swordplay, ink-wash visuals, and volumetric lighting.",
+    "summaryEn": "Cinematic Wuxia martial arts duel in an autumn maple forest with slow-motion swordplay, ink-wash visuals, and volumetric lighting.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Cinematic Wuxia sequence in an autumn maple forest: two martial artists, a female warrior in flowing pink-and-white silk Hanfu and a male warrior in blue robes, face off on wet mossy river rocks as golden sunbeams pierce mist and red maple leaves fall. She leaps into the air, draws her steel Jian, and glides toward him in dramatic slow motion before their blades clash with a burst of glowing sparks. She lands gracefully, splashing water around her, while a black sumi-e ink-wash effect spreads across the frame. End with a perfectly symmetrical wide shot of both warriors holding swords above their heads in synchronized guard stance, framed by red maples and radiant backlight, with hyper-detailed textures, cinematic 24fps motion, and atmospheric volumetric lighting.",
+    "sourceRange": {
+      "start": 22,
+      "end": 795
+    },
+    "translations": {
+      "zh": "秋季枫树林中的电影感武侠片段：两位武术家，一位身穿飘逸粉白丝绸汉服的女武士和一位身着蓝袍的男武士，在潮湿且布满苔藓的河石上对峙，金色阳光穿透薄雾，红枫叶纷飞飘落。她腾空跃起，拔出钢剑，以戏剧性的慢动作滑向他，随后双剑相击迸发出炫目的火花。她轻盈落地，周身水花四溅，同时黑色水墨晕染特效席卷整个画面。结尾定格在极具对称感的全景镜头：两名武者在红枫与璀璨背光的环绕下，动作一致地将剑举过头顶保持防守姿态，具备极致细节纹理、电影级24fps动态效果与大气体积光照明。",
+      "en": "Cinematic Wuxia sequence in an autumn maple forest: two martial artists, a female warrior in flowing pink-and-white silk Hanfu and a male warrior in blue robes, face off on wet mossy river rocks as golden sunbeams pierce mist and red maple leaves fall. She leaps into the air, draws her steel Jian, and glides toward him in dramatic slow motion before their blades clash with a burst of glowing sparks. She lands gracefully, splashing water around her, while a black sumi-e ink-wash effect spreads across the frame. End with a perfectly symmetrical wide shot of both warriors holding swords above their heads in synchronized guard stance, framed by red maples and radiant backlight, with hyper-detailed textures, cinematic 24fps motion, and atmospheric volumetric lighting."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
