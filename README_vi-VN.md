@@ -869,20 +869,20 @@ Tạo một video ẩm thực 15 giây đậm chất điện ảnh, siêu thực
 
 <a name="prompt-2097194787564658942"></a>
 
-### Đang dịch
+### Quảng cáo trang sức xa xỉ dài 30 giây làm nổi bật màn mở hộp trong phòng ngủ ban mai và bộ đá quý màu xanh lấp lánh.
 
 Tác giả：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Bài gốc](https://x.com/ayzalnooor24521/status/2097194787564658942)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Quảng cáo trang sức xa xỉ dài 30 giây làm nổi bật màn mở hộp trong phòng ngủ ban mai và bộ đá quý màu xanh lấp lánh.
 
 <img src="covers/2097194787564658942.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video quảng cáo trang sức cao cấp mang phong cách điện ảnh dài 30 giây theo phong cách ấm áp và thanh lịch. Video mở đầu bằng một phòng ngủ được bài trí đẹp mắt, ánh nắng ban mai dịu nhẹ, và một hộp quà trang sức cao cấp đặt trên bàn gỗ. Một người phụ nữ nhẹ nhàng cầm lấy chiếc hộp thanh lịch, tạo nên khoảnh khắc mở hộp tinh tế và đầy cảm xúc. Máy quay chuyển sang các góc cận cảnh mang tính điện ảnh quay khuôn mặt và bàn tay cô khi hé lộ món trang sức. Mặt dây chuyền đá quý màu xanh lam lấp lánh được thể hiện trong các cảnh quay macro chi tiết với ánh sáng vàng dịu nhẹ. Cô đeo chiếc vòng cổ một cách duyên dáng, làm nổi bật thiết kế thanh lịch và vẻ sáng bóng sang trọng. Cảnh quay tiếp tục với khoảnh khắc buổi sáng yên bình bên cửa sổ, tay cầm chiếc tách dưới ánh nắng ấm áp. Các góc quay cận cảnh ghi lại hình ảnh mặt dây chuyền lấp lánh tự nhiên trên làn da cô với bóng đổ và sự phản chiếu chân thực. Video kết thúc với chiếc hộp trang sức cao cấp trưng bày trọn bộ trang sức đồng bộ. Ánh sáng điện ảnh dịu nhẹ, tông màu vàng ấm áp, thẩm mỹ quảng cáo thương mại xa xỉ, chuyển động máy quay mượt mà, độ sâu trường ảnh nông, chi tiết chân thực như ảnh chụp, định dạng dọc 9:16.
 ```
 
 [↑ Về danh mục](#catalog)
