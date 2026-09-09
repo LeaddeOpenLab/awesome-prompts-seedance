@@ -305,20 +305,37 @@ Sequência cinematográfica de Wuxia numa floresta de áceres no outono: dois ar
 
 <a name="prompt-2096815972560835061"></a>
 
-### Tradução em curso
+### Um prompt para uma aventura cinematográfica em desenho animado 3D de 30 segundos com dois jovens amigos a explorar uma aldeia campestre e a descobrir uma porta mágica escondida atrás de uma cascata.
 
 Autor：[@iamrealsnow](https://x.com/iamrealsnow) · [Publicação original](https://x.com/iamrealsnow/status/2096815972560835061)
 
 Cena de Cinema / Fotograma · Ilustração · Renderização 3D · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um prompt para uma aventura cinematográfica em desenho animado 3D de 30 segundos com dois jovens amigos a explorar uma aldeia campestre e a descobrir uma porta mágica escondida atrás de uma cascata.
 
 <img src="covers/2096815972560835061.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma encantadora aventura cinematográfica em desenho animado 3D de 30 segundos numa bela aldeia campestre, paisagem 16:9.
+
+Cena 1 — 0–5 seg:
+Início da manhã numa pequena aldeia colorida rodeada por colinas verdes, chalés de madeira, hortas e um rio cintilante. Dois adoráveis amigos originais de desenho animado, um rapazinho curioso e uma rapariguinha esperta, saem do seu chalé a carregar pequenas mochilas de aventura. Pássaros voam no alto e a luz solar quente preenche a aldeia.
+
+Cena 2 — 5–10 seg:
+Os dois amigos descobrem um velho mapa de madeira escondido sob uma grande árvore. Os seus olhos arregalam-se de entusiasmo. O mapa mostra uma cascata misteriosa nas profundezas da floresta vizinha. Eles apontam entusiasmados em direção à floresta e iniciam a sua jornada.
+
+Cena 3 — 10–17 seg:
+Eles correm ao longo de um alegre caminho da aldeia, atravessam uma pequena ponte de madeira, passam por animais simpáticos da quinta e entram numa floresta luxuriante. Borboletas esvoaçam ao seu redor enquanto raios de sol atravessam as árvores. As suas expressões revelam entusiasmo e curiosidade.
+
+Cena 4 — 17–24 seg:
+Eles chegam a uma cascata escondida cercada por flores brilhantes e rochas gigantes cobertas de musgo. Atrás da cascata, descobrem uma pequena porta de madeira misteriosa esculpida na montanha. O rapaz abre-a lentamente enquanto a rapariga espreita por cima do seu ombro.
+
+Cena 5 — 24–30 seg:
+Uma luz dourada mágica brilha do interior da abertura, iluminando os seus rostos maravilhados. Olham um para o outro, sorriem e entram juntos. A câmara recua pela floresta, revelando a bela aldeia ao longe enquanto a cena termina com a sensação de que uma aventura maior está prestes a começar.
+
+Estilo: desenho animado 3D fofo de alta qualidade, rostos expressivos, animação lúdica de personagens, cores campestres vibrantes, iluminação cinematográfica, luz solar volumétrica suave, ambientes detalhados, atmosfera de aventura caprichosa, movimento de câmara suave, para toda a família, personagens originais, sem personagens protegidos por direitos de autor reconhecíveis, sem texto, sem logótipos, 16:9.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -305,20 +305,37 @@ Sonbahar akçaağaç ormanında sinematik Wuxia sekansı: dökümlü pembe-beyaz
 
 <a name="prompt-2096815972560835061"></a>
 
-### Çeviri sürüyor
+### Kırsal bir köyü keşfeden ve bir şelalenin arkasındaki gizli sihirli bir kapıyı keşfeden iki genç arkadaşın yer aldığı 30 saniyelik sinematik 3D çizgi film macera istemi.
 
 Yazar：[@iamrealsnow](https://x.com/iamrealsnow) · [Orijinal gönderi](https://x.com/iamrealsnow/status/2096815972560835061)
 
 Sinematik / Film Karesi · İllüstrasyon · 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kırsal bir köyü keşfeden ve bir şelalenin arkasındaki gizli sihirli bir kapıyı keşfeden iki genç arkadaşın yer aldığı 30 saniyelik sinematik 3D çizgi film macera istemi.
 
 <img src="covers/2096815972560835061.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Güzel bir kırsal köyde geçen, 16:9 manzara formatında, 30 saniyelik büyüleyici ve sinematik bir 3D çizgi film macerası oluşturun.
+
+Sahne 1 — 0–5 sn:
+Yeşil tepeler, ahşap kulübeler, sebze bahçeleri ve pırıl pırıl bir nehirle çevrili rengarenk küçük bir köyde sabahın erken saatleri. İki sevimli özgün çizgi film arkadaşı, meraklı küçük bir erkek çocuğu ve zeki küçük bir kız çocuğu, küçük macera sırt çantalarını takmış bir şekilde kulübelerinden dışarı adım atar. Gökyüzünde kuşlar uçar ve sıcak güneş ışığı köyü doldurur.
+
+Sahne 2 — 5–10 sn:
+İki arkadaş büyük bir ağacın altına sıkıştırılmış eski ahşap bir harita keşfeder. Heyecandan gözleri faltaşı gibi açılır. Harita, yakındaki ormanın derinliklerinde bulunan gizemli bir şelaleyi göstermektedir. Heyecanla ormana doğru işaret ederler ve yolculuklarına başlarlar.
+
+Sahne 3 — 10–17 sn:
+Neşeli bir köy patikasında koşarlar, küçük ahşap bir köprüden geçerler, sevimli çiftlik hayvanlarının yanından geçip gür bir ormana girerler. Güneş ışığı ağaçların arasından süzülürken etraflarında kelebekler uçuşur. Yüz ifadeleri heyecan ve merak doludur.
+
+Sahne 4 — 17–24 sn:
+Parlayan çiçekler ve dev yosunlu kayalarla çevrili gizli bir şelaleye ulaşırlar. Şelalenin arkasında, dağa oyulmuş küçük ve gizemli ahşap bir kapı keşfederler. Kız çocuğu omzunun üzerinden bakarken, erkek çocuğu kapıyı yavaşça açar.
+
+Sahne 5 — 24–30 sn:
+Kapının içinden sihirli altın bir ışık parlar ve onların hayranlık dolu yüzlerini aydınlatır. Birbirlerine bakıp gülümserler ve içeriye birlikte adım atarlar. Kamera ormanın içinden geriye doğru çekilir, uzaktaki güzel köyü gözler önüne serer ve sahne, daha büyük bir maceranın başlamak üzere olduğu hissiyle sona erer.
+
+Tarz: sevimli, yüksek kaliteli 3D animasyon çizgi film, etkileyici yüzler, oyuncu karakter animasyonu, canlı kırsal renkler, sinematik aydınlatma, yumuşak hacimsel güneş ışığı, ayrıntılı ortamlar, masalsı macera atmosferi, akıcı kamera hareketi, aile dostu, özgün karakterler, telif hakkıyla korunan tanınabilir karakterler yok, metin yok, logo yok, 16:9.
 ```
 
 [↑ Kategorilere dön](#catalog)

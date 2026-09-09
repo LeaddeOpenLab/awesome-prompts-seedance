@@ -305,20 +305,37 @@ Sequência cinematográfica de Wuxia em uma floresta de bordos no outono: dois a
 
 <a name="prompt-2096815972560835061"></a>
 
-### Tradução em andamento
+### Um prompt para uma aventura cinematográfica em desenho animado 3D de 30 segundos apresentando dois jovens amigos explorando uma vila no campo e descobrindo uma porta mágica escondida atrás de uma cachoeira.
 
 Autor：[@iamrealsnow](https://x.com/iamrealsnow) · [Publicação original](https://x.com/iamrealsnow/status/2096815972560835061)
 
 Cinematográfico / Imagem de Filme · Ilustração · Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um prompt para uma aventura cinematográfica em desenho animado 3D de 30 segundos apresentando dois jovens amigos explorando uma vila no campo e descobrindo uma porta mágica escondida atrás de uma cachoeira.
 
 <img src="covers/2096815972560835061.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma charmosa aventura cinematográfica em desenho animado 3D de 30 segundos em uma bela vila no campo, paisagem 16:9.
+
+Cena 1 — 0–5 seg:
+Início da manhã em uma pequena vila colorida cercada por colinas verdes, chalés de madeira, hortas e um rio cintilante. Dois adoráveis amigos originais de desenho animado, um garotinho curioso e uma garotinha esperta, saem de seu chalé carregando pequenas mochilas de aventura. Pássaros voam no alto e a luz do sol quente preenche a vila.
+
+Cena 2 — 5–10 seg:
+Os dois amigos descobrem um velho mapa de madeira escondido sob uma grande árvore. Seus olhos se arregalam de empolgação. O mapa mostra uma cachoeira misteriosa nas profundezas da floresta próxima. Eles apontam entusiasmados em direção à floresta e começam sua jornada.
+
+Cena 3 — 10–17 seg:
+Eles correm por um alegre caminho da vila, atravessam uma pequena ponte de madeira, passam por animais dóceis da fazenda e entram em uma floresta exuberante. Borboletas voam ao redor deles enquanto os raios de sol atravessam as árvores. Suas expressões mostram empolgação e curiosidade.
+
+Cena 4 — 17–24 seg:
+Eles chegam a uma cachoeira escondida cercada por flores brilhantes e pedras gigantes cobertas de musgo. Atrás da cachoeira, eles descobrem uma pequena porta de madeira misteriosa esculpida na montanha. O menino a abre lentamente enquanto a menina olha por cima do ombro dele.
+
+Cena 5 — 24–30 seg:
+Uma luz dourada mágica brilha de dentro da entrada, iluminando seus rostos maravilhados. Eles se olham, sorriem e entram juntos. A câmera se afasta pela floresta, revelando a bela vila ao longe enquanto a cena termina com a sensação de que uma aventura maior está prestes a começar.
+
+Estilo: desenho animado 3D fofo de alta qualidade, rostos expressivos, animação lúdica de personagens, cores vibrantes do campo, iluminação cinematográfica, luz solar volumétrica suave, ambientes detalhados, atmosfera de aventura fantasiosa, movimento de câmera suave, adequado para toda a família, personagens originais, sem personagens protegidos por direitos autorais reconhecíveis, sem texto, sem logotipos, 16:9.
 ```
 
 [↑ Voltar às categorias](#catalog)
