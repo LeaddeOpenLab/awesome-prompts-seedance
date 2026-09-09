@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:43:39.060Z",
+  "model": "seedance2.5",
+  "prompt": "Create a hyper-realistic cinematic 15-second food video in the exact glossy ultra-detailed commercial style of premium Asian street-food ASMR films, with creamy soft lighting, slow-motion juice drips, rising steam and mouth-watering close-ups.  \nWooden chopsticks slowly lift a plump white shengjianbao from a black iron pan, black sesame seeds and green onion on top, dough shining under warm light. The bao is torn open in dramatic slow motion as thick golden broth and juicy minced meat filling burst out, sticky amber sauce stretching and cascading downward in long glossy strands while dense white steam swirls upward. Extreme close-up of the savory meatball-like filling as golden liquid continuously drips into a white ceramic spoon, forming perfect heavy droplets. Wide shot of a cast-iron skillet packed with perfectly pleated raw baozi on a gas stove as clear water is poured in, instantly creating thick clouds of steam. Tight shots show the bottoms crisping into golden lace-like crusts while a metal spatula flips them, revealing caramelized crunchy edges. Finished baozi stacked on a blue-and-white plate, one bitten open to reveal steaming pinkish meat and sauce, chopsticks dipping it into dark soy-sesame dipping sauce. Final wide shot of the steaming plate under a warm hanging lamp on a wooden table in a cozy night kitchen, soft steam rising against a dark window with distant city lights.",
+  "promptTranslations": {
+    "en": "Create a hyper-realistic cinematic 15-second food video in the exact glossy ultra-detailed commercial style of premium Asian street-food ASMR films, with creamy soft lighting, slow-motion juice drips, rising steam and mouth-watering close-ups. \\nWooden chopsticks slowly lift a plump white shengjianbao from a black iron pan, black sesame seeds and green onion on top, dough shining under warm light. The bao is torn open in dramatic slow motion as thick golden broth and juicy minced meat filling burst out, sticky amber sauce stretching and cascading downward in long glossy strands while dense white steam swirls upward. Extreme close-up of the savory meatball-like filling as golden liquid continuously drips into a white ceramic spoon, forming perfect heavy droplets. Wide shot of a cast-iron skillet packed with perfectly pleated raw baozi on a gas stove as clear water is poured in, instantly creating thick clouds of steam. Tight shots show the bottoms crisping into golden lace-like crusts while a metal spatula flips them, revealing caramelized crunchy edges. Finished baozi stacked on a blue-and-white plate, one bitten open to reveal steaming pinkish meat and sauce, chopsticks dipping it into dark soy-sesame dipping sauce. Final wide shot of the steaming plate under a warm hanging lamp on a wooden table in a cozy night kitchen, soft steam rising against a dark window with distant city lights."
+  },
+  "summaryTranslations": {
+    "en": "Commercial-style ASMR video prompt showcasing the cooking, bursting broth, and presentation of crispy shengjianbao."
+  },
+  "translationVersion": 2,
+  "summary": "Commercial-style ASMR video prompt showcasing the cooking, bursting broth, and presentation of crispy shengjianbao.",
+  "summaryEn": "Commercial-style ASMR video prompt showcasing the cooking, bursting broth, and presentation of crispy shengjianbao.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096903888813330826",
+    "canonicalUrl": "https://x.com/Lianaalane/status/2096903888813330826",
+    "author": {
+      "username": "Lianaalane",
+      "displayName": "liana",
+      "profileUrl": "https://x.com/Lianaalane"
+    },
+    "publishedAt": "2026-09-07T10:10:20.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "en",
+    "originalText": "Crispy on the outside, juicy on the inside.\nEvery bite is packed with rich flavors, golden broth, and irresistible textures.\n\nCreated on seedance 2.5\n\nPrompt: \n\nCreate a hyper-realistic cinematic 15-second food video in the exact glossy ultra-detailed commercial style of premium Asian street-food ASMR films, with creamy soft lighting, slow-motion juice drips, rising steam and mouth-watering close-ups.  \nWooden chopsticks slowly lift a plump white shengjianbao from a black iron pan, black sesame seeds and green onion on top, dough shining under warm light. The bao is torn open in dramatic slow motion as thick golden broth and juicy minced meat filling burst out, sticky amber sauce stretching and cascading downward in long glossy strands while dense white steam swirls upward. Extreme close-up of the savory meatball-like filling as golden liquid continuously drips into a white ceramic spoon, forming perfect heavy droplets. Wide shot of a cast-iron skillet packed with perfectly pleated raw baozi on a gas stove as clear water is poured in, instantly creating thick clouds of steam. Tight shots show the bottoms crisping into golden lace-like crusts while a metal spatula flips them, revealing caramelized crunchy edges. Finished baozi stacked on a blue-and-white plate, one bitten open to reveal steaming pinkish meat and sauce, chopsticks dipping it into dark soy-sesame dipping sauce. Final wide shot of the steaming plate under a warm hanging lamp on a wooden table in a cozy night kitchen, soft steam rising against a dark window with distant city lights.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Lianaalane/status/2096903888813330826",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096903839370928128/img/RLabFK1IAGt5PN-3.jpg",
+        "analysisUrl": "https://x.com/Lianaalane/status/2096903888813330826"
+      }
+    ],
+    "metrics": {
+      "likeCount": 174,
+      "repostCount": 13,
+      "replyCount": 65,
+      "quoteCount": 1,
+      "viewCount": 9819
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Lianaalane/status/2096903888813330826",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096903839370928128/img/RLabFK1IAGt5PN-3.jpg",
+  "coverPath": "covers/2096903888813330826.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2096903839370928128",
+    "x-post:2096903888813330826"
+  ],
+  "analysis": {
+    "summary": "Commercial-style ASMR video prompt showcasing the cooking, bursting broth, and presentation of crispy shengjianbao.",
+    "summaryEn": "Commercial-style ASMR video prompt showcasing the cooking, bursting broth, and presentation of crispy shengjianbao.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video sequentially reproduces the prompt scenes: lifting bao with chopsticks, slow-motion broth burst into a spoon, pouring water into the skillet, flipping crispy bottoms, dipping in sauce, and the final night-kitchen plate shot."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a hyper-realistic cinematic 15-second food video in the exact glossy ultra-detailed commercial style of premium Asian street-food ASMR films, with creamy soft lighting, slow-motion juice drips, rising steam and mouth-watering close-ups.  \nWooden chopsticks slowly lift a plump white shengjianbao from a black iron pan, black sesame seeds and green onion on top, dough shining under warm light. The bao is torn open in dramatic slow motion as thick golden broth and juicy minced meat filling burst out, sticky amber sauce stretching and cascading downward in long glossy strands while dense white steam swirls upward. Extreme close-up of the savory meatball-like filling as golden liquid continuously drips into a white ceramic spoon, forming perfect heavy droplets. Wide shot of a cast-iron skillet packed with perfectly pleated raw baozi on a gas stove as clear water is poured in, instantly creating thick clouds of steam. Tight shots show the bottoms crisping into golden lace-like crusts while a metal spatula flips them, revealing caramelized crunchy edges. Finished baozi stacked on a blue-and-white plate, one bitten open to reveal steaming pinkish meat and sauce, chopsticks dipping it into dark soy-sesame dipping sauce. Final wide shot of the steaming plate under a warm hanging lamp on a wooden table in a cozy night kitchen, soft steam rising against a dark window with distant city lights.",
+    "sourceRange": {
+      "start": 161,
+      "end": 1570
+    },
+    "translations": {
+      "zh": "制作一段超逼真、电影质感的15秒美食视频，采用高端亚洲街头美食ASMR短片的高光泽、超细腻商业风格，配有柔和奶感光效、慢动作汤汁滴落、升腾的蒸汽和令人垂涎的特写。\n木筷缓缓从黑色铁锅中夹起一只饱满白皙的生煎包，上面撒有黑芝麻和葱花，面皮在暖光下泛着光泽。生煎包在戏剧性的慢动作中被撕开，浓稠的金黄色肉汁与多汁的肉馅爆出，粘稠的琥珀色酱汁拉丝如瀑布般垂落，浓厚的白气盘旋上升。极近特写展现肉丸状的馅料，金色汤汁源源不断滴入白瓷汤匙，凝成沉甸甸的完美水滴。远景展示燃气灶上的铸铁平底锅摆满捏褶工整的生煎生胚，注入清水瞬间激起浓烈水汽。特写镜头呈现底部煎至金黄蕾丝状脆皮，金属铲将其翻起，露出焦香酥脆的边缘。煎好的生煎包码在青花瓷盘中，其中一个咬开露出冒着热气的粉嫩肉馅和酱汁，筷子夹着蘸入深色芝麻酱油中。最后的远景是温馨夜间厨房木桌上的热气瓷盘，置于暖色吊灯下，柔和白气在映衬着远处城市灯火的暗色窗前升腾。",
+      "en": "Create a hyper-realistic cinematic 15-second food video in the exact glossy ultra-detailed commercial style of premium Asian street-food ASMR films, with creamy soft lighting, slow-motion juice drips, rising steam and mouth-watering close-ups.  \nWooden chopsticks slowly lift a plump white shengjianbao from a black iron pan, black sesame seeds and green onion on top, dough shining under warm light. The bao is torn open in dramatic slow motion as thick golden broth and juicy minced meat filling burst out, sticky amber sauce stretching and cascading downward in long glossy strands while dense white steam swirls upward. Extreme close-up of the savory meatball-like filling as golden liquid continuously drips into a white ceramic spoon, forming perfect heavy droplets. Wide shot of a cast-iron skillet packed with perfectly pleated raw baozi on a gas stove as clear water is poured in, instantly creating thick clouds of steam. Tight shots show the bottoms crisping into golden lace-like crusts while a metal spatula flips them, revealing caramelized crunchy edges. Finished baozi stacked on a blue-and-white plate, one bitten open to reveal steaming pinkish meat and sauce, chopsticks dipping it into dark soy-sesame dipping sauce. Final wide shot of the steaming plate under a warm hanging lamp on a wooden table in a cozy night kitchen, soft steam rising against a dark window with distant city lights."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "commercial advertising",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
