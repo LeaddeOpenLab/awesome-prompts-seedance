@@ -74,20 +74,20 @@ Tradução em andamento
 
 <a name="prompt-2097181982924984513"></a>
 
-### Tradução em andamento
+### Mulher indonésia autêntica em uma estética de vídeo caseiro de filmadora DV do início dos anos 2000 com marcações de tempo cronológicas detalhadas das cenas em um bairro tranquilo.
 
 Autor：[@QAiStudio](https://x.com/QAiStudio) · [Publicação original](https://x.com/QAiStudio/status/2097181982924984513)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Mulher indonésia autêntica em uma estética de vídeo caseiro de filmadora DV do início dos anos 2000 com marcações de tempo cronológicas detalhadas das cenas em um bairro tranquilo.
 
 <img src="covers/2097181982924984513.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Mulher indonésia autêntica, estética de vídeo caseiro indonésio do início dos anos 2000. Preservar seu rosto exato, identidade, penteado, traços faciais, tom de pele, proporções corporais, pelos naturais nas axilas, cropped sem mangas verde-oliva desbotado, jeans azul-claro solto de cintura alta, tênis de lona pretos, colar de cordão preto, cabelo preto ondulado, franja lateral, rabo de cavalo preso e desarrumado. Bairro residencial indonésio comum e tranquilo: beco estreito de concreto, casas simples de um andar, pequenos terraços, muretas baixas, vasos de plantas, motocicletas estacionadas, árvores grandes, cabos aéreos emaranhados. Sem lojas ou atividade comercial. 00:00–00:03: Ela se senta no chão de um terraço rabiscando em um caderno; a câmera na mão paira de cima/de lado. 00:03–00:07: Ela bate a caneta no queixo, sorri levemente e continua a desenhar; a câmera vagueia entre seu rosto e suas mãos. 00:07–00:10: Ela se deita em uma esteira observando formigas rastejando pelo concreto. 00:10–00:13: Ela cutuca suavemente perto das formigas e ri baixinho. 00:13–00:17: Ela caminha até uma mureta baixa, pula para cima e balança as pernas. 00:17–00:20: Ela come salgadinhos casualmente enquanto olha para a rua tranquila. 00:20–00:24: Ela se senta nos degraus com uma toalha nos ombros, cabelos úmidos, penteando-os lentamente. 00:24–00:27: Plano aproximado na mão dela penteando o cabelo molhado, gotas de água visíveis. 00:27–00:30: Ela termina, joga o cabelo úmido para trás, olha para a câmera e sorri naturalmente. Corte abrupto para preto. Realismo extremamente cru de filmadora DV na mão: movimento intenso, microtremores, enquadramento acidental, composição descentralizada, corte ocasional do rosto, busca de foco automático, flutuações de exposição, desfoque de movimento, rolling shutter, cores desbotadas/dessaturadas, ruído digital e artefatos de compressão. Sem poses, estabilização, visual cinematográfico, estilo comercial de moda, gradação moderna ou música. Apenas ambiente matinal natural: pássaros, brisa, motocicletas distantes, conversas da vizinhança, papel riscando, pacote de salgadinhos, folhas, pente. 16:9.
 ```
 
 [↑ Voltar às categorias](#catalog)

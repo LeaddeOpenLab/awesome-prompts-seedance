@@ -74,20 +74,34 @@ Nhiếp ảnh · Nhân vật · Đã xuất bản
 
 <a name="prompt-2097181982924984513"></a>
 
-### Đang dịch
+### Người phụ nữ Indonesia đích thực trong thẩm mỹ video gia đình quay bằng máy quay DV đầu những năm 2000 với các mốc thời gian chi tiết theo trình tự trong một khu phố yên tĩnh.
 
 Tác giả：[@QAiStudio](https://x.com/QAiStudio) · [Bài gốc](https://x.com/QAiStudio/status/2097181982924984513)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Người phụ nữ Indonesia đích thực trong thẩm mỹ video gia đình quay bằng máy quay DV đầu những năm 2000 với các mốc thời gian chi tiết theo trình tự trong một khu phố yên tĩnh.
 
 <img src="covers/2097181982924984513.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Người phụ nữ Indonesia đích thực, thẩm mỹ video gia đình Indonesia đầu những năm 2000. Giữ nguyên chính xác khuôn mặt, danh tính, kiểu tóc, đường nét khuôn mặt, tông màu da, tỷ lệ cơ thể, lông nách tự nhiên, áo crop top không tay màu xanh ô liu phai màu, quần jeans ống rộng cạp cao màu xanh nhạt, giày thể thao vải canvas màu đen, vòng cổ dây đen, tóc gợn sóng màu đen, tóc mái lệch, buộc đuôi ngựa rối.
+
+Khu dân cư Indonesia yên tĩnh bình thường: con hẻm bê tông hẹp, những ngôi nhà một tầng đơn sơ, hiên nhà nhỏ, tường thấp, cây cảnh trong chậu, xe máy đỗ, cây lớn, dây điện chằng chịt trên cao. Không có hàng quán hay hoạt động thương mại.
+
+00:00–00:03: Cô ấy ngồi trên sàn hiên nhà vẽ nguệch ngoạc vào một cuốn sổ; máy quay cầm tay lơ lửng từ phía trên/bên cạnh.
+00:03–00:07: Cô ấy gõ bút vào cằm, mỉm cười nhẹ rồi tiếp tục vẽ; máy quay di chuyển qua lại giữa khuôn mặt và bàn tay cô.
+00:07–00:10: Cô ấy nằm trên chiếu quan sát đàn kiến bò dọc theo nền bê tông.
+00:10–00:13: Cô ấy nhẹ nhàng chọc nhẹ gần lũ kiến và cười khẽ.
+00:13–00:17: Cô ấy đi đến một bức tường thấp, nhảy lên và đung đưa chân.
+00:17–00:20: Cô ấy thong thả ăn khoai tây chiên trong khi nhìn ra con đường yên tĩnh.
+00:20–00:24: Cô ấy ngồi trên bậc thang với chiếc khăn quàng qua vai, mái tóc ẩm ướt, từ từ chải tóc.
+00:24–00:27: Cảnh quay cận cảnh cầm tay khi cô ấy đang chải mái tóc ướt, có thể nhìn thấy những giọt nước.
+00:27–00:30: Cô ấy chải xong, hất mái tóc ẩm ra sau, nhìn về phía máy quay và mỉm cười tự nhiên. Đột ngột chuyển sang màn hình đen.
+
+Chân thực tột cùng kiểu máy quay DV cầm tay thô ráp: chuyển động mạnh, rung lắc nhẹ, bố cục vô tình, lệch tâm, thỉnh thoảng bị cắt xén khuôn mặt, lấy nét tự động bị giật đảo, biến động phơi sáng, nhòe chuyển động, màn trập lăn (rolling shutter), màu sắc phai/giảm bão hòa, nhiễu hạt kỹ thuật số và các vệt nén nén hình ảnh. Không tạo dáng, không chống rung, không phong cách điện ảnh, không tạo hình kiểu quảng cáo thời trang, không chỉnh màu hiện đại, không âm nhạc. Chỉ có âm thanh môi trường buổi sáng tự nhiên: tiếng chim, gió nhẹ, tiếng xe máy xa xa, tiếng trò chuyện trong xóm, tiếng cọ giấy, gói khoai tây chiên, lá cây, tiếng lược chải. 16:9.
 ```
 
 [↑ Về danh mục](#catalog)

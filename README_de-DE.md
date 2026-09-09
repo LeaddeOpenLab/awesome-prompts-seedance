@@ -74,20 +74,34 @@ Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2097181982924984513"></a>
 
-### Übersetzung läuft
+### Authentische indonesische Frau in der Ästhetik eines DV-Camcorder-Heimvideos der frühen 2000er Jahre mit detaillierten chronologischen Szenen-Zeitstempeln in einer ruhigen Nachbarschaft.
 
 Autor：[@QAiStudio](https://x.com/QAiStudio) · [Originalbeitrag](https://x.com/QAiStudio/status/2097181982924984513)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Authentische indonesische Frau in der Ästhetik eines DV-Camcorder-Heimvideos der frühen 2000er Jahre mit detaillierten chronologischen Szenen-Zeitstempeln in einer ruhigen Nachbarschaft.
 
 <img src="covers/2097181982924984513.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Authentische indonesische Frau, Ästhetik eines indonesischen Heimvideos der frühen 2000er Jahre. Ihr exaktes Gesicht, ihre Identität, Frisur, Gesichtszüge, ihr Hautton, ihre Körperproportionen, natürliche Achselbehaarung, verblasstes ärmelloses bauchfreies Top in Olivgrün, weite hellblaue High-Waist-Jeans, schwarze Canvas-Sneaker, schwarze Kordelkette, schwarzes welliges Haar, schräger Pony, unordentlich gebundener Pferdeschwanz beibehalten.
+
+Gewöhnliches, ruhiges indonesisches Wohnviertel: schmale Betongasse, einfache einstöckige Häuser, kleine Terrassen, niedrige Mauern, Topfpflanzen, geparkte Motorräder, große Bäume, verwickelte Freileitungen. Keine Geschäfte oder kommerzielle Aktivitäten.
+
+00:00–00:03: Sie sitzt auf einem Terrassenboden und kritzelt in ein Notizbuch; die Handkamera schwebt von oben/von der Seite.
+00:03–00:07: Sie tippt mit dem Stift an ihr Kinn, lächelt leicht und zeichnet dann weiter; die Kamera wandert zwischen ihrem Gesicht und ihren Händen hin und her.
+00:07–00:10: Sie liegt auf einer Matte und beobachtet Ameisen, die über den Beton krabbeln.
+00:10–00:13: Sie tippt sanft neben die Ameisen und lacht leise.
+00:13–00:17: Sie geht zu einer niedrigen Mauer, springt hinauf und lässt die Beine baumeln.
+00:17–00:20: Sie isst beiläufig Chips, während sie auf die ruhige Straße blickt.
+00:20–00:24: Sie sitzt mit einem Handtuch um die Schultern und feuchtem Haar auf den Stufen und kämmt es langsam.
+00:24–00:27: Nahaufnahme aus der Hand, wie sie das nasse Haar kämmt, Wassertropfen sind sichtbar.
+00:27–00:30: Sie ist fertig, wirft ihr feuchtes Haar nach hinten, blickt in die Kamera und lächelt natürlich. Abrupter Schnitt zu Schwarz.
+
+Extrem roher DV-Camcorder-Realismus aus der Hand: starke Bewegung, Mikrowackler, zufälliger Bildausschnitt, dezentrierte Bildkomposition, gelegentliches Abschneiden des Gesichts, Autofokus-Pumpen, Belichtungsschwankungen, Bewegungsunschärfe, Rolling-Shutter-Effekt, verblasste/entsättigte Farben, digitales Rauschen und Kompressionsartefakte. Kein Posieren, keine Stabilisierung, kein filmischer Look, kein modisch-kommerzielles Styling, kein modernes Color-Grading oder Musik. Nur natürliche Morgenatmosphäre: Vögel, Brise, ferne Motorräder, Geplauder in der Nachbarschaft, Kratzen auf Papier, Chipstüte, Blätter, Kamm. 16:9.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

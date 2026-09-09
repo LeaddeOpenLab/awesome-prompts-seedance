@@ -74,20 +74,20 @@ Fotoğrafçılık · Karakter · Yayımlandı
 
 <a name="prompt-2097181982924984513"></a>
 
-### Çeviri sürüyor
+### Sessiz bir mahallede, ayrıntılı kronolojik sahne zaman damgalarıyla 2000'lerin başı DV video kamerası ev videosu estetiğinde otantik Endonezyalı kadın.
 
 Yazar：[@QAiStudio](https://x.com/QAiStudio) · [Orijinal gönderi](https://x.com/QAiStudio/status/2097181982924984513)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sessiz bir mahallede, ayrıntılı kronolojik sahne zaman damgalarıyla 2000'lerin başı DV video kamerası ev videosu estetiğinde otantik Endonezyalı kadın.
 
 <img src="covers/2097181982924984513.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Otantik Endonezyalı kadın, 2000'lerin başı Endonezya ev videosu estetiği. Birebir yüzünü, kimliğini, saç stilini, yüz hatlarını, ten rengini, vücut hatlarını, doğal koltuk altı tüylerini, soluk zeytin yeşili kolsuz crop top'ını, bol yüksek bel açık mavi kot pantolonunu, siyah bez spor ayakkabılarını, siyah kordon kolyesini, dalgalı siyah saçlarını, yana taranmış kâküllerini, dağınık toplanmış at kuyruğunu koruyun. Sıradan sessiz Endonezya yerleşim mahallesi: dar beton ara sokak, basit tek katlı evler, küçük teraslar, alçak duvarlar, saksı bitkileri, park edilmiş motosikletler, büyük ağaçlar, birbirine dolanmış havai kablolar. Dükkân veya ticari faaliyet yok. 00:00–00:03: Teras zemininde oturmuş bir deftere karalamalar yapıyor; el kamerası yukarıdan/yandan süzülüyor. 00:03–00:07: Kalemi çenesine vuruyor, hafifçe gülümsüyor, ardından çizmeye devam ediyor; kamera yüzü ile elleri arasında geziniyor. 00:07–00:10: Betonda sürünen karıncaları izleyerek bir hasırın üzerine uzanıyor. 00:10–00:13: Karıncaların yakınına hafifçe dokunuyor ve sessizce gülüyor. 00:13–00:17: Alçak bir duvara doğru yürüyor, üzerine zıplıyor ve bacaklarını sallıyor. 00:17–00:20: Sessiz sokağa bakarken rahatça cips yiyor. 00:20–00:24: Omuzlarında bir havlu, nemli saçlarıyla basamaklarda oturuyor, yavaşça tarıyor. 00:24–00:27: Islak saçlarını tararken yakın el kamerası çekimi, su damlacıkları görünür durumda. 00:27–00:30: Bitiriyor, nemli saçlarını arkaya atıyor, kameraya bakıyor ve doğal bir şekilde gülümsüyor. Siyaha ani kesme. Son derece ham el DV kamerası gerçekçiliği: yoğun hareket, mikro titremeler, kazara yapılan çerçevelemeler, merkez dışı kompozisyon, ara sıra yüzün kadraj dışı kalması, otomatik odaklama arayışı, pozlama dalgalanmaları, hareket bulanıklığı, rolling shutter, soluk/doygunluğu azaltılmış renkler, dijital parazit ve sıkıştırma artefaktları. Poz verme, sabitleme, sinematik görünüm, moda-reklam tasarımı, modern renk derecelendirmesi veya müzik yok. Yalnızca doğal sabah ambiyansı: kuşlar, esinti, uzaktaki motosikletler, mahalle konuşmaları, kâğıt çizimi, cips paketi, yapraklar, tarak. 16:9.
 ```
 
 [↑ Kategorilere dön](#catalog)

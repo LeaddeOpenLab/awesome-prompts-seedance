@@ -74,20 +74,20 @@ Tradução em curso
 
 <a name="prompt-2097181982924984513"></a>
 
-### Tradução em curso
+### Mulher indonésia autêntica numa estética de vídeo caseiro de câmara de vídeo DV do início dos anos 2000 com marcas temporais cronológicas detalhadas das cenas num bairro tranquilo.
 
 Autor：[@QAiStudio](https://x.com/QAiStudio) · [Publicação original](https://x.com/QAiStudio/status/2097181982924984513)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Mulher indonésia autêntica numa estética de vídeo caseiro de câmara de vídeo DV do início dos anos 2000 com marcas temporais cronológicas detalhadas das cenas num bairro tranquilo.
 
 <img src="covers/2097181982924984513.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Mulher indonésia autêntica, estética de vídeo caseiro indonésio do início dos anos 2000. Preservar o seu rosto exato, identidade, penteado, traços faciais, tom de pele, proporções corporais, pelos naturais nas axilas, crop top sem mangas verde-azeitona desbotado, calças de ganga largas azul-claro de cintura subida, sapatilhas de lona pretas, colar de cordão preto, cabelo preto ondulado, franja lateral, rabo de cavalo atado e desalinhado. Bairro residencial indonésio comum e tranquilo: beco estreito de betão, casas térreas simples, pequenos terraços, muros baixos, vasos com plantas, motociclos estacionados, árvores grandes, cabos aéreos emaranhados. Sem lojas ou atividade comercial. 00:00–00:03: Ela senta-se no chão de um terraço a rabiscar num caderno; a câmara de mão paira de cima/de lado. 00:03–00:07: Ela bate com a caneta no queixo, sorri ao de leve e continua a desenhar; a câmara vagueia entre o seu rosto e as suas mãos. 00:07–00:10: Ela deita-se numa esteira a observar formigas a rastejar pelo betão. 00:10–00:13: Ela toca suavemente perto das formigas e ri-se baixinho. 00:13–00:17: Ela caminha até um muro baixo, salta para cima e balança as pernas. 00:17–00:20: Ela come batatas fritas de pacote casualmente enquanto olha para a rua tranquila. 00:20–00:24: Ela senta-se nos degraus com uma toalha sobre os ombros, cabelo húmido, penteando-o lentamente. 00:24–00:27: Plano aproximado de câmara de mão a pentear o cabelo molhado, gotas de água visíveis. 00:27–00:30: Ela termina, atira o cabelo húmido para trás, olha para a câmara e sorri naturalmente. Corte abrupto para o preto. Realismo extremamente cru de câmara de vídeo DV de mão: movimento intenso, microtremores, enquadramento acidental, composição descentrada, corte ocasional do rosto, procura de focagem automática, flutuações de exposição, desfoque de movimento, rolling shutter, cores desbotadas/dessaturadas, ruído digital e artefactos de compressão. Sem poses, estabilização, visual cinematográfico, estilo comercial de moda, gradação moderna ou música. Apenas ambiente matinal natural: pássaros, brisa, motociclos distantes, murmúrios da vizinhança, papel a raspar, pacote de batatas fritas, folhas, pente. 16:9.
 ```
 
 [↑ Voltar às categorias](#catalog)

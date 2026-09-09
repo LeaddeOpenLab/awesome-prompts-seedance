@@ -74,20 +74,34 @@ Traducción en curso
 
 <a name="prompt-2097181982924984513"></a>
 
-### Traducción en curso
+### Mujer indonesia auténtica con estética de vídeo casero grabado con videocámara DV de principios de los 2000, con marcas de tiempo cronológicas detalladas de la escena en un barrio tranquilo.
 
 Autor：[@QAiStudio](https://x.com/QAiStudio) · [Publicación original](https://x.com/QAiStudio/status/2097181982924984513)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Mujer indonesia auténtica con estética de vídeo casero grabado con videocámara DV de principios de los 2000, con marcas de tiempo cronológicas detalladas de la escena en un barrio tranquilo.
 
 <img src="covers/2097181982924984513.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Mujer indonesia auténtica, estética de vídeo casero indonesio de principios de los años 2000. Conservar con exactitud su rostro, identidad, peinado, rasgos faciales, tono de piel, proporciones corporales, vello axilar natural, top corto sin mangas verde oliva descolorido, vaqueros celestes holgados de tiro alto, zapatillas de lona negras, collar de cordón negro, pelo ondulado negro, flequillo ladeado, coleta despeinada.
+
+Barrio residencial indonesio tranquilo y ordinario: callejón estrecho de hormigón, casas sencillas de una sola planta, terrazas pequeñas, muros bajos, plantas en macetas, motos aparcadas, árboles grandes, cables aéreos enredados. Sin tiendas ni actividad comercial.
+
+00:00–00:03: Está sentada en el suelo de una terraza garabateando en un cuaderno; la cámara en mano sobrevuela desde arriba/el lateral.
+00:03–00:07: Da golpecitos con el bolígrafo en la barbilla, sonríe levemente y sigue dibujando; la cámara se desplaza entre su rostro y sus manos.
+00:07–00:10: Está tumbada en una esterilla observando a las hormigas arrastrarse por el hormigón.
+00:10–00:13: Toca suavemente cerca de las hormigas y se ríe bajito.
+00:13–00:17: Camina hacia un muro bajo, se sube de un salto y balancea las piernas.
+00:17–00:20: Come patatas fritas de manera informal mientras mira la calle tranquila.
+00:20–00:24: Está sentada en los escalones con una toalla sobre los hombros, el pelo húmedo, peinándolo lentamente.
+00:24–00:27: Plano detalle cámara en mano de ella peinando el cabello mojado, con gotas de agua visibles.
+00:27–00:30: Termina, echa su pelo húmedo hacia atrás, mira a la cámara y sonríe de forma natural. Corte abrupto a negro.
+
+Realismo de videocámara DV en mano extremadamente crudo: movimientos marcados, microvibraciones, encuadre accidental, composición descentrada, cortes ocasionales de la cara, búsqueda continua del autofoco, fluctuaciones de exposición, desenfoque de movimiento, persiana rodante (rolling shutter), colores descoloridos/desaturados, ruido digital y artefactos de compresión. Sin poses, sin estabilización, sin aspecto cinematográfico, sin estilismo de anuncio de moda, sin gradación moderna ni música. Solo ambiente matutino natural: pájaros, brisa, motos lejanas, charlas del vecindario, raspado de papel, bolsa de patatas, hojas, peine. 16:9.
 ```
 
 [↑ Volver a categorías](#catalog)

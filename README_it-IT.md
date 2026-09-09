@@ -74,20 +74,34 @@ Traduzione in corso
 
 <a name="prompt-2097181982924984513"></a>
 
-### Traduzione in corso
+### Autentica donna indonesiana con un'estetica da home video su videocamera DV dei primi anni 2000, con timestamp cronologici dettagliati delle scene in un quartiere tranquillo.
 
 Autore：[@QAiStudio](https://x.com/QAiStudio) · [Post originale](https://x.com/QAiStudio/status/2097181982924984513)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Autentica donna indonesiana con un'estetica da home video su videocamera DV dei primi anni 2000, con timestamp cronologici dettagliati delle scene in un quartiere tranquillo.
 
 <img src="covers/2097181982924984513.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Autentica donna indonesiana, estetica da home video indonesiano dei primi anni 2000. Mantenere l'esatto volto, l'identità, l'acconciatura, i tratti somatici, la tonalità della pelle, le proporzioni del corpo, la peluria naturale sotto le ascelle, crop top senza maniche verde oliva sbiadito, jeans a vita alta morbidi blu chiaro, sneakers di tela nera, collana con cordino nero, capelli ondulati neri, frangia laterale, coda di cavallo spettinata.
+
+Ordinario e tranquillo quartiere residenziale indonesiano: vicolo stretto in cemento, semplici case a un piano, piccoli terrazzi, muretti bassi, piante in vaso, motociclette parcheggiate, grandi alberi, cavi aerei aggrovigliati. Nessun negozio o attività commerciale.
+
+00:00–00:03: È seduta sul pavimento di una terrazza a scarabocchiare su un taccuino; la telecamera a mano ondeggia dall'alto/di lato.
+00:03–00:07: Si tocca il mento con la penna, sorride appena, poi continua a disegnare; la telecamera vaga tra il suo viso e le sue mani.
+00:07–00:10: È sdraiata su una stuoia mentre osserva le formiche strisciare sul cemento.
+00:10–00:13: Picchietta delicatamente vicino alle formiche e ride a bassa voce.
+00:13–00:17: Si avvicina a un muretto, ci salta sopra e dondola le gambe.
+00:17–00:20: Mangia patatine con disinvoltura guardando la strada silenziosa.
+00:20–00:24: È seduta sui gradini con un asciugamano intorno alle spalle, i capelli umidi, pettinandoli lentamente.
+00:24–00:27: Primo piano con telecamera a mano di lei che si pettina i capelli bagnati, goccioline d'acqua visibili.
+00:27–00:30: Finisce, scuote indietro i capelli umidi, guarda verso la telecamera e sorride con naturalezza. Stacco netto sul nero.
+
+Realismo estremo e grezzo da videocamera DV a mano: movimenti marcati, micro-tremolii, inquadrature casuali, composizione decentrata, taglio occasionale del viso, oscillazioni dell'autofocus, fluttuazioni dell'esposizione, sfocatura da movimento, rolling shutter, colori sbiaditi/desaturati, rumore digitale e artefatti di compressione. Nessuna posa, stabilizzazione, aspetto cinematografico, styling da spot di moda, grading moderno o musica. Solo atmosfera naturale del mattino: uccelli, brezza, motociclette in lontananza, chiacchiere del vicinato, carta che si graffia, sacchetto di patatine, foglie, pettine. 16:9.
 ```
 
 [↑ Torna alle categorie](#catalog)

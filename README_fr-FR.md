@@ -74,20 +74,34 @@ Traduction en cours
 
 <a name="prompt-2097181982924984513"></a>
 
-### Traduction en cours
+### Femme indonésienne authentique dans une esthétique de vidéo amateur au caméscope DV du début des années 2000 avec des repères temporels chronologiques détaillés des scènes dans un quartier calme.
 
 Auteur：[@QAiStudio](https://x.com/QAiStudio) · [Publication originale](https://x.com/QAiStudio/status/2097181982924984513)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Femme indonésienne authentique dans une esthétique de vidéo amateur au caméscope DV du début des années 2000 avec des repères temporels chronologiques détaillés des scènes dans un quartier calme.
 
 <img src="covers/2097181982924984513.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Femme indonésienne authentique, esthétique de vidéo amateur indonésienne du début des années 2000. Conserver exactement son visage, son identité, sa coiffure, ses traits de visage, son teint de peau, ses proportions corporelles, ses poils naturels sous les aisselles, son haut court sans manches délavé vert olive, son jean taille haute ample bleu clair, ses baskets en toile noire, son collier en cordon noir, ses cheveux ondulés noirs, sa frange balayée sur le côté, sa queue-de-cheval décoiffée.
+
+Quartier résidentiel indonésien calme et ordinaire : ruelle étroite en béton, maisons simples à un étage, petites terrasses, murets, plantes en pot, motos stationnées, grands arbres, câbles aériens emmêlés. Aucun magasin ni activité commerciale.
+
+00:00–00:03 : Elle est assise sur le sol d'une terrasse et griffonne dans un carnet ; la caméra portée flotte depuis le haut/côté.
+00:03–00:07 : Elle tapote son menton avec le stylo, sourit légèrement, puis continue de dessiner ; la caméra erre entre son visage et ses mains.
+00:07–00:10 : Elle est allongée sur une natte et regarde des fourmis ramper sur le béton.
+00:10–00:13 : Elle tapote doucement près des fourmis et rit doucement.
+00:13–00:17 : Elle marche vers un muret, saute dessus et balance ses jambes.
+00:17–00:20 : Elle mange tranquillement des chips tout en regardant la rue calme.
+00:20–00:24 : Elle est assise sur les marches avec une serviette autour des épaules, les cheveux humides, en train de les peigner lentement.
+00:24–00:27 : Gros plan caméra au poing où elle peigne ses cheveux mouillés, gouttelettes d'eau visibles.
+00:27–00:30 : Elle termine, rejette ses cheveux humides en arrière, regarde vers la caméra et sourit naturellement. Coupure brutale au noir.
+
+Réalisme brut extrême de caméscope DV à main levée : mouvements brusques, micro-tremblements, cadrage accidentel, composition décentrée, visage parfois tronqué, pompage de l'autofocus, fluctuations d'exposition, flou de mouvement, effet de rolling shutter, couleurs délavées/désaturées, bruit numérique et artéfacts de compression. Pas de pose, de stabilisation, d'aspect cinématographique, de style commercial de mode, d'étalonnage moderne ou de musique. Ambiance matinale naturelle uniquement : oiseaux, brise, motos lointaines, bavardages du voisinage, frottement du papier, paquet de chips, feuilles, peigne. 16:9.
 ```
 
 [↑ Retour aux catégories](#catalog)
