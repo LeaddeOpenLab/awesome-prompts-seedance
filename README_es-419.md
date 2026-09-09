@@ -83,20 +83,104 @@ Sin actuación comercial, sin iluminación perfecta de estudio, sin poses prepar
 
 <a name="prompt-2096931238460178592"></a>
 
-### Traducción en curso
+### Crea un video casero en formato DV de principios de los años 2000, ultrarrealista, de 30 segundos, a 1080p y en 16:9, de una joven coreana que vive una tarde de verano ordinaria pero memorable en un barrio antiguo de Seúl, con acciones detalladas en una línea de tiempo, defectos de cámara en mano y audio ambiental.
 
 Autor：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Publicación original](https://x.com/SimplyAnnisa/status/2096931238460178592)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un video casero en formato DV de principios de los años 2000, ultrarrealista, de 30 segundos, a 1080p y en 16:9, de una joven coreana que vive una tarde de verano ordinaria pero memorable en un barrio antiguo de Seúl, con acciones detalladas en una línea de tiempo, defectos de cámara en mano y audio ambiental.
 
 <img src="covers/2096931238460178592.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video casero en formato DV de principios de los años 2000, ultrarrealista, de 30 segundos, a 1080p y en relación de aspecto 16:9, de una joven coreana que pasa una tarde de verano común pero inesperadamente memorable en un barrio antiguo de Seúl.
+
+Una mujer coreana naturalmente bonita de veintipocos años, piel realista, maquillaje mínimo, cabello negro largo y ligeramente ondulado, top de punto azul pálido, pantalones holgados color crema, tenis blancos, bolso cruzado marrón y reloj plateado. Mantén su identidad, rostro, vestimenta, peinado y proporciones perfectamente consistentes.
+
+ESCENARIO
+
+Una calle residencial tranquila y antigua de Seúl con callejones de concreto, edificios de departamentos, plantas en macetas, bicicletas, postes de luz, árboles frondosos y una pequeña tienda de conveniencia de barrio. Concurrido, habitado y auténtico. Sin marcas, logotipos, anuncios ni lugares turísticos.
+
+ESTILO DE CÁMARA
+
+Metraje en bruto de una videocámara DV económica de principios de los años 2000: movimiento tembloroso de cámara en mano, encuadre imperfecto, búsqueda de enfoque automático, cambios de exposición, colores desvaídos, detalles suaves, leve ruido de cinta, zooms accidentales y errores naturales de cámara. Sin estabilización ni tomas cinematográficas.
+
+00:00–00:06 — EL MISTERIO
+
+Camina por la calle sosteniendo una pequeña bolsa de plástico cuando de repente escucha un leve tintineo detrás de ella.
+
+Se detiene y mira a su alrededor.
+
+La cámara hace un zoom rápido hacia su rostro confundido.
+
+Ella dice:
+
+“Did you hear that?”
+
+00:06–00:12 — EL PEQUEÑO DESCUBRIMIENTO
+
+Sigue el sonido y encuentra una pequeña bicicleta vieja con un timbre diminuto atorado ligeramente abierto.
+
+Toca suavemente el timbre.
+
+Ding.
+
+Mira a la cámara y se ríe.
+
+Luego nota una pequeña etiqueta de papel que parece escrita a mano colgando de la bicicleta, pero la letra es demasiado ilegible para leerla.
+
+00:12–00:18 — EL VIENTO
+
+Una ráfaga repentina de viento arrastra varias hojas secas por la calle.
+
+Una cae directamente sobre su cabeza.
+
+Ella no se da cuenta.
+
+La persona que opera la cámara se ríe.
+
+Ella parece confundida, luego se da cuenta y se quita la hoja.
+
+Le lanza una mirada avergonzada a la cámara.
+
+00:18–00:24 — EL PEQUEÑO DESAFÍO
+
+Coloca la hoja en el asiento de la bicicleta e intenta mantenerla en equilibrio allí.
+
+El viento se la lleva de inmediato.
+
+Lo intenta de nuevo.
+
+Se cae otra vez.
+
+Se ríe y finalmente se rinde.
+
+00:24–00:30 — EL RECUERDO
+
+Recoge la hoja, la guarda en su pequeña bolsa y empieza a caminar hacia casa.
+
+Después de unos pasos, se gira hacia la cámara y dice:
+
+“Okay, that was pointless.”
+
+Sonríe y sigue caminando.
+
+La cámara la sigue durante unos segundos antes de cortar abruptamente a negro.
+
+AUDIO
+
+Únicamente sonido natural del lugar: pasos, tráfico distante, el timbre de la bicicleta, insectos de verano, hojas, viento, ambiente del vecindario y risas naturales.
+
+Sin música, narración, subtítulos, letreros, logotipos, marcas de agua ni texto en pantalla.
+
+REALISMO
+
+Reacciones humanas naturales, ritmo imperfecto, física realista, objetos consistentes, detalles auténticos de un vecindario coreano e imperfecciones creíbles de cámara DV. Sin apariencia CGI, manos distorsionadas, dedos adicionales, personas duplicadas, alteraciones de identidad ni cambios de vestuario.
+
+Relación de aspecto 16:9.
 ```
 
 [↑ Volver a categorías](#catalog)

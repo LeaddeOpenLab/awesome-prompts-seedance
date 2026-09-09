@@ -83,20 +83,104 @@ Kein kommerzielles Schauspiel, keine perfekte Studiobeleuchtung, keine gestellte
 
 <a name="prompt-2096931238460178592"></a>
 
-### Übersetzung läuft
+### Erstelle ein 30-sekündiges, ultrarealistisches DV-Heimvideo der frühen 2000er Jahre in 1080p und 16:9 von einer jungen koreanischen Frau, die einen gewöhnlichen, aber unvergesslichen Sommerabend in einem älteren Viertel von Seoul erlebt, mit detaillierten zeitlichen Handlungen, Handkamerafehlern und Umgebungsgeräuschen.
 
 Autor：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Originalbeitrag](https://x.com/SimplyAnnisa/status/2096931238460178592)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle ein 30-sekündiges, ultrarealistisches DV-Heimvideo der frühen 2000er Jahre in 1080p und 16:9 von einer jungen koreanischen Frau, die einen gewöhnlichen, aber unvergesslichen Sommerabend in einem älteren Viertel von Seoul erlebt, mit detaillierten zeitlichen Handlungen, Handkamerafehlern und Umgebungsgeräuschen.
 
 <img src="covers/2096931238460178592.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 30-sekündiges, ultrarealistisches DV-Heimvideo der frühen 2000er Jahre in 1080p und 16:9 von einer jungen koreanischen Frau, die einen gewöhnlichen, aber unerwartet unvergesslichen Sommerabend in einem älteren Viertel von Seoul verbringt.
+
+Eine natürlich hübsche koreanische Frau Anfang 20, realistische Haut, minimales Make-up, langes, schwarzes, leicht welliges Haar, hellblaues Strickoberteil, weite cremefarbene Hose, weiße Sneakers, braune Umhängetasche und silberne Armbanduhr. Halte ihre Identität, ihr Gesicht, ihr Outfit, ihre Frisur und ihre Proportionen vollkommen konsistent.
+
+SETTING
+
+Eine ruhige, ältere Wohnstraße in Seoul mit Betonwegen, Wohngebäuden, Topfpflanzen, Fahrrädern, Strommasten, belaubten Bäumen und einem winzigen Tante-Emma-Laden der Nachbarschaft. Belebt und authentisch. Keine Marken, Logos, Werbung oder touristische Orte.
+
+KAMERASTIL
+
+Rohmaterial von einem günstigen DV-Camcorder der frühen 2000er Jahre: wackelige Handkamerabewegungen, unvollkommene Bildausschnitte, pumpender Autofokus, Belichtungsschwankungen, verblasste Farben, weiche Details, leichtes Bandrauschen, versehentliche Zooms und natürliche Kamerafehler. Keine Stabilisierung oder filmische Aufnahmen.
+
+00:00–00:06 — DAS GEHEIMNIS
+
+Sie geht mit einer kleinen Plastiktüte die Straße entlang, als sie plötzlich ein leises Klimpern hinter sich hört.
+
+Sie bleibt stehen und blickt sich um.
+
+Die Kamera zoomt schnell auf ihr verwirrtes Gesicht.
+
+Sie sagt:
+
+„Did you hear that?“
+
+00:06–00:12 — DIE KLEINE ENTDECKUNG
+
+Sie folgt dem Geräusch und entdeckt ein kleines, altes Fahrrad mit einer winzigen Klingel, die leicht verklemmt ist.
+
+Sie tippt die Klingel sanft an.
+
+Ding.
+
+Sie blickt in die Kamera und lacht.
+
+Dann bemerkt sie ein kleines, wie handgeschrieben wirkendes Papierschildchen, das am Fahrrad hängt, aber die Schrift ist zu undeutlich, um sie zu lesen.
+
+00:12–00:18 — DER WIND
+
+Eine plötzliche Brise weht mehrere trockene Blätter über die Straße.
+
+Eines landet direkt auf ihrem Kopf.
+
+Sie bemerkt es nicht.
+
+Die Person an der Kamera lacht.
+
+Sie schaut verwirrt, bemerkt es dann und nimmt das Blatt herunter.
+
+Sie wirft der Kamera einen verlegenen Blick zu.
+
+00:18–00:24 — DIE KLEINE HERAUSFORDERUNG
+
+Sie legt das Blatt auf den Fahrradsattel und versucht, es dort zu balancieren.
+
+Der Wind weht es sofort weg.
+
+Sie versucht es noch einmal.
+
+Es fällt wieder herunter.
+
+Sie lacht und gibt schließlich auf.
+
+00:24–00:30 — DIE ERINNERUNG
+
+Sie hebt das Blatt auf, steckt es in ihre kleine Tasche und macht sich auf den Heimweg.
+
+Nach ein paar Schritten dreht sie sich zur Kamera und sagt:
+
+„Okay, that was pointless.“
+
+Sie lächelt und geht weiter.
+
+Die Kamera folgt ihr für ein paar Sekunden, bevor abrupt zu Schwarz abgeblendet wird.
+
+AUDIO
+
+Nur natürliche Originaltöne: Schritte, entfernter Verkehr, Fahrradklingel, Sommerinsekten, Blätter, Wind, Nachbarschaftsatmosphäre und natürliches Lachen.
+
+Keine Musik, kein Off-Sprecher, keine Untertitel, keine Bildunterschriften, Logos, Wasserzeichen oder Texteinblendungen.
+
+REALISMUS
+
+Natürliche menschliche Reaktionen, unperfektes Timing, realistische Physik, konsistente Objekte, authentische Details eines koreanischen Viertels und glaubwürdige Mängel einer DV-Kamera. Kein CGI-Look, keine verzerrten Hände, keine zusätzlichen Finger, keine duplizierten Personen, keine Veränderung der Identität oder Kleidungswechsel.
+
+Seitenverhältnis 16:9.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

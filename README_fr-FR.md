@@ -83,20 +83,104 @@ Pas de jeu d’acteur commercial, pas d’éclairage de studio parfait, pas de p
 
 <a name="prompt-2096931238460178592"></a>
 
-### Traduction en cours
+### Créez une vidéo amateur DV ultra-réaliste du début des années 2000 de 30 secondes, en 1080p et 16:9, montrant une jeune femme coréenne vivant une soirée d'été ordinaire mais mémorable dans un vieux quartier de Séoul, comprenant des actions détaillées par séquence chronologique, des imperfections de caméra portée et un audio d'ambiance.
 
 Auteur：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Publication originale](https://x.com/SimplyAnnisa/status/2096931238460178592)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créez une vidéo amateur DV ultra-réaliste du début des années 2000 de 30 secondes, en 1080p et 16:9, montrant une jeune femme coréenne vivant une soirée d'été ordinaire mais mémorable dans un vieux quartier de Séoul, comprenant des actions détaillées par séquence chronologique, des imperfections de caméra portée et un audio d'ambiance.
 
 <img src="covers/2096931238460178592.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo amateur DV ultra-réaliste du début des années 2000 de 30 secondes, en 1080p et au format 16:9, montrant une jeune femme coréenne passant une soirée d'été ordinaire mais étonnamment mémorable dans un vieux quartier de Séoul.
+
+Une jolie femme coréenne au naturel au début de la vingtaine, peau réaliste, maquillage minimal, longs cheveux noirs légèrement ondulés, haut en maille bleu pâle, pantalon ample crème, baskets blanches, sac à bandoulière marron et montre argentée. Conservez son identité, son visage, sa tenue, sa coiffure et ses proportions parfaitement cohérents.
+
+DÉCOR
+
+Une rue résidentielle calme et ancienne de Séoul avec des allées en béton, des immeubles résidentiels, des plantes en pot, des vélos, des poteaux électriques, des arbres feuillus et une minuscule supérette de quartier. Habité et authentique. Aucune marque, logo, publicité ou lieu touristique.
+
+STYLE DE CAMÉRA
+
+Images brutes issues d'un caméscope DV bon marché du début des années 2000 : mouvements instables de caméra portée, cadrage imparfait, recherche de mise au point automatique, variations d'exposition, couleurs délavées, netteté adoucie, léger bruit de bande magnétique, zooms accidentels et erreurs naturelles de tournage. Aucune stabilisation ni plans cinématographiques.
+
+00:00–00:06 — LE MYSTÈRE
+
+Elle marche dans la rue en tenant un petit sac en plastique quand elle entend soudain un faible tintement derrière elle.
+
+Elle s'arrête et regarde autour d'elle.
+
+La caméra zoome rapidement vers son visage confus.
+
+Elle dit :
+
+« Did you hear that? »
+
+00:06–00:12 — LA PETITE DÉCOUVERTE
+
+Elle suit le son et trouve un petit vélo ancien dont la minuscule sonnette est légèrement coincée entrouverte.
+
+Elle tapote doucement la sonnette.
+
+Ding.
+
+Elle regarde la caméra et rit.
+
+Puis elle remarque une petite étiquette en papier d'aspect manuscrit accrochée au vélo, mais l'écriture est trop illisible pour être déchiffrée.
+
+00:12–00:18 — LE VENT
+
+Une brise soudaine fait voler plusieurs feuilles sèches à travers la rue.
+
+L'une d'elles atterrit directement sur sa tête.
+
+Elle ne s'en aperçoit pas.
+
+L'opérateur de la caméra rigole.
+
+Elle a l'air confuse, puis s'en rend compte et retire la feuille.
+
+Elle lance un regard gêné à la caméra.
+
+00:18–00:24 — LE PETIT DÉFI
+
+Elle pose la feuille sur la selle du vélo et tente de la faire tenir en équilibre.
+
+Le vent l'emporte immédiatement.
+
+Elle essaie à nouveau.
+
+Elle tombe encore.
+
+Elle rit et finit par abandonner.
+
+00:24–00:30 — LE SOUVENIR
+
+Elle ramasse la feuille, la range dans son petit sac et commence à marcher vers chez elle.
+
+Après quelques pas, elle se tourne vers la caméra et dit :
+
+« Okay, that was pointless. »
+
+Elle sourit et continue d'avancer.
+
+La caméra la suit pendant quelques secondes avant de couper brusquement au noir.
+
+AUDIO
+
+Son direct naturel uniquement : bruits de pas, circulation lointaine, sonnette de vélo, insectes d'été, feuilles, vent, ambiance de quartier et rires naturels.
+
+Pas de musique, narration, sous-titres, légendes, logos, filigranes ou texte à l'écran.
+
+RÉALISME
+
+Réactions humaines naturelles, timing imparfait, physique réaliste, objets cohérents, détails authentiques de quartier coréen et imperfections crédibles d'une caméra DV. Pas d'aspect CGI, de mains déformées, de doigts supplémentaires, de personnes dédoublées, de dérive d'identité ou de changements de tenue.
+
+Format d'image 16:9.
 ```
 
 [↑ Retour aux catégories](#catalog)

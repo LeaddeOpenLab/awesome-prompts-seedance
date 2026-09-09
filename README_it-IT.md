@@ -83,20 +83,104 @@ Nessuna recitazione commerciale, nessuna perfetta illuminazione da studio, nessu
 
 <a name="prompt-2096931238460178592"></a>
 
-### Traduzione in corso
+### Crea un home video DV ultra-realistico dei primi anni 2000 di 30 secondi, in 1080p e 16:9, che ritrae una giovane donna coreana mentre vive una normale ma indimenticabile serata estiva in un vecchio quartiere di Seul, con azioni dettagliate scandite nel tempo, difetti della ripresa a mano e audio ambientale.
 
 Autore：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Post originale](https://x.com/SimplyAnnisa/status/2096931238460178592)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un home video DV ultra-realistico dei primi anni 2000 di 30 secondi, in 1080p e 16:9, che ritrae una giovane donna coreana mentre vive una normale ma indimenticabile serata estiva in un vecchio quartiere di Seul, con azioni dettagliate scandite nel tempo, difetti della ripresa a mano e audio ambientale.
 
 <img src="covers/2096931238460178592.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un home video DV ultra-realistico dei primi anni 2000 di 30 secondi, a 1080p, 16:9, che ritrae una giovane donna coreana che trascorre una normale ma inaspettatamente memorabile serata estiva in un vecchio quartiere di Seul.
+
+Una bella donna coreana dall'aspetto naturale sui vent'anni, pelle realistica, trucco minimale, lunghi capelli neri leggermente ondulati, top in maglia azzurro chiaro, pantaloni morbidi color crema, scarpe da ginnastica bianche, borsa a tracolla marrone e orologio d'argento. Mantieni la sua identità, il viso, l'abbigliamento, l'acconciatura e le proporzioni perfettamente coerenti.
+
+AMBIENTAZIONE
+
+Una tranquilla e vecchia strada residenziale di Seul con vicoli in cemento, condomini, piante in vaso, biciclette, pali della luce, alberi frondosi e un minuscolo minimarket di quartiere. Vissuta e autentica. Nessun marchio, logo, pubblicità o luogo turistico.
+
+STILE DI RIPRESA
+
+Riprese grezze da una videocamera DV economica dei primi anni 2000: movimento a mano tremolante, inquadrature imperfette, autofocus instabile alla ricerca del fuoco, sbalzi di esposizione, colori sbiaditi, dettagli morbidi, lieve rumore di nastro, zoom accidentali ed errori naturali di ripresa. Nessuna stabilizzazione o inquadratura cinematografica.
+
+00:00–00:06 — IL MISTERO
+
+Cammina lungo la strada tenendo una piccola busta di plastica quando all'improvviso sente un debole tintinnio alle sue spalle.
+
+Si ferma e si guarda intorno.
+
+La telecamera zooma rapidamente verso il suo viso confuso.
+
+Lei dice:
+
+“Did you hear that?”
+
+00:06–00:12 — LA PICCOLA SCOPERTA
+
+Segue il suono e trova una vecchia bicicletta di piccole dimensioni con un minuscolo campanello rimasto leggermente bloccato aperto.
+
+Tocca delicatamente il campanello.
+
+Din.
+
+Guarda verso la telecamera e ride.
+
+Poi nota un piccolo cartellino di carta apparentemente scritto a mano appeso alla bicicletta, ma la grafia è troppo poco chiara per essere letta.
+
+00:12–00:18 — IL VENTO
+
+Un'improvvisa folata di vento fa volare diverse foglie secche lungo la strada.
+
+Una si posa direttamente sulla sua testa.
+
+Lei non se ne accorge.
+
+L'operatore della telecamera ride.
+
+Lei sembra confusa, poi se ne rende conto e toglie la foglia.
+
+Lancia uno sguardo imbarazzato alla telecamera.
+
+00:18–00:24 — LA PICCOLA SFIDA
+
+Appoggia la foglia sul sellino della bicicletta e cerca di tenerla in equilibrio lì.
+
+Il vento la porta via immediatamente.
+
+Ci riprova.
+
+Cade di nuovo.
+
+Ride e alla fine si arrende.
+
+00:24–00:30 — IL RICORDO
+
+Raccoglie la foglia, la mette nella sua borsetta e si incammina verso casa.
+
+Dopo pochi passi, si gira verso la telecamera e dice:
+
+“Okay, that was pointless.”
+
+Sorride e continua a camminare.
+
+La telecamera la segue per alcuni secondi prima di staccare bruscamente sul nero.
+
+AUDIO
+
+Solo suono naturale d'ambiente: passi, traffico distante, campanello della bicicletta, insetti estivi, foglie, vento, atmosfera di quartiere e risate naturali.
+
+Nessuna musica, voce narrante, sottotitoli, didascalie, loghi, watermark o testo sullo schermo.
+
+REALISMO
+
+Reazioni umane naturali, tempismo imperfetto, fisica realistica, oggetti coerenti, dettagli autentici del quartiere coreano e credibili imperfezioni della telecamera DV. Nessun aspetto CGI, mani distorte, dita extra, persone duplicate, alterazioni d'identità o cambi d'abito.
+
+Formato 16:9.
 ```
 
 [↑ Torna alle categorie](#catalog)
