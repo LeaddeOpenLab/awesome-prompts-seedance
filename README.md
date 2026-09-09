@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**9** Prompts · Latest addition: **2026-09-08**
+**10** Prompts · Latest addition: **2026-09-08**
 
 <a name="catalog"></a>
 
@@ -135,6 +135,32 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2096832969453543579"></a>
+
+### Create a 30-second photorealistic American university romance vlog set during an afternoon rainstorm, following two students sharing an umbrella and visiting a café.
+
+Author：[@nawalsehar](https://x.com/nawalsehar) · [Source](https://x.com/nawalsehar/status/2096832969453543579)
+
+Photography · Cinematic / Film Still · Published
+
+**Summary:** Create a 30-second photorealistic American university romance vlog set during an afternoon rainstorm, following two students sharing an umbrella and visiting a café.
+
+<img src="covers/2096832969453543579.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an umbrella, until a male student kindly shares his black umbrella. They walk together through a realistic U.S. college campus, joking and slowly becoming comfortable with each other.
+
+They escape to a cozy campus café, share hot coffee beside a rain-covered window, and have a subtle moment of connection. As the rain stops, golden sunlight breaks through the clouds and they walk together across the wet campus.
+
+Modern 2026 cinematic coming-of-age style, natural American English dialogue, realistic rain, wet hair and clothing, umbrella physics, puddle reflections, authentic student behavior, handheld smartphone-style camera, natural expressions and subtle romance. No exaggerated acting, CGI, animation, subtitles, music or watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097184908250845406"></a>
 

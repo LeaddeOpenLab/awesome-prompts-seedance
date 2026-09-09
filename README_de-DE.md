@@ -14,7 +14,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**9** Prompts · Zuletzt hinzugefügt: **2026-09-08**
+**10** Prompts · Zuletzt hinzugefügt: **2026-09-08**
 
 <a name="catalog"></a>
 
@@ -80,6 +80,28 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2096832969453543579"></a>
+
+### Übersetzung läuft
+
+Autor：[@nawalsehar](https://x.com/nawalsehar) · [Originalbeitrag](https://x.com/nawalsehar/status/2096832969453543579)
+
+Fotografie · Kinematisch / Filmstill · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2096832969453543579.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097184908250845406"></a>
 
