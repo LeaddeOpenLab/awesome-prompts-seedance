@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**14** Prompts · Latest addition: **2026-09-09**
+**15** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -157,6 +157,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2096948259059085379"></a>
+
+### Cinematic Wuxia martial arts duel in an autumn maple forest with slow-motion swordplay, ink-wash visuals, and volumetric lighting.
+
+Author：[@aiwithlumi](https://x.com/aiwithlumi) · [Source](https://x.com/aiwithlumi/status/2096948259059085379)
+
+Cinematic / Film Still · Landscape / Nature · Published
+
+**Summary:** Cinematic Wuxia martial arts duel in an autumn maple forest with slow-motion swordplay, ink-wash visuals, and volumetric lighting.
+
+<img src="covers/2096948259059085379.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Cinematic Wuxia sequence in an autumn maple forest: two martial artists, a female warrior in flowing pink-and-white silk Hanfu and a male warrior in blue robes, face off on wet mossy river rocks as golden sunbeams pierce mist and red maple leaves fall. She leaps into the air, draws her steel Jian, and glides toward him in dramatic slow motion before their blades clash with a burst of glowing sparks. She lands gracefully, splashing water around her, while a black sumi-e ink-wash effect spreads across the frame. End with a perfectly symmetrical wide shot of both warriors holding swords above their heads in synchronized guard stance, framed by red maples and radiant backlight, with hyper-detailed textures, cinematic 24fps motion, and atmospheric volumetric lighting.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096815972560835061"></a>
 

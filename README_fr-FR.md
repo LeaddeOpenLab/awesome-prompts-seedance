@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**14** Prompts · Dernier ajout: **2026-09-09**
+**15** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -102,6 +102,28 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2096948259059085379"></a>
+
+### Traduction en cours
+
+Auteur：[@aiwithlumi](https://x.com/aiwithlumi) · [Publication originale](https://x.com/aiwithlumi/status/2096948259059085379)
+
+Image cinématographique / Photogramme de film · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2096948259059085379.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2096815972560835061"></a>
 
