@@ -300,20 +300,40 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2097502400961761425"></a>
 
-### Übersetzung läuft
+### 3D-animierte filmische Szene eines kleinen Jungen und eines perlweißen Babydrachen, die in einem tropischen Blumental spielen.
 
 Autor：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Originalbeitrag](https://x.com/Zarnab_with_Ai/status/2097502400961761425)
 
 Kinematisch / Filmstill · 3D-Rendering · Charakter · Tier / Kreatur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 3D-animierte filmische Szene eines kleinen Jungen und eines perlweißen Babydrachen, die in einem tropischen Blumental spielen.
 
 <img src="covers/2097502400961761425.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine hochwertige 3D-animierte Fantasy-Szene in einem farbenfrohen, filmischen Stil.
+
+Ein süßer kleiner Junge im Kleinkindalter mit unordentlichem schwarzem Haar und einem einfachen beigefarbenen Stoffoutfit sitzt und spielt inmitten eines Feldes wunderschöner Blumen neben einem freundlichen Babydrachen. Der Drache ist groß, bezaubernd, perlweiß mit hellblauen Akzenten, kleinen Hörnern, ausdrucksstarken leuchtend blauen Augen, weichen federartigen Schuppen um Kopf und Hals und einem langen eleganten Schwanz.
+
+Die Szene spielt in einem magischen tropischen Tal, umgeben von üppigen grünen Bergen, kristallklarem türkisfarbenem Wasser, tropischen Bäumen und einem strahlend blauen Himmel mit sanften weißen Wolken.
+
+Beginne mit einer Nahaufnahme des schlafenden Babydrachen, der friedlich zwischen leuchtend rosa-roten Blumen ruht, während der kleine Junge in der Nähe sitzt. Der Drache öffnet langsam die Augen, schaut sich neugierig um und macht einen niedlichen verspielten Gesichtsausdruck.
+
+Gehe über zu einer weiteren Einstellung, in der der Drache und das Kind von einem Feld wunderschöner blauer Blumen in der Nähe des Wassers umgeben sind. Der Drache rollt spielerisch rückwärts durch die Blumen, während das Kind zuschaut und lacht.
+
+Zeige eine filmische Luftaufnahme in der Totalen, die die wunderschöne inselartige Landschaft, blühende Felder, tropische Bäume, Berge und türkisfarbenes Wasser offenbart. Bunte kleine Vögel fliegen und hüpfen um einen nahegelegenen Baum herum, während das Kind und der Drache unten zusammen spielen.
+
+Kehre dann zu einer Nahaufnahme zurück, in der das Kind auf dem Rücken des Drachen sitzt. Der Drache macht lustige, verspielte Gesichtsausdrücke, während das Kind fröhlich lacht.
+
+Ende damit, wie das Kind und der liebenswerte Drache friedlich zusammen auf einer riesigen bunten Blumenwiese liegen, lächeln und den magischen Moment genießen.
+
+Verwende flüssige Charakteranimationen, ausdrucksstarke mimische Emotionen, natürliche Körperbewegungen, filmische Kameraübergänge, geringe Schärfentiefe, weiche volumetrische Beleuchtung, lebendige Farben, detaillierte 3D-Texturen, eine magische familienfreundliche Atmosphäre, die Qualität eines ausgefeilten Animationsfilms und einen herzlichen, herzerwärmenden Ton.
+
+Kein Text, keine Untertitel, kein Wasserzeichen.
+Seitenverhältnis: 16:9.
+Dauer: ungefähr 15 Sekunden.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

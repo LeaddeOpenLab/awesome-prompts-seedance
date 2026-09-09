@@ -300,20 +300,40 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2097502400961761425"></a>
 
-### Traduzione in corso
+### Scena cinematografica animata in 3D di un bimbo e un cucciolo di drago bianco perlaceo che giocano in una valle tropicale fiorita.
 
 Autore：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Post originale](https://x.com/Zarnab_with_Ai/status/2097502400961761425)
 
 Fermo immagine cinematografico / Still fotografico · Rendering 3D · Personaggio · Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena cinematografica animata in 3D di un bimbo e un cucciolo di drago bianco perlaceo che giocano in una valle tropicale fiorita.
 
 <img src="covers/2097502400961761425.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una scena fantasy animata in 3D di alta qualità in uno stile cinematografico e colorato.
+
+Un tenero bambino piccolo con disordinati capelli neri e un semplice abito in tessuto beige è seduto a giocare in un campo di splendidi fiori accanto a un amichevole cucciolo di drago. Il drago è grande, adorabile, bianco perlaceo con sfumature azzurre, piccole corna, espressivi occhi blu brillante, morbide squame simili a piume attorno alla testa e al collo, e una lunga ed elegante coda.
+
+La scena si svolge in una magica valle tropicale circondata da lussureggianti montagne verdi, acque turchesi cristalline, alberi tropicali e un cielo blu luminoso con morbide nuvole bianche.
+
+Inizia con un primo piano del cucciolo di drago addormentato che riposa pacificamente tra vivaci fiori rosa-rossi mentre il bambino è seduto lì vicino. Il drago apre lentamente gli occhi, si guarda intorno incuriosito e fa un'espressione dolce e giocherellona.
+
+Passa a un'inquadratura più ampia in cui il drago e il bambino sono circondati da un campo di splendidi fiori blu vicino all'acqua. Il drago rotola giocosamente all'indietro tra i fiori mentre il bambino guarda e ride.
+
+Mostra una ripresa aerea panoramica cinematografica che rivela il meraviglioso paesaggio simile a un'isola, campi fioriti, alberi tropicali, montagne e acqua turchese. Piccoli uccelli colorati volano e saltellano attorno a un albero vicino mentre il bambino e il drago giocano insieme più in basso.
+
+Poi torna a un primo piano del bambino seduto sulla schiena del drago. Il drago fa espressioni facciali buffe e giocose mentre il bambino ride felice.
+
+Concludi con il bambino e l'adorabile drago che giacciono pacificamente insieme in un immenso prato di fiori colorati, sorridendo e godendosi questo momento magico.
+
+Usa un'animazione fluida dei personaggi, emozioni facciali espressive, movimenti del corpo naturali, transizioni di macchina cinematografiche, profondità di campo ridotta, morbida illuminazione volumetrica, colori vivaci, texture 3D dettagliate, un'atmosfera magica e adatta alle famiglie, una qualità impeccabile da film d'animazione e un tono caldo e rincuorante.
+
+Nessun testo, nessun sottotitolo, nessun watermark.
+Rapporto d'aspetto: 16:9.
+Durata: circa 15 secondi.
 ```
 
 [↑ Torna alle categorie](#catalog)

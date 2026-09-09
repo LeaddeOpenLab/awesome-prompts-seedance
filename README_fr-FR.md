@@ -300,20 +300,40 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2097502400961761425"></a>
 
-### Traduction en cours
+### Scène cinématographique animée en 3D d'un petit garçon et d'un bébé dragon blanc nacré jouant dans une vallée tropicale fleurie.
 
 Auteur：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Publication originale](https://x.com/Zarnab_with_Ai/status/2097502400961761425)
 
 Image cinématographique / Photogramme de film · Rendu 3D · Personnage · Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène cinématographique animée en 3D d'un petit garçon et d'un bébé dragon blanc nacré jouant dans une vallée tropicale fleurie.
 
 <img src="covers/2097502400961761425.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une scène fantastique animée en 3D de haute qualité dans un style coloré et cinématographique.
+
+Un adorable petit garçon aux cheveux noirs ébouriffés et vêtu d'une simple tenue en tissu beige est assis et joue au milieu d'un champ de fleurs magnifiques aux côtés d'un gentil bébé dragon. Le dragon est grand, adorable, blanc nacré avec des reflets bleu clair, de petites cornes, des yeux bleu vif expressifs, de douces écailles semblables à des plumes autour de la tête et du cou, et une longue queue élégante.
+
+La scène se déroule dans une vallée tropicale magique entourée de montagnes verdoyantes et luxuriantes, d'une eau turquoise cristalline, d'arbres tropicaux et d'un ciel bleu éclatant parsemé de doux nuages blancs.
+
+Commencez par un plan rapproché du bébé dragon endormi, se reposant paisiblement parmi des fleurs rose-rouge éclatantes tandis que le petit garçon est assis à proximité. Le dragon ouvre lentement les yeux, regarde autour de lui avec curiosité et prend une expression mignonne et joueuse.
+
+Passez à un plan plus large où le dragon et l'enfant sont entourés d'un champ de magnifiques fleurs bleues près de l'eau. Le dragon fait joyeusement des roulades arrière à travers les fleurs pendant que l'enfant regarde et rit.
+
+Montrez un plan large aérien cinématographique révélant le magnifique paysage insulaire, les champs fleuris, les arbres tropicaux, les montagnes et l'eau turquoise. De petits oiseaux colorés volent et sautillent autour d'un arbre voisin pendant que l'enfant et le dragon jouent ensemble en bas.
+
+Revenez ensuite à un plan rapproché de l'enfant assis sur le dos du dragon. Le dragon fait des expressions faciales drôles et espiègles pendant que l'enfant rit joyeusement.
+
+Terminez avec l'enfant et l'adorable dragon allongés paisiblement ensemble dans une immense prairie de fleurs colorées, souriant et savourant ce moment magique.
+
+Utilisez une animation de personnages fluide, des émotions faciales expressives, des mouvements corporels naturels, des transitions de caméra cinématographiques, une faible profondeur de champ, un éclairage volumétrique doux, des couleurs éclatantes, des textures 3D détaillées, une atmosphère magique adaptée aux familles, une qualité digne d'un film d'animation soigné et un ton chaleureux et touchant.
+
+Pas de texte, pas de sous-titres, pas de filigrane.
+Format d'image : 16:9.
+Durée : environ 15 secondes.
 ```
 
 [↑ Retour aux catégories](#catalog)

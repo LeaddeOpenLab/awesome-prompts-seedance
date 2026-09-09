@@ -300,20 +300,40 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2097502400961761425"></a>
 
-### Traducción en curso
+### Escena cinematográfica animada en 3D de un niño pequeño y un dragón bebé blanco perlado jugando en un valle de flores tropical.
 
 Autor：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Publicación original](https://x.com/Zarnab_with_Ai/status/2097502400961761425)
 
 Cine / Fotograma · Renderizado 3D · Personaje · Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena cinematográfica animada en 3D de un niño pequeño y un dragón bebé blanco perlado jugando en un valle de flores tropical.
 
 <img src="covers/2097502400961761425.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una escena de fantasía animada en 3D de alta calidad en un estilo cinematográfico y colorido.
+
+Un lindo niño pequeño con cabello negro desordenado y un atuendo sencillo de tela beige está sentado y jugando entre un campo de hermosas flores junto a un simpático dragón bebé. El dragón es grande, adorable, de color blanco perlado con toques celestes, cuernos pequeños, ojos azules brillantes muy expresivos, escamas suaves similares a plumas alrededor de su cabeza y cuello, y una cola larga y elegante.
+
+La escena se desarrolla en un mágico valle tropical rodeado de exuberantes montañas verdes, aguas cristalinas de color turquesa, árboles tropicales y un cielo azul brillante con suaves nubes blancas.
+
+Comienza con un primer plano del dragón bebé dormido, descansando pacíficamente entre vibrantes flores de color rosa rojizo mientras el pequeño niño se sienta cerca. El dragón abre lentamente los ojos, mira a su alrededor con curiosidad y pone una expresión linda y juguetona.
+
+Transición a una toma más amplia donde el dragón y el niño están rodeados por un campo de hermosas flores azules cerca del agua. El dragón rueda juguetonamente hacia atrás a través de las flores mientras el niño observa y ríe.
+
+Muestra una toma panorámica aérea cinematográfica que revele el hermoso paisaje estilo isla, campos en flor, árboles tropicales, montañas y agua turquesa. Pequeños pájaros coloridos vuelan y saltan alrededor de un árbol cercano mientras el niño y el dragón juegan juntos abajo.
+
+Luego regresa a un primer plano del niño sentado sobre el lomo del dragón. El dragón hace expresiones faciales divertidas y juguetonas mientras el niño ríe felizmente.
+
+Termina con el niño y el adorable dragón acostados pacíficamente juntos en una enorme y colorida pradera de flores, sonriendo y disfrutando del momento mágico.
+
+Usa animación de personajes fluida, emociones faciales expresivas, movimiento corporal natural, transiciones de cámara cinematográficas, profundidad de campo reducida, iluminación volumétrica suave, colores vibrantes, texturas 3D detalladas, atmósfera mágica y apta para toda la familia, calidad pulida de película animada y un tono cálido y conmovedor.
+
+Sin texto, sin subtítulos, sin marcas de agua.
+Relación de aspecto: 16:9.
+Duración: aproximadamente 15 segundos.
 ```
 
 [↑ Volver a categorías](#catalog)
