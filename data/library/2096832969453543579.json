@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T12:00:58.745Z",
+  "model": "seedance2.5",
+  "prompt": "Create a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an umbrella, until a male student kindly shares his black umbrella. They walk together through a realistic U.S. college campus, joking and slowly becoming comfortable with each other.\n\nThey escape to a cozy campus café, share hot coffee beside a rain-covered window, and have a subtle moment of connection. As the rain stops, golden sunlight breaks through the clouds and they walk together across the wet campus.\n\nModern 2026 cinematic coming-of-age style, natural American English dialogue, realistic rain, wet hair and clothing, umbrella physics, puddle reflections, authentic student behavior, handheld smartphone-style camera, natural expressions and subtle romance. No exaggerated acting, CGI, animation, subtitles, music or watermark.",
+  "promptTranslations": {
+    "en": "Create a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an umbrella, until a male student kindly shares his black umbrella. They walk together through a realistic U.S. college campus, joking and slowly becoming comfortable with each other.\n\nThey escape to a cozy campus café, share hot coffee beside a rain-covered window, and have a subtle moment of connection. As the rain stops, golden sunlight breaks through the clouds and they walk together across the wet campus.\n\nModern 2026 cinematic coming-of-age style, natural American English dialogue, realistic rain, wet hair and clothing, umbrella physics, puddle reflections, authentic student behavior, handheld smartphone-style camera, natural expressions and subtle romance. No exaggerated acting, CGI, animation, subtitles, music or watermark."
+  },
+  "summaryTranslations": {
+    "en": "Create a 30-second photorealistic American university romance vlog set during an afternoon rainstorm, following two students sharing an umbrella and visiting a café."
+  },
+  "translationVersion": 2,
+  "summary": "Create a 30-second photorealistic American university romance vlog set during an afternoon rainstorm, following two students sharing an umbrella and visiting a café.",
+  "summaryEn": "Create a 30-second photorealistic American university romance vlog set during an afternoon rainstorm, following two students sharing an umbrella and visiting a café.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096832969453543579",
+    "canonicalUrl": "https://x.com/nawalsehar/status/2096832969453543579",
+    "author": {
+      "username": "nawalsehar",
+      "displayName": "Nawal",
+      "profileUrl": "https://x.com/nawalsehar"
+    },
+    "publishedAt": "2026-09-07T05:28:31.000Z",
+    "collectedAt": "2026-09-08T11:32:47.871Z",
+    "language": "en",
+    "originalText": "Sometimes the best stories begin with a little rain. \n\nCreated on seedance 2.5\n\nPrompt:\nCreate a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an umbrella, until a male student kindly shares his black umbrella. They walk together through a realistic U.S. college campus, joking and slowly becoming comfortable with each other.\n\nThey escape to a cozy campus café, share hot coffee beside a rain-covered window, and have a subtle moment of connection. As the rain stops, golden sunlight breaks through the clouds and they walk together across the wet campus.\n\nModern 2026 cinematic coming-of-age style, natural American English dialogue, realistic rain, wet hair and clothing, umbrella physics, puddle reflections, authentic student behavior, handheld smartphone-style camera, natural expressions and subtle romance. No exaggerated acting, CGI, animation, subtitles, music or watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/nawalsehar/status/2096832969453543579",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096832869259939840/img/mvwhQj_iyMrnLCdu.jpg",
+        "analysisUrl": "https://x.com/nawalsehar/status/2096832969453543579"
+      }
+    ],
+    "metrics": {
+      "likeCount": 248,
+      "repostCount": 4,
+      "replyCount": 91,
+      "quoteCount": 0,
+      "viewCount": 9890
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\",\"nano banana\"]"
+    ]
+  },
+  "xUrl": "https://x.com/nawalsehar/status/2096832969453543579",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096832869259939840/img/mvwhQj_iyMrnLCdu.jpg",
+  "coverPath": "covers/2096832969453543579.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2096832869259939840",
+    "x-post:2096832969453543579"
+  ],
+  "analysis": {
+    "summary": "Create a 30-second photorealistic American university romance vlog set during an afternoon rainstorm, following two students sharing an umbrella and visiting a café.",
+    "summaryEn": "Create a 30-second photorealistic American university romance vlog set during an afternoon rainstorm, following two students sharing an umbrella and visiting a café.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an umbrella, until a male student kindly shares his black umbrella. They walk together through a realistic U.S. college campus, joking and slowly becoming comfortable with each other.\n\nThey escape to a cozy campus café, share hot coffee beside a rain-covered window, and have a subtle moment of connection. As the rain stops, golden sunlight breaks through the clouds and they walk together across the wet campus.\n\nModern 2026 cinematic coming-of-age style, natural American English dialogue, realistic rain, wet hair and clothing, umbrella physics, puddle reflections, authentic student behavior, handheld smartphone-style camera, natural expressions and subtle romance. No exaggerated acting, CGI, animation, subtitles, music or watermark.",
+    "sourceRange": {
+      "start": 88,
+      "end": 1006
+    },
+    "translations": {
+      "zh": "创作一段时长30秒的逼真真人美国大学浪漫Vlog，背景设在午后突降的暴雨中。一名年轻的女大学生在暴雨中没带伞被淋湿，直到一名男学生好心地与她共撑一把黑伞。他们漫步在逼真的美国大学校园中，互相开玩笑，渐渐感到放松自如。\n\n他们躲进一家温馨的校园咖啡馆，坐在挂满雨滴的窗边共享热咖啡，彼此产生微妙的情感连结。雨停时，金色的阳光穿透云层，他们一起漫步在潮湿的校园里。\n\n现代2026年电影质感的成长风格、自然的美式英语对话、逼真的雨水效果、湿漉漉的头发与衣物、伞面物理表现、水坑倒影、真实的学生举止、手持智能手机风格镜头、自然的神态与含蓄的浪漫。无夸张表演、无CGI、无动画、无字幕、无音乐或水印。",
+      "en": "Create a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an umbrella, until a male student kindly shares his black umbrella. They walk together through a realistic U.S. college campus, joking and slowly becoming comfortable with each other.\n\nThey escape to a cozy campus café, share hot coffee beside a rain-covered window, and have a subtle moment of connection. As the rain stops, golden sunlight breaks through the clouds and they walk together across the wet campus.\n\nModern 2026 cinematic coming-of-age style, natural American English dialogue, realistic rain, wet hair and clothing, umbrella physics, puddle reflections, authentic student behavior, handheld smartphone-style camera, natural expressions and subtle romance. No exaggerated acting, CGI, animation, subtitles, music or watermark."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "university romance cinematic vlog",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
