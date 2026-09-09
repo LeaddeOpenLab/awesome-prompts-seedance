@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T02:28:23.839Z",
+  "model": "seedance2.5",
+  "prompt": "Create a 15-second ultra-realistic cinematic 16:9 landscape video featuring a Korean woman in Seoul.\n\n0–2 sec:\nExtreme close-up of her face. She suddenly looks straight into the camera and says with a playful, confident expression: “Watch this.”\n\n2–6 sec:\nShe snaps her fingers.\n\nInstantly, her ordinary outfit transforms into a stunning futuristic Korean street-fashion look while the entire Seoul street freezes mid-motion around her.\n\n6–11 sec:\nShe casually walks through the frozen crowd. As she passes each person, they suddenly unfreeze one by one, but their outfits transform into completely different high-fashion looks.\n\n11–15 sec:\nShe reaches a giant LED billboard, looks at it, and the billboard suddenly displays a live video of HER walking toward it creating an impossible visual loop.\n\nFast-paced editing, extremely realistic Korean woman, natural Korean street environment, premium fashion styling, cinematic night lighting, realistic crowd movement, smooth transformation effects, detailed facial expressions, dynamic camera movement, strong visual hook, surprising ending, polished viral social-media aesthetic, no subtitles, no watermark.",
+  "promptTranslations": {
+    "en": "Create a 15-second ultra-realistic cinematic 16:9 landscape video featuring a Korean woman in Seoul.\n\n0–2 sec:\nExtreme close-up of her face. She suddenly looks straight into the camera and says with a playful, confident expression: “Watch this.”\n\n2–6 sec:\nShe snaps her fingers.\n\nInstantly, her ordinary outfit transforms into a stunning futuristic Korean street-fashion look while the entire Seoul street freezes mid-motion around her.\n\n6–11 sec:\nShe casually walks through the frozen crowd. As she passes each person, they suddenly unfreeze one by one, but their outfits transform into completely different high-fashion looks.\n\n11–15 sec:\nShe reaches a giant LED billboard, looks at it, and the billboard suddenly displays a live video of HER walking toward it creating an impossible visual loop.\n\nFast-paced editing, extremely realistic Korean woman, natural Korean street environment, premium fashion styling, cinematic night lighting, realistic crowd movement, smooth transformation effects, detailed facial expressions, dynamic camera movement, strong visual hook, surprising ending, polished viral social-media aesthetic, no subtitles, no watermark."
+  },
+  "summaryTranslations": {
+    "en": "A 15-second cinematic video prompt detailing timed sequences of a Korean woman in Seoul snapping her fingers to freeze time, transforming outfits, and triggering a visual loop on an LED billboard."
+  },
+  "translationVersion": 2,
+  "summary": "A 15-second cinematic video prompt detailing timed sequences of a Korean woman in Seoul snapping her fingers to freeze time, transforming outfits, and triggering a visual loop on an LED billboard.",
+  "summaryEn": "A 15-second cinematic video prompt detailing timed sequences of a Korean woman in Seoul snapping her fingers to freeze time, transforming outfits, and triggering a visual loop on an LED billboard.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097182918368276602",
+    "canonicalUrl": "https://x.com/MissDelulu9/status/2097182918368276602",
+    "author": {
+      "username": "MissDelulu9",
+      "displayName": "Eesha",
+      "profileUrl": "https://x.com/MissDelulu9"
+    },
+    "publishedAt": "2026-09-08T04:39:06.000Z",
+    "collectedAt": "2026-09-08T11:32:47.871Z",
+    "language": "en",
+    "originalText": "A glitch in reality\n\nMade with Seedance 2.5 \n\nPrompt:\n\nCreate a 15-second ultra-realistic cinematic 16:9 landscape video featuring a Korean woman in Seoul.\n\n0–2 sec:\nExtreme close-up of her face. She suddenly looks straight into the camera and says with a playful, confident expression: “Watch this.”\n\n2–6 sec:\nShe snaps her fingers.\n\nInstantly, her ordinary outfit transforms into a stunning futuristic Korean street-fashion look while the entire Seoul street freezes mid-motion around her.\n\n6–11 sec:\nShe casually walks through the frozen crowd. As she passes each person, they suddenly unfreeze one by one, but their outfits transform into completely different high-fashion looks.\n\n11–15 sec:\nShe reaches a giant LED billboard, looks at it, and the billboard suddenly displays a live video of HER walking toward it creating an impossible visual loop.\n\nFast-paced editing, extremely realistic Korean woman, natural Korean street environment, premium fashion styling, cinematic night lighting, realistic crowd movement, smooth transformation effects, detailed facial expressions, dynamic camera movement, strong visual hook, surprising ending, polished viral social-media aesthetic, no subtitles, no watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/MissDelulu9/status/2097182918368276602",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097182597915033600/img/0Ct7WAJERjlXWbeh.jpg",
+        "analysisUrl": "https://x.com/MissDelulu9/status/2097182918368276602"
+      }
+    ],
+    "metrics": {
+      "likeCount": 90,
+      "repostCount": 9,
+      "replyCount": 55,
+      "quoteCount": 0,
+      "viewCount": 1756
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\",\"nano banana\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MissDelulu9/status/2097182918368276602",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097182597915033600/img/0Ct7WAJERjlXWbeh.jpg",
+  "coverPath": "covers/2097182918368276602.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097182597915033600",
+    "x-post:2097182918368276602"
+  ],
+  "analysis": {
+    "summary": "A 15-second cinematic video prompt detailing timed sequences of a Korean woman in Seoul snapping her fingers to freeze time, transforming outfits, and triggering a visual loop on an LED billboard.",
+    "summaryEn": "A 15-second cinematic video prompt detailing timed sequences of a Korean woman in Seoul snapping her fingers to freeze time, transforming outfits, and triggering a visual loop on an LED billboard.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 15-second ultra-realistic cinematic 16:9 landscape video featuring a Korean woman in Seoul.\n\n0–2 sec:\nExtreme close-up of her face. She suddenly looks straight into the camera and says with a playful, confident expression: “Watch this.”\n\n2–6 sec:\nShe snaps her fingers.\n\nInstantly, her ordinary outfit transforms into a stunning futuristic Korean street-fashion look while the entire Seoul street freezes mid-motion around her.\n\n6–11 sec:\nShe casually walks through the frozen crowd. As she passes each person, they suddenly unfreeze one by one, but their outfits transform into completely different high-fashion looks.\n\n11–15 sec:\nShe reaches a giant LED billboard, looks at it, and the billboard suddenly displays a live video of HER walking toward it creating an impossible visual loop.\n\nFast-paced editing, extremely realistic Korean woman, natural Korean street environment, premium fashion styling, cinematic night lighting, realistic crowd movement, smooth transformation effects, detailed facial expressions, dynamic camera movement, strong visual hook, surprising ending, polished viral social-media aesthetic, no subtitles, no watermark.",
+    "sourceRange": {
+      "start": 55,
+      "end": 1211
+    },
+    "translations": {
+      "zh": "生成一段15秒超逼真电影感16:9横版视频，主角为首尔的一位韩国女性。\n\n0–2秒：\n脸部特写。她突然直视镜头，带着俏皮自信的表情说：“Watch this.”\n\n2–6秒：\n她打了个响指。\n瞬间，她普通的衣服变成令人惊艳的未来感韩国街头时尚造型，而周围整条首尔街道的人群瞬间定格。\n\n6–11秒：\n她悠闲地穿过定格的人群。当她走过每个人身旁时，他们逐一解冻恢复动作，但身上的服装都变成了风格截然不同的高级时装。\n\n11–15秒：\n她走到一块巨大的LED广告牌前，抬头看去，广告牌突然开始实时播放她正向其走来的现场画面，构成一个不可能的视觉循环闭环。\n\n快节奏剪辑，极其逼真的韩国女性，自然的首尔街景，高级时尚造型，电影级夜景灯光，逼真的人群动态，平滑的变装变换特效，细腻的面部表情，动态运镜，强烈的视觉抓手，出人意料的结尾，精致的社交媒体爆款美学，无字幕，无水印。",
+      "en": "Create a 15-second ultra-realistic cinematic 16:9 landscape video featuring a Korean woman in Seoul.\n\n0–2 sec:\nExtreme close-up of her face. She suddenly looks straight into the camera and says with a playful, confident expression: “Watch this.”\n\n2–6 sec:\nShe snaps her fingers.\n\nInstantly, her ordinary outfit transforms into a stunning futuristic Korean street-fashion look while the entire Seoul street freezes mid-motion around her.\n\n6–11 sec:\nShe casually walks through the frozen crowd. As she passes each person, they suddenly unfreeze one by one, but their outfits transform into completely different high-fashion looks.\n\n11–15 sec:\nShe reaches a giant LED billboard, looks at it, and the billboard suddenly displays a live video of HER walking toward it creating an impossible visual loop.\n\nFast-paced editing, extremely realistic Korean woman, natural Korean street environment, premium fashion styling, cinematic night lighting, realistic crowd movement, smooth transformation effects, detailed facial expressions, dynamic camera movement, strong visual hook, surprising ending, polished viral social-media aesthetic, no subtitles, no watermark."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic visual storytelling and fashion transformation video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
