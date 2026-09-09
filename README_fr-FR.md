@@ -890,7 +890,7 @@ La vidéo se termine par un coffret de bijoux haut de gamme présentant la parur
 
 <a name="prompt-2097320255139795072"></a>
 
-### Traduction en cours
+### Prompt de scénarimage détaillé en vue subjective \(POV\) montrant un changement de tenue d'une jeune femme télécommandé par smartphone.
 
 Auteur：[@johnAGI168](https://x.com/johnAGI168) · [Publication originale](https://x.com/johnAGI168/status/2097320255139795072)
 
@@ -898,14 +898,67 @@ Bande dessinée / Storyboard · Article de mode · Publié
 
 Publication originale：[@johnAGI168](https://x.com/johnAGI168) · [Publication originale](https://x.com/johnAGI168/status/2077395194773672409)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de scénarimage détaillé en vue subjective \(POV\) montrant un changement de tenue d'une jeune femme télécommandé par smartphone.
 
 <img src="covers/2097320255139795072.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Duration: 20秒
+Aspect ratio: 9:16
+Overall style: Mini-drame en vue subjective (POV) du petit ami à la première personne, léger tremblement naturel de respiration caméra au poing d'un vrai smartphone, lumière naturelle intérieure limpide, changement de tenue instantané par glissement + clic sur smartphone, rythme vif et doux/romantique, format vertical
+
+【Scène】Salon/chambre lumineux, lumière naturelle venant de baies vitrées, arrière-plan sobre et chaleureux, sol propre sans désordre
+【Personnages】L'héroïne (@图片1, porte la tenue d'origine du personnage au début) ; le héros est en perspective POV, son visage n'apparaît jamais durant toute la scène, seules les mains masculines tenant le téléphone apparaissent en bas de l'image
+【Accessoires】Un smartphone moderne plein écran, tenu verticalement. L'écran affiche une application de stylisme sobre et tendance : grand aperçu en haut, cartes de vêtements défilant horizontalement en bas. Chaque glissement possède une inertie fluide suivant le doigt, et toucher une carte déclenche un léger zoom sur l'écran + un retour haptique court
+
+SHOT 1（00:00-00:03.5）Présentation d'ouverture
+Visuel : POV, l'héroïne se tient au centre de l'image, fait joyeusement un demi-tour sur elle-même pour montrer sa tenue, soulevant délicatement le bas de son vêtement à deux mains, les yeux pétillants tournés vers la caméra.
+Dialogue : Héroïne : « Mon chéri, tu trouves comment ce que je porte aujourd'hui ? »
+Effets sonores : Bruit d'ambiance d'intérieur, doux froissement de tissu.
+Constraints: Héroïne visible en pied, tenue d'ouverture = tenue d'origine du personnage.
+
+SHOT 2（00:03.5-00:06.5）Sortie du smartphone + premier glissement
+Visuel : En bas de l'écran, la main du héros entre dans le champ en tenant le smartphone, l'écran s'allume, affichant l'application de tenues. Le pouce glisse de droite à gauche sur les cartes, s'arrêtant sur la carte de @衣服1, l'image d'aperçu s'agrandit.
+Dialogue : Héros (voix off, nonchalant) : « Pas mal. Essaie celle-là pour voir. »
+Effets sonores : Léger bruit de frottement de glissement sur l'écran.
+Constraints: Écran du smartphone net et lisible, la carte doit clairement être identifiable comme @衣服1 ; le héros ne montre que ses mains, aucun visage.
+
+SHOT 3（00:06.5-00:09.5）Premier clic et métamorphose instantanée
+Visuel : Le pouce clique sur la carte de @衣服1, courte vibration de l'écran. Sur la même image où s'effectue le clic, la tenue de l'héroïne se transforme instantanément en @衣服1, sa position, sa pose et sa coiffure étant en parfaite continuité ; elle baisse les yeux vers ses vêtements, ouvre de grands yeux et la bouche béate, puis relève le regard vers la caméra.
+Dialogue : Héroïne (surprise) : « Hein ?! »
+Effets sonores : « Bip » cristallin + « ding » de changement de tenue, léger bruit de tissu qui se déploie.
+Constraints: Le changement de vêtement a lieu sur la même image que le clic, métamorphose en une seule image ; possibilité d'ajouter une douce lueur balayant le corps de haut en bas ; interdiction de fondus enchaînés, d'écrans noirs ou de sauts de position du personnage.
+
+SHOT 4（00:09.5-00:13）Deuxième glissement + clic et métamorphose instantanée
+Visuel : Le pouce glisse à nouveau vers la gauche, la carte s'arrête sur @衣服2, un clic. Sur la même image, l'héroïne passe à @衣服2 ; cette fois, elle réalise, rougit légèrement, tord ses doigts devant elle, esquisse un mouvement timide du corps, détournant le regard tout en ne pouvant s'empêcher de fixer la caméra.
+Dialogue : Héros (voix off) : « Celle-ci va bien aussi. »
+Héroïne (à voix basse) : « Tu... tu cliques n'importe comment. »
+Effets sonores : Bruit de glissement + « bip » + « ding », musique entraînante qui monte progressivement.
+Constraints: Le glissement doit montrer de manière complète le passage de la carte @衣服1 à @衣服2 ; le changement de vêtement reste une coupe franche sur la même image que le clic.
+
+SHOT 5（00:13-00:16.5）Troisième glissement + clic et métamorphose instantanée
+Visuel : Glissement vers @衣服3, un clic. Sur la même image, passage à @衣服3 ; l'héroïne s'y est déjà habituée, se mordille légèrement la lèvre inférieure, lève la main pour ajuster le col/l'ourlet de la nouvelle tenue, avec une lueur un brin fière dans le regard vers la caméra.
+Dialogue : Héroïne : « Cet ensemble... est vraiment pas mal du tout. »
+Effets sonores : « Bip » + « ding », le tempo de la musique s'accélère d'un demi-temps.
+Constraints: Progression sur trois réactions : surprise → timidité → fierté ; présence de petits gestes à chaque fois, posture figée interdite.
+
+SHOT 6（00:16.5-00:20）Quatrième glissement + clic + conclusion
+Visuel : Dernier glissement qui s'arrête sur @衣服4, le pouce clique. Sur la même image, l'héroïne se transforme instantanément en @衣服4 ; elle éclate de rire, fait un pas en avant en s'approchant de la caméra, plissant les yeux avec malice. Le smartphone est toujours tenu en bas de l'image, l'écran restant sur l'aperçu de @衣服4.
+Dialogue : Héros (voix off, satisfait) : « C'est celle-là qu'on garde. »
+Héroïne (s'approchant en souriant, faussement boudeuse) : « Tu es trop méchant... mais j'adore ! »
+Effets sonores : « Bip » + « ding », la musique se clôt sur un temps fort tout doux à la fin de la réplique de l'héroïne.
+Constraints: À la fin, l'héroïne s'approche sans trop coller à l'objectif ; le téléphone reste visible en permanence en bas de l'image ; ordre des tenues verrouillé : ouverture = originale → @衣服1 → @衣服2 → @衣服3 → @衣服4, ne pas modifier.
+
+【Règles d'or de réalisation】
+1. Règle d'or du changement de tenue : Chaque changement a lieu sur la même image que le « clic », métamorphose nette sur une seule image. La position, la posture, la coiffure et la forme du visage de l'héroïne restent parfaitement continues d'une image à l'autre, seuls les vêtements changent.
+2. Règle d'or de la POV : Caméra = yeux du héros, léger tremblement de respiration caméra au poing tout au long de la scène ; le héros ne montre que ses mains + voix off, interdiction absolue de montrer son visage.
+3. Règle d'or du smartphone : À chaque fois, glisser d'abord puis cliquer, le glissement suit le doigt avec fluidité, le changement de cartes est bien visible ; interdiction de changer de tenue spontanément, interdiction de changer sans regarder l'écran.
+4. Références de tenue : Ouverture = vêtements d'origine de @图片1 ; 1ère fois = @衣服1 ; 2ème fois = @衣服2 ; 3ème fois = @衣服3 ; 4ème fois = @衣服4.
+5. Mouvements labiaux nets lors des dialogues, calés sur le rythme des clics.
+
+Negative: Fondu enchaîné pour changer de tenue, flash noir, flash blanc, fumée, rotation pour masquer, téléportation du personnage, rupture de pose, déformation du visage, changement de coiffure, chaussures changeant au hasard (sauf si incluses dans l'image de la tenue), révélation du visage du héros, format paysage, sous-titres, filigranes, logos, changement brusque d'arrière-plan, plusieurs personnes dans le plan, tenues d'intérieur trop amples sauf si précisé dans l'image de la tenue, secousses brutales de caméra, écran de smartphone flou et illisible.
 ```
 
 [↑ Retour aux catégories](#catalog)

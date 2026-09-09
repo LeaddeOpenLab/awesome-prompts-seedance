@@ -890,7 +890,7 @@ Illuminazione cinematografica morbida, calde tonalità dorate, estetica da spot 
 
 <a name="prompt-2097320255139795072"></a>
 
-### Traduzione in corso
+### Prompt di sceneggiatura dettagliata con storyboard in prospettiva POV per il cambio d'abito di una ragazza controllato a distanza tramite smartphone.
 
 Autore：[@johnAGI168](https://x.com/johnAGI168) · [Post originale](https://x.com/johnAGI168/status/2097320255139795072)
 
@@ -898,14 +898,67 @@ Fumetto / Storyboard · Articolo di moda · Pubblicato
 
 Post originale：[@johnAGI168](https://x.com/johnAGI168) · [Post originale](https://x.com/johnAGI168/status/2077395194773672409)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di sceneggiatura dettagliata con storyboard in prospettiva POV per il cambio d'abito di una ragazza controllato a distanza tramite smartphone.
 
 <img src="covers/2097320255139795072.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Duration: 20秒
+Aspect ratio: 9:16
+Overall style: Mini-drama in prima persona POV del fidanzato, leggero tremolio realistico del respiro a mano libera da smartphone, luce naturale interna trasparente e luminosa, cambio d'abito istantaneo tramite swipe + tocco su smartphone, ritmo leggero e tenero/romantico, formato verticale
+
+【Scena】Soggiorno/camera da letto luminoso, luce naturale da vetrate a tutta altezza, sfondo semplice e accogliente, pavimento pulito senza disordine
+【Personaggi】Protagonista femminile (@图片1, all'inizio indossa l'abito originale del personaggio); il protagonista maschile è la prospettiva POV, non mostra mai il volto per tutta la durata, compaiono solo mani maschili che reggono lo smartphone nella parte inferiore dell'inquadratura
+【Oggetti di scena】Uno smartphone moderno a tutto schermo, tenuto in verticale. Sullo schermo c'è una semplice ed elegante app di moda: grande anteprima in alto, schede di abiti scorrevoli in orizzontale in basso. Ogni swipe ha un'inerzia fluida che segue il dito, al tocco della scheda c'è un leggero zoom dello schermo + feedback con breve vibrazione
+
+SHOT 1（00:00-00:03.5）Presentazione iniziale
+Inquadratura: POV, la protagonista femminile è in piedi al centro dell'inquadratura, compie felicemente un mezzo giro sul posto per mostrare l'outfit, sollevando delicatamente i lembi del vestito con entrambe le mani, con gli occhi lucidi e luminosi rivolti verso la fotocamera.
+Battute: Protagonista femminile: "Amore, guarda come sto vestita oggi?"
+Effetti sonori: Rumore di fondo dell'ambiente interno, fruscio leggero del tessuto.
+Constraints: Protagonista femminile a figura intera nell'inquadratura, outfit iniziale = abito originale del personaggio.
+
+SHOT 2（00:03.5-00:06.5）Estrarre lo smartphone + primo scorrimento
+Inquadratura: Nella parte inferiore dell'inquadratura, la mano del protagonista maschile solleva lo smartphone entrando nel campo, lo schermo si accende mostrando l'app di outfit. Il pollice scorre da destra a sinistra sulle schede, fermandosi sulla scheda di @衣服1, l'anteprima si ingrandisce.
+Battute: Protagonista maschile (voce fuori campo, tono pigro): "Carino. Prova questo set qui."
+Effetti sonori: Leggero rumore di attrito dello scorrimento sullo schermo.
+Constraints: Schermo dello smartphone chiaro e leggibile, la scheda deve mostrare chiaramente @衣服1; il protagonista maschile mostra solo le mani, mai il volto.
+
+SHOT 3（00:06.5-00:09.5）Primo tocco e cambio istantaneo
+Inquadratura: Il pollice tocca la scheda di @衣服1, breve vibrazione dello schermo. Nello stesso fotogramma in cui avviene il tocco, l'outfit della protagonista femminile si trasforma istantaneamente in @衣服1, la posizione in piedi, la posa e l'acconciatura sono perfettamente continue; abbassa lo sguardo verso l'abito, sgrana gli occhi e apre la bocca, poi rialza lo sguardo verso la fotocamera.
+Battute: Protagonista femminile (sorpresa): "Eh?!"
+Effetti sonori: Nitido "bip" + "ding" di cambio d'abito, leggero fruscio del tessuto che si apre.
+Constraints: Il cambio d'abito avviene nello stesso fotogramma del tocco, trasformazione istantanea in un singolo fotogramma; consentito un bagliore delicato che scende dall'alto verso il basso sul corpo; vietate dissolvenze incrociate, flash neri o salti di posizione del personaggio.
+
+SHOT 4（00:09.5-00:13）Secondo scorrimento + tocco con cambio istantaneo
+Inquadratura: Il pollice scorre di nuovo verso sinistra, la scheda si ferma su @衣服2, un tocco. Nello stesso fotogramma la protagonista passa a @衣服2; questa volta realizza cosa sta accadendo, arrossisce leggermente, intreccia le dita davanti a sé, muove il busto timidamente con una piccola torsione, distoglie lo sguardo ma non può fare a meno di guardare la fotocamera.
+Battute: Protagonista maschile (voce fuori campo): "Anche questo va bene."
+Protagonista femminile (a bassa voce): "Tu... premi a caso."
+Effetti sonori: Rumore di scorrimento + "bip" + "ding", musica allegra che sale gradualmente.
+Constraints: Lo scorrimento deve mostrare interamente il passaggio dalla scheda @衣服1 a @衣服2; il cambio d'abito rimane un taglio netto nello stesso fotogramma del tocco.
+
+SHOT 5（00:13-00:16.5）Terzo scorrimento + tocco con cambio istantaneo
+Inquadratura: Altro scorrimento fino a @衣服3, un tocco. Nello stesso fotogramma cambia in @衣服3; la protagonista si è ormai abituata, si morde leggermente il labbro inferiore, alza la mano per sistemare il colletto/l'orlo del nuovo abito, con uno sguardo un po' compiaciuto verso la fotocamera.
+Battute: Protagonista femminile: "Questo... è proprio carino, dai."
+Effetti sonori: "Bip" + "ding", il ritmo della musica accelera di mezzo battito.
+Constraints: Progressione di tre reazioni: sorpresa → timidezza → compiacimento; ogni volta sono presenti micro-movimenti, vietato restare immobili come statue.
+
+SHOT 6（00:16.5-00:20）Quarto scorrimento + tocco + chiusura
+Inquadratura: Ultimo scorrimento che si ferma su @衣服4, il pollice preme. Nello stesso fotogramma la protagonista si trasforma istantaneamente in @衣服4; si mette a ridere apertamente, fa un passo in avanti avvicinandosi alla fotocamera, strizzando gli occhi con fare furbo. Lo smartphone è ancora visibile nella parte inferiore dello schermo, con l'anteprima ferma su @衣服4.
+Battute: Protagonista maschile (voce fuori campo, soddisfatto): "Questo è deciso."
+Protagonista femminile (avvicinandosi sorridente, con fare giocosamente imbronciato): "Sei tremendo... ma mi piace un sacco!"
+Effetti sonori: "Bip" + "ding", la musica si chiude su una battuta dolce e d'accento alla fine della frase della protagonista.
+Constraints: Nel finale la protagonista si avvicina ma senza incollarsi eccessivamente all'obiettivo; lo smartphone è costantemente visibile in basso; ordine degli outfit bloccato: apertura = originale → @衣服1 → @衣服2 → @衣服3 → @衣服4, da non alterare.
+
+【Regole ferree di regia】
+1. Regola ferrea sul cambio d'abito: Ogni cambio d'abito avviene nello stesso identico fotogramma del "tocco", trasformazione istantanea in un singolo fotogramma. La posizione, la postura, l'acconciatura e la forma del viso della protagonista rimangono perfettamente continue attraverso il fotogramma di cambio, muta solo l'abito.
+2. Regola ferrea del POV: Inquadratura = occhi del protagonista maschile, lieve tremolio respiratorio a mano libera per tutto il tempo; il protagonista mostra solo le mani + voce fuori campo, vietato mostrare il volto.
+3. Regola ferrea dello smartphone: Ogni volta bisogna prima scorrere e poi toccare, lo scorrimento segue il dito e il cambio di schede deve essere netto; vietato cambiare abiti dal nulla, vietato cambiare senza guardare lo schermo.
+4. Riferimenti agli abiti: Apertura = abito originale di @图片1; 1ª volta = @衣服1; 2ª volta = @衣服2; 3ª volta = @衣服3; 4ª volta = @衣服4.
+5. Labiale chiaro nei dialoghi, sincronizzato al ritmo del tocco.
+
+Negative: dissolvenze incrociate nel cambio d'abito, flash neri, flash bianchi, fumo, rotazioni per occultare, teletrasporto del personaggio, interruzione della posa, alterazioni della forma del viso, cambiamenti di acconciatura, scarpe che cambiano casualmente (a meno che non siano fornite nell'immagine dell'abito), mostrare il volto del fidanzato, formato orizzontale, sottotitoli, watermark, loghi, cambio improvviso dello sfondo, più persone nell'inquadratura, abiti comodi da casa larghi a meno che l'immagine dell'abito non sia tale, scossoni violenti della fotocamera, schermo dello smartphone sfocato e illeggibile.
 ```
 
 [↑ Torna alle categorie](#catalog)

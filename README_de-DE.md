@@ -890,7 +890,7 @@ Sanfte filmische Beleuchtung, warme Goldtöne, Ästhetik eines Luxus-Werbespots,
 
 <a name="prompt-2097320255139795072"></a>
 
-### Übersetzung läuft
+### Detaillierter Storyboard-Skript-Prompt für den ferngesteuerten Outfitwechsel einer Frau per Handy aus der POV-Perspektive.
 
 Autor：[@johnAGI168](https://x.com/johnAGI168) · [Originalbeitrag](https://x.com/johnAGI168/status/2097320255139795072)
 
@@ -898,14 +898,67 @@ Comic / Storyboard · Modeartikel · Veröffentlicht
 
 Originalbeitrag：[@johnAGI168](https://x.com/johnAGI168) · [Originalbeitrag](https://x.com/johnAGI168/status/2077395194773672409)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Detaillierter Storyboard-Skript-Prompt für den ferngesteuerten Outfitwechsel einer Frau per Handy aus der POV-Perspektive.
 
 <img src="covers/2097320255139795072.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Duration: 20秒
+Aspect ratio: 9:16
+Overall style: POV-Freund-Minidrama aus der Ich-Perspektive, echtes, leichtes Atemwackeln einer Handykamera, durchlässiges natürliches Raumlicht, sofortiger Outfitwechsel per Handy-Wischen + Antippen, flotter und süß-romantischer Rhythmus, Hochformat
+
+【Szene】Helles Wohn-/Schlafzimmer, bodentiefe Fenster mit natürlichem Licht, schlichter und gemütlicher Hintergrund, sauberer Boden ohne Unordnung
+【Charaktere】Weibliche Hauptfigur (@图片1, trägt zu Beginn das Originaloutfit des Charakters); die männliche Hauptfigur ist die POV-Perspektive, zeigt das gesamte Video über kein Gesicht, nur die das Handy haltenden Männerhände erscheinen am unteren Bildrand
+【Requisiten】Ein modernes Vollbild-Smartphone, vertikal gehalten. Auf dem Bildschirm ist eine schlichte, modische Styling-App: oben große Vorschau, unten horizontal wischbare Outfit-Karten. Jedes Wischen hat eine fingerfolgende Trägheit, beim Antippen einer Karte gibt es ein leichtes Bildschirm-Zoomen + kurzes Vibrations-Feedback
+
+SHOT 1（00:00-00:03.5）Eröffnungspräsentation
+Bild: POV, die weibliche Hauptfigur steht in der Bildmitte, dreht sich fröhlich auf der Stelle eine halbe Umdrehung, um ihr Outfit zu präsentieren, hebt mit beiden Händen leicht den Saum ihrer Kleidung an und blickt mit leuchtenden Augen in die Kamera.
+Dialog: Weibliche Hauptfigur: „Schatz, schau mal, wie gefällt dir mein heutiges Outfit?“
+Soundeffekte: Raumgrundrauschen, leises Rascheln von Stoff.
+Constraints: Weibliche Hauptfigur als Ganzkörper im Bild, Eröffnungsoutfit = Originaloutfit des Charakters.
+
+SHOT 2（00:03.5-00:06.5）Handy hervorholen + erstes Wischen
+Bild: Am unteren Bildrand hebt die Hand der männlichen Hauptfigur das Handy ins Bild, der Bildschirm leuchtet auf und zeigt die Outfit-App. Der Daumen wischt von rechts nach links über die Karten und stoppt auf der Karte von @衣服1, das Vorschaubild vergrößert sich.
+Dialog: Männliche Hauptfigur (Voice-Over, träge): „Geht so. Probier mal dieses Set an.“
+Soundeffekte: Leises Reibungsgeräusch beim Wischen über den Bildschirm.
+Constraints: Handybildschirm klar lesbar, auf der Karte ist @衣服1 deutlich zu erkennen; die männliche Hauptfigur zeigt nur die Hände, kein Gesicht.
+
+SHOT 3（00:06.5-00:09.5）Erstes Antippen mit Sofortwechsel
+Bild: Der Daumen tippt auf die Karte von @衣服1, kurzer Bildschirmimpuls/Vibration. Im selben Frame des Tippens verwandelt sich das Outfit der weiblichen Hauptfigur sofort in @衣服1, Standposition, Pose und Frisur sind vollkommen nahtlos; sie blickt an sich herab auf die Kleidung, reißt Augen und Mund weit auf und schaut dann wieder überrascht in die Kamera.
+Dialog: Weibliche Hauptfigur (überrascht): „Huch?!“
+Soundeffekte: Klares „Piep“ + Outfitwechsel-„Pling“, leises Entfalten von Stoff.
+Constraints: Der Outfitwechsel erfolgt im selben Frame des Antippens, Ein-Frame-Sofortwechsel; ein weicher, von oben nach unten über den Körper gleitender Lichtschimmer ist zulässig; verboten sind Überblendungen, Schwarzblenden oder Positionswechsel der Person.
+
+SHOT 4（00:09.5-00:13）Zweites Wischen + Antippen mit Sofortwechsel
+Bild: Der Daumen wischt erneut nach links, die Karte stoppt bei @衣服2, kurzes Antippen. Im selben Frame wechselt die Hauptdarstellerin zu @衣服2; dieses Mal realisiert sie es, errötet leicht, verflicht verlegen die Finger vor ihrem Körper, windet sich schüchtern ein wenig, weicht dem Blick aus und kann doch nicht widerstehen, in die Kamera zu schauen.
+Dialog: Männliche Hauptfigur (Voice-Over): „Das hier geht auch.“
+Weibliche Hauptfigur (leise): „Du... tippst einfach wild herum.“
+Soundeffekte: Wischgeräusch + „Piep“ + „Pling“, heitere Musik setzt allmählich ein.
+Constraints: Beim Wischen muss der Übergang von der Karte @衣服1 zu @衣服2 vollständig sichtbar sein; der Outfitwechsel bleibt ein harter Schnitt im selben Frame des Antippens.
+
+SHOT 5（00:13-00:16.5）Drittes Wischen + Antippen mit Sofortwechsel
+Bild: Erneutes Wischen zu @衣服3, kurzes Antippen. Im selben Frame Wechsel zu @衣服3; die Hauptfigur hat sich bereits daran gewöhnt, beißt sich leicht auf die Unterlippe, hebt die Hand, um Kragen/Saum des neuen Outfits zu richten, und schaut mit einem leicht stolzen Blick in die Kamera.
+Dialog: Weibliche Hauptfigur: „Dieses Set... sieht eigentlich ziemlich gut aus.“
+Soundeffekte: „Piep“ + „Pling“, der Musikrhythmus beschleunigt sich um einen halben Takt.
+Constraints: Steigerung über drei Reaktionen: Überraschung → Schüchternheit → Stolz; jedes Mal mit kleinen Gesten, lebloses Stillstehen verboten.
+
+SHOT 6（00:16.5-00:20）Viertes Wischen + Antippen + Abschluss
+Bild: Letztes Wischen stoppt bei @衣服4, Daumen tippt an. Im selben Frame verwandelt sich die Hauptfigur sofort in @衣服4; sie bricht direkt in ein Lächeln aus, macht einen Schritt vorwärts auf die Kamera zu und kneift schelmisch die Augen zusammen. Das Handy wird weiterhin am unteren Bildrand gehalten, der Bildschirm verweilt auf der Vorschau von @衣服4.
+Dialog: Männliche Hauptfigur (Voice-Over, zufrieden): „Das hier wird genommen.“
+Weibliche Hauptfigur (lächelnd herantretend, liebevoll schmollend): „Du bist so gemein – aber ich liebe es!“
+Soundeffekte: „Piep“ + „Pling“, die Musik endet genau mit dem Dialog der Hauptdarstellerin auf einem süßen Akzentschlag.
+Constraints: Am Ende tritt die Hauptdarstellerin näher heran, klebt aber nicht zu nah an der Linse; das Smartphone bleibt am unteren Bildrand stets sichtbar; feste Outfit-Reihenfolge: Start = Original → @衣服1 → @衣服2 → @衣服3 → @衣服4, darf nicht verändert werden.
+
+【Feste Regie-Regeln】
+1. Outfitwechsel-Regel: Jeder Outfitwechsel erfolgt exakt im selben Frame wie das „Antippen“, ein Ein-Frame-Sofortwechsel. Standposition, Haltung, Frisur und Gesichtsform der weiblichen Hauptfigur sind über den Wechsel-Frame hinweg vollständig konsistent, nur die Kleidung ändert sich.
+2. POV-Regel: Kamera = Augen der männlichen Hauptfigur, durchgehend leichtes Atemwackeln aus der Hand; die männliche Hauptfigur zeigt nur Hände + Voice-Over, Gesichter dürfen nicht gezeigt werden.
+3. Handy-Regel: Jedes Mal muss zuerst gewischt und dann getippt werden, das Wischen folgt der Fingerbewegung, Kartenwechsel müssen klar erkennbar sein; kein Outfitwechsel aus dem Nichts, kein Wechsel ohne vorherigen Blick auf den Bildschirm.
+4. Outfit-Referenzen: Eröffnung = Originalkleidung von @图片1; 1. Mal = @衣服1; 2. Mal = @衣服2; 3. Mal = @衣服3; 4. Mal = @衣服4.
+5. Lippenbewegungen beim Dialog klar und präzise auf den Takt des Antippens abgestimmt.
+
+Negative: Überblendungen/Cross-Dissolves beim Outfitwechsel, Schwarzblende, Weißblende, Rauch, Verdecken durch Drehungen, Teleportieren der Figur, Posenbrüche, Änderungen der Gesichtsform, Änderungen der Frisur, willkürlich wechselnde Schuhe (es sei denn, sie sind im Outfit-Bild enthalten), Zeigen des Gesichts der männlichen Hauptfigur, Querformat, Untertitel, Wasserzeichen, Logos, plötzlicher Hintergrundwechsel, mehrere Personen im Bild, lockere Hauskleidung (sofern nicht im Outfit-Bild vorgegeben), starkes Wackeln der Kamera, verschwommener und unlesbarer Handybildschirm.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
