@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:11:54.343Z",
+  "model": "seedance2.5",
+  "prompt": "Duration: 20秒\nAspect ratio: 9:16\nOverall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏\n\n【场景】明亮客厅/卧室，落地窗自然光，背景简洁温馨，地面干净无杂物\n【角色】女主（@图片1，开场穿角色原本服装）；男主为POV视角，全程不露脸，仅画面下方出现持手机的男性手\n【道具】一部现代全面屏手机，竖持。屏幕是简洁时尚穿搭App：上方大预览图，下方横向可滑动的服装卡片。每次滑动有跟手惯性，点击卡片时屏幕轻微缩放+短震反馈\n\nSHOT 1（00:00-00:03.5）开场展示\n画面：POV，女主站画面中央，开心地原地转半圈展示穿搭，双手轻提衣摆，眼睛亮亮看镜头。\n台词：女主：\"老公，看我今天穿得怎么样？\"\n音效：室内底噪，衣料轻响。\nConstraints: 女主全身入画，开场服装=角色原本服装。\n\nSHOT 2（00:03.5-00:06.5）掏出手机+第一次滑动\n画面：画面下方男主手举起手机入镜，屏幕亮起，显示穿搭App。拇指从右向左滑过卡片，停在@衣服1的卡片上，预览图放大。\n台词：男主（画外音，慵懒）：\"还行。换这套看看。\"\n音效：屏幕滑动轻摩擦声。\nConstraints: 手机屏幕清晰可读，卡片上能看出是@衣服1；男主只出手，不露脸。\n\nSHOT 3（00:06.5-00:09.5）第一次点击瞬变\n画面：拇指点在@衣服1卡片上，屏幕短震。点击落下的同一帧，女主服装瞬间变成@衣服1，站位、姿势、发型完全连续；她低头看衣服，瞪大眼张嘴，再抬头看镜头。\n台词：女主（惊讶）：\"诶？！\"\n音效：清脆\"滴\"+换装\"叮\"，衣料展开微响。\nConstraints: 换装发生在点击同一帧，单帧瞬变；可加一道从上到下扫过身体的柔和微光；禁止叠化、黑闪、人物跳位。\n\nSHOT 4（00:09.5-00:13）第二次滑动+点击瞬变\n画面：拇指再次左滑，卡片停在@衣服2，点一下。同一帧女主换成@衣服2；这次她反应过来，脸颊微红，手指绞在身前，害羞小幅扭身，眼神躲闪又忍不住看镜头。\n台词：男主（画外音）：\"这套也行。\"\n女主（小声）：\"你……乱点。\"\n音效：滑动声+\"滴\"+\"叮\"，轻快音乐渐起。\nConstraints: 滑动必须完整看见从@衣服1卡片滑到@衣服2；换装仍是点击同一帧硬切。\n\nSHOT 5（00:13-00:16.5）第三次滑动+点击瞬变\n画面：再滑到@衣服3，点一下。同一帧换成@衣服3；女主已经习惯，咬一下下唇，抬手整理新衣服领口/裙摆，眼神带点得意看镜头。\n台词：女主：\"这套……还挺好看的嘛。\"\n音效：\"滴\"+\"叮\"，音乐节奏加快半拍。\nConstraints: 三次反应递进：惊讶→害羞→得意；每次都有小动作，禁止呆立。\n\nSHOT 6（00:16.5-00:20）第四次滑动+点击+收尾\n画面：最后一滑停在@衣服4，拇指点下。同一帧女主瞬变为@衣服4；她直接笑出来，上前一步凑近镜头，狡黠眯眼。手机仍举在画面下方，屏幕停在@衣服4预览。\n台词：男主（画外音，满意）：\"这套定了。\"\n女主（笑着凑近，嗔怪）：\"你好坏啊——我好喜欢！\"\n音效：\"滴\"+\"叮\"，音乐在女主台词落点收在甜甜重拍。\nConstraints: 结尾女主凑近但不过分贴脸；手机始终在画面下方可见；服装顺序锁定：开场=原本 → @衣服1 → @衣服2 → @衣服3 → @衣服4，不可乱。\n\n【导演铁律】\n1. 换装铁律：每次换装发生在“点击”同一帧，单帧瞬变。女主站位、姿势、发型、脸型跨越换装帧完全连续，只有服装改变。\n2. POV铁律：镜头=男主眼睛，全程轻微手持呼吸晃动；男主只出手+画外音，禁止露脸。\n3. 手机铁律：每次必须先滑动再点击，滑动跟手、卡片切换清楚；禁止凭空换装、禁止不看屏幕直接变。\n4. 服装引用：开场=@图片1原本衣服；第1次=@衣服1；第2次=@衣服2；第3次=@衣服3；第4次=@衣服4。\n5. 台词口型清晰，与点击节拍对齐。\n\nNegative: 叠化换装，黑闪，白闪，烟雾，旋转遮挡，人物瞬移，姿势断裂，脸型变化，发型变化，鞋子乱变（除非衣服图自带），露男主脸，横屏，字幕，水印，Logo，背景突然更换，多人入画，宽松居家服除非衣服图就是，镜头剧烈抖动，手机屏幕模糊不可读。",
+  "promptTranslations": {
+    "en": "Duration: 20 seconds\nAspect ratio: 9:16\nOverall style: POV boyfriend first-person short drama, realistic handheld mobile phone with subtle breathing shake, transparent indoor natural light, instant outfit changes on phone swipe + click, upbeat sweet romance tempo, vertical screen\n\n[Scene] Bright living room/bedroom, natural light from floor-to-ceiling windows, simple and warm background, clean floor without clutter\n[Characters] Female lead (@Image 1, wearing the character's original outfit at the start); Male lead is POV perspective, face never shown throughout, only a male hand holding a smartphone appearing at the bottom of the frame\n[Props] A modern full-screen smartphone, held vertically. The screen displays a clean and trendy fashion styling app: large preview image at the top, horizontally scrollable clothing cards below. Each swipe has touch-following inertia, and clicking a card triggers a subtle screen zoom + short haptic vibration feedback\n\nSHOT 1 (00:00-00:03.5) Opening Showcase\nVisual: POV, female lead stands in the center of the frame, happily spins half a circle in place to show off her outfit, gently lifting the hem of her clothes with both hands, bright eyes looking at the camera.\nDialogue: Female lead: \"Hubby, how do I look today?\"\nSound Effects: Indoor ambient noise, faint rustling of fabric.\nConstraints: Full body of the female lead in frame, opening outfit = character's original outfit.\n\nSHOT 2 (00:03.5-00:06.5) Taking Out the Phone + First Swipe\nVisual: At the bottom of the frame, male lead's hand raises the phone into view, screen lights up displaying the fashion app. Thumb swipes from right to left across cards, stopping on the card for @Outfit 1, preview image enlarges.\nDialogue: Male lead (voiceover, lazy): \"Not bad. Try this set.\"\nSound Effects: Faint friction sound of swiping the screen.\nConstraints: Phone screen is clear and legible, card clearly identifiable as @Outfit 1; male lead only shows his hand, no face revealed.\n\nSHOT 3 (00:06.5-00:09.5) First Click Instant Transformation\nVisual: Thumb taps on the @Outfit 1 card, screen vibrates briefly. On the exact same frame of the click landing, the female lead's outfit instantly changes to @Outfit 1, with standing position, pose, and hairstyle completely continuous; she looks down at the clothes, eyes wide and mouth open, then looks up at the camera.\nDialogue: Female lead (surprised): \"Eh?!\"\nSound Effects: Crisp \"beep\" + outfit-change \"ding\", faint sound of fabric unfurling.\nConstraints: Outfit change happens on the exact frame of the click, single-frame instant cut; a soft gentle shimmer sweeping down the body can be added; dissolve transitions, black flashes, and character position jumps are strictly prohibited.\n\nSHOT 4 (00:09.5-00:13) Second Swipe + Click Instant Transformation\nVisual: Thumb swipes left again, card stops at @Outfit 2, taps once. On the same frame, the female lead changes into @Outfit 2; this time she realizes what is happening, cheeks slightly flushed, fingers twisting in front of her, shyly wriggling her body slightly, eyes dodging yet unable to resist looking at the camera.\nDialogue: Male lead (voiceover): \"This set works too.\"\nFemale lead (whispering): \"You... are just tapping randomly.\"\nSound Effects: Swiping sound + \"beep\" + \"ding\", upbeat music gradually swells.\nConstraints: Swipe must clearly show the transition from @Outfit 1 card to @Outfit 2; outfit change remains a hard cut on the exact frame of the click.\n\nSHOT 5 (00:13-00:16.5) Third Swipe + Click Instant Transformation\nVisual: Swipes again to @Outfit 3, taps once. On the same frame changes to @Outfit 3; female lead is now used to it, bites her lower lip slightly, raises her hand to adjust the collar/hemline of the new outfit, looking at the camera with a hint of pride.\nDialogue: Female lead: \"This set... actually looks pretty nice.\"\nSound Effects: \"Beep\" + \"ding\", music tempo quickens by half a beat.\nConstraints: Progressive three-stage reaction: surprised → shy → proud; subtle body language in each, no standing stiffly allowed.\n\nSHOT 6 (00:16.5-00:20) Fourth Swipe + Click + Outro\nVisual: Final swipe stops at @Outfit 4, thumb taps down. On the same frame, female lead instantly changes to @Outfit 4; she directly bursts into a smile, steps forward closer to the camera, narrowing her eyes mischievously. Phone remains held at the bottom of the frame, screen staying on the @Outfit 4 preview.\nDialogue: Male lead (voiceover, satisfied): \"Decided, this is the one.\"\nFemale lead (smiling close-up, playfully chiding): \"You're so bad—I love it!\"\nSound Effects: \"Beep\" + \"ding\", music wraps up with a sweet downbeat at the end of the female lead's line.\nConstraints: At the end, female lead steps closer but not excessively in-your-face; phone remains visible at the bottom of the frame throughout; outfit sequence locked: opening = original → @Outfit 1 → @Outfit 2 → @Outfit 3 → @Outfit 4, must not be disordered.\n\n[Director's Ironclad Rules]\n1. Outfit Change Iron Rule: Each outfit change occurs on the exact frame of the \"click\", a single-frame instant cut. The female lead's standing position, pose, hairstyle, and face shape remain completely continuous across the change frame, only the outfit changes.\n2. POV Iron Rule: Camera = male lead's eyes, subtle handheld breathing shake throughout; male lead only shows his hand + voiceover, showing his face is prohibited.\n3. Phone Iron Rule: Must swipe first then click each time, swiping follows the finger smoothly, card switching is clear; transforming out of thin air or transforming directly without looking at the screen is prohibited.\n4. Outfit References: Opening = @Image 1 original clothes; 1st time = @Outfit 1; 2nd time = @Outfit 2; 3rd time = @Outfit 3; 4th time = @Outfit 4.\n5. Dialogue lip sync must be clear and aligned with the rhythm of the clicks.\n\nNegative: dissolve outfit change, black flash, white flash, smoke, spinning occlusion, character teleportation, discontinuous pose, face shape change, hairstyle change, random shoe changes (unless inherent to the outfit image), showing male lead's face, landscape mode, subtitles, watermark, logo, sudden background changes, multiple people in frame, loose loungewear unless specified by the outfit image, violent camera shake, blurry unreadable phone screen."
+  },
+  "summaryTranslations": {
+    "en": "Detailed storyboard prompt for a POV-perspective phone remotely controlling a girl's outfit changes."
+  },
+  "translationVersion": 2,
+  "summary": "POV视角手机遥控女生换装的详细分镜脚本提示词。",
+  "summaryEn": "Detailed multi-shot POV script prompt for phone-controlled instant outfit changes.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2077395194773672409",
+      "canonicalUrl": "https://x.com/johnAGI168/status/2077395194773672409",
+      "author": {
+        "username": "johnAGI168",
+        "displayName": "John",
+        "profileUrl": "https://x.com/johnAGI168"
+      },
+      "originalText": "遥控变装👙\n\n你好坏呀，我好喜欢😜\n\nSeedance 2.0 的尺度还是蛮大的，这样的视频 grok 估计都不好通过审核吧😂\n\n一张人物角色图片➕ 几套服装图片输入下面提示词就可以生成同款变装视频🎬\n\n大胆去尝试看看吧！\n\nprompt 👇\n\n【风格】POV男友第一人称视角短剧，真实手机手持质感带轻微晃动，室内自然光通透，遥控瞬间换装特效，节奏轻快甜宠，竖屏9:16\n【时长】15秒\n【场景】明亮的客厅/卧室，落地窗自然光，背景简洁温馨\n【角色】女主（@图片1，开场穿角色原本服装）；男主为POV视角，全程不露脸，仅画面下方出现一只持白色遥控器的男性手\n【道具】白色简约遥控器，只有一个圆形按钮，按下时发出清脆\"滴\"声并亮一下小红灯\n\n[00:00-00:03] 镜头1：开场展示\n画面：POV视角，女主站在画面中央，开心地原地转了半圈展示穿搭，双手轻提衣摆，眼睛亮亮地看向镜头\n台词：女主：\"老公，看我今天穿得怎么样？\"\n音效：室内安静底噪，衣料轻响\n\n[00:03-00:06] 镜头2：掏出遥控器\n画面：画面下方男主的手举起遥控器入镜，对准女主，拇指按下按钮，红灯一闪\n台词：男主（画外音，慵懒）：\"还行，不过——换一套看看。\"\n音效：清脆\"滴\"一声\n\n[00:06-00:08] 镜头3：第一次瞬变（Instant Swap 1）\n画面：\"滴\"声落下的同一帧，女主服装瞬间变成@图片2的套装，站位姿势发型完全不变；女主低头看自己的衣服，瞪大眼睛张嘴惊讶，抬头难以置信地看镜头\n台词：女主（惊讶）：\"诶？！\"\n音效：换装瞬间一声轻巧的\"叮\"，衣料展开的微响\n\n[00:08-00:11] 镜头4：第二次瞬变（Instant Swap 2）\n画面：男主的手再次按下按钮，红灯一闪，同一帧女主换成@图片3的套装；这次她反应过来了，脸颊微红，手指绞在身前，害羞地小幅度扭了一下身子，眼神躲闪又忍不住看镜头\n音效：\"滴\"+\"叮\"，轻快音乐渐起\n\n[00:11-00:15] 镜头5：第三次瞬变+收尾（Instant Swap 3 & Ending)\n画面：男主画外音说完，拇指再按，女主瞬变为@图片4的套装；她这次直接笑出来，上前一步凑近镜头，狡黠地眯眼\n台词：男主（画外音，满意）：\"不错不错。\"（按键）女主（笑着凑近，嗔怪）：\"你好坏啊——我好喜欢！\"\n音效：\"滴\"+\"叮\"，音乐在女主台词落点收在甜甜的重拍\n\n【导演备注】1. 换装铁律：每次换装发生在\"滴\"声的同一帧，单帧瞬变——女主的站位、姿势、发型、表情跨越换装帧完全连续，只有服装改变，可加一道从上到下快速扫过身体的柔和微光，禁止叠化、禁止黑闪、禁止人物跳位；2. POV铁律：镜头即男主眼睛，全程轻微手持呼吸晃动，男主只出现手和画外音，禁止露脸；3. 女主三次反应必须层层递进：惊讶→害羞→大方喜欢，每次都有小动作（低头看衣服/绞手指/凑近镜头），禁止呆立；4. 服装引用锁定：开场=角色原本服装，第一次换装=@图片2，第二次=@图片3，第三次=@图片4，顺序不可乱；5. 台词口型清晰自然，与音效节拍对齐。"
+    },
+    "id": "2097320255139795072",
+    "canonicalUrl": "https://x.com/johnAGI168/status/2097320255139795072",
+    "author": {
+      "username": "johnAGI168",
+      "displayName": "John",
+      "profileUrl": "https://x.com/johnAGI168"
+    },
+    "publishedAt": "2026-09-08T13:44:49.000Z",
+    "collectedAt": "2026-09-09T02:40:21.975Z",
+    "language": "zh",
+    "originalText": "Seedance 2.5 手机遥控变装👚📱\n\nprompt 👇\n\nDuration: 20秒\nAspect ratio: 9:16\nOverall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏\n\n【场景】明亮客厅/卧室，落地窗自然光，背景简洁温馨，地面干净无杂物\n【角色】女主（@图片1，开场穿角色原本服装）；男主为POV视角，全程不露脸，仅画面下方出现持手机的男性手\n【道具】一部现代全面屏手机，竖持。屏幕是简洁时尚穿搭App：上方大预览图，下方横向可滑动的服装卡片。每次滑动有跟手惯性，点击卡片时屏幕轻微缩放+短震反馈\n\nSHOT 1（00:00-00:03.5）开场展示\n画面：POV，女主站画面中央，开心地原地转半圈展示穿搭，双手轻提衣摆，眼睛亮亮看镜头。\n台词：女主：\"老公，看我今天穿得怎么样？\"\n音效：室内底噪，衣料轻响。\nConstraints: 女主全身入画，开场服装=角色原本服装。\n\nSHOT 2（00:03.5-00:06.5）掏出手机+第一次滑动\n画面：画面下方男主手举起手机入镜，屏幕亮起，显示穿搭App。拇指从右向左滑过卡片，停在@衣服1的卡片上，预览图放大。\n台词：男主（画外音，慵懒）：\"还行。换这套看看。\"\n音效：屏幕滑动轻摩擦声。\nConstraints: 手机屏幕清晰可读，卡片上能看出是@衣服1；男主只出手，不露脸。\n\nSHOT 3（00:06.5-00:09.5）第一次点击瞬变\n画面：拇指点在@衣服1卡片上，屏幕短震。点击落下的同一帧，女主服装瞬间变成@衣服1，站位、姿势、发型完全连续；她低头看衣服，瞪大眼张嘴，再抬头看镜头。\n台词：女主（惊讶）：\"诶？！\"\n音效：清脆\"滴\"+换装\"叮\"，衣料展开微响。\nConstraints: 换装发生在点击同一帧，单帧瞬变；可加一道从上到下扫过身体的柔和微光；禁止叠化、黑闪、人物跳位。\n\nSHOT 4（00:09.5-00:13）第二次滑动+点击瞬变\n画面：拇指再次左滑，卡片停在@衣服2，点一下。同一帧女主换成@衣服2；这次她反应过来，脸颊微红，手指绞在身前，害羞小幅扭身，眼神躲闪又忍不住看镜头。\n台词：男主（画外音）：\"这套也行。\"\n女主（小声）：\"你……乱点。\"\n音效：滑动声+\"滴\"+\"叮\"，轻快音乐渐起。\nConstraints: 滑动必须完整看见从@衣服1卡片滑到@衣服2；换装仍是点击同一帧硬切。\n\nSHOT 5（00:13-00:16.5）第三次滑动+点击瞬变\n画面：再滑到@衣服3，点一下。同一帧换成@衣服3；女主已经习惯，咬一下下唇，抬手整理新衣服领口/裙摆，眼神带点得意看镜头。\n台词：女主：\"这套……还挺好看的嘛。\"\n音效：\"滴\"+\"叮\"，音乐节奏加快半拍。\nConstraints: 三次反应递进：惊讶→害羞→得意；每次都有小动作，禁止呆立。\n\nSHOT 6（00:16.5-00:20）第四次滑动+点击+收尾\n画面：最后一滑停在@衣服4，拇指点下。同一帧女主瞬变为@衣服4；她直接笑出来，上前一步凑近镜头，狡黠眯眼。手机仍举在画面下方，屏幕停在@衣服4预览。\n台词：男主（画外音，满意）：\"这套定了。\"\n女主（笑着凑近，嗔怪）：\"你好坏啊——我好喜欢！\"\n音效：\"滴\"+\"叮\"，音乐在女主台词落点收在甜甜重拍。\nConstraints: 结尾女主凑近但不过分贴脸；手机始终在画面下方可见；服装顺序锁定：开场=原本 → @衣服1 → @衣服2 → @衣服3 → @衣服4，不可乱。\n\n【导演铁律】\n1. 换装铁律：每次换装发生在“点击”同一帧，单帧瞬变。女主站位、姿势、发型、脸型跨越换装帧完全连续，只有服装改变。\n2. POV铁律：镜头=男主眼睛，全程轻微手持呼吸晃动；男主只出手+画外音，禁止露脸。\n3. 手机铁律：每次必须先滑动再点击，滑动跟手、卡片切换清楚；禁止凭空换装、禁止不看屏幕直接变。\n4. 服装引用：开场=@图片1原本衣服；第1次=@衣服1；第2次=@衣服2；第3次=@衣服3；第4次=@衣服4。\n5. 台词口型清晰，与点击节拍对齐。\n\nNegative: 叠化换装，黑闪，白闪，烟雾，旋转遮挡，人物瞬移，姿势断裂，脸型变化，发型变化，鞋子乱变（除非衣服图自带），露男主脸，横屏，字幕，水印，Logo，背景突然更换，多人入画，宽松居家服除非衣服图就是，镜头剧烈抖动，手机屏幕模糊不可读。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/johnAGI168/status/2097320255139795072",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097320111853932544/img/RxNvZckTVJnpiKFi.jpg",
+        "analysisUrl": "https://x.com/johnAGI168/status/2097320255139795072"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/johnAGI168/status/2097320255139795072",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2077394150241034240/img/7RMvavokdqEu2yxJ.jpg",
+        "analysisUrl": "https://x.com/johnAGI168/status/2097320255139795072",
+        "sourcePostId": "2077395194773672409"
+      }
+    ],
+    "metrics": {
+      "likeCount": 108,
+      "repostCount": 19,
+      "replyCount": 36,
+      "quoteCount": 0,
+      "viewCount": 13508
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solidworks\",\"cad\",\"image\"]"
+    ]
+  },
+  "xUrl": "https://x.com/johnAGI168/status/2097320255139795072",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097320111853932544/img/RxNvZckTVJnpiKFi.jpg",
+  "coverPath": "covers/2097320255139795072.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097320111853932544",
+    "x-video:2077394150241034240",
+    "x-post:2097320255139795072",
+    "x-post:2077395194773672409"
+  ],
+  "analysis": {
+    "summary": "POV视角手机遥控女生换装的详细分镜脚本提示词。",
+    "summaryEn": "Detailed multi-shot POV script prompt for phone-controlled instant outfit changes.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频第一段与提示词的分镜头顺序、手机App交互、单帧瞬变服装和台词完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Duration: 20秒\nAspect ratio: 9:16\nOverall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏\n\n【场景】明亮客厅/卧室，落地窗自然光，背景简洁温馨，地面干净无杂物\n【角色】女主（@图片1，开场穿角色原本服装）；男主为POV视角，全程不露脸，仅画面下方出现持手机的男性手\n【道具】一部现代全面屏手机，竖持。屏幕是简洁时尚穿搭App：上方大预览图，下方横向可滑动的服装卡片。每次滑动有跟手惯性，点击卡片时屏幕轻微缩放+短震反馈\n\nSHOT 1（00:00-00:03.5）开场展示\n画面：POV，女主站画面中央，开心地原地转半圈展示穿搭，双手轻提衣摆，眼睛亮亮看镜头。\n台词：女主：\"老公，看我今天穿得怎么样？\"\n音效：室内底噪，衣料轻响。\nConstraints: 女主全身入画，开场服装=角色原本服装。\n\nSHOT 2（00:03.5-00:06.5）掏出手机+第一次滑动\n画面：画面下方男主手举起手机入镜，屏幕亮起，显示穿搭App。拇指从右向左滑过卡片，停在@衣服1的卡片上，预览图放大。\n台词：男主（画外音，慵懒）：\"还行。换这套看看。\"\n音效：屏幕滑动轻摩擦声。\nConstraints: 手机屏幕清晰可读，卡片上能看出是@衣服1；男主只出手，不露脸。\n\nSHOT 3（00:06.5-00:09.5）第一次点击瞬变\n画面：拇指点在@衣服1卡片上，屏幕短震。点击落下的同一帧，女主服装瞬间变成@衣服1，站位、姿势、发型完全连续；她低头看衣服，瞪大眼张嘴，再抬头看镜头。\n台词：女主（惊讶）：\"诶？！\"\n音效：清脆\"滴\"+换装\"叮\"，衣料展开微响。\nConstraints: 换装发生在点击同一帧，单帧瞬变；可加一道从上到下扫过身体的柔和微光；禁止叠化、黑闪、人物跳位。\n\nSHOT 4（00:09.5-00:13）第二次滑动+点击瞬变\n画面：拇指再次左滑，卡片停在@衣服2，点一下。同一帧女主换成@衣服2；这次她反应过来，脸颊微红，手指绞在身前，害羞小幅扭身，眼神躲闪又忍不住看镜头。\n台词：男主（画外音）：\"这套也行。\"\n女主（小声）：\"你……乱点。\"\n音效：滑动声+\"滴\"+\"叮\"，轻快音乐渐起。\nConstraints: 滑动必须完整看见从@衣服1卡片滑到@衣服2；换装仍是点击同一帧硬切。\n\nSHOT 5（00:13-00:16.5）第三次滑动+点击瞬变\n画面：再滑到@衣服3，点一下。同一帧换成@衣服3；女主已经习惯，咬一下下唇，抬手整理新衣服领口/裙摆，眼神带点得意看镜头。\n台词：女主：\"这套……还挺好看的嘛。\"\n音效：\"滴\"+\"叮\"，音乐节奏加快半拍。\nConstraints: 三次反应递进：惊讶→害羞→得意；每次都有小动作，禁止呆立。\n\nSHOT 6（00:16.5-00:20）第四次滑动+点击+收尾\n画面：最后一滑停在@衣服4，拇指点下。同一帧女主瞬变为@衣服4；她直接笑出来，上前一步凑近镜头，狡黠眯眼。手机仍举在画面下方，屏幕停在@衣服4预览。\n台词：男主（画外音，满意）：\"这套定了。\"\n女主（笑着凑近，嗔怪）：\"你好坏啊——我好喜欢！\"\n音效：\"滴\"+\"叮\"，音乐在女主台词落点收在甜甜重拍。\nConstraints: 结尾女主凑近但不过分贴脸；手机始终在画面下方可见；服装顺序锁定：开场=原本 → @衣服1 → @衣服2 → @衣服3 → @衣服4，不可乱。\n\n【导演铁律】\n1. 换装铁律：每次换装发生在“点击”同一帧，单帧瞬变。女主站位、姿势、发型、脸型跨越换装帧完全连续，只有服装改变。\n2. POV铁律：镜头=男主眼睛，全程轻微手持呼吸晃动；男主只出手+画外音，禁止露脸。\n3. 手机铁律：每次必须先滑动再点击，滑动跟手、卡片切换清楚；禁止凭空换装、禁止不看屏幕直接变。\n4. 服装引用：开场=@图片1原本衣服；第1次=@衣服1；第2次=@衣服2；第3次=@衣服3；第4次=@衣服4。\n5. 台词口型清晰，与点击节拍对齐。\n\nNegative: 叠化换装，黑闪，白闪，烟雾，旋转遮挡，人物瞬移，姿势断裂，脸型变化，发型变化，鞋子乱变（除非衣服图自带），露男主脸，横屏，字幕，水印，Logo，背景突然更换，多人入画，宽松居家服除非衣服图就是，镜头剧烈抖动，手机屏幕模糊不可读。",
+    "sourceRange": {
+      "start": 33,
+      "end": 1850
+    },
+    "translations": {
+      "zh": "第一人称视角短剧视频提示词：男友使用手机App滑动并点击卡片，为面前的女友进行多次瞬间换装，包含分镜头脚本与导演规则。",
+      "en": "POV video prompt: A boyfriend uses a smartphone fashion app to instantly swap his girlfriend's outfits through multi-shot screenplay directives."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "image-to-video",
+    "useCase": "第一人称互动短视频生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
