@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**11** Prompts · Latest addition: **2026-09-09**
+**12** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -157,6 +157,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2096906803967840616"></a>
+
+### 30-second cinematic travel fashion MV prompt featuring a K-pop idol girl exploring Chongqing with wired earphones, including full timeline breakdown, camera angles, wardrobe, and negative prompts.
+
+Author：[@ImaStudio\_ai](https://x.com/ImaStudio_ai) · [Source](https://x.com/ImaStudio_ai/status/2096906803967840616)
+
+Photography · Cinematic / Film Still · Character · Fashion Item · Published
+
+**Summary:** 30-second cinematic travel fashion MV prompt featuring a K-pop idol girl exploring Chongqing with wired earphones, including full timeline breakdown, camera angles, wardrobe, and negative prompts.
+
+<img src="covers/2096906803967840616.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30-second, 16:9, 24fps photoreal cinematic travel fashion MV set in Chongqing, China.\nCORE CONCEPT:\nA fictional Korean K-pop-style young woman spends one day exploring Chongqing while listening to music through white wired earphones. The whole film feels like a stylish Korean travel vlog mixed with a youth music video — fresh, effortless, lively, and cinematic, never like a tourism commercial.\nCHARACTER LOCK:\nOne woman only, age 20–23, Korean idol visual: small refined face, fair natural skin, long black hair with soft wispy bangs, deep brown eyes, subtle aegyo-sal, thin eyeliner, glossy nude-pink lips, slim figure.\nKeep exactly the same face, hair, body proportions, makeup, and identity in every shot.\nWhite wired earphones remain visible throughout.\nNo dialogue. Emotion is shown through eye contact, small smiles, walking, turning back, laughing, and moving naturally to the music.\nWARDROBE:\nDay: cream cropped knit top, light-blue high-waisted jeans, silver earrings, black shoulder bag.\nSunset: fitted pale blue-gray top, black cropped jacket, jeans.\nNight: black camisole, oversized black jacket, silver jewelry.\nOutfit changes only on hard cuts.\nTIMELINE:\n0–3s: Extreme close selfie at a riverside viewpoint. Chongqing skyline and bridge softly blurred behind. She puts one earbud in, music starts, she smiles at camera.\n3–6s: Follow shot on a steep Chongqing hillside street. Layered buildings, slopes, trees, sunlight through leaves. Hair and earphone cable move naturally.\n6–9s: Liziba. Low angle as the monorail passes through the residential building. She looks up, then turns back and smiles.\n9–12s: Yangtze River Cableway. She stands near the window, looking over the river, bridges, towers, and steep city layers. Wind moves her hair and earphone cord.\n12–15s: Old hillside street / Shancheng Trail / Shibati. Stone stairs, old buildings, lanterns, small shops. She walks upward and glances back at camera.\n15–18s: Fast lifestyle montage: shoes on stone steps, hand on railing, buying a drink, hair in the wind, tall buildings framed between narrow streets.\n18–22s: Sunset overlook. Switch to LOOK 2. Wide skyline, river and bridges in warm orange light. Start from her back, then side profile. She closes her eyes briefly and listens.\n22–26s: Hongya Cave at night. Switch to LOOK 3. Warm golden lights, deep blue sky, real crowds. Shoot casually like a friend following her. She looks back, laughs, and keeps walking.\n26–30s: Riverside night near Qiansimen Bridge. A female friend joins. They casually bounce, turn, laugh and move to the beat — not formal choreography. The lead walks closer, removes one earbud, looks back at the glowing city.\nFinal text:\nCHONGQING\nFOLLOW THE SOUND.\nCAMERA:\n24mm city wides, 35–50mm portraits, 85mm details. Gentle handheld, walking follow, selfie framing, slow push-ins, natural low angles. Hard cuts motivated by action.\nREALISM:\nReal skin texture, natural hair physics, stable earphone cable, realistic Chongqing architecture, monorail, cableway, crowds, river and slopes.\nNEGATIVE:\nNo face drift, duplicate character, random wardrobe change, missing earphones, warped hands, plastic skin, cyberpunk Chongqing, Japanese or Korean streets replacing Chongqing, fake landmarks, random text, subtitles, watermark, excessive beauty filtering.\nFINAL FEEL:\nA Korean K-pop girl’s first day in Chongqing — music in her ears, the whole city moving like her own MV.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096832969453543579"></a>
 

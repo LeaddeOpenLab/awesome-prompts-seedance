@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**11** Prompt · Bổ sung mới nhất: **2026-09-09**
+**12** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -104,6 +104,28 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2096906803967840616"></a>
+
+### Đang dịch
+
+Tác giả：[@ImaStudio\_ai](https://x.com/ImaStudio_ai) · [Bài gốc](https://x.com/ImaStudio_ai/status/2096906803967840616)
+
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2096906803967840616.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2096832969453543579"></a>
 

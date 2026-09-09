@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**11** Prompt · Son eklenen: **2026-09-09**
+**12** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -102,6 +102,28 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2096906803967840616"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@ImaStudio\_ai](https://x.com/ImaStudio_ai) · [Orijinal gönderi](https://x.com/ImaStudio_ai/status/2096906803967840616)
+
+Fotoğrafçılık · Sinematik / Film Karesi · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2096906803967840616.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2096832969453543579"></a>
 
