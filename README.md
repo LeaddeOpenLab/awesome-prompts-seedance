@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**20** Prompts · Latest addition: **2026-09-09**
+**21** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -285,6 +285,141 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097249504986644872"></a>
+
+### 30-second beat-synced trendy toy blind box unboxing and live-action transformation video generation prompt, detailing global settings, multi-shot breakdown actions, dialogues, and negative prompts.
+
+Author：[@johnAGI168](https://x.com/johnAGI168) · [Source](https://x.com/johnAGI168/status/2097249504986644872)
+
+Comic / Storyboard · Cinematic / Film Still · Published
+
+**Summary:** 30-second beat-synced trendy toy blind box unboxing and live-action transformation video generation prompt, detailing global settings, multi-shot breakdown actions, dialogues, and negative prompts.
+
+<img src="covers/2097249504986644872.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Duration: 30 seconds
+Aspect ratio: 
+Character reference: ​ 
+Language: Mandarin Chinese
+Audio: Throughout the entire video there are only two lines of female voice; the middle section features only trendy electronic music and transition sound effects; no other voiceover, no other dialogue, no subtitles
+Style: Realistic smartphone unboxing vlog + high-end designer toy fashion transformation show, fast-paced beat-synced editing
+
+GLOBAL CONTINUITY
+
+Female Lead:
+Throughout the entire video, there is only one adult female lead, Image 1, maintaining consistent facial features and body type. Opening hairstyle and outfit follow the reference image; only changing into the matching blind box outfit after triggering the transformation.
+
+Original Blind Box Design:
+Blue-purple nebula secret chase edition. Packaged in a black-and-silver polyhedron blind box with a blue-purple aurora gradient on the surface, a transparent star-shaped window on the front, and no brand text.
+
+Figurine:
+The figurine's facial features are modeled after Image 1, with exquisite designer toy proportions. Hair split-dyed down the middle: electric blue on screen left, nebula purple on screen right, neat bangs, two gradient long braids. Wearing a silver-white asymmetrical short skirt, sheer blue-purple shawl, star waist chain, and silver platform ankle boots.
+
+Live-Action Transformation Look:
+Completely recreates the figurine's half-blue half-purple hair, makeup, outfit, and accessories, but retains realistic adult female proportions without turning into a cartoon body.
+
+SHOT 1 (00:00-00:04.00) Unboxing Her Own Secret Chase
+
+Scene:
+Cozy modern bedroom, the female lead sits at a desk, with only one blue-purple nebula blind box on the table.
+
+Action:
+-00:01.50: The female lead tears open the shrink wrap, opens the polyhedron box lid, and pulls out the silver foil bag from inside.
+00:01.50-00:02.50: She tears open the foil bag and tips the figurine out onto her left palm.
+00:02.50-00:04.00: She looks down and clearly sees the figurine's face, her eyes suddenly widening; she looks up at the camera, then looks back at the figurine.
+
+Voice Content ①:
+"我去，这么帅！"
+
+Tone:
+Rapid, surprised, sincere; character opens mouth naturally, accurate Chinese lip sync.
+
+Camera:
+Starts with a straight-on medium shot; quickly pushes in when the figurine appears, keeping both the female lead's surprised expression and the figurine in hand clearly in focus.
+
+SHOT 2 (00:04.00-00:09.00) Figurine Display and Transformation
+
+Action:
+00:04.00-00:05.50: Figurine standalone product close-up; camera circles around showing the half-blue half-purple hair, sheer shawl, star waist chain, and platform boots.
+00:05.50-00:07.50: Female lead places the figurine beside her face, comparing both faces, raising an eyebrow and pursing her lips with an amused expression.
+00:07.50-00:09.00: Female lead reaches out to make a small finger heart in front of the figurine; the star ornament on the figurine's chest lights up. A blue-purple flash rapidly covers the screen, completing a match cut masked by the finger heart.
+
+Sound:
+Only music, faint packaging rustle, starlight activation sound, and transformation impact whoosh; no speech.
+
+SHOT 3 (00:09.00-00:26.00) Live-Action Secret Chase Beat-Synced Showcase
+
+Transformation Result:
+After the flash fades, the female lead is already wearing the figurine's matching look, hair strictly blue on the left and purple on the right. Facial features remain Image 1.
+
+00:09.00-00:11.50:
+Ice blue solid background, full-body front view. Female lead opens both arms outward, body slightly angled, displaying the complete outfit; camera tracks horizontally slightly.
+
+00:11.50-00:13.50:
+Deep purple background, female lead quickly shifts to a pose facing the other side, blue-purple long braids swinging with the turn; movement hits right on the music downbeat.
+
+00:13.50-00:15.50:
+Extreme face close-up. Female lead places one hand beside her face, showing off blue-purple gradient nail art, star ring, and two-tone bangs; gently arches an eyebrow.
+
+00:15.50-00:17.50:
+Green background, female lead winks at the camera, flashing a peace sign next to her eye; camera pushes in rapidly.
+
+00:17.50-00:20.00:
+Magenta background, low-angle shot. Female lead steps one silver platform ankle boot forward toward the camera, the shoe sole approaching the lens without obscuring her face, then steps back.
+
+00:20.00-00:22.50:
+Lavender grid background, female lead sits sideways on the ground, one leg bent and one leg naturally extended, supporting herself with her palm on the ground, looking coolly at the camera.
+
+00:22.50-00:24.50:
+Orange-blue gradient background, full-body standing pose. Female lead holds her head with one hand and places the other on her hip, completing a freeze-frame pose like a figurine box illustration.
+
+00:24.50-00:26.00:
+Black starry background, female lead crouches halfway toward the camera with a playful smile; a blue-purple flash sweeps upward from bottom to top, transitioning back to the real-world scene.
+
+Sound:
+No voiceover, no dialogue throughout the entire segment. Only electronic music, beat accents, flash sounds, footsteps, and fabric rustle.
+
+Camera Style:
+Rapid cuts between full body, low angle, extreme close-up, and side angles. Each shot features clean, concise movement, around 2 seconds per pose. No English words or any text appear on the background.
+
+SHOT 4 (00:26.00-00:30.00) Secret Chase Outro
+
+Scene:
+Clean, light-colored background. Female lead still maintains the blue-purple secret chase live-action styling, holding the figurine identical to her look in her hand.
+
+Action:
+00:26.00-00:27.50: Female lead first looks down at the figurine in her hand, then slowly brings her face closer to the figurine.
+00:27.50-00:29.50: She faces the camera together with the figurine, subtly raises an eyebrow, showing a playful and confident smile.
+00:29.50-00:30.00: She holds the figurine up toward the camera, winking behind it, freezing the frame to end.
+
+Voice Content ②:
+"谁是你的隐藏款？"
+
+Tone:
+Relaxed, playful, slightly mysterious; moderate speaking speed, accurate Chinese lip sync.
+
+CONSTRAINTS
+
+- Strictly only two lines of voice content throughout the entire video: "我去，这么帅！" and "谁是你的隐藏款？"
+- No voiceover or dialogue of any kind is allowed between 00:04 and 00:27.50.
+- Story contains only: unboxing, discovering figurine, triggering transformation, styling showcase, ending holding figurine.
+- Do not add instruction manuals, secret rules, a second figurine, shrinking, or horror twists.
+- Figurine and live-action must share the exact same character design.
+- Hair must always remain blue on the left and purple on the right, colors cannot swap.
+- No subtitles, no background text, no brand logos.
+
+NEGATIVE
+
+additional voiceover, continuous commentary, extra dialogue, third line of dialogue, mouth moving during voiceover, character shrinking, live person turning into tabletop figurine, second figurine, horror twist, copying original pink-black hair color, copying original blue motorcycle jacket, large English text background, hair colors swapped, two-tone hair blended into single color, figurine face turning into a stranger, identity drift, outfit drift, figurine scale change, extra people, warped faces, melting features, extra limbs, fused fingers, robotic delivery, lip-sync drift, silent mouth movement, double mouth, subtitles, Chinese text, English text, watermarks, logos
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096948259059085379"></a>
 
