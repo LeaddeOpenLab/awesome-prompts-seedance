@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:33:17.171Z",
+  "model": "seedance",
+  "prompt": "Created a 30-second cinematic luxury jewelry advertisement video in a warm and elegant style.\nThe video opens with a beautifully decorated bedroom, soft morning sunlight, and a premium jewelry gift box placed on a wooden table.\nA woman gently picks up the elegant box, creating a delicate and emotional unboxing moment.\nThe camera moves into cinematic close-up shots of her face and hands as she reveals the jewelry.\nA sparkling blue gemstone pendant is shown in detailed macro shots with soft golden lighting.\nShe wears the necklace gracefully, highlighting its elegant design and luxurious shine.\nThe scene continues with a peaceful morning moment near the window, holding a cup in warm sunlight.\nClose-up shots capture the pendant sparkling naturally against her skin with realistic shadows and reflections.\nThe video ends with a premium jewelry box displaying the complete matching jewelry set.\nSoft cinematic lighting, warm golden tones, luxury commercial aesthetic, smooth camera movements, shallow depth of field, photorealistic details, 9:16 vertical format.",
+  "promptTranslations": {
+    "en": "Created a 30-second cinematic luxury jewelry advertisement video in a warm and elegant style. The video opens with a beautifully decorated bedroom, soft morning sunlight, and a premium jewelry gift box placed on a wooden table. A woman gently picks up the elegant box, creating a delicate and emotional unboxing moment. The camera moves into cinematic close-up shots of her face and hands as she reveals the jewelry. A sparkling blue gemstone pendant is shown in detailed macro shots with soft golden lighting. She wears the necklace gracefully, highlighting its elegant design and luxurious shine. The scene continues with a peaceful morning moment near the window, holding a cup in warm sunlight. Close-up shots capture the pendant sparkling naturally against her skin with realistic shadows and reflections. The video ends with a premium jewelry box displaying the complete matching jewelry set. Soft cinematic lighting, warm golden tones, luxury commercial aesthetic, smooth camera movements, shallow depth of field, photorealistic details, 9:16 vertical format."
+  },
+  "summaryTranslations": {
+    "en": "30-second luxury jewelry commercial featuring a morning bedroom unboxing and a sparkling blue gemstone set."
+  },
+  "translationVersion": 2,
+  "summary": "30-second luxury jewelry commercial featuring a morning bedroom unboxing and a sparkling blue gemstone set.",
+  "summaryEn": "30-second luxury jewelry commercial featuring a morning bedroom unboxing and a sparkling blue gemstone set.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097194787564658942",
+    "canonicalUrl": "https://x.com/ayzalnooor24521/status/2097194787564658942",
+    "author": {
+      "username": "ayzalnooor24521",
+      "displayName": "ayzalnoor",
+      "profileUrl": "https://x.com/ayzalnooor24521"
+    },
+    "publishedAt": "2026-09-08T05:26:16.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "en",
+    "originalText": "A touch of elegance, a moment of luxury.\nFrom the perfect unboxing to the final sparkle, every detail shines beautifully. \n\nCreated on seedance 2.0\n\nPrompt:\n\nCreated a 30-second cinematic luxury jewelry advertisement video in a warm and elegant style.\nThe video opens with a beautifully decorated bedroom, soft morning sunlight, and a premium jewelry gift box placed on a wooden table.\nA woman gently picks up the elegant box, creating a delicate and emotional unboxing moment.\nThe camera moves into cinematic close-up shots of her face and hands as she reveals the jewelry.\nA sparkling blue gemstone pendant is shown in detailed macro shots with soft golden lighting.\nShe wears the necklace gracefully, highlighting its elegant design and luxurious shine.\nThe scene continues with a peaceful morning moment near the window, holding a cup in warm sunlight.\nClose-up shots capture the pendant sparkling naturally against her skin with realistic shadows and reflections.\nThe video ends with a premium jewelry box displaying the complete matching jewelry set.\nSoft cinematic lighting, warm golden tones, luxury commercial aesthetic, smooth camera movements, shallow depth of field, photorealistic details, 9:16 vertical format.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ayzalnooor24521/status/2097194787564658942",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097194687438204928/img/O9DLbkzZtECcMJGA.jpg",
+        "analysisUrl": "https://x.com/ayzalnooor24521/status/2097194787564658942"
+      }
+    ],
+    "metrics": {
+      "likeCount": 207,
+      "repostCount": 9,
+      "replyCount": 72,
+      "quoteCount": 1,
+      "viewCount": 14023
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ayzalnooor24521/status/2097194787564658942",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097194687438204928/img/O9DLbkzZtECcMJGA.jpg",
+  "coverPath": "covers/2097194787564658942.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097194687438204928",
+    "x-post:2097194787564658942"
+  ],
+  "analysis": {
+    "summary": "30-second luxury jewelry commercial featuring a morning bedroom unboxing and a sparkling blue gemstone set.",
+    "summaryEn": "30-second luxury jewelry commercial featuring a morning bedroom unboxing and a sparkling blue gemstone set.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely replicates the unboxing sequence, blue gemstone jewelry, morning window scene, and final matching set showcase."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Created a 30-second cinematic luxury jewelry advertisement video in a warm and elegant style.\nThe video opens with a beautifully decorated bedroom, soft morning sunlight, and a premium jewelry gift box placed on a wooden table.\nA woman gently picks up the elegant box, creating a delicate and emotional unboxing moment.\nThe camera moves into cinematic close-up shots of her face and hands as she reveals the jewelry.\nA sparkling blue gemstone pendant is shown in detailed macro shots with soft golden lighting.\nShe wears the necklace gracefully, highlighting its elegant design and luxurious shine.\nThe scene continues with a peaceful morning moment near the window, holding a cup in warm sunlight.\nClose-up shots capture the pendant sparkling naturally against her skin with realistic shadows and reflections.\nThe video ends with a premium jewelry box displaying the complete matching jewelry set.\nSoft cinematic lighting, warm golden tones, luxury commercial aesthetic, smooth camera movements, shallow depth of field, photorealistic details, 9:16 vertical format.",
+    "sourceRange": {
+      "start": 158,
+      "end": 1224
+    },
+    "translations": {
+      "zh": "制作一条30秒温馨典雅风的电影感奢华珠宝广告视频。视频开场为晨光下装饰精美的卧室与木桌上的高档礼盒，女子轻柔开箱。特写面部与双手揭晓珠宝，微距展现金色柔光下闪耀的蓝宝石吊坠。她优雅佩戴项链，随后在窗边手持咖啡杯沐浴阳光。特写吊坠在肌肤上的自然光影。片尾展示高档礼盒内的成套珠宝。电影质感、暖金调、9:16竖屏。",
+      "en": "Created a 30-second cinematic luxury jewelry advertisement video in a warm and elegant style.\nThe video opens with a beautifully decorated bedroom, soft morning sunlight, and a premium jewelry gift box placed on a wooden table.\nA woman gently picks up the elegant box, creating a delicate and emotional unboxing moment.\nThe camera moves into cinematic close-up shots of her face and hands as she reveals the jewelry.\nA sparkling blue gemstone pendant is shown in detailed macro shots with soft golden lighting.\nShe wears the necklace gracefully, highlighting its elegant design and luxurious shine.\nThe scene continues with a peaceful morning moment near the window, holding a cup in warm sunlight.\nClose-up shots capture the pendant sparkling naturally against her skin with realistic shadows and reflections.\nThe video ends with a premium jewelry box displaying the complete matching jewelry set.\nSoft cinematic lighting, warm golden tones, luxury commercial aesthetic, smooth camera movements, shallow depth of field, photorealistic details, 9:16 vertical format."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "commercial",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
