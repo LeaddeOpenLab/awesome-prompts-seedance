@@ -83,20 +83,104 @@ Ticari reklam oyunculuğu yok, kusursuz stüdyo aydınlatması yok, kurgulanmı�
 
 <a name="prompt-2096931238460178592"></a>
 
-### Çeviri sürüyor
+### Seul'ün eski bir mahallesinde sıradan ama unutulmaz bir yaz akşamı geçiren genç bir Koreli kadının, ayrıntılı zaman çizelgesi eylemleri, el kamerası kusurları ve ortam sesi içeren, 2000'lerin başlarına ait 30 saniyelik, 1080p, 16:9 ultra gerçekçi bir DV ev videosunu oluşturun.
 
 Yazar：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Orijinal gönderi](https://x.com/SimplyAnnisa/status/2096931238460178592)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Seul'ün eski bir mahallesinde sıradan ama unutulmaz bir yaz akşamı geçiren genç bir Koreli kadının, ayrıntılı zaman çizelgesi eylemleri, el kamerası kusurları ve ortam sesi içeren, 2000'lerin başlarına ait 30 saniyelik, 1080p, 16:9 ultra gerçekçi bir DV ev videosunu oluşturun.
 
 <img src="covers/2096931238460178592.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Seul'ün eski bir mahallesinde sıradan ama beklenmedik derecede unutulmaz bir yaz akşamı geçiren genç bir Koreli kadının, 2000'lerin başlarına ait ultra gerçekçi, 30 saniyelik, 1080p, 16:9 formatında bir DV ev videosunu oluşturun.
+
+20'li yaşlarının başında, doğal olarak güzel bir Koreli kadın; gerçekçi cilt, hafif makyaj, uzun siyah hafif dalgalı saçlar, açık mavi örgü kazak, dökümlü krem rengi pantolon, beyaz spor ayakkabılar, kahverengi çapraz çanta ve gümüş saat. Kimliğini, yüzünü, kıyafetini, saç modelini ve vücut oranlarını kusursuz bir şekilde tutarlı tutun.
+
+MEKÂN
+
+Beton sokakları, apartmanları, saksı bitkileri, bisikletleri, elektrik direkleri, yapraklı ağaçları ve minik bir mahalle bakkalı olan sessiz, eski bir Seul konut caddesi. Yaşanmışlık hissi veren ve otantik. Markalar, logolar, reklamlar veya turistik yerler yok.
+
+KAMERA TARZI
+
+2000'lerin başından kalma ucuz bir DV video kamerasından alınmış ham görüntüler: titrek el kamerası hareketi, kusurlu kadraj, otomatik odaklama arayışı, pozlama dalgalanmaları, soluk renkler, yumuşak detaylar, hafif kaset paraziti, kazara yapılan yakınlaştırmalar ve doğal kamera hataları. Sabitleme veya sinematik çekimler yok.
+
+00:00–00:06 — GİZEM
+
+Küçük bir plastik poşet taşıyarak sokakta yürürken aniden arkasından gelen hafif bir çıngırak sesi duyar.
+
+Durur ve etrafına bakınır.
+
+Kamera hızla kafası karışmış yüzüne yakınlaşır.
+
+Şöyle der:
+
+“Did you hear that?”
+
+00:06–00:12 — KÜÇÜK KEŞİF
+
+Sesi takip eder ve küçük zili hafifçe açık kalmış eski, küçük bir bisiklet bulur.
+
+Zile nazikçe dokunur.
+
+Çın.
+
+Kameraya bakar ve güler.
+
+Ardından bisiklette asılı duran, el yazısıyla yazılmış gibi görünen küçük bir kâğıt etiket fark eder, ancak yazı okunamayacak kadar belirsizdir.
+
+00:12–00:18 — RÜZGÂR
+
+Ani bir esinti sokak boyunca birkaç kuru yaprağı savurur.
+
+Biri doğrudan başının üzerine düşer.
+
+Fark etmez.
+
+Kameraman güler.
+
+Kafası karışmış görünür, ardından durumu fark edip yaprağı alır.
+
+Kameraya mahcup bir bakış atar.
+
+00:18–00:24 — KÜÇÜK MÜCADELE
+
+Yaprağı bisikletin selesine koyar ve orada dengede tutmaya çalışır.
+
+Rüzgâr onu hemen uçurur.
+
+Tekrar dener.
+
+Tekrar düşer.
+
+Güler ve sonunda pes eder.
+
+00:24–00:30 — HATIRA
+
+Yaprağı yerden alır, küçük çantasına koyar ve eve doğru yürümeye başlar.
+
+Birkaç adım attıktan sonra kameraya döner ve şöyle der:
+
+“Okay, that was pointless.”
+
+Gülümser ve yürümeye devam eder.
+
+Kamera, görüntü aniden kararmadan önce onu birkaç saniye takip eder.
+
+SES
+
+Yalnızca doğal ortam sesi: ayak sesleri, uzaktaki trafik, bisiklet zili, yaz böcekleri, yapraklar, rüzgâr, mahalle ambiyansı ve doğal gülüşler.
+
+Müzik, dış ses, altyazı, başlık, logo, filigran veya ekranda herhangi bir metin yok.
+
+GERÇEKÇİLİK
+
+Doğal insan tepkileri, kusurlu zamanlama, gerçekçi fizik kuralları, tutarlı nesneler, otantik Kore mahallesi detayları ve inandırıcı DV kamera kusurları. CGI görünümü, bozuk eller, fazladan parmaklar, yinelenen insanlar, kimlik kayması veya kıyafet değişiklikleri yok.
+
+16:9 en-boy oranı.
 ```
 
 [↑ Kategorilere dön](#catalog)

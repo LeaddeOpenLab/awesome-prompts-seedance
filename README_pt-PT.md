@@ -83,20 +83,104 @@ Sem representação comercial, sem iluminação perfeita de estúdio, sem poses 
 
 <a name="prompt-2096931238460178592"></a>
 
-### Tradução em curso
+### Crie um vídeo caseiro em DV do início dos anos 2000, ultrarrealista, de 30 segundos, 1080p e proporção 16:9, de uma jovem coreana a viver uma noite de verão comum, mas memorável, num bairro antigo de Seul, com ações detalhadas em cronograma, falhas de câmara à mão e áudio ambiente.
 
 Autor：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Publicação original](https://x.com/SimplyAnnisa/status/2096931238460178592)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Crie um vídeo caseiro em DV do início dos anos 2000, ultrarrealista, de 30 segundos, 1080p e proporção 16:9, de uma jovem coreana a viver uma noite de verão comum, mas memorável, num bairro antigo de Seul, com ações detalhadas em cronograma, falhas de câmara à mão e áudio ambiente.
 
 <img src="covers/2096931238460178592.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo caseiro em DV do início dos anos 2000, ultrarrealista, de 30 segundos, 1080p e proporção 16:9, de uma jovem coreana a viver uma noite de verão comum, mas surpreendentemente memorável, num bairro antigo de Seul.
+
+Uma mulher coreana naturalmente bonita no início dos seus 20 anos, pele realista, maquilhagem mínima, cabelos pretos compridos e ligeiramente ondulados, camisola de malha azul-claro, calças largas bege-claras, sapatilhas brancas, mala a tiracolo castanha e relógio prateado. Mantenha a sua identidade, rosto, indumentária, penteado e proporções perfeitamente consistentes.
+
+CENÁRIO
+
+Uma rua residencial antiga e tranquila de Seul com ruelas de betão, edifícios de apartamentos, vasos com plantas, bicicletas, postes de iluminação, árvores frondosas e uma pequena loja de conveniência de bairro. Com ar vivido e autêntico. Sem marcas, logótipos, anúncios ou locais turísticos.
+
+ESTILO DE CÂMARA
+
+Imagens em bruto de uma câmara de vídeo DV barata do início dos anos 2000: movimento trémulo à mão, enquadramento imperfeito, procura de foco automático, alterações de exposição, cores desvanecidas, detalhe suave, ligeiro ruído de fita, zooms acidentais e erros naturais de filmagem. Sem estabilização nem planos cinematográficos.
+
+00:00–00:06 — O MISTÉRIO
+
+Ela caminha pela rua a segurar num pequeno saco de plástico quando, subitamente, ouve um tilintar ténue atrás de si.
+
+Ela para e olha em redor.
+
+A câmara faz um zoom rápido em direção ao seu rosto confuso.
+
+Ela diz:
+
+“Did you hear that?”
+
+00:06–00:12 — A PEQUENA DESCOBERTA
+
+Ela segue o som e encontra uma bicicleta antiga e pequena com uma campainha minúscula presa ligeiramente aberta.
+
+Ela toca suavemente na campainha.
+
+Trim.
+
+Ela olha para a câmara e ri-se.
+
+Depois nota numa pequena etiqueta de papel com aspeto manuscrito pendurada na bicicleta, mas a caligrafia está demasiado impercetível para ler.
+
+00:12–00:18 — O VENTO
+
+Uma brisa repentina sopra várias folhas secas pela rua fora.
+
+Uma cai diretamente em cima da cabeça dela.
+
+Ela não repara.
+
+O operador de câmara ri-se.
+
+Ela parece confusa, depois apercebe-se e retira a folha.
+
+Ela lança um olhar envergonhado à câmara.
+
+00:18–00:24 — O PEQUENO DESAFIO
+
+Ela coloca a folha no selim da bicicleta e tenta equilibrá-la ali.
+
+O vento sopra-a imediatamente para longe.
+
+Ela tenta de novo.
+
+A folha volta a cair.
+
+Ela ri-se e finalmente desiste.
+
+00:24–00:30 — A RECORDAÇÃO
+
+Ela apanha a folha, coloca-a dentro da sua pequena mala e começa a caminhar para casa.
+
+Ao fim de alguns passos, vira-se para a câmara e diz:
+
+“Okay, that was pointless.”
+
+Ela sorri e continua a caminhar.
+
+A câmara segue-a durante alguns segundos antes de cortar abruptamente para o preto.
+
+ÁUDIO
+
+Apenas som ambiente natural do local: passos, trânsito distante, campainha de bicicleta, insetos de verão, folhas, vento, ambiente de bairro e risos naturais.
+
+Sem música, narração, legendas, caixas de diálogo, logótipos, marcas de água ou texto no ecrã.
+
+REALISMO
+
+Reações humanas naturais, cadência imperfeita, física realista, objetos consistentes, pormenores autênticos de um bairro coreano e imperfeições plausíveis de câmara DV. Sem aspeto de CGI, mãos distorcidas, dedos a mais, pessoas duplicadas, desvios de identidade ou mudanças de roupa.
+
+Proporção 16:9.
 ```
 
 [↑ Voltar às categorias](#catalog)
