@@ -877,7 +877,7 @@ Creado un video publicitario cinematográfico de joyería de lujo de 30 segundos
 
 <a name="prompt-2097320255139795072"></a>
 
-### Traducción en curso
+### Prompt detallado de guion gráfico para controlar el cambio de ropa de una chica mediante el móvil en perspectiva POV.
 
 Autor：[@johnAGI168](https://x.com/johnAGI168) · [Publicación original](https://x.com/johnAGI168/status/2097320255139795072)
 
@@ -885,14 +885,67 @@ Cómic / Guion gráfico · Artículo de moda · Publicado
 
 Publicación original：[@johnAGI168](https://x.com/johnAGI168) · [Publicación original](https://x.com/johnAGI168/status/2077395194773672409)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt detallado de guion gráfico para controlar el cambio de ropa de una chica mediante el móvil en perspectiva POV.
 
 <img src="covers/2097320255139795072.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Duración: 20 segundos
+Relación de aspecto: 9:16
+Estilo general: Miniserie en primera persona POV novio, temblor suave y realista de respiración al sostener el móvil con la mano, luz natural interior diáfana, deslizar + pulsar el móvil para cambio instantáneo de ropa, ritmo ágil, dulce y cariñoso, pantalla vertical
+
+【Escena】Salón/dormitorio luminoso, luz natural de ventanal de suelo a techo, fondo simple y acogedor, suelo limpio y sin desorden
+【Personajes】Protagonista femenina (@图片1, al inicio viste la ropa original del personaje); el protagonista masculino está en perspectiva POV, sin mostrar el rostro en todo momento, solo aparece una mano masculina sosteniendo el teléfono en la parte inferior de la pantalla
+【Atrezo】Un smartphone moderno de pantalla completa, sostenido en vertical. La pantalla muestra una app de moda minimalista: arriba una vista previa grande, abajo tarjetas de ropa que se deslizan horizontalmente. Cada deslizamiento tiene inercia fluida con el dedo, al tocar la tarjeta la pantalla hace un ligero zoom + respuesta háptica breve
+
+SHOT 1 (00:00-00:03.5) Presentación inicial
+Imagen: POV, la protagonista está de pie en el centro del encuadre, da media vuelta alegremente sobre sí misma para lucir su atuendo, sujeta ligeramente el dobladillo con ambas manos, mira a la cámara con ojos brillantes.
+Diálogo: Protagonista femenina: "Cariño, ¿qué tal me veo hoy?"
+Efectos de sonido: Ruido ambiental de la habitación, suave crujido de la tela.
+Constraints: Protagonista femenina de cuerpo entero en cuadro, atuendo inicial = ropa original del personaje.
+
+SHOT 2 (00:03.5-00:06.5) Sacar el móvil + primer deslizamiento
+Imagen: En la parte inferior de la pantalla, la mano del protagonista entra en plano levantando el móvil, la pantalla se ilumina mostrando la app de moda. El pulgar desliza las tarjetas de derecha a izquierda, deteniéndose en la tarjeta de @衣服1, la vista previa se agranda.
+Diálogo: Protagonista masculino (voz en off, perezoso): "No está mal. Pruébate este conjunto a ver."
+Efectos de sonido: Sonido suave de fricción al deslizar la pantalla.
+Constraints: La pantalla del móvil debe ser clara y legible, en la tarjeta se debe distinguir @衣服1; el protagonista masculino solo muestra la mano, no la cara.
+
+SHOT 3 (00:06.5-00:09.5) Primer clic, cambio instantáneo
+Imagen: El pulgar pulsa sobre la tarjeta de @衣服1, la pantalla vibra brevemente. En el mismo fotograma en que cae el clic, la ropa de la protagonista se transforma instantáneamente en @衣服1, con posición de pie, postura y peinado totalmente continuos; ella mira su ropa hacia abajo, abre los ojos y la boca asombrada, y luego levanta la vista hacia la cámara.
+Diálogo: Protagonista femenina (sorprendida): "¡¿Eh?!"
+Efectos de sonido: Nítido "bip" + "ding" de cambio de ropa, leve sonido de tela desplegándose.
+Constraints: El cambio de ropa ocurre en el mismo fotograma del clic, cambio instantáneo de un solo fotograma; se puede añadir un suave destello de luz que recorra el cuerpo de arriba abajo; prohibidos los fundidos encadenados (dissolve), parpadeos en negro o saltos de posición del personaje.
+
+SHOT 4 (00:09.5-00:13) Segundo deslizamiento + clic con cambio instantáneo
+Imagen: El pulgar vuelve a deslizar hacia la izquierda, la tarjeta se detiene en @衣服2, da un toque. En el mismo fotograma la protagonista cambia a @衣服2; esta vez reacciona, se sonroja levemente, junta y juguetea con los dedos frente a ella, ladea el cuerpo con timidez, esquiva la mirada pero no puede evitar mirar a la cámara.
+Diálogo: Protagonista masculino (voz en off): "Este también te queda bien."
+Protagonista femenina (en voz baja): "Tú... le das a cualquier cosa."
+Efectos de sonido: Sonido de deslizamiento + "bip" + "ding", música alegre que entra progresivamente.
+Constraints: El deslizamiento debe mostrar claramente el paso de la tarjeta de @衣服1 a @衣服2; el cambio de ropa sigue siendo un corte directo en el mismo fotograma del clic.
+
+SHOT 5 (00:13-00:16.5) Tercer deslizamiento + clic con cambio instantáneo
+Imagen: Vuelve a deslizar hacia @衣服3, da un toque. En el mismo fotograma cambia a @衣服3; la protagonista ya se ha acostumbrado, se muerde levemente el labio inferior, levanta la mano para ajustarse el cuello/dobladillo del nuevo vestido, mira a la cámara con una mirada ligeramente satisfecha y pícara.
+Diálogo: Protagonista femenina: "Este... la verdad es que está bastante bonito."
+Efectos de sonido: "Bip" + "ding", el ritmo de la música se acelera medio compás.
+Constraints: Tres reacciones en progresión: sorpresa → timidez → satisfacción/picardía; cada vez hay microgestos, prohibido quedarse quieta como una estatua.
+
+SHOT 6 (00:16.5-00:20) Cuarto deslizamiento + clic + cierre
+Imagen: El último deslizamiento se detiene en @衣服4, el pulgar presiona. En el mismo fotograma la protagonista cambia al instante a @衣服4; se ríe abiertamente, da un paso adelante acercándose a la cámara, entrecerrando los ojos con picardía. El teléfono sigue visible en la parte inferior, la pantalla muestra la vista previa de @衣服4.
+Diálogo: Protagonista masculino (voz en off, satisfecho): "Nos quedamos con este."
+Protagonista femenina (acercándose sonriente, en tono de reproche cariñoso): "¡Qué malo eres... pero me encanta!"
+Efectos de sonido: "Bip" + "ding", la música concluye en un golpe de ritmo dulce justo al terminar el diálogo de la chica.
+Constraints: Al final la chica se acerca pero sin pegarse en exceso al plano; el móvil permanece visible abajo en todo momento; orden de vestuario bloqueado: Inicio = Original → @衣服1 → @衣服2 → @衣服3 → @衣服4, no se puede alterar.
+
+【Reglas estrictas de dirección】
+1. Regla de oro del cambio de ropa: Cada cambio de ropa ocurre en el mismo fotograma del "clic", transición instantánea de un solo cuadro. La posición de pie, postura, peinado y forma de la cara de la protagonista deben ser perfectamente continuos a través del fotograma de cambio, solo varía el atuendo.
+2. Regla de oro del POV: Cámara = ojos del protagonista masculino, temblor suave de respiración en mano durante todo el metraje; el chico solo muestra la mano + voz en off, prohibido mostrar el rostro.
+3. Regla de oro del móvil: Siempre se debe deslizar primero y luego hacer clic, el deslizamiento sigue el dedo con fluidez, el cambio de tarjetas es claro; prohibido cambiar de ropa de la nada o cambiar sin mirar la pantalla.
+4. Referencias de atuendos: Inicio = ropa original de @图片1; 1ª vez = @衣服1; 2ª vez = @衣服2; 3ª vez = @衣服3; 4ª vez = @衣服4.
+5. Sincronía labial clara en los diálogos, alineada con el ritmo de los clics.
+
+Negative: Fundido encadenado (dissolve), parpadeo negro, destello blanco, humo, giros para tapar el corte, teletransportación de personajes, discontinuidad en la postura, cambio en la forma de la cara, cambio en el peinado, cambio aleatorio de zapatos (a menos que vengan con la imagen de la ropa), mostrar la cara del novio, formato horizontal, subtítulos, marcas de agua, logos, cambio repentino de fondo, múltiples personas en escena, ropa holgada de estar por casa a menos que así sea la imagen del atuendo, sacudidas bruscas de cámara, pantalla del móvil borrosa o ilegible.
 ```
 
 [↑ Volver a categorías](#catalog)

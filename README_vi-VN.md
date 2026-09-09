@@ -891,7 +891,7 @@ Tạo một video quảng cáo trang sức cao cấp mang phong cách điện �
 
 <a name="prompt-2097320255139795072"></a>
 
-### Đang dịch
+### Lời nhắc kịch bản phân cảnh chi tiết điều khiển bạn gái đổi trang phục từ xa bằng điện thoại ở góc nhìn POV.
 
 Tác giả：[@johnAGI168](https://x.com/johnAGI168) · [Bài gốc](https://x.com/johnAGI168/status/2097320255139795072)
 
@@ -899,14 +899,67 @@ Truyện tranh / Bảng phân cảnh · Mặt hàng thời trang · Đã xuất 
 
 Bài gốc：[@johnAGI168](https://x.com/johnAGI168) · [Bài gốc](https://x.com/johnAGI168/status/2077395194773672409)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc kịch bản phân cảnh chi tiết điều khiển bạn gái đổi trang phục từ xa bằng điện thoại ở góc nhìn POV.
 
 <img src="covers/2097320255139795072.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Thời lượng: 20 giây
+Tỷ lệ khung hình: 9:16
+Phong cách tổng thể: Phim ngắn góc nhìn thứ nhất POV bạn trai, máy quay cầm tay rung nhẹ tự nhiên theo nhịp thở thực tế, ánh sáng tự nhiên trong phòng trong trẻo, lướt điện thoại + nhấn chạm thay đổi trang phục tức thì, tiết tấu tươi vui ngọt ngào cưng chiều, khung hình dọc
+
+【Bối cảnh】Phòng khách/phòng ngủ sáng sủa, ánh sáng tự nhiên từ cửa sổ kính sát đất, phông nền đơn giản ấm cúng, sàn nhà sạch sẽ không bừa bộn
+【Nhân vật】Nữ chính (@图片1, mở đầu mặc trang phục gốc của nhân vật); Nam chính ở góc nhìn POV, suốt quá trình không lộ mặt, chỉ xuất hiện bàn tay nam giới cầm điện thoại ở phía dưới khung hình
+【Đạo cụ】Một chiếc điện thoại thông minh tràn viền hiện đại, cầm dọc. Màn hình là ứng dụng phối đồ thời trang tối giản: phía trên là hình ảnh xem trước lớn, phía dưới là các thẻ trang phục có thể vuốt ngang. Mỗi lần vuốt đều có quán tính bám theo ngón tay, khi nhấn vào thẻ màn hình thu phóng nhẹ + có phản hồi rung ngắn
+
+SHOT 1 (00:00-00:03.5) Khai màn giới thiệu
+Hình ảnh: POV, nữ chính đứng giữa khung hình, vui vẻ xoay nửa vòng tại chỗ để khoe trang phục, hai tay khẽ nắm gấu áo, mắt sáng ngời nhìn vào ống kính.
+Lời thoại: Nữ chính: "Chồng ơi, xem hôm nay em mặc thế nào?"
+Âm thanh: Tiếng ồn môi trường trong phòng, tiếng vải cọ xát nhẹ.
+Ràng buộc: Nữ chính toàn thân lọt vào khung hình, trang phục mở đầu = trang phục gốc của nhân vật.
+
+SHOT 2 (00:03.5-00:06.5) Rút điện thoại ra + Lướt lần đầu tiên
+Hình ảnh: Phía dưới màn hình tay nam chính giơ điện thoại vào khung cảnh, màn hình sáng lên, hiển thị ứng dụng phối đồ. Ngón tay cái vuốt các thẻ từ phải sang trái, dừng lại ở thẻ @衣服1, hình ảnh xem trước phóng to.
+Lời thoại: Nam chính (giọng lồng tiếng ngoài khung hình, uể oải): "Cũng được. Đổi bộ này xem nào."
+Âm thanh: Tiếng ma sát nhẹ khi vuốt màn hình.
+Ràng buộc: Màn hình điện thoại rõ ràng đọc được, trên thẻ nhận diện rõ là @衣服1; nam chính chỉ lộ tay, không lộ mặt.
+
+SHOT 3 (00:06.5-00:09.5) Chạm lần đầu biến đổi tức thì
+Hình ảnh: Ngón tay cái chạm vào thẻ @衣服1, màn hình rung ngắn. Đúng khung hình chạm xuống, trang phục của nữ chính lập tức biến thành @衣服1, vị trí đứng, tư thế, kiểu tóc hoàn toàn liền mạch; cô ấy cúi đầu nhìn quần áo, mở to mắt há hốc mồm, rồi ngẩng đầu nhìn vào ống kính.
+Lời thoại: Nữ chính (kinh ngạc): "Ơ?!"
+Âm thanh: Tiếng "bíp" trong trẻo + tiếng "ting" thay đồ, tiếng vải bung ra khẽ vang lên.
+Ràng buộc: Thay đồ xảy ra đúng khung hình bấm, biến đổi tức thì trong một khung hình duy nhất; có thể thêm một vệt sáng nhẹ lướt từ trên xuống dưới cơ thể; cấm hòa tan (dissolve), chớp đen, nhân vật bị giật nhảy vị trí.
+
+SHOT 4 (00:09.5-00:13) Lướt lần thứ hai + Chạm biến đổi tức thì
+Hình ảnh: Ngón tay cái lại vuốt sang trái, thẻ dừng ở @衣服2, chạm một cái. Cùng khung hình đó nữ chính đổi thành @衣服2; lần này cô ấy đã kịp phản ứng, má hơi ửng hồng, các ngón tay đan xoắn trước người, ngượng ngùng lắc nhẹ người, ánh mắt né tránh nhưng không kìm được nhìn vào ống kính.
+Lời thoại: Nam chính (ngoài khung hình): "Bộ này cũng được đấy."
+Nữ chính (nói nhỏ): "Anh... toàn bấm linh tinh."
+Âm thanh: Tiếng vuốt + "bíp" + "ting", nhạc nhẹ nhàng vui tươi dần nổi lên.
+Ràng buộc: Thao tác vuốt phải thấy trọn vẹn từ thẻ @衣服1 trượt sang @衣服2; đổi đồ vẫn là cắt dứt khoát đúng khung hình chạm.
+
+SHOT 5 (00:13-00:16.5) Lướt lần thứ ba + Chạm biến đổi tức thì
+Hình ảnh: Lại vuốt sang @衣服3, chạm một cái. Cùng khung hình đổi thành @衣服3; nữ chính đã quen, khẽ cắn môi dưới, đưa tay chỉnh lại cổ áo/gấu váy mới, ánh mắt pha chút đắc ý nhìn vào ống kính.
+Lời thoại: Nữ chính: "Bộ này... nhìn cũng đẹp đấy chứ."
+Âm thanh: "Bíp" + "ting", tiết tấu âm nhạc tăng nhanh nửa nhịp.
+Ràng buộc: Ba mức phản ứng tiến triển rõ rệt: kinh ngạc → ngượng ngùng → đắc ý; mỗi lần đều có cử chỉ nhỏ, cấm đứng đơ.
+
+SHOT 6 (00:16.5-00:20) Lướt lần thứ tư + Chạm + Kết thúc
+Hình ảnh: Lần vuốt cuối cùng dừng lại ở @衣服4, ngón cái ấn xuống. Cùng khung hình nữ chính lập tức đổi sang @衣服4; cô ấy bật cười, bước lên một bước tiến lại gần ống kính, nheo mắt tinh nghịch. Điện thoại vẫn giơ ở phía dưới màn hình, màn hình dừng ở bản xem trước của @衣服4.
+Lời thoại: Nam chính (ngoài khung hình, hài lòng): "Chốt bộ này nhé."
+Nữ chính (cười lại gần, hờn dỗi yêu): "Anh xấu tính ghê—nhưng mà em thích!"
+Âm thanh: "Bíp" + "ting", âm nhạc khép lại ở nhịp nhấn ngọt ngào đúng điểm rơi câu thoại của nữ chính.
+Ràng buộc: Cuối video nữ chính lại gần nhưng không dán sát mặt; điện thoại luôn nhìn thấy ở phía dưới màn hình; khóa thứ tự trang phục: Mở đầu = Gốc → @衣服1 → @衣服2 → @衣服3 → @衣服4, không được xáo trộn.
+
+【Thiết luật đạo diễn】
+1. Thiết luật thay đồ: Mỗi lần đổi trang phục phải xảy ra đúng khung hình "chạm", biến đổi trong một khung hình duy nhất. Vị trí đứng, tư thế, kiểu tóc, dáng mặt của nữ chính phải hoàn toàn liên tục xuyên suốt khung hình đổi trang phục, chỉ có quần áo thay đổi.
+2. Thiết luật POV: Ống kính = mắt nam chính, toàn bộ video có độ rung nhẹ do thở khi cầm tay; nam chính chỉ lộ tay + lồng tiếng ngoài khung hình, cấm lộ mặt.
+3. Thiết luật điện thoại: Mỗi lần đều phải vuốt trước rồi mới chạm, vuốt bám theo tay, chuyển thẻ rõ ràng; cấm tự nhiên đổi đồ từ hư không, cấm chưa nhìn màn hình đã đổi đồ.
+4. Tham chiếu trang phục: Mở đầu = Quần áo gốc @图片1; Lần 1 = @衣服1; Lần 2 = @衣服2; Lần 3 = @衣服3; Lần 4 = @衣服4.
+5. Khẩu hình lời thoại rõ ràng, khớp với nhịp chạm nút.
+
+Negative: Chuyển cảnh hòa tan (dissolve), chớp đen, chớp trắng, khói, xoay người che khuất, nhân vật dịch chuyển tức thời, tư thế bị đứt đoạn, thay đổi dáng mặt, thay đổi kiểu tóc, giày dép thay đổi lộn xộn (trừ khi ảnh quần áo có sẵn), lộ mặt nam chính, khung hình ngang, phụ đề, watermark, logo, phông nền đổi đột ngột, nhiều người lọt vào khung hình, đồ mặc nhà rộng thùng thình trừ khi ảnh trang phục đúng là như vậy, ống kính rung lắc dữ dội, màn hình điện thoại mờ không đọc được.
 ```
 
 [↑ Về danh mục](#catalog)
