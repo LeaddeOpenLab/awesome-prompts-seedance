@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T02:31:14.755Z",
+  "model": "seedance2.5",
+  "prompt": "Scene 1: Cinematic macro shot of a COSRX Advanced Snail 96 Mucin Power Essence bottle standing on a sleek glass surface, surrounded by rolling ethereal white smoke and floating crystal-clear water droplets, warm beige and soft golden studio lighting, 4k resolution, photorealistic.\n\nScene 2: Dynamic close-up transition as thick, glossy, viscous snail mucin essence slowly drips and stretches from above onto the glass reflective surface next to the bottle, creating rippling micro-droplets, elegant and luxurious aesthetic, hyper-detailed textures.\n\nScene 3: Gentle camera push-in focusing sharply on the product label as soft light glints across the glass bottle and a final ripple settles in the pooling essence below, minimalist and high-end commercial look.",
+  "promptTranslations": {
+    "en": "Scene 1: Cinematic macro shot of a COSRX Advanced Snail 96 Mucin Power Essence bottle standing on a sleek glass surface, surrounded by rolling ethereal white smoke and floating crystal-clear water droplets, warm beige and soft golden studio lighting, 4k resolution, photorealistic.\\n\\nScene 2: Dynamic close-up transition as thick, glossy, viscous snail mucin essence slowly drips and stretches from above onto the glass reflective surface next to the bottle, creating rippling micro-droplets, elegant and luxurious aesthetic, hyper-detailed textures.\\n\\nScene 3: Gentle camera push-in focusing sharply on the product label as soft light glints across the glass bottle and a final ripple settles in the pooling essence below, minimalist and high-end commercial look."
+  },
+  "summaryTranslations": {
+    "en": "A 3-scene high-end skincare commercial prompt showcasing COSRX snail mucin essence with macro shots, viscous dripping texture, and studio lighting."
+  },
+  "translationVersion": 2,
+  "summary": "A 3-scene high-end skincare commercial prompt showcasing COSRX snail mucin essence with macro shots, viscous dripping texture, and studio lighting.",
+  "summaryEn": "A 3-scene high-end skincare commercial prompt showcasing COSRX snail mucin essence with macro shots, viscous dripping texture, and studio lighting.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097261787548615064",
+    "canonicalUrl": "https://x.com/AvelyrahnAI/status/2097261787548615064",
+    "author": {
+      "username": "AvelyrahnAI",
+      "displayName": "Avelyrah",
+      "profileUrl": "https://x.com/AvelyrahnAI"
+    },
+    "publishedAt": "2026-09-08T09:52:30.000Z",
+    "collectedAt": "2026-09-08T11:32:47.871Z",
+    "language": "en",
+    "originalText": "Glow up your skincare routine with the ultimate hydration secret\n\nCreated with Seedance 2.5\n\nPrompt:\n\nScene 1: Cinematic macro shot of a COSRX Advanced Snail 96 Mucin Power Essence bottle standing on a sleek glass surface, surrounded by rolling ethereal white smoke and floating crystal-clear water droplets, warm beige and soft golden studio lighting, 4k resolution, photorealistic.\n\nScene 2: Dynamic close-up transition as thick, glossy, viscous snail mucin essence slowly drips and stretches from above onto the glass reflective surface next to the bottle, creating rippling micro-droplets, elegant and luxurious aesthetic, hyper-detailed textures.\n\nScene 3: Gentle camera push-in focusing sharply on the product label as soft light glints across the glass bottle and a final ripple settles in the pooling essence below, minimalist and high-end commercial look.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AvelyrahnAI/status/2097261787548615064",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097261722943811584/img/LFqu2nWl3-_voifS.jpg",
+        "analysisUrl": "https://x.com/AvelyrahnAI/status/2097261787548615064"
+      }
+    ],
+    "metrics": {
+      "likeCount": 44,
+      "repostCount": 3,
+      "replyCount": 15,
+      "quoteCount": 0,
+      "viewCount": 294
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\",\"nano banana\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AvelyrahnAI/status/2097261787548615064",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097261722943811584/img/LFqu2nWl3-_voifS.jpg",
+  "coverPath": "covers/2097261787548615064.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097261722943811584",
+    "x-post:2097261787548615064"
+  ],
+  "analysis": {
+    "summary": "A 3-scene high-end skincare commercial prompt showcasing COSRX snail mucin essence with macro shots, viscous dripping texture, and studio lighting.",
+    "summaryEn": "A 3-scene high-end skincare commercial prompt showcasing COSRX snail mucin essence with macro shots, viscous dripping texture, and studio lighting.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Scene 1: Cinematic macro shot of a COSRX Advanced Snail 96 Mucin Power Essence bottle standing on a sleek glass surface, surrounded by rolling ethereal white smoke and floating crystal-clear water droplets, warm beige and soft golden studio lighting, 4k resolution, photorealistic.\n\nScene 2: Dynamic close-up transition as thick, glossy, viscous snail mucin essence slowly drips and stretches from above onto the glass reflective surface next to the bottle, creating rippling micro-droplets, elegant and luxurious aesthetic, hyper-detailed textures.\n\nScene 3: Gentle camera push-in focusing sharply on the product label as soft light glints across the glass bottle and a final ripple settles in the pooling essence below, minimalist and high-end commercial look.",
+    "sourceRange": {
+      "start": 102,
+      "end": 864
+    },
+    "translations": {
+      "zh": "场景 1：电影感微距镜头，一瓶 COSRX 蜗牛 96 赋活精华立在光滑的玻璃表面上，周围环绕着流动的空灵白烟与漂浮的晶莹水滴，暖米色与柔和的金色影棚灯光，4k 分辨率，逼真质感。\n\n场景 2：动态特写转场，浓稠、光泽且具粘性的蜗牛黏液精华从上方缓缓滴落并拉丝到瓶子旁的反光玻璃表面，激起微小水珠涟漪，优雅奢华的视觉美感，超精细纹理细节。\n\n场景 3：柔和的镜头向前推进，锐利聚焦在产品标签上，柔光掠过玻璃瓶身，下方汇聚的精华液中最后一丝涟漪缓缓平息，极简且高端的商业广告视觉。",
+      "en": "Scene 1: Cinematic macro shot of a COSRX Advanced Snail 96 Mucin Power Essence bottle standing on a sleek glass surface, surrounded by rolling ethereal white smoke and floating crystal-clear water droplets, warm beige and soft golden studio lighting, 4k resolution, photorealistic.\n\nScene 2: Dynamic close-up transition as thick, glossy, viscous snail mucin essence slowly drips and stretches from above onto the glass reflective surface next to the bottle, creating rippling micro-droplets, elegant and luxurious aesthetic, hyper-detailed textures.\n\nScene 3: Gentle camera push-in focusing sharply on the product label as soft light glints across the glass bottle and a final ripple settles in the pooling essence below, minimalist and high-end commercial look."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "commercial",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "COSRX Advanced Snail 96 Mucin Power Essence"
+      ]
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
