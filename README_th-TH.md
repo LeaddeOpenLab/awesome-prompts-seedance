@@ -265,42 +265,42 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 <a name="prompt-2096840505355370629"></a>
 
-### A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+### วิดีโอรวมภาพท่องเที่ยวเขตร้อนแนวภาพยนตร์ความยาว 30 วินาที นำเสนอหญิงสาวชาวเอเชียตะวันออกวัย 20 ปีสำรวจบาหลีผ่าน 8 ฉากที่มีรายละเอียด ด้วยสุนทรียภาพของฟิล์ม 35 มม. การเคลื่อนไหวของกล้องแบบมือถือ โทนสีวินเทจอันอบอุ่น และช่วงเวลาที่เกิดขึ้นตามธรรมชาติ
 
 ผู้เขียน：[@eshal\_\_ai](https://x.com/eshal__ai) · [โพสต์ต้นฉบับ](https://x.com/eshal__ai/status/2096840505355370629)
 
 การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ย้อนยุค / วินเทจ · ตัวละคร · เผยแพร่แล้ว
 
-**สรุป:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+**สรุป:** วิดีโอรวมภาพท่องเที่ยวเขตร้อนแนวภาพยนตร์ความยาว 30 วินาที นำเสนอหญิงสาวชาวเอเชียตะวันออกวัย 20 ปีสำรวจบาหลีผ่าน 8 ฉากที่มีรายละเอียด ด้วยสุนทรียภาพของฟิล์ม 35 มม. การเคลื่อนไหวของกล้องแบบมือถือ โทนสีวินเทจอันอบอุ่น และช่วงเวลาที่เกิดขึ้นตามธรรมชาติ
 
 <img src="covers/2096840505355370629.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Bali during a dreamy summer getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style.
+วิดีโอรวมภาพท่องเที่ยวแนวภาพยนตร์ความยาว 30 วินาทีในเขตร้อน นำเสนอหญิงสาวชาวเอเชียตะวันออกวัย 20 ปีผู้มีเสน่ห์ ผมสีเข้ม กำลังท่องเที่ยวบาหลีระหว่างการพักผ่อนช่วงฤดูร้อนดั่งความฝัน ถ่ายทำเหมือนไดอารี่การเดินทางสุดหรูที่แท้จริงด้วยการเคลื่อนไหวของกล้องแบบมือถือ (handheld), ช่วงเวลาที่เป็นธรรมชาติ (candid), แสงแดดสีทองอบอุ่นยามโกลเด้นฮาวเออร์, สุนทรียภาพฟิล์ม 35 มม. ชวนฝัน, การเกรดสีวินเทจโทนอุ่น, ระยะชัดตื้น, ผิวสัมผัสที่เป็นธรรมชาติ, แสงที่สร้างบรรยากาศ และการเล่าเรื่องแบบภาพยนตร์ รักษาภาพลักษณ์ของผู้หญิงคนเดิมตลอดทุกฉาก: ผมสีเข้ม, รูปลักษณ์อ่อนเยาว์, แต่งหน้าเป็นธรรมชาติ, ชุดฤดูร้อนที่หรูหราสง่างาม, สีหน้าผ่อนคลายมีความสุข รูปแบบ: วิดีโอภาพยนตร์ 4K, 24fps, เกรนฟิล์ม 35 มม., กล้องมือถือที่สมจริง, ซอฟต์โฟกัส, โทนสีอบอุ่น, สไตล์สารคดีท่องเที่ยว
 
-Scene 1 (0-4s) — Arrival & Village Street: A warm Balinese morning. The woman strolls down a narrow street lined with frangipani trees and stone shrines, wearing a linen wrap dress, sunglasses pushed up into her hair. Motorbikes pass softly blurred in the background, incense smoke drifts from a doorway offering. Camera trails her from behind, then swings into a close-up as she glances back over her shoulder and laughs, saying softly, "Okay, I think I already love it here."
+ฉากที่ 1 (0-4 วินาที) — การมาถึงและถนนในหมู่บ้าน: เช้าวันใหม่อันอบอุ่นในบาหลี หญิงสาวเดินทอดน่องไปตามถนนแคบๆ ที่เรียงรายไปด้วยต้นลั่นทมและศาลหิน เธอสวมชุดเดรสป้ายผ้าลินิน แว่นกันแดดคาดอยู่บนศีรษะ รถมอเตอร์ไซค์แล่นผ่านโดยมีพื้นหลังเบลอนุ่มนวล ควันธูปลอยมาจากเครื่องเซ่นไหว้ที่หน้าประตู กล้องเคลื่อนตามหลังเธอ แล้วเหวี่ยงมาเป็นภาพโคลสอัปขณะที่เธอหันมองข้ามไหล่พร้อมกับหัวเราะ และพูดเบาๆ ว่า "Okay, I think I already love it here."
 
-Scene 2 (4-8s) — Cliffside Beach Discovery: She descends stone steps onto a narrow cliffside beach, turquoise water crashing against limestone cliffs behind her. She walks barefoot at the tideline, dress hem lifted slightly, waves curling over her feet. Low-angle shots of her footprints filling with foam, sunlight scattering across the water, jagged cliffs framing the horizon.
+ฉากที่ 2 (4-8 วินาที) — การค้นพบชายหาดริมหน้าผา: เธอเดินลงบันไดหินสู่ชายหาดแคบๆ ริมหน้าผา น้ำทะเลสีฟ้าเทอร์ควอยซ์ซัดกระทบหน้าผาหินปูนด้านหลัง เธอเดินเท้าเปล่าริมแนวคลื่น ชายกระโปรงถูกยกขึ้นเล็กน้อย คลื่นม้วนตัวซัดผ่านเท้าเธอ ช็อตมุมต่ำจับภาพรอยเท้าที่เต็มไปด้วยฟองคลื่น แสงแดดส่องประกายระยิบระยับบนผิวน้ำ หน้าผาขรุขระตระหง่านอยู่ ณ ขอบฟ้า
 
-Scene 3 (8-12s) — Rice Terrace & Jungle Moments: A worm's-eye view looking up through banana leaves and bamboo, sunlight cutting through in warm shafts with soft lens flares. Cut to a close-up of her standing at the edge of an emerald rice terrace, wind lifting loose strands of hair as she looks out, quietly murmuring, "It's so green it doesn't look real."
+ฉากที่ 3 (8-12 วินาที) — นาขั้นบันไดและช่วงเวลาในป่าเขตร้อน: มุมมองตัวหนอน (worm's-eye view) มองขึ้นผ่านใบกล้วยและต้นไผ่ แสงแดดส่องลอดลงมาเป็นลำแสงอบอุ่นพร้อมแสงแฟลร์นุ่มนวล ตัดภาพไปยังโคลสอัปของเธอที่ยืนอยู่ตรงขอบนาขั้นบันไดสีมรกต สายลมพัดปอยผมปลิวไสวขณะที่เธอมองออกไปและพึมพำเบาๆ ว่า "It's so green it doesn't look real."
 
-Scene 4 (12-16s) — Warung Cafe & Slow Living: She sits alone at a small open-air warung overlooking the jungle, sipping fresh coconut water through a paper straw. Sunlight filters through woven bamboo shades. Close-up shots of her hands wrapped around the coconut, condensation beading on the shell, her contented half-smile as she watches the trees sway.
+ฉากที่ 4 (12-16 วินาที) — คาเฟ่วารุงและวิถีชีวิตแบบสโลว์ไลฟ์: เธอนั่งอยู่คนเดียวที่วารุงเปิดโล่งขนาดเล็กที่มองเห็นป่า จิบน้ำมะพร้าวสดผ่านหลอดกระดาษ แสงแดดส่องผ่านมูลี่ไม้ไผ่สาน ช็อตโคลสอัปมือของเธอที่กุมลูกมะพร้าว หยดน้ำเกาะพราวบนเปลือกมะพร้าว รอยยิ้มพึงพอใจอย่างมีความสุขขณะเฝ้ามองต้นไม้ไหวตามสายลม
 
-Scene 5 (16-20s) — Ocean Adventure: She paddles a wooden longboard through a calm turquoise lagoon, sunlight sparkling across the surface. Camera circles her at water level, capturing gentle ripples and distant green cliffs. She loses balance slightly, laughs out loud, and calls toward the camera, "Don't film this part — actually, keep filming it."
+ฉากที่ 5 (16-20 วินาที) — การผจญภัยในมหาสมุทร: เธอพายลองบอร์ดไม้ผ่านลากูนสีเทอร์ควอยซ์อันเงียบสงบ แสงแดดเป็นประกายระยิบระยับทั่วผิวน้ำ กล้องหมุนรอบตัวเธอในระดับผิวน้ำ จับภาพระลอกคลื่นแผ่วเบาและหน้าผาสีเขียวที่อยู่ไกลออกไป เธอเสียการทรงตัวเล็กน้อย หัวเราะออกมาดังๆ แล้วร้องบอกกล้องว่า "Don't film this part — actually, keep filming it."
 
-Scene 6 (20-24s) — Night Market Exploration: A glowing Balinese night market strung with paper lanterns, satay smoke curling into the air, vendors calling out prices. She weaves through the crowd sampling grilled skewers and mango sticky rice, her face lit by warm string lights and passing motorbike headlights. Cinematic close-ups of her eyes widening at the taste, lanterns blurred into soft bokeh behind her.
+ฉากที่ 6 (20-24 วินาที) — สำรวจตลาดกลางคืน: ตลาดกลางคืนบาหลีที่สว่างไสวประดับประดาด้วยโคมกระดาษ ควันสะเต๊ะลอยวนในอากาศ พ่อค้าแม่ค้าส่งเสียงเรียกลูกค้า เธอเดินลัดเลาะผ่านฝูงชน ชิมหมูปิ้งเสียบไม้และข้าวเหนียวมะม่วง ใบหน้าของเธอต้องแสงไฟประดับสีอบอุ่นและไฟหน้ารถมอเตอร์ไซค์ที่ขับผ่าน โคลสอัปแบบภาพยนตร์เผยให้เห็นดวงตาของเธอที่เบิกกว้างเมื่อได้ลิ้มรส โคมไฟด้านหลังเบลอเป็นโบเก้นุ่มนวล
 
-Scene 7 (24-27s) — Golden Sunset Ending: A wide silhouette shot of her standing at the shoreline as the sun sinks into the sea, sky burning orange and violet, reflections rippling across the wet sand. Waves wash gently around her ankles as she tilts her face toward the last light, one hand shielding her eyes.
+ฉากที่ 7 (24-27 วินาที) — จุดจบยามอาทิตย์อัสดงสีทอง: ช็อตซิลูเอทมุมกว้างของเธอยืนอยู่ริมชายฝั่งขณะที่ดวงอาทิตย์กำลังจมลงสู่ทะเล ท้องฟ้าลุกเป็นไฟด้วยสีส้มและสีม่วง แสงสะท้อนระยิบระยับบนผืนทรายเปียก คลื่นซัดเบาๆ รอบข้อเท้าของเธอขณะที่เธอเงยหน้ารับแสงสุดท้าย มือข้างหนึ่งบังแดดไว้เหนือสายตา
 
-Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a glittering coastal skyline at night. She leans against the railing in a simple white dress, curtain of hair moving in the breeze, city lights reflected in her eyes. Final intimate close-up of her curled up on the hotel bed, propped on one elbow, looking directly into the lens with a soft, warm smile as she says, "Goodnight from Bali."
+ฉากที่ 8 (27-30 วินาที) — ช่วงเวลาแห่งการสะท้อนคิดยามค่ำคืนที่โรงแรม: บาร์ริมสระน้ำบนชั้นดาดฟ้าที่มองเห็นเส้นขอบฟ้าชายฝั่งระยิบระยับยามค่ำคืน เธอพิงราวระเบียงในชุดเดรสสีขาวเรียบง่าย ม่านผมพลิ้วไหวตามสายลม แสงไฟของเมืองสะท้อนในดวงตา โคลสอัปแนบชิดฉากสุดท้ายของเธอที่นอนขดตัวอยู่บนเตียงในโรงแรม เท้าศอกข้างหนึ่ง มองตรงมาที่เลนส์พร้อมรอยยิ้มอบอุ่นอ่อนโยนพลางกล่าวว่า "Goodnight from Bali."
 
-Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural drifting movement, occasional POV shots, realistic autofocus hunting, subtle motion blur.
+สไตล์กล้อง: ซีเนมาโตกราฟีสไตล์วล็อกท่องเที่ยวของแท้, การสั่นไหวของกล้องมือถือ, การเปลี่ยนฉากที่ลื่นไหลแบบภาพยนตร์, การซูมเข้าช้าๆ (slow push-ins), การเคลื่อนไหวลอยเลื่อนอย่างเป็นธรรมชาติ, ช็อตมุมมองบุคคลที่หนึ่ง (POV) เป็นระยะ, การปรับโฟกัสอัตโนมัติที่สมจริง, โมชันเบลอที่ละเอียดอ่อน
 
-Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
+สไตล์ภาพ: ภาพยนตร์วันหยุดบาหลีชวนฝัน, สุนทรียภาพแบบแบรนด์ท่องเที่ยวบูติก, แสงแดดสีทองนุ่มนวล, ผิวสัมผัสที่สมจริง, ระยะชัดตื้นแบบภาพยนตร์, ลุคฟิล์ม 35 มม. แนวคิดถึงอดีต, โทนบรรยากาศอบอุ่น, สีหน้าเป็นธรรมชาติไร้บทบาท, การเล่าเรื่องที่เปี่ยมอารมณ์
 
-Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+สิ่งที่ควรหลีกเลี่ยง: สไตล์การ์ตูน, ลุค CGI, ผิวพลาสติก, ใบหน้าที่ไม่สมจริง, รูปลักษณ์ตัวละครที่ไม่สม่ำเสมอ, ทรงผมที่เปลี่ยนไป, นิ้วมือส่วนเกิน, ร่างกายบิดเบี้ยว, แสงประดิษฐ์, สีที่สดเกินไป, ใบหน้าเบลอ, การเคลื่อนไหวที่ไม่เป็นธรรมชาติ, บุคคลซ้ำซ้อน
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

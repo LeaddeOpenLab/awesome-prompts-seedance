@@ -265,42 +265,42 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 <a name="prompt-2096840505355370629"></a>
 
-### A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+### 35mm फिल्म सौंदर्यशास्त्र, हैंडहेल्ड कैमरा मूवमेंट, वॉर्म विंटेज टोन और स्वाभाविक सहज पलों के साथ आठ विस्तृत दृश्यों में बाली की सैर करती 20 वर्षीय पूर्वी एशियाई युवती को दर्शाता एक 30-सेकंड का सिनेमाई ट्रॉपिकल ट्रैवल व्लॉग मोंटाज।
 
 लेखक：[@eshal\_\_ai](https://x.com/eshal__ai) · [मूल पोस्ट](https://x.com/eshal__ai/status/2096840505355370629)
 
 फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · रेट्रो / विंटेज · कैरेक्टर · प्रकाशित
 
-**सारांश:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+**सारांश:** 35mm फिल्म सौंदर्यशास्त्र, हैंडहेल्ड कैमरा मूवमेंट, वॉर्म विंटेज टोन और स्वाभाविक सहज पलों के साथ आठ विस्तृत दृश्यों में बाली की सैर करती 20 वर्षीय पूर्वी एशियाई युवती को दर्शाता एक 30-सेकंड का सिनेमाई ट्रॉपिकल ट्रैवल व्लॉग मोंटाज।
 
 <img src="covers/2096840505355370629.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Bali during a dreamy summer getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style.
+एक सिनेमाई 30-सेकंड का ट्रॉपिकल ट्रैवल व्लॉग मोंटाज, जिसमें गहरे बालों वाली एक सुंदर 20 वर्षीय पूर्वी एशियाई युवती को एक स्वप्निल गर्मियों की छुट्टी के दौरान बाली की सैर करते हुए दिखाया गया है। इसे एक प्रामाणिक लक्जरी यात्रा डायरी की तरह शूट किया गया है, जिसमें हैंडहेल्ड कैमरा मूवमेंट, स्वाभाविक सहज पल, गोल्डन-ऑवर की कोमल धूप, 35mm फिल्म का स्वप्निल सौंदर्य, वॉर्म विंटेज कलर ग्रेडिंग, उथला डेप्थ ऑफ फील्ड, स्वाभाविक त्वचा की बनावट, वायुमंडलीय प्रकाश और सिनेमाई कहानी शामिल है। हर दृश्य में एक ही युवती को बनाए रखें: काले बाल, युवा रूप, स्वाभाविक मेकअप, सुंदर ग्रीष्मकालीन परिधान, शांत व प्रसन्नचित्त भाव। प्रारूप: 4K सिनेमाई वीडियो, 24fps, 35mm फिल्म ग्रेन, यथार्थवादी हैंडहेल्ड कैमरा, सॉफ्ट फोकस, वॉर्म कलर पैलेट, यात्रा वृत्तचित्र शैली।
 
-Scene 1 (0-4s) — Arrival & Village Street: A warm Balinese morning. The woman strolls down a narrow street lined with frangipani trees and stone shrines, wearing a linen wrap dress, sunglasses pushed up into her hair. Motorbikes pass softly blurred in the background, incense smoke drifts from a doorway offering. Camera trails her from behind, then swings into a close-up as she glances back over her shoulder and laughs, saying softly, "Okay, I think I already love it here."
+दृश्य 1 (0-4 सेकंड) — आगमन और गाँव की सड़क: एक सुखद बालिनी सुबह। युवती लिनन रैप ड्रेस पहने और बालों में धूप का चश्मा लगाए, चंपा के पेड़ों और पत्थर के मंदिरों से सजी एक संकरी सड़क पर टहल रही है। पृष्ठभूमि में धीरे-धीरे धुंधली होती मोटरबाइकें गुजर रही हैं, और एक चौखट पर रखी भेंट से अगरबत्ती का धुआँ उठ रहा है। कैमरा पीछे से उसका पीछा करता है, फिर क्लोज़-अप में घूमता है जब वह कंधे के ऊपर से पीछे मुड़कर देखती है और हंसते हुए धीरे से कहती है, "Okay, I think I already love it here."
 
-Scene 2 (4-8s) — Cliffside Beach Discovery: She descends stone steps onto a narrow cliffside beach, turquoise water crashing against limestone cliffs behind her. She walks barefoot at the tideline, dress hem lifted slightly, waves curling over her feet. Low-angle shots of her footprints filling with foam, sunlight scattering across the water, jagged cliffs framing the horizon.
+दृश्य 2 (4-8 सेकंड) — चट्टानी समुद्र तट की खोज: वह संकरी चट्टानी समुद्र तट की ओर जाने वाली पत्थर की सीढ़ियाँ उतरती है, उसके पीछे चूना पत्थर की चट्टानों से फ़िरोज़ी पानी टकरा रहा है। वह ड्रेस का निचला सिरा थोड़ा उठाए नंगे पैर पानी की धार पर चलती है, लहरें उसके पैरों को छूती हुई मुड़ती हैं। कम कोण वाले शॉट्स में उसके कदमों के निशान झाग से भरते हैं, पानी पर धूप बिखरती है, और नुकीली चट्टानें क्षितिज को घेरती हैं।
 
-Scene 3 (8-12s) — Rice Terrace & Jungle Moments: A worm's-eye view looking up through banana leaves and bamboo, sunlight cutting through in warm shafts with soft lens flares. Cut to a close-up of her standing at the edge of an emerald rice terrace, wind lifting loose strands of hair as she looks out, quietly murmuring, "It's so green it doesn't look real."
+दृश्य 3 (8-12 सेकंड) — सीढ़ीदार धान के खेत और जंगल के पल: केले के पत्तों और बांस के बीच से ऊपर की ओर देखने वाला वर्म्स-आई व्यू (worm's-eye view), जहाँ से कोमल लेंस फ्लेयर्स के साथ गर्म धूप की किरणें छनकर आ रही हैं। कट होकर पन्ने जैसे हरे रंग के सीढ़ीदार खेत के किनारे खड़ी युवती का क्लोज़-अप आता है, जब वह बाहर देखती है तो हवा से उसके बाल लहराते हैं और वह धीरे से बुदबुदाती है, "It's so green it doesn't look real."
 
-Scene 4 (12-16s) — Warung Cafe & Slow Living: She sits alone at a small open-air warung overlooking the jungle, sipping fresh coconut water through a paper straw. Sunlight filters through woven bamboo shades. Close-up shots of her hands wrapped around the coconut, condensation beading on the shell, her contented half-smile as she watches the trees sway.
+दृश्य 4 (12-16 सेकंड) — वारुंग कैफे और स्लो लिविंग: वह जंगल के दृश्य वाले एक छोटे से खुले वारुंग में अकेली बैठी है और पेपर स्ट्रॉ से ताजा नारियल पानी पी रही है। बांस के बुने हुए पर्दों से छनकर धूप आ रही है। नारियल को थामे उसके हाथों का क्लोज़-अप, खोल पर मोतियों जैसी पानी की बूंदें, और झूलते पेड़ों को देखते हुए उसके चेहरे पर छाई संतोष भरी हल्की मुस्कान।
 
-Scene 5 (16-20s) — Ocean Adventure: She paddles a wooden longboard through a calm turquoise lagoon, sunlight sparkling across the surface. Camera circles her at water level, capturing gentle ripples and distant green cliffs. She loses balance slightly, laughs out loud, and calls toward the camera, "Don't film this part — actually, keep filming it."
+दृश्य 5 (16-20 सेकंड) — महासागरीय रोमांच: वह एक शांत फ़िरोज़ी लैगून में लकड़ी के लॉन्गबोर्ड पर पैडल चलाती है, जिसकी सतह पर धूप चमक रही है। कैमरा पानी के स्तर पर उसके चारों ओर घूमता है, हल्की लहरों और दूर हरी चट्टानों को कैद करता है। उसका संतुलन थोड़ा बिगड़ता है, वह जोर से हंसती है और कैमरे की ओर देखकर कहती है, "Don't film this part — actually, keep filming it."
 
-Scene 6 (20-24s) — Night Market Exploration: A glowing Balinese night market strung with paper lanterns, satay smoke curling into the air, vendors calling out prices. She weaves through the crowd sampling grilled skewers and mango sticky rice, her face lit by warm string lights and passing motorbike headlights. Cinematic close-ups of her eyes widening at the taste, lanterns blurred into soft bokeh behind her.
+दृश्य 6 (20-24 सेकंड) — नाइट मार्केट का भ्रमण: कागज़ के लालटेन से जगमगाता बालिनी नाइट मार्केट, हवा में उठता साते का धुआँ, और कीमतें पुकारते विक्रेता। वह भीड़ के बीच से गुजरते हुए ग्रिल्ड सीक कबाब और मैंगो स्टिकी राइस का स्वाद लेती है, उसका चेहरा स्ट्रिंग लाइट्स की गर्म रोशनी और गुजरती मोटरबाइकों की हेडलाइट्स से जगमगाता है। स्वाद चखते ही उसकी आँखें चौड़ी होने का सिनेमाई क्लोज़-अप, और उसके पीछे लालटेन कोमल बोकेह में धुंधले हो जाते हैं।
 
-Scene 7 (24-27s) — Golden Sunset Ending: A wide silhouette shot of her standing at the shoreline as the sun sinks into the sea, sky burning orange and violet, reflections rippling across the wet sand. Waves wash gently around her ankles as she tilts her face toward the last light, one hand shielding her eyes.
+दृश्य 7 (24-27 सेकंड) — सुनहरी सूर्यास्त समाप्ति: समुद्र में सूरज के डूबते ही तटरेखा पर खड़ी उसकी एक वाइड सिल्हूट शॉट, नारंगी और बैंगनी रंगों से धधकता आसमान, और गीली रेत पर लहरों की परछाई। लहरें धीरे से उसके टखनों को छूती हैं और वह एक हाथ से आँखों को ढकते हुए अंतिम रोशनी की ओर अपना चेहरा उठाती है।
 
-Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a glittering coastal skyline at night. She leans against the railing in a simple white dress, curtain of hair moving in the breeze, city lights reflected in her eyes. Final intimate close-up of her curled up on the hotel bed, propped on one elbow, looking directly into the lens with a soft, warm smile as she says, "Goodnight from Bali."
+दृश्य 8 (27-30 सेकंड) — होटल में रात का चिंतन: रात के समय जगमगाती तटीय क्षितिज रेखा को देखने वाला रूफटॉप पूल बार। वह एक साधारण सफेद पोशाक में रेलिंग पर टिकी है, हवा में उसके बाल लहरा रहे हैं, शहर की रोशनी उसकी आँखों में झलक रही है। होटल के बिस्तर पर एक कोहनी के सहारे सिमटी हुई, कोमल व गर्म मुस्कान के साथ सीधे लेंस में देखते हुए उसका अंतिम आत्मीय क्लोज़-अप जब वह कहती है, "Goodnight from Bali."
 
-Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural drifting movement, occasional POV shots, realistic autofocus hunting, subtle motion blur.
+कैमरा शैली: प्रामाणिक यात्रा व्लॉग सिनेमैटोग्राफी, हैंडहेल्ड कैमरा शेक, सहज सिनेमाई बदलाव (transitions), धीमा पुश-इन, स्वाभाविक रूप से बहती हलचल, कभी-कभार POV शॉट्स, यथार्थवादी ऑटोफोकस हंटिंग, सूक्ष्म मोशन ब्लर।
 
-Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
+दृश्य शैली: स्वप्निल बाली अवकाश फिल्म, बुटीक ट्रैवल-ब्रांड सौंदर्यशास्त्र, कोमल सुनहरी धूप, यथार्थवादी त्वचा बनावट, सिनेमाई उथला डेप्th ऑफ फील्ड, पुरानी यादों को ताजा करने वाला 35mm फिल्म लुक, गर्म वायुमंडलीय रंग, स्वाभाविक अनिर्देशित भाव, भावनात्मक कहानी।
 
-Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+परहेज करें: कार्टून शैली, CGI लुक, प्लास्टिक की त्वचा, अवास्तविक चेहरा, चरित्र के रूप में असंगति, बदलती केश शैली, अतिरिक्त उंगलियां, विकृत शरीर, कृत्रिम प्रकाश, अत्यधिक संतृप्त रंग, धुंधला चेहरा, अस्वाभाविक हरकतें, एक ही व्यक्ति की नकल।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

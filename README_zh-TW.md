@@ -261,42 +261,42 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2096840505355370629"></a>
 
-### A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+### 一段30秒的電影質感熱帶旅行Vlog蒙太奇，展現一位20歲東亞女性在峇里島橫跨八個細膩場景的探索之旅，兼具35毫米底片美學、手持運鏡、溫暖復古色調與自然隨性的抓拍瞬間。
 
 作者：[@eshal\_\_ai](https://x.com/eshal__ai) · [查看 X 原帖](https://x.com/eshal__ai/status/2096840505355370629)
 
 攝影 · 電影感 / 電影劇照 · 復古 / 懷舊 · 角色 · 已推流
 
-**概括:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+**概括:** 一段30秒的電影質感熱帶旅行Vlog蒙太奇，展現一位20歲東亞女性在峇里島橫跨八個細膩場景的探索之旅，兼具35毫米底片美學、手持運鏡、溫暖復古色調與自然隨性的抓拍瞬間。
 
 <img src="covers/2096840505355370629.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Bali during a dreamy summer getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style.
+一段30秒的電影質感熱帶旅行Vlog蒙太奇，主角是一位美麗的20歲東亞女性，留著黑髮，在夢幻般的夏季度假中探索峇里島。拍攝風格如同真實的奢華旅行日記，帶有手持運鏡晃動感、抓拍瞬間、柔和的黃金時刻陽光、夢幻般的35毫米底片美學、溫暖的復古調色、淺景深、自然真實的皮膚紋理、氛圍感光影以及電影般的敘事感。在所有場景中保持同一位女性：黑髮、年輕容貌、自然淡妝、優雅夏裝、輕鬆愜意的快樂神情。規格：4K電影級畫質影片，24fps，35毫米底片顆粒，逼真的手持攝影機效果，柔焦，暖色調，旅行紀錄片風格。
 
-Scene 1 (0-4s) — Arrival & Village Street: A warm Balinese morning. The woman strolls down a narrow street lined with frangipani trees and stone shrines, wearing a linen wrap dress, sunglasses pushed up into her hair. Motorbikes pass softly blurred in the background, incense smoke drifts from a doorway offering. Camera trails her from behind, then swings into a close-up as she glances back over her shoulder and laughs, saying softly, "Okay, I think I already love it here."
+場景 1（0-4秒）— 抵達與村落街巷：一個溫暖的峇里島清晨。女子漫步在兩側排列著雞蛋花樹和石質神龕的狹窄街道上，身穿亞麻裹身洋裝，太陽眼鏡推至頭頂髮間。背景中摩托車柔和虛焦駛過，門前供品飄來縷縷薰香。鏡頭從背後跟拍，隨後搖向特寫，她回眸一笑，輕聲說道："Okay, I think I already love it here."
 
-Scene 2 (4-8s) — Cliffside Beach Discovery: She descends stone steps onto a narrow cliffside beach, turquoise water crashing against limestone cliffs behind her. She walks barefoot at the tideline, dress hem lifted slightly, waves curling over her feet. Low-angle shots of her footprints filling with foam, sunlight scattering across the water, jagged cliffs framing the horizon.
+場景 2（4-8秒）— 懸崖海灘探索：她沿著石階下到一處隱秘的懸崖海灘，身後碧藍的海水拍打著石灰岩懸崖。她赤腳走在潮線邊，裙擺微提，海浪捲過腳背。低角度拍攝她留下的腳印被泡沫填滿，陽光在水面泛起粼粼波光，險峻的懸崖勾勒出地平線。
 
-Scene 3 (8-12s) — Rice Terrace & Jungle Moments: A worm's-eye view looking up through banana leaves and bamboo, sunlight cutting through in warm shafts with soft lens flares. Cut to a close-up of her standing at the edge of an emerald rice terrace, wind lifting loose strands of hair as she looks out, quietly murmuring, "It's so green it doesn't look real."
+場景 3（8-12秒）— 梯田與雨林時刻：仰拍鏡頭透過香蕉葉和竹林向上看，溫暖的陽光穿透林間形成柔和的光暈與光斑。切至特寫鏡頭，她站在翡翠般的梯田邊緣，微風吹亂髮絲，她凝視遠方，輕聲低語："It's so green it doesn't look real."
 
-Scene 4 (12-16s) — Warung Cafe & Slow Living: She sits alone at a small open-air warung overlooking the jungle, sipping fresh coconut water through a paper straw. Sunlight filters through woven bamboo shades. Close-up shots of her hands wrapped around the coconut, condensation beading on the shell, her contented half-smile as she watches the trees sway.
+場景 4（12-16秒）— 街角Warung咖啡館與慢生活：她獨自坐在一家俯瞰叢林的露天小餐館（Warung），用吸管吸吮著新鮮椰子水。陽光透過編織竹簾灑下。特寫拍攝她雙手環抱著椰子，椰殼上凝結著水珠，當她看著樹木隨風搖曳時，臉上流露出滿足的微笑。
 
-Scene 5 (16-20s) — Ocean Adventure: She paddles a wooden longboard through a calm turquoise lagoon, sunlight sparkling across the surface. Camera circles her at water level, capturing gentle ripples and distant green cliffs. She loses balance slightly, laughs out loud, and calls toward the camera, "Don't film this part — actually, keep filming it."
+場景 5（16-20秒）— 海洋探險：她在片平靜的碧綠潟湖中划著木質長板，水面上波光粼粼。鏡頭在水面高度環繞拍攝，捕捉輕柔的漣漪與遠處的青翠懸崖。她身形微微晃動失去平衡，放聲大笑，衝著鏡頭喊道："Don't film this part — actually, keep filming it."
 
-Scene 6 (20-24s) — Night Market Exploration: A glowing Balinese night market strung with paper lanterns, satay smoke curling into the air, vendors calling out prices. She weaves through the crowd sampling grilled skewers and mango sticky rice, her face lit by warm string lights and passing motorbike headlights. Cinematic close-ups of her eyes widening at the taste, lanterns blurred into soft bokeh behind her.
+場景 6（20-24秒）— 夜市探秘：峇里島夜市燈火通明，掛滿紙燈籠，沙嗲烤肉的香氣與煙霧裊裊升起，攤販們叫賣著價格。她在人群中穿梭，品嚐著烤肉串和芒果糯米飯，面容被溫暖的串燈和駛過的摩托車車燈映亮。電影級特寫拍攝她嚐到美味時微微睜大的雙眸，背景中的燈籠化作柔和的光斑光暈。
 
-Scene 7 (24-27s) — Golden Sunset Ending: A wide silhouette shot of her standing at the shoreline as the sun sinks into the sea, sky burning orange and violet, reflections rippling across the wet sand. Waves wash gently around her ankles as she tilts her face toward the last light, one hand shielding her eyes.
+場景 7（24-27秒）— 金色日落終章：一個寬闊的剪影鏡頭，太陽緩緩落入海中，天空燃燒著橙色與紫色的晚霞，倒影在濕潤的沙灘上泛起漣漪。潮水輕輕漫過她的腳踝，她一手遮眉，仰面迎向最後一抹餘暉。
 
-Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a glittering coastal skyline at night. She leans against the railing in a simple white dress, curtain of hair moving in the breeze, city lights reflected in her eyes. Final intimate close-up of her curled up on the hotel bed, propped on one elbow, looking directly into the lens with a soft, warm smile as she says, "Goodnight from Bali."
+場景 8（27-30秒）— 飯店夜色沉思：一間俯瞰璀璨海岸線夜景的屋頂泳池酒吧。她身著一襲簡約白裙斜倚在欄杆旁，髮絲在微風中拂動，眼中倒映著城市的霓虹燈火。最後一個親密的特寫鏡頭，她蜷縮在飯店大床上，單肘撐頭，直視鏡頭，帶著溫柔甜美的微笑說道："Goodnight from Bali."
 
-Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural drifting movement, occasional POV shots, realistic autofocus hunting, subtle motion blur.
+運鏡風格：真實的旅行Vlog電影運鏡，手持攝影晃動，流暢的電影感轉場，緩慢推進，自然的漂移動態，偶爾的第一人稱視角（POV），逼真的自動對焦呼吸效應，微妙的動態模糊。
 
-Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
+視覺風格：夢幻峇里島度假影片，精品旅行品牌美學，柔和的金色陽光，逼真的皮膚質感，電影級淺景深，懷舊35毫米底片質感，溫暖的氛圍色調，自然無劇本的真情流露，富有感染力的敘事感。
 
-Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+避免：卡通風格，CGI外觀，塑膠假皮，不真實的臉部，角色外觀不一致，變換髮型，多餘手指，扭曲身體，人造假光，過度飽和的色彩，模糊的面容，不自然的動作，重複出現的人物。
 ```
 
 [↑ 返回分類目錄](#catalog)

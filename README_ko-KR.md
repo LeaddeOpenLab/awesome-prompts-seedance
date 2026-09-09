@@ -265,42 +265,42 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2096840505355370629"></a>
 
-### A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+### 35mm 필름 미학과 핸드헬드 카메라 움직임, 따뜻한 빈티지 톤, 자연스러운 일상의 순간들로 구성된 8개의 디테일한 장면을 통해 발리를 탐험하는 20세 동아시아 여성을 담은 30초 시네마틱 열대 여행 브이로그 몽타주.
 
 작성자：[@eshal\_\_ai](https://x.com/eshal__ai) · [원본 게시물](https://x.com/eshal__ai/status/2096840505355370629)
 
 사진술 · 시네마틱 / 영화 스틸컷 · 레트로 / 빈티지 · 캐릭터 · 배포 완료
 
-**요약:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+**요약:** 35mm 필름 미학과 핸드헬드 카메라 움직임, 따뜻한 빈티지 톤, 자연스러운 일상의 순간들로 구성된 8개의 디테일한 장면을 통해 발리를 탐험하는 20세 동아시아 여성을 담은 30초 시네마틱 열대 여행 브이로그 몽타주.
 
 <img src="covers/2096840505355370629.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Bali during a dreamy summer getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style.
+꿈같은 여름 휴가 동안 발리를 탐험하는 짙은 머리의 아름다운 20세 동아시아 여성을 담은 30초 분량의 영화 같은 열대 여행 브이로그 몽타주. 핸드헬드 카메라 움직임, 솔직한 순간들, 부드러운 골든 아워의 햇살, 몽환적인 35mm 필름 미학, 따뜻한 빈티지 색보정, 얕은 심도, 자연스러운 피부 질감, 분위기 있는 조명, 영화 같은 스토리텔링을 통해 진정한 럭셔리 여행 일기처럼 촬영되었습니다. 모든 장면에 걸쳐 동일한 여성을 유지하세요: 짙은 머리, 젊은 외모, 자연스러운 메이크업, 우아한 여름 의상, 편안하고 행복한 표정. 포맷: 4K 시네마틱 비디오, 24fps, 35mm 필름 그레인, 사실적인 핸드헬드 카메라, 소프트 포커스, 따뜻한 색감, 여행 다큐멘터리 스타일.
 
-Scene 1 (0-4s) — Arrival & Village Street: A warm Balinese morning. The woman strolls down a narrow street lined with frangipani trees and stone shrines, wearing a linen wrap dress, sunglasses pushed up into her hair. Motorbikes pass softly blurred in the background, incense smoke drifts from a doorway offering. Camera trails her from behind, then swings into a close-up as she glances back over her shoulder and laughs, saying softly, "Okay, I think I already love it here."
+장면 1 (0-4초) — 도착 및 마을 거리: 따뜻한 발리의 아침. 린넨 랩 드레스를 입고 선글라스를 머리 위로 올린 여성이 프란지파니 나무와 돌 사당이 늘어선 좁은 거리를 거닙니다. 오토바이가 배경에서 부드럽게 흐려져 지나가고, 문 앞 공양물에서 향 연기가 피어오릅니다. 카메라는 뒤에서 그녀를 따라가다가, 그녀가 어깨 너머로 돌아보며 웃으며 나직하게 "Okay, I think I already love it here."라고 말하는 순간 클로즈업으로 전환됩니다.
 
-Scene 2 (4-8s) — Cliffside Beach Discovery: She descends stone steps onto a narrow cliffside beach, turquoise water crashing against limestone cliffs behind her. She walks barefoot at the tideline, dress hem lifted slightly, waves curling over her feet. Low-angle shots of her footprints filling with foam, sunlight scattering across the water, jagged cliffs framing the horizon.
+장면 2 (4-8초) — 절벽 해변 탐험: 그녀는 돌계단을 내려와 좁은 절벽 해변으로 향하고, 그녀 뒤로는 청록색 바닷물이 석회암 절벽에 부딪힙니다. 그녀는 드레스 밑단을 살짝 올린 채 바닷물이 발을 감싸는 파도를 느끼며 맨발로 물가를 걷습니다. 거품으로 채워지는 그녀의 발자국, 수면 위로 흩어지는 햇살, 지평선을 둘러싼 울퉁불퉁한 절벽의 로우 앵글 숏.
 
-Scene 3 (8-12s) — Rice Terrace & Jungle Moments: A worm's-eye view looking up through banana leaves and bamboo, sunlight cutting through in warm shafts with soft lens flares. Cut to a close-up of her standing at the edge of an emerald rice terrace, wind lifting loose strands of hair as she looks out, quietly murmuring, "It's so green it doesn't look real."
+장면 3 (8-12초) — 계단식 논과 정글의 순간들: 바나나 잎과 대나무 사이로 위를 올려다보는 웜즈아이 뷰(worm's-eye view), 부드러운 렌즈 플레어와 함께 따스한 빛줄기가 쏟아집니다. 장면이 전환되어 에메랄드빛 계단식 논 가장자리에 서 있는 그녀의 클로즈업이 보이고, 바람이 머리카락을 흩날리는 가운데 그녀는 먼 곳을 바라보며 조용히 중얼거립니다. "It's so green it doesn't look real."
 
-Scene 4 (12-16s) — Warung Cafe & Slow Living: She sits alone at a small open-air warung overlooking the jungle, sipping fresh coconut water through a paper straw. Sunlight filters through woven bamboo shades. Close-up shots of her hands wrapped around the coconut, condensation beading on the shell, her contented half-smile as she watches the trees sway.
+장면 4 (12-16초) — 와룽 카페 & 슬로우 라이프: 그녀는 정글이 내려다보이는 작은 야외 와룽에 혼자 앉아 종이 빨대로 신선한 코코넛 워터를 마십니다. 햇빛이 엮은 대나무 발 사이로 스며듭니다. 코코넛을 감싼 그녀의 손, 껍질에 맺힌 물방울, 나무가 흔들리는 것을 바라보며 만족스럽게 짓는 미소의 클로즈업 숏.
 
-Scene 5 (16-20s) — Ocean Adventure: She paddles a wooden longboard through a calm turquoise lagoon, sunlight sparkling across the surface. Camera circles her at water level, capturing gentle ripples and distant green cliffs. She loses balance slightly, laughs out loud, and calls toward the camera, "Don't film this part — actually, keep filming it."
+장면 5 (16-20초) — 바다 어드벤처: 그녀는 수면 위로 햇살이 반짝이는 잔잔한 청록색 석호에서 나무 롱보드를 젓습니다. 카메라는 수면 높이에서 그녀를 선회하며 부드러운 잔물결과 멀리 있는 푸른 절벽을 담아냅니다. 그녀는 살짝 균형을 잃고 크게 웃으며 카메라를 향해 외칩니다. "Don't film this part — actually, keep filming it."
 
-Scene 6 (20-24s) — Night Market Exploration: A glowing Balinese night market strung with paper lanterns, satay smoke curling into the air, vendors calling out prices. She weaves through the crowd sampling grilled skewers and mango sticky rice, her face lit by warm string lights and passing motorbike headlights. Cinematic close-ups of her eyes widening at the taste, lanterns blurred into soft bokeh behind her.
+장면 6 (20-24초) — 야시장 탐방: 종이등이 걸려 환하게 빛나는 발리의 야시장, 공기 중으로 피어오르는 사테 연기, 가격을 외치는 상인들. 그녀는 인파 사이를 지나며 구운 꼬치구이와 망고 찹쌀밥을 맛보고, 그녀의 얼굴은 따뜻한 줄조명과 지나가는 오토바이 전조등에 비칩니다. 맛을 보고 눈이 커지는 그녀의 영화 같은 클로즈업, 등불은 그녀 뒤에서 부드러운 보케로 흐려집니다.
 
-Scene 7 (24-27s) — Golden Sunset Ending: A wide silhouette shot of her standing at the shoreline as the sun sinks into the sea, sky burning orange and violet, reflections rippling across the wet sand. Waves wash gently around her ankles as she tilts her face toward the last light, one hand shielding her eyes.
+장면 7 (24-27초) — 황금빛 일몰 피날레: 태양이 바다 속으로 가라앉고 하늘이 주황색과 보라색으로 물들며 젖은 모래 위에 물결치는 반영 속에서 해안가에 서 있는 그녀의 와이드 실루엣 숏. 파도가 발목 주변을 부드럽게 감싸고, 그녀는 한 손으로 눈을 가리며 마지막 빛을 향해 얼굴을 듭니다.
 
-Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a glittering coastal skyline at night. She leans against the railing in a simple white dress, curtain of hair moving in the breeze, city lights reflected in her eyes. Final intimate close-up of her curled up on the hotel bed, propped on one elbow, looking directly into the lens with a soft, warm smile as she says, "Goodnight from Bali."
+장면 8 (27-30초) — 호텔의 밤 회상: 밤에 반짝이는 해안 스카이라인이 내려다보이는 루프탑 풀 바. 심플한 흰색 드레스를 입은 그녀가 난간에 기대어 서 있고, 미풍에 머리카락이 흔들리며, 도시의 불빛이 그녀의 눈에 반사됩니다. 호텔 침대에 한쪽 팔꿈치를 괴고 웅크린 채 부드럽고 따뜻한 미소를 지으며 렌즈를 똑바로 바라보고 "Goodnight from Bali."라고 말하는 마지막 친밀한 클로즈업.
 
-Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural drifting movement, occasional POV shots, realistic autofocus hunting, subtle motion blur.
+카메라 스타일: 진정한 여행 브이로그 시네마토그래피, 핸드헬드 카메라 흔들림, 매끄러운 시네마틱 트랜지션, 슬로우 푸시인, 자연스럽게 흐르는 듯한 움직임, 간헐적인 POV 숏, 현실적인 오토포커스 탐색, 미묘한 모션 블러.
 
-Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
+비주얼 스타일: 몽환적인 발리 휴가 영상, 부티크 여행 브랜드 감성, 부드러운 황금빛 햇살, 사실적인 피부 질감, 시네마틱한 얕은 심도, 향수를 자극하는 35mm 필름 느낌, 따뜻하고 분위기 있는 톤, 대본 없는 자연스러운 표정, 감성적인 스토리텔링.
 
-Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+제외 요소: 만화 스타일, CGI 느낌, 플라스틱 피부, 비현실적인 얼굴, 일관되지 않은 인물 외모, 변하는 헤어스타일, 여분의 손가락, 왜곡된 신체, 인위적인 조명, 과포화된 색상, 흐릿한 얼굴, 부자연스러운 움직임, 중복된 인물.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

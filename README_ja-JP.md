@@ -261,42 +261,42 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2096840505355370629"></a>
 
-### A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+### 黒髪の20歳東アジア人女性がバリ島を旅する8つの詳細なシーンで構成された30秒のシネマティックな熱帯旅行Vlogモンタージュ。35mmフィルムの美学、手持ちカメラワーク、温かみのあるヴィンテージトーン、自然で飾らない瞬間を特徴とする。
 
 作者：[@eshal\_\_ai](https://x.com/eshal__ai) · [元の投稿](https://x.com/eshal__ai/status/2096840505355370629)
 
 写真撮影 · シネマティック / フィルムスチル · レトロ / ヴィンテージ · キャラクター · 配信済み
 
-**概要:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+**概要:** 黒髪の20歳東アジア人女性がバリ島を旅する8つの詳細なシーンで構成された30秒のシネマティックな熱帯旅行Vlogモンタージュ。35mmフィルムの美学、手持ちカメラワーク、温かみのあるヴィンテージトーン、自然で飾らない瞬間を特徴とする。
 
 <img src="covers/2096840505355370629.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Bali during a dreamy summer getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style.
+バリ島での夢のような夏のバカンスを満喫する、黒髪の美しい20歳の東アジア人女性をフィーチャーした、シネマティックな30秒のトロピカル旅行Vlogモンタージュ。手持ちカメラの揺れ、飾らない自然な瞬間、柔らかなゴールデンアワーの日差し、ドリーミーな35mmフィルムの美学、温かみのあるヴィンテージなカラーグレーディング、浅い被写界深度、リアルな肌の質感、雰囲気のあるライティング、そして映画のようなストーリーテリングを備えた、本格的なラグジュアリートラベルダイアリーのように撮影。全シーンを通じて同一の女性を維持：黒髪、若々しい容姿、ナチュラルメイク、エレガントな夏の装い、リラックスした幸せそうな表情。フォーマット：4Kシネマティックビデオ、24fps、35mmフィルム粒子、リアルな手持ちカメラワーク、ソフトフォーカス、暖色系パレット、旅行ドキュメンタリースタイル。
 
-Scene 1 (0-4s) — Arrival & Village Street: A warm Balinese morning. The woman strolls down a narrow street lined with frangipani trees and stone shrines, wearing a linen wrap dress, sunglasses pushed up into her hair. Motorbikes pass softly blurred in the background, incense smoke drifts from a doorway offering. Camera trails her from behind, then swings into a close-up as she glances back over her shoulder and laughs, saying softly, "Okay, I think I already love it here."
+シーン 1 (0〜4秒) — 到着と村の通り：温暖なバリの朝。リネンのラップドレスを身にまとい、サングラスを髪に上げた女性が、フランジパニの木々と石造りの祠が並ぶ狭い通りを散策する。背景にはソフトにぼやけたスクーターが通り過ぎ、戸口のお供え物からお香の煙が漂う。カメラが背後から彼女を追い、肩越しに振り返って笑いながら「Okay, I think I already love it here.」と優しく呟く瞬間にクローズアップへと切り替わる。
 
-Scene 2 (4-8s) — Cliffside Beach Discovery: She descends stone steps onto a narrow cliffside beach, turquoise water crashing against limestone cliffs behind her. She walks barefoot at the tideline, dress hem lifted slightly, waves curling over her feet. Low-angle shots of her footprints filling with foam, sunlight scattering across the water, jagged cliffs framing the horizon.
+シーン 2 (4〜8秒) — 崖沿いのビーチの発見：彼女は石段を下りて崖下の小ぢんまりとしたビーチへと向かい、背後では石灰岩の崖にエメラルドグリーンの波が打ち寄せる。ドレスの裾を少し持ち上げ、波が足元を洗う波打ち際を裸足で歩く。泡で満たされる足跡のローアングルショット、水面に散らばる陽光、地平線を縁取るギザギザの崖。
 
-Scene 3 (8-12s) — Rice Terrace & Jungle Moments: A worm's-eye view looking up through banana leaves and bamboo, sunlight cutting through in warm shafts with soft lens flares. Cut to a close-up of her standing at the edge of an emerald rice terrace, wind lifting loose strands of hair as she looks out, quietly murmuring, "It's so green it doesn't look real."
+シーン 3 (8〜12秒) — ライステラスとジャングルのひととき：バナナの葉と竹林を見上げるローアングル視点。柔らかなレンズフレアを伴う温かい光の筋が木々を抜けて差し込む。エメラルド色に輝くライステラスの端に立つ彼女のクローズアップへカット。風が髪を揺らす中、遠くを見つめながら静かに「It's so green it doesn't look real.」と呟く。
 
-Scene 4 (12-16s) — Warung Cafe & Slow Living: She sits alone at a small open-air warung overlooking the jungle, sipping fresh coconut water through a paper straw. Sunlight filters through woven bamboo shades. Close-up shots of her hands wrapped around the coconut, condensation beading on the shell, her contented half-smile as she watches the trees sway.
+シーン 4 (12〜16秒) — ワルンカフェとスローライフ：ジャングルを見下ろす小さな屋外ワルン（カフェ）に一人座り、紙ストローで新鮮なココナッツウォーターを飲む彼女。編まれた竹シェードから木漏れ日が差し込む。ココナッツを持つ彼女の手、殻に浮かぶ水滴、揺れる木々を眺めながら浮かべる満足げな微笑みのクローズアップ。
 
-Scene 5 (16-20s) — Ocean Adventure: She paddles a wooden longboard through a calm turquoise lagoon, sunlight sparkling across the surface. Camera circles her at water level, capturing gentle ripples and distant green cliffs. She loses balance slightly, laughs out loud, and calls toward the camera, "Don't film this part — actually, keep filming it."
+シーン 5 (16〜20秒) — オーシャンアドベンチャー：穏やかなターコイズブルーのラグーンで木製ロングボードを漕ぐ彼女。水面には太陽がきらめく。カメラは水面すれすれで彼女の周りを回り、穏やかな波紋と遠くの緑の崖を捉える。彼女は少しバランスを崩して大声で笑い、カメラに向かって「Don't film this part — actually, keep filming it.」と呼びかける。
 
-Scene 6 (20-24s) — Night Market Exploration: A glowing Balinese night market strung with paper lanterns, satay smoke curling into the air, vendors calling out prices. She weaves through the crowd sampling grilled skewers and mango sticky rice, her face lit by warm string lights and passing motorbike headlights. Cinematic close-ups of her eyes widening at the taste, lanterns blurred into soft bokeh behind her.
+シーン 6 (20〜24秒) — ナイトマーケット散策：紙提灯が連なり温かく灯るバリのナイトマーケット。サテの香ばしい煙が立ち込め、店主たちの威勢のいい声が響く。彼女は人混みを縫いながら串焼きやマンゴースティッキーライスを味わい、その顔は温かなストリングライトと行き交うバイクのヘッドライトに照らされる。その美味しさに目を丸くするシネマティックなクローズアップ、背後にはソフトな玉ボケとなってぼやける提灯。
 
-Scene 7 (24-27s) — Golden Sunset Ending: A wide silhouette shot of her standing at the shoreline as the sun sinks into the sea, sky burning orange and violet, reflections rippling across the wet sand. Waves wash gently around her ankles as she tilts her face toward the last light, one hand shielding her eyes.
+シーン 7 (24〜27秒) — 黄金の夕暮れの終幕：海へと沈む太陽、オレンジと紫に燃える空、濡れた砂浜に広がる波紋の反射を捉えた、水辺に立つ彼女のワイドなシルエットショット。最後の光に向けて顔を傾け、片手で日差しを遮る彼女の足首を優しい波が洗う。
 
-Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a glittering coastal skyline at night. She leans against the railing in a simple white dress, curtain of hair moving in the breeze, city lights reflected in her eyes. Final intimate close-up of her curled up on the hotel bed, propped on one elbow, looking directly into the lens with a soft, warm smile as she says, "Goodnight from Bali."
+シーン 8 (27〜30秒) — ホテルでの夜の余韻：夜のきらめく海岸線のスカイラインを見下ろすルーフトッププールバー。シンプルな白いドレスを着た彼女が手すりに寄りかかり、夜風に髪をなびかせ、その瞳には街の灯りが映り込む。最後はホテルのベッドに横たわり、片肘をついて直接レンズを見つめ、優しく温かな笑みを浮かべながら「Goodnight from Bali.」と語りかける親密なクローズアップ。
 
-Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural drifting movement, occasional POV shots, realistic autofocus hunting, subtle motion blur.
+カメラワークスタイル：本物の旅行Vlogシネマトグラフィ、手持ちカメラの微細な揺れ、滑らかな映画的トランジション、緩やかなプッシュイン、自然な流れるような動き、時折入るPOVショット、リアルなオートフォーカスブリージング、繊細なモーションブラー。
 
-Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
+ビジュアルスタイル：夢のようなバリ島バカンスフィルム、ブティック旅行ブランドの美学、柔らかな金色の光、リアルな肌の質感、シネマティックな浅い被写界深度、ノスタルジックな35mmフィルム感、温かみのある雰囲気漂うトーン、台本なしの自然な表情、感情豊かなストーリーテリング。
 
-Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+除外要素（ネガティブプロンプト）：カートゥーン調、CGI感、プラスチックのような肌、不自然な顔、キャラクターの外見の不一致、髪型の変化、余分な指、歪んだ身体、人工的なライティング、過度な彩度、ぼやけた顔、不自然な動き、重複した人物。
 ```
 
 [↑ カテゴリに戻る](#catalog)

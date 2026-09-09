@@ -265,42 +265,42 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 <a name="prompt-2096840505355370629"></a>
 
-### A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+### Đoạn phim travel vlog nhiệt đới dài 30 giây mang phong cách điện ảnh ghi lại hình ảnh thiếu nữ Đông Á 20 tuổi khám phá Bali qua 8 cảnh quay chi tiết, mang tính thẩm mỹ của phim 35mm, chuyển động máy quay cầm tay, tông màu cổ điển ấm áp và những khoảnh khắc tự nhiên đời thường.
 
 Tác giả：[@eshal\_\_ai](https://x.com/eshal__ai) · [Bài gốc](https://x.com/eshal__ai/status/2096840505355370629)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Cổ điển / Cổ điển · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+**Tóm tắt:** Đoạn phim travel vlog nhiệt đới dài 30 giây mang phong cách điện ảnh ghi lại hình ảnh thiếu nữ Đông Á 20 tuổi khám phá Bali qua 8 cảnh quay chi tiết, mang tính thẩm mỹ của phim 35mm, chuyển động máy quay cầm tay, tông màu cổ điển ấm áp và những khoảnh khắc tự nhiên đời thường.
 
 <img src="covers/2096840505355370629.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Bali during a dreamy summer getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style.
+Đoạn phim travel vlog nhiệt đới đậm chất điện ảnh dài 30 giây khắc họa một thiếu nữ Đông Á 20 tuổi xinh đẹp với mái tóc đen đang khám phá Bali trong một chuyến du lịch mùa hè đầy thơ mộng. Được quay như một cuốn nhật ký du lịch sang trọng chân thực với chuyển động máy quay cầm tay, những khoảnh khắc tự nhiên, ánh nắng giờ vàng dịu nhẹ, phong cách phim 35mm mơ màng, chỉnh màu vintage ấm áp, độ sâu trường ảnh nông, kết cấu da tự nhiên, ánh sáng đầy tính khí quyển và lối kể chuyện điện ảnh. Giữ nguyên hình ảnh nhân vật nữ trong suốt mọi cảnh: tóc đen, vẻ ngoài trẻ trung, trang điểm tự nhiên, trang phục mùa hè thanh lịch, biểu cảm thư thái vui vẻ. Định dạng: video điện ảnh 4K, 24fps, hạt phim 35mm, máy quay cầm tay chân thực, lấy nét mềm, bảng màu ấm áp, phong cách phim tài liệu du lịch.
 
-Scene 1 (0-4s) — Arrival & Village Street: A warm Balinese morning. The woman strolls down a narrow street lined with frangipani trees and stone shrines, wearing a linen wrap dress, sunglasses pushed up into her hair. Motorbikes pass softly blurred in the background, incense smoke drifts from a doorway offering. Camera trails her from behind, then swings into a close-up as she glances back over her shoulder and laughs, saying softly, "Okay, I think I already love it here."
+Cảnh 1 (0-4s) — Điểm đến & Con đường làng: Một buổi sáng Bali ấm áp. Cô gái tản bộ trên con đường hẹp rợp bóng hoa sứ và những ngôi đền đá, mặc váy quấn vải lanh, kính râm cài trên tóc. Xe máy lướt qua làm mờ hậu cảnh nhẹ nhàng, làn khói hương thoang thoảng bay ra từ lễ vật trước hiên nhà. Máy quay theo sau lưng cô, rồi lia nhanh vào cận cảnh khi cô ngoảnh lại nhìn qua vai và mỉm cười, khẽ nói: "Okay, I think I already love it here."
 
-Scene 2 (4-8s) — Cliffside Beach Discovery: She descends stone steps onto a narrow cliffside beach, turquoise water crashing against limestone cliffs behind her. She walks barefoot at the tideline, dress hem lifted slightly, waves curling over her feet. Low-angle shots of her footprints filling with foam, sunlight scattering across the water, jagged cliffs framing the horizon.
+Cảnh 2 (4-8s) — Khám phá bãi biển vách đá: Cô bước xuống những bậc đá dẫn ra bãi biển vách đá hẹp, làn nước màu ngọc lam vỗ vào những vách đá vôi phía sau. Cô đi chân trần dọc mép nước, tà váy khẽ nâng lên, từng đợt sóng cuộn qua đôi chân. Góc máy thấp bắt trọn những dấu chân ngập trong bọt sóng, ánh nắng lấp lánh trải dài trên mặt nước, những vách đá lởm chởm ôm trọn đường chân trời.
 
-Scene 3 (8-12s) — Rice Terrace & Jungle Moments: A worm's-eye view looking up through banana leaves and bamboo, sunlight cutting through in warm shafts with soft lens flares. Cut to a close-up of her standing at the edge of an emerald rice terrace, wind lifting loose strands of hair as she looks out, quietly murmuring, "It's so green it doesn't look real."
+Cảnh 3 (8-12s) — Ruộng bậc thang & Khoảnh khắc rừng nhiệt đới: Góc nhìn từ dưới lên xuyên qua những tán lá chuối và rặng tre, ánh nắng xuyên qua thành những vệt sáng ấm áp cùng hiệu ứng lóe sáng ống kính dịu nhẹ. Chuyển sang cận cảnh cô đứng bên rìa ruộng bậc thang xanh ngọc bích, gió khẽ bay những lọn tóc vương khi cô phóng tầm mắt nhìn ra xa, khẽ thì thầm: "It's so green it doesn't look real."
 
-Scene 4 (12-16s) — Warung Cafe & Slow Living: She sits alone at a small open-air warung overlooking the jungle, sipping fresh coconut water through a paper straw. Sunlight filters through woven bamboo shades. Close-up shots of her hands wrapped around the coconut, condensation beading on the shell, her contented half-smile as she watches the trees sway.
+Cảnh 4 (12-16s) — Quán cà phê Warung & Lối sống chậm: Cô ngồi một mình tại một quán warung ngoài trời nhỏ nhìn ra rừng rậm, nhâm nhi nước dừa tươi bằng ống hút giấy. Ánh nắng lọc qua những tấm mành tre đan. Cận cảnh đôi bàn tay cô ôm lấy quả dừa, những giọt nước đọng trên vỏ, nụ cười nhẹ hài lòng khi cô ngắm nhìn hàng cây đu đưa theo gió.
 
-Scene 5 (16-20s) — Ocean Adventure: She paddles a wooden longboard through a calm turquoise lagoon, sunlight sparkling across the surface. Camera circles her at water level, capturing gentle ripples and distant green cliffs. She loses balance slightly, laughs out loud, and calls toward the camera, "Don't film this part — actually, keep filming it."
+Cảnh 5 (16-20s) — Cuộc phiêu lưu trên đại dương: Cô chèo ván gỗ dài qua đầm phá màu ngọc lam tĩnh lặng, ánh nắng lấp lánh trên mặt nước. Máy quay lượn quanh cô ở tầm mặt nước, ghi lại những gợn sóng lăn tăn và những vách đá xanh xa xa. Cô hơi mất thăng bằng, bật cười lớn và gọi về phía máy quay: "Don't film this part — actually, keep filming it."
 
-Scene 6 (20-24s) — Night Market Exploration: A glowing Balinese night market strung with paper lanterns, satay smoke curling into the air, vendors calling out prices. She weaves through the crowd sampling grilled skewers and mango sticky rice, her face lit by warm string lights and passing motorbike headlights. Cinematic close-ups of her eyes widening at the taste, lanterns blurred into soft bokeh behind her.
+Cảnh 6 (20-24s) — Khám phá chợ đêm: Chợ đêm Bali rực rỡ giăng đầy đèn lồng giấy, khói thịt xiên nướng satay nghi ngút trong không khí, tiếng người bán hàng rao giá. Cô len lỏi qua đám đông thưởng thức xiên nướng và xôi xoài, khuôn mặt được thắp sáng bởi ánh đèn dây ấm áp và ánh đèn pha xe máy lướt qua. Cận cảnh điện ảnh với đôi mắt cô mở to thích thú khi nếm thử, những chiếc đèn lồng phía sau nhòe thành bokeh mềm mại.
 
-Scene 7 (24-27s) — Golden Sunset Ending: A wide silhouette shot of her standing at the shoreline as the sun sinks into the sea, sky burning orange and violet, reflections rippling across the wet sand. Waves wash gently around her ankles as she tilts her face toward the last light, one hand shielding her eyes.
+Cảnh 7 (24-27s) — Kết thúc hoàng hôn vàng rực: Cảnh bóng đen toàn cảnh cô đứng bên bờ biển khi mặt trời lặn dần xuống biển, bầu trời rực sắc cam và tím, bóng phản chiếu gợn sóng trên nền cát ướt. Sóng vỗ nhẹ quanh mắt cá chân khi cô nghiêng mặt đón lấy những tia sáng cuối ngày, một tay che nhẹ mắt.
 
-Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a glittering coastal skyline at night. She leans against the railing in a simple white dress, curtain of hair moving in the breeze, city lights reflected in her eyes. Final intimate close-up of her curled up on the hotel bed, propped on one elbow, looking directly into the lens with a soft, warm smile as she says, "Goodnight from Bali."
+Cảnh 8 (27-30s) — Trầm tư ban đêm tại khách sạn: Quán bar hồ bơi trên tầng thượng nhìn ra đường chân trời ven biển lấp lánh về đêm. Cô tựa vào lan can trong chiếc váy trắng giản dị, mái tóc buông xõa bay nhẹ trong gió, ánh đèn thành phố phản chiếu trong mắt cô. Cận cảnh thân mật cuối cùng khi cô cuộn tròn trên giường khách sạn, chống một khuỷu tay, nhìn thẳng vào ống kính với nụ cười ấm áp, dịu dàng và nói: "Goodnight from Bali."
 
-Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural drifting movement, occasional POV shots, realistic autofocus hunting, subtle motion blur.
+Phong cách máy quay: Kỹ thuật quay phim travel vlog chân thực, độ rung lắc tự nhiên của máy cầm tay, chuyển cảnh điện ảnh mượt mà, kỹ thuật đẩy máy chậm (slow push-ins), chuyển động trôi tự nhiên, thỉnh thoảng có các góc nhìn thứ nhất (POV), bắt nét tự động chân thực, mờ chuyển động tinh tế.
 
-Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
+Phong cách hình ảnh: Thước phim kỳ nghỉ Bali mơ màng, thẩm mỹ thương hiệu du lịch cao cấp, ánh nắng vàng dịu, kết cấu da chân thực, độ sâu trường ảnh nông đậm chất điện ảnh, vẻ hoài niệm của phim 35mm, tông màu khí quyển ấm áp, biểu cảm tự nhiên không theo kịch bản, lối kể chuyện giàu cảm xúc.
 
-Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+Tránh: phong cách hoạt hình, giao diện CGI, da nhựa, khuôn mặt phi thực tế, ngoại hình nhân vật không nhất quán, thay đổi kiểu tóc, thừa ngón tay, cơ thể biến dạng, ánh sáng nhân tạo, màu sắc quá bão hòa, mặt mờ, chuyển động không tự nhiên, người trùng lặp.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -251,42 +251,42 @@ Negatif istem: çizgi film, plastik görünümlü taşlar, abartılı yüz hatla
 
 <a name="prompt-2096840505355370629"></a>
 
-### A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+### 35mm film estetiği, elde kamera hareketi, sıcak nostaljik tonlar ve doğal anlarla, 20 yaşında Doğu Asyalı bir kadının sekiz detaylı sahnede Bali'yi keşfetmesini konu alan 30 saniyelik sinematik tropik seyahat vlogger montajı.
 
 Yazar：[@eshal\_\_ai](https://x.com/eshal__ai) · [Orijinal gönderi](https://x.com/eshal__ai/status/2096840505355370629)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Retro / Vintage · Karakter · Yayımlandı
 
-**Özet:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+**Özet:** 35mm film estetiği, elde kamera hareketi, sıcak nostaljik tonlar ve doğal anlarla, 20 yaşında Doğu Asyalı bir kadının sekiz detaylı sahnede Bali'yi keşfetmesini konu alan 30 saniyelik sinematik tropik seyahat vlogger montajı.
 
 <img src="covers/2096840505355370629.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Bali during a dreamy summer getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style.
+Rüya gibi bir yaz tatilinde Bali'yi keşfeden, koyu saçlı, 20 yaşında güzel bir Doğu Asyalı kadının yer aldığı 30 saniyelik sinematik bir tropik seyahat vlogger montajı. Elde taşınan kamera hareketleri, doğal anlar, yumuşak altın saat güneş ışığı, rüya gibi 35mm film estetiği, sıcak nostaljik renk derecelendirmesi, sığ alan derinliği, doğal cilt dokusu, atmosferik aydınlatma ve sinematik hikaye anlatımı ile otantik bir lüks seyahat günlüğü gibi çekilmiştir. Her sahnede aynı kadını koruyun: koyu saçlar, genç görünüm, doğal makyaj, zarif yaz kıyafetleri, rahat ve mutlu ifade. Format: 4K sinematik video, 24fps, 35mm film greni, gerçekçi el kamerası, yumuşak odak, sıcak renk paleti, seyahat belgeseli tarzı.
 
-Scene 1 (0-4s) — Arrival & Village Street: A warm Balinese morning. The woman strolls down a narrow street lined with frangipani trees and stone shrines, wearing a linen wrap dress, sunglasses pushed up into her hair. Motorbikes pass softly blurred in the background, incense smoke drifts from a doorway offering. Camera trails her from behind, then swings into a close-up as she glances back over her shoulder and laughs, saying softly, "Okay, I think I already love it here."
+Sahne 1 (0-4sn) — Varış ve Köy Sokağı: Ilık bir Bali sabahı. Keten anvelop bir elbise giymiş, güneş gözlüklerini saçına kaldırmış kadın, frangipani ağaçları ve taş tapınaklarla çevrili dar bir sokakta yürüyor. Motosikletler arka planda hafifçe bulanık bir şekilde geçiyor, bir kapı eşiğindeki adaktan tütsü dumanı yükseliyor. Kamera onu arkadan takip ediyor, ardından omzunun üzerinden geriye bakıp gülerek yumuşakça "Okay, I think I already love it here." derken yakın plana geçiyor.
 
-Scene 2 (4-8s) — Cliffside Beach Discovery: She descends stone steps onto a narrow cliffside beach, turquoise water crashing against limestone cliffs behind her. She walks barefoot at the tideline, dress hem lifted slightly, waves curling over her feet. Low-angle shots of her footprints filling with foam, sunlight scattering across the water, jagged cliffs framing the horizon.
+Sahne 2 (4-8sn) — Uçurum Kenarı Sahili Keşfi: Arkasındaki kireçtaşı kayalıklara çarpan turkuaz sular eşliğinde taş basamaklardan dar bir uçurum kenarı sahiline iniyor. Elbisesinin etek ucunu hafifçe kaldırmış, dalgalar ayaklarına dolanırken kıyı çizgisinde çıplak ayakla yürüyor. Ayak izlerinin köpükle dolduğu, güneş ışığının suya saçıldığı, pürüzlü kayalıkların ufku çerçevelediği alt açı çekimleri.
 
-Scene 3 (8-12s) — Rice Terrace & Jungle Moments: A worm's-eye view looking up through banana leaves and bamboo, sunlight cutting through in warm shafts with soft lens flares. Cut to a close-up of her standing at the edge of an emerald rice terrace, wind lifting loose strands of hair as she looks out, quietly murmuring, "It's so green it doesn't look real."
+Sahne 3 (8-12sn) — Pirinç Terası ve Orman Anları: Muz yaprakları ve bambuların arasından yukarı bakan solucan bakışı bir açı; güneş ışığı yumuşak lens parlamalarıyla sıcak ışık demetleri halinde süzülüyor. Zümrüt yeşili bir pirinç terasının kenarında duran, rüzgar saç tellerini havalandırırken uzaklara bakıp fısıltıyla "It's so green it doesn't look real." diyen kadının yakın planına geçiş.
 
-Scene 4 (12-16s) — Warung Cafe & Slow Living: She sits alone at a small open-air warung overlooking the jungle, sipping fresh coconut water through a paper straw. Sunlight filters through woven bamboo shades. Close-up shots of her hands wrapped around the coconut, condensation beading on the shell, her contented half-smile as she watches the trees sway.
+Sahne 4 (12-16sn) — Warung Kafe ve Yavaş Yaşam: Ormana bakan küçük, açık hava bir warung'da tek başına oturuyor, kağıt pipetle taze hindistan cevizi suyu yudumluyor. Güneş ışığı örgü bambu perdelerden süzülüyor. Hindistan cevizini saran ellerinin, kabukta biriken yoğuşma damlacıklarının ve ağaçların salınışını izlerken yüzündeki memnun tebessümün yakın plan çekimleri.
 
-Scene 5 (16-20s) — Ocean Adventure: She paddles a wooden longboard through a calm turquoise lagoon, sunlight sparkling across the surface. Camera circles her at water level, capturing gentle ripples and distant green cliffs. She loses balance slightly, laughs out loud, and calls toward the camera, "Don't film this part — actually, keep filming it."
+Sahne 5 (16-20sn) — Okyanus Macerası: Yüzeyinde güneş ışığının parıldadığı sakin turkuaz bir lagünde ahşap bir longboard üzerinde kürek çekiyor. Kamera su seviyesinde etrafında dönerek nazik dalgalanmaları ve uzaktaki yeşil kayalıkları yakalıyor. Dengesini hafifçe kaybedip kahkahayı basıyor ve kameraya doğru sesleniyor: "Don't film this part — actually, keep filming it."
 
-Scene 6 (20-24s) — Night Market Exploration: A glowing Balinese night market strung with paper lanterns, satay smoke curling into the air, vendors calling out prices. She weaves through the crowd sampling grilled skewers and mango sticky rice, her face lit by warm string lights and passing motorbike headlights. Cinematic close-ups of her eyes widening at the taste, lanterns blurred into soft bokeh behind her.
+Sahne 6 (20-24sn) — Gece Pazarı Keşfi: Kağıt fenerlerle donatılmış ışıl ışıl bir Bali gece pazarı, havaya yükselen satay dumanı, fiyatları haykıran satıcılar. Kalabalığın arasında süzülerek ızgara şişlerin ve mangolu yapışkan pirincin tadına bakıyor; yüzü sıcak dizi ışıklar ve geçen motosiklet farlarıyla aydınlanıyor. Tadı aldığında gözlerinin büyümesinin sinematik yakın planları, arkasında yumuşak bokeh ile bulanıklaşan fenerler.
 
-Scene 7 (24-27s) — Golden Sunset Ending: A wide silhouette shot of her standing at the shoreline as the sun sinks into the sea, sky burning orange and violet, reflections rippling across the wet sand. Waves wash gently around her ankles as she tilts her face toward the last light, one hand shielding her eyes.
+Sahne 7 (24-27sn) — Altın Gün Batımı Finali: Güneş denize batarken kıyıda duran kadının geniş siluet çekimi; gökyüzü turuncu ve menekşe renginde alev alev, yansımalar ıslak kumda dalgalanıyor. Dalgalar ayak bileklerini nazikçe yıkarken, bir eliyle gözlerini siper edip yüzünü son ışığa doğru çeviriyor.
 
-Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a glittering coastal skyline at night. She leans against the railing in a simple white dress, curtain of hair moving in the breeze, city lights reflected in her eyes. Final intimate close-up of her curled up on the hotel bed, propped on one elbow, looking directly into the lens with a soft, warm smile as she says, "Goodnight from Bali."
+Sahne 8 (27-30sn) — Otelde Gece Düşünceleri: Gece vakti parıldayan kıyı silüetine bakan bir çatı katı havuz barı. Sade beyaz bir elbiseyle korkuluğa yaslanmış, saçları esintide dalgalanıyor, şehir ışıkları gözlerine yansıyor. Otel yatağında kıvrılmış, dirseğine dayanmış, doğrudan lense bakarak yumuşak ve sıcak bir gülümsemeyle "Goodnight from Bali." derken son samimi yakın plan.
 
-Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural drifting movement, occasional POV shots, realistic autofocus hunting, subtle motion blur.
+Kamera Tarzı: Otantik seyahat vlogger sinematografisi, el kamerası sarsıntısı, pürüzsüz sinematik geçişler, yavaş itmeler (push-in), doğal süzülme hareketi, ara sıra POV açıları, gerçekçi otomatik odaklama arayışı, hafif hareket bulanıklığı.
 
-Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
+Görsel Tarz: Rüya gibi Bali tatil filmi, butik seyahat markası estetiği, yumuşak altın güneş ışığı, gerçekçi cilt dokusu, sinematik sığ alan derinliği, nostaljik 35mm film görünümü, sıcak atmosferik tonlar, doğal ve kurgusuz ifadeler, duygusal hikaye anlatımı.
 
-Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+Kaçınılması gerekenler: çizgi film tarzı, CGI görünümü, plastik cilt, gerçekçi olmayan yüz, tutarsız karakter görünümü, değişen saç modeli, fazladan parmaklar, bozuk vücut, yapay aydınlatma, aşırı doygun renkler, bulanık yüz, doğal olmayan hareketler, yinelenen insanlar.
 ```
 
 [↑ Kategorilere dön](#catalog)

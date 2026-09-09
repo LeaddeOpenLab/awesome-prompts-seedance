@@ -251,42 +251,42 @@ Prompt negativo: desenho animado, pedras com aspeto de plástico, traços faciai
 
 <a name="prompt-2096840505355370629"></a>
 
-### A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+### Uma montagem cinematográfica de 30 segundos em estilo vlog de viagem tropical apresentando uma mulher do leste asiático de 20 anos a explorar Bali ao longo de oito cenas detalhadas, com estética de película de 35mm, movimento de câmara na mão, tons vintage quentes e momentos naturais e espontâneos.
 
 Autor：[@eshal\_\_ai](https://x.com/eshal__ai) · [Publicação original](https://x.com/eshal__ai/status/2096840505355370629)
 
 Fotografia · Cena de Cinema / Fotograma · Retrô / Vintage · Personagem · Publicado
 
-**Resumo:** A 30-second cinematic tropical travel vlog montage featuring a 20-year-old East Asian woman exploring Bali across eight detailed scenes, with 35mm film aesthetics, handheld camera movement, warm vintage tones, and natural candid moments.
+**Resumo:** Uma montagem cinematográfica de 30 segundos em estilo vlog de viagem tropical apresentando uma mulher do leste asiático de 20 anos a explorar Bali ao longo de oito cenas detalhadas, com estética de película de 35mm, movimento de câmara na mão, tons vintage quentes e momentos naturais e espontâneos.
 
 <img src="covers/2096840505355370629.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Bali during a dreamy summer getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style.
+Uma montagem cinematográfica de 30 segundos em estilo vlog de viagem tropical apresentando uma bela mulher do leste asiático de 20 anos com cabelos escuros a explorar Bali durante umas férias de verão de sonho. Filmado como um autêntico diário de viagem de luxo com movimentos de câmara na mão, momentos espontâneos, luz suave da hora dourada, estética sonhadora de película de 35 mm, gradação de cores vintage e quente, profundidade de campo reduzida, textura natural da pele, iluminação atmosférica e narrativa cinematográfica. Mantenha a mesma mulher em todas as cenas: cabelos escuros, aparência jovem, maquilhagem natural, roupas de verão elegantes, expressão relaxada e feliz. Formato: vídeo cinematográfico 4K, 24fps, grão de película 35mm, câmara na mão realista, foco suave, paleta de cores quentes, estilo documentário de viagem.
 
-Scene 1 (0-4s) — Arrival & Village Street: A warm Balinese morning. The woman strolls down a narrow street lined with frangipani trees and stone shrines, wearing a linen wrap dress, sunglasses pushed up into her hair. Motorbikes pass softly blurred in the background, incense smoke drifts from a doorway offering. Camera trails her from behind, then swings into a close-up as she glances back over her shoulder and laughs, saying softly, "Okay, I think I already love it here."
+Cena 1 (0-4s) — Chegada e rua da aldeia: Uma manhã balinesa quente. A mulher passeia por uma rua estreita ladeada por frangipanis e santuários de pedra, vestindo um vestido traçado de linho, óculos de sol levantados no cabelo. Motociclos passam suavemente desfocados em segundo plano, o fumo de incenso sobe de uma oferenda à porta. A câmara segue-a por trás, depois vira-se para um grande plano enquanto ela olha para trás por cima do ombro e ri, dizendo baixinho: "Okay, I think I already love it here."
 
-Scene 2 (4-8s) — Cliffside Beach Discovery: She descends stone steps onto a narrow cliffside beach, turquoise water crashing against limestone cliffs behind her. She walks barefoot at the tideline, dress hem lifted slightly, waves curling over her feet. Low-angle shots of her footprints filling with foam, sunlight scattering across the water, jagged cliffs framing the horizon.
+Cena 2 (4-8s) — Descoberta da praia na falésia: Ela desce degraus de pedra até uma praia estreita na falésia, com a água turquesa a rebentar contra as falésias de calcário atrás de si. Caminha descalça na linha da maré, a bainha do vestido ligeiramente levantada, as ondas a enrolarem-se nos seus pés. Planos em contra-picado das suas pegadas a encherem-se de espuma, a luz do sol a espalhar-se pela água, falésias escarpadas a emoldurar o horizonte.
 
-Scene 3 (8-12s) — Rice Terrace & Jungle Moments: A worm's-eye view looking up through banana leaves and bamboo, sunlight cutting through in warm shafts with soft lens flares. Cut to a close-up of her standing at the edge of an emerald rice terrace, wind lifting loose strands of hair as she looks out, quietly murmuring, "It's so green it doesn't look real."
+Cena 3 (8-12s) — Socalco de arroz e momentos na selva: Uma perspetiva de baixo para cima a olhar através de folhas de bananeira e bambus, a luz solar a cortar em feixes quentes com reflexos suaves na lente. Corte para um grande plano dela parada na extremidade de um socalco de arroz esmeralda, o vento a levantar madeixas soltas de cabelo enquanto ela olha em frente, murmurando suavemente: "It's so green it doesn't look real."
 
-Scene 4 (12-16s) — Warung Cafe & Slow Living: She sits alone at a small open-air warung overlooking the jungle, sipping fresh coconut water through a paper straw. Sunlight filters through woven bamboo shades. Close-up shots of her hands wrapped around the coconut, condensation beading on the shell, her contented half-smile as she watches the trees sway.
+Cena 4 (12-16s) — Café Warung e vida serena: Senta-se sozinha num pequeno warung ao ar livre com vista para a selva, bebendo água de coco fresca por uma palhinha de papel. A luz do sol filtra-se através de estores de bambu entrançado. Grandes planos das suas mãos a envolver o coco, a condensação a formar gotas na casca, o seu meio-sorriso satisfeito enquanto observa as árvores a baloiçar.
 
-Scene 5 (16-20s) — Ocean Adventure: She paddles a wooden longboard through a calm turquoise lagoon, sunlight sparkling across the surface. Camera circles her at water level, capturing gentle ripples and distant green cliffs. She loses balance slightly, laughs out loud, and calls toward the camera, "Don't film this part — actually, keep filming it."
+Cena 5 (16-20s) — Aventura no oceano: Rema num longboard de madeira por uma lagoa turquesa calma, com o sol a cintilar na superfície. A câmara circula-a ao nível da água, captando ondulações suaves e falésias verdejantes distantes. Perde ligeiramente o equilíbrio, ri às gargalhadas e chama para a câmara: "Don't film this part — actually, keep filming it."
 
-Scene 6 (20-24s) — Night Market Exploration: A glowing Balinese night market strung with paper lanterns, satay smoke curling into the air, vendors calling out prices. She weaves through the crowd sampling grilled skewers and mango sticky rice, her face lit by warm string lights and passing motorbike headlights. Cinematic close-ups of her eyes widening at the taste, lanterns blurred into soft bokeh behind her.
+Cena 6 (20-24s) — Exploração do mercado noturno: Um animado mercado noturno balinês decorado com lanternas de papel, fumo de espetadas de satay a subir no ar, vendedores a apregoar preços. Move-se por entre a multidão a provar espetadas grelhadas e arroz doce de manga, com o rosto iluminado por grinaldas de luzes quentes e faróis de motos a passar. Grandes planos cinematográficos dos seus olhos a arregalarem-se com o sabor, lanternas desfocadas num suave bokeh atrás de si.
 
-Scene 7 (24-27s) — Golden Sunset Ending: A wide silhouette shot of her standing at the shoreline as the sun sinks into the sea, sky burning orange and violet, reflections rippling across the wet sand. Waves wash gently around her ankles as she tilts her face toward the last light, one hand shielding her eyes.
+Cena 7 (24-27s) — Pôr do sol dourado final: Um plano geral em silhueta dela à beira da água enquanto o sol se põe no mar, o céu a arder em tons de laranja e violeta, reflexos a ondular na areia molhada. As ondas banham suavemente os seus tornozelos enquanto inclina o rosto para a última luz, protegendo os olhos com uma mão.
 
-Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a glittering coastal skyline at night. She leans against the railing in a simple white dress, curtain of hair moving in the breeze, city lights reflected in her eyes. Final intimate close-up of her curled up on the hotel bed, propped on one elbow, looking directly into the lens with a soft, warm smile as she says, "Goodnight from Bali."
+Cena 8 (27-30s) — Reflexão noturna no hotel: Um bar de piscina no terraço com vista para uma linha costeira cintilante à noite. Encosta-se ao varandim com um vestido branco simples, a cortina de cabelo a mover-se com a brisa, as luzes da cidade refletidas nos seus olhos. Grande plano íntimo final dela encolhida na cama do hotel, apoiada num cotovelo, a olhar diretamente para a objetiva com um sorriso suave e caloroso enquanto diz: "Goodnight from Bali."
 
-Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural drifting movement, occasional POV shots, realistic autofocus hunting, subtle motion blur.
+Estilo de câmara: Cinematografia autêntica de vlog de viagem, ligeiro tremor de câmara na mão, transições cinematográficas suaves, aproximações lentas em push-in, movimentos naturais e deslizantes, planos POV ocasionais, procura realista de focagem automática, desfoque de movimento subtil.
 
-Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
+Estilo visual: Filme de férias de sonho em Bali, estética de marca de viagens boutique, suave luz solar dourada, textura de pele realista, reduzida profundidade de campo cinematográfica, aspeto nostálgico de película de 35mm, tons atmosféricos quentes, expressões naturais e espontâneas, narrativa emocional.
 
-Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+Evitar: estilo de desenho animado, aspeto de CGI, pele de plástico, rosto irrealista, aparência de personagem inconsistente, mudança de penteado, dedos a mais, corpo distorcido, iluminação artificial, cores supersaturadas, rosto desfocado, movimentos pouco naturais, pessoas duplicadas.
 ```
 
 [↑ Voltar às categorias](#catalog)
