@@ -876,7 +876,7 @@ Iluminação cinematográfica suave, tons dourados quentes, estética comercial 
 
 <a name="prompt-2097320255139795072"></a>
 
-### Tradução em curso
+### Prompt de guião técnico detalhado para troca de roupas controlada por telemóvel em perspetiva POV.
 
 Autor：[@johnAGI168](https://x.com/johnAGI168) · [Publicação original](https://x.com/johnAGI168/status/2097320255139795072)
 
@@ -884,14 +884,67 @@ Banda desenhada / Storyboard · Item de Moda · Publicado
 
 Publicação original：[@johnAGI168](https://x.com/johnAGI168) · [Publicação original](https://x.com/johnAGI168/status/2077395194773672409)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de guião técnico detalhado para troca de roupas controlada por telemóvel em perspetiva POV.
 
 <img src="covers/2097320255139795072.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Duração: 20 segundos
+Proporção: 9:16
+Estilo geral: Microdrama na primeira pessoa em POV do namorado, ligeira oscilação realista de respiração segurando o telemóvel na mão, luz natural interior límpida e difusa, mudança instantânea de roupa ao deslizar e tocar no telemóvel, ritmo ligeiro e romântico carinhoso, ecrã vertical
+
+【Cenário】Sala/quarto luminoso, luz natural através de janelas do chão ao teto, fundo simples e acolhedor, chão limpo e desimpedido
+【Personagens】Protagonista feminina (@Imagem 1, com o vestuário original da personagem no início); protagonista masculino em perspetiva POV, nunca revelando o rosto, apenas mãos masculinas a segurar o telemóvel surgem na parte inferior do ecrã
+【Acessório】Um smartphone moderno sem moldura, segurado na vertical. O ecrã apresenta uma aplicação de moda minimalista e elegante: pré-visualização grande no topo e cartões de roupas deslizáveis horizontalmente em baixo. Cada deslize tem inércia suave ao toque, e ao tocar num cartão o ecrã faz um ligeiro zoom com vibração curta de feedback
+
+SHOT 1 (00:00-00:03.5) Apresentação inicial
+Plano: POV, a protagonista feminina está no centro do enquadramento, dá meia-volta alegremente para mostrar o visual, segura a barra da roupa com ambas as mãos, olhando para a câmara com olhos cintilantes.
+Diálogo: Protagonista feminina: "Amor, o que achas do que estou a vestir hoje?"
+Efeitos sonoros: Ruído de fundo interior, som suave do tecido da roupa.
+Restrições: Protagonista feminina de corpo inteiro no plano, vestuário inicial = vestuário original da personagem.
+
+SHOT 2 (00:03.5-00:06.5) Tirar o telemóvel + primeiro deslize
+Plano: Na parte inferior da imagem, a mão do protagonista masculino ergue o telemóvel entrando em campo, o ecrã ilumina-se exibindo a app de moda. O polegar desliza os cartões da direita para a esquerda, parando no cartão de @Roupa 1, a imagem de pré-visualização amplia-se.
+Diálogo: Protagonista masculino (voz off, tom preguiçoso/descontraído): "Está razoável. Deixa ver com este conjunto."
+Efeitos sonoros: Som subtil de fricção ao deslizar no ecrã.
+Restrições: O ecrã do telemóvel deve ser nítido e legível, o cartão deve ser reconhecível como @Roupa 1; apenas surgem as mãos do protagonista masculino, sem mostrar o rosto.
+
+SHOT 3 (00:06.5-00:09.5) Primeiro toque e transformação instantânea
+Plano: O polegar toca no cartão de @Roupa 1, o ecrã vibra brevemente. No exato mesmo fotograma do toque, o vestuário da protagonista feminina transforma-se instantaneamente em @Roupa 1, mantendo a posição, postura e penteado perfeitamente contínuos; ela olha para baixo a verificar a roupa, de olhos arregalados e boca aberta de espanto, voltando depois a olhar para a câmara.
+Diálogo: Protagonista feminina (surpreendida): "Hã?!"
+Efeitos sonoros: "Bip" nítido + "plim" de mudança de roupa, sussurro suave de tecido a ajeitar-se.
+Restrições: A mudança de roupa dá-se no mesmo fotograma do clique, transição instantânea de corte seco num único fotograma; pode ter uma subtil faixa de luz suave a varrer o corpo de cima a baixo; proibidas sobreposições, ecrãs pretos a piscar ou saltos de posição da personagem.
+
+SHOT 4 (00:09.5-00:13) Segundo deslize + clique e transformação instantânea
+Plano: O polegar desliza novamente para a esquerda, o cartão imobiliza-se em @Roupa 2, faz-se um toque. No mesmo fotograma, a protagonista feminina muda para @Roupa 2; desta vez ela apercebe-se do que se passa, fica com as maçãs do rosto ligeiramente coradas, cruza e entrelaça os dedos à frente, torcendo o corpo timidamente com subtileza, desviando o olhar mas sem resistir a espreitar para a câmara.
+Diálogo: Protagonista masculino (voz off): "Este também fica bem."
+Protagonista feminina (em voz baixa): "Tu... ficas a carregar à toa."
+Efeitos sonoros: Som de deslize + "bip" + "plim", música suave e animada começa a entrar.
+Restrições: O deslize deve mostrar de forma contínua a passagem do cartão de @Roupa 1 para @Roupa 2; a mudança de vestuário continua a ser feita por corte seco no mesmo fotograma do clique.
+
+SHOT 5 (00:13-00:16.5) Terceiro deslize + clique e transformação instantânea
+Plano: Desliza mais uma vez para @Roupa 3, clica. No mesmo fotograma muda para @Roupa 3; a protagonista feminina já se habituou, morde de leve o lábio inferior, levanta as mãos para endireitar a gola/bainha da nova roupa, e fita a câmara com um ar ligeiramente convencido.
+Diálogo: Protagonista feminina: "Este... até é bastante giro, afinal."
+Efeitos sonoros: "Bip" + "plim", o ritmo da música ganha meio tempo de aceleração.
+Restrições: Progressão em três níveis de reações: surpresa → timidez → orgulho/autoconfiança; pequenas ações e poses em cada nível, proibido ficar imóvel ou apática.
+
+SHOT 6 (00:16.5-00:20) Quarto deslize + clique + fecho
+Plano: O último deslize fixa-se em @Roupa 4, o polegar carrega. No mesmo fotograma a protagonista feminina muda instantaneamente para @Roupa 4; desata logo a rir, dá um passo em frente aproximando-se da câmara, semicerrando os olhos de forma marota. O telemóvel continua visível no terço inferior, fixado na pré-visualização de @Roupa 4.
+Diálogo: Protagonista masculino (voz off, satisfeito): "Está escolhido este."
+Protagonista feminina (a sorrir enquanto se aproxima, em tom de censura carinhosa): "És tão mauzinho... adoro!"
+Efeitos sonoros: "Bip" + "plim", a música conclui-se numa batida doce e vincada no final da fala da protagonista.
+Restrições: No fecho, a protagonista aproxima-se sem colar o rosto à lente em excesso; o telemóvel permanece sempre visível na parte inferior; sequência de vestuário bloqueada: início = original → @Roupa 1 → @Roupa 2 → @Roupa 3 → @Roupa 4, rigorosamente sem trocas.
+
+【Regras Fundamentais de Realização】
+1. Regra de Mudança de Vestuário: Cada mudança decorre no exato mesmo fotograma do "toque", transição num único fotograma. Posição no espaço, postura, penteado e contorno do rosto da protagonista mantêm-se perfeitamente contínuos através da mudança, alterando-se apenas a roupa.
+2. Regra de POV: A câmara corresponde ao olhar do protagonista masculino, com ligeira vibração de respiração de câmara na mão em todo o vídeo; o protagonista masculino só intervém com as mãos e voz off, expressamente proibido mostrar o rosto.
+3. Regra do Telemóvel: É imperativo deslizar primeiro e só depois clicar, o deslize deve acompanhar fielmente o dedo com transição límpida de cartões; proibido mudar de roupa do nada ou sem estar a olhar para o ecrã.
+4. Referências de Roupa: Início = vestuário original de @Imagem 1; 1.ª vez = @Roupa 1; 2.ª vez = @Roupa 2; 3.ª vez = @Roupa 3; 4.ª vez = @Roupa 4.
+5. Sincronização labial nítida com as falas, compassada com as batidas dos cliques.
+
+Negativos: mudança de roupa por fusão/dissolvência, flash preto, flash branco, fumo, rotação de ocultação, teletransporte da personagem, quebra de continuidade de pose, alterações no formato do rosto, alterações no penteado, sapatos a mudar arbitrariamente (a não ser que façam parte da referência de vestuário), mostrar o rosto do protagonista masculino, ecrã panorâmico/horizontal, legendas, marcas de água, logótipos, mudança súbita de fundo, múltiplas pessoas em cena, roupa de andar por casa larga a menos que conste expressamente da imagem, trepidação violenta da câmara, ecrã do telemóvel desfocado ou ilegível.
 ```
 
 [↑ Voltar às categorias](#catalog)

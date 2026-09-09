@@ -876,7 +876,7 @@ Iluminação suave e cinematográfica, tons dourados quentes, estética de comer
 
 <a name="prompt-2097320255139795072"></a>
 
-### Tradução em andamento
+### Prompt de roteiro decupado detalhado para troca de roupas controlada por celular em perspectiva POV.
 
 Autor：[@johnAGI168](https://x.com/johnAGI168) · [Publicação original](https://x.com/johnAGI168/status/2097320255139795072)
 
@@ -884,14 +884,67 @@ Quadrinhos / Storyboard · Item de Moda · Publicado
 
 Publicação original：[@johnAGI168](https://x.com/johnAGI168) · [Publicação original](https://x.com/johnAGI168/status/2077395194773672409)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de roteiro decupado detalhado para troca de roupas controlada por celular em perspectiva POV.
 
 <img src="covers/2097320255139795072.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Duração: 20 segundos
+Proporção de tela: 9:16
+Estilo geral: Microdrama em primeira pessoa em POV do namorado, leve balanço de respiração realista de gravação feita segurando o celular na mão, luz natural interna clara e transparente, troca instantânea de roupa ao deslizar e tocar no celular, ritmo leve e romântico doce, tela vertical
+
+【Cenário】Sala/quarto bem iluminado, luz natural vinda de janelas amplas do chão ao teto, fundo simples e aconchegante, chão limpo e sem bagunça
+【Personagens】Protagonista feminina (@Imagem 1, vestindo o figurino original da personagem no início); o protagonista masculino está na perspectiva POV, sem mostrar o rosto em nenhum momento, apenas mãos masculinas segurando o celular aparecem na parte inferior da tela
+【Adereço】Um smartphone moderno sem bordas, segurado na vertical. A tela exibe um aplicativo minimalista e elegante de moda: visualização grande na parte superior e cartões de roupas deslizáveis horizontalmente na parte inferior. Cada deslize possui inércia suave ao toque, e ao tocar em um cartão há um leve zoom na tela com resposta háptica curta
+
+SHOT 1 (00:00-00:03.5) Exibição inicial
+Cena: POV, a protagonista feminina está no centro da tela, dá meia-volta animada no lugar para mostrar o visual, segura a barra da roupa levemente com as duas mãos, olhando para a câmera com olhos brilhantes.
+Falas: Protagonista feminina: "Amor, o que você achou do meu look de hoje?"
+Efeitos sonoros: Ruído ambiente interno, som leve do tecido da roupa.
+Restrições: Protagonista feminina de corpo inteiro em quadro, figurino inicial = figurino original da personagem.
+
+SHOT 2 (00:03.5-00:06.5) Pegando o celular + primeiro deslize
+Cena: Na parte inferior da tela, a mão do protagonista masculino segura o celular entrando no enquadramento, a tela se acende mostrando o aplicativo de moda. O polegar desliza os cartões da direita para a esquerda, parando no cartão de @Roupa 1, a imagem de prévia se amplia.
+Falas: Protagonista masculino (voz em off, tom descontraído): "Até que tá legal. Deixa eu ver com esse conjunto aqui."
+Efeitos sonoros: Som suave de fricção ao deslizar a tela.
+Restrições: A tela do celular deve estar nítida e legível, o cartão deve ser claramente identificável como @Roupa 1; apenas as mãos do protagonista masculino aparecem, sem mostrar o rosto.
+
+SHOT 3 (00:06.5-00:09.5) Primeiro toque e troca instantânea
+Cena: O polegar toca no cartão de @Roupa 1, a tela vibra brevemente. No mesmo quadro exato do toque, o figurino da protagonista feminina se transforma instantaneamente em @Roupa 1, com posição, pose e penteado perfeitamente contínuos; ela olha para baixo encarando a roupa, com olhos arregalados e boca aberta de surpresa, depois olha de volta para a câmera.
+Falas: Protagonista feminina (surpresa): "Ué?!"
+Efeitos sonoros: Um "bip" nítido + "plim" da troca de roupa, leve som do tecido se ajeitando.
+Restrições: A troca de roupa ocorre no exato mesmo quadro do clique, corte seco de um único quadro; pode adicionar um suave feixe de luz descendo pelo corpo; proibido dissoluções, telas pretas piscando, ou saltos de posição da personagem.
+
+SHOT 4 (00:09.5-00:13) Segundo deslize + clique e troca instantânea
+Cena: O polegar desliza para a esquerda novamente, o cartão para em @Roupa 2, dá um toque. No mesmo quadro, a protagonista feminina muda para @Roupa 2; desta vez ela cai na real, fica com as bochechas ligeiramente coradas, cruza e entrelaça os dedos na frente do corpo, se contorce timidamente com movimentos sutis, desviando o olhar mas sem resistir a olhar para a câmera.
+Falas: Protagonista masculino (voz em off): "Esse também ficou bom."
+Protagonista feminina (em voz baixa): "Você... fica clicando à toa."
+Efeitos sonoros: Som de deslize + "bip" + "plim", música leve e alegre começa a subir suavemente.
+Restrições: O deslize deve mostrar claramente a transição do cartão de @Roupa 1 para @Roupa 2; a troca de roupa continua sendo um corte seco no mesmo quadro do clique.
+
+SHOT 5 (00:13-00:16.5) Terceiro deslize + clique e troca instantânea
+Cena: Desliza novamente até @Roupa 3, dá um toque. No mesmo quadro muda para @Roupa 3; a protagonista feminina já se acostumou, morde levemente o lábio inferior, ergue as mãos para ajeitar a gola/saia da roupa nova, e olha para a câmera com um ar ligeiramente convencido.
+Falas: Protagonista feminina: "Esse daqui... até que ficou bem bonito, né?"
+Efeitos sonoros: "Bip" + "plim", o ritmo da música acelera meio compasso.
+Restrições: Progressão emocional em três etapas: surpresa → timidez → orgulho/confiança; com pequenos gestos em cada uma, proibido ficar parada estática.
+
+SHOT 6 (00:16.5-00:20) Quarto deslize + clique + encerramento
+Cena: O último deslize para em @Roupa 4, o polegar clica. No mesmo quadro, a protagonista feminina se transforma instantaneamente em @Roupa 4; ela dá uma risada aberta, dá um passo à frente se aproximando da câmera, apertando os olhos com malícia charmosa. O celular continua levantado na parte inferior da tela, com a tela fixa na prévia de @Roupa 4.
+Falas: Protagonista masculino (voz em off, satisfeito): "Fechou, vai ser esse."
+Protagonista feminina (sorrindo enquanto se aproxima, em tom de provocação carinhosa): "Você não presta... mas eu adorei!"
+Efeitos sonoros: "Bip" + "plim", a música finaliza com uma batida doce e forte no momento da fala final da protagonista.
+Restrições: No final a protagonista se aproxima sem invadir em excesso a lente; o celular deve estar sempre visível na parte inferior da tela; ordem rígida dos figurinos: início = figurino original → @Roupa 1 → @Roupa 2 → @Roupa 3 → @Roupa 4, sem erros na ordem.
+
+【Regras Inegociáveis do Diretor】
+1. Regra da Troca de Roupa: Cada troca ocorre no exato mesmo quadro do "clique", transição de quadro único. Posição corporal, pose, penteado e formato do rosto da protagonista devem ser perfeitamente contínuos através do quadro de troca, alterando apenas as roupas.
+2. Regra do POV: A câmera representa a visão do protagonista masculino, com leve balanço de respiração de câmera na mão por toda a cena; o protagonista masculino atua apenas com as mãos e voz em off, estritamente proibido mostrar seu rosto.
+3. Regra do Celular: Sempre deve haver primeiro o deslize e depois o clique, com resposta tátil no deslize e transição clara de cartões; proibido trocar roupas do nada ou sem olhar para a tela.
+4. Referência de Figurinos: Início = roupas originais de @Imagem 1; 1ª vez = @Roupa 1; 2ª vez = @Roupa 2; 3ª vez = @Roupa 3; 4ª vez = @Roupa 4.
+5. Movimento labial claro e sincronizado com as falas, alinhado ao ritmo dos cliques.
+
+Negativos: troca de roupa por fusão/dissolvência, flash preto, flash branco, fumaça, giro para transição oculta, teletransporte do personagem, quebra de pose, mudança no formato do rosto, mudança de penteado, calçados mudando aleatoriamente (a menos que a referência da roupa inclua), mostrar o rosto do protagonista masculino, proporção horizontal, legendas, marcas d'água, logotipos, mudança repentina de fundo, múltiplas pessoas em cena, roupas casuais/pijamas soltos a menos que a referência exija, tremor excessivo de câmera, tela do celular borrada ou ilegível.
 ```
 
 [↑ Voltar às categorias](#catalog)

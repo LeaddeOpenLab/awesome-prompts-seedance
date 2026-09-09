@@ -876,7 +876,7 @@ Yumuşak sinematik aydınlatma, sıcak altın tonları, lüks reklam estetiği, 
 
 <a name="prompt-2097320255139795072"></a>
 
-### Çeviri sürüyor
+### POV bakış açısıyla telefon üzerinden kız arkadaşa kıyafet değiştirme ayrıntılı çekim senaryosu istemi.
 
 Yazar：[@johnAGI168](https://x.com/johnAGI168) · [Orijinal gönderi](https://x.com/johnAGI168/status/2097320255139795072)
 
@@ -884,14 +884,67 @@ Yazar：[@johnAGI168](https://x.com/johnAGI168) · [Orijinal gönderi](https://x
 
 Orijinal gönderi：[@johnAGI168](https://x.com/johnAGI168) · [Orijinal gönderi](https://x.com/johnAGI168/status/2077395194773672409)
 
-**Özet:** Çeviri sürüyor
+**Özet:** POV bakış açısıyla telefon üzerinden kız arkadaşa kıyafet değiştirme ayrıntılı çekim senaryosu istemi.
 
 <img src="covers/2097320255139795072.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Süre: 20 saniye
+En-boy oranı: 9:16
+Genel stil: Erkek arkadaşın birinci şahıs POV bakış açısıyla kısa dizi, elde tutulan gerçek telefondan kaynaklanan hafif ve gerçekçi nefes titremesi, aydınlık ve doğal iç mekân ışığı, telefonda kaydırma + tıklama ile anında kıyafet değişimi, hafif tempolu tatlı ve romantik atmosfer, dikey ekran
+
+【Mekân】Aydınlık oturma odası/yatak odası, boydan boya pencerelerden gelen doğal ışık, sade ve sıcak arka plan, temiz ve dağınıklıktan uzak zemin
+【Karakterler】Kadın başrol (@Resim 1, açılışta karakterin orijinal kıyafetiyle); erkek başrol POV açısındadır, yüzü hiçbir şekilde görünmez, kadrajın yalnızca alt kısmında telefonu tutan erkek elleri yer alır
+【Aksesuar】Dikey tutulan modern, çerçevesiz bir akıllı telefon. Ekranda sade ve şık bir kombin uygulaması açıktır: üstte büyük önizleme görseli, altta yatay olarak kaydırılabilen kıyafet kartları. Her kaydırma parmağı takip eden akıcı bir eylemsizliğe sahiptir, karta tıklandığında ekranda hafif bir yakınlaşma ve kısa titreşim geri bildirimi oluşur
+
+SHOT 1 (00:00-00:03.5) Açılış sunumu
+Görüntü: POV, kadın başrol kadrajın ortasında durur, kombinini göstermek için neşeyle olduğu yerde yarım tur döner, iki eliyle elbisenin/eteğin ucunu hafifçe kaldırır, parıldayan gözlerle kameraya bakar.
+Diyalog: Kadın başrol: "Aşkım, bugünkü kombinim nasıl olmuş?"
+Ses efektleri: İç mekân ortam sesi, kumaşın hafif hışırtısı.
+Kısıtlamalar: Kadın başrol boydan kadrajda olmalıdır, açılış kıyafeti = karakterin orijinal kıyafeti.
+
+SHOT 2 (00:03.5-00:06.5) Telefonu çıkarma + ilk kaydırma
+Görüntü: Kadrajın altından erkek başrolün eli telefonu kaldırarak kadraja girer, ekran aydınlanır ve kombin uygulaması görünür. Başparmak kartları sağdan sola doğru kaydırır ve @Kıyafet 1 kartında durur, önizleme görseli büyür.
+Diyalog: Erkek başrol (dış ses, rahat/tembel bir tonda): "Fena değil. Bir de şunu dene bakalım."
+Ses efektleri: Ekranda hafif kaydırma sürtünme sesi.
+Kısıtlamalar: Telefon ekranı net ve okunabilir olmalıdır, kartın üzerindekinin @Kıyafet 1 olduğu açıkça seçilmelidir; erkek başrolün sadece elleri görünür, yüzü asla görünmez.
+
+SHOT 3 (00:06.5-00:09.5) İlk tıklama ile anında değişim
+Görüntü: Başparmak @Kıyafet 1 kartına dokunur, ekran kısa bir titreşim verir. Tıklamanın gerçekleştiği tam o karede kadın başrolün kıyafeti anında @Kıyafet 1'e dönüşür; duruş pozisyonu, pozu ve saç modeli kusursuz bir devamlılık içindedir; kadın başrol şaşkınlıkla gözlerini açıp ağzı aralık şekilde kıyafetine bakar, ardından başını kaldırıp kameraya bakar.
+Diyalog: Kadın başrol (şaşkın): "Aaa?!"
+Ses efektleri: Net bir "bip" + kıyafet değişimi "çın" sesi, kumaşın açılma fısıltısı.
+Kısıtlamalar: Kıyafet değişimi tıklamayla aynı karede, tek karelik ani kesmeyle gerçekleşmelidir; vücuttan aşağıya doğru kayan yumuşak hafif bir parıltı eklenebilir; erime/çözünme (dissolve), siyah ekran parlaması veya karakterin konum atlaması kesinlikle yasaktır.
+
+SHOT 4 (00:09.5-00:13) İkinci kaydırma + tıklama ile anında değişim
+Görüntü: Başparmak tekrar sola kaydırır, kart @Kıyafet 2'de durur ve tıklar. Aynı karede kadın başrol @Kıyafet 2'ye bürünür; bu kez ne olduğunu anlar, yanakları hafifçe kızarır, parmaklarını önünde kenetler, utangaç bir tavırla hafifçe kıvrılır, gözlerini kaçırır ama yine de kameraya bakmaktan kendini alamaz.
+Diyalog: Erkek başrol (dış ses): "Bu da fena olmadı."
+Kadın başrol (kısık sesle): "Sen de... rastgele basıp duruyorsun."
+Ses efektleri: Kaydırma sesi + "bip" + "çın", hafif neşeli müzik usulca yükselmeye başlar.
+Kısıtlamalar: Kaydırma sırasında @Kıyafet 1 kartından @Kıyafet 2 kartına geçiş eksiksiz görünmelidir; kıyafet değişimi yine tıklamayla aynı karede sert kesme şeklinde olmalıdır.
+
+SHOT 5 (00:13-00:16.5) Üçüncü kaydırma + tıklama ile anında değişim
+Görüntü: Kart tekrar kaydırılarak @Kıyafet 3'e gelinir ve tıklanır. Aynı karede @Kıyafet 3'e geçilir; kadın başrol artık duruma alışmıştır, alt dudağını hafifçe ısırır, elini kaldırarak yeni kıyafetin yakasını/eteğini düzeltir ve kameraya hafif gururlu/özgüvenli bir bakış atar.
+Diyalog: Kadın başrol: "Bu... bayağı güzelmiş aslında."
+Ses efektleri: "Bip" + "çın", müzik temposu yarım vuruş hızlanır.
+Kısıtlamalar: Üç aşamalı tepki gelişimi: şaşkınlık → utangaçlık → gurur/kendini beğenme; her aşamada küçük jestler olmalı, put gibi hareketsiz durmak yasaktır.
+
+SHOT 6 (00:16.5-00:20) Dördüncü kaydırma + tıklama + kapanış
+Görüntü: Son kaydırma @Kıyafet 4'te durur, başparmak tıklar. Aynı karede kadın başrol anında @Kıyafet 4'e dönüşür; dayanamayıp güler, kameraya doğru bir adım atarak yaklaşır, gözlerini hınzırca kısar. Telefon kadrajın altında tutulmaya devam eder, ekran @Kıyafet 4 önizlemesinde kalır.
+Diyalog: Erkek başrol (dış ses, tatmin olmuş): "Tamamdır, bu olsun."
+Kadın başrol (gülümseyerek yaklaşır, tatlı bir sitemle): "Çok fenasın sen ya... ama bayıldım!"
+Ses efektleri: "Bip" + "çın", müzik kadın başrolün son repliğiyle birlikte tatlı ve vurgulu bir vuruşla sonlanır.
+Kısıtlamalar: Kapanışta kadın başrol yaklaşır ancak kameraya aşırı derecede yapışmaz; telefon daima kadrajın alt kısmında görünür kalmalıdır; kıyafet sırası kilitlidir: Açılış = orijinal kıyafet → @Kıyafet 1 → @Kıyafet 2 → @Kıyafet 3 → @Kıyafet 4, sıra kesinlikle bozulamaz.
+
+【Yönetmenin Katı Kuralları】
+1. Kıyafet Değişimi Kuralı: Her kıyafet değişimi "tıklama" ile tamı tamına aynı karede, tek karelik anlık sıçramayla olmalıdır. Kadın başrolün durduğu yer, pozu, saç modeli ve yüz hatları değişim karesi boyunca tamamen kesintisiz olmalı, yalnızca kıyafeti değişmelidir.
+2. POV Kuralı: Kamera erkek başrolün gözleridir, çekim boyunca elde tutulan hafif nefes titremesi korunmalıdır; erkek başrol sadece elleri ve dış sesiyle yer alır, yüzünün görünmesi kesinlikle yasaktır.
+3. Telefon Kuralı: Her seferinde önce kaydırma sonra tıklama yapılmalıdır; kaydırma parmağı takip etmeli, kart geçişleri net olmalıdır; yoktan kıyafet değişimi veya ekrana bakmadan doğrudan değişim yasaktır.
+4. Kıyafet Referansları: Açılış = @Resim 1 orijinal kıyafeti; 1. kez = @Kıyafet 1; 2. kez = @Kıyafet 2; 3. kez = @Kıyafet 3; 4. kez = @Kıyafet 4.
+5. Diyaloglarda dudak hareketleri net olmalı, tıklama ritimleriyle senkronize edilmelidir.
+
+Negatif: Erime/çözünmeyle kıyafet değişimi, siyah flaş, beyaz flaş, duman, dönerek kıyafet gizleme/değiştirme, karakter ışınlanması, duruş kopukluğu, yüz şeklinin değişmesi, saç modelinin değişmesi, ayakkabıların rastgele değişmesi (kıyafet görselinde açıkça belirtilmedikçe), erkek başrolün yüzünün görünmesi, yatay ekran, altyazı, filigran, logo, arka planın aniden değişmesi, kadraja birden fazla kişinin girmesi, kıyafet görselinde açıkça yer almadıkça bol ev kıyafetleri, kameranın aşırı şiddetli sarsılması, telefon ekranının bulanık ve okunaksız olması.
 ```
 
 [↑ Kategorilere dön](#catalog)
