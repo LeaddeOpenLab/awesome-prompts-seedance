@@ -341,20 +341,36 @@ Kinematisch / Filmstill · Illustration · 3D-Rendering · Veröffentlicht
 
 <a name="prompt-2097182918368276602"></a>
 
-### Übersetzung läuft
+### Ein Prompt für ein 15-sekündiges filmisches Video mit detaillierten, zeitlich abgestimmten Sequenzen einer koreanischen Frau in Seoul, die mit den Fingern schnippt, um die Zeit anzuhalten, Outfits verwandelt und eine visuelle Schleife auf einer LED-Werbetafel auslöst.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Originalbeitrag](https://x.com/MissDelulu9/status/2097182918368276602)
 
 Kinematisch / Filmstill · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Prompt für ein 15-sekündiges filmisches Video mit detaillierten, zeitlich abgestimmten Sequenzen einer koreanischen Frau in Seoul, die mit den Fingern schnippt, um die Zeit anzuhalten, Outfits verwandelt und eine visuelle Schleife auf einer LED-Werbetafel auslöst.
 
 <img src="covers/2097182918368276602.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 15-sekündiges, ultrarealistisches, filmisches 16:9-Querformat-Video mit einer koreanischen Frau in Seoul.
+
+0–2 Sek.:
+Extreme Nahaufnahme ihres Gesichts. Sie blickt plötzlich direkt in die Kamera und sagt mit einem verspielten, selbstbewussten Ausdruck: „Watch this.“
+
+2–6 Sek.:
+Sie schnippt mit den Fingern.
+
+Augenblicklich verwandelt sich ihr gewöhnliches Outfit in einen atemberaubenden, futuristischen koreanischen Street-Fashion-Look, während die gesamte Straße in Seoul mitten in der Bewegung um sie herum einfriert.
+
+6–11 Sek.:
+Sie geht lässig durch die erstarrte Menschenmenge. Während sie an jeder Person vorbeigeht, taut diese plötzlich nacheinander auf, doch ihre Outfits verwandeln sich in völlig andere High-Fashion-Looks.
+
+11–15 Sek.:
+Sie erreicht eine riesige LED-Werbetafel, blickt sie an, und die Werbetafel zeigt plötzlich ein Live-Video von IHR, wie sie darauf zugeht, wodurch eine unmögliche visuelle Schleife entsteht.
+
+Schneller Schnitt, extrem realistische koreanische Frau, natürliche koreanische Straßenumgebung, erstklassiges Modestyling, filmische Nachtbeleuchtung, realistische Bewegung der Menschenmenge, nahtlose Transformationseffekte, detaillierte Gesichtsausdrücke, dynamische Kamerabewegung, starker visueller Hook, überraschendes Ende, eleganter viraler Social-Media-Look, keine Untertitel, kein Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

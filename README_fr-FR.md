@@ -341,20 +341,36 @@ Traduction en cours
 
 <a name="prompt-2097182918368276602"></a>
 
-### Traduction en cours
+### Un prompt de vidéo cinématographique de 15 secondes détaillant des séquences chronométrées d'une femme coréenne à Séoul claquant des doigts pour figer le temps, transformant des tenues et déclenchant une boucle visuelle sur un panneau LED.
 
 Auteur：[@MissDelulu9](https://x.com/MissDelulu9) · [Publication originale](https://x.com/MissDelulu9/status/2097182918368276602)
 
 Image cinématographique / Photogramme de film · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt de vidéo cinématographique de 15 secondes détaillant des séquences chronométrées d'une femme coréenne à Séoul claquant des doigts pour figer le temps, transformant des tenues et déclenchant une boucle visuelle sur un panneau LED.
 
 <img src="covers/2097182918368276602.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo cinématographique ultraréaliste de 15 secondes au format paysage 16:9 mettant en scène une femme coréenne à Séoul.
+
+0–2 s :
+Très gros plan sur son visage. Elle regarde soudainement droit dans la caméra et dit avec une expression espiègle et confiante : « Watch this. »
+
+2–6 s :
+Elle claque des doigts.
+
+Instantanément, sa tenue ordinaire se transforme en un magnifique look streetwear coréen futuriste, tandis que toute la rue de Séoul se fige en plein mouvement autour d'elle.
+
+6–11 s :
+Elle marche nonchalamment à travers la foule figée. À mesure qu'elle dépasse chaque personne, celle-ci se défige soudainement, une par une, mais leurs tenues se transforment en des looks haute couture totalement différents.
+
+11–15 s :
+Elle arrive devant un panneau d'affichage LED géant, le regarde, et le panneau diffuse soudainement une vidéo en direct d'ELLE marchant vers lui, créant une boucle visuelle impossible.
+
+Montage au rythme effréné, femme coréenne extrêmement réaliste, environnement urbain coréen naturel, stylisme de mode haut de gamme, éclairage de nuit cinématographique, mouvement de foule réaliste, effets de transformation fluides, expressions faciales détaillées, mouvements de caméra dynamiques, accroche visuelle percutante, fin surprenante, esthétique soignée et virale pour les réseaux sociaux, pas de sous-titres, pas de filigrane.
 ```
 
 [↑ Retour aux catégories](#catalog)

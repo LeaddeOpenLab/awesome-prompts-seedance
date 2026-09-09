@@ -343,20 +343,36 @@ Tác giả：[@iamrealsnow](https://x.com/iamrealsnow) · [Bài gốc](https://x
 
 <a name="prompt-2097182918368276602"></a>
 
-### Đang dịch
+### Lời nhắc tạo video điện ảnh dài 15 giây nêu chi tiết các phân cảnh theo thời gian về một người phụ nữ Hàn Quốc ở Seoul búng tay để đóng băng thời gian, biến đổi trang phục và kích hoạt vòng lặp thị giác trên bảng quảng cáo LED.
 
 Tác giả：[@MissDelulu9](https://x.com/MissDelulu9) · [Bài gốc](https://x.com/MissDelulu9/status/2097182918368276602)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo video điện ảnh dài 15 giây nêu chi tiết các phân cảnh theo thời gian về một người phụ nữ Hàn Quốc ở Seoul búng tay để đóng băng thời gian, biến đổi trang phục và kích hoạt vòng lặp thị giác trên bảng quảng cáo LED.
 
 <img src="covers/2097182918368276602.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video điện ảnh tỷ lệ 16:9 nằm ngang dài 15 giây, siêu thực tế, có sự xuất hiện của một người phụ nữ Hàn Quốc tại Seoul.
+
+0–2 giây:
+Cận cảnh cực đại khuôn mặt của cô ấy. Cô ấy đột nhiên nhìn thẳng vào ống kính và nói với vẻ mặt tinh nghịch, tự tin: “Watch this.”
+
+2–6 giây:
+Cô ấy búng ngón tay.
+
+Ngay lập tức, bộ trang phục bình thường của cô ấy biến hóa thành một phong cách thời trang đường phố Hàn Quốc tương lai đầy ấn tượng, trong khi toàn bộ đường phố Seoul xung quanh cô ấy đóng băng ngay giữa chuyển động.
+
+6–11 giây:
+Cô ấy thong thả bước đi qua đám đông đang bất động. Khi cô ấy đi qua từng người, họ đột nhiên thoát khỏi trạng thái đóng băng từng người một, nhưng trang phục của họ lại biến đổi thành những diện mạo thời trang cao cấp hoàn toàn khác biệt.
+
+11–15 giây:
+Cô ấy bước tới một bảng quảng cáo LED khổng lồ, nhìn vào đó, và bảng quảng cáo đột nhiên hiển thị video trực tiếp về chính CÔ ẤY đang bước về phía nó, tạo ra một vòng lặp thị giác bất khả thi.
+
+Cắt dựng nhịp độ nhanh, người phụ nữ Hàn Quốc cực kỳ chân thực, khung cảnh đường phố Hàn Quốc tự nhiên, phong cách thời trang cao cấp, ánh sáng ban đêm mang đậm chất điện ảnh, chuyển động đám đông chân thực, hiệu ứng biến đổi mượt mà, biểu cảm khuôn mặt chi tiết, chuyển động máy quay sống động, điểm thu hút thị giác mạnh mẽ, kết thúc bất ngờ, thẩm mỹ mạng xã hội lan truyền được trau chuốt kỹ lưỡng, không phụ đề, không hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

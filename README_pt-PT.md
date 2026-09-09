@@ -327,20 +327,36 @@ Tradução em curso
 
 <a name="prompt-2097182918368276602"></a>
 
-### Tradução em curso
+### Um prompt de vídeo cinematográfico de 15 segundos detalhando sequências cronometradas de uma mulher coreana em Seul a estalar os dedos para congelar o tempo, a transformar visuais e a desencadear um ciclo visual num painel LED.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicação original](https://x.com/MissDelulu9/status/2097182918368276602)
 
 Cena de Cinema / Fotograma · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um prompt de vídeo cinematográfico de 15 segundos detalhando sequências cronometradas de uma mulher coreana em Seul a estalar os dedos para congelar o tempo, a transformar visuais e a desencadear um ciclo visual num painel LED.
 
 <img src="covers/2097182918368276602.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo cinematográfico ultrarrealista de 15 segundos em formato de paisagem 16:9 com uma mulher coreana em Seul.
+
+0–2 s:
+Grande grande plano do seu rosto. Ela subitamente olha diretamente para a câmara e diz, com uma expressão confiante e divertida: “Watch this.”
+
+2–6 s:
+Ela estala os dedos.
+
+Instantaneamente, a sua roupa vulgar transforma-se num deslumbrante visual futurista de moda urbana coreana, enquanto toda a rua de Seul congela em pleno movimento à sua volta.
+
+6–11 s:
+Ela caminha descontraidamente pela multidão congelada. À medida que passa por cada pessoa, esta descongela subitamente, uma a uma, mas as suas roupas transformam-se em visuais de alta-costura completamente diferentes.
+
+11–15 s:
+Ela chega a um painel LED gigante, olha para ele e o painel exibe subitamente um vídeo em direto DELA a caminhar na direção dele, criando um ciclo visual impossível.
+
+Edição de ritmo acelerado, mulher coreana extremamente realista, ambiente urbano coreano natural, estilo de moda premium, iluminação noturna cinematográfica, movimento de multidão realista, efeitos de transformação fluidos, expressões faciais detalhadas, movimento de câmara dinâmico, forte gancho visual, final surpreendente, estética polida para redes sociais com potencial viral, sem legendas, sem marcas de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

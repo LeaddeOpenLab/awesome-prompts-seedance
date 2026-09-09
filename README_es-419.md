@@ -341,20 +341,36 @@ Traducción en curso
 
 <a name="prompt-2097182918368276602"></a>
 
-### Traducción en curso
+### Un prompt para video cinematográfico de 15 segundos que detalla secuencias cronometradas de una mujer coreana en Seúl chasqueando los dedos para congelar el tiempo, transformando atuendos y provocando un bucle visual en una cartelera LED.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicación original](https://x.com/MissDelulu9/status/2097182918368276602)
 
 Cine / Fotograma · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt para video cinematográfico de 15 segundos que detalla secuencias cronometradas de una mujer coreana en Seúl chasqueando los dedos para congelar el tiempo, transformando atuendos y provocando un bucle visual en una cartelera LED.
 
 <img src="covers/2097182918368276602.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video cinematográfico ultrarrealista de 15 segundos en formato horizontal 16:9 con una mujer coreana en Seúl.
+
+0–2 s:
+Primerísimo primer plano de su rostro. De repente mira directamente a la cámara y dice con una expresión juguetona y segura: “Watch this.”
+
+2–6 s:
+Chasquea los dedos.
+
+Al instante, su atuendo común se transforma en un impresionante look futurista de moda urbana coreana, mientras toda la calle de Seúl se congela en pleno movimiento a su alrededor.
+
+6–11 s:
+Camina con total tranquilidad entre la multitud congelada. A medida que pasa junto a cada persona, esta se descongela repentinamente una por una, pero sus atuendos se transforman en looks de alta costura completamente diferentes.
+
+11–15 s:
+Llega ante una cartelera LED gigante, la mira y la cartelera muestra de repente un video en vivo de ELLA caminando hacia ella, creando un bucle visual imposible.
+
+Edición de ritmo rápido, mujer coreana extremadamente realista, entorno urbano coreano natural, estilismo de moda de primera calidad, iluminación nocturna cinematográfica, movimiento de multitud realista, efectos de transformación fluidos, expresiones faciales detalladas, movimiento de cámara dinámico, fuerte gancho visual, final sorprendente, estética pulida y viral para redes sociales, sin subtítulos, sin marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

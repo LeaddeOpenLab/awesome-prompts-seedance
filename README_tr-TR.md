@@ -327,20 +327,36 @@ Sinematik / Film Karesi · İllüstrasyon · 3D Modelleme · Yayımlandı
 
 <a name="prompt-2097182918368276602"></a>
 
-### Çeviri sürüyor
+### Seul'deki Koreli bir kadının zamanı dondurmak için parmaklarını şıklatmasını, kıyafetleri dönüştürmesini ve bir LED reklam panosunda görsel bir döngüyü tetiklemesini içeren zaman ayarlı sekansları detaylandıran 15 saniyelik sinematik bir video istemi.
 
 Yazar：[@MissDelulu9](https://x.com/MissDelulu9) · [Orijinal gönderi](https://x.com/MissDelulu9/status/2097182918368276602)
 
 Sinematik / Film Karesi · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Seul'deki Koreli bir kadının zamanı dondurmak için parmaklarını şıklatmasını, kıyafetleri dönüştürmesini ve bir LED reklam panosunda görsel bir döngüyü tetiklemesini içeren zaman ayarlı sekansları detaylandıran 15 saniyelik sinematik bir video istemi.
 
 <img src="covers/2097182918368276602.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Seul'de Koreli bir kadının yer aldığı, 15 saniyelik, ultra gerçekçi, sinematik, 16:9 manzara formatında bir video oluşturun.
+
+0–2 sn:
+Yüzünün aşırı yakın çekimi. Aniden doğrudan kameraya bakar ve neşeli, kendinden emin bir ifadeyle şöyle der: “Watch this.”
+
+2–6 sn:
+Parmaklarını şıklatır.
+
+Anında, sıradan kıyafeti çarpıcı ve fütüristik bir Kore sokak modası görünümüne dönüşürken, tüm Seul caddesi etrafında hareketin ortasında donup kalır.
+
+6–11 sn:
+Donmuş kalabalığın arasından rahatça yürür. Her bir kişinin yanından geçerken, onlar teker teker aniden çözülür ancak kıyafetleri tamamen farklı yüksek moda görünümlerine dönüşür.
+
+11–15 sn:
+Devasa bir LED reklam panosuna ulaşır, ona bakar ve reklam panosunda aniden KENDİSİNİN panoya doğru yürüdüğü canlı bir video gösterilerek imkânsız bir görsel döngü oluşur.
+
+Hızlı tempolu kurgu, son derece gerçekçi Koreli kadın, doğal Kore sokak ortamı, birinci sınıf moda stili, sinematik gece aydınlatması, gerçekçi kalabalık hareketi, akıcı dönüşüm efektleri, ayrıntılı yüz ifadeleri, dinamik kamera hareketi, güçlü görsel kanca, şaşırtıcı son, cilalı viral sosyal medya estetiği, altyazısız, filigransız.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -341,20 +341,36 @@ Traduzione in corso
 
 <a name="prompt-2097182918368276602"></a>
 
-### Traduzione in corso
+### Un prompt per video cinematografico di 15 secondi che descrive sequenze a tempo di una donna coreana a Seul che schiocca le dita per fermare il tempo, trasformando gli outfit e innescando un loop visivo su un cartellone a LED.
 
 Autore：[@MissDelulu9](https://x.com/MissDelulu9) · [Post originale](https://x.com/MissDelulu9/status/2097182918368276602)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt per video cinematografico di 15 secondi che descrive sequenze a tempo di una donna coreana a Seul che schiocca le dita per fermare il tempo, trasformando gli outfit e innescando un loop visivo su un cartellone a LED.
 
 <img src="covers/2097182918368276602.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video cinematografico ultra-realistico di 15 secondi in formato orizzontale 16:9 con protagonista una donna coreana a Seul.
+
+0–2 sec:
+Primissimo piano del suo viso. All'improvviso guarda dritto nella telecamera e dice con un'espressione giocosa e sicura di sé: “Watch this.”
+
+2–6 sec:
+Schiocca le dita.
+
+All'istante, il suo abito ordinario si trasforma in uno splendido look streetwear coreano futuristico, mentre l'intera strada di Seul si congela a mezz'aria attorno a lei.
+
+6–11 sec:
+Cammina con disinvoltura attraverso la folla congelata. Man mano che supera ciascuna persona, questa si sblocca improvvisamente una alla volta, ma i loro abiti si trasformano in look d'alta moda completamente diversi.
+
+11–15 sec:
+Raggiunge un gigantesco cartellone a LED, lo guarda e il cartellone mostra improvvisamente un video in diretta di LEI che cammina verso di esso, creando un loop visivo impossibile.
+
+Montaggio dal ritmo serrato, donna coreana estremamente realistica, ambiente urbano coreano naturale, styling di moda premium, illuminazione notturna cinematografica, movimento realistico della folla, effetti di trasformazione fluidi, espressioni facciali dettagliate, movimento dinamico della telecamera, forte gancio visivo, finale a sorpresa, estetica curata per social media virali, nessun sottotitolo, nessun watermark.
 ```
 
 [↑ Torna alle categorie](#catalog)

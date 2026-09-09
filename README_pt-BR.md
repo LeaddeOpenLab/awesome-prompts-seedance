@@ -327,20 +327,36 @@ Tradução em andamento
 
 <a name="prompt-2097182918368276602"></a>
 
-### Tradução em andamento
+### Um prompt para vídeo cinematográfico de 15 segundos detalhando sequências cronometradas de uma mulher coreana em Seul estalando os dedos para congelar o tempo, transformando roupas e ativando um loop visual em um outdoor de LED.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicação original](https://x.com/MissDelulu9/status/2097182918368276602)
 
 Cinematográfico / Imagem de Filme · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um prompt para vídeo cinematográfico de 15 segundos detalhando sequências cronometradas de uma mulher coreana em Seul estalando os dedos para congelar o tempo, transformando roupas e ativando um loop visual em um outdoor de LED.
 
 <img src="covers/2097182918368276602.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo cinematográfico ultrarrealista de 15 segundos em formato paisagem 16:9 apresentando uma mulher coreana em Seul.
+
+0–2 s:
+Plano detalhe extremo de seu rosto. De repente, ela olha direto para a câmera e diz com uma expressão confiante e brincalhona: “Watch this.”
+
+2–6 s:
+Ela estala os dedos.
+
+Instantaneamente, sua roupa comum se transforma em um deslumbrante look futurista de moda de rua coreana, enquanto toda a rua de Seul congela em pleno movimento ao seu redor.
+
+6–11 s:
+Ela caminha casualmente pela multidão congelada. Conforme passa por cada pessoa, elas de repente descongelam uma a uma, mas suas roupas se transformam em looks de alta-costura completamente diferentes.
+
+11–15 s:
+Ela chega a um outdoor de LED gigante, olha para ele, e o outdoor de repente exibe um vídeo ao vivo DELA caminhando em direção a ele, criando um loop visual impossível.
+
+Edição em ritmo acelerado, mulher coreana extremamente realista, ambiente urbano coreano natural, figurino de moda premium, iluminação noturna cinematográfica, movimento de multidão realista, efeitos de transformação suaves, expressões faciais detalhadas, movimento dinâmico de câmera, forte apelo visual inicial, final surpreendente, estética viral polida para redes sociais, sem legendas, sem marca d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)
