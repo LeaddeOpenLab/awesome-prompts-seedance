@@ -14,7 +14,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**22** Prompts · Adição mais recente: **2026-09-09**
+**23** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -146,6 +146,30 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2097303258171949530"></a>
+
+### Tradução em curso
+
+Autor：[@Strength04\_X](https://x.com/Strength04_X) · [Publicação original](https://x.com/Strength04_X/status/2097303258171949530)
+
+Cena de Cinema / Fotograma · Personagem · Item de Moda · Publicado
+
+Publicação original：[@Strength04\_X](https://x.com/Strength04_X) · [Publicação original](https://x.com/Strength04_X/status/2097272589387546831)
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2097303258171949530.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2096984350055436729"></a>
 
