@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**12** Prompts · Latest addition: **2026-09-09**
+**13** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -157,6 +157,44 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097182918368276602"></a>
+
+### A 15-second cinematic video prompt detailing timed sequences of a Korean woman in Seoul snapping her fingers to freeze time, transforming outfits, and triggering a visual loop on an LED billboard.
+
+Author：[@MissDelulu9](https://x.com/MissDelulu9) · [Source](https://x.com/MissDelulu9/status/2097182918368276602)
+
+Cinematic / Film Still · Character · Fashion Item · Published
+
+**Summary:** A 15-second cinematic video prompt detailing timed sequences of a Korean woman in Seoul snapping her fingers to freeze time, transforming outfits, and triggering a visual loop on an LED billboard.
+
+<img src="covers/2097182918368276602.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 15-second ultra-realistic cinematic 16:9 landscape video featuring a Korean woman in Seoul.
+
+0–2 sec:
+Extreme close-up of her face. She suddenly looks straight into the camera and says with a playful, confident expression: “Watch this.”
+
+2–6 sec:
+She snaps her fingers.
+
+Instantly, her ordinary outfit transforms into a stunning futuristic Korean street-fashion look while the entire Seoul street freezes mid-motion around her.
+
+6–11 sec:
+She casually walks through the frozen crowd. As she passes each person, they suddenly unfreeze one by one, but their outfits transform into completely different high-fashion looks.
+
+11–15 sec:
+She reaches a giant LED billboard, looks at it, and the billboard suddenly displays a live video of HER walking toward it creating an impossible visual loop.
+
+Fast-paced editing, extremely realistic Korean woman, natural Korean street environment, premium fashion styling, cinematic night lighting, realistic crowd movement, smooth transformation effects, detailed facial expressions, dynamic camera movement, strong visual hook, surprising ending, polished viral social-media aesthetic, no subtitles, no watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096906803967840616"></a>
 
