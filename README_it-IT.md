@@ -14,7 +14,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**17** Prompt · Ultima aggiunta: **2026-09-09**
+**18** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -454,6 +454,30 @@ Evitare: stile cartone animato, aspetto CGI, pelle di plastica, viso irrealistic
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2097320255139795072"></a>
+
+### Traduzione in corso
+
+Autore：[@johnAGI168](https://x.com/johnAGI168) · [Post originale](https://x.com/johnAGI168/status/2097320255139795072)
+
+Fumetto / Storyboard · Articolo di moda · Pubblicato
+
+Post originale：[@johnAGI168](https://x.com/johnAGI168) · [Post originale](https://x.com/johnAGI168/status/2077395194773672409)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2097320255139795072.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097261787548615064"></a>
 

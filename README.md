@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**17** Prompts · Latest addition: **2026-09-09**
+**18** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -533,6 +533,83 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097320255139795072"></a>
+
+### Detailed storyboard prompt for a POV-perspective phone remotely controlling a girl's outfit changes.
+
+Author：[@johnAGI168](https://x.com/johnAGI168) · [Source](https://x.com/johnAGI168/status/2097320255139795072)
+
+Comic / Storyboard · Fashion Item · Published
+
+Source：[@johnAGI168](https://x.com/johnAGI168) · [Source](https://x.com/johnAGI168/status/2077395194773672409)
+
+**Summary:** Detailed storyboard prompt for a POV-perspective phone remotely controlling a girl's outfit changes.
+
+<img src="covers/2097320255139795072.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Duration: 20 seconds
+Aspect ratio: 9:16
+Overall style: POV boyfriend first-person short drama, realistic handheld mobile phone with subtle breathing shake, transparent indoor natural light, instant outfit changes on phone swipe + click, upbeat sweet romance tempo, vertical screen
+
+[Scene] Bright living room/bedroom, natural light from floor-to-ceiling windows, simple and warm background, clean floor without clutter
+[Characters] Female lead (@Image 1, wearing the character's original outfit at the start); Male lead is POV perspective, face never shown throughout, only a male hand holding a smartphone appearing at the bottom of the frame
+[Props] A modern full-screen smartphone, held vertically. The screen displays a clean and trendy fashion styling app: large preview image at the top, horizontally scrollable clothing cards below. Each swipe has touch-following inertia, and clicking a card triggers a subtle screen zoom + short haptic vibration feedback
+
+SHOT 1 (00:00-00:03.5) Opening Showcase
+Visual: POV, female lead stands in the center of the frame, happily spins half a circle in place to show off her outfit, gently lifting the hem of her clothes with both hands, bright eyes looking at the camera.
+Dialogue: Female lead: "Hubby, how do I look today?"
+Sound Effects: Indoor ambient noise, faint rustling of fabric.
+Constraints: Full body of the female lead in frame, opening outfit = character's original outfit.
+
+SHOT 2 (00:03.5-00:06.5) Taking Out the Phone + First Swipe
+Visual: At the bottom of the frame, male lead's hand raises the phone into view, screen lights up displaying the fashion app. Thumb swipes from right to left across cards, stopping on the card for @Outfit 1, preview image enlarges.
+Dialogue: Male lead (voiceover, lazy): "Not bad. Try this set."
+Sound Effects: Faint friction sound of swiping the screen.
+Constraints: Phone screen is clear and legible, card clearly identifiable as @Outfit 1; male lead only shows his hand, no face revealed.
+
+SHOT 3 (00:06.5-00:09.5) First Click Instant Transformation
+Visual: Thumb taps on the @Outfit 1 card, screen vibrates briefly. On the exact same frame of the click landing, the female lead's outfit instantly changes to @Outfit 1, with standing position, pose, and hairstyle completely continuous; she looks down at the clothes, eyes wide and mouth open, then looks up at the camera.
+Dialogue: Female lead (surprised): "Eh?!"
+Sound Effects: Crisp "beep" + outfit-change "ding", faint sound of fabric unfurling.
+Constraints: Outfit change happens on the exact frame of the click, single-frame instant cut; a soft gentle shimmer sweeping down the body can be added; dissolve transitions, black flashes, and character position jumps are strictly prohibited.
+
+SHOT 4 (00:09.5-00:13) Second Swipe + Click Instant Transformation
+Visual: Thumb swipes left again, card stops at @Outfit 2, taps once. On the same frame, the female lead changes into @Outfit 2; this time she realizes what is happening, cheeks slightly flushed, fingers twisting in front of her, shyly wriggling her body slightly, eyes dodging yet unable to resist looking at the camera.
+Dialogue: Male lead (voiceover): "This set works too."
+Female lead (whispering): "You... are just tapping randomly."
+Sound Effects: Swiping sound + "beep" + "ding", upbeat music gradually swells.
+Constraints: Swipe must clearly show the transition from @Outfit 1 card to @Outfit 2; outfit change remains a hard cut on the exact frame of the click.
+
+SHOT 5 (00:13-00:16.5) Third Swipe + Click Instant Transformation
+Visual: Swipes again to @Outfit 3, taps once. On the same frame changes to @Outfit 3; female lead is now used to it, bites her lower lip slightly, raises her hand to adjust the collar/hemline of the new outfit, looking at the camera with a hint of pride.
+Dialogue: Female lead: "This set... actually looks pretty nice."
+Sound Effects: "Beep" + "ding", music tempo quickens by half a beat.
+Constraints: Progressive three-stage reaction: surprised → shy → proud; subtle body language in each, no standing stiffly allowed.
+
+SHOT 6 (00:16.5-00:20) Fourth Swipe + Click + Outro
+Visual: Final swipe stops at @Outfit 4, thumb taps down. On the same frame, female lead instantly changes to @Outfit 4; she directly bursts into a smile, steps forward closer to the camera, narrowing her eyes mischievously. Phone remains held at the bottom of the frame, screen staying on the @Outfit 4 preview.
+Dialogue: Male lead (voiceover, satisfied): "Decided, this is the one."
+Female lead (smiling close-up, playfully chiding): "You're so bad—I love it!"
+Sound Effects: "Beep" + "ding", music wraps up with a sweet downbeat at the end of the female lead's line.
+Constraints: At the end, female lead steps closer but not excessively in-your-face; phone remains visible at the bottom of the frame throughout; outfit sequence locked: opening = original → @Outfit 1 → @Outfit 2 → @Outfit 3 → @Outfit 4, must not be disordered.
+
+[Director's Ironclad Rules]
+1. Outfit Change Iron Rule: Each outfit change occurs on the exact frame of the "click", a single-frame instant cut. The female lead's standing position, pose, hairstyle, and face shape remain completely continuous across the change frame, only the outfit changes.
+2. POV Iron Rule: Camera = male lead's eyes, subtle handheld breathing shake throughout; male lead only shows his hand + voiceover, showing his face is prohibited.
+3. Phone Iron Rule: Must swipe first then click each time, swiping follows the finger smoothly, card switching is clear; transforming out of thin air or transforming directly without looking at the screen is prohibited.
+4. Outfit References: Opening = @Image 1 original clothes; 1st time = @Outfit 1; 2nd time = @Outfit 2; 3rd time = @Outfit 3; 4th time = @Outfit 4.
+5. Dialogue lip sync must be clear and aligned with the rhythm of the clicks.
+
+Negative: dissolve outfit change, black flash, white flash, smoke, spinning occlusion, character teleportation, discontinuous pose, face shape change, hairstyle change, random shoe changes (unless inherent to the outfit image), showing male lead's face, landscape mode, subtitles, watermark, logo, sudden background changes, multiple people in frame, loose loungewear unless specified by the outfit image, violent camera shake, blurry unreadable phone screen.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097261787548615064"></a>
 

@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**17** Prompts · Dernier ajout: **2026-09-09**
+**18** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -454,6 +454,30 @@ Style visuel : Film de vacances de rêve à Bali, esthétique de marque de voyag
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097320255139795072"></a>
+
+### Traduction en cours
+
+Auteur：[@johnAGI168](https://x.com/johnAGI168) · [Publication originale](https://x.com/johnAGI168/status/2097320255139795072)
+
+Bande dessinée / Storyboard · Article de mode · Publié
+
+Publication originale：[@johnAGI168](https://x.com/johnAGI168) · [Publication originale](https://x.com/johnAGI168/status/2077395194773672409)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097320255139795072.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097261787548615064"></a>
 

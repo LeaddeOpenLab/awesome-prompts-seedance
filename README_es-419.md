@@ -14,7 +14,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**17** Prompts · Última incorporación: **2026-09-09**
+**18** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -454,6 +454,30 @@ Evitar: estilo caricaturesco, aspecto CGI, piel plástica, rostro poco realista,
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2097320255139795072"></a>
+
+### Traducción en curso
+
+Autor：[@johnAGI168](https://x.com/johnAGI168) · [Publicación original](https://x.com/johnAGI168/status/2097320255139795072)
+
+Cómic / Guion gráfico · Artículo de moda · Publicado
+
+Publicación original：[@johnAGI168](https://x.com/johnAGI168) · [Publicación original](https://x.com/johnAGI168/status/2077395194773672409)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097320255139795072.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097261787548615064"></a>
 

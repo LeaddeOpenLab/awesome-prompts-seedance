@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**17** Prompt · Son eklenen: **2026-09-09**
+**18** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -454,6 +454,30 @@ Kaçınılması gerekenler: çizgi film tarzı, CGI görünümü, plastik cilt, 
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097320255139795072"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@johnAGI168](https://x.com/johnAGI168) · [Orijinal gönderi](https://x.com/johnAGI168/status/2097320255139795072)
+
+Çizgi Roman / Hikaye Taslağı · Moda Ürünü · Yayımlandı
+
+Orijinal gönderi：[@johnAGI168](https://x.com/johnAGI168) · [Orijinal gönderi](https://x.com/johnAGI168/status/2077395194773672409)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097320255139795072.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097261787548615064"></a>
 
