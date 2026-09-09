@@ -286,20 +286,40 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2097502400961761425"></a>
 
-### Tradução em curso
+### Cena cinematográfica animada em 3D de um menino e uma cria de dragão branco pérola a brincar num vale de flores tropicais.
 
 Autor：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Publicação original](https://x.com/Zarnab_with_Ai/status/2097502400961761425)
 
 Cena de Cinema / Fotograma · Renderização 3D · Personagem · Animal / Criatura · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Cena cinematográfica animada em 3D de um menino e uma cria de dragão branco pérola a brincar num vale de flores tropicais.
 
 <img src="covers/2097502400961761425.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma cena de fantasia animada em 3D de alta qualidade num estilo cinematográfico e colorido.
+
+Um menino pequenino e adorável com cabelo preto desgrenhado e uma roupa simples de pano bege está sentado a brincar num campo de belas flores ao lado de uma cria amigável de dragão. O dragão é grande, adorável, branco pérola com apontamentos em azul-claro, chifres pequenos, olhos azuis brilhantes expressivos, escamas suaves semelhantes a penas à volta da cabeça e do pescoço, e uma cauda longa e elegante.
+
+A cena passa-se num vale tropical mágico cercado por montanhas verdejantes, água azul-turquesa cristalina, árvores tropicais e um céu azul brilhante com suaves nuvens brancas.
+
+Comece com um grande plano da cria de dragão a dormir pacificamente entre flores vibrantes de cor rosa avermelhada, enquanto o menino está sentado por perto. O dragão abre lentamente os olhos, olha em redor com curiosidade e faz uma expressão engraçada e brincalhona.
+
+Faça a transição para um plano mais aberto onde o dragão e a criança estão rodeados por um campo de belas flores azuis junto à água. O dragão rebola de costas, na brincadeira, pelas flores enquanto a criança observa e ri.
+
+Mostre um plano aéreo cinematográfico e amplo a revelar a bela paisagem tipo ilha, campos floridos, árvores tropicais, montanhas e água azul-turquesa. Pequenos pássaros coloridos voam e saltitam em redor de uma árvore próxima, enquanto a criança e o dragão brincam juntos em baixo.
+
+De seguida, volte a um grande plano da criança sentada nas costas do dragão. O dragão faz expressões faciais engraçadas e travessas enquanto a criança ri alegremente.
+
+Termine com a criança e o adorável dragão deitados pacificamente juntos num enorme prado de flores coloridas, a sorrir e a desfrutar do momento mágico.
+
+Utilize animação fluida das personagens, emoções faciais expressivas, movimento corporal natural, transições de câmara cinematográficas, profundidade de campo reduzida, iluminação volumétrica suave, cores vibrantes, texturas 3D detalhadas, atmosfera mágica e familiar, qualidade cuidada de filme de animação e um tom afetuoso e comovente.
+
+Sem texto, sem legendas, sem marcas de água.
+Proporção de ecrã: 16:9.
+Duração: aproximadamente 15 segundos.
 ```
 
 [↑ Voltar às categorias](#catalog)

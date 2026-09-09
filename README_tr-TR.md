@@ -286,20 +286,40 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2097502400961761425"></a>
 
-### Çeviri sürüyor
+### Tropikal bir çiçek vadisinde oynayan küçük bir erkek çocuğu ve inci beyazı yavru bir ejderhanın 3D animasyonlu sinematik sahnesi.
 
 Yazar：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Orijinal gönderi](https://x.com/Zarnab_with_Ai/status/2097502400961761425)
 
 Sinematik / Film Karesi · 3D Modelleme · Karakter · Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Tropikal bir çiçek vadisinde oynayan küçük bir erkek çocuğu ve inci beyazı yavru bir ejderhanın 3D animasyonlu sinematik sahnesi.
 
 <img src="covers/2097502400961761425.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Renkli, sinematik bir tarzda, yüksek kaliteli bir 3D animasyon fantezi sahnesi oluşturun.
+
+Dağınık siyah saçlı ve sade bej kumaş giysili sevimli küçük bir erkek çocuğu, dost canlısı bir yavru ejderhanın yanında güzel çiçeklerle dolu bir tarlada oturup oynamaktadır. Ejderha büyük, çok sevimli, açık mavi detaylara sahip inci beyazı renginde, küçük boynuzlu, etkileyici parlak mavi gözlü, başı ve boynu çevresinde yumuşak tüy benzeri pullara ve uzun zarif bir kuyruğa sahiptir.
+
+Sahne; yemyeşil dağlar, kristal berraklığında turkuaz sular, tropikal ağaçlar ve yumuşak beyaz bulutlarla kaplı parlak mavi bir gökyüzü ile çevrili büyülü bir tropikal vadide geçmektedir.
+
+Küçük çocuk yakında otururken, canlı pembe-kırmızı çiçeklerin arasında huzur içinde uyuyan yavru ejderhanın yakın çekimiyle başlayın. Ejderha gözlerini yavaşça açar, merakla etrafına bakınır ve sevimli, oyuncu bir yüz ifadesi takınır.
+
+Ejderha ve çocuğun suyun kenarında güzel mavi çiçeklerle dolu bir tarla ile çevrili olduğu daha geniş bir çekime geçin. Çocuk izleyip kahkaha atarken ejderha çiçeklerin arasında oyuncu bir şekilde geriye doğru yuvarlanır.
+
+Güzel ada benzeri manzarayı, çiçek açmış tarlaları, tropikal ağaçları, dağları ve turkuaz suyu gözler önüne seren sinematik bir havadan geniş çekim gösterin. Çocuk ve ejderha aşağıda birlikte oynarken, renkli küçük kuşlar yakındaki bir ağacın etrafında uçar ve zıplar.
+
+Ardından çocuğun ejderhanın sırtında oturduğu bir yakın çekime geri dönün. Çocuk neşeyle gülerken ejderha komik, oyuncu yüz ifadeleri yapar.
+
+Çocuk ve sevimli ejderhanın rengarenk devasa bir çiçek çayırında birlikte huzur içinde yattığı, gülümseyerek bu büyülü anın tadını çıkardığı bir sahneyle sonlandırın.
+
+Pürüzsüz karakter animasyonu, etkileyici yüz ifadeleri, doğal vücut hareketleri, sinematik kamera geçişleri, sığ alan derinliği, yumuşak hacimsel aydınlatma, canlı renkler, ayrıntılı 3D dokular, büyülü ve aile dostu bir atmosfer, kaliteli animasyon filmi seviyesi ve iç ısıtan sıcak bir ton kullanın.
+
+Metin yok, altyazı yok, filigran yok.
+En boy oranı: 16:9.
+Süre: yaklaşık 15 saniye.
 ```
 
 [↑ Kategorilere dön](#catalog)
