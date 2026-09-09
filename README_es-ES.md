@@ -14,7 +14,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**27** Prompts · Última incorporación: **2026-09-09**
+**28** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -168,6 +168,28 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2097502400961761425"></a>
+
+### Traducción en curso
+
+Autor：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Publicación original](https://x.com/Zarnab_with_Ai/status/2097502400961761425)
+
+Cine / Fotograma de película · Render 3D · Personaje · Animal / Criatura · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097502400961761425.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2096826123330138410"></a>
 

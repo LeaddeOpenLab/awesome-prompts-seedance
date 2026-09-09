@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**27** Prompt · Son eklenen: **2026-09-09**
+**28** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -168,6 +168,28 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2097502400961761425"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Orijinal gönderi](https://x.com/Zarnab_with_Ai/status/2097502400961761425)
+
+Sinematik / Film Karesi · 3D Modelleme · Karakter · Hayvan / Yaratık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097502400961761425.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2096826123330138410"></a>
 

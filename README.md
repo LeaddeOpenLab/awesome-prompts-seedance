@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**27** Prompts · Latest addition: **2026-09-09**
+**28** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -338,6 +338,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097502400961761425"></a>
+
+### 3D animated cinematic scene of a toddler boy and a pearly white baby dragon playing in a tropical flower valley.
+
+Author：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Source](https://x.com/Zarnab_with_Ai/status/2097502400961761425)
+
+Cinematic / Film Still · 3D Render · Character · Animal / Creature · Published
+
+**Summary:** 3D animated cinematic scene of a toddler boy and a pearly white baby dragon playing in a tropical flower valley.
+
+<img src="covers/2097502400961761425.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a high-quality 3D animated fantasy scene in a colorful, cinematic style.\n\nA cute little toddler boy with messy black hair and a simple beige cloth outfit is sitting and playing among a field of beautiful flowers beside a friendly baby dragon. The dragon is large, adorable, pearly white with light blue accents, small horns, expressive bright blue eyes, soft feather-like scales around its head and neck, and a long elegant tail.\n\nThe scene takes place in a magical tropical valley surrounded by lush green mountains, crystal-clear turquoise water, tropical trees, and a bright blue sky with soft white clouds.\n\nStart with a close-up shot of the sleeping baby dragon peacefully resting among vibrant pink-red flowers while the little boy sits nearby. The dragon slowly opens its eyes, looks around curiously, and makes a cute playful expression.\n\nTransition to a wider shot where the dragon and child are surrounded by a field of beautiful blue flowers near the water. The dragon playfully rolls backward through the flowers while the child watches and laughs.\n\nShow a cinematic aerial wide shot revealing the beautiful island-like landscape, flowering fields, tropical trees, mountains, and turquoise water. Colorful small birds fly and hop around a nearby tree while the child and dragon play together below.\n\nThen return to a close-up of the child sitting on the dragon's back. The dragon makes funny, playful facial expressions as the child laughs happily.\n\nEnd with the child and the adorable dragon lying peacefully together in a huge colorful flower meadow, smiling and enjoying the magical moment.\n\nUse smooth character animation, expressive facial emotions, natural body movement, cinematic camera transitions, shallow depth of field, soft volumetric lighting, vibrant colors, detailed 3D textures, magical family-friendly atmosphere, polished animated-movie quality, and a warm heartwarming tone.\n\nNo text, no subtitles, no watermark.\nAspect ratio: 16:9.\nDuration: approximately 15 seconds.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096826123330138410"></a>
 
