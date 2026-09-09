@@ -14,7 +14,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**23** 件 · 最新の追加: **2026-09-09**
+**24** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -611,6 +611,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2097194787564658942"></a>
+
+### 翻訳中
+
+作者：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [元の投稿](https://x.com/ayzalnooor24521/status/2097194787564658942)
+
+その他 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2097194787564658942.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2097320255139795072"></a>
 

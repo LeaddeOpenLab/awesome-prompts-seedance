@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**23** Prompts · Latest addition: **2026-09-09**
+**24** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1069,6 +1069,28 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097194787564658942"></a>
+
+### 30-second luxury jewelry commercial featuring a morning bedroom unboxing and a sparkling blue gemstone set.
+
+Author：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Source](https://x.com/ayzalnooor24521/status/2097194787564658942)
+
+Other · Published
+
+**Summary:** 30-second luxury jewelry commercial featuring a morning bedroom unboxing and a sparkling blue gemstone set.
+
+<img src="covers/2097194787564658942.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Created a 30-second cinematic luxury jewelry advertisement video in a warm and elegant style. The video opens with a beautifully decorated bedroom, soft morning sunlight, and a premium jewelry gift box placed on a wooden table. A woman gently picks up the elegant box, creating a delicate and emotional unboxing moment. The camera moves into cinematic close-up shots of her face and hands as she reveals the jewelry. A sparkling blue gemstone pendant is shown in detailed macro shots with soft golden lighting. She wears the necklace gracefully, highlighting its elegant design and luxurious shine. The scene continues with a peaceful morning moment near the window, holding a cup in warm sunlight. Close-up shots capture the pendant sparkling naturally against her skin with realistic shadows and reflections. The video ends with a premium jewelry box displaying the complete matching jewelry set. Soft cinematic lighting, warm golden tones, luxury commercial aesthetic, smooth camera movements, shallow depth of field, photorealistic details, 9:16 vertical format.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097320255139795072"></a>
 
