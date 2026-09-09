@@ -772,20 +772,20 @@ Originalbeitrag：[@johnAGI168](https://x.com/johnAGI168) · [Originalbeitrag](h
 
 <a name="prompt-2097261787548615064"></a>
 
-### Übersetzung läuft
+### Ein 3-Szenen-Prompt für einen hochwertigen Hautpflege-Werbespot, der die COSRX Schneckenschleim-Essenz mit Makroaufnahmen, zähflüssig tropfender Textur und Studiobeleuchtung in Szene setzt.
 
 Autor：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Originalbeitrag](https://x.com/AvelyrahnAI/status/2097261787548615064)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein 3-Szenen-Prompt für einen hochwertigen Hautpflege-Werbespot, der die COSRX Schneckenschleim-Essenz mit Makroaufnahmen, zähflüssig tropfender Textur und Studiobeleuchtung in Szene setzt.
 
 <img src="covers/2097261787548615064.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Szene 1: Filmische Makroaufnahme einer Flasche COSRX Advanced Snail 96 Mucin Power Essence auf einer eleganten Glasoberfläche, umgeben von wogendem, ätherischem weißem Rauch und schwebenden, kristallklaren Wassertropfen, warmes Beige und sanftes goldenes Studiolicht, 4k-Auflösung, fotorealistisch.\n\nSzene 2: Dynamischer Nahaufnahmen-Übergang, während dicke, glänzende, zähflüssige Schneckenschleim-Essenz langsam von oben auf die reflektierende Glasoberfläche neben der Flasche tropft und sich dehnt, wodurch sich kräuselnde Mikrotropfen entstehen, elegante und luxuriöse Ästhetik, hyperdetaillierte Texturen.\n\nSzene 3: Sanfte Kamerafahrt nach vorne mit scharfem Fokus auf das Produktetikett, während sanftes Licht über die Glasflasche schimmert und eine letzte Welle in der sich am Boden sammelnden Essenz zur Ruhe kommt, minimalistischer und erstklassiger Werbelook.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -772,20 +772,20 @@ Traduzione in corso
 
 <a name="prompt-2097261787548615064"></a>
 
-### Traduzione in corso
+### Un prompt per uno spot di skincare di fascia alta in 3 scene che mostra l'essenza di bava di lumaca COSRX con riprese macro, texture viscosa che gocciola e illuminazione da studio.
 
 Autore：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Post originale](https://x.com/AvelyrahnAI/status/2097261787548615064)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt per uno spot di skincare di fascia alta in 3 scene che mostra l'essenza di bava di lumaca COSRX con riprese macro, texture viscosa che gocciola e illuminazione da studio.
 
 <img src="covers/2097261787548615064.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Scena 1: Macro cinematografica di un flacone di COSRX Advanced Snail 96 Mucin Power Essence posizionato su un'elegante superficie di vetro, circondato da etereo fumo bianco fluttuante e goccioline d'acqua cristalline sospese, illuminazione da studio beige calda e dorata morbida, risoluzione 4k, fotorealistica.\n\nScena 2: Transizione dinamica in primo piano mentre la densa, lucida e viscosa essenza di bava di lumaca gocciola lentamente e si allunga dall'alto sulla superficie riflettente di vetro accanto al flacone, creando micro-goccioline increspate, estetica elegante e lussuosa, texture iper-dettagliate.\n\nScena 3: Delicato avvicinamento della fotocamera con messa a fuoco nitida sull'etichetta del prodotto mentre una luce soffusa brilla attraverso la bottiglia di vetro e un'ultima increspatura si placa nell'essenza raccolta in basso, look commerciale minimalista e di fascia alta.
 ```
 
 [↑ Torna alle categorie](#catalog)

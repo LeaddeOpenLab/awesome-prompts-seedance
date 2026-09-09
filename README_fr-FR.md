@@ -772,20 +772,20 @@ Traduction en cours
 
 <a name="prompt-2097261787548615064"></a>
 
-### Traduction en cours
+### Un prompt pour une publicité de soins haut de gamme en 3 scènes mettant en valeur l'essence de mucine d'escargot COSRX avec des plans macro, une texture visqueuse qui s'égoutte et un éclairage de studio.
 
 Auteur：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Publication originale](https://x.com/AvelyrahnAI/status/2097261787548615064)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt pour une publicité de soins haut de gamme en 3 scènes mettant en valeur l'essence de mucine d'escargot COSRX avec des plans macro, une texture visqueuse qui s'égoutte et un éclairage de studio.
 
 <img src="covers/2097261787548615064.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Scène 1 : Plan macro cinématographique d'un flacon de COSRX Advanced Snail 96 Mucin Power Essence posé sur une surface en verre épurée, entouré d'une fumée blanche vaporeuse et éthérée et de gouttes d'eau cristallines flottantes, éclairage de studio beige chaud et doré doux, résolution 4k, photoréaliste.\n\nScène 2 : Transition dynamique en gros plan alors que l'essence de mucine d'escargot, épaisse, brillante et visqueuse, s'étire et s'égoutte lentement depuis le haut sur la surface réfléchissante en verre à côté du flacon, créant des micro-gouttelettes ondulantes, esthétique élégante et luxueuse, textures hyper-détaillées.\n\nScène 3 : Léger travelling avant de la caméra avec une mise au point nette sur l'étiquette du produit tandis qu'une douce lumière scintille à travers le flacon en verre et qu'une dernière ondulation s'apaise dans l'essence accumulée en dessous, look publicitaire minimaliste et haut de gamme.
 ```
 
 [↑ Retour aux catégories](#catalog)

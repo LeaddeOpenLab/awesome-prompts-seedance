@@ -782,20 +782,24 @@ Bài gốc：[@johnAGI168](https://x.com/johnAGI168) · [Bài gốc](https://x.c
 
 <a name="prompt-2097261787548615064"></a>
 
-### Đang dịch
+### Lời nhắc quảng cáo sản phẩm chăm sóc da cao cấp gồm 3 cảnh giới thiệu tinh chất ốc sên COSRX với các góc quay macro, kết cấu nhỏ giọt sánh dẻo và ánh sáng studio.
 
 Tác giả：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Bài gốc](https://x.com/AvelyrahnAI/status/2097261787548615064)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc quảng cáo sản phẩm chăm sóc da cao cấp gồm 3 cảnh giới thiệu tinh chất ốc sên COSRX với các góc quay macro, kết cấu nhỏ giọt sánh dẻo và ánh sáng studio.
 
 <img src="covers/2097261787548615064.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cảnh 1: Cú máy macro đậm chất điện ảnh chụp chai COSRX Advanced Snail 96 Mucin Power Essence đứng trên bề mặt kính bóng bẩy, bao quanh bởi làn khói trắng huyền ảo cuộn bay và những giọt nước trong vắt lơ lửng, ánh sáng studio màu be ấm và vàng dịu, độ phân giải 4k, chân thực như ảnh chụp.
+
+Cảnh 2: Chuyển cảnh cận cảnh sống động khi tinh chất dịch ốc sên đậm đặc, bóng bẩy, sánh dẻo từ từ nhỏ giọt và kéo sợi từ trên xuống bề mặt kính phản chiếu cạnh thân chai, tạo nên những gợn sóng hạt nước vi mô, thẩm mỹ thanh lịch và sang trọng, kết cấu siêu chi tiết.
+
+Cảnh 3: Máy quay nhẹ nhàng tiến lại gần (push-in) lấy nét sắc nét vào nhãn sản phẩm khi ánh sáng dịu lấp lánh trên thân chai thủy tinh và gợn sóng cuối cùng lắng xuống trong vũng tinh chất bên dưới, diện mạo quảng cáo thương mại tối giản và cao cấp.
 ```
 
 [↑ Về danh mục](#catalog)

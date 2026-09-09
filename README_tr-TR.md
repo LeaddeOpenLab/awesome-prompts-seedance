@@ -758,20 +758,20 @@ Orijinal gönderi：[@johnAGI168](https://x.com/johnAGI168) · [Orijinal gönder
 
 <a name="prompt-2097261787548615064"></a>
 
-### Çeviri sürüyor
+### COSRX salyangoz müsini esansını makro çekimler, viskoz damlama dokusu ve stüdyo aydınlatmasıyla sergileyen 3 sahnelik üst düzey bir cilt bakımı reklamı prompt'u.
 
 Yazar：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Orijinal gönderi](https://x.com/AvelyrahnAI/status/2097261787548615064)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** COSRX salyangoz müsini esansını makro çekimler, viskoz damlama dokusu ve stüdyo aydınlatmasıyla sergileyen 3 sahnelik üst düzey bir cilt bakımı reklamı prompt'u.
 
 <img src="covers/2097261787548615064.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sahne 1: Şık bir cam yüzey üzerinde duran COSRX Advanced Snail 96 Mucin Power Essence şişesinin sinematik makro çekimi, etrafında dalgalanan ruhani beyaz duman ve süzülen kristal berraklığında su damlacıkları, sıcak bej ve yumuşak altın tonlarında stüdyo aydınlatması, 4k çözünürlük, fotogerçekçi.\n\nSahne 2: Kalın, parlak ve viskoz salyangoz müsini esansının yukarıdan şişenin yanındaki yansıtıcı cam yüzeye yavaşça damlayıp uzamasıyla dalgalanan mikro damlacıklar oluşturan dinamik yakın çekim geçişi, zarif ve lüks estetik, aşırı ayrıntılı dokular.\n\nSahne 3: Yumuşak bir ışık cam şişe üzerinde parıldarken ve son bir dalgalanma alttaki biriken esansta durulurken ürün etiketine net bir şekilde odaklanan yumuşak kamera yaklaşması, minimalist ve üst düzey reklam görünümü.
 ```
 
 [↑ Kategorilere dön](#catalog)

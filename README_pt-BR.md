@@ -758,20 +758,20 @@ Tradução em andamento
 
 <a name="prompt-2097261787548615064"></a>
 
-### Tradução em andamento
+### Um prompt comercial de skincare de alto padrão em 3 cenas destacando a essência de mucina de caracol COSRX com tomadas macro, textura viscosa gotejante e iluminação de estúdio.
 
 Autor：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Publicação original](https://x.com/AvelyrahnAI/status/2097261787548615064)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um prompt comercial de skincare de alto padrão em 3 cenas destacando a essência de mucina de caracol COSRX com tomadas macro, textura viscosa gotejante e iluminação de estúdio.
 
 <img src="covers/2097261787548615064.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Cena 1: Tomada macro cinematográfica de um frasco de COSRX Advanced Snail 96 Mucin Power Essence sobre uma superfície de vidro elegante, cercado por uma fumaça branca etérea ondulante e gotas de água cristalinas flutuantes, iluminação de estúdio em bege quente e dourado suave, resolução 4k, fotorrealista.\n\nCena 2: Transição dinâmica em close-up enquanto a essência de mucina de caracol espessa, brilhante e viscosa pinga lentamente e se estica do alto sobre a superfície reflexiva de vidro ao lado do frasco, criando microgotas ondulantes, estética elegante e luxuosa, texturas hiperdetalhadas.\n\nCena 3: Suave aproximação da câmera focando nitidamente o rótulo do produto enquanto uma luz suave brilha através do frasco de vidro e uma ondulação final se acomoda na essência acumulada abaixo, visual comercial minimalista e de alto padrão.
 ```
 
 [↑ Voltar às categorias](#catalog)
