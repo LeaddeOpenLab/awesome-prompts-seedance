@@ -30,20 +30,51 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2096930655615758734"></a>
 
-### Đang dịch
+### Lời nhắc video UGC siêu thực 30 giây: Người phụ nữ trẻ Hàn Quốc cầm máy quay vlog thường nhật trong phòng ngủ, khoe máy ảnh mới mua và trò chuyện tự nhiên.
 
 Tác giả：[@AIwithkhan](https://x.com/AIwithkhan) · [Bài gốc](https://x.com/AIwithkhan/status/2096930655615758734)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video UGC siêu thực 30 giây: Người phụ nữ trẻ Hàn Quốc cầm máy quay vlog thường nhật trong phòng ngủ, khoe máy ảnh mới mua và trò chuyện tự nhiên.
 
 <img src="covers/2096930655615758734.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video UGC siêu thực tế 30 giây, 1080p về một phụ nữ trẻ người Hàn Quốc trong phòng ngủ của chính mình, đang trò chuyện một cách tự nhiên với máy quay về chiếc máy ảnh mới mà cô vừa mua gần đây.
+NHÂN VẬT CHÍNH
+Phụ nữ trẻ người Hàn Quốc ở độ tuổi đầu 20, vẻ đẹp tự nhiên, kết cấu da chân thực, trang điểm tối giản, mái tóc đen gợn sóng buộc lệch lỏng lẻo một cách tự nhiên với vài lọn tóc buông lơi quanh khuôn mặt. Mặc một chiếc áo ngắn vừa vặn màu xanh pastel, quần rộng kiểu đồ ngủ màu kem và một chiếc vòng cổ bạc đơn giản.
+Duy trì nhất quán đặc điểm khuôn mặt, kiểu tóc, trang phục, tỷ lệ cơ thể và diện mạo tổng thể của cô ấy trong suốt toàn bộ video.
+BỐI CẢNH
+Phòng ngủ ấm cúng của chính cô trong một căn hộ Hàn Quốc bình thường vào một buổi sáng thứ Hai ấm áp. Cô đang ngồi thoải mái trên giường với bộ ga trải giường màu trắng hơi nhàu, một chiếc gối phía sau, một chiếc bàn đầu giường nhỏ, vài vật dụng cá nhân hàng ngày và ánh nắng tự nhiên dịu nhẹ chiếu qua cửa sổ.
+Căn phòng nên mang lại cảm giác có người ở thực tế và chân thực, không được dàn dựng hay sang trọng.
+PHONG CÁCH UGC
+Cô ấy tự cầm máy quay hoặc máy được đặt hờ trên giường trước mặt cô. Bố cục hơi không hoàn hảo, với chuyển động cầm tay tự nhiên, các điều chỉnh lấy nét tự động nhỏ và thỉnh thoảng có sự thay đổi độ phơi sáng.
+Video nên tạo cảm giác như một vlog cá nhân chân thật được quay cho người theo dõi của cô ấy, không phải là một quảng cáo bóng bẩy.
+HÀNH ĐỘNG / LỜI THOẠI
+Cô ngồi khoanh chân trên giường, nhìn vào ống kính và mỉm cười.
+Cô nói một cách tự nhiên:
+“Okay, I finally got this camera I’ve been talking about.”
+Cô cười khẽ và nhấc máy ảnh lên để khoe một chút.
+“I’ve only had it for like two days, but I already bring it everywhere.”
+Cô đặt nó xuống lại và dựa vào gối.
+“I wanted something that feels a little more personal than just using my phone.”
+Cô nhìn quanh phòng, rồi nhìn lại vào ống kính.
+“The footage has this old-school look that I really love. It kind of feels like I’m recording memories instead of just posting videos.”
+Cô mỉm cười và vén một lọn tóc buông lơi ra sau tai.
+Gần cuối, cô liếc nhìn đồng hồ, cười và nói:
+“Anyway, it’s Monday, I should probably get out of bed.”
+Cô đưa tay về phía máy quay như thể chuẩn bị dừng quay, mỉm cười tự nhiên, và video dừng lại giữa chừng chuyển động.
+MÁY QUAY / HÌNH ẢNH
+UGC chân thực với cảm giác tinh tế lấy cảm hứng từ máy quay DV đầu những năm 2000: chi tiết kỹ thuật số dịu nhẹ, nhiễu hạt hình ảnh nhẹ, hiện tượng tìm nét tự động nhẹ, kết cấu da tự nhiên và ánh sáng buổi sáng ấm áp. Không có ánh sáng kịch tính hay các chuyển động máy quay mang tính điện ảnh.
+ÂM THANH
+Chỉ có âm thanh môi trường tự nhiên của phòng ngủ, giọng nói của cô, tiếng sột soạt nhẹ của vải, âm thanh khu phố xa xăm và tiếng động nhẹ khi cầm máy. Không có âm nhạc, không có thuyết minh.
+CẢM XÚC CUỐI CÙNG
+Nội dung của người sáng tạo phong cách sống Hàn Quốc thư thái. Ấm áp, nữ tính, gần gũi và đáng tin cậy, giống như một vlog sáng thứ Hai ngẫu hứng được quay trong phòng riêng của cô ấy.
+TIÊU CỰC (NEGATIVE)
+Không diễn xuất thương mại, không ánh sáng studio hoàn hảo, không tạo dáng influencer dàn dựng, không thay đổi nhận diện gương mặt, không thay đổi trang phục, không méo tay, không thừa ngón tay, không phụ đề, logo, hình mờ hoặc lỗi nhân tạo AI.
 ```
 
 [↑ Về danh mục](#catalog)
