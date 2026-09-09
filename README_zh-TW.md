@@ -14,7 +14,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**26** 筆內容 · 最新收錄: **2026-09-09**
+**27** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2096930655615758734"></a>
+
+### 翻譯中
+
+作者：[@AIwithkhan](https://x.com/AIwithkhan) · [查看 X 原帖](https://x.com/AIwithkhan/status/2096930655615758734)
+
+攝影 · 角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2096930655615758734.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2096931238460178592"></a>
 
