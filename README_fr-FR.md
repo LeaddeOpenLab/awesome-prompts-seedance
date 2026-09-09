@@ -14,13 +14,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**18** Prompts · Dernier ajout: **2026-09-09**
+**19** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Cyberpunk / Science-fiction](#category-cyberpunk-sci-fi) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -478,6 +478,34 @@ Style de caméra : Cinématographie authentique de vlog de voyage, tremblement r
 Style visuel : Film de vacances de rêve à Bali, esthétique de marque de voyage haut de gamme, douce lumière dorée du soleil, texture de peau réaliste, faible profondeur de champ cinématographique, aspect rétro nostalgique de film 35 mm, tons chauds et atmosphériques, expressions naturelles et spontanées, narration émouvante.
 
 À éviter : style dessin animé, aspect images de synthèse (CGI), peau d'aspect plastique, visage irréaliste, apparence incohérente du personnage, coiffure changeante, doigts supplémentaires, corps déformé, éclairage artificiel, couleurs sursaturées, visage flou, mouvements anormaux, personnes en double.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Cyberpunk / Science-fiction
+
+<a name="prompt-2097330853588402541"></a>
+
+### Traduction en cours
+
+Auteur：[@TanLuAI](https://x.com/TanLuAI) · [Publication originale](https://x.com/TanLuAI/status/2097330853588402541)
+
+Bande dessinée / Storyboard · Cyberpunk / Science-fiction · Personnage · Publié
+
+Publication originale：[@TanLuAI](https://x.com/TanLuAI) · [Publication originale](https://x.com/TanLuAI/status/2096586474645004331)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097330853588402541.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

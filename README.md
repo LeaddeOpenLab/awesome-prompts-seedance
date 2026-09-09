@@ -14,13 +14,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**18** Prompts · Latest addition: **2026-09-09**
+**19** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -524,6 +524,41 @@ Camera Style: Authentic travel vlog cinematography, handheld camera shake, smoot
 Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
 
 Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Cyberpunk / Sci-Fi
+
+<a name="prompt-2097330853588402541"></a>
+
+### Storyboard prompt for a cyber-wuxia rainy night showdown where a woman in red strikes the soul out of a mechanical giant's physical body.
+
+Author：[@TanLuAI](https://x.com/TanLuAI) · [Source](https://x.com/TanLuAI/status/2097330853588402541)
+
+Comic / Storyboard · Cyberpunk / Sci-Fi · Character · Published
+
+Source：[@TanLuAI](https://x.com/TanLuAI) · [Source](https://x.com/TanLuAI/status/2096586474645004331)
+
+**Summary:** Storyboard prompt for a cyber-wuxia rainy night showdown where a woman in red strikes the soul out of a mechanical giant's physical body.
+
+<img src="covers/2097330853588402541.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] Live-action realistic cinematic style, a fusion of cyber-wuxia and neo-noir. Low-saturation cold-iron rainy night; texture contrast created between deep red fabric, damp black robes, and mechanical prosthetics. Torrential downpour, ground-level volumetric fog, wet flagstone reflections, with lighting featuring strong chiaroscuro depth. Internal energy (Neili) and the spirit body both utilize colorless transparent refraction, with no colored energy, glowing outlines, light orbs, or halos. Only ambient and action sound effects; no melodic background music, dialogue, or voiceover. [Duration] 15 seconds, 16:9 widescreen. 
+[Characters & Setting] Red-clad woman @ca34fb78-722b-4e56-8e1f-bc4d2e0f5b56 wearing red short cloth shoes. A 2.5-meter giant @a92d0332-132f-4b88-864f-00f4dd75d724 with a topknot hair bun, beard, black long robe, and dual mechanical arms, imposing build, about three heads taller than the woman. Woman on the left, giant on the right, separated by an arm's length, leaving room behind the giant for the spirit separation. Throughout the entire sequence: the same street, the same intensity of rain, and stable architecture. 
+[00:00—00:03 | Shot 01: Standoff in the Rain, Sinking Stance and Preparing the Palm] 65mm medium shot, slowly tracking horizontally from behind the red-clad woman's shoulder, revealing both profiles and their height difference. The mechanical umbrella canopy occupies the upper frame, with rain dripping in strings along the umbrella's edge. The giant is on the right, stepping half a pace closer, boot soles splashing through standing water, looking down intimidatingly at the woman; the mechanical hand at his hip slowly clenches, preparing to touch the woman's shoulder. The woman tosses the umbrella vertically high into the air; the umbrella leaves her hands and suspends motionlessly high up. Left foot forward bearing weight, right foot behind, knees slightly bent, center of gravity sinking softly; right hand opens into a palm at her waist, right elbow tucked close to her body. At the end of the shot, as the giant just begins raising his right mechanical arm, the ball of the woman's right foot simultaneously pushes off the ground, connecting to the next shot. Sound effects: dense rain, splashing footsteps, deep low-pitched friction of mechanical joints. 
+[00:03—00:06 | Shot 02: Palm Strikes, Physical Body and Astral Body Begin to Misalign] Cut to a low-angle side-front shot, 40mm medium full shot, clearly capturing the woman's footwork, waist-hip turn, and the point of palm contact. The woman's rear foot pushes off the ground, right hip rotating forward, core driving the right shoulder and right elbow as the right palm thrusts violently from the hip along the shortest trajectory, the base of the palm accurately striking the center of the giant's sternum. First portray realistic force reception: the black robe at the chest caves inward, wrinkles radiating toward shoulders and waist; the giant's ribcage retreats, shoulders splay open, head tilts back with a slight delay, mechanical arm motion abruptly cut off. Both feet remain on the ground, soles merely sliding back a few centimeters, pushing aside shallow streaks of water. The woman's front leg firmly bears weight, right elbow slightly flexed, palm remaining against the chest for a brief beat, red sleeves and long hair carrying half a beat of forward swing. Rain streaks around the point of contact briefly bend, water droplets scatter sideways, and the background red pillars show localized transparent refraction, without flashes. Time briefly slows after the hit; the giant's physical eyes lose focus, and a transparent outline misalignment of a few centimeters appears behind his neck and shoulders, like another layer of his body continuing backward along the inertia of the impact. Sound effects: sleeve cutting through the wind, a solid and dull palm strike impact, rain sound suddenly muffled before gradually returning. 
+[00:06—00:09 | Shot 03: Continuous Astral Separation, Hovering Behind] 50mm profile medium full shot, camera slowly tracking sideways and pulling back, viewing both the physical body and the spirit body simultaneously. The giant's physical body maintains a bent-knee backward lean with feet planted, while the spirit body continuously slides out from within him toward the upper rear: chest cavity and shoulder lines misalign first, head and facial features emerge next, two mechanical arms detach in sequence, and waist, abdomen, legs, and robe hem separate last. The spirit body fully inherits the giant's face, beard, topknot, black robe, and mechanical arm structure, possessing clear volume and detail, entirely colorless and translucent. Through the spirit body, one can see the subtly refracted inn and rain streaks—neither an abrupt duplicate clone nor white smoke. A colorless transparent membrane briefly stretches between the two, thinning and breaking as the distance increases, the refraction receding and fading along body contours. The spirit body slows and hovers roughly seventy centimeters behind the physical body and forty centimeters elevated, feet off the ground, robe hem and arms swinging for another half-beat. The woman pulls back her right palm; the umbrella remains hovering in midair. At the end of the shot, normal speed resumes; raindrops strike the physical body but pass straight through the spirit body. Sound effects: deep air compression, faint rustling of fabric and metal, normal rain sounds gradually restoring. 
+[00:09—00:12 | Shot 04: Looking Down at Hands, Discovering the Physical Body Below] Cut to an 85mm medium close-up; the giant's physical head and shoulders are slightly out of focus in the lower-left foreground, while the spirit body is in the upper-right rear, focus locked onto the spirit body's eyes and hands. Background shows the same red pillars of the inn, hazy lanterns, and rain streaks. The spirit body's brow furrows tightly, raising both transparent mechanical hands to his chest, palms facing inward toward himself, mechanical knuckles slowly flexing and extending once. Internal hand structures are complete, yet the background is visible through the palms. He stares at his hands first, then glances down to see his own physical body below; his eyes widen abruptly, lips part slightly, expression transforming from confusion to pure shock. The spirit body drifts only slightly, without bouncing up or down. He then hesitatingly reaches his right hand out toward the back of the physical head, shoulder leaning forward, elbow unfolding gradually. At the shot's end, the transparent fingertips just graze the physical wet hair, generating a subtle colorless refraction at the point of contact. Sound effects: rainfall, dripping eaves, distant pipe steam hiss; no ghostly shrieks or music. 
+[00:12—00:15 | Shot 05: Hand Passing Through Head, Realizing Out-of-Body Experience] Cut to a front-side close-up, maintaining physical body in lower front and spirit body in upper rear. Camera slightly tracks sideways, clearly depicting the spirit body's right hand entering from the back of the physical head, fingers and palm passing through sequentially without resistance, fingertips emerging beside the front cheek of the physical body. The physical hair and skin remain intact without holes or damage, showing no pain reaction. The penetration boundaries exhibit only close-fitting colorless refraction, sealing naturally as the hand moves. The spirit body's arm remains connected to the shoulder behind, without disconnection or dislocation. The spirit body stares at the hand emerging through, freezing briefly, slowly closing the mechanical fingers and reopening them, realizing he cannot touch himself. Focus pulls back from the transparent palm to his astonished eyes, his gaze turning toward the woman. Camera gently pulls back, bringing the woman's red sleeve and dripping umbrella edge into the left border; she remains completely calm. Ends on the tableau of 'dazed physical body, hovering spirit body, woman holding the umbrella'. Sound effects: gentle air disturbance, persistent rain, water dripping from the umbrella rim. 
+[Visual Constraints] Astral separation occurs only after the palm strike lands; the physical body remains near the spot, with only the spirit body drifting toward the upper rear. Only one physical giant body and one corresponding spirit body throughout. All internal energy and spirit effects are colorless, transparent, and non-luminescent. Maintain consistency in character appearance, mechanical structures, clothing, scene, and light sources. No subtitles, no legible text, no watermarks, no colored special effects.
 ```
 
 [↑ Back to categories](#catalog)

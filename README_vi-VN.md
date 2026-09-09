@@ -14,13 +14,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**18** Prompt · Bổ sung mới nhất: **2026-09-09**
+**19** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -488,6 +488,34 @@ Phong cách máy quay: Kỹ thuật quay phim travel vlog chân thực, độ ru
 Phong cách hình ảnh: Thước phim kỳ nghỉ Bali mơ màng, thẩm mỹ thương hiệu du lịch cao cấp, ánh nắng vàng dịu, kết cấu da chân thực, độ sâu trường ảnh nông đậm chất điện ảnh, vẻ hoài niệm của phim 35mm, tông màu khí quyển ấm áp, biểu cảm tự nhiên không theo kịch bản, lối kể chuyện giàu cảm xúc.
 
 Tránh: phong cách hoạt hình, giao diện CGI, da nhựa, khuôn mặt phi thực tế, ngoại hình nhân vật không nhất quán, thay đổi kiểu tóc, thừa ngón tay, cơ thể biến dạng, ánh sáng nhân tạo, màu sắc quá bão hòa, mặt mờ, chuyển động không tự nhiên, người trùng lặp.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Cyberpunk / Khoa học viễn tưởng
+
+<a name="prompt-2097330853588402541"></a>
+
+### Đang dịch
+
+Tác giả：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/TanLuAI/status/2097330853588402541)
+
+Truyện tranh / Bảng phân cảnh · Cyberpunk / Khoa học viễn tưởng · Nhân vật · Đã xuất bản
+
+Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/TanLuAI/status/2096586474645004331)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097330853588402541.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

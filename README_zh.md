@@ -14,13 +14,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**18** 条内容 · 最新收录: **2026-09-09**
+**19** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [赛博朋克 / 科幻](#category-cyberpunk-sci-fi) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -486,6 +486,34 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 视觉风格：梦幻巴厘岛度假影片，精品旅行品牌美学，柔和的金色阳光，逼真的皮肤质感，电影级浅景深，怀旧35毫米胶片质感，温暖的氛围色调，自然无剧本的真情流露，富有感染力的叙事感。
 
 避免：卡通风格，CGI外观，塑料假皮，不真实的脸部，角色外观不一致，变换发型，多余手指，扭曲身体，人造假光，过度饱和的色彩，模糊的面容，不自然的动作，重复出现的人物。
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## 赛博朋克 / 科幻
+
+<a name="prompt-2097330853588402541"></a>
+
+### 翻译中
+
+作者：[@TanLuAI](https://x.com/TanLuAI) · [查看 X 原帖](https://x.com/TanLuAI/status/2097330853588402541)
+
+漫画 / 故事板 · 赛博朋克 / 科幻 · 角色 · 已推流
+
+查看 X 原帖：[@TanLuAI](https://x.com/TanLuAI) · [查看 X 原帖](https://x.com/TanLuAI/status/2096586474645004331)
+
+**概括:** 翻译中
+
+<img src="covers/2097330853588402541.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)

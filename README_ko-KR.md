@@ -14,13 +14,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**18** 개 · 최근 추가: **2026-09-09**
+**19** 개 · 최근 추가: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [사이버펑크 / SF](#category-cyberpunk-sci-fi) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -488,6 +488,34 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 비주얼 스타일: 몽환적인 발리 휴가 영상, 부티크 여행 브랜드 감성, 부드러운 황금빛 햇살, 사실적인 피부 질감, 시네마틱한 얕은 심도, 향수를 자극하는 35mm 필름 느낌, 따뜻하고 분위기 있는 톤, 대본 없는 자연스러운 표정, 감성적인 스토리텔링.
 
 제외 요소: 만화 스타일, CGI 느낌, 플라스틱 피부, 비현실적인 얼굴, 일관되지 않은 인물 외모, 변하는 헤어스타일, 여분의 손가락, 왜곡된 신체, 인위적인 조명, 과포화된 색상, 흐릿한 얼굴, 부자연스러운 움직임, 중복된 인물.
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## 사이버펑크 / SF
+
+<a name="prompt-2097330853588402541"></a>
+
+### 번역 중
+
+작성자：[@TanLuAI](https://x.com/TanLuAI) · [원본 게시물](https://x.com/TanLuAI/status/2097330853588402541)
+
+만화 / 스토리보드 · 사이버펑크 / SF · 캐릭터 · 배포 완료
+
+원본 게시물：[@TanLuAI](https://x.com/TanLuAI) · [원본 게시물](https://x.com/TanLuAI/status/2096586474645004331)
+
+**요약:** 번역 중
+
+<img src="covers/2097330853588402541.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
