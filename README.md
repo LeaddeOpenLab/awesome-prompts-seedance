@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**15** Prompts · Latest addition: **2026-09-09**
+**16** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097181982924984513"></a>
+
+### Authentic Indonesian woman in an early-2000s DV-camcorder home-video aesthetic with detailed chronological scene timestamps in a quiet neighborhood.
+
+Author：[@QAiStudio](https://x.com/QAiStudio) · [Source](https://x.com/QAiStudio/status/2097181982924984513)
+
+Photography · Character · Published
+
+**Summary:** Authentic Indonesian woman in an early-2000s DV-camcorder home-video aesthetic with detailed chronological scene timestamps in a quiet neighborhood.
+
+<img src="covers/2097181982924984513.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Authentic Indonesian woman, early-2000s Indonesian home-video aesthetic. Preserve her exact face, identity, hairstyle, facial features, skin tone, body proportions, natural underarm hair, olive-green faded sleeveless crop top, loose high-waist light-blue jeans, black canvas sneakers, black cord necklace, black wavy hair, side-swept bangs, messy tied ponytail. Ordinary quiet Indonesian residential neighborhood: narrow concrete alley, simple single-story homes, small terraces, low walls, potted plants, parked motorcycles, large trees, tangled overhead cables. No shops or commercial activity. 00:00–00:03: She sits on a terrace floor doodling in a notebook; handheld camera hovers from above/side. 00:03–00:07: She taps the pen on her chin, smiles faintly, then continues drawing; camera wanders between her face and hands. 00:07–00:10: She lies on a mat watching ants crawl along the concrete. 00:10–00:13: She gently pokes near the ants and laughs softly. 00:13–00:17: She walks to a low wall, hops up, and swings her legs. 00:17–00:20: She casually eats chips while looking at the quiet street. 00:20–00:24: She sits on the steps with a towel around her shoulders, damp hair, slowly combing it. 00:24–00:27: Close handheld shot of her combing wet hair, water droplets visible. 00:27–00:30: She finishes, tosses her damp hair back, looks toward camera, and smiles naturally. Abrupt cut to black. Extremely raw handheld DV-camcorder realism: heavy movement, micro-shakes, accidental framing, off-center composition, occasional face cropping, autofocus hunting, exposure fluctuations, motion blur, rolling shutter, faded/desaturated colors, digital noise and compression artifacts. No posing, stabilization, cinematic look, fashion-commercial styling, modern grading, or music. Natural morning ambience only: birds, breeze, distant motorcycles, neighborhood chatter, paper scratching, chip packet, leaves, comb. 16:9.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097185861259727263"></a>
 

@@ -14,7 +14,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**15** Prompts · Última incorporación: **2026-09-09**
+**16** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2097181982924984513"></a>
+
+### Traducción en curso
+
+Autor：[@QAiStudio](https://x.com/QAiStudio) · [Publicación original](https://x.com/QAiStudio/status/2097181982924984513)
+
+Fotografía · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097181982924984513.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097185861259727263"></a>
 
