@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:42:23.204Z",
+  "model": "seedance2.5",
+  "prompt": "Cinematic fashion film still, low-angle shot of a beautiful young woman with wavy dirty-blonde hair and brown eyes walking toward camera on a sunlit snowy alpine mountain slope at golden hour. She wears an oversized cream faux-fur coat over a white ribbed crop top and matching white shorts, white fuzzy ski boots and white gloves. She carries a pair of sleek white skis with black bindings slung over one shoulder. Sparkling crystalline snow in extreme foreground with shallow depth of field and bokeh, snow-capped peaks and clear blue-to-dusk sky in background, dramatic rim lighting, high-fashion editorial photography, 35mm film grain, ultra-realistic, photorealistic, 8k",
+  "promptTranslations": {
+    "en": "Cinematic fashion film still, low-angle shot of a beautiful young woman with wavy dirty-blonde hair and brown eyes walking toward camera on a sunlit snowy alpine mountain slope at golden hour. She wears an oversized cream faux-fur coat over a white ribbed crop top and matching white shorts, white fuzzy ski boots and white gloves. She carries a pair of sleek white skis with black bindings slung over one shoulder. Sparkling crystalline snow in extreme foreground with shallow depth of field and bokeh, snow-capped peaks and clear blue-to-dusk sky in background, dramatic rim lighting, high-fashion editorial photography, 35mm film grain, ultra-realistic, photorealistic, 8k"
+  },
+  "summaryTranslations": {
+    "en": "Cinematic fashion shot of a blonde woman in a cream faux-fur coat carrying white skis on a snowy alpine slope at golden hour."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic fashion shot of a blonde woman in a cream faux-fur coat carrying white skis on a snowy alpine slope at golden hour.",
+  "summaryEn": "Cinematic fashion shot of a blonde woman in a cream faux-fur coat carrying white skis on a snowy alpine slope at golden hour.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096826123330138410",
+    "canonicalUrl": "https://x.com/noorlewisx/status/2096826123330138410",
+    "author": {
+      "username": "noorlewisx",
+      "displayName": "Noor",
+      "profileUrl": "https://x.com/noorlewisx"
+    },
+    "publishedAt": "2026-09-07T05:01:19.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "en",
+    "originalText": "Golden hour. Frozen peaks. She walked like the mountain belonged to her.\n\nMade with seedance 2.5\n\nPrompt:\n\nCinematic fashion film still, low-angle shot of a beautiful young woman with wavy dirty-blonde hair and brown eyes walking toward camera on a sunlit snowy alpine mountain slope at golden hour. She wears an oversized cream faux-fur coat over a white ribbed crop top and matching white shorts, white fuzzy ski boots and white gloves. She carries a pair of sleek white skis with black bindings slung over one shoulder. Sparkling crystalline snow in extreme foreground with shallow depth of field and bokeh, snow-capped peaks and clear blue-to-dusk sky in background, dramatic rim lighting, high-fashion editorial photography, 35mm film grain, ultra-realistic, photorealistic, 8k",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/noorlewisx/status/2096826123330138410",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096826069827649536/img/JBC6h2kwPjyrB7bX.jpg",
+        "analysisUrl": "https://x.com/noorlewisx/status/2096826123330138410"
+      }
+    ],
+    "metrics": {
+      "likeCount": 314,
+      "repostCount": 9,
+      "replyCount": 85,
+      "quoteCount": 0,
+      "viewCount": 14772
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/noorlewisx/status/2096826123330138410",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096826069827649536/img/JBC6h2kwPjyrB7bX.jpg",
+  "coverPath": "covers/2096826123330138410.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2096826069827649536",
+    "x-post:2096826123330138410"
+  ],
+  "analysis": {
+    "summary": "Cinematic fashion shot of a blonde woman in a cream faux-fur coat carrying white skis on a snowy alpine slope at golden hour.",
+    "summaryEn": "Cinematic fashion shot of a blonde woman in a cream faux-fur coat carrying white skis on a snowy alpine slope at golden hour.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely visualizes the young woman walking in snow with the described fur coat, white ski attire, skis on shoulder, and mountain backdrop."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Cinematic fashion film still, low-angle shot of a beautiful young woman with wavy dirty-blonde hair and brown eyes walking toward camera on a sunlit snowy alpine mountain slope at golden hour. She wears an oversized cream faux-fur coat over a white ribbed crop top and matching white shorts, white fuzzy ski boots and white gloves. She carries a pair of sleek white skis with black bindings slung over one shoulder. Sparkling crystalline snow in extreme foreground with shallow depth of field and bokeh, snow-capped peaks and clear blue-to-dusk sky in background, dramatic rim lighting, high-fashion editorial photography, 35mm film grain, ultra-realistic, photorealistic, 8k",
+    "sourceRange": {
+      "start": 107,
+      "end": 782
+    },
+    "translations": {
+      "zh": "电影时尚胶片剧照，低角度拍摄一位留着微卷金褐色头发和棕色眼睛的年轻美丽女子，在黄金时刻阳光普照的高山积雪斜坡上走向镜头。她身穿一件大号奶油色人造毛皮大衣，内搭白色罗纹短上衣和相配的白色短裤，脚穿白色毛绒滑雪靴并戴着白色手套。她单肩扛着一副带有黑色固定器的流线型白色滑雪板。极近景是闪烁的结晶雪伴有浅景深和散景，背景为雪山与暮色天空，戏剧性轮廓光，高端时尚摄影风格，35毫米胶片质感。",
+      "en": "Cinematic fashion film still, low-angle shot of a beautiful young woman with wavy dirty-blonde hair and brown eyes walking toward camera on a sunlit snowy alpine mountain slope at golden hour. She wears an oversized cream faux-fur coat over a white ribbed crop top and matching white shorts, white fuzzy ski boots and white gloves. She carries a pair of sleek white skis with black bindings slung over one shoulder. Sparkling crystalline snow in extreme foreground with shallow depth of field and bokeh, snow-capped peaks and clear blue-to-dusk sky in background, dramatic rim lighting, high-fashion editorial photography, 35mm film grain, ultra-realistic, photorealistic, 8k"
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
