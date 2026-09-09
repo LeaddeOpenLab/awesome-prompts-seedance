@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**24** Prompts · Latest addition: **2026-09-09**
+**25** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -285,6 +285,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2096826123330138410"></a>
+
+### Cinematic fashion shot of a blonde woman in a cream faux-fur coat carrying white skis on a snowy alpine slope at golden hour.
+
+Author：[@noorlewisx](https://x.com/noorlewisx) · [Source](https://x.com/noorlewisx/status/2096826123330138410)
+
+Cinematic / Film Still · Character · Fashion Item · Published
+
+**Summary:** Cinematic fashion shot of a blonde woman in a cream faux-fur coat carrying white skis on a snowy alpine slope at golden hour.
+
+<img src="covers/2096826123330138410.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Cinematic fashion film still, low-angle shot of a beautiful young woman with wavy dirty-blonde hair and brown eyes walking toward camera on a sunlit snowy alpine mountain slope at golden hour. She wears an oversized cream faux-fur coat over a white ribbed crop top and matching white shorts, white fuzzy ski boots and white gloves. She carries a pair of sleek white skis with black bindings slung over one shoulder. Sparkling crystalline snow in extreme foreground with shallow depth of field and bokeh, snow-capped peaks and clear blue-to-dusk sky in background, dramatic rim lighting, high-fashion editorial photography, 35mm film grain, ultra-realistic, photorealistic, 8k
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097303258171949530"></a>
 
