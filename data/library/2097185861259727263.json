@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T02:26:54.995Z",
+  "model": "seedance2.5",
+  "prompt": "Create a 30-second photorealistic live-action Korean seaside travel vlog following a young Korean woman through one evening in a peaceful coastal village. Start at a lively seafood market with fresh seafood, wet floors and sunset light. She checks into a cozy traditional guesthouse, then walks barefoot along the beach as waves reach her feet during golden hour.\n\nTransition into a warm nighttime seafood market where she enjoys freshly grilled seafood and interacts naturally with the surroundings. End at midnight beside a quiet seawall, looking over the dark ocean with distant fishing lights and waves crashing below.\n\nAuthentic 2026 smartphone/cinema-camera vlog style, natural Korean environment, realistic skin, hair, clothing, water, food, smoke, waves and human movement. Handheld camera, natural autofocus, exposure changes and realistic motion blur. English dialogue only, natural environmental audio, no background music or narration. Strong emphasis on believable physics, lighting, fluid motion and spontaneous expressions. No CGI, animation, subtitles, logos or watermark.",
+  "promptTranslations": {
+    "en": "Create a 30-second photorealistic live-action Korean seaside travel vlog following a young Korean woman through one evening in a peaceful coastal village. Start at a lively seafood market with fresh seafood, wet floors and sunset light. She checks into a cozy traditional guesthouse, then walks barefoot along the beach as waves reach her feet during golden hour.\\n\\nTransition into a warm nighttime seafood market where she enjoys freshly grilled seafood and interacts naturally with the surroundings. End at midnight beside a quiet seawall, looking over the dark ocean with distant fishing lights and waves crashing below.\\n\\nAuthentic 2026 smartphone/cinema-camera vlog style, natural Korean environment, realistic skin, hair, clothing, water, food, smoke, waves and human movement. Handheld camera, natural autofocus, exposure changes and realistic motion blur. English dialogue only, natural environmental audio, no background music or narration. Strong emphasis on believable physics, lighting, fluid motion and spontaneous expressions. No CGI, animation, subtitles, logos or watermark."
+  },
+  "summaryTranslations": {
+    "en": "Photorealistic prompt for a 30-second Korean seaside travel vlog capturing an evening journey from sunset fish markets and coastal walks to a midnight seawall."
+  },
+  "translationVersion": 2,
+  "summary": "Photorealistic prompt for a 30-second Korean seaside travel vlog capturing an evening journey from sunset fish markets and coastal walks to a midnight seawall.",
+  "summaryEn": "Photorealistic prompt for a 30-second Korean seaside travel vlog capturing an evening journey from sunset fish markets and coastal walks to a midnight seawall.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097185861259727263",
+    "canonicalUrl": "https://x.com/nawalsehar/status/2097185861259727263",
+    "author": {
+      "username": "nawalsehar",
+      "displayName": "Nawal",
+      "profileUrl": "https://x.com/nawalsehar"
+    },
+    "publishedAt": "2026-09-08T04:50:47.000Z",
+    "collectedAt": "2026-09-08T11:32:47.871Z",
+    "language": "en",
+    "originalText": "A quiet night by the Korean sea, filled with little moments. \n\nCreated on seedance 2.5\n\nPrompt:\nCreate a 30-second photorealistic live-action Korean seaside travel vlog following a young Korean woman through one evening in a peaceful coastal village. Start at a lively seafood market with fresh seafood, wet floors and sunset light. She checks into a cozy traditional guesthouse, then walks barefoot along the beach as waves reach her feet during golden hour.\n\nTransition into a warm nighttime seafood market where she enjoys freshly grilled seafood and interacts naturally with the surroundings. End at midnight beside a quiet seawall, looking over the dark ocean with distant fishing lights and waves crashing below.\n\nAuthentic 2026 smartphone/cinema-camera vlog style, natural Korean environment, realistic skin, hair, clothing, water, food, smoke, waves and human movement. Handheld camera, natural autofocus, exposure changes and realistic motion blur. English dialogue only, natural environmental audio, no background music or narration. Strong emphasis on believable physics, lighting, fluid motion and spontaneous expressions. No CGI, animation, subtitles, logos or watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/nawalsehar/status/2097185861259727263",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097185647329206272/img/xabVwwqxu0Z4FwR0.jpg",
+        "analysisUrl": "https://x.com/nawalsehar/status/2097185861259727263"
+      }
+    ],
+    "metrics": {
+      "likeCount": 160,
+      "repostCount": 6,
+      "replyCount": 65,
+      "quoteCount": 0,
+      "viewCount": 2968
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\",\"nano banana\"]"
+    ]
+  },
+  "xUrl": "https://x.com/nawalsehar/status/2097185861259727263",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097185647329206272/img/xabVwwqxu0Z4FwR0.jpg",
+  "coverPath": "covers/2097185861259727263.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097185647329206272",
+    "x-post:2097185861259727263"
+  ],
+  "analysis": {
+    "summary": "Photorealistic prompt for a 30-second Korean seaside travel vlog capturing an evening journey from sunset fish markets and coastal walks to a midnight seawall.",
+    "summaryEn": "Photorealistic prompt for a 30-second Korean seaside travel vlog capturing an evening journey from sunset fish markets and coastal walks to a midnight seawall.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 30-second photorealistic live-action Korean seaside travel vlog following a young Korean woman through one evening in a peaceful coastal village. Start at a lively seafood market with fresh seafood, wet floors and sunset light. She checks into a cozy traditional guesthouse, then walks barefoot along the beach as waves reach her feet during golden hour.\n\nTransition into a warm nighttime seafood market where she enjoys freshly grilled seafood and interacts naturally with the surroundings. End at midnight beside a quiet seawall, looking over the dark ocean with distant fishing lights and waves crashing below.\n\nAuthentic 2026 smartphone/cinema-camera vlog style, natural Korean environment, realistic skin, hair, clothing, water, food, smoke, waves and human movement. Handheld camera, natural autofocus, exposure changes and realistic motion blur. English dialogue only, natural environmental audio, no background music or narration. Strong emphasis on believable physics, lighting, fluid motion and spontaneous expressions. No CGI, animation, subtitles, logos or watermark.",
+    "sourceRange": {
+      "start": 96,
+      "end": 1184
+    },
+    "translations": {
+      "zh": "创作一段30秒逼真写实的韩国海滨旅行视频博客（vlog），跟随一名年轻韩国女性度过宁静海滨村庄的傍晚时光。开篇于一个热闹的海鲜市场，展现新鲜海产、湿漉的地面与落日余晖。随后她入住温馨的传统民俗客栈，接着在黄金时刻赤脚漫步在海滩上，海浪轻拂双脚。\n\n画面转入温馨的夜晚海鲜市场，她品尝着新鲜烤制的海鲜，并与周围环境自然互动。午夜时分在安静的防波堤旁结束，俯瞰漆黑的大海，远处亮着渔火，脚下海浪翻滚拍打。\n\n逼真的2026年智能手机/电影摄影机vlog风格，自然的韩国环境，逼真的皮肤、头发、服饰、水流、食物、烟雾、海浪和人体动作。手持摄影，自然的自动对焦、曝光变化与真实的运动模糊。仅限英语对白，自然的环境音效，无背景音乐或旁白。重点强调逼真的物理表现、光影、流畅动态和自发流露的情感表情。无CGI、无动画、无字幕、无Logo或水印。",
+      "en": "Create a 30-second photorealistic live-action Korean seaside travel vlog following a young Korean woman through one evening in a peaceful coastal village. Start at a lively seafood market with fresh seafood, wet floors and sunset light. She checks into a cozy traditional guesthouse, then walks barefoot along the beach as waves reach her feet during golden hour.\n\nTransition into a warm nighttime seafood market where she enjoys freshly grilled seafood and interacts naturally with the surroundings. End at midnight beside a quiet seawall, looking over the dark ocean with distant fishing lights and waves crashing below.\n\nAuthentic 2026 smartphone/cinema-camera vlog style, natural Korean environment, realistic skin, hair, clothing, water, food, smoke, waves and human movement. Handheld camera, natural autofocus, exposure changes and realistic motion blur. English dialogue only, natural environmental audio, no background music or narration. Strong emphasis on believable physics, lighting, fluid motion and spontaneous expressions. No CGI, animation, subtitles, logos or watermark."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "travel vlog video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
