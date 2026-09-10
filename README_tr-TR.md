@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**28** Prompt · Son eklenen: **2026-09-09**
+**29** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2097837460910956650"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https://x.com/john87445528/status/2097837460910956650)
+
+Fotoğrafçılık · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097837460910956650.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2096930655615758734"></a>
 

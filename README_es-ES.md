@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**28** Prompts · Última incorporación: **2026-09-09**
+**29** Prompts · Última incorporación: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2097837460910956650"></a>
+
+### Traducción en curso
+
+Autor：[@john87445528](https://x.com/john87445528) · [Publicación original](https://x.com/john87445528/status/2097837460910956650)
+
+Fotografía · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097837460910956650.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2096930655615758734"></a>
 
@@ -415,20 +437,140 @@ Traducción en curso
 
 <a name="prompt-2097249504986644872"></a>
 
-### Traducción en curso
+### Prompt de generación de vídeo de 30 segundos sincronizado al ritmo sobre el unboxing de una blind box de art toy que activa una transformación en persona real, especificando en detalle la configuración global, las acciones del guion gráfico toma por toma, los diálogos y los prompts negativos.
 
 Autor：[@johnAGI168](https://x.com/johnAGI168) · [Publicación original](https://x.com/johnAGI168/status/2097249504986644872)
 
 Cómic / Guion gráfico · Cine / Fotograma de película · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de generación de vídeo de 30 segundos sincronizado al ritmo sobre el unboxing de una blind box de art toy que activa una transformación en persona real, especificando en detalle la configuración global, las acciones del guion gráfico toma por toma, los diálogos y los prompts negativos.
 
 <img src="covers/2097249504986644872.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Duration: 30 segundos
+Aspect ratio: 
+Referencia de personaje: ​ 
+Language: Chino mandarín
+Audio: Todo el vídeo contiene únicamente dos líneas de voz femenina; la parte intermedia solo tiene música electrónica moderna y efectos de sonido de transición; sin otra voz en off, sin otros diálogos, sin subtítulos
+Style: Vlog realista de unboxing con móvil + show de transformación en art toy de alta calidad, edición rápida sincronizada al ritmo de la música
+
+GLOBAL CONTINUITY
+
+Protagonista femenina:
+Durante todo el proceso solo aparece una protagonista femenina adulta de la Imagen 1, manteniendo consistentes los rasgos faciales y la complexión física. El peinado y la vestimenta de apertura siguen la imagen de referencia; solo tras activar la transformación se cambia al mismo look de la blind box.
+
+Diseño original de la blind box:
+Edición secreta nebulosa azul-violeta. El empaque es una blind box poliédrica en negro y plata, con un degradado de aurora azul-violeta en la superficie, una ventana transparente en forma de estrella en el frente, sin texto de marca.
+
+Figura:
+Los rasgos faciales de la figura toman como prototipo la Imagen 1, con proporciones de cabeza y cuerpo refinadas de art toy. Cabello dividido por la mitad en la línea central: azul eléctrico a la izquierda del encuadre, púrpura nebulosa a la derecha, flequillo recto y prolijo, dos trenzas largas en degradado. Viste minifalda asimétrica blanco plateado, chal transparente azul-violeta, cadena de cintura en forma de estrella y botines plateados de plataforma gruesa.
+
+Look de transformación en persona real:
+Reproduce fielmente el cabello mitad azul y mitad púrpura, el maquillaje, la ropa y los accesorios de la figura, pero manteniendo las proporciones de una mujer adulta real, sin convertirse en un cuerpo de caricatura.
+
+SHOT 1 (00:00-00:04.00) Sacar su propia edición secreta
+
+Escena:
+Acogedor dormitorio moderno, la protagonista sentada frente a la mesa, sobre la mesa solo hay una blind box nebulosa azul-violeta.
+
+Acción:
+-00:01.50: La protagonista rasga el plástico protector, abre la tapa de la caja poliédrica y saca la bolsa de empaque plateada de su interior.
+.50-00:02.50: Rompe la bolsa de empaque y deja caer la figura sobre la palma de su mano izquierda.
+.50-00:04.00: Baja la mirada para ver con claridad el rostro de la figura, sus ojos se abren de par en par de repente, levanta la cabeza mirando a la cámara y vuelve a mirar la figura.
+
+Contenido de audio ①:
+“我去，这么帅！”
+
+Tom:
+Rápido, sorprendido, sincero, el personaje abre la boca con naturalidad, sincronización labial precisa en chino.
+
+Cámara:
+Comienza con un plano medio frontal; se acerca rápidamente cuando aparece la figura, manteniendo nítidas al mismo tiempo la expresión de asombro de la protagonista y la figura en su mano.
+
+SHOT 2 (00:04.00-00:09.00) Exhibición de la figura y transformación
+
+Acción:
+.00-00:05.50: Primer plano independiente del producto de la figura, la cámara gira alrededor mostrando el cabello mitad azul mitad púrpura, el chal transparente, la cadena de cintura en forma de estrella y los botines de plataforma gruesa.
+.50-00:07.50: La protagonista coloca la figura junto a su rostro, compara las dos caras, levanta una ceja, frunce los labios y muestra una expresión divertida.
+.50-00:09.00: La protagonista extiende su mano frente a la figura haciendo un pequeño gesto de corazón con los dedos; el adorno de estrella en el pecho de la figura se ilumina. Un destello azul-violeta cubre rápidamente la pantalla, completando un corte coincidente por oclusión con el corazón de dedos.
+
+Sonido:
+Solo música, ligero sonido de empaque, sonido de activación estelar y sonido de impacto de transformación; sin diálogos.
+
+SHOT 3 (00:09.00-00:26.00) Exhibición de la edición secreta en persona real sincronizada al ritmo
+
+Resultado de la transformación:
+Tras disiparse el destello, la protagonista ya lleva el mismo estilo que la figura, con el cabello estrictamente azul a la izquierda y púrpura a la derecha. Los rasgos faciales siguen siendo los de la Imagen 1.
+
+.00-00:11.50:
+Fondo liso azul hielo, cuerpo entero de frente. La protagonista abre ambos brazos hacia afuera, con el cuerpo ligeramente de lado, mostrando el look completo; la cámara hace un paneo horizontal suave.
+
+.50-00:13.50:
+Fondo púrpura oscuro, la protagonista cambia rápidamente a una pose de pie del otro lado, las trenzas largas azul-violeta se sacuden con el giro; el movimiento calza con el golpe fuerte de la música.
+
+.50-00:15.50:
+Primerísimo primer plano del rostro. La protagonista coloca una mano junto a su cara, mostrando el nail art en degradado azul-violeta, el anillo en forma de estrella y el flequillo bicolor; arquea ligeramente una ceja.
+
+.50-00:17.50:
+Fondo verde, la protagonista guiña un ojo a la cámara, hace la señal de victoria con los dedos junto al ojo; la cámara avanza rápidamente hacia ella.
+
+.50-00:20.00:
+Fondo magenta, toma en ángulo contrapicado. La protagonista pisa hacia el frente de la cámara con un botín plateado de plataforma gruesa, la suela se acerca a la cámara pero sin tapar el rostro, luego retrocede.
+
+.00-00:22.50:
+Fondo de cuadrícula lila claro, la protagonista sentada de lado en el suelo, con una pierna doblada y la otra extendida de forma natural, apoyando la palma en el suelo, mirando a la cámara con calma.
+
+.50-00:24.50:
+Fondo en degradado naranja-azul, de pie a cuerpo entero. La protagonista se sostiene la cabeza con una mano y pone la otra en la cintura, logrando una pose congelada como la imagen de la caja de la figura.
+
+.50-00:26.00:
+Fondo negro estrellado, la protagonista se pone en cuclillas cerca de la cámara, mostrando una sonrisa pícara; un destello azul-violeta barre de abajo hacia arriba, volviendo a la escena real.
+
+Sonido:
+En toda la sección no hay voz en off ni diálogos. Solo música electrónica, golpes de ritmo acentuados, sonido de destellos, pasos y el roce de la tela.
+
+Estilo de cámara:
+Cambios rápidos entre cuerpo entero, ángulo bajo, primer plano cerrado y vistas de perfil. Movimientos concisos en cada toma, aproximadamente 2 segundos por pose. En el fondo no aparece ninguna palabra en inglés ni texto alguno.
+
+SHOT 4 (00:26.00-00:30.00) Cierre con la edición secreta
+
+Escena:
+Fondo simple de tono claro. La protagonista aún mantiene el look real de la edición secreta azul-violeta, sosteniendo en la mano la figura exactamente idéntica a su atuendo.
+
+Acción:
+.00-00:27.50: La protagonista mira primero la figura en su mano y luego acerca lentamente su rostro a ella.
+.50-00:29.50: Ella y la figura miran juntas a la cámara, levanta levemente una ceja, mostrando una sonrisa pícara y segura.
+.50-00:30.00: Levanta la figura frente a la cámara mientras guiña un ojo detrás de ella, congelando la toma final.
+
+Contenido de audio ②:
+“谁是你的隐藏款？”
+
+Tom:
+Relajado, pícaro, ligeramente misterioso; velocidad moderada, sincronización labial precisa en chino.
+
+CONSTRAINTS
+
+- Todo el vídeo contiene estrictamente solo dos frases habladas: “我去，这么帅！” y “谁是你的隐藏款？”
+- Está prohibida cualquier voz en off o diálogo entre 00:04 y 00:27.50.
+- La historia solo incluye: abrir la caja, descubrir la figura, activar la transformación, mostrar el look y cerrar sosteniendo la figura.
+- No añadir folletos de instrucciones, reglas ocultas, una segunda figura, encogimiento ni giros de terror.
+- La figura y la persona real deben ser el mismo diseño de personaje.
+- El cabello siempre debe ser azul a la izquierda y púrpura a la derecha, no se pueden intercambiar los colores.
+- Sin subtítulos, sin texto de fondo, sin logotipos de marcas.
+
+NEGATIVE
+
+voz en off adicional, narración continua, diálogo adicional, tercera línea de diálogo, personaje abriendo la boca durante la voz en off,
+personaje encogiéndose, persona real convirtiéndose en figura de escritorio, segunda figura, giro de terror,
+copiar el color de pelo rosa y negro original, copiar la chaqueta de motociclista azul original, fondo con letras grandes en inglés,
+intercambio de color de pelo, pelo bicolor mezclado en un solo color, cara de la figura convertida en un extraño,
+deriva de identidad, deriva de vestuario, cambio de tamaño de la figura, personajes adicionales,
+warped faces, melting features, extra limbs, fused fingers,
+robotic delivery, lip-sync drift, silent mouth movement, double mouth,
+subtitles, Chinese text, English text, watermarks, logos
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**28** Prompt · Ultima aggiunta: **2026-09-09**
+**29** Prompt · Ultima aggiunta: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2097837460910956650"></a>
+
+### Traduzione in corso
+
+Autore：[@john87445528](https://x.com/john87445528) · [Post originale](https://x.com/john87445528/status/2097837460910956650)
+
+Fotografia · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2097837460910956650.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2096930655615758734"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**28** Prompt · Bổ sung mới nhất: **2026-09-09**
+**29** Prompt · Bổ sung mới nhất: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2097837460910956650"></a>
+
+### Đang dịch
+
+Tác giả：[@john87445528](https://x.com/john87445528) · [Bài gốc](https://x.com/john87445528/status/2097837460910956650)
+
+Nhiếp ảnh · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097837460910956650.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2096930655615758734"></a>
 
@@ -417,20 +439,140 @@ Tác giả：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 <a name="prompt-2097249504986644872"></a>
 
-### Đang dịch
+### Lời nhắc tạo video 30 giây khớp nhịp beat mở hộp mù art toy và kích hoạt màn biến hình người thật, quy định chi tiết bối cảnh tổng thể, phân cảnh động tác nhiều góc máy, lời thoại và các từ khóa phủ định.
 
 Tác giả：[@johnAGI168](https://x.com/johnAGI168) · [Bài gốc](https://x.com/johnAGI168/status/2097249504986644872)
 
 Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo video 30 giây khớp nhịp beat mở hộp mù art toy và kích hoạt màn biến hình người thật, quy định chi tiết bối cảnh tổng thể, phân cảnh động tác nhiều góc máy, lời thoại và các từ khóa phủ định.
 
 <img src="covers/2097249504986644872.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Duration: 30 giây
+Aspect ratio: 
+Tham chiếu nhân vật: ​ 
+Language: Tiếng Quan Thoại
+Audio: Toàn bộ video chỉ có hai câu thoại của nữ; đoạn giữa chỉ có nhạc điện tử thời thượng và hiệu ứng âm thanh chuyển cảnh; không có lời dẫn thoại khác, không có đối thoại khác, không có phụ đề
+Style: Vlog mở hộp bằng điện thoại chân thực + màn biến hình art toy chất lượng cao, cắt dựng nhanh khớp nhịp beat
+
+GLOBAL CONTINUITY
+
+Nữ chính:
+Toàn bộ quá trình chỉ có một nữ chính trưởng thành trong Hình 1, ngũ quan và vóc dáng giữ nguyên tính nhất quán. Kiểu tóc và trang phục mở đầu giữ nguyên theo ảnh tham chiếu; chỉ sau khi kích hoạt biến hình mới đổi sang tạo hình giống hệt hộp mù.
+
+Thiết kế hộp mù nguyên bản:
+Bản ẩn tinh vân xanh tím. Bao bì là hộp mù đa diện màu đen bạc, bề mặt có dải chuyển sắc cực quang xanh tím, mặt trước có cửa sổ hình ngôi sao trong suốt, không có chữ thương hiệu.
+
+Búp bê mô hình:
+Ngũ quan của búp bê lấy Hình 1 làm nguyên mẫu, tỷ lệ đầu thân art toy tinh xảo. Tóc chia đôi màu theo đường rãnh giữa: bên trái khung hình màu xanh điện quang, bên phải màu tím tinh vân, mái bằng ngay ngắn, hai bím tóc dài chuyển màu. Mặc váy ngắn bất đối xứng màu trắng bạc, khăn choàng trong suốt màu xanh tím, dây xích thắt lưng hình ngôi sao và bốt ngắn đế dày màu bạc.
+
+Ngoại hình biến hình người thật:
+Phục dựng trọn vẹn mái tóc nửa xanh nửa tím, lớp trang điểm, trang phục và phụ kiện của búp bê, nhưng giữ nguyên tỷ lệ phụ nữ trưởng thành có thật, không biến thành cơ thể hoạt hình.
+
+SHOT 1 (00:00-00:04.00) Mở trúng bản ẩn của chính mình
+
+Bối cảnh:
+Phòng ngủ ấm cúng hiện đại, nữ chính ngồi trước bàn, trên bàn chỉ có một chiếc hộp mù tinh vân xanh tím.
+
+Động tác:
+-00:01.50: Nữ chính xé màng bọc, mở nắp hộp đa diện, rút túi bao bì màu bạc từ bên trong ra.
+.50-00:02.50: Cô xé túi bao bì, dốc búp bê vào lòng bàn tay trái.
+.50-00:04.00: Cô cúi đầu nhìn rõ mặt búp bê, mắt đột nhiên mở to, ngẩng đầu nhìn vào ống kính, rồi lại nhìn về phía búp bê.
+
+Nội dung âm thanh ①:
+“我去，这么帅！”
+
+Ngữ khí:
+Nhanh, bất ngờ, chân thành, nhân vật mở miệng tự nhiên, khẩu hình tiếng Trung chuẩn xác.
+
+Ống kính:
+Bắt đầu bằng cảnh trung chính diện; đẩy nhanh lại gần khi búp bê xuất hiện, giữ cho biểu cảm kinh ngạc của nữ chính và búp bê trên tay đồng thời rõ nét.
+
+SHOT 2 (00:04.00-00:09.00) Trưng bày búp bê và biến hình
+
+Động tác:
+.00-00:05.50: Cận cảnh sản phẩm búp bê độc lập, ống kính quay vòng quanh thể hiện mái tóc nửa xanh nửa tím, khăn choàng trong suốt, dây xích thắt lưng hình ngôi sao và bốt ngắn đế dày.
+.50-00:07.50: Nữ chính đặt búp bê bên cạnh khuôn mặt, đối chiếu hai gương mặt, nhướn mày, mím môi, lộ vẻ thích thú.
+.50-00:09.00: Nữ chính đưa tay làm hình bắn tim nhỏ trước mặt búp bê; họa tiết ngôi sao trước ngực búp bê phát sáng. Ánh chớp xanh tím nhanh chóng bao phủ màn hình, hoàn tất chuyển cảnh match-cut bằng cử chỉ bắn tim che chắn.
+
+Âm thanh:
+Chỉ có âm nhạc, tiếng xé bao bì nhẹ, tiếng kích hoạt ánh sao và âm thanh biến hình bùng nổ; không có tiếng nói.
+
+SHOT 3 (00:09.00-00:26.00) Trình diễn bản ẩn người thật khớp nhịp beat
+
+Kết quả biến hình:
+Sau khi ánh chớp kết thúc, nữ chính đã khoác lên tạo hình giống hệt búp bê, tóc tuân thủ nghiêm ngặt bên trái xanh bên phải tím. Ngũ quan vẫn là Hình 1.
+
+.00-00:11.50:
+Phông nền màu lam băng trơn, toàn thân chính diện. Nữ chính mở rộng hai tay ra ngoài, người hơi nghiêng, khoe trọn vẹn tạo hình; ống kính lia ngang biên độ nhỏ.
+
+.50-00:13.50:
+Phông nền tím đậm, nữ chính đổi nhanh sang tư thế đứng ở phía bên kia, bím tóc dài xanh tím vung theo động tác xoay người; động tác khớp chuẩn xác nhịp beat mạnh của âm nhạc.
+
+.50-00:15.50:
+Cận cảnh sát mặt. Nữ chính đưa một bàn tay lên cạnh mặt, khoe bộ móng tay chuyển sắc xanh tím, nhẫn hình ngôi sao và mái tóc hai màu; khẽ nhướn mày.
+
+.50-00:17.50:
+Phông nền màu xanh lá, nữ chính nháy mắt với ống kính, ngón tay tạo dáng chữ V cạnh mắt; ống kính đẩy nhanh về phía trước.
+
+.50-00:20.00:
+Phông nền màu hồng cánh sen, quay góc thấp. Nữ chính dẫm một chiếc bốt ngắn đế dày màu bạc về phía trước ống kính, đế giày tiến sát ống kính nhưng không che mặt, sau đó thu chân về.
+
+.00-00:22.50:
+Phông nền lưới tím nhạt, nữ chính ngồi nghiêng trên sàn, một chân gập, một chân duỗi tự nhiên, lòng bàn tay chống đất, bình tĩnh nhìn vào ống kính.
+
+.50-00:24.50:
+Phông nền chuyển sắc cam xanh, đứng toàn thân. Nữ chính một tay đỡ đầu, tay kia đặt bên hông, hoàn thành tư thế đóng băng khung hình như ảnh bìa hộp búp bê.
+
+.50-00:26.00:
+Phông nền đen ánh sao, nữ chính nửa ngồi xổm lại gần ống kính, nở nụ cười tinh nghịch; ánh chớp xanh tím quét từ dưới lên trên, chuyển cảnh quay về thực tế.
+
+Âm thanh:
+Cả đoạn không có lời dẫn thoại, không có đối thoại. Chỉ có nhạc điện tử, nhịp nhấn khớp beat, âm thanh ánh chớp, tiếng bước chân và tiếng ma sát quần áo.
+
+Phong cách ống kính:
+Chuyển đổi nhanh giữa toàn thân, góc thấp, sát mặt và tạo hình góc nghiêng. Động tác mỗi cảnh ngắn gọn súc tích, khoảng 2 giây một tạo hình. Hậu cảnh không xuất hiện từ tiếng Anh hay bất kỳ văn bản nào.
+
+SHOT 4 (00:26.00-00:30.00) Kết thúc với bản ẩn
+
+Bối cảnh:
+Phông nền sáng màu tối giản. Nữ chính vẫn duy trì tạo hình người thật bản ẩn xanh tím, tay cầm búp bê có tạo hình hoàn toàn trùng khớp với mình.
+
+Động tác:
+.00-00:27.50: Nữ chính nhìn búp bê trong tay trước, sau đó từ từ đưa mặt lại gần búp bê.
+.50-00:29.50: Cô cùng búp bê cùng hướng về phía ống kính, khẽ nhướn mày, nở nụ cười tinh nghịch tự tin.
+.50-00:30.00: Cô giơ búp bê lên trước ống kính, bản thân ở phía sau nháy mắt, đóng băng khung hình kết thúc.
+
+Nội dung âm thanh ②:
+“谁是你的隐藏款？”
+
+Ngữ khí:
+Thư thái, tinh nghịch, hơi có chút bí ẩn; tốc độ nói vừa phải, khẩu hình tiếng Trung chuẩn xác.
+
+CONSTRAINTS
+
+- Toàn bộ video tuân thủ nghiêm ngặt chỉ có hai câu âm thanh: “我去，这么帅！” và “谁是你的隐藏款？”
+- Từ 00:04 đến 00:27.50 nghiêm cấm xuất hiện bất kỳ lời dẫn thoại hoặc đối thoại nào.
+- Câu chuyện chỉ bao gồm: mở hộp, phát hiện búp bê, kích hoạt biến hình, trình diễn tạo hình, cầm búp bê kết thúc.
+- Không thêm sách hướng dẫn, quy tắc ẩn, búp bê thứ hai, thu nhỏ người hoặc cú lật mặt kinh dị.
+- Búp bê và người thật phải là cùng một thiết kế nhân vật.
+- Tóc luôn luôn là bên trái xanh bên phải tím, không được đổi màu qua lại.
+- Không có phụ đề, không có văn bản hậu cảnh, không có logo thương hiệu.
+
+NEGATIVE
+
+lời dẫn thoại bổ sung, thuyết minh liên tục, đối thoại bổ sung, câu thoại thứ ba, nhân vật mở miệng khi có lời dẫn thoại,
+nhân vật bị thu nhỏ, người thật biến thành búp bê để bàn, búp bê thứ hai, cú lật mặt kinh dị,
+sao chép màu tóc đen hồng của ảnh gốc, sao chép áo khoác da biker màu xanh của ảnh gốc, phông nền chữ tiếng Anh cỡ lớn,
+đổi vị trí màu tóc, tóc hai màu bị hòa lẫn thành một màu, mặt búp bê biến thành người lạ,
+lệch danh tính, lệch trang phục, thay đổi kích thước búp bê, thêm nhân vật,
+warped faces, melting features, extra limbs, fused fingers,
+robotic delivery, lip-sync drift, silent mouth movement, double mouth,
+subtitles, Chinese text, English text, watermarks, logos
 ```
 
 [↑ Về danh mục](#catalog)

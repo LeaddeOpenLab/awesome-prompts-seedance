@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**28** Prompts · Última incorporación: **2026-09-09**
+**29** Prompts · Última incorporación: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2097837460910956650"></a>
+
+### Traducción en curso
+
+Autor：[@john87445528](https://x.com/john87445528) · [Publicación original](https://x.com/john87445528/status/2097837460910956650)
+
+Fotografía · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097837460910956650.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2096930655615758734"></a>
 
