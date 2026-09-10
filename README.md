@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**34** Prompts · Latest addition: **2026-09-10**
+**35** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,122 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097942616415568240"></a>
+
+### Sci-fi prompt featuring a woman in a futuristic city beneath an overhead ocean with swimming whales.
+
+Author：[@IsabelWhite24](https://x.com/IsabelWhite24) · [Source](https://x.com/IsabelWhite24/status/2097942616415568240)
+
+Cinematic / Film Still · Cyberpunk / Sci-Fi · Character · Landscape / Nature · Published
+
+**Summary:** Sci-fi prompt featuring a woman in a futuristic city beneath an overhead ocean with swimming whales.
+
+<img src="covers/2097942616415568240.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 10-second ultra-realistic cinematic sci-fi fantasy video in vertical 9:16 format.
+
+MAIN CHARACTER
+
+A beautiful young adult woman in her 20s walks alone through a futuristic city at night. She has long, naturally flowing dark hair and a calm, slightly curious expression.
+
+She is wearing an elegant floor-length flowing gown made from lightweight, ethereal fabric. The gown is sophisticated and cinematic, with long flowing layers that gently move with the wind as she walks. The fabric catches reflections from the city’s lights. No revealing clothing.
+
+Keep her appearance, hairstyle, face, gown, and proportions consistent throughout the entire video.
+
+ENVIRONMENT
+
+The city is enormous, futuristic, and almost completely silent. Towering glass skyscrapers disappear into the clouds, covered with subtle neon lights and glowing windows. The streets are wet from recent rain, creating beautiful reflections.
+
+There is a light mist in the air, tiny floating particles, distant flying vehicles, and soft atmospheric fog.
+
+The overall atmosphere should feel mysterious, beautiful, surreal, peaceful, and slightly eerie.
+
+0–2 SECONDS
+
+Start with a cinematic medium-wide tracking shot from behind the woman.
+
+She walks slowly down a quiet futuristic street, her long gown trailing naturally behind her.
+
+The camera smoothly follows her at walking height. Her footsteps create tiny ripples in shallow rainwater on the pavement.
+
+She suddenly slows down.
+
+The ambient city lights reflect across the wet street.
+
+2–4 SECONDS
+
+The woman gradually looks upward.
+
+The camera slowly tilts up with her gaze.
+
+Reveal an enormous ocean floating impossibly above the city, suspended in the night sky between the skyscrapers.
+
+The ocean appears like a gigantic transparent body of water held in the sky, with sunlight-like blue illumination filtering through its depths.
+
+Inside the floating ocean, massive whales slowly swim above the skyscrapers.
+
+Their enormous silhouettes pass through the glowing blue water overhead.
+
+Make the whales realistic and majestic, moving naturally and slowly.
+
+The woman remains completely still for a moment, staring upward in silent amazement.
+
+4–6 SECONDS
+
+Cut to a closer cinematic shot of the woman looking upward.
+
+Suddenly, tiny droplets of water begin appearing above the wet pavement.
+
+Instead of falling down, the droplets rise upward against gravity.
+
+Hundreds of tiny droplets lift from puddles and the streets and float toward the enormous ocean above.
+
+The droplets should move smoothly and physically naturally, leaving subtle trails of reflected city light.
+
+The woman slowly raises one hand and watches the water droplets pass her fingers.
+
+6–8 SECONDS
+
+The phenomenon becomes much larger.
+
+Water begins rising from fountains, puddles, rooftops, and streets throughout the city.
+
+The camera pulls backward and upward into a wide establishing shot.
+
+The entire futuristic city begins to slowly rise with the ascending water.
+
+Buildings gently lift from the ground, remaining structurally intact.
+
+Lights flicker softly across the skyscrapers.
+
+Flying vehicles hover in confusion while the city slowly becomes weightless.
+
+The woman’s gown and hair float slightly upward as gravity begins to disappear.
+
+8–10 SECONDS
+
+Finish with a breathtaking wide aerial cinematic shot.
+
+The entire futuristic city is now slowly ascending toward the enormous floating ocean.
+
+The woman stands on a rooftop or elevated street below, appearing tiny against the gigantic spectacle.
+
+Whales glide peacefully through the ocean above her.
+
+Thousands of glowing water droplets rise around the city like stars.
+
+The camera slowly pulls farther away, revealing the impossible scale of the scene.
+
+End on a beautiful surreal image of the woman, the floating city, the enormous ocean, and whales swimming overhead, all suspended between the night sky and the glowing city.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097901351049294063"></a>
 

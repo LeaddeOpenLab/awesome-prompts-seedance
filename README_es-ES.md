@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**34** Prompts · Última incorporación: **2026-09-10**
+**35** Prompts · Última incorporación: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2097942616415568240"></a>
+
+### Traducción en curso
+
+Autor：[@IsabelWhite24](https://x.com/IsabelWhite24) · [Publicación original](https://x.com/IsabelWhite24/status/2097942616415568240)
+
+Cine / Fotograma de película · Ciberpunk / Ciencia ficción · Personaje · Paisaje / Naturaleza · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097942616415568240.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097901351049294063"></a>
 

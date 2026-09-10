@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**34** Prompts · Última adição: **2026-09-10**
+**35** Prompts · Última adição: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,28 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2097942616415568240"></a>
+
+### Tradução em andamento
+
+Autor：[@IsabelWhite24](https://x.com/IsabelWhite24) · [Publicação original](https://x.com/IsabelWhite24/status/2097942616415568240)
+
+Cinematográfico / Imagem de Filme · Cyberpunk / Ficção Científica · Personagem · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2097942616415568240.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097901351049294063"></a>
 
