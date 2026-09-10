@@ -1049,20 +1049,69 @@ Traduzione in corso
 
 <a name="prompt-2097936691273019608"></a>
 
-### Traduzione in corso
+### Prompt video di 25 secondi in stile video amatoriale DV dei primi anni 2000, che ritrae il pomeriggio di una giovane donna in un vecchio quartiere di Seul che compra un fermaglio per capelli e si incontra con un'amica.
 
 Autore：[@kingofdairyque](https://x.com/kingofdairyque) · [Post originale](https://x.com/kingofdairyque/status/2097936691273019608)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt video di 25 secondi in stile video amatoriale DV dei primi anni 2000, che ritrae il pomeriggio di una giovane donna in un vecchio quartiere di Seul che compra un fermaglio per capelli e si incontra con un'amica.
 
 <img src="covers/2097936691273019608.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Video amatoriale DV dei primi anni 2000 ultra-realistico di 25 secondi, 1080p, 16:9, che ritrae una giovane donna coreana durante un pomeriggio inaspettatamente memorabile in un vecchio quartiere di Seul.
+
+PERSONAGGIO: Donna coreana, circa 20 anni, naturalmente carina, pelle realistica, lunghi capelli castano scuro lisci con un piccolo fermaglio per capelli color crema. Polo oversize verde salvia, jeans scuri a gamba dritta, sneakers bianche rétro, borsa a tracolla bordeaux, orologio sottile argento. Mantenere viso, capelli, abbigliamento, accessori e proporzioni perfettamente coerenti.
+
+STILE VISIVO: Autentico filmato da videocamera DV economica. Movimento della ripresa a mano, inquadratura imperfetta, ricerca dell'autofocus, colori sbiaditi, dettaglio digitale morbido, sbalzi di esposizione, zoom accidentali, naturale sfocatura da movimento. Nessuna finitura cinematografica né stabilizzazione. Deve sembrare un filmato trovato per caso su una vecchia scheda di memoria.
+
+AMBIENTAZIONE: Strade tranquille e più vecchie di Seul, appartamenti datati, vicoli di cemento, piante in vaso, biciclette, pali della luce, minuscoli negozietti di quartiere. Calda luce solare del tardo pomeriggio. Nessun brand o logo.
+
+STORIA
+
+00:00–00:05 — IL PIANO
+Cammina lungo un vicolo tranquillo con una piccola busta di carta. Controlla la lista della spesa, si rende conto di aver già preso tutto, poi guarda dritto nella telecamera.
+
+"Ero uscita solo per una cosa."
+
+Alza le spalle e continua a camminare.
+
+00:05–00:10 — LA SCOPERTA
+Scorge una minuscola cartoleria e trova un bellissimo fermaglio per capelli color crema. Lo tiene vicino ai capelli, controlla il suo riflesso e sorride.
+
+"Okay… questo è meglio."
+
+La telecamera accidentalmente esegue uno zoom decisamente troppo ravvicinato.
+
+00:10–00:16 — IL MOMENTO
+Fuori, nota il suo riflesso in una pozzanghera. Aggiusta il fermaglio e si mette in posa per mezzo secondo.
+
+Una bicicletta suona improvvisamente il campanello dietro di lei. Lei fa un salto per lo spavento, si gira e poi ride di se stessa.
+
+00:16–00:21 — L'AMICA
+Raggiunge un piccolo cortile dove la sua amica la sta aspettando con due bibite fresche. Si siedono su un muretto basso, ridono e parlano del più e del meno.
+
+La sua amica nota il nuovo fermaglio e glielo sistema.
+
+Lei guarda la telecamera:
+
+"Crede di essere la mia stilista."
+
+00:21–00:25 — IL RICORDO
+Cammina verso il suo appartamento, si volta indietro, sorride e indica il fermaglio per capelli.
+
+"È valsa la pena uscire di casa."
+
+Scompare all'interno.
+
+La telecamera rimane puntata sul vicolo vuoto per un secondo prima di staccare bruscamente a nero.
+
+AUDIO: Solo ambiente naturale — passi, uccelli, traffico distante, campanello della bicicletta, vento, suoni dei negozi, movimento della carta, risate, rumori delle bibite fresche. Niente musica, sottotitoli, didascalie, loghi o narrazione vocale.
+
+REALISMO: Reazioni naturali, tempistiche imperfette, fisica verosimile, personaggio e oggetti coerenti. Nessuna alterazione dell'identità, mani distorte, dita extra, persone duplicate, teletrasporto, cambi di abito o resa in CGI.
 ```
 
 [↑ Torna alle categorie](#catalog)

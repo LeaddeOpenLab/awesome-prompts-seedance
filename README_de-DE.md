@@ -1049,20 +1049,69 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 
 <a name="prompt-2097936691273019608"></a>
 
-### Übersetzung läuft
+### 25-sekündiger Video-Prompt im DV-Heimvideo-Stil der frühen 2000er Jahre, der den Nachmittag einer jungen Frau in einem alten Viertel von Seoul festhält, wie sie eine Haarspange kauft und sich mit einer Freundin trifft.
 
 Autor：[@kingofdairyque](https://x.com/kingofdairyque) · [Originalbeitrag](https://x.com/kingofdairyque/status/2097936691273019608)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 25-sekündiger Video-Prompt im DV-Heimvideo-Stil der frühen 2000er Jahre, der den Nachmittag einer jungen Frau in einem alten Viertel von Seoul festhält, wie sie eine Haarspange kauft und sich mit einer Freundin trifft.
 
 <img src="covers/2097936691273019608.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+25-sekündiges, ultrarealistisches 1080p, 16:9 DV-Heimvideo aus den frühen 2000er Jahren von einer jungen koreanischen Frau, die einen unerwartet unvergesslichen Nachmittag in einem alten Viertel von Seoul verbringt.
+
+CHARAKTER: Koreanische Frau, Anfang 20, natürlich hübsch, realistische Haut, langes glattes dunkelbraunes Haar mit einer kleinen cremefarbenen Haarspange. Salbeigrünes Oversized-Polohemd, dunkle Jeans mit geradem Bein, weiße Retro-Sneaker, burgunderrote Umhängetasche, schmale silberne Uhr. Gesicht, Haare, Outfit, Accessoires und Proportionen perfekt konsistent halten.
+
+VISUELLER STIL: Authentisches Material einer billigen DV-Camcorder-Kamera. Handheld-Wackeln, unvollkommene Bildkomposition, Autofokus-Suchen, verblasste Farben, weiche digitale Details, Belichtungsverschiebungen, versehentliche Zooms, natürliche Bewegungsunschärfe. Kein filmischer Glanz oder Bildstabilisierung. Es soll sich anfühlen wie zufällig auf einer alten Speicherkarte gefundenes Videomaterial.
+
+SETTING: Ruhige ältere Straßen von Seoul, gealterte Wohnblocks, Betongassen, Topfpflanzen, Fahrräder, Strommasten, winzige Nachbarschaftsläden. Warmes spätnachmittägliches Sonnenlicht. Keine Marken oder Logos.
+
+HANDLUNG
+
+00:00–00:05 — DER PLAN
+Sie geht mit einer kleinen Papiertüte eine ruhige Gasse entlang. Sie überprüft ihre Einkaufsliste, stellt fest, dass sie bereits alles erledigt hat, und schaut dann direkt in die Kamera.
+
+„Ich bin nur wegen einer Sache rausgegangen.“
+
+Sie zuckt mit den Schultern und geht weiter.
+
+00:05–00:10 — DIE ENTDECKUNG
+Sie entdeckt einen winzigen Schreibwarenladen und findet eine wunderschöne cremefarbene Haarspange. Sie hält sie neben ihr Haar, prüft ihr Spiegelbild und lächelt.
+
+„Okay … das ist besser.“
+
+Die Kamera zoomt versehentlich viel zu nah heran.
+
+00:10–00:16 — DER MOMENT
+Draußen bemerkt sie ihr Spiegelbild in einer Pfütze. Sie richtet die Spange und posiert für eine halbe Sekunde.
+
+Ein Fahrrad klingelt plötzlich hinter ihr. Sie zuckt zusammen, dreht sich um und lacht dann über sich selbst.
+
+00:16–00:21 — DIE FREUNDIN
+Sie erreicht einen kleinen Innenhof, wo ihre Freundin mit zwei kalten Getränken auf sie wartet. Sie sitzen auf einer niedrigen Mauer, lachen und unterhalten sich ungezwungen.
+
+Ihre Freundin bemerkt die neue Spange und richtet sie für sie zurecht.
+
+Sie schaut in die Kamera:
+
+„Sie glaubt, sie wäre meine Stylistin.“
+
+00:21–00:25 — DIE ERINNERUNG
+Sie geht auf ihr Apartment zu, dreht sich noch einmal um, lächelt und zeigt auf die Haarspange.
+
+„Hat sich gelohnt, das Haus zu verlassen.“
+
+Sie verschwindet im Gebäude.
+
+Die Kamera verharrt noch eine Sekunde auf der leeren Gasse, bevor sie abrupt zu Schwarz überblendet.
+
+AUDIO: Nur natürliche Umgebungsgeräusche — Schritte, Vögel, entfernter Verkehr, Fahrradklingel, Wind, Ladengeräusche, Papierrascheln, Lachen, Geräusche von kalten Getränken. Keine Musik, Untertitel, Bildunterschriften, Logos oder Sprecherstimme.
+
+REALISMUS: Natürliche Reaktionen, unperfektes Timing, glaubwürdige Physik, konsistente Figuren und Objekte. Kein Identitätsdrift, keine verzerrten Hände, überzähligen Finger, duplizierten Personen, Teleportationen, Outfit-Wechsel oder CGI-Optik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

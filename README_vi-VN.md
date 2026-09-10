@@ -1179,20 +1179,69 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 <a name="prompt-2097936691273019608"></a>
 
-### Đang dịch
+### Lời nhắc video 25 giây phong cách băng quay gia đình DV đầu những năm 2000, ghi lại khoảnh khắc buổi chiều của một phụ nữ trẻ đi mua kẹp tóc và gặp gỡ bạn bè tại một khu phố cổ ở Seoul.
 
 Tác giả：[@kingofdairyque](https://x.com/kingofdairyque) · [Bài gốc](https://x.com/kingofdairyque/status/2097936691273019608)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video 25 giây phong cách băng quay gia đình DV đầu những năm 2000, ghi lại khoảnh khắc buổi chiều của một phụ nữ trẻ đi mua kẹp tóc và gặp gỡ bạn bè tại một khu phố cổ ở Seoul.
 
 <img src="covers/2097936691273019608.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Video gia đình chuẩn DV đầu những năm 2000 dài 25 giây, độ phân giải 1080p, tỉ lệ 16:9 siêu thực tế về một phụ nữ trẻ Hàn Quốc có một buổi chiều đáng nhớ đầy bất ngờ tại một khu phố cổ ở Seoul.
+
+NHÂN VẬT: Phụ nữ Hàn Quốc, đầu độ tuổi 20, vẻ đẹp tự nhiên, làn da chân thực, tóc dài thẳng màu nâu sẫm kẹp một chiếc kẹp tóc nhỏ màu kem. Áo polo dáng rộng màu xanh xô thơm, quần jeans ống đứng tối màu, giày thể thao phong cách retro màu trắng, túi đeo vai màu đỏ mận, đồng hồ bạc dây mỏng. Giữ khuôn mặt, mái tóc, trang phục, phụ kiện và tỷ lệ cơ thể của cô ấy hoàn toàn nhất quán.
+
+PHONG CÁCH HÌNH ẢNH: Cảnh quay từ máy quay phim DV giá rẻ chân thực. Máy rung lắc khi cầm tay, căn khung chưa hoàn hảo, hiện tượng tự động lấy nét liên tục, màu sắc nhạt dần, chi tiết kỹ thuật số mềm mại, phơi sáng thay đổi thất thường, thu phóng ngẫu nhiên, độ mờ chuyển động tự nhiên. Không mượt mà hay chống rung kiểu điện ảnh. Cảm giác như cảnh quay tình cờ tìm thấy trên một chiếc thẻ nhớ cũ.
+
+BỐI CẢNH: Những con phố cũ yên tĩnh ở Seoul, các căn hộ lâu năm, ngõ bê tông, chậu cây cảnh, xe đạp, cột điện, các cửa hàng nhỏ trong khu phố. Ánh nắng ấm áp cuối buổi chiều. Không có thương hiệu hay logo.
+
+CÂU CHUYỆN
+
+00:00–00:05 — KẾ HOẠCH
+Cô đi bộ xuống một con ngõ yên tĩnh với một chiếc túi giấy nhỏ. Cô kiểm tra danh sách mua sắm của mình, nhận ra mình đã hoàn thành tất cả mọi thứ, rồi nhìn thẳng vào máy quay.
+
+“Mình ra ngoài chỉ vì một thứ thôi đấy.”
+
+Cô nhún vai và tiếp tục bước đi.
+
+00:05–00:10 — SỰ KHÁM PHÁ
+Cô phát hiện ra một cửa hàng văn phòng phẩm nhỏ và tìm thấy một chiếc kẹp tóc màu kem rất đẹp. Cô ướm nó bên tóc, ngắm hình ảnh phản chiếu của mình và mỉm cười.
+
+“Được rồi… cái này đẹp hơn.”
+
+Máy quay vô tình phóng to quá gần.
+
+00:10–00:16 — KHOẢNH KHẮC
+Ra bên ngoài, cô nhận thấy hình ảnh phản chiếu của mình trong một vũng nước. Cô chỉnh lại kẹp tóc và tạo dáng trong nửa giây.
+
+Một chiếc xe đạp bất ngờ bấm chuông sau lưng cô. Cô giật mình, quay lại, rồi tự cười chính mình.
+
+00:16–00:21 — NGƯỜI BẠN
+Cô đến một khoảng sân nhỏ nơi bạn cô đang đợi với hai ly đồ uống lạnh. Họ ngồi trên một bức tường thấp, cười đùa và trò chuyện thoải mái.
+
+Bạn cô nhận ra chiếc kẹp mới và chỉnh lại giúp cô.
+
+Cô nhìn vào máy quay:
+
+“Nó cứ nghĩ nó là stylist của mình cơ.”
+
+00:21–00:25 — KỶ NIỆM
+Cô đi bộ về phía căn hộ của mình, quay lại nhìn, mỉm cười và chỉ vào chiếc kẹp tóc.
+
+“Thế là đáng công ra khỏi nhà.”
+
+Cô biến mất vào bên trong.
+
+Máy quay giữ lại khung hình con ngõ vắng trong một giây trước khi đột ngột chuyển sang màn hình đen.
+
+ÂM THANH: Chỉ có âm thanh môi trường tự nhiên — tiếng bước chân, tiếng chim hót, tiếng xe cộ từ xa, chuông xe đạp, tiếng gió, âm thanh cửa hàng, tiếng sột soạt của giấy, tiếng cười, tiếng đá trong đồ uống lạnh. Không có âm nhạc, phụ đề, chú thích, logo hoặc lời dẫn chuyện.
+
+ĐỘ CHÂN THỰC: Phản ứng tự nhiên, căn thời gian không hoàn hảo, tính chất vật lý đáng tin cậy, nhân vật và đồ vật nhất quán. Không bị biến dạng nhận dạng, bàn tay méo mó, thừa ngón tay, nhân bản người, dịch chuyển tức thời, thay đổi trang phục hay vẻ ngoài CGI.
 ```
 
 [↑ Về danh mục](#catalog)

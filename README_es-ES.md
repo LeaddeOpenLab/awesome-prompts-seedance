@@ -1165,20 +1165,69 @@ Traducción en curso
 
 <a name="prompt-2097936691273019608"></a>
 
-### Traducción en curso
+### Prompt de vídeo de 25 segundos al estilo de vídeo casero en DV de principios de los 2000, que captura la tarde de una joven comprando una pinza para el pelo y reuniéndose con una amiga en un barrio antiguo de Seúl.
 
 Autor：[@kingofdairyque](https://x.com/kingofdairyque) · [Publicación original](https://x.com/kingofdairyque/status/2097936691273019608)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de vídeo de 25 segundos al estilo de vídeo casero en DV de principios de los 2000, que captura la tarde de una joven comprando una pinza para el pelo y reuniéndose con una amiga en un barrio antiguo de Seúl.
 
 <img src="covers/2097936691273019608.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Vídeo casero en formato DV de principios de los años 2000, de 25 segundos, 1080p, 16:9, ultrarrealista, de una joven coreana que pasa una tarde inesperadamente memorable en un barrio antiguo de Seúl.
+
+PERSONAJE: Mujer coreana, de unos 20 años, naturalmente atractiva, piel realista, cabello largo y liso castaño oscuro con una pequeña pinza para el pelo de color crema. Polo oversize de color verde salvia, vaqueros oscuros de corte recto, zapatillas deportivas retro blancas, bolso de hombro burdeos, reloj fino de plata. Mantener su rostro, cabello, ropa, accesorios y proporciones perfectamente consistentes.
+
+ESTILO VISUAL: Auténtico metraje de videocámara DV económica. Temblor de cámara en mano, encuadre imperfecto, enfoque automático oscilante, colores desvaídos, detalle digital suave, cambios de exposición, zooms accidentales, desenfoque de movimiento natural. Sin pulido cinematográfico ni estabilización. Debe sentirse como un metraje encontrado por casualidad en una vieja tarjeta de memoria.
+
+ESCENARIO: Calles antiguas y tranquilas de Seúl, apartamentos envejecidos, callejones de hormigón, plantas en macetas, bicicletas, postes de luz, pequeñas tiendas de barrio. Cálida luz solar de última hora de la tarde. Sin marcas ni logotipos.
+
+HISTORIA
+
+00:00–00:05 — EL PLAN
+Camina por un callejón tranquilo con una pequeña bolsa de papel. Revisa su lista de compras, se da cuenta de que ya ha terminado todo y luego mira directamente a la cámara.
+
+«Solo salí por una cosa». 
+
+Se encoge de hombros y sigue caminando.
+
+00:05–00:10 — EL DESCUBRIMIENTO
+Descubre una pequeña papelería y encuentra una hermosa pinza para el pelo de color crema. Se la acerca al cabello, mira su reflejo y sonríe.
+
+«Vale… esto está mejor». 
+
+La cámara hace un zoom accidental demasiado cercano.
+
+00:10–00:16 — EL MOMENTO
+Afuera, nota su reflejo en un charco. Se ajusta la pinza y posa durante medio segundo.
+
+De repente, una bicicleta hace sonar su timbre detrás de ella. Se sobresalta, se da la vuelta y luego se ríe de sí misma.
+
+00:16–00:21 — LA AMIGA
+Llega a un pequeño patio donde su amiga la está esperando con dos bebidas frías. Se sientan en un muro bajo, se ríen y charlan relajadamente.
+
+Su amiga se da cuenta de la nueva pinza y se la acomoda.
+
+Ella mira a la cámara:
+
+«Se cree mi estilista». 
+
+00:21–00:25 — EL RECUERDO
+Camina hacia su apartamento, se vuelve, sonríe y señala la pinza para el pelo.
+
+«Ha valido la pena salir de casa». 
+
+Desaparece en el interior.
+
+La cámara permanece en el callejón vacío durante un segundo antes de cortar abruptamente a negro.
+
+AUDIO: Solo ambiente natural: pasos, pájaros, tráfico lejano, timbre de bicicleta, viento, sonidos de tiendas, movimiento de papel, risas, sonidos de bebidas frías. Sin música, subtítulos, letreros, logotipos ni narración.
+
+REALISMO: Reacciones naturales, sincronización imperfecta, física creíble, coherencia en el personaje y los objetos. Sin alteraciones de identidad, manos distorsionadas, dedos adicionales, personas duplicadas, teletransportación, cambios de vestimenta o apariencia de CGI.
 ```
 
 [↑ Volver a categorías](#catalog)

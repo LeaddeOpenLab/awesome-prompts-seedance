@@ -1035,20 +1035,69 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 
 <a name="prompt-2097936691273019608"></a>
 
-### Çeviri sürüyor
+### Eski bir Seul mahallesinde genç bir kadının saç tokası alıp arkadaşıyla buluştuğu bir öğleden sonra kesitini kaydeden, 2000'lerin başı DV ev videosu tarzında 25 saniyelik video istemi.
 
 Yazar：[@kingofdairyque](https://x.com/kingofdairyque) · [Orijinal gönderi](https://x.com/kingofdairyque/status/2097936691273019608)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Eski bir Seul mahallesinde genç bir kadının saç tokası alıp arkadaşıyla buluştuğu bir öğleden sonra kesitini kaydeden, 2000'lerin başı DV ev videosu tarzında 25 saniyelik video istemi.
 
 <img src="covers/2097936691273019608.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Eski bir Seul mahallesinde beklenmedik derecede unutulmaz bir öğleden sonra geçiren genç bir Koreli kadının 25 saniyelik, 1080p, 16:9 ultra gerçekçi, 2000'lerin başı DV ev videosu.
+
+KARAKTER: Koreli kadın, 20'li yaşların başında, doğal güzellikte, gerçekçi cilt, küçük krem rengi saç tokası takılmış uzun düz koyu kahverengi saçlar. Adaçayı yeşili bol kesim polo yaka tişört, koyu renk düz paça kot pantolon, beyaz retro spor ayakkabılar, bordo omuz çantası, ince gümüş saat. Yüzünü, saçını, kıyafetini, aksesuarlarını ve oranlarını tamamen tutarlı tutun.
+
+GÖRSEL TARZ: Otantik ucuz DV el kamerası çekimi. Elde çekim sarsıntısı, kusurlu kadrajlama, otomatik odaklama arayışı, soluk renkler, yumuşak dijital detaylar, pozlama değişimleri, kazara yapılan yakınlaştırmalar, doğal hareket bulanıklığı. Sinematik cila veya sabitleme yok. Eski bir hafıza kartında tesadüfen bulunmuş bir video gibi hissettirmeli.
+
+MEKÂN: Seul'ün sakin eski sokakları, yaşlanan apartmanlar, beton ara sokaklar, saksı bitkileri, bisikletler, elektrik direkleri, minik mahalle dükkanları. Ilık akşamüstü güneş ışığı. Marka veya logo yok.
+
+HİKÂYE
+
+00:00–00:05 — PLAN
+Küçük bir kağıt torbayla sessiz bir sokakta yürüyor. Alışveriş listesini kontrol ediyor, her şeyi çoktan bitirdiğini fark ediyor ve ardından doğrudan kameraya bakıyor.
+
+“I came out for one thing.”
+
+Omuz silkip yürümeye devam ediyor.
+
+00:05–00:10 — KEŞİF
+Küçük bir kırtasiye dükkanı görüyor ve güzel bir krem rengi saç tokası buluyor. Saçının yanında tutuyor, yansımasına bakıyor ve gülümsüyor.
+
+“Okay… this is better.”
+
+Kamera kazara aşırı yakınlaşma yapıyor.
+
+00:10–00:16 — O AN
+Dışarıda, su birikintisindeki yansımasını fark ediyor. Tokayı düzeltiyor ve yarım saniyeliğine poz veriyor.
+
+Arkasından aniden bir bisiklet zili çalıyor. İrkilip arkasına dönüyor, sonra kendi haline gülüyor.
+
+00:16–00:21 — ARKADAŞ
+Arkadaşının iki soğuk içecekle beklediği küçük bir avluya varıyor. Alçak bir duvara oturup gülüşüyor ve havadan sudan konuşuyorlar.
+
+Arkadaşı yeni tokayı fark ediyor ve onun için düzeltiyor.
+
+Kameraya bakıyor:
+
+“She thinks she’s my stylist.”
+
+00:21–00:25 — ANI
+Apartmanına doğru yürüyor, arkasını dönüyor, gülümsüyor ve saç tokasını işaret ediyor.
+
+“Worth leaving the house.”
+
+İçeri girip gözden kayboluyor.
+
+Kamera, aniden siyaha düşmeden önce bir saniye boş sokakta kalıyor.
+
+SES: Yalnızca doğal ortam sesleri — ayak sesleri, kuşlar, uzaktaki trafik, bisiklet zili, rüzgar, dükkan sesleri, kağıt hışırtısı, kahkaha, soğuk içecek sesleri. Müzik, altyazı, başlık, logo veya seslendirme yok.
+
+GERÇEKÇİLİK: Doğal tepkiler, kusurlu zamanlama, inandırıcı fizik, tutarlı karakter ve nesneler. Kimlik kayması, bozuk eller, fazladan parmaklar, yinelenen insanlar, ışınlanma, kıyafet değişiklikleri veya CGI görünümü yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

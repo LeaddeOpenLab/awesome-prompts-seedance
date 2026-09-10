@@ -1049,20 +1049,69 @@ Traduction en cours
 
 <a name="prompt-2097936691273019608"></a>
 
-### Traduction en cours
+### Prompt vidéo de 25 secondes dans le style vidéo personnelle DV du début des années 2000, capturant l'après-midi d'une jeune femme dans un vieux quartier de Séoul achetant une pince à cheveux et retrouvant une amie.
 
 Auteur：[@kingofdairyque](https://x.com/kingofdairyque) · [Publication originale](https://x.com/kingofdairyque/status/2097936691273019608)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt vidéo de 25 secondes dans le style vidéo personnelle DV du début des années 2000, capturant l'après-midi d'une jeune femme dans un vieux quartier de Séoul achetant une pince à cheveux et retrouvant une amie.
 
 <img src="covers/2097936691273019608.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Vidéo personnelle DV du début des années 2000 ultra-réaliste de 25 secondes, 1080p, 16:9, montrant une jeune femme coréenne passant un après-midi mémorable et inattendu dans un vieux quartier de Séoul.
+
+PERSONNAGE : Femme coréenne, début de la vingtaine, naturellement jolie, peau réaliste, longs cheveux raides châtain foncé avec une petite pince à cheveux crème. Polo oversize vert sauge, jean droit foncé, baskets rétro blanches, sac à bandoulière bordeaux, fine montre argentée. Conserver son visage, ses cheveux, sa tenue, ses accessoires et ses proportions parfaitement cohérents.
+
+STYLE VISUEL : Authentique séquence de caméscope DV d'entrée de gamme. Tremblement de caméra portée, cadrage imparfait, recherche de mise au point automatique, couleurs passées, détails numériques doux, variations d'exposition, zooms accidentels, flou de mouvement naturel. Aucun lissage cinématographique ni aucune stabilisation. La vidéo doit sembler avoir été découverte par hasard sur une vieille carte mémoire.
+
+DÉCOR : Rues anciennes et calmes de Séoul, immeubles vieillissants, ruelles en béton, plantes en pot, vélos, poteaux électriques, minuscules boutiques de quartier. Chaude lumière du soleil de fin d'après-midi. Aucune marque ni aucun logo.
+
+HISTOIRE
+
+00:00–00:05 — LE PLAN
+Elle descend une ruelle tranquille avec un petit sac en papier. Elle vérifie sa liste de courses, se rend compte qu'elle a déjà tout terminé, puis regarde directement la caméra.
+
+« Je n'étais sortie que pour une seule chose. »
+
+Elle hausse les épaules et continue de marcher.
+
+00:05–00:10 — LA DÉCOUVERTE
+Elle aperçoit une minuscule papeterie et y trouve une magnifique pince à cheveux crème. Elle la place à côté de ses cheveux, vérifie son reflet et sourit.
+
+« D'accord… c'est mieux comme ça. »
+
+La caméra zoome accidentellement bien trop près.
+
+00:10–00:16 — LE MOMENT
+Dehors, elle remarque son reflet dans une flaque d'eau. Elle replace la pince et prend la pose pendant une demi-seconde.
+
+Un vélo fait soudain retentir sa sonnette derrière elle. Elle sursaute, se retourne, puis rit d'elle-même.
+
+00:16–00:21 — L'AMIE
+Elle arrive dans une petite cour où son amie l'attend avec deux boissons fraîches. Elles s'assoient sur un muret, rient et discutent naturellement.
+
+Son amie remarque la nouvelle pince et la lui réajuste.
+
+Elle regarde la caméra :
+
+« Elle se prend pour ma styliste. »
+
+00:21–00:25 — LE SOUVENIR
+Elle marche vers son immeuble, se retourne, sourit et montre la pince à cheveux du doigt.
+
+« Ça valait la peine de sortir de chez moi. »
+
+Elle disparaît à l'intérieur.
+
+La caméra reste fixée sur la ruelle vide pendant une seconde avant de couper brusquement au noir.
+
+AUDIO : Ambiance naturelle uniquement — bruits de pas, oiseaux, circulation lointaine, sonnette de vélo, vent, bruits de magasins, bruissement de papier, rires, bruits de boissons fraîches. Aucune musique, aucun sous-titre, aucune légende, aucun logo ni aucune narration.
+
+RÉALISME : Réactions naturelles, timing imparfait, physique crédible, cohérence absolue du personnage et des objets. Pas de dérive d'identité, de mains déformées, de doigts en trop, de personnes dupliquées, de téléportation, de changements de tenue ni d'apparence CGI.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -1049,20 +1049,69 @@ Traducción en curso
 
 <a name="prompt-2097936691273019608"></a>
 
-### Traducción en curso
+### Prompt de video de 25 segundos estilo video casero DV de principios de los 2000, que captura la tarde de una joven en un barrio antiguo de Seúl comprando un broche para el cabello y reuniéndose con una amiga.
 
 Autor：[@kingofdairyque](https://x.com/kingofdairyque) · [Publicación original](https://x.com/kingofdairyque/status/2097936691273019608)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video de 25 segundos estilo video casero DV de principios de los 2000, que captura la tarde de una joven en un barrio antiguo de Seúl comprando un broche para el cabello y reuniéndose con una amiga.
 
 <img src="covers/2097936691273019608.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Video casero ultra realista en formato DV de principios de los años 2000, de 25 segundos, 1080p, 16:9, de una joven coreana pasando una tarde inesperadamente memorable en un barrio antiguo de Seúl.
+
+PERSONAJE: Mujer coreana, de unos 20 años, naturalmente bonita, piel realista, cabello largo, lacio y castaño oscuro con un pequeño broche para el cabello color crema. Polo holgado color verde salvia, jeans oscuros de corte recto, tenis retro blancos, bolso de hombro color vino tinto, reloj plateado delgado. Mantén su rostro, cabello, atuendo, accesorios y proporciones perfectamente consistentes.
+
+ESTILO VISUAL: Auténtico metraje de videocámara DV económica. Temblor de cámara en mano, encuadre imperfecto, búsqueda de enfoque automático, colores desvaídos, detalle digital suave, cambios de exposición, zooms accidentales, desenfoque de movimiento natural. Sin pulido cinematográfico ni estabilización. Debe sentirse como metraje encontrado por accidente en una vieja tarjeta de memoria.
+
+ESCENARIO: Calles antiguas y tranquilas de Seúl, departamentos envejecidos, callejones de concreto, plantas en macetas, bicicletas, postes de servicios públicos, pequeñas tiendas de barrio. Cálida luz solar del final de la tarde. Sin marcas ni logotipos.
+
+HISTORIA
+
+00:00–00:05 — EL PLAN
+Camina por un callejón tranquilo con una pequeña bolsa de papel. Revisa su lista de compras, se da cuenta de que ya terminó todo y luego mira directamente a la cámara.
+
+«Salí solo por una cosa».
+
+Se encoge de hombros y sigue caminando.
+
+00:05–00:10 — EL DESCUBRIMIENTO
+Descubre una pequeña papelería y encuentra un hermoso broche para el cabello color crema. Lo sostiene junto a su cabello, comprueba su reflejo y sonríe.
+
+«Bueno… esto está mejor».
+
+La cámara accidentalmente hace un zoom demasiado cercano.
+
+00:10–00:16 — EL MOMENTO
+Afuera, nota su reflejo en un charco. Se acomoda el broche y posa durante medio segundo.
+
+De repente, una bicicleta hace sonar su timbre detrás de ella. Se sobresalta, se da vuelta y luego se ríe de sí misma.
+
+00:16–00:21 — LA AMIGA
+Llega a un pequeño patio donde su amiga la está esperando con dos bebidas frías. Se sientan sobre un muro bajo, se ríen y conversan despreocupadamente.
+
+Su amiga nota el nuevo broche y se lo acomoda.
+
+Ella mira a la cámara:
+
+«Se cree mi estilista».
+
+00:21–00:25 — EL RECUERDO
+Camina hacia su departamento, se da vuelta, sonríe y señala el broche para el cabello.
+
+«Valió la pena salir de casa».
+
+Desaparece en el interior.
+
+La cámara permanece en el callejón vacío durante un segundo antes de cortar abruptamente a negro.
+
+AUDIO: Solo ambiente natural: pasos, pájaros, tráfico distante, timbre de bicicleta, viento, sonidos de tiendas, movimiento de papel, risas, sonidos de bebidas frías. Sin música, subtítulos, leyendas, logotipos ni narración.
+
+REALISMO: Reacciones naturales, sincronización imperfecta, física creíble, personaje y objetos consistentes. Sin cambios de identidad, manos distorsionadas, dedos adicionales, personas duplicadas, teletransportación, cambios de ropa ni apariencia de CGI.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -1035,20 +1035,69 @@ Tradução em andamento
 
 <a name="prompt-2097936691273019608"></a>
 
-### Tradução em andamento
+### Prompt de vídeo de 25 segundos no estilo de vídeo caseiro DV do início dos anos 2000, registrando o fragmento de uma tarde em um bairro antigo de Seul, onde uma jovem compra um prendedor de cabelo e se encontra com uma amiga.
 
 Autor：[@kingofdairyque](https://x.com/kingofdairyque) · [Publicação original](https://x.com/kingofdairyque/status/2097936691273019608)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de vídeo de 25 segundos no estilo de vídeo caseiro DV do início dos anos 2000, registrando o fragmento de uma tarde em um bairro antigo de Seul, onde uma jovem compra um prendedor de cabelo e se encontra com uma amiga.
 
 <img src="covers/2097936691273019608.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Vídeo caseiro em DV do início dos anos 2000, ultrarrealista, de 25 segundos, 1080p, 16:9, de uma jovem coreana passando uma tarde inesperadamente memorável em um bairro antigo de Seul.
+
+PERSONAGEM: Mulher coreana, início dos 20 anos, naturalmente bonita, pele realista, cabelos longos e lisos castanho-escuros com uma pequena presilha de cabelo creme. Camisa polo oversized verde-sálvia, jeans reto escuro, tênis retrô brancos, bolsa de ombro bordô, relógio fino de prata. Mantenha seu rosto, cabelo, roupas, acessórios e proporções perfeitamente consistentes.
+
+ESTILO VISUAL: Filmagens autênticas de filmadora DV barata. Tremido de câmera na mão, enquadramento imperfeito, foco automático oscilante, cores desbotadas, detalhes digitais suaves, mudanças de exposição, zooms acidentais, desfoque de movimento natural. Sem polimento cinematográfico ou estabilização. Deve parecer uma filmagem encontrada por acaso em um cartão de memória antigo.
+
+CENÁRIO: Ruas antigas e tranquilas de Seul, apartamentos envelhecidos, becos de concreto, vasos de plantas, bicicletas, postes de iluminação pública, pequenas lojas de bairro. Luz quente do final da tarde. Sem marcas ou logotipos.
+
+HISTÓRIA
+
+00:00–00:05 — O PLANO
+Ela caminha por um beco tranquilo com uma pequena sacola de papel. Ela verifica sua lista de compras, percebe que já terminou tudo e olha diretamente para a câmera.
+
+“I came out for one thing.”
+
+Ela dá de ombros e continua andando.
+
+00:05–00:10 — A DESCOBERTA
+Ela avista uma pequena papelaria e encontra uma linda presilha de cabelo creme. Ela a segura perto do cabelo, confere seu reflexo e sorri.
+
+“Okay… this is better.”
+
+A câmera acidentalmente dá um zoom excessivamente próximo.
+
+00:10–00:16 — O MOMENTO
+Do lado de fora, ela nota seu reflexo em uma poça d'água. Ela ajeita a presilha e faz pose por meio segundo.
+
+Uma bicicleta toca a campainha repentinamente atrás dela. Ela se assusta, vira-se e ri de si mesma.
+
+00:16–00:21 — A AMIGA
+Ela chega a um pequeno pátio onde sua amiga está esperando com duas bebidas geladas. Elas se sentam em um muro baixo, riem e conversam descontraidamente.
+
+Sua amiga percebe a presilha nova e a ajeita para ela.
+
+Ela olha para a câmera:
+
+“She thinks she’s my stylist.”
+
+00:21–00:25 — A MEMÓRIA
+Ela caminha em direção ao seu apartamento, vira-se, sorri e aponta para a presilha de cabelo.
+
+“Worth leaving the house.”
+
+Ela desaparece para dentro.
+
+A câmera permanece no beco vazio por um segundo antes de cortar abruptamente para o preto.
+
+ÁUDIO: Apenas ambiência natural — passos, pássaros, trânsito distante, campainha de bicicleta, vento, sons de loja, movimento de papel, risadas, sons de bebidas geladas. Sem música, legendas, textos na tela, logotipos ou narração.
+
+REALISMO: Reações naturais, timing imperfeito, física verossímil, personagem e objetos consistentes. Sem alteração de identidade, mãos distorcidas, dedos extras, pessoas duplicadas, teletransporte, mudanças de roupa ou aparência de CGI.
 ```
 
 [↑ Voltar às categorias](#catalog)
