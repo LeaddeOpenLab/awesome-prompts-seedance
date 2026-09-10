@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**32** Prompts · Latest addition: **2026-09-10**
+**33** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1241,6 +1241,37 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097908289619284300"></a>
+
+### Multi-scene skincare commercial prompt for a lavender face mask with product close-ups, application, and tagline.
+
+Author：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Source](https://x.com/AvelyrahnAI/status/2097908289619284300)
+
+Product · Published
+
+**Summary:** Multi-scene skincare commercial prompt for a lavender face mask with product close-ups, application, and tagline.
+
+<img src="covers/2097908289619284300.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A clean, minimalist commercial beauty video aesthetic with soft pastel purple and lavender theme and warm luxury lighting.
+
+Scene 1: A close up cinematic shot of a dark purple skincare jar labeled Foxtale Skin Radiance Mask
+placed on a minimalist white circular podium with an open lid revealing a smooth lavender clay mask and small purple flowers scattered around.
+
+Scene 2: Macro shot zooming in on a white cosmetic spatula lifting a rich, creamy, whipped lavender purple texture from the jar.
+
+Scene 3: A radiant young woman smilingly applying the smooth lavender face mask onto her cheekbone with the spatula and blending it effortlessly.
+
+Scene 4: The jar resting on a stone block against a pastel purple background with elegant bold text on the right side reading  Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097893690220085662"></a>
 
