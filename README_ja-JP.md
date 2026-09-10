@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**36** 件 · 最新の追加: **2026-09-10**
+**37** 件 · 最新の追加: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1063,6 +1063,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2097936691273019608"></a>
+
+### 翻訳中
+
+作者：[@kingofdairyque](https://x.com/kingofdairyque) · [元の投稿](https://x.com/kingofdairyque/status/2097936691273019608)
+
+キャラクター · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2097936691273019608.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2097904148360630318"></a>
 

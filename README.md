@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**36** Prompts · Latest addition: **2026-09-10**
+**37** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1357,6 +1357,77 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097936691273019608"></a>
+
+### A 25-second video prompt in an early-2000s DV home video style, capturing an afternoon moment of a young woman buying a hair clip and meeting a friend in an old Seoul neighborhood.
+
+Author：[@kingofdairyque](https://x.com/kingofdairyque) · [Source](https://x.com/kingofdairyque/status/2097936691273019608)
+
+Character · Published
+
+**Summary:** A 25-second video prompt in an early-2000s DV home video style, capturing an afternoon moment of a young woman buying a hair clip and meeting a friend in an old Seoul neighborhood.
+
+<img src="covers/2097936691273019608.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+25-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of a young Korean woman having an unexpectedly memorable afternoon in an old Seoul neighborhood.
+
+CHARACTER: Korean woman, early 20s, naturally pretty, realistic skin, long straight dark-brown hair with a small cream hair clip. Sage-green oversized polo, dark straight-leg jeans, white retro sneakers, burgundy shoulder bag, thin silver watch. Keep her face, hair, outfit, accessories, and proportions perfectly consistent.
+
+VISUAL STYLE: Authentic cheap DV camcorder footage. Handheld shake, imperfect framing, autofocus hunting, faded colors, soft digital detail, exposure shifts, accidental zooms, natural motion blur. No cinematic polish or stabilization. It should feel like footage accidentally found on an old memory card.
+
+SETTING: Quiet older Seoul streets, aging apartments, concrete alleys, potted plants, bicycles, utility poles, tiny neighborhood shops. Warm late-afternoon sunlight. No brands or logos.
+
+STORY
+
+00:00–00:05 — THE PLAN
+She walks down a quiet alley with a small paper bag. She checks her shopping list, realizes she already finished everything, then looks directly into the camera.
+
+“I came out for one thing.”
+
+She shrugs and keeps walking.
+
+00:05–00:10 — THE DISCOVERY
+She spots a tiny stationery shop and finds a beautiful cream hair clip. She holds it beside her hair, checks her reflection, and smiles.
+
+“Okay… this is better.”
+
+The camera accidentally zooms way too close.
+
+00:10–00:16 — THE MOMENT
+Outside, she notices her reflection in a puddle. She fixes the clip and poses for half a second.
+
+A bicycle suddenly rings its bell behind her. She jumps, turns around, then laughs at herself.
+
+00:16–00:21 — THE FRIEND
+She reaches a small courtyard where her friend is waiting with two cold drinks. They sit on a low wall, laugh, and casually talk.
+
+Her friend notices the new clip and fixes it for her.
+
+She looks at the camera:
+
+“She thinks she’s my stylist.”
+
+00:21–00:25 — THE MEMORY
+She walks toward her apartment, turns back, smiles, and points at the hair clip.
+
+“Worth leaving the house.”
+
+She disappears inside.
+
+The camera stays on the empty alley for one second before abruptly cutting to black.
+
+AUDIO: Natural ambience only — footsteps, birds, distant traffic, bicycle bell, wind, shop sounds, paper movement, laughter, cold drink sounds. No music, subtitles, captions, logos, or narration.
+
+REALISM: Natural reactions, imperfect timing, believable physics, consistent character and objects. No identity drift, distorted hands, extra fingers, duplicated people, teleportation, outfit changes, or CGI appearance.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097904148360630318"></a>
 
