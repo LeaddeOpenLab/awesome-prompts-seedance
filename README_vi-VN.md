@@ -329,20 +329,26 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2097901351049294063"></a>
 
-### Đang dịch
+### Lời nhắc tạo video vlog chân thực dài 30 giây về một phụ nữ tại hội chợ quận nông thôn vào một buổi tối mùa hè.
 
 Tác giả：[@nawalsehar](https://x.com/nawalsehar) · [Bài gốc](https://x.com/nawalsehar/status/2097901351049294063)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo video vlog chân thực dài 30 giây về một phụ nữ tại hội chợ quận nông thôn vào một buổi tối mùa hè.
 
 <img src="covers/2097901351049294063.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một vlog điện ảnh siêu thực dài 30 giây về hội chợ quận hạt của Mỹ, theo chân một phụ nữ trẻ người Mỹ trong một buổi tối mùa hè ấm áp. Bắt đầu bằng cảnh cô bước vào một hội chợ nông thôn nhỏ khi ánh nắng vàng dần tắt, sau đó đi đu quay đứng, cùng nhau thưởng thức món bánh phễu funnel cake mới làm, thử trò chơi ném vòng, tản bộ qua các gia đình và tiểu thương địa phương, lắng nghe ban nhạc đồng quê biểu diễn trực tiếp và ngắm pháo hoa thắp sáng màn đêm.
+
+Làm cho hội chợ mang đậm nét địa phương và hơi thở cuộc sống thực tế, với những con đường bụi bặm, xe bán tải, quầy đồ ăn, gian hàng gỗ, dây đèn giăng, trẻ em, gia đình, đất nông nghiệp và các trò chơi đu quay lễ hội phát sáng. Giữ nguyên diện mạo và trang phục của nhân vật trong suốt video.
+
+Sử dụng phong cách quay phim vlog cầm tay chân thực của năm 2026, biểu cảm tự nhiên, chuyển động máy quay tinh tế, ánh sáng buổi tối chân thực, hành vi đám đông sống động và chuyển động chuẩn xác theo vật lý. Ghi lại chi tiết món ăn, đường bột mịn như tuyết, cơ cấu máy móc của trò chơi, những chiếc vòng được ném, pháo hoa, khói bay lơ lửng, gió và hình ảnh phản chiếu.
+
+Chỉ sử dụng âm thanh tự nhiên tại khu hội chợ và âm nhạc trực tiếp cùng các câu thoại tiếng Anh-Mỹ ngắn, khớp khẩu hình. Không có thuyết minh, phụ đề, CGI, hoạt hình, đám đông giả tạo, chuyển động phi vật lý, máy quay trôi nổi lơ lửng, logo hoặc hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

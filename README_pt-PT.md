@@ -313,20 +313,26 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2097901351049294063"></a>
 
-### Tradução em curso
+### Prompt para um vídeo de vlog realista de 30 segundos de uma mulher numa feira rural de condado numa noite de verão.
 
 Autor：[@nawalsehar](https://x.com/nawalsehar) · [Publicação original](https://x.com/nawalsehar/status/2097901351049294063)
 
 Cena de Cinema / Fotograma · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para um vídeo de vlog realista de 30 segundos de uma mulher numa feira rural de condado numa noite de verão.
 
 <img src="covers/2097901351049294063.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vlog cinematográfico ultra-fotorrealista de 30 segundos sobre uma feira de condado americana, seguindo uma jovem americana ao longo de uma noite quente de verão. Comece com ela a entrar numa pequena feira rural enquanto a luz dourada se desvanece, depois a andar na roda-gigante, a partilhar um funnel cake acabado de fazer, a tentar a sua sorte no jogo de lançamento de argolas, a passear entre famílias e bancas locais, a ouvir uma banda de country ao vivo e a ver o fogo de artifício a iluminar a noite.
+
+Faça com que a feira pareça genuinamente local e vivida, com caminhos de terra, carrinhas de caixa aberta, bancas de comida, quiosques de madeira, grinaldas de luzes, crianças, famílias, terrenos agrícolas e carrosséis cintilantes. Mantenha a aparência e o vestuário da personagem idênticos ao longo de todo o vídeo.
+
+Utilize uma cinematografia realista de vlog de câmara na mão de 2026, expressões naturais, movimentos subtis de câmara, iluminação noturna autêntica, comportamento de multidão realista e movimentos fisicamente precisos. Capte comida detalhada, açúcar em pó semelhante a neve, a mecânica das diversões, argolas a serem lançadas, fogo de artifício, fumo a dispersar-se, vento e reflexos.
+
+Utilize unicamente o áudio natural do recinto da feira e música ao vivo com diálogos breves e sincronizados em inglês americano. Sem narração, legendas, CGI, animação, multidões falsas, física impossível, câmara flutuante, logótipos ou marcas de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -327,20 +327,26 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2097901351049294063"></a>
 
-### Traducción en curso
+### Prompt para un video de vlog realista de 30 segundos de una mujer en una feria rural de condado en una tarde de verano.
 
 Autor：[@nawalsehar](https://x.com/nawalsehar) · [Publicación original](https://x.com/nawalsehar/status/2097901351049294063)
 
 Cine / Fotograma · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para un video de vlog realista de 30 segundos de una mujer en una feria rural de condado en una tarde de verano.
 
 <img src="covers/2097901351049294063.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un vlog cinematográfico ultra fotorrealista de 30 segundos sobre una feria de condado estadounidense, siguiendo a una joven estadounidense a lo largo de una cálida tarde de verano. Comienza con ella entrando a una pequeña feria rural mientras la luz dorada se desvanece, luego subiendo a la rueda de la fortuna, compartiendo un funnel cake recién hecho, probando suerte en el juego de lanzamiento de aros, paseando entre familias y puestos locales, escuchando a una banda de country en vivo y viendo cómo los fuegos artificiales iluminan la noche.
+
+Haz que la feria se sienta genuinamente local y auténtica, con caminos polvorientos, camionetas pickup, puestos de comida, casetas de madera, luces en guirnalda, niños, familias, tierras de cultivo y atracciones de feria brillantes. Mantén la apariencia y la ropa del personaje idénticas en todo momento.
+
+Utiliza cinematografía realista de vlog cámara en mano de 2026, expresiones naturales, movimientos de cámara sutiles, iluminación vespertina auténtica, comportamiento de multitud realista y movimientos físicamente precisos. Captura comida detallada, azúcar glas que parece nieve, la mecánica de los juegos mecánicos, los aros lanzados, los fuegos artificiales, el humo dispersándose, el viento y los reflejos.
+
+Utiliza únicamente audio natural del recinto ferial y música en vivo con diálogos breves y sincronizados en inglés estadounidense. Sin narración, subtítulos, CGI, animación, multitudes falsas, física imposible, cámara flotante, logotipos ni marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -327,20 +327,26 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2097901351049294063"></a>
 
-### Traducción en curso
+### Prompt para un video vlog realista de 30 segundos de una mujer en una feria de condado rural en una tarde de verano.
 
 Autor：[@nawalsehar](https://x.com/nawalsehar) · [Publicación original](https://x.com/nawalsehar/status/2097901351049294063)
 
 Cine / Fotograma de película · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para un video vlog realista de 30 segundos de una mujer en una feria de condado rural en una tarde de verano.
 
 <img src="covers/2097901351049294063.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un vlog cinematográfico ultrarrealista de 30 segundos sobre una feria de condado estadounidense siguiendo a una joven mujer estadounidense durante una cálida tarde de verano. Comienza con ella entrando a una pequeña feria rural mientras la luz dorada se desvanece, luego subiendo a la noria, compartiendo un pastel de embudo recién hecho, probando un juego de lanzamiento de aros, paseando entre familias y vendedores locales, escuchando a una banda de country en vivo y viendo fuegos artificiales iluminar la noche.
+
+Haz que la feria se sienta genuinamente local y llena de vida, con senderos polvorientos, camionetas pickup, puestos de comida, casetas de madera, tiras de luces, niños, familias, tierras de cultivo y atracciones de feria brillantes. Mantén la apariencia y la ropa del personaje idénticas en todo momento.
+
+Utiliza una cinematografía realista de vlog con cámara en mano propia de 2026, expresiones naturales, movimientos de cámara sutiles, iluminación vespertina auténtica, comportamiento realista de la multitud y movimiento físicamente preciso. Captura comida detallada, azúcar glas similar a la nieve, la mecánica de las atracciones, aros lanzados, fuegos artificiales, humo flotando, viento y reflejos.
+
+Utiliza únicamente audio ambiental natural del recinto ferial y música en directo con diálogos breves y sincronizados en inglés estadounidense. Sin narración, subtítulos, CGI, animación, multitudes falsas, física imposible, cámara flotante, logotipos ni marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

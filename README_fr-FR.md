@@ -327,20 +327,26 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2097901351049294063"></a>
 
-### Traduction en cours
+### Prompt pour une vidéo vlog réaliste de 30 secondes d'une femme lors d'une foire de comté rurale par une soirée d'été.
 
 Auteur：[@nawalsehar](https://x.com/nawalsehar) · [Publication originale](https://x.com/nawalsehar/status/2097901351049294063)
 
 Image cinématographique / Photogramme de film · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour une vidéo vlog réaliste de 30 secondes d'une femme lors d'une foire de comté rurale par une soirée d'été.
 
 <img src="covers/2097901351049294063.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un vlog cinématographique ultra-photoréaliste de 30 secondes sur une foire de comté américaine, suivant une jeune femme américaine au cours d'une chaude soirée d'été. Commencez par son entrée dans une petite foire rurale alors que la lumière dorée décline, puis montrez-la sur la grande roue, partageant un funnel cake tout chaud, essayant un jeu de lancer d'anneaux, déambulant parmi les familles et les marchands locaux, écoutant un groupe de country en direct et regardant les feux d'artifice illuminer la nuit.
+
+Faites en sorte que la foire paraisse authentiquement locale et vivante, avec des chemins poussiéreux, des camionnettes, des stands de nourriture, des baraques en bois, des guirlandes lumineuses, des enfants, des familles, des terres agricoles et des manèges forains étincelants. Conservez une apparence et des vêtements identiques pour le personnage d'un bout à l'autre.
+
+Utilisez une cinématographie réaliste de vlog caméra au poing de 2026, des expressions naturelles, des mouvements de caméra subtils, un éclairage de soirée authentique, un comportement de foule réaliste et des mouvements physiquement précis. Capturez la nourriture en détail, le sucre glace semblable à de la neige, la mécanique des manèges, les anneaux lancés, les feux d'artifice, la fumée qui s'élève, le vent et les reflets.
+
+Utilisez uniquement le son naturel de la fête foraine et de la musique en direct avec de courts dialogues synchronisés en anglais américain. Pas de voix off, pas de sous-titres, pas d'effets spéciaux numériques (CGI), pas d'animation, pas de foules artificielles, pas de physique impossible, pas de caméra flottante, pas de logos ni de filigranes.
 ```
 
 [↑ Retour aux catégories](#catalog)

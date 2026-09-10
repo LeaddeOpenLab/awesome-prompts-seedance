@@ -313,20 +313,26 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2097901351049294063"></a>
 
-### Çeviri sürüyor
+### Bir yaz akşamında kırsal bir kasaba panayırındaki bir kadının 30 saniyelik gerçekçi vlog videosu için prompt.
 
 Yazar：[@nawalsehar](https://x.com/nawalsehar) · [Orijinal gönderi](https://x.com/nawalsehar/status/2097901351049294063)
 
 Sinematik / Film Karesi · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir yaz akşamında kırsal bir kasaba panayırındaki bir kadının 30 saniyelik gerçekçi vlog videosu için prompt.
 
 <img src="covers/2097901351049294063.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sıcak bir yaz akşamında genç bir Amerikalı kadını takip eden, 30 saniyelik ultra fotogerçekçi, sinematik bir Amerikan kasaba panayırı vlogu oluşturun. Altın sarısı ışık kaybolurken kadının küçük bir kırsal panayıra girişiyle başlayın; ardından dönme dolaba binmesini, taze bir funnel cake paylaşmasını, halka atma oyununu denemesini, ailelerin ve yerel satıcıların arasında dolaşmasını, canlı bir country müzik grubunu dinlemesini ve havai fişeklerin geceyi aydınlatışını izlemesini gösterin.
+
+Panayırın; tozlu yollar, pikaplar, yemek tezgahları, ahşap stantlar, dizi dizi ampuller, çocuklar, aileler, tarım arazileri ve ışıl ışıl parlayan lunapark oyuncaklarıyla gerçekten yerel ve yaşanmış hissi vermesini sağlayın. Karakterin görünümünü ve kıyafetlerini video boyunca tamamen aynı tutun.
+
+2026 yılına uygun gerçekçi elde tutulan kamera vlog sinematografisi, doğal yüz ifadeleri, hafif kamera hareketleri, otantik akşam aydınlatması, gerçekçi kalabalık davranışları ve fiziksel olarak doğru hareketler kullanın. Ayrıntılı yiyecekleri, kar tanesini andıran pudra şekerini, lunapark aletlerinin mekaniğini, atılan halkaları, havai fişekleri, süzülen dumanı, rüzgarı ve yansımaları yakalayın.
+
+Yalnızca Amerikan İngilizcesinde kısa, senkronize diyaloglar içeren doğal panayır alanı seslerini ve canlı müziği kullanın. Dış ses anlatımı, altyazı, CGI, animasyon, sahte kalabalıklar, imkansız fizik kuralları, süzülen kamera, logo veya filigran olmasın.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -327,20 +327,26 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2097901351049294063"></a>
 
-### Übersetzung läuft
+### Prompt für ein 30-sekündiges realistisches Vlog-Video einer Frau auf einem ländlichen Jahrmarkt an einem Sommerabend.
 
 Autor：[@nawalsehar](https://x.com/nawalsehar) · [Originalbeitrag](https://x.com/nawalsehar/status/2097901351049294063)
 
 Kinematisch / Filmstill · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein 30-sekündiges realistisches Vlog-Video einer Frau auf einem ländlichen Jahrmarkt an einem Sommerabend.
 
 <img src="covers/2097901351049294063.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 30-sekündigen, ultra-fotorealistischen, filmischen Vlog über ein US-amerikanisches Bezirksfest (County Fair), der eine junge Amerikanerin durch einen warmen Sommerabend begleitet. Beginne damit, wie sie ein kleines ländliches Fest betritt, während das goldene Licht schwindet, dann mit dem Riesenrad fährt, einen frischen Funnel Cake teilt, sich an einem Ringwurfspiel versucht, zwischen Familien und lokalen Händlern schlendert, einer Live-Country-Band lauscht und beobachtet, wie Feuerwerk die Nacht erhellt.
+
+Lass den Jahrmarkt wahrhaft lokal und lebendig wirken, mit staubigen Pfaden, Pickups, Imbissständen, Holzbuden, Lichterketten, Kindern, Familien, Ackerland und leuchtenden Fahrgeschäften. Behalte das Erscheinungsbild und die Kleidung der Figur durchgehend identisch bei.
+
+Verwende realistische Handheld-Vlog-Kinematographie des Jahres 2026, natürliche Gesichtsausdrücke, subtile Kamerabewegungen, authentische Abendbeleuchtung, realistisches Verhalten der Menschenmenge und physikalisch akkurate Bewegungen. Fange detailreiches Essen, schneeartigen Puderzucker, die Mechanik der Fahrgeschäfte, geworfene Ringe, Feuerwerk, ziehenden Rauch, Wind und Reflexionen ein.
+
+Verwende ausschließlich natürliche Festplatzgeräusche und Live-Musik mit kurzen, synchronisierten Dialogen auf amerikanischem Englisch. Keine Erzählung, keine Untertitel, kein CGI, keine Animation, keine gefälschten Menschenmengen, keine unmögliche Physik, keine schwebende Kamera, keine Logos oder Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

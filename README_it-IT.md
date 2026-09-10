@@ -327,20 +327,26 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2097901351049294063"></a>
 
-### Traduzione in corso
+### Prompt per un video vlog realistico di 30 secondi di una donna a una fiera rurale di contea in una serata estiva.
 
 Autore：[@nawalsehar](https://x.com/nawalsehar) · [Post originale](https://x.com/nawalsehar/status/2097901351049294063)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per un video vlog realistico di 30 secondi di una donna a una fiera rurale di contea in una serata estiva.
 
 <img src="covers/2097901351049294063.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un vlog cinematografico ultra-fotorealistico di 30 secondi su una fiera di contea americana, seguendo una giovane donna americana durante una calda serata estiva. Inizia con lei che entra in una piccola fiera rurale mentre la luce dorata svanisce, poi sale sulla ruota panoramica, condivide un funnel cake appena fatto, prova un gioco di lancio degli anelli, passeggia tra famiglie e bancarelle locali, ascolta un gruppo country dal vivo e guarda i fuochi d'artificio illuminare la notte.
+
+Rendi la fiera autenticamente locale e vissuta, con sentieri polverosi, pick-up, stand gastronomici, chioschi di legno, fili di luci, bambini, famiglie, terreni agricoli e giostre carnevalesche luminose. Mantieni l'aspetto e l'abbigliamento del personaggio identici per tutta la durata.
+
+Utilizza una cinematografia realistica in stile vlog a mano del 2026, espressioni naturali, movimenti di macchina impercettibili, un'illuminazione serale autentica, un comportamento della folla realistico e movimenti fisicamente accurati. Cattura cibo dettagliato, zucchero a velo simile a neve, la meccanica delle giostre, anelli lanciati, fuochi d'artificio, fumo alla deriva, vento e riflessi.
+
+Utilizza solo l'audio naturale del luna park e musica dal vivo con brevi dialoghi sincronizzati in inglese americano. Nessuna voce fuori campo, sottotitoli, CGI, animazione, folle finte, fisica impossibile, telecamera fluttuante, loghi o watermark.
 ```
 
 [↑ Torna alle categorie](#catalog)
