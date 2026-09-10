@@ -913,7 +913,7 @@ Karakter · Yayımlandı
 
 <a name="prompt-2097891120701480996"></a>
 
-### Çeviri sürüyor
+### Sonbahar festivalinde yukata giymiş bir kadının takoyaki alışını ve yürüyüşünü tasvir eden doğal akıllı telefon çekimi tarzı video istemi.
 
 Yazar：[@akiyoshisan](https://x.com/akiyoshisan) · [Orijinal gönderi](https://x.com/akiyoshisan/status/2097891120701480996)
 
@@ -921,14 +921,20 @@ Karakter · Yayımlandı
 
 Orijinal gönderi：[@akiyoshisan](https://x.com/akiyoshisan) · [Orijinal gönderi](https://x.com/akiyoshisan/status/2097185065772138617)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sonbahar festivalinde yukata giymiş bir kadının takoyaki alışını ve yürüyüşünü tasvir eden doğal akıllı telefon çekimi tarzı video istemi.
 
 <img src="covers/2097891120701480996.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Günümüz Japonyası, Fukuoka'da eylül ortasındaki bir sonbahar festivalini anımsatan tapınak yolu gecesi. Sevimli bir yukata giymiş Japon bir kadın, arkadaşı tarafından akıllı telefonla doğal bir şekilde kaydediliyor. Tezgâhların sıcak tonlu ışıkları, erken sonbaharın hafif maviye çalan gece havasıyla buluşuyor.
+
+Kadın bir tezgâh fark eder ve takoyaki alır. Teslim aldıktan sonra kayık şeklindeki tabağı göğüs hizasında tutar, kürdanla yalnızca bir adet takoyaki alır ve sıcak olduğu için yemeden önce ağzının önünde hafifçe üfleyerek soğuttuktan sonra doğal bir şekilde yer. Lezzeti abartılı mimiklerle göstermez, sadece göz çevresi ve dudakları hafifçe gevşer. Sos veya palamut kurusu bulaşmasından endişelenerek ağzının kenarını bir mendille nazikçe kurular.
+
+Hemen ardından yürümeye başlar; tezgâh sırası, kalabalık, geniş tapınak yolu ve tapınağın yanındaki biraz daha sakin köşe arasında her 2-3 saniyede bir tempolu bir şekilde mekân ve kompozisyon değişir. Uzun süre sadece arkadan çekim sürdürülmez; yan profil, eller, çapraz arka açı ve yürüyüşün genel çekimleri doğal olarak birbirini izler. Sonlara doğru tezgâhların ışıkları uzaklaşır, gece rüzgârıyla kâkülleri ve yukatasının kolları dalgalanır. Son olarak yürürken kamera yana doğru kayar ve yüzün doğal bir yakın çekimini yapar. Festivalin bıraktığı tatlı anı hissi ve yaz sonundan erken sonbahara geçişin havası korunarak son bulur.
+
+Diyalog, altyazı, fon müziği veya logo yok. Aşırı oyunculuk, modellik tavırları, kameraya bakış yok. Sabit kamera uzun süre tutulmaz. Kayık tabaktan doğrudan ısırılmaz; takoyaki kesinlikle kürdanla yenmelidir. Karakterin yüzü, yukatası, obi kuşağı, saç modeli, uchiwa yelpazesi ve kayık tabağın sürekliliği korunmalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

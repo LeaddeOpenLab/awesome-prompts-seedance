@@ -1057,7 +1057,7 @@ Nhân vật · Đã xuất bản
 
 <a name="prompt-2097891120701480996"></a>
 
-### Đang dịch
+### Lời nhắc video mang phong cách quay tự nhiên bằng điện thoại thông minh, mô tả một cô gái mặc yukata mua takoyaki và tản bộ tại lễ hội mùa thu.
 
 Tác giả：[@akiyoshisan](https://x.com/akiyoshisan) · [Bài gốc](https://x.com/akiyoshisan/status/2097891120701480996)
 
@@ -1065,14 +1065,20 @@ Nhân vật · Đã xuất bản
 
 Bài gốc：[@akiyoshisan](https://x.com/akiyoshisan) · [Bài gốc](https://x.com/akiyoshisan/status/2097185065772138617)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video mang phong cách quay tự nhiên bằng điện thoại thông minh, mô tả một cô gái mặc yukata mua takoyaki và tản bộ tại lễ hội mùa thu.
 
 <img src="covers/2097891120701480996.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Nhật Bản hiện đại, một đêm trên lối đi vào đền thờ gợi nhớ đến lễ hội mùa thu giữa tháng 9 ở Fukuoka. Một người bạn dùng điện thoại thông minh quay lại khoảnh khắc tự nhiên của một cô gái Nhật Bản trong bộ yukata đáng yêu. Ánh đèn màu ấm từ các quầy hàng kết hợp với bầu không khí đêm đầu thu hơi ánh sắc xanh.
+
+Cô gái nhìn thấy một quầy hàng và mua takoyaki. Sau khi nhận, cô cầm khay hình thuyền trước ngực, dùng tăm xiên một viên takoyaki duy nhất, vì còn nóng nên cô thổi nhẹ vài cái trước miệng để nguội bớt rồi ăn một cách tự nhiên. Vẻ ngon miệng không hề diễn xuất quá đà, chỉ là khóe mắt và khóe miệng hơi giãn ra thư thái. Lo dính sốt hoặc cá bào, cô dùng khăn giấy chạm nhẹ lau quanh miệng.
+
+Ngay sau đó cô bước đi tiếp, thay đổi địa điểm và góc máy nhịp nhàng sau mỗi 2-3 giây: dãy quầy hàng, đám đông, lối đi rộng rãi, đến bên hông đền thờ yên tĩnh hơn một chút. Không kéo dài góc nhìn từ phía sau quá lâu, mà chuyển đổi tự nhiên giữa góc nhìn nghiêng, cận cảnh bàn tay, góc xéo từ phía sau và cảnh quay xa khi đang bước đi. Ở đoạn cuối, ánh đèn quầy hàng xa dần, gió đêm thổi lay động tóc mái và tay áo yukata. Cuối cùng, máy quay vừa di chuyển vừa lượn sang một bên, quay cận cảnh khuôn mặt một cách tự nhiên. Kết thúc để lại dư vị của lễ hội cùng bầu không khí chuyển giao từ cuối hạ sang đầu thu.
+
+Không có lời thoại, phụ đề, BGM, logo. Không diễn xuất quá đà, không tạo dáng kiểu người mẫu, không nhìn vào ống kính máy quay. Không giữ góc máy tĩnh quá lâu. Không cắn trực tiếp vào đĩa hình thuyền, takoyaki nhất định phải dùng tăm để ăn. Duy trì tính liên tục của khuôn mặt nhân vật, yukata, obi, kiểu tóc, quạt tròn và đĩa hình thuyền.
 ```
 
 [↑ Về danh mục](#catalog)

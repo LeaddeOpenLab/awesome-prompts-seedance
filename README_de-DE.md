@@ -927,7 +927,7 @@ Charakter · Veröffentlicht
 
 <a name="prompt-2097891120701480996"></a>
 
-### Übersetzung läuft
+### Video-Prompt im Stil einer authentischen Smartphone-Aufnahme, die eine Frau im Yukata beim Takoyaki-Kauf und Flanieren auf einem Herbstfest zeigt.
 
 Autor：[@akiyoshisan](https://x.com/akiyoshisan) · [Originalbeitrag](https://x.com/akiyoshisan/status/2097891120701480996)
 
@@ -935,14 +935,20 @@ Charakter · Veröffentlicht
 
 Originalbeitrag：[@akiyoshisan](https://x.com/akiyoshisan) · [Originalbeitrag](https://x.com/akiyoshisan/status/2097185065772138617)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Video-Prompt im Stil einer authentischen Smartphone-Aufnahme, die eine Frau im Yukata beim Takoyaki-Kauf und Flanieren auf einem Herbstfest zeigt.
 
 <img src="covers/2097891120701480996.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Modernes Japan, Nacht auf dem Zugangsweg zu einem Schrein, die an ein Herbstfest Mitte September in Fukuoka erinnert. Eine junge Japanerin in einem hübschen Yukata wird von einer Freundin ganz ungezwungen mit einem Smartphone gefilmt. Das warme Licht der Marktstände harmoniert mit der leicht bläulichen Nachtluft des Frühherbstes.
+
+Die Frau entdeckt einen Stand und kauft Takoyaki. Nach der Übergabe hält sie die schiffchenförmige Schale vor die Brust, nimmt mit einem Zahnstocher genau ein Takoyaki auf und pustet kurz vor dem Mund sanft darauf, da es heiß ist, bevor sie es ganz natürlich isst. Der Geschmack wird nicht übertrieben dargestellt; lediglich ihre Augenpartie und die Mundwinkel entspannen sich leicht. Besorgt über Soße oder Bonitoflocken tupft sie sich mit einem Papiertaschentuch kurz den Mund ab.
+
+Unmittelbar danach geht sie weiter, wobei alle 2 bis 3 Sekunden in flottem Tempo Ort und Bildausschnitt wechseln: Budengasse, Menschenmenge, breiterer Schreinweg, etwas ruhigere Ecke neben dem Schrein. Die Rückansicht wird nicht lange gehalten, sondern wechselt organisch zwischen Profilansicht, Nahaufnahme der Hände, schrägem Blick von hinten und einer gehenden Totalen. Gegen Ende rücken die Lichter der Stände in die Ferne, und der Nachtwind bewegt sanft ihren Pony und die Ärmel des Yukata. Schließlich schwenkt die Kamera im Gehen zur Seite und fängt ihr Gesicht in einer natürlichen Nahaufnahme ein. Die Szene endet mit dem Nachklang des Festes und dem spürbaren Übergang vom Spätsommer zum Frühherbst.
+
+Keine Dialoge, keine Untertitel, keine Hintergrundmusik, keine Logos. Kein übertriebenes Schauspiel, kein modelhaftes Posieren, kein Blick in die Kamera. Keine langen statischen Einstellungen. Nicht direkt aus der Schale abbeißen; das Takoyaki muss stets mit einem Zahnstocher gegessen werden. Die Kontinuität von Gesicht, Yukata, Obi, Frisur, Uchiwa-Fächer und Schälchen muss gewahrt bleiben.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

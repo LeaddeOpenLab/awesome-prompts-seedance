@@ -927,7 +927,7 @@ Traduzione in corso
 
 <a name="prompt-2097891120701480996"></a>
 
-### Traduzione in corso
+### Prompt video in stile ripresa spontanea da smartphone che ritrae una donna in yukata mentre compra takoyaki e passeggia durante un festival autunnale.
 
 Autore：[@akiyoshisan](https://x.com/akiyoshisan) · [Post originale](https://x.com/akiyoshisan/status/2097891120701480996)
 
@@ -935,14 +935,20 @@ Personaggio · Pubblicato
 
 Post originale：[@akiyoshisan](https://x.com/akiyoshisan) · [Post originale](https://x.com/akiyoshisan/status/2097185065772138617)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt video in stile ripresa spontanea da smartphone che ritrae una donna in yukata mentre compra takoyaki e passeggia durante un festival autunnale.
 
 <img src="covers/2097891120701480996.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Giappone contemporaneo, notte lungo la via d'accesso a un santuario che richiama una festa autunnale di metà settembre a Fukuoka. Una graziosa ragazza giapponese in yukata viene ripresa spontaneamente con uno smartphone da un'amica. Le luci calde delle bancarelle si fondono con l'aria notturna lievemente azzurrina di inizio autunno.
+
+La ragazza nota una bancarella e compra dei takoyaki. Dopo averli presi, tiene la vaschetta a forma di barchetta all'altezza del petto, infilza un solo takoyaki con uno stuzzicadenti e, poiché scotta, soffia brevemente davanti alla bocca prima di mangiarlo con naturalezza. Non esagera la recitazione nel gustarlo: semplicemente lo sguardo e la bocca si distendono appena. Preoccupata per la salsa o per i fiocchi di bonito, si tampona delicatamente le labbra con un fazzoletto.
+
+Subito dopo si rimette a camminare, cambiando ambientazione e inquadratura con ritmo fluido ogni 2-3 secondi: la fila di bancarelle, la folla, l'ampio viale del santuario, fino a un angolo più appartato e silenzioso. Non si protrae a lungo la sola vista da dietro, ma si alternano con disinvoltura profilo, dettagli delle mani, inquadrature diagonali posteriori e piani allargati mentre cammina. Verso la fine, le luci delle bancarelle si allontanano, e la brezza notturna fa oscillare la frangetta e le maniche dello yukata. Infine, camminando, la videocamera si sposta lateralmente per stringere naturalmente sul volto. Si conclude lasciando il dolce ricordo della festa e l'atmosfera del passaggio dalla fine dell'estate all'inizio dell'autunno.
+
+Nessun dialogo, nessun sottotitolo, nessuna musica di sottofondo, nessun logo. Nessuna recitazione enfatica, nessun atteggiamento da modella, nessuno sguardo in camera. Evitare inquadrature fisse prolungate. Non addentare direttamente dalla vaschetta; il takoyaki va mangiato tassativamente con lo stuzzicadenti. Mantenere la continuità del volto del personaggio, dello yukata, dell'obi, dell'acconciatura, del ventaglio uchiwa e della vaschetta.
 ```
 
 [↑ Torna alle categorie](#catalog)

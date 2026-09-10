@@ -913,7 +913,7 @@ Tradução em curso
 
 <a name="prompt-2097891120701480996"></a>
 
-### Tradução em curso
+### Prompt de vídeo com estilo de filmagem espontânea de smartphone que retrata uma mulher de yukata a comprar takoyaki e a passear num festival de outono.
 
 Autor：[@akiyoshisan](https://x.com/akiyoshisan) · [Publicação original](https://x.com/akiyoshisan/status/2097891120701480996)
 
@@ -921,14 +921,20 @@ Personagem · Publicado
 
 Publicação original：[@akiyoshisan](https://x.com/akiyoshisan) · [Publicação original](https://x.com/akiyoshisan/status/2097185065772138617)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo com estilo de filmagem espontânea de smartphone que retrata uma mulher de yukata a comprar takoyaki e a passear num festival de outono.
 
 <img src="covers/2097891120701480996.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Japão contemporâneo, noite no caminho de acesso a um santuário que evoca um festival de outono de meados de setembro em Fukuoka. Uma jovem japonesa com um belo yukata é filmada de forma espontânea por uma amiga com um smartphone. A iluminação acolhedora das bancas de rua contrasta com o ar noturno ligeiramente azulado do início do outono.
+
+A mulher descobre uma banca e compra takoyaki. Após receber, segura a bandeja em forma de barco junto ao peito, retira um único takoyaki com um palito e, por estar quente, sopra suavemente diante da boca antes de o comer com naturalidade. Não há exageros a demonstrar sabor; apenas o olhar e os lábios se descontraem ligeiramente. Atenta ao molho ou aos flocos de bonito, limpa suavemente os lábios com um lenço de papel.
+
+Logo de seguida começa a andar, alternando de local e de enquadramento com ritmo a cada 2 ou 3 segundos: a fila de bancas, a multidão, o caminho amplo e uma zona mais serena junto ao santuário. A perspetiva de costas não é mantida por muito tempo, alternando naturalmente com o perfil, as mãos, ângulos diagonais posteriores e planos mais afastados a caminhar. Perto do fim, as luzes das bancas afastam-se, e a brisa noturna agita a sua franja e as mangas do yukata. Por fim, enquanto caminha, a câmara contorna para o lado, obtendo um grande plano natural do rosto. Termina deixando a sensação de nostalgia do festival e a atmosfera de transição do final do verão para o início do outono.
+
+Sem falas, sem legendas, sem música de fundo, sem logótipos. Sem representação exagerada, sem poses de modelo, sem olhar para a câmara. Sem planos fixos prolongados. Não morder diretamente da bandeja; o takoyaki tem de ser comido obrigatoriamente com o palito. Manter a continuidade do rosto, do yukata, do obi, do penteado, do leque uchiwa e da bandeja.
 ```
 
 [↑ Voltar às categorias](#catalog)

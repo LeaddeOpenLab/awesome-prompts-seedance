@@ -927,7 +927,7 @@ Traduction en cours
 
 <a name="prompt-2097891120701480996"></a>
 
-### Traduction en cours
+### Prompt vidéo dans le style d'une prise de vue naturelle au smartphone montrant une femme en yukata achetant des takoyaki et flânant lors d'un festival d'automne.
 
 Auteur：[@akiyoshisan](https://x.com/akiyoshisan) · [Publication originale](https://x.com/akiyoshisan/status/2097891120701480996)
 
@@ -935,14 +935,20 @@ Personnage · Publié
 
 Publication originale：[@akiyoshisan](https://x.com/akiyoshisan) · [Publication originale](https://x.com/akiyoshisan/status/2097185065772138617)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt vidéo dans le style d'une prise de vue naturelle au smartphone montrant une femme en yukata achetant des takoyaki et flânant lors d'un festival d'automne.
 
 <img src="covers/2097891120701480996.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Japon contemporain, nuit sur l'allée menant à un sanctuaire évoquant un festival d'automne de la mi-septembre à Fukuoka. Une jeune femme japonaise vêtue d'un ravissant yukata est filmée spontanément avec un smartphone par une amie. Les lumières chaudes des étals contrastent avec l'air nocturne légèrement bleuté du début de l'automne.
+
+La jeune femme aperçoit un stand et achète des takoyaki. Après les avoir reçus, elle tient la barquette en forme de bateau au niveau de la poitrine, saisit un seul takoyaki avec un cure-dent, puis souffle brièvement dessus juste devant sa bouche car il est chaud, avant de le déguster naturellement. Elle n'exagère pas le délice de la bouchée ; seuls son regard et le coin de ses lèvres s'adoucissent légèrement. Soucieuse de la sauce ou des flocons de bonite, elle se tapote délicatement la bouche avec un mouchoir.
+
+Elle se remet aussitôt en marche, changeant de lieu et de cadrage de manière rythmée toutes les 2 à 3 secondes : la rangée de stands, la foule, une allée plus spacieuse, puis le côté un peu plus calme du sanctuaire. La vue de dos ne s'éternise pas, alternant avec fluidité entre profil, plan sur les mains, vue de trois-quarts arrière et plan large en marchant. Vers la fin, les lumières des échoppes s'éloignent, et la brise nocturne fait onduler sa frange et les manches de son yukata. Enfin, tout en marchant, la caméra pivote sur le côté pour un plan rapproché naturel de son visage. La scène se termine en laissant l'écho festif et l'atmosphère de transition de la fin de l'été au début de l'automne.
+
+Pas de dialogue, pas de sous-titres, pas de musique de fond, pas de logo. Pas de jeu d'acteur excessif, pas de poses de mannequin, pas de regard caméra. Pas de plan fixe prolongé. Ne pas mordre directement dans la barquette ; le takoyaki doit impérativement être mangé avec un cure-dent. Maintenir la continuité du visage, du yukata, de l'obi, de la coiffure, de l'éventail uchiwa et de la barquette.
 ```
 
 [↑ Retour aux catégories](#catalog)
