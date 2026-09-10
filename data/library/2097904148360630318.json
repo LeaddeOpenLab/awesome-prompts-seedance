@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T08:23:27.890Z",
+  "model": "seedance2.5",
+  "prompt": "Create a realistic luxury perfume review video featuring a stylish young woman in an elegant modern setting.\n\nShe holds the Bleu de Chanel perfume bottle toward the camera, showing the bottle clearly. She then sprays a small amount on her wrist and neck, gently smells the fragrance, smiles naturally, and gives a genuine personal reaction.\n\nShe looks directly into the camera and speaks naturally in a warm, confident female English voice with perfect lip-sync:\n\n“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”\n\nUse natural facial expressions, realistic hand gestures, accurate lip movement, and authentic influencer-style delivery. Keep her voice clear, smooth, friendly, and conversational—not robotic or overly commercial.\n\nUse soft flattering lighting, realistic skin texture, shallow depth of field, cinematic camera movement, natural perfume spray mist, realistic reflections, and a premium lifestyle background. Keep the perfume bottle consistent and recognizable throughout.\n\nPhotorealistic, luxury fragrance commercial, authentic product review, realistic physics, smooth motion, 4K, vertical . No distorted hands, no warped bottle, no changing face, no flickering, no incorrect text.",
+  "promptTranslations": {
+    "en": "Create a realistic luxury perfume review video featuring a stylish young woman in an elegant modern setting.\\n\\nShe holds the Bleu de Chanel perfume bottle toward the camera, showing the bottle clearly. She then sprays a small amount on her wrist and neck, gently smells the fragrance, smiles naturally, and gives a genuine personal reaction.\\n\\nShe looks directly into the camera and speaks naturally in a warm, confident female English voice with perfect lip-sync:\\n\\n“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”\\n\\nUse natural facial expressions, realistic hand gestures, accurate lip movement, and authentic influencer-style delivery. Keep her voice clear, smooth, friendly, and conversational—not robotic or overly commercial.\\n\\nUse soft flattering lighting, realistic skin texture, shallow depth of field, cinematic camera movement, natural perfume spray mist, realistic reflections, and a premium lifestyle background. Keep the perfume bottle consistent and recognizable throughout.\\n\\nPhotorealistic, luxury fragrance commercial, authentic product review, realistic physics, smooth motion, 4K, vertical . No distorted hands, no warped bottle, no changing face, no flickering, no incorrect text."
+  },
+  "summaryTranslations": {
+    "en": "Realistic vertical video prompt of a young woman reviewing Bleu de Chanel perfume with spoken dialogue and natural gestures."
+  },
+  "translationVersion": 2,
+  "summary": "Realistic vertical video prompt of a young woman reviewing Bleu de Chanel perfume with spoken dialogue and natural gestures.",
+  "summaryEn": "Realistic vertical video prompt of a young woman reviewing Bleu de Chanel perfume with spoken dialogue and natural gestures.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097904148360630318",
+    "canonicalUrl": "https://x.com/CaliraVal/status/2097904148360630318",
+    "author": {
+      "username": "CaliraVal",
+      "displayName": "Calira",
+      "profileUrl": "https://x.com/CaliraVal"
+    },
+    "publishedAt": "2026-09-10T04:25:00.000Z",
+    "collectedAt": "2026-09-10T08:16:56.591Z",
+    "language": "en",
+    "originalText": "Tried Bleu de Chanel and I’m honestly impressed. \nFresh, clean, classy  definitely a fragrance worth trying. \n\nMade with seedance 2.5 \n\nprompt:\n\nCreate a realistic luxury perfume review video featuring a stylish young woman in an elegant modern setting.\n\nShe holds the Bleu de Chanel perfume bottle toward the camera, showing the bottle clearly. She then sprays a small amount on her wrist and neck, gently smells the fragrance, smiles naturally, and gives a genuine personal reaction.\n\nShe looks directly into the camera and speaks naturally in a warm, confident female English voice with perfect lip-sync:\n\n“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”\n\nUse natural facial expressions, realistic hand gestures, accurate lip movement, and authentic influencer-style delivery. Keep her voice clear, smooth, friendly, and conversational—not robotic or overly commercial.\n\nUse soft flattering lighting, realistic skin texture, shallow depth of field, cinematic camera movement, natural perfume spray mist, realistic reflections, and a premium lifestyle background. Keep the perfume bottle consistent and recognizable throughout.\n\nPhotorealistic, luxury fragrance commercial, authentic product review, realistic physics, smooth motion, 4K, vertical . No distorted hands, no warped bottle, no changing face, no flickering, no incorrect text.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/CaliraVal/status/2097904148360630318",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097903624148119552/img/BjRiBgEzQQabnGjC.jpg",
+        "analysisUrl": "https://x.com/CaliraVal/status/2097904148360630318"
+      }
+    ],
+    "metrics": {
+      "likeCount": 120,
+      "repostCount": 4,
+      "replyCount": 49,
+      "quoteCount": 0,
+      "viewCount": 3976
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CaliraVal/status/2097904148360630318",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097903624148119552/img/BjRiBgEzQQabnGjC.jpg",
+  "coverPath": "covers/2097904148360630318.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097903624148119552",
+    "x-post:2097904148360630318"
+  ],
+  "analysis": {
+    "summary": "Realistic vertical video prompt of a young woman reviewing Bleu de Chanel perfume with spoken dialogue and natural gestures.",
+    "summaryEn": "Realistic vertical video prompt of a young woman reviewing Bleu de Chanel perfume with spoken dialogue and natural gestures.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video closely matches the prompt: a woman holds a Bleu de Chanel bottle, sprays it, and speaks the exact dialogue with synchronized lips."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a realistic luxury perfume review video featuring a stylish young woman in an elegant modern setting.\n\nShe holds the Bleu de Chanel perfume bottle toward the camera, showing the bottle clearly. She then sprays a small amount on her wrist and neck, gently smells the fragrance, smiles naturally, and gives a genuine personal reaction.\n\nShe looks directly into the camera and speaks naturally in a warm, confident female English voice with perfect lip-sync:\n\n“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”\n\nUse natural facial expressions, realistic hand gestures, accurate lip movement, and authentic influencer-style delivery. Keep her voice clear, smooth, friendly, and conversational—not robotic or overly commercial.\n\nUse soft flattering lighting, realistic skin texture, shallow depth of field, cinematic camera movement, natural perfume spray mist, realistic reflections, and a premium lifestyle background. Keep the perfume bottle consistent and recognizable throughout.\n\nPhotorealistic, luxury fragrance commercial, authentic product review, realistic physics, smooth motion, 4K, vertical . No distorted hands, no warped bottle, no changing face, no flickering, no incorrect text.",
+    "sourceRange": {
+      "start": 145,
+      "end": 1538
+    },
+    "translations": {
+      "zh": "创建一个逼真的奢华香水测评视频，主角是一位身处优雅现代环境中的时尚年轻女性。她将蔚蓝男士淡香水（Bleu de Chanel）瓶子对准镜头清晰展示，随后在手腕和颈部轻喷少量，细嗅香气并自然微笑，给出真诚个人反馈。她直视镜头，用自信温暖的女声英语自然讲述并精准对口型。画面具备柔和光线、逼真皮肤纹理与浅景深，呈现高端博主测评风格。",
+      "en": "Create a realistic luxury perfume review video featuring a stylish young woman in an elegant modern setting.\n\nShe holds the Bleu de Chanel perfume bottle toward the camera, showing the bottle clearly. She then sprays a small amount on her wrist and neck, gently smells the fragrance, smiles naturally, and gives a genuine personal reaction.\n\nShe looks directly into the camera and speaks naturally in a warm, confident female English voice with perfect lip-sync:\n\n“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”\n\nUse natural facial expressions, realistic hand gestures, accurate lip movement, and authentic influencer-style delivery. Keep her voice clear, smooth, friendly, and conversational—not robotic or overly commercial.\n\nUse soft flattering lighting, realistic skin texture, shallow depth of field, cinematic camera movement, natural perfume spray mist, realistic reflections, and a premium lifestyle background. Keep the perfume bottle consistent and recognizable throughout.\n\nPhotorealistic, luxury fragrance commercial, authentic product review, realistic physics, smooth motion, 4K, vertical . No distorted hands, no warped bottle, no changing face, no flickering, no incorrect text."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "commercial",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Chanel",
+        "Bleu de Chanel"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
