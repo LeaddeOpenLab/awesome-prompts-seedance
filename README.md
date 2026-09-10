@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**31** Prompts · Latest addition: **2026-09-10**
+**32** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1241,6 +1241,40 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097893690220085662"></a>
+
+### An early-2000s DV-style slice-of-life clip of a Korean girl burning her hand while barbecuing, rinsing it with water, and buying ice cream in an old Seoul residential neighborhood.
+
+Author：[@AIwithkhan](https://x.com/AIwithkhan) · [Source](https://x.com/AIwithkhan/status/2097893690220085662)
+
+Character · Published
+
+**Summary:** An early-2000s DV-style slice-of-life clip of a Korean girl burning her hand while barbecuing, rinsing it with water, and buying ice cream in an old Seoul residential neighborhood.
+
+<img src="covers/2097893690220085662.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30-second, 1080p ultra-realistic personal home-video of a young Korean woman in her early 20s, long black messy side ponytail, pastel-blue fitted top, loose cream pajama pants, black sneakers, silver necklace, carrying a canvas tote bag; maintain identical appearance throughout.
+Set it in a quiet older Seoul residential neighborhood on a warm summer afternoon: narrow concrete lanes, small houses, old walls, potted plants, bicycles, utility poles, overhead wires, laundry and a simple outdoor barbecue.
+Use a raw early-2000s consumer DV camcorder aesthetic: strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, motion blur, faded colors, soft digital detail, mild noise and accidental zooms; no polished cinematography.
+She leaves her house with the tote bag, locks the door, adjusts her ponytail and walks casually down the lane as a light breeze moves her hair.
+She spots her young Korean friend outside a small house, wearing a grey crop top, loose pajama-style pants and house slippers, preparing food on a simple charcoal barbecue.
+She smiles, walks over and asks, “Need some help?” and her friend happily hands her the cooking tongs.
+They chat and laugh while she carefully helps turn the food, but she accidentally touches the hot edge of the barbecue and immediately pulls her hand back, saying, “Ah! Hot!”
+Her friend becomes concerned and points toward a nearby outdoor water tap, so she quickly walks over while holding her injured hand.
+She turns on the tap and places her hand under the cool running water; close-up of water flowing naturally over her fingers while she takes a relieved breath.
+After drying her hand, she notices a small neighborhood ice-cream cart, walks over and chooses a simple ice cream from the seller.
+She takes coins from her canvas tote bag, counts them naturally and gives them to the seller, then walks away eating the ice cream with a small amused smile.
+She walks back toward home through the same residential lane, looks at her hand and then at the ice cream, quietly says “Maybe this can help,” and disappears through her gate.
+AUDIO: only natural diegetic sound—footsteps, birds, insects, scooters, bicycle bells, neighborhood voices, barbecue sizzling, charcoal crackling, dialogue, running water, ice-cream cart sounds, coins and camera-handling noise; no music or narration. Negative: no subtitles, captions, logos, watermarks, identity/outfit changes, duplicate people, distorted hands, gore, blood, excessive injury, CGI look, teleportation, object duplication or polished cinematic movement.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097891120701480996"></a>
 
