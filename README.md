@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**35** Prompts · Latest addition: **2026-09-10**
+**36** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1357,6 +1357,28 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097904148360630318"></a>
+
+### Realistic vertical video prompt of a young woman reviewing Bleu de Chanel perfume with spoken dialogue and natural gestures.
+
+Author：[@CaliraVal](https://x.com/CaliraVal) · [Source](https://x.com/CaliraVal/status/2097904148360630318)
+
+Character · Published
+
+**Summary:** Realistic vertical video prompt of a young woman reviewing Bleu de Chanel perfume with spoken dialogue and natural gestures.
+
+<img src="covers/2097904148360630318.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a realistic luxury perfume review video featuring a stylish young woman in an elegant modern setting.\n\nShe holds the Bleu de Chanel perfume bottle toward the camera, showing the bottle clearly. She then sprays a small amount on her wrist and neck, gently smells the fragrance, smiles naturally, and gives a genuine personal reaction.\n\nShe looks directly into the camera and speaks naturally in a warm, confident female English voice with perfect lip-sync:\n\n“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”\n\nUse natural facial expressions, realistic hand gestures, accurate lip movement, and authentic influencer-style delivery. Keep her voice clear, smooth, friendly, and conversational—not robotic or overly commercial.\n\nUse soft flattering lighting, realistic skin texture, shallow depth of field, cinematic camera movement, natural perfume spray mist, realistic reflections, and a premium lifestyle background. Keep the perfume bottle consistent and recognizable throughout.\n\nPhotorealistic, luxury fragrance commercial, authentic product review, realistic physics, smooth motion, 4K, vertical . No distorted hands, no warped bottle, no changing face, no flickering, no incorrect text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097917075176178101"></a>
 
