@@ -1201,20 +1201,32 @@ Nhân vật · Đã xuất bản
 
 <a name="prompt-2097904148360630318"></a>
 
-### Đang dịch
+### Lời nhắc video dọc chân thực về một cô gái trẻ đánh giá nước hoa Bleu de Chanel kèm lời thoại và cử chỉ tự nhiên.
 
 Tác giả：[@CaliraVal](https://x.com/CaliraVal) · [Bài gốc](https://x.com/CaliraVal/status/2097904148360630318)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video dọc chân thực về một cô gái trẻ đánh giá nước hoa Bleu de Chanel kèm lời thoại và cử chỉ tự nhiên.
 
 <img src="covers/2097904148360630318.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video đánh giá nước hoa xa xỉ chân thực với sự tham gia của một cô gái trẻ trung, sành điệu trong không gian hiện đại và thanh lịch.
+
+Cô ấy cầm chai nước hoa Bleu de Chanel hướng về phía máy quay, khoe rõ thân chai. Sau đó, cô xịt một lượng nhỏ lên cổ tay và cổ, nhẹ nhàng ngửi mùi hương, mỉm cười tự nhiên và thể hiện cảm xúc chân thật của cá nhân.
+
+Cô nhìn thẳng vào máy quay và nói chuyện tự nhiên bằng giọng nữ tiếng Anh ấm áp, tự tin với khẩu hình khớp hoàn hảo:
+
+“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+Sử dụng biểu cảm khuôn mặt tự nhiên, cử chỉ tay chân thực, chuyển động môi chuẩn xác và phong cách truyền đạt chân thực của một influencer. Giữ cho giọng nói của cô rõ ràng, mượt mà, thân thiện và mang tính trò chuyện—không cứng nhắc như robot hay mang nặng tính quảng cáo thương mại.
+
+Sử dụng ánh sáng dịu tôn nét, kết cấu da chân thực, độ sâu trường ảnh nông, chuyển động máy quay mang chất điện ảnh, làn sương xịt nước hoa tự nhiên, hình ảnh phản chiếu chân thực và bối cảnh phong cách sống cao cấp. Giữ cho chai nước hoa luôn nhất quán và dễ nhận biết xuyên suốt video.
+
+Ảnh chân thực, quảng cáo nước hoa xa xỉ, đánh giá sản phẩm chân thực, vật lý chân thực, chuyển động mượt mà, 4K, video dọc. Không có bàn tay méo mó, không có chai biến dạng, không thay đổi khuôn mặt, không nhấp nháy, không có chữ sai lệch.
 ```
 
 [↑ Về danh mục](#catalog)

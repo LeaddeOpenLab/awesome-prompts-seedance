@@ -1187,20 +1187,32 @@ Traducción en curso
 
 <a name="prompt-2097904148360630318"></a>
 
-### Traducción en curso
+### Prompt de video vertical realista de una joven que reseña el perfume Bleu de Chanel con diálogo hablado y gestos naturales.
 
 Autor：[@CaliraVal](https://x.com/CaliraVal) · [Publicación original](https://x.com/CaliraVal/status/2097904148360630318)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video vertical realista de una joven que reseña el perfume Bleu de Chanel con diálogo hablado y gestos naturales.
 
 <img src="covers/2097904148360630318.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video realista de reseña de perfume de lujo protagonizado por una joven elegante en un entorno moderno y sofisticado.
+
+Sostiene el frasco de perfume Bleu de Chanel hacia la cámara, mostrándolo con claridad. Luego se rocía una pequeña cantidad en la muñeca y el cuello, huele suavemente la fragancia, sonríe con naturalidad y ofrece una reacción personal genuina.
+
+Mira directamente a la cámara y habla de forma natural con una voz femenina en inglés, cálida y segura, con una sincronización labial perfecta:
+
+“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+Utiliza expresiones faciales naturales, gestos de manos realistas, movimientos labiales precisos y una forma de expresarse auténtica, al estilo de una influencer. Mantén su voz clara, fluida, amigable y conversacional, nada robótica ni excesivamente comercial.
+
+Emplea una iluminación suave y favorecedora, textura de piel realista, profundidad de campo reducida, movimientos de cámara cinematográficos, una bruma de spray de perfume natural, reflejos realistas y un fondo de estilo de vida de primera calidad. Mantén el frasco de perfume constante y reconocible en todo momento.
+
+Fotorrealista, comercial de fragancia de lujo, reseña de producto auténtica, física realista, movimiento fluido, 4K, vertical. Sin manos distorsionadas, sin frasco deformado, sin cambios en el rostro, sin parpadeos, sin texto incorrecto.
 ```
 
 [↑ Volver a categorías](#catalog)

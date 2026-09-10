@@ -1057,20 +1057,32 @@ Tradução em andamento
 
 <a name="prompt-2097904148360630318"></a>
 
-### Tradução em andamento
+### Prompt de vídeo vertical realista de uma jovem avaliando o perfume Bleu de Chanel com diálogos falados e gestos naturais.
 
 Autor：[@CaliraVal](https://x.com/CaliraVal) · [Publicação original](https://x.com/CaliraVal/status/2097904148360630318)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de vídeo vertical realista de uma jovem avaliando o perfume Bleu de Chanel com diálogos falados e gestos naturais.
 
 <img src="covers/2097904148360630318.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo realista de resenha de perfume de luxo apresentando uma jovem elegante em um cenário moderno e sofisticado.
+
+Ela segura o frasco de perfume Bleu de Chanel em direção à câmera, mostrando o frasco claramente. Em seguida, ela borrifa uma pequena quantidade no pulso e no pescoço, sente suavemente a fragrância, sorri com naturalidade e dá uma reação pessoal genuína.
+
+Ela olha diretamente para a câmera e fala naturalmente em uma voz feminina em inglês, calorosa e confiante, com sincronia labial perfeita:
+
+“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+Use expressões faciais naturais, gestos manuais realistas, movimentos labiais precisos e uma apresentação autêntica no estilo influenciadora. Mantenha a voz dela clara, suave, amigável e coloquial — não robótica ou excessivamente comercial.
+
+Use iluminação suave e lisonjeira, textura de pele realista, profundidade de campo rasa, movimento de câmera cinematográfico, névoa natural de borrifo de perfume, reflexos realistas e um fundo de estilo de vida premium. Mantenha o frasco de perfume consistente e reconhecível do início ao fim.
+
+Fotorrealista, comercial de fragrância de luxo, resenha autêntica de produto, física realista, movimento suave, 4K, vertical. Sem mãos distorcidas, sem frasco deformado, sem rosto mudando, sem oscilações, sem texto incorreto.
 ```
 
 [↑ Voltar às categorias](#catalog)

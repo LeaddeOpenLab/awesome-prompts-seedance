@@ -1057,20 +1057,32 @@ Tradução em curso
 
 <a name="prompt-2097904148360630318"></a>
 
-### Tradução em curso
+### Prompt de vídeo vertical realista de uma jovem a avaliar o perfume Bleu de Chanel com diálogos falados e gestos naturais.
 
 Autor：[@CaliraVal](https://x.com/CaliraVal) · [Publicação original](https://x.com/CaliraVal/status/2097904148360630318)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo vertical realista de uma jovem a avaliar o perfume Bleu de Chanel com diálogos falados e gestos naturais.
 
 <img src="covers/2097904148360630318.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo realista de análise de perfume de luxo com uma jovem elegante num cenário moderno e sofisticado.
+
+Ela segura o frasco de perfume Bleu de Chanel virado para a câmara, mostrando o frasco com clareza. Em seguida, vaporiza uma pequena quantidade no pulso e no pescoço, cheira suavemente a fragrância, sorri com naturalidade e tem uma reação pessoal genuína.
+
+Ela olha diretamente para a câmara e fala naturalmente com uma voz feminina em inglês, calorosa e confiante, com sincronização labial perfeita:
+
+“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+Utilize expressões faciais naturais, gestos manuais realistas, movimentos labiais precisos e uma apresentação autêntica ao estilo de influenciadora. Mantenha a sua voz clara, suave, simpática e em tom de conversa — nada robótica ou excessivamente comercial.
+
+Utilize iluminação suave e favorecedora, textura de pele realista, profundidade de campo reduzida, movimentos de câmara cinematográficos, névoa natural de vaporização do perfume, reflexos realistas e um fundo de estilo de vida premium. Mantenha o frasco de perfume consistente e reconhecível ao longo de todo o vídeo.
+
+Fotorrealista, anúncio de fragrância de luxo, análise autêntica de produto, física realista, movimento fluído, 4K, vertical. Sem mãos distorcidas, sem frasco deformado, sem alterações de rosto, sem cintilações, sem texto incorreto.
 ```
 
 [↑ Voltar às categorias](#catalog)

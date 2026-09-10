@@ -1208,20 +1208,32 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2097904148360630318"></a>
 
-### 번역 중
+### 대사와 자연스러운 제스처가 포함된, 젊은 여성의 블루 드 샤넬 향수 리뷰 사실적 세로형 비디오 프롬프트.
 
 작성자：[@CaliraVal](https://x.com/CaliraVal) · [원본 게시물](https://x.com/CaliraVal/status/2097904148360630318)
 
 캐릭터 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 대사와 자연스러운 제스처가 포함된, 젊은 여성의 블루 드 샤넬 향수 리뷰 사실적 세로형 비디오 프롬프트.
 
 <img src="covers/2097904148360630318.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+우아하고 현대적인 공간에서 스타일리시한 젊은 여성이 등장하는 사실적인 럭셔리 향수 리뷰 영상을 제작하세요.
+
+그녀는 블루 드 샤넬(Bleu de Chanel) 향수병을 카메라 쪽으로 들어 올려 병을 또렷하게 보여줍니다. 그런 다음 손목과 목에 소량을 뿌리고, 부드럽게 향을 맡은 뒤 자연스럽게 미소를 지으며 진솔한 개인적 반응을 보입니다.
+
+그녀는 카메라를 정면으로 바라보며 완벽한 립싱크와 함께 따뜻하고 자신감 넘치는 여성 영어 목소리로 자연스럽게 말합니다:
+
+“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+자연스러운 표정, 사실적인 손 제스처, 정확한 입술 움직임, 그리고 진정성 있는 인플루언서 스타일의 전달력을 적용하세요. 그녀의 목소리는 기계적이거나 지나치게 상업적이지 않고 맑고 부드러우며 친근하고 대화하듯 유지하세요.
+
+인물을 돋보이게 하는 부드러운 조명, 사실적인 피부 결, 얕은 심도, 영화 같은 카메라 워크, 자연스러운 향수 분사 미스트, 사실적인 반사광, 프리미엄 라이프스타일 배경을 사용하세요. 향수병은 영상 전체에서 일관되고 알아볼 수 있게 유지되어야 합니다.
+
+포토리얼리스틱, 럭셔리 향수 광고, 진정성 있는 제품 리뷰, 사실적인 물리 효과, 부드러운 움직임, 4K, 세로형. 왜곡된 손 없음, 변형된 병 없음, 얼굴 바뀜 없음, 깜빡임 없음, 잘못된 텍스트 없음.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

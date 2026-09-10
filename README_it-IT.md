@@ -1071,20 +1071,32 @@ Traduzione in corso
 
 <a name="prompt-2097904148360630318"></a>
 
-### Traduzione in corso
+### Prompt per video verticale realistico di una giovane donna che recensisce il profumo Bleu de Chanel con dialoghi parlati e gesti naturali.
 
 Autore：[@CaliraVal](https://x.com/CaliraVal) · [Post originale](https://x.com/CaliraVal/status/2097904148360630318)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per video verticale realistico di una giovane donna che recensisce il profumo Bleu de Chanel con dialoghi parlati e gesti naturali.
 
 <img src="covers/2097904148360630318.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video realistico di recensione di un profumo di lusso con protagonista una giovane donna elegante in un ambiente moderno e raffinato.
+
+Tiene la boccetta di profumo Bleu de Chanel verso la telecamera, mostrandola chiaramente. Poi spruzza una piccola quantità sul polso e sul collo, annusa delicatamente la fragranza, sorride in modo naturale e mostra una reazione personale genuina.
+
+Guarda direttamente nella telecamera e parla con naturalezza con una voce femminile inglese calda e sicura, con un perfetto sincrono labiale:
+
+“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+Usa espressioni facciali naturali, gesti delle mani realistici, movimenti labiali precisi e uno stile comunicativo autentico da influencer. Mantieni la sua voce chiara, fluida, amichevole e colloquiale, non robotica o eccessivamente commerciale.
+
+Usa un'illuminazione morbida e valorizzante, una texture della pelle realistica, una profondità di campo ridotta, movimenti di macchina cinematografici, una nebulizzazione naturale dello spruzzo di profumo, riflessi realistici e uno sfondo lifestyle di alta gamma. Mantieni la boccetta di profumo coerente e riconoscibile per tutta la durata.
+
+Fotorealistico, spot pubblicitario per profumo di lusso, recensione autentica del prodotto, fisica realistica, movimento fluido, 4K, verticale. Nessuna mano distorta, nessuna boccetta deformata, nessun volto che cambia, nessuno sfarfallio, nessun testo errato.
 ```
 
 [↑ Torna alle categorie](#catalog)

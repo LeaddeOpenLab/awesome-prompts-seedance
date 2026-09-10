@@ -1204,20 +1204,32 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2097904148360630318"></a>
 
-### 翻譯中
+### 年輕女性測評蔚藍男士香水（Bleu de Chanel）的寫實直式影片提示詞，包含口播台詞與自然手勢。
 
 作者：[@CaliraVal](https://x.com/CaliraVal) · [查看 X 原帖](https://x.com/CaliraVal/status/2097904148360630318)
 
 角色 · 已推流
 
-**概括:** 翻譯中
+**概括:** 年輕女性測評蔚藍男士香水（Bleu de Chanel）的寫實直式影片提示詞，包含口播台詞與自然手勢。
 
 <img src="covers/2097904148360630318.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+製作一段逼真的奢華香水測評影片，主角是一位身處優雅現代環境中的時尚年輕女性。
+
+她將蔚藍男士淡香水（Bleu de Chanel）瓶身對準鏡頭，清晰地展示香水瓶。隨後，她在手腕和頸部噴灑少許，輕輕細嗅香氣，自然微笑，並流露出真誠的個人反應。
+
+她直視鏡頭，用溫暖、自信的女性英語原聲自然說話，口型完全同步：
+
+“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+使用自然的面部表情、逼真的手勢、準確的唇部動作以及真實的網路網紅風格表現方式。保持她的聲音清晰、柔和、親切且口語化——不要顯得機械或過於商業化。
+
+採用柔和修飾的燈光、逼真的皮膚紋理、淺景深、電影質感的運鏡、自然的香水噴霧細霧、真實的反射效果以及高品質的生活方式背景。全程保持香水瓶的外觀一致且具有辨識度。
+
+逼真寫實，奢華香水廣告，真實產品評測，逼真物理效果，流暢動作，4K，直式影片。無變形手部，無扭曲瓶身，無面部改變，無閃爍，無錯誤文字。
 ```
 
 [↑ 返回分類目錄](#catalog)

@@ -1057,20 +1057,32 @@ Karakter · Yayımlandı
 
 <a name="prompt-2097904148360630318"></a>
 
-### Çeviri sürüyor
+### Genç bir kadının Bleu de Chanel parfümünü sözlü diyalog ve doğal hareketlerle incelediği gerçekçi dikey video istemi.
 
 Yazar：[@CaliraVal](https://x.com/CaliraVal) · [Orijinal gönderi](https://x.com/CaliraVal/status/2097904148360630318)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Genç bir kadının Bleu de Chanel parfümünü sözlü diyalog ve doğal hareketlerle incelediği gerçekçi dikey video istemi.
 
 <img src="covers/2097904148360630318.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Zarif ve modern bir ortamda şık bir genç kadının yer aldığı gerçekçi bir lüks parfüm inceleme videosu oluşturun.
+
+Bleu de Chanel parfüm şişesini kameraya doğru tutarak şişeyi net bir şekilde gösterir. Ardından bileğine ve boynuna az miktarda sıkar, kokuyu nazikçe koklar, doğal bir şekilde gülümser ve içten kişisel bir tepki verir.
+
+Doğrudan kameraya bakar ve kusursuz dudak senkronizasyonuyla sıcak, kendinden emin bir kadın İngilizce sesiyle doğal bir şekilde konuşur:
+
+“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+Doğal yüz ifadeleri, gerçekçi el hareketleri, doğru dudak hareketleri ve özgün influencer tarzı bir sunum kullanın. Sesini net, pürüzsüz, samimi ve konuşma havasında tutun; robotik veya aşırı ticari olmasın.
+
+Yumuşak ve hoş bir aydınlatma, gerçekçi cilt dokusu, sığ alan derinliği, sinematik kamera hareketi, doğal parfüm püskürtme sisi, gerçekçi yansımalar ve premium bir yaşam tarzı arka planı kullanın. Parfüm şişesini baştan sona tutarlı ve tanınabilir tutun.
+
+Fotogerçekçi, lüks parfüm reklamı, özgün ürün incelemesi, gerçekçi fizik, akıcı hareket, 4K, dikey. Bozuk eller yok, yamuk şişe yok, değişen yüz yok, titreme yok, hatalı metin yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

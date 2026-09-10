@@ -1071,20 +1071,32 @@ Charakter · Veröffentlicht
 
 <a name="prompt-2097904148360630318"></a>
 
-### Übersetzung läuft
+### Realistischer vertikaler Video-Prompt einer jungen Frau, die das Bleu de Chanel Parfüm mit gesprochenem Dialog und natürlichen Gesten bewertet.
 
 Autor：[@CaliraVal](https://x.com/CaliraVal) · [Originalbeitrag](https://x.com/CaliraVal/status/2097904148360630318)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Realistischer vertikaler Video-Prompt einer jungen Frau, die das Bleu de Chanel Parfüm mit gesprochenem Dialog und natürlichen Gesten bewertet.
 
 <img src="covers/2097904148360630318.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein realistisches Luxusparfüm-Review-Video mit einer stilvollen jungen Frau in einer eleganten, modernen Umgebung.
+
+Sie hält den Bleu de Chanel Parfümflakon in die Kamera und zeigt die Flasche deutlich. Dann sprüht sie eine kleine Menge auf ihr Handgelenk und ihren Hals, riecht sanft an dem Duft, lächelt natürlich und zeigt eine echte persönliche Reaktion.
+
+Sie schaut direkt in die Kamera und spricht natürlich mit einer warmen, selbstbewussten weiblichen englischen Stimme mit perfekter Lippensynchronisation:
+
+“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+Verwende natürliche Gesichtsausdrücke, realistische Handgesten, präzise Lippenbewegungen und eine authentische Darbietung im Influencer-Stil. Halte ihre Stimme klar, sanft, freundlich und umgangssprachlich – nicht robotisch oder übertrieben werblich.
+
+Verwende sanftes, vorteilhaftes Licht, realistische Hauttextur, geringe Schärfentiefe, filmische Kamerabewegungen, natürlichen Parfümsprühnebel, realistische Reflexionen und einen erstklassigen Lifestyle-Hintergrund. Halte den Parfümflakon durchgehend konsistent und erkennbar.
+
+Fotorealistisch, Luxusparfüm-Werbespot, authentische Produktbewertung, realistische Physik, flüssige Bewegung, 4K, vertikal. Keine verzerrten Hände, keine verformte Flasche, kein wechselndes Gesicht, kein Flackern, kein falscher Text.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

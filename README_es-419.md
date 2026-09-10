@@ -1071,20 +1071,32 @@ Traducción en curso
 
 <a name="prompt-2097904148360630318"></a>
 
-### Traducción en curso
+### Prompt de video vertical realista de una mujer joven que reseña el perfume Bleu de Chanel con diálogo hablado y gestos naturales.
 
 Autor：[@CaliraVal](https://x.com/CaliraVal) · [Publicación original](https://x.com/CaliraVal/status/2097904148360630318)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video vertical realista de una mujer joven que reseña el perfume Bleu de Chanel con diálogo hablado y gestos naturales.
 
 <img src="covers/2097904148360630318.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video realista de reseña de perfume de lujo con una mujer joven y elegante en un entorno moderno y sofisticado.
+
+Ella sostiene la botella de perfume Bleu de Chanel hacia la cámara, mostrándola claramente. Luego rocía una pequeña cantidad en su muñeca y cuello, huele suavemente la fragancia, sonríe con naturalidad y muestra una reacción personal genuina.
+
+Ella mira directamente a la cámara y habla de manera natural con una voz femenina en inglés, cálida y segura, con una sincronización labial perfecta:
+
+“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+Usa expresiones faciales naturales, gestos de manos realistas, movimiento labial preciso y una entrega auténtica al estilo de una influencer. Mantén su voz clara, suave, amigable y conversacional, no robótica ni excesivamente comercial.
+
+Usa una iluminación suave y favorecedora, textura de piel realista, profundidad de campo reducida, movimiento de cámara cinematográfico, bruma de spray de perfume natural, reflejos realistas y un fondo de estilo de vida premium. Mantén la botella de perfume consistente y reconocible en todo momento.
+
+Fotorrealista, comercial de fragancia de lujo, reseña de producto auténtica, física realista, movimiento fluido, 4K, vertical. Sin manos distorsionadas, sin botella deformada, sin rostro cambiante, sin parpadeos, sin texto incorrecto.
 ```
 
 [↑ Volver a categorías](#catalog)

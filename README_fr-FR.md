@@ -1071,20 +1071,32 @@ Traduction en cours
 
 <a name="prompt-2097904148360630318"></a>
 
-### Traduction en cours
+### Prompt de vidéo verticale réaliste d'une jeune femme donnant son avis sur le parfum Bleu de Chanel avec dialogue parlé et gestes naturels.
 
 Auteur：[@CaliraVal](https://x.com/CaliraVal) · [Publication originale](https://x.com/CaliraVal/status/2097904148360630318)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de vidéo verticale réaliste d'une jeune femme donnant son avis sur le parfum Bleu de Chanel avec dialogue parlé et gestes naturels.
 
 <img src="covers/2097904148360630318.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo réaliste d'avis sur un parfum de luxe mettant en scène une jeune femme élégante dans un cadre moderne et raffiné.
+
+Elle tient le flacon de parfum Bleu de Chanel face à la caméra, montrant clairement le flacon. Elle vaporise ensuite une petite quantité sur son poignet et son cou, sent délicatement le parfum, sourit naturellement et offre une réaction personnelle authentique.
+
+Elle regarde directement la caméra et s'exprime naturellement d'une voix féminine anglaise, chaleureuse et assurée, avec une synchronisation labiale parfaite :
+
+“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+Utilisez des expressions faciales naturelles, des gestes de mains réalistes, un mouvement des lèvres précis et une élocution authentique de style influenceuse. Gardez sa voix claire, fluide, chaleureuse et conversationnelle — ni robotique ni excessivement commerciale.
+
+Utilisez un éclairage doux et flatteur, une texture de peau réaliste, une faible profondeur de champ, des mouvements de caméra cinématographiques, une brume de vaporisation de parfum naturelle, des reflets réalistes et un arrière-plan lifestyle haut de gamme. Gardez le flacon de parfum cohérent et reconnaissable tout au long de la vidéo.
+
+Photoréaliste, publicité pour parfum de luxe, critique de produit authentique, physique réaliste, mouvement fluide, 4K, vertical. Pas de mains déformées, pas de flacon déformé, pas de visage changeant, pas de scintillement, pas de texte incorrect.
 ```
 
 [↑ Retour aux catégories](#catalog)
