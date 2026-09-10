@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T08:19:38.936Z",
+  "model": "seedance2.5",
+  "prompt": "A clean, minimalist commercial beauty video aesthetic with soft pastel purple and lavender theme and warm luxury lighting.\n\nScene 1: A close up cinematic shot of a dark purple skincare jar labeled Foxtale Skin Radiance Mask\nplaced on a minimalist white circular podium with an open lid revealing a smooth lavender clay mask and small purple flowers scattered around.\n\nScene 2: Macro shot zooming in on a white cosmetic spatula lifting a rich, creamy, whipped lavender purple texture from the jar.\n\nScene 3: A radiant young woman smilingly applying the smooth lavender face mask onto her cheekbone with the spatula and blending it effortlessly.\n\nScene 4: The jar resting on a stone block against a pastel purple background with elegant bold text on the right side reading  Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,",
+  "promptTranslations": {
+    "en": "A clean, minimalist commercial beauty video aesthetic with soft pastel purple and lavender theme and warm luxury lighting.\n\nScene 1: A close up cinematic shot of a dark purple skincare jar labeled Foxtale Skin Radiance Mask\nplaced on a minimalist white circular podium with an open lid revealing a smooth lavender clay mask and small purple flowers scattered around.\n\nScene 2: Macro shot zooming in on a white cosmetic spatula lifting a rich, creamy, whipped lavender purple texture from the jar.\n\nScene 3: A radiant young woman smilingly applying the smooth lavender face mask onto her cheekbone with the spatula and blending it effortlessly.\n\nScene 4: The jar resting on a stone block against a pastel purple background with elegant bold text on the right side reading  Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,"
+  },
+  "summaryTranslations": {
+    "en": "Multi-scene skincare commercial prompt for a lavender face mask with product close-ups, application, and tagline."
+  },
+  "translationVersion": 2,
+  "summary": "Multi-scene skincare commercial prompt for a lavender face mask with product close-ups, application, and tagline.",
+  "summaryEn": "Multi-scene skincare commercial prompt for a lavender face mask with product close-ups, application, and tagline.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097908289619284300",
+    "canonicalUrl": "https://x.com/AvelyrahnAI/status/2097908289619284300",
+    "author": {
+      "username": "AvelyrahnAI",
+      "displayName": "Avelyrah",
+      "profileUrl": "https://x.com/AvelyrahnAI"
+    },
+    "publishedAt": "2026-09-10T04:41:28.000Z",
+    "collectedAt": "2026-09-10T08:16:56.591Z",
+    "language": "en",
+    "originalText": "Get that instant glow and cleaner pores with the ultimate skin radiance mask\n\nCreated with Seedance 2.5\n\nPrompt:\n\nA clean, minimalist commercial beauty video aesthetic with soft pastel purple and lavender theme and warm luxury lighting.\n\nScene 1: A close up cinematic shot of a dark purple skincare jar labeled Foxtale Skin Radiance Mask\nplaced on a minimalist white circular podium with an open lid revealing a smooth lavender clay mask and small purple flowers scattered around.\n\nScene 2: Macro shot zooming in on a white cosmetic spatula lifting a rich, creamy, whipped lavender purple texture from the jar.\n\nScene 3: A radiant young woman smilingly applying the smooth lavender face mask onto her cheekbone with the spatula and blending it effortlessly.\n\nScene 4: The jar resting on a stone block against a pastel purple background with elegant bold text on the right side reading  Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AvelyrahnAI/status/2097908289619284300",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097908264403095552/img/vvOkdlMVs8FlnTyl.jpg",
+        "analysisUrl": "https://x.com/AvelyrahnAI/status/2097908289619284300"
+      }
+    ],
+    "metrics": {
+      "likeCount": 108,
+      "repostCount": 5,
+      "replyCount": 33,
+      "quoteCount": 0,
+      "viewCount": 2732
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AvelyrahnAI/status/2097908289619284300",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097908264403095552/img/vvOkdlMVs8FlnTyl.jpg",
+  "coverPath": "covers/2097908289619284300.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097908264403095552",
+    "x-post:2097908289619284300"
+  ],
+  "analysis": {
+    "summary": "Multi-scene skincare commercial prompt for a lavender face mask with product close-ups, application, and tagline.",
+    "summaryEn": "Multi-scene skincare commercial prompt for a lavender face mask with product close-ups, application, and tagline.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "All 4 specified scenes match the video: the jar on a podium, spatula scoop, face application, and final text screen."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A clean, minimalist commercial beauty video aesthetic with soft pastel purple and lavender theme and warm luxury lighting.\n\nScene 1: A close up cinematic shot of a dark purple skincare jar labeled Foxtale Skin Radiance Mask\nplaced on a minimalist white circular podium with an open lid revealing a smooth lavender clay mask and small purple flowers scattered around.\n\nScene 2: Macro shot zooming in on a white cosmetic spatula lifting a rich, creamy, whipped lavender purple texture from the jar.\n\nScene 3: A radiant young woman smilingly applying the smooth lavender face mask onto her cheekbone with the spatula and blending it effortlessly.\n\nScene 4: The jar resting on a stone block against a pastel purple background with elegant bold text on the right side reading  Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,",
+    "sourceRange": {
+      "start": 114,
+      "end": 948
+    },
+    "translations": {
+      "zh": "极简干净的商业美妆视频风格，柔和粉紫与薰衣草色调，奢华暖光。\n\n场景 1：深紫色护肤品罐（标有 Foxtale Skin Radiance Mask）的电影感特写，置于极简白色圆形展台上，开盖露出平滑的薰衣草紫泥膜，周围散落紫色小花。\n\n场景 2：微距镜头推进白色美容刮勺从罐中舀取浓郁绵密的薰衣草紫膏体。\n\n场景 3：容光焕发的年轻女子微笑着用刮勺将泥膜涂在颧骨上并轻松抹匀。\n\n场景 4：膏霜罐置于石块上，粉紫色背景，右侧醒目文字写着 Detans & Brightens Cleaner Pores Clearer Skin Natural Glow。",
+      "en": "A clean, minimalist commercial beauty video aesthetic with soft pastel purple and lavender theme and warm luxury lighting.\n\nScene 1: A close up cinematic shot of a dark purple skincare jar labeled Foxtale Skin Radiance Mask placed on a minimalist white circular podium with an open lid revealing a smooth lavender clay mask and small purple flowers scattered around.\n\nScene 2: Macro shot zooming in on a white cosmetic spatula lifting a rich, creamy, whipped lavender purple texture from the jar.\n\nScene 3: A radiant young woman smilingly applying the smooth lavender face mask onto her cheekbone with the spatula and blending it effortlessly.\n\nScene 4: The jar resting on a stone block against a pastel purple background with elegant bold text on the right side reading Detans & Brightens Cleaner Pores Clearer Skin Natural Glow,"
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "commercial_video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Foxtale (trademark)"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
