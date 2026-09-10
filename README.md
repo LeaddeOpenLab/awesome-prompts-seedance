@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**33** Prompts · Latest addition: **2026-09-10**
+**34** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1241,6 +1241,28 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097917075176178101"></a>
+
+### Create a realistic 30-second American ranch lifestyle vlog tracking a ranch woman's daily routine from sunrise to sunset.
+
+Author：[@aiwithaly](https://x.com/aiwithaly) · [Source](https://x.com/aiwithaly/status/2097917075176178101)
+
+Character · Landscape / Nature · Published
+
+**Summary:** Create a realistic 30-second American ranch lifestyle vlog tracking a ranch woman's daily routine from sunrise to sunset.
+
+<img src="covers/2097917075176178101.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30-second ultra-photorealistic American ranch lifestyle vlog following the same young ranch woman through one authentic working day, from sunrise to sunset. Begin with her opening the barn and feeding horses, then repairing a wooden fence before saddling a horse and riding across open Western fields.\n\nShow a genuine working ranch with weathered barns, horse paddocks, hay, dirt paths, wooden fences, pickup trucks, green fields and distant hills. Keep the character, horse, clothing and ranch environment perfectly consistent.\n\nCapture realistic horse behavior, riding biomechanics, hoof impacts, dust, grass movement, leather tack, feed, wood, hammer strikes and natural sunlight. Use handheld 2026 documentary-vlog cinematography with close-ups, wide ranch views, realistic autofocus, subtle camera shake and a smooth golden-hour ride.\n\nNatural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097908289619284300"></a>
 
