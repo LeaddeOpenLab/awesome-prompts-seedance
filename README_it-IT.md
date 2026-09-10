@@ -933,20 +933,29 @@ Traduzione in corso
 
 <a name="prompt-2097908289619284300"></a>
 
-### Traduzione in corso
+### Prompt per spot pubblicitario per la cura della pelle multi-scena per una maschera viso alla lavanda con primi piani del prodotto, applicazione e slogan.
 
 Autore：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Post originale](https://x.com/AvelyrahnAI/status/2097908289619284300)
 
 Prodotto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per spot pubblicitario per la cura della pelle multi-scena per una maschera viso alla lavanda con primi piani del prodotto, applicazione e slogan.
 
 <img src="covers/2097908289619284300.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un'estetica pulita e minimalista da video pubblicitario di bellezza con un tema tenue viola pastello e lavanda e un'illuminazione calda e lussuosa.
+
+Scena 1: Un primo piano cinematografico di un vasetto per la cura della pelle viola scuro etichettato Foxtale Skin Radiance Mask
+posizionato su un podio circolare bianco e minimalista con il coperchio aperto che rivela una maschera liscia all'argilla color lavanda e piccoli fiori viola sparsi intorno.
+
+Scena 2: Scatto macro con zoom su una spatola cosmetica bianca che preleva dal vasetto una texture viola lavanda ricca, cremosa e montata.
+
+Scena 3: Una giovane donna radiosa che applica sorridendo la morbida maschera viso alla lavanda sullo zigomo con la spatola, sfumandola senza sforzo.
+
+Scena 4: Il vasetto posato su un blocco di pietra contro uno sfondo viola pastello con un testo elegante e in grassetto sulla destra che recita  Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,
 ```
 
 [↑ Torna alle categorie](#catalog)

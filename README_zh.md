@@ -1068,20 +1068,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2097908289619284300"></a>
 
-### 翻译中
+### 针对薰衣草面膜的多场景护肤品商业广告提示词，包含产品特写、涂抹过程和宣传标语。
 
 作者：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [查看 X 原帖](https://x.com/AvelyrahnAI/status/2097908289619284300)
 
 产品 · 已推流
 
-**概括:** 翻译中
+**概括:** 针对薰衣草面膜的多场景护肤品商业广告提示词，包含产品特写、涂抹过程和宣传标语。
 
 <img src="covers/2097908289619284300.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+干净、简约的商业美妆视频美学，柔和的粉紫与薰衣草色调，伴随温暖奢华的光影。
+
+场景 1：深紫色护肤品罐的电影质感特写镜头，标签为“Foxtale Skin Radiance Mask”，放置在简约的白色圆形展台上，开盖露出平滑的薰衣草色泥膜，周围散落着细小的紫色花朵。
+
+场景 2：微距镜头拉近一把白色化妆抹刀，从罐中舀起浓郁、顺滑、如打发奶油般的薰衣草紫色膏体质地。
+
+场景 3：一位容光焕发的年轻女性面带微笑，用抹刀将顺滑的薰衣草面膜涂抹在颧骨上，并毫不费力地推开晕染开来。
+
+场景 4：罐子静置在石块上，背景为粉紫色，右侧配有优雅的大胆文字，内容为“Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow”。
 ```
 
 [↑ 返回分类目录](#catalog)

@@ -933,20 +933,29 @@ Charakter · Landschaft / Natur · Veröffentlicht
 
 <a name="prompt-2097908289619284300"></a>
 
-### Übersetzung läuft
+### Mehrteiliger Werbevideo-Prompt für Hautpflege mit einer Lavendel-Gesichtsmaske, inklusive Produktnahaufnahmen, Anwendung und Slogan.
 
 Autor：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Originalbeitrag](https://x.com/AvelyrahnAI/status/2097908289619284300)
 
 Produkt · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Mehrteiliger Werbevideo-Prompt für Hautpflege mit einer Lavendel-Gesichtsmaske, inklusive Produktnahaufnahmen, Anwendung und Slogan.
 
 <img src="covers/2097908289619284300.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine saubere, minimalistische Ästhetik eines Beauty-Werbevideos mit einem sanften pastellvioletten und lavendelfarbenen Thema und warmer Luxusbeleuchtung.
+
+Szene 1: Eine cineastische Nahaufnahme eines dunkelvioletten Hautpflegetiegels mit der Aufschrift Foxtale Skin Radiance Mask,
+der auf einem minimalistischen weißen kreisförmigen Podest steht, mit geöffnetem Deckel, der eine glatte lavendelfarbene Tonerdemaske und ringsum verstreute kleine violette Blumen enthüllt.
+
+Szene 2: Makroaufnahme mit Zoom auf einen weißen Kosmetikspatel, der eine reichhaltige, cremige, aufgeschlagene lavendelviolette Textur aus dem Tiegel hebt.
+
+Szene 3: Eine strahlende junge Frau, die lächelnd die sanfte Lavendel-Gesichtsmaske mit dem Spatel auf ihren Wangenknochen aufträgt und mühelos verblendet.
+
+Szene 4: Der Tiegel ruht auf einem Steinblock vor einem pastellvioletten Hintergrund mit elegantem, fettgedrucktem Text auf der rechten Seite mit der Aufschrift  Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

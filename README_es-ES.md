@@ -1049,20 +1049,28 @@ Traducción en curso
 
 <a name="prompt-2097908289619284300"></a>
 
-### Traducción en curso
+### Prompt para comercial de cuidado de la piel multiescena de una mascarilla facial de lavanda con primeros planos del producto, aplicación y eslogan.
 
 Autor：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Publicación original](https://x.com/AvelyrahnAI/status/2097908289619284300)
 
 Producto · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para comercial de cuidado de la piel multiescena de una mascarilla facial de lavanda con primeros planos del producto, aplicación y eslogan.
 
 <img src="covers/2097908289619284300.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una estética de video comercial de belleza limpia y minimalista con una temática en tonos pastel púrpura y lavanda y una iluminación cálida de lujo.
+
+Escena 1: Un plano cinematográfico de primer plano de un frasco de cuidado de la piel de color púrpura oscuro etiquetado como Foxtale Skin Radiance Mask colocado sobre un podio circular blanco minimalista con la tapa abierta, revelando una mascarilla de arcilla lavanda suave y pequeñas flores púrpuras esparcidas alrededor.
+
+Escena 2: Toma macro haciendo zoom sobre una espátula cosmética blanca que levanta del frasco una textura rica, cremosa y batida de color púrpura lavanda.
+
+Escena 3: Una mujer joven y radiante aplica sonriente la suave mascarilla facial lavanda en su pómulo con la espátula y la difumina sin esfuerzo.
+
+Escena 4: El frasco descansando sobre un bloque de piedra contra un fondo púrpura pastel con un texto elegante en negrita a la derecha que dice Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,
 ```
 
 [↑ Volver a categorías](#catalog)

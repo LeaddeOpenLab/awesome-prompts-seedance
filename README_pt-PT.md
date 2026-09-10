@@ -919,20 +919,29 @@ Tradução em curso
 
 <a name="prompt-2097908289619284300"></a>
 
-### Tradução em curso
+### Prompt de anúncio de cuidados de pele com várias cenas para uma máscara facial de alfazema com planos de pormenor do produto, aplicação e slogan.
 
 Autor：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Publicação original](https://x.com/AvelyrahnAI/status/2097908289619284300)
 
 Produto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de anúncio de cuidados de pele com várias cenas para uma máscara facial de alfazema com planos de pormenor do produto, aplicação e slogan.
 
 <img src="covers/2097908289619284300.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma estética de vídeo publicitário de beleza limpa e minimalista, com um tema suave em roxo pastel e alfazema e uma iluminação quente e luxuosa.
+
+Cena 1: Um plano cinematográfico em grande plano de um frasco de cuidados de pele roxo escuro rotulado Foxtale Skin Radiance Mask
+colocado num pódio circular branco minimalista com a tampa aberta, revelando uma máscara suave de argila cor de alfazema e pequenas flores roxas espalhadas em redor.
+
+Cena 2: Plano macro com zoom numa espátula cosmética branca a retirar do frasco uma textura rica, cremosa e batida em tom roxo alfazema.
+
+Cena 3: Uma jovem radiante a aplicar, a sorrir, a máscara facial suave de alfazema na maçã do rosto com a espátula e a esbatê-la sem esforço.
+
+Cena 4: O frasco pousado sobre um bloco de pedra contra um fundo roxo pastel com texto elegante a negrito no lado direito a dizer  Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -1063,20 +1063,28 @@ Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 <a name="prompt-2097908289619284300"></a>
 
-### Đang dịch
+### Lời nhắc quảng cáo sản phẩm chăm sóc da nhiều cảnh cho mặt nạ đất sét hoa oải hương với cận cảnh sản phẩm, cách thoa và khẩu hiệu.
 
 Tác giả：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Bài gốc](https://x.com/AvelyrahnAI/status/2097908289619284300)
 
 Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc quảng cáo sản phẩm chăm sóc da nhiều cảnh cho mặt nạ đất sét hoa oải hương với cận cảnh sản phẩm, cách thoa và khẩu hiệu.
 
 <img src="covers/2097908289619284300.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tính thẩm mỹ của video quảng cáo làm đẹp theo phong cách tối giản, trong trẻo với chủ đề màu tím pastel và hoa oải hương dịu nhẹ cùng ánh sáng ấm áp, sang trọng.
+
+Cảnh 1: Cảnh quay điện ảnh cận cảnh hũ kem dưỡng da màu tím đậm có nhãn Foxtale Skin Radiance Mask đặt trên bục tròn màu trắng tối giản, nắp mở để lộ lớp mặt nạ đất sét màu hoa oải hương mịn màng và những bông hoa nhỏ màu tím rải rác xung quanh.
+
+Cảnh 2: Cảnh quay macro phóng to chiếc thìa mỹ phẩm màu trắng đang múc một lớp kết cấu màu tím hoa oải hương đậm đà, mềm mịn như kem đánh bông từ trong hũ.
+
+Cảnh 3: Một phụ nữ trẻ rạng rỡ mỉm cười thoa lớp mặt nạ hoa oải hương mịn màng lên xương gò má bằng thìa và tán đều một cách dễ dàng.
+
+Cảnh 4: Hũ kem đặt trên một khối đá trên nền màu tím pastel với dòng chữ đậm thanh lịch ở bên phải ghi Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,
 ```
 
 [↑ Về danh mục](#catalog)

@@ -919,20 +919,29 @@ Karakter · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2097908289619284300"></a>
 
-### Çeviri sürüyor
+### Ürün yakın çekimleri, uygulama ve slogan içeren, lavantalı yüz maskesine yönelik çok sahneli cilt bakımı reklamı istemi.
 
 Yazar：[@AvelyrahnAI](https://x.com/AvelyrahnAI) · [Orijinal gönderi](https://x.com/AvelyrahnAI/status/2097908289619284300)
 
 Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ürün yakın çekimleri, uygulama ve slogan içeren, lavantalı yüz maskesine yönelik çok sahneli cilt bakımı reklamı istemi.
 
 <img src="covers/2097908289619284300.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yumuşak pastel mor ve lavanta temalı, sıcak ve lüks bir aydınlatmaya sahip, temiz ve minimalist bir ticari güzellik videosu estetiği.
+
+Sahne 1: Üzerinde Foxtale Skin Radiance Mask yazılı koyu mor bir cilt bakım kavanozunun,
+minimalist beyaz dairesel bir podyum üzerinde duran, kapağı açık halde pürüzsüz lavanta kili maskesini ve etrafa saçılmış küçük mor çiçekleri gösteren sinematik bir yakın çekimi.
+
+Sahne 2: Kavanozdan zengin, kremsi ve çırpılmış lavanta moru dokuyu kaldıran beyaz bir kozmetik spatulaya yakınlaşan makro çekim.
+
+Sahne 3: Işıltılı genç bir kadının, pürüzsüz lavanta yüz maskesini spatulayla elmacık kemiğine gülümseyerek uygulaması ve zahmetsizce dağıtması.
+
+Sahne 4: Pastel mor bir arka plana karşı taş bir blok üzerinde duran kavanoz ve sağ tarafta  Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow  yazan zarif, kalın metin,
 ```
 
 [↑ Kategorilere dön](#catalog)
