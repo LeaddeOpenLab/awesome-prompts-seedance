@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T08:20:07.664Z",
+  "model": "seedance2.5",
+  "prompt": "Create a 30-second ultra-photorealistic American ranch lifestyle vlog following the same young ranch woman through one authentic working day, from sunrise to sunset. Begin with her opening the barn and feeding horses, then repairing a wooden fence before saddling a horse and riding across open Western fields.\n\nShow a genuine working ranch with weathered barns, horse paddocks, hay, dirt paths, wooden fences, pickup trucks, green fields and distant hills. Keep the character, horse, clothing and ranch environment perfectly consistent.\n\nCapture realistic horse behavior, riding biomechanics, hoof impacts, dust, grass movement, leather tack, feed, wood, hammer strikes and natural sunlight. Use handheld 2026 documentary-vlog cinematography with close-ups, wide ranch views, realistic autofocus, subtle camera shake and a smooth golden-hour ride.\n\nNatural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark.",
+  "promptTranslations": {
+    "en": "Create a 30-second ultra-photorealistic American ranch lifestyle vlog following the same young ranch woman through one authentic working day, from sunrise to sunset. Begin with her opening the barn and feeding horses, then repairing a wooden fence before saddling a horse and riding across open Western fields.\\n\\nShow a genuine working ranch with weathered barns, horse paddocks, hay, dirt paths, wooden fences, pickup trucks, green fields and distant hills. Keep the character, horse, clothing and ranch environment perfectly consistent.\\n\\nCapture realistic horse behavior, riding biomechanics, hoof impacts, dust, grass movement, leather tack, feed, wood, hammer strikes and natural sunlight. Use handheld 2026 documentary-vlog cinematography with close-ups, wide ranch views, realistic autofocus, subtle camera shake and a smooth golden-hour ride.\\n\\nNatural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark."
+  },
+  "summaryTranslations": {
+    "en": "Create a realistic 30-second American ranch lifestyle vlog tracking a ranch woman's daily routine from sunrise to sunset."
+  },
+  "translationVersion": 2,
+  "summary": "Create a realistic 30-second American ranch lifestyle vlog tracking a ranch woman's daily routine from sunrise to sunset.",
+  "summaryEn": "Create a realistic 30-second American ranch lifestyle vlog tracking a ranch woman's daily routine from sunrise to sunset.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097917075176178101",
+    "canonicalUrl": "https://x.com/aiwithaly/status/2097917075176178101",
+    "author": {
+      "username": "aiwithaly",
+      "displayName": "Ali",
+      "profileUrl": "https://x.com/aiwithaly"
+    },
+    "publishedAt": "2026-09-10T05:16:22.000Z",
+    "collectedAt": "2026-09-10T08:16:56.591Z",
+    "language": "en",
+    "originalText": "Sunrise, saddle, and hard work beneath the Western sky. \n\nCreated on seedance 2.5\n\nPrompt:\nCreate a 30-second ultra-photorealistic American ranch lifestyle vlog following the same young ranch woman through one authentic working day, from sunrise to sunset. Begin with her opening the barn and feeding horses, then repairing a wooden fence before saddling a horse and riding across open Western fields.\n\nShow a genuine working ranch with weathered barns, horse paddocks, hay, dirt paths, wooden fences, pickup trucks, green fields and distant hills. Keep the character, horse, clothing and ranch environment perfectly consistent.\n\nCapture realistic horse behavior, riding biomechanics, hoof impacts, dust, grass movement, leather tack, feed, wood, hammer strikes and natural sunlight. Use handheld 2026 documentary-vlog cinematography with close-ups, wide ranch views, realistic autofocus, subtle camera shake and a smooth golden-hour ride.\n\nNatural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/aiwithaly/status/2097917075176178101",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097916719067176960/img/fKG2jIeDDe1wrIIZ.jpg",
+        "analysisUrl": "https://x.com/aiwithaly/status/2097917075176178101"
+      }
+    ],
+    "metrics": {
+      "likeCount": 107,
+      "repostCount": 5,
+      "replyCount": 42,
+      "quoteCount": 0,
+      "viewCount": 2210
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/aiwithaly/status/2097917075176178101",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097916719067176960/img/fKG2jIeDDe1wrIIZ.jpg",
+  "coverPath": "covers/2097917075176178101.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097916719067176960",
+    "x-post:2097917075176178101"
+  ],
+  "analysis": {
+    "summary": "Create a realistic 30-second American ranch lifestyle vlog tracking a ranch woman's daily routine from sunrise to sunset.",
+    "summaryEn": "Create a realistic 30-second American ranch lifestyle vlog tracking a ranch woman's daily routine from sunrise to sunset.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely illustrates the sequence described: opening the barn, feeding horses with spoken dialogue, hammering a fence rail, and riding across fields at golden hour."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 30-second ultra-photorealistic American ranch lifestyle vlog following the same young ranch woman through one authentic working day, from sunrise to sunset. Begin with her opening the barn and feeding horses, then repairing a wooden fence before saddling a horse and riding across open Western fields.\n\nShow a genuine working ranch with weathered barns, horse paddocks, hay, dirt paths, wooden fences, pickup trucks, green fields and distant hills. Keep the character, horse, clothing and ranch environment perfectly consistent.\n\nCapture realistic horse behavior, riding biomechanics, hoof impacts, dust, grass movement, leather tack, feed, wood, hammer strikes and natural sunlight. Use handheld 2026 documentary-vlog cinematography with close-ups, wide ranch views, realistic autofocus, subtle camera shake and a smooth golden-hour ride.\n\nNatural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark.",
+    "sourceRange": {
+      "start": 91,
+      "end": 1186
+    },
+    "translations": {
+      "zh": "创作一段30秒超写实美国牧场生活日常Vlog，记录同一名年轻女牛仔从日出到日落的一天。从清晨开仓喂马、修缮木栅栏，到备鞍策马驰骋在广阔西部田野。\n\n展现真实运作的牧场，包含风化谷仓、马圈、干草、土路、木栅栏、皮卡、绿野和远山，保持人物、马匹、服装与环境高度一致。\n\n捕捉真实的马匹行为、骑行动作、蹄击、扬尘、皮革与光影。采用手持纪实摄影风格，包含特写与全景镜头，自然景深及环境原声。",
+      "en": "Create a 30-second ultra-photorealistic American ranch lifestyle vlog following the same young ranch woman through one authentic working day, from sunrise to sunset. Begin with her opening the barn and feeding horses, then repairing a wooden fence before saddling a horse and riding across open Western fields.\n\nShow a genuine working ranch with weathered barns, horse paddocks, hay, dirt paths, wooden fences, pickup trucks, green fields and distant hills. Keep the character, horse, clothing and ranch environment perfectly consistent.\n\nCapture realistic horse behavior, riding biomechanics, hoof impacts, dust, grass movement, leather tack, feed, wood, hammer strikes and natural sunlight. Use handheld 2026 documentary-vlog cinematography with close-ups, wide ranch views, realistic autofocus, subtle camera shake and a smooth golden-hour ride.\n\nNatural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Western ranch lifestyle vlog generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
