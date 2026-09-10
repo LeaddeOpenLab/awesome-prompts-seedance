@@ -905,20 +905,32 @@ Traduction en cours
 
 <a name="prompt-2097893690220085662"></a>
 
-### Traduction en cours
+### Scène de vie au format DV du début des années 2000 montrant une jeune Coréenne dans un vieux quartier résidentiel de Séoul qui se brûle la main au barbecue, la passe sous l'eau et achète une glace.
 
 Auteur：[@AIwithkhan](https://x.com/AIwithkhan) · [Publication originale](https://x.com/AIwithkhan/status/2097893690220085662)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène de vie au format DV du début des années 2000 montrant une jeune Coréenne dans un vieux quartier résidentiel de Séoul qui se brûle la main au barbecue, la passe sous l'eau et achète une glace.
 
 <img src="covers/2097893690220085662.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo personnelle amateur ultra-réaliste de 30 secondes en 1080p montrant une jeune femme coréenne d'une vingtaine d'années, avec une longue queue-de-cheval noire décoiffée sur le côté, un haut ajusté bleu pastel, un pantalon de pyjama ample crème, des baskets noires, un collier argenté, portant un sac en toile ; conservez une apparence identique d'un bout à l'autre.
+Située dans un vieux quartier résidentiel calme de Séoul par un chaud après-midi d'été : ruelles étroites en béton, petites maisons, vieux murs, plantes en pot, vélos, poteaux électriques, câbles aériens, linge suspendu et un simple barbecue en extérieur.
+Utilisez une esthétique brute de caméscope numérique DV grand public du début des années 2000 : tremblements prononcés de caméra à l'épaule, cadrage imparfait, pompage de l'autofocus, variations d'exposition, flou de mouvement, couleurs délavées, détails numériques doux, léger bruit et zooms accidentels ; aucune cinématographie léchée.
+Elle quitte sa maison avec son sac en toile, verrouille la porte, réajuste sa queue-de-cheval et descend tranquillement la ruelle tandis qu'une légère brise fait bouger ses cheveux.
+Elle aperçoit sa jeune amie coréenne devant une petite maison, vêtue d'un haut court gris, d'un pantalon ample façon pyjama et de chaussons d'intérieur, en train de préparer de la nourriture sur un simple barbecue à charbon.
+Elle sourit, s'approche et demande : « Tu as besoin d'aide ? », et son amie lui tend joyeusement la pince de cuisine.
+Elles discutent et rient pendant qu'elle aide prudemment à retourner la nourriture, mais elle touche accidentellement le bord chaud du barbecue et retire immédiatement sa main en disant : « Ah ! C'est chaud ! »
+Son amie s'inquiète et lui indique un robinet d'eau extérieur à proximité ; elle s'y rend alors rapidement en tenant sa main blessée.
+Elle ouvre le robinet et passe sa main sous l'eau fraîche et courante ; gros plan de l'eau s'écoulant naturellement sur ses doigts tandis qu'elle pousse un soupir de soulagement.
+Après s'être séché la main, elle remarque un petit chariot de glaces du quartier, s'approche et choisit une simple glace auprès du vendeur.
+Elle sort des pièces de son sac en toile, les compte naturellement et les tend au vendeur, puis s'éloigne en mangeant sa glace avec un petit sourire amusé.
+Elle rentre chez elle par la même ruelle résidentielle, regarde sa main puis la glace, murmure « Ça va peut-être aider », et disparaît derrière son portail.
+AUDIO : uniquement des sons diégétiques naturels — bruits de pas, oiseaux, insectes, scooters, sonnettes de vélo, voix de voisinage, crépitement du barbecue, braises qui crépitent, dialogues, eau courante, bruits du chariot de glaces, pièces de monnaie et bruits de manipulation de la caméra ; pas de musique ni de narration. Négatif : pas de sous-titres, légendes, logos, filigranes, changements d'identité ou de tenue, personnes dupliquées, mains déformées, gore, sang, blessures excessives, aspect CGI, téléportation, duplication d'objets ou mouvements de caméra cinématographiques polis.
 ```
 
 [↑ Retour aux catégories](#catalog)

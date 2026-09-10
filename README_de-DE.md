@@ -905,20 +905,32 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 
 <a name="prompt-2097893690220085662"></a>
 
-### Übersetzung läuft
+### Ein Alltagsausschnitt im DV-Look der frühen 2000er-Jahre über ein koreanisches Mädchen in einem alten Wohnviertel von Seoul, das sich beim Grillen die Hand verbrennt, sie kühlt und ein Eis kauft.
 
 Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Originalbeitrag](https://x.com/AIwithkhan/status/2097893690220085662)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Alltagsausschnitt im DV-Look der frühen 2000er-Jahre über ein koreanisches Mädchen in einem alten Wohnviertel von Seoul, das sich beim Grillen die Hand verbrennt, sie kühlt und ein Eis kauft.
 
 <img src="covers/2097893690220085662.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 30-sekündiges, ultra-realistisches 1080p-Heimvideo einer jungen Koreanerin Anfang 20 mit einem langen, unordentlichen schwarzen Seitenzopf, einem pastellblauen, eng anliegenden Oberteil, einer weiten cremefarbenen Schlafanzughose, schwarzen Sneakern, einer Silberkette und einer Stofftasche; behalte das identische Erscheinungsbild durchgehend bei.
+Angesiedelt in einem ruhigen, älteren Wohnviertel in Seoul an einem warmen Sommernachmittag: schmale Betonstraßen, kleine Häuser, alte Mauern, Topfpflanzen, Fahrräder, Strommasten, Freileitungen, Wäsche und ein einfacher Außengrill.
+Verwende eine rohe Ästhetik einer Consumer-DV-Camcorder der frühen 2000er Jahre: starkes Verwackeln aus der Hand, unvollkommene Bildausschnitte, pumpender Autofokus, Belichtungsverschiebungen, Bewegungsunschärfe, verblasste Farben, weiche digitale Details, leichtes Rauschen und versehentliche Zooms; keine ausgefeilte Kinematografie.
+Sie verlässt ihr Haus mit der Stofftasche, schließt die Tür ab, richtet ihren Pferdeschwanz und geht lässig die Gasse hinunter, während eine leichte Brise ihr Haar bewegt.
+Sie entdeckt ihre junge koreanische Freundin vor einem kleinen Haus, die ein graues Crop-Top, eine weite Schlafanzughose und Hausschuhe trägt und Essen auf einem einfachen Holzkohlegrill zubereitet.
+Sie lächelt, geht hinüber und fragt: „Brauchst du Hilfe?“, und ihre Freundin reicht ihr freudig die Grillzange.
+Sie plaudern und lachen, während sie vorsichtig beim Wenden des Essens hilft, doch versehentlich berührt sie den heißen Rand des Grills, zieht sofort ihre Hand zurück und ruft: „Ah! Heiß!“
+Ihre Freundin wird besorgt und zeigt auf einen nahegelegenen Wasserhahn im Freien, woraufhin sie schnell mit festgehaltener verletzter Hand dorthin geht.
+Sie dreht den Hahn auf und hält ihre Hand unter das kühle fließende Wasser; Nahaufnahme von Wasser, das natürlich über ihre Finger fließt, während sie erleichtert aufatmet.
+Nachdem sie ihre Hand abgetrocknet hat, bemerkt sie einen kleinen Eiswagen im Viertel, geht hinüber und wählt ein einfaches Eis beim Verkäufer aus.
+Sie nimmt Münzen aus ihrer Stofftasche, zählt sie ganz natürlich ab, gibt sie dem Verkäufer und geht dann essend mit einem leisen, amüsierten Lächeln davon.
+Sie geht durch dieselbe Wohnstraße zurück nach Hause, schaut auf ihre Hand und dann auf das Eis, sagt leise „Vielleicht hilft das ja“, und verschwindet hinter ihrem Tor.
+AUDIO: nur natürlicher diegetischer Ton – Schritte, Vögel, Insekten, Motorroller, Fahrradklingeln, Nachbarschaftsstimmen, Grillbrutzeln, knisternde Holzkohle, Dialoge, fließendes Wasser, Geräusche des Eiswagens, Münzen und Kamerahandhabungsgeräusche; keine Musik oder Erzählung. Negativ: keine Untertitel, Beschriftungen, Logos, Wasserzeichen, Identitäts-/Kleidungswechsel, doppelte Personen, verzerrte Hände, Gore, Blut, übermäßige Verletzungen, CGI-Look, Teleportation, Objektverdopplung oder ausgefeilte filmische Kamerabewegungen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

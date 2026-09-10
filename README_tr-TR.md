@@ -891,20 +891,32 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 
 <a name="prompt-2097893690220085662"></a>
 
-### Çeviri sürüyor
+### 2000'lerin başı DV dokusunda, Seul'ün eski bir yerleşim bölgesinde barbeküde elini yakan, suya tutan ve dondurma alan Koreli bir kızın hayatından bir kesit.
 
 Yazar：[@AIwithkhan](https://x.com/AIwithkhan) · [Orijinal gönderi](https://x.com/AIwithkhan/status/2097893690220085662)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 2000'lerin başı DV dokusunda, Seul'ün eski bir yerleşim bölgesinde barbeküde elini yakan, suya tutan ve dondurma alan Koreli bir kızın hayatından bir kesit.
 
 <img src="covers/2097893690220085662.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+20'li yaşlarının başında, uzun siyah dağınık yan at kuyruğu saçlı, pastel mavi dar kesim üst, bol krem rengi pijama altı, siyah spor ayakkabılar, gümüş kolye takan ve kanvas bez çanta taşıyan genç bir Koreli kadının 30 saniyelik, 1080p ultra gerçekçi kişisel ev videosunu oluşturun; baştan sona aynı görünümü koruyun.
+Sıcak bir yaz öğleden sonrasında Seul'ün sakin, eski bir yerleşim mahallesinde geçsin: dar beton sokaklar, küçük evler, eski duvarlar, saksı bitkileri, bisikletler, elektrik direkleri, havadaki kablolar, asılı çamaşırlar ve basit bir açık hava barbeküsü.
+2000'lerin başındaki tüketici tipi ham DV video kamera estetiğini kullanın: güçlü el titremesi, kusurlu kadrajlama, odak arama hareketleri, pozlama kaymaları, hareket bulanıklığı, soluk renkler, yumuşak dijital detaylar, hafif parazit ve kazara yapılan yakınlaştırmalar; cilalı sinematografi olmasın.
+Bez çantasıyla evinden çıkar, kapıyı kilitler, at kuyruğunu düzeltir ve hafif bir rüzgar saçlarını savururken sokakta rahat adımlarla yürür.
+Küçük bir evin önünde gri crop top, bol pijama tarzı pantolon ve ev terlikleri giymiş, basit bir kömürlü barbeküde yemek hazırlayan genç Koreli arkadaşını görür.
+Gülümser, yanına gider ve “Need some help?” diye sorar; arkadaşı da neşeyle pişirme maşasını ona uzatır.
+O dikkatlice yemekleri çevirmeye yardım ederken sohbet edip gülerler, ancak kazara barbekünün sıcak kenarına dokunur ve hemen elini geri çekerek “Ah! Hot!” der.
+Arkadaşı endişelenir ve yakındaki açık hava su musluğunu işaret eder, o da acıyan elini tutarak hızla oraya doğru yürür.
+Musluğu açar ve elini serin akan suyun altına tutar; rahat bir nefes alırken parmaklarının üzerinden doğal bir şekilde akan suyun yakın çekimi.
+Elini kuruladıktan sonra mahalledeki küçük bir dondurma arabasını fark eder, oraya yürür ve satıcıdan sade bir dondurma seçer.
+Kanvas bez çantasından bozuk paraları çıkarır, doğal bir şekilde sayarak satıcıya verir, ardından hafif neşeli bir gülümsemeyle dondurmasını yiyerek oradan uzaklaşır.
+Aynı yerleşim sokağından eve doğru geri yürür, önce eline sonra dondurmaya bakar, sessizce “Maybe this can help,” der ve bahçe kapısından içeri girerek gözden kaybolur.
+SES: sadece doğal diejetik sesler — ayak sesleri, kuşlar, böcekler, skuterlar, bisiklet zilleri, mahalledeki sesler, barbekünün cızırtısı, kömürün çıtırtısı, diyaloglar, akan su, dondurma arabası sesleri, bozuk paralar ve kameranın tutulma gürültüsü; müzik veya dış ses yok. Negatif: altyazı, yazı, logo, filigran, kimlik/kıyafet değişiklikleri, yinelenen insanlar, bozuk eller, vahşet, kan, aşırı yaralanma, CGI görünümü, ışınlanma, nesne çoğalması veya cilalı sinematik hareketler olmasın.
 ```
 
 [↑ Kategorilere dön](#catalog)

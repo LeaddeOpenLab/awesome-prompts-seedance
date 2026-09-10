@@ -905,20 +905,32 @@ Traducción en curso
 
 <a name="prompt-2097893690220085662"></a>
 
-### Traducción en curso
+### Fragmento de vida con estética DV de principios de los 2000 de una chica coreana en un barrio antiguo de Seúl que se quema la mano en una barbacoa, se echa agua y compra un helado.
 
 Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Publicación original](https://x.com/AIwithkhan/status/2097893690220085662)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Fragmento de vida con estética DV de principios de los 2000 de una chica coreana en un barrio antiguo de Seúl que se quema la mano en una barbacoa, se echa agua y compra un helado.
 
 <img src="covers/2097893690220085662.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video casero personal ultra realista de 30 segundos en 1080p de una joven coreana de unos 20 años, con una cola de caballo lateral negra, larga y despeinada, un top ajustado azul pastel, pantalones holgados de pijama color crema, zapatillas negras, collar plateado y llevando una bolsa de tela; mantén una apariencia idéntica en todo momento.
+Ambientado en un antiguo y tranquilo barrio residencial de Seúl en una cálida tarde de verano: callejones estrechos de concreto, casas pequeñas, muros viejos, plantas en macetas, bicicletas, postes de luz, cables aéreos, ropa tendida y una sencilla barbacoa al aire libre.
+Utiliza una estética cruda de videocámara DV de consumo de principios de los años 2000: fuerte temblor de cámara en mano, encuadre imperfecto, búsqueda de enfoque automático, cambios de exposición, desenfoque de movimiento, colores desteñidos, detalles digitales suaves, ruido leve y zooms accidentales; sin cinematografía pulida.
+Ella sale de su casa con la bolsa de tela, cierra la puerta con llave, se acomoda la cola de caballo y camina con tranquilidad por el callejón mientras una suave brisa le mueve el cabello.
+Ve a su joven amiga coreana afuera de una pequeña casa, vestida con un top corto gris, pantalones holgados estilo pijama y pantuflas de casa, preparando comida en una sencilla barbacoa de carbón.
+Sonríe, se acerca y le pregunta: “¿Necesitas ayuda?”, y su amiga le entrega alegremente las pinzas de cocina.
+Charlan y se ríen mientras ella ayuda con cuidado a voltear la comida, pero accidentalmente toca el borde caliente de la barbacoa e inmediatamente retira la mano, diciendo: “¡Ah! ¡Quema!”.
+Su amiga se preocupa y señala un grifo de agua exterior cercano, así que ella camina rápidamente hacia allí sosteniendo su mano herida.
+Abre el grifo y coloca la mano bajo el agua corriente fresca; primer plano del agua fluyendo de forma natural sobre sus dedos mientras exhala un suspiro de alivio.
+Después de secarse la mano, nota un pequeño carrito de helados del barrio, se acerca y elige un helado simple del vendedor.
+Saca monedas de su bolsa de tela, las cuenta con naturalidad y se las da al vendedor, luego se aleja comiendo el helado con una pequeña sonrisa divertida.
+Regresa caminando hacia su casa por el mismo callejón residencial, se mira la mano y luego el helado, dice en voz baja “Tal vez esto pueda ayudar”, y desaparece tras su portón.
+AUDIO: solo sonido diegético natural: pasos, pájaros, insectos, motonetas, timbres de bicicleta, voces del vecindario, chisporroteo de la barbacoa, carbón crepitando, diálogo, agua corriente, sonidos del carrito de helados, monedas y ruido de manipulación de la cámara; sin música ni narración. Negativo: sin subtítulos, textos, logotipos, marcas de agua, cambios de identidad/atuendo, personas duplicadas, manos distorsionadas, violencia gráfica, sangre, lesiones excesivas, aspecto de CGI, teletransportación, duplicación de objetos ni movimientos cinematográficos pulidos.
 ```
 
 [↑ Volver a categorías](#catalog)

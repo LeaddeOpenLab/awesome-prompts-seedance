@@ -891,20 +891,32 @@ Tradução em andamento
 
 <a name="prompt-2097893690220085662"></a>
 
-### Tradução em andamento
+### Clipe de estilo de vida com textura de filmadora DV do início dos anos 2000: garota coreana queima a mão no churrasco em um antigo bairro residencial de Seul, lava com água e compra sorvete.
 
 Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Publicação original](https://x.com/AIwithkhan/status/2097893690220085662)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Clipe de estilo de vida com textura de filmadora DV do início dos anos 2000: garota coreana queima a mão no churrasco em um antigo bairro residencial de Seul, lava com água e compra sorvete.
 
 <img src="covers/2097893690220085662.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo caseiro pessoal de 30 segundos, em 1080p e ultrarrealista, de uma jovem coreana no início dos seus 20 anos, com rabo de cavalo lateral longo, preto e desarrumado, blusa justa azul-pastel, calça de pijama bege folgada, tênis pretos, colar de prata, carregando uma sacola tote de lona; mantenha a aparência idêntica do início ao fim.
+Ambiente em um bairro residencial mais antigo e tranquilo de Seul em uma tarde quente de verão: ruelas estreitas de concreto, casas pequenas, muros antigos, vasos de plantas, bicicletas, postes de iluminação pública, fiação aérea, roupas no varal e um churrasco simples ao ar livre.
+Use uma estética crua de filmadora digital DV de consumo do início dos anos 2000: forte tremor de câmera na mão, enquadramento imperfeito, foco automático instável buscando foco, oscilações de exposição, desfoque de movimento, cores desbotadas, detalhes digitais suaves, leve ruído e zooms acidentais; sem cinematografia polida.
+Ela sai de casa com a sacola de lona, tranca a porta, ajeita o rabo de cavalo e caminha despreocupadamente pela ruela enquanto uma brisa leve move seu cabelo.
+Ela avista sua jovem amiga coreana do lado de fora de uma casa pequena, vestindo um cropped cinza, calça folgada estilo pijama e chinelos de casa, preparando comida em uma churrasqueira simples a carvão.
+Ela sorri, se aproxima e pergunta: “Need some help?”, e sua amiga alegremente lhe entrega o pegador de comida.
+Elas conversam e riem enquanto ela ajuda cuidadosamente a virar a comida, mas ela acidentalmente toca a borda quente da churrasqueira e puxa a mão imediatamente, dizendo: “Ah! Hot!”
+Sua amiga fica preocupada e aponta para uma torneira externa próxima, então ela caminha rapidamente até lá enquanto segura a mão machucada.
+Ela abre a torneira e coloca a mão sob a água corrente e fresca; close-up da água fluindo naturalmente sobre seus dedos enquanto ela solta um suspiro de alívio.
+Depois de secar a mão, ela percebe um pequeno carrinho de sorvete do bairro, vai até lá e escolhe um sorvete simples com o vendedor.
+Ela pega moedas de sua sacola tote de lona, conta-as naturalmente e as entrega ao vendedor, depois se afasta comendo o sorvete com um leve sorriso divertido.
+Ela caminha de volta para casa pela mesma ruela residencial, olha para a mão e depois para o sorvete, diz baixinho “Maybe this can help,” e desaparece através de seu portão.
+ÁUDIO: apenas som diegético natural — passos, pássaros, insetos, lambretas, sinos de bicicleta, vozes da vizinhança, chiar do churrasco, estalo do carvão, diálogos, água corrente, sons do carrinho de sorvete, moedas e ruído de manuseio da câmera; sem música ou narração. Negativo: sem legendas, letreiros, logotipos, marcas d'água, mudanças de identidade/roupa, pessoas duplicadas, mãos distorcidas, gore, sangue, ferimento excessivo, aspecto de CGI, teletransporte, duplicação de objetos ou movimento cinematográfico polido.
 ```
 
 [↑ Voltar às categorias](#catalog)

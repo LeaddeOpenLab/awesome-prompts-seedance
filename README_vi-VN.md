@@ -1035,20 +1035,32 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 <a name="prompt-2097893690220085662"></a>
 
-### Đang dịch
+### Đoạn phim đời thường mang phong cách DV đầu những năm 2000 về một cô gái Hàn Quốc trong khu dân cư cũ ở Seoul: bị bỏng khi nướng thịt, xả nước làm mát và mua kem.
 
 Tác giả：[@AIwithkhan](https://x.com/AIwithkhan) · [Bài gốc](https://x.com/AIwithkhan/status/2097893690220085662)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Đoạn phim đời thường mang phong cách DV đầu những năm 2000 về một cô gái Hàn Quốc trong khu dân cư cũ ở Seoul: bị bỏng khi nướng thịt, xả nước làm mát và mua kem.
 
 <img src="covers/2097893690220085662.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video gia đình cá nhân dài 30 giây, độ phân giải 1080p, siêu chân thực về một cô gái Hàn Quốc độ tuổi đầu 20, tóc đen dài buộc đuôi ngựa lệch hơi rối, áo ôm màu xanh pastel, quần pyjama màu kem ống rộng, giày thể thao đen, vòng cổ bạc, mang theo túi tote vải canvas; giữ nguyên diện mạo xuyên suốt video.
+Bối cảnh tại một khu dân cư cũ yên tĩnh ở Seoul vào một buổi chiều mùa hè ấm áp: ngõ bê tông hẹp, những ngôi nhà nhỏ, tường cũ, chậu cây, xe đạp, cột điện, dây điện chằng chịt, quần áo phơi và một bếp nướng than ngoài trời đơn giản.
+Sử dụng phong cách máy quay DV gia đình đầu những năm 2000 đầy mộc mạc: rung lắc tay mạnh, căn khung không hoàn hảo, lấy nét tự động chập chờn, thay đổi độ phơi sáng, nhòe chuyển động, màu sắc phai nhạt, chi tiết kỹ thuật số mềm mại, nhiễu hạt nhẹ và các cú zoom vô tình; không có kỹ xảo điện ảnh bóng bẩy.
+Cô ấy rời khỏi nhà với chiếc túi tote, khóa cửa, chỉnh lại đuôi tóc và thong thả bước xuống ngõ khi một cơn gió nhẹ làm tóc cô khẽ bay.
+Cô nhìn thấy người bạn Hàn Quốc trẻ tuổi của mình bên ngoài một ngôi nhà nhỏ, mặc áo crop top xám, quần kiểu pyjama rộng rãi và đi dép lê trong nhà, đang chuẩn bị đồ ăn trên bếp nướng than đơn sơ.
+Cô mỉm cười, bước tới và hỏi: “Need some help?”, người bạn vui vẻ đưa kẹp nấu ăn cho cô.
+Họ trò chuyện và cười đùa khi cô cẩn thận giúp lật thức ăn, nhưng cô vô tình chạm vào mép nóng của bếp nướng và lập tức rụt tay lại, thốt lên: “Ah! Hot!”
+Người bạn tỏ vẻ lo lắng và chỉ về phía vòi nước ngoài trời gần đó, cô liền nhanh chóng đi qua trong khi giữ bàn tay bị đau.
+Cô mở vòi nước và đưa tay dưới dòng nước mát đang chảy; cận cảnh dòng nước chảy tự nhiên qua các ngón tay của cô trong khi cô thở phào nhẹ nhõm.
+Sau khi lau khô tay, cô nhìn thấy một xe kem nhỏ trong xóm, bước lại gần và chọn một que kem đơn giản từ người bán.
+Cô lấy tiền xu từ chiếc túi tote vải canvas, đếm tiền một cách tự nhiên và đưa cho người bán, sau đó vừa đi vừa ăn kem với nụ cười thích thú nhẹ nhàng.
+Cô đi bộ trở về nhà qua cùng con ngõ dân cư đó, nhìn vào tay mình rồi nhìn que kem, khẽ nói: “Maybe this can help,” rồi bước vào sau cánh cổng nhà mình.
+ÂM THANH: chỉ có âm thanh thực tế tự nhiên—tiếng bước chân, tiếng chim, côn trùng, tiếng xe tay ga, chuông xe đạp, tiếng nói chuyện trong xóm, tiếng xèo xèo của đồ nướng, tiếng than nổ lách tách, đối thoại, tiếng nước chảy, âm thanh xe kem, tiếng tiền xu và tiếng thao tác máy quay; không có âm nhạc hay lời dẫn chuyện. Phủ định: không có phụ đề, chú thích, logo, hình mờ, thay đổi danh tính/trang phục, người trùng lặp, bàn tay biến dạng, máu me, vết thương quá mức, giao diện CGI, dịch chuyển tức thời, nhân bản vật thể hay chuyển động điện ảnh mượt mà bóng bẩy.
 ```
 
 [↑ Về danh mục](#catalog)

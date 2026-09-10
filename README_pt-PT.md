@@ -891,20 +891,32 @@ Tradução em curso
 
 <a name="prompt-2097893690220085662"></a>
 
-### Tradução em curso
+### Excerto de vida com textura de câmara DV do início dos anos 2000: rapariga coreana queima a mão num churrasco num antigo bairro residencial de Seul, passa por água e compra um gelado.
 
 Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Publicação original](https://x.com/AIwithkhan/status/2097893690220085662)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Excerto de vida com textura de câmara DV do início dos anos 2000: rapariga coreana queima a mão num churrasco num antigo bairro residencial de Seul, passa por água e compra um gelado.
 
 <img src="covers/2097893690220085662.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo caseiro pessoal de 30 segundos, em 1080p e ultrarrealista, de uma jovem coreana no início dos seus 20 anos, com rabo de cavalo lateral longo, preto e desgrenhado, camisola justa azul-pastel, calças de pijama beges largas, sapatilhas pretas, colar de prata, transportando um saco de lona; mantenha a aparência idêntica do início ao fim.
+Ambiente num bairro residencial mais antigo e calmo de Seul numa tarde quente de verão: ruelas estreitas de betão, casas pequenas, muros velhos, vasos de plantas, bicicletas, postes de eletricidade, fios aéreos, roupa estendida e um churrasco simples ao ar livre.
+Use uma estética crua de câmara de vídeo digital DV de consumo do início dos anos 2000: forte oscilação de câmara à mão, enquadramento imperfeito, focagem automática instável, alterações de exposição, arrastamento de movimento, cores desbotadas, detalhes digitais suaves, ruído ligeiro e zooms acidentais; sem cinematografia cuidada.
+Ela sai de casa com o saco de lona, tranca a porta, ajeita o rabo de cavalo e caminha descontraidamente pela ruela enquanto uma brisa suave agita o seu cabelo.
+Ela repara na sua jovem amiga coreana no exterior de uma casa pequena, vestida com um top curto cinzento, calças largas estilo pijama e chinelos de quarto, a preparar comida num grelhador a carvão simples.
+Ela sorri, aproxima-se e pergunta: “Need some help?”, e a amiga, satisfeita, entrega-lhe a pinça de cozinha.
+Elas conversam e riem-se enquanto ela ajuda cuidadosamente a virar a comida, mas toca acidentalmente na borda quente do grelhador e puxa a mão imediatamente para trás, dizendo: “Ah! Hot!”
+A amiga fica preocupada e aponta para uma torneira exterior próxima, pelo que ela caminha rapidamente para lá a segurar na mão magoada.
+Ela abre a torneira e coloca a mão sob a água corrente fresca; grande plano da água a correr naturalmente pelos seus dedos enquanto dá um suspiro de alívio.
+Após secar a mão, repara num pequeno carrinho de gelados do bairro, dirige-se até lá e escolhe um gelado simples ao vendedor.
+Tira moedas do seu saco de lona, conta-as de forma natural e entrega-as ao vendedor, afastando-se depois a comer o gelado com um ligeiro sorriso divertido.
+Caminha de regresso a casa pela mesma ruela residencial, olha para a mão e depois para o gelado, diz em voz baixa “Maybe this can help,” e desaparece através do seu portão.
+ÁUDIO: apenas som diegético natural — passos, pássaros, insetos, scooters, campainhas de bicicleta, vozes da vizinhança, crepitar do churrasco, estalar do carvão, diálogos, água a correr, sons do carrinho de gelados, moedas e ruído de manuseamento da câmara; sem música nem narração. Negativo: sem legendas, letreiros, logótipos, marcas de água, mudanças de identidade/roupa, pessoas duplicadas, mãos distorcidas, sangue, violência gráfica, ferimentos excessivos, aspeto CGI, teletransporte, duplicação de objetos ou movimento cinematográfico polido.
 ```
 
 [↑ Voltar às categorias](#catalog)

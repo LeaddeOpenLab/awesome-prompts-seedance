@@ -905,20 +905,32 @@ Traduzione in corso
 
 <a name="prompt-2097893690220085662"></a>
 
-### Traduzione in corso
+### Scena di vita quotidiana con estetica DV dei primi anni 2000 di una ragazza coreana in un vecchio quartiere di Seoul che si scotta con il barbecue, si sciacqua la mano e compra un gelato.
 
 Autore：[@AIwithkhan](https://x.com/AIwithkhan) · [Post originale](https://x.com/AIwithkhan/status/2097893690220085662)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena di vita quotidiana con estetica DV dei primi anni 2000 di una ragazza coreana in un vecchio quartiere di Seoul che si scotta con il barbecue, si sciacqua la mano e compra un gelato.
 
 <img src="covers/2097893690220085662.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video amatoriale personale ultra-realistico di 30 secondi in 1080p di una giovane donna coreana sui vent'anni, con una lunga coda di cavallo laterale spettinata e nera, un top aderente celeste pastello, pantaloni larghi da pigiama color crema, scarpe da ginnastica nere, collana d'argento e una borsa di tela; mantieni un aspetto identico per tutta la durata.
+Ambientalo in un vecchio e tranquillo quartiere residenziale di Seoul in un caldo pomeriggio d'estate: stretti vicoli in cemento, piccole case, vecchi muri, piante in vaso, biciclette, pali della luce, cavi aerei, panni stesi e un semplice barbecue all'aperto.
+Utilizza l'estetica grezza di una videocamera consumer DV dei primi anni 2000: forte tremolio della ripresa a mano libera, inquadratura imperfetta, continua messa a fuoco automatica instabile, sbalzi di esposizione, sfocatura da movimento, colori sbiaditi, dettagli digitali morbidi, leggero rumore e zoom accidentali; nessuna cinematografia rifinita.
+La ragazza esce di casa con la borsa di tela, chiude a chiave la porta, si sistema la coda di cavallo e cammina con disinvoltura lungo il vicolo mentre una leggera brezza le muove i capelli.
+Scorge la sua giovane amica coreana fuori da una casetta, che indossa un crop top grigio, pantaloni larghi stile pigiama e pantofole da casa, intenta a preparare cibo su un semplice barbecue a carbonella.
+Sorride, si avvicina e chiede: “Hai bisogno di aiuto?”, e l'amica le passa allegramente le pinze da cucina.
+Chiacchierano e ridono mentre lei aiuta con attenzione a girare il cibo, ma tocca accidentalmente il bordo rovente del barbecue e ritrae subito la mano dicendo: “Ah! Scotta!”
+L'amica si preoccupa e indica un vicino rubinetto dell'acqua all'aperto, così lei si dirige rapidamente lì stringendosi la mano dolorante.
+Apre il rubinetto e mette la mano sotto l'acqua fresca corrente; primo piano dell'acqua che scorre naturalmente sulle sue dita mentre tira un sospiro di sollievo.
+Dopo essersi asciugata la mano, nota un piccolo carretto dei gelati del quartiere, si avvicina e sceglie un semplice gelato dal venditore.
+Prende delle monete dalla borsa di tela, le conta con naturalezza e le porge al venditore, poi si allontana mangiando il gelato con un lieve sorriso divertito.
+Torna verso casa percorrendo lo stesso vicolo residenziale, guarda la mano e poi il gelato, dice sottovoce “Forse questo può aiutare”, e scompare oltre il cancello.
+AUDIO: solo suoni diegetici naturali: passi, uccelli, insetti, scooter, campanelli di biciclette, voci del quartiere, sfrigolio del barbecue, scoppiettio della carbonella, dialoghi, acqua corrente, rumori del carretto dei gelati, tintinnio di monete e rumori di manipolazione della telecamera; nessuna musica o narrazione. Negativo: niente sottotitoli, didascalie, loghi, filigrane, cambi di identità/abito, persone duplicate, mani distorte, violenza splatter, sangue, ferite eccessive, aspetto CGI, teletrasporto, duplicazione di oggetti o movimenti di macchina cinematografici puliti.
 ```
 
 [↑ Torna alle categorie](#catalog)
