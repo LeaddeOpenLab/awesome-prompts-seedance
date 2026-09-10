@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**37** Prompts · Latest addition: **2026-09-10**
+**38** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,59 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097961776969109709"></a>
+
+### Create a 30-second realistic cinematic suspense short film depicting a covert confrontation and pursuit among three people in an aging apartment elevator and corridor.
+
+Author：[@bmx\_ai13](https://x.com/bmx_ai13) · [Source](https://x.com/bmx_ai13/status/2097961776969109709)
+
+Photography · Cinematic / Film Still · Architecture / Interior · Published
+
+**Summary:** Create a 30-second realistic cinematic suspense short film depicting a covert confrontation and pursuit among three people in an aging apartment elevator and corridor.
+
+<img src="covers/2097961776969109709.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30-second photorealistic cinematic suspense thriller in 16:9 widescreen. Premium theatrical cinematography, grounded performances, carefully motivated camera movement, believable physical action, and tightly controlled tension.
+
+SETTING AND CHARACTERS:
+An aging Hong Kong apartment building: cramped elevator with honey-colored wood panels, scratched brass fittings, and warm overhead lighting; outside, narrow corridors with green-and-ochre tiles, metal security gates, exposed pipes, and cold fluorescent lights.
+Maintain three consistent characters throughout:
+— A young adult East Asian woman with a straight black bob, red-and-gray plaid overshirt, white over-ear headphones, and a black crossbody bag.
+— A middle-aged East Asian protector with short dark hair, rectangular glasses, charcoal utility vest, and dark polo shirt. His apparently ordinary manner conceals constant vigilance.
+— An elderly East Asian pursuer with a weathered face, brown flat cap, round glasses, dark cardigan, and patterned neck scarf. Almost motionless, quietly threatening.
+
+00:00–00:04 — THE HIDDEN THREAT
+Begin immediately on an extreme close-up of the elderly man’s hand concealing a closed folding knife beside his cardigan. A restrained metallic click. Cut to a wide interior elevator composition: the woman stands foreground left wearing headphones; the elderly man waits behind her, right. Amber light, oppressive stillness. Slowly push forward as the elevator doors begin closing.
+00:04–00:08 — THE INTERRUPTION
+A hand catches the closing doors. They reopen, revealing the bespectacled protector against the cold green corridor. He enters calmly and positions himself between the woman and the elderly man. In a close two-shot, he gestures for her to lower her headphones. She does, initially irritated, then notices his serious expression. His eyes briefly track the concealed hand.
+00:08–00:12 — THE SILENT CONFRONTATION
+Controlled lateral camera movement reveals all three faces in layered depth. The protector casually offers a red apple, using the gesture to turn toward the pursuer. Cut to the elderly man’s eyes beneath his cap; then his fingers tightening around the concealed knife. The woman watches their exchange, beginning to understand. Restrained acting, no exaggerated reactions.
+00:12–00:15 — SOMEONE IS WATCHING
+Hard cut to a dim surveillance room illuminated by cool blue monitors. A headset-wearing operator leans toward a screen showing the elderly man inside the same elevator. Push toward the monitor, then match-cut from his surveillance image to his face in the elevator. The low musical pulse accelerates.
+
+00:15–00:20 — THE EXIT
+An elevator chime interrupts the tension. Doors open onto the green-tiled corridor. The protector guides the woman out with a small, urgent gesture while maintaining an ordinary expression. Track backward ahead of them. Behind their shoulders, the elderly man remains centered inside the amber elevator, staring. The doors begin closing around him.
+00:20–00:25 — THE LOCK
+Follow the pair along the narrow apartment walkway in one smooth tracking shot. They stop at a worn metal apartment door. Tight insert: the protector tries a key; it catches without turning. His composure slips for the first time. The woman looks back down the corridor. Rack focus from her anxious profile to the distant elevator as its doors reopen.
+
+00:25–00:30 — THE CLIFFHANGER
+The elderly pursuer steps into the corridor, now closer than expected. Low, measured footsteps. Intercut once with the protector finally turning the key. The apartment door opens and he ushers the woman inside. From inside the apartment, the camera holds on the narrowing doorway as the pursuer approaches. The door slams just before he reaches it. Cut to black at 00:29. Hold black for the final second with one quiet metallic click.
+VISUAL DIRECTION:
+Compose natively for 16:9, using the horizontal space for foreground obstruction, threatening background figures, and clear character relationships. Natural skin texture, detailed fabric, subtle film grain, rich blacks with visible shadow detail. Warm amber elevator light contrasted with cool green corridors and blue surveillance screens. Use 35mm framing for spatial tension, 85mm close-ups for eyes and hands. Realistic motion blur, restrained handheld movement only during the final escape. Preserve screen direction, wardrobe, faces, prop placement, and architectural continuity.
+
+SOUND DIRECTION:
+Elevator motor hum, faint headphone music that fades when the headphones are lowered, clothing rustle, subtle knife click, fluorescent buzz, elevator chime, measured footsteps, resistant key mechanism, and a heavy final door slam. Minimal low strings and a gradually accelerating bass pulse. No dialogue or voiceover.
+AVOID:
+On-screen captions, subtitles, titles, watermarks, logos, exaggerated combat, gore, artificial skin, distorted hands, changing faces, duplicated characters, impossible camera passes through walls, random slow motion, excessive lens flares, or frantic montage. Build suspense through glances, blocking, sound, and timing.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097942616415568240"></a>
 
