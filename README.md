@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**30** Prompts · Latest addition: **2026-09-10**
+**31** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1241,6 +1241,30 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097891120701480996"></a>
+
+### A natural smartphone-style video prompt depicting a woman in a yukata buying takoyaki and strolling at an autumn festival.
+
+Author：[@akiyoshisan](https://x.com/akiyoshisan) · [Source](https://x.com/akiyoshisan/status/2097891120701480996)
+
+Character · Published
+
+Source：[@akiyoshisan](https://x.com/akiyoshisan) · [Source](https://x.com/akiyoshisan/status/2097185065772138617)
+
+**Summary:** A natural smartphone-style video prompt depicting a woman in a yukata buying takoyaki and strolling at an autumn festival.
+
+<img src="covers/2097891120701480996.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Modern Japan, night on a shrine approach reminiscent of a mid-September autumn festival in Fukuoka. A friend naturally films a lovely Japanese woman in a yukata with a smartphone. Warm lights from festival food stalls, and a slightly bluish early autumn night air.\n\nThe woman spots a food stall and buys takoyaki. After receiving it, she holds the boat-shaped paper dish near her chest, picks up a single takoyaki with a toothpick, blows on it briefly just before bringing it to her mouth because it is hot, and then eats it naturally. The deliciousness is not exaggeratedly acted, just a slight softening of her eyes and mouth. Mindful of the sauce and bonito flakes, she lightly pats her mouth with a tissue.\n\nImmediately after, she starts walking, with locations and compositions shifting briskly every 2 to 3 seconds: the line of stalls, the crowd, the wider approach path, and the slightly quieter side of the shrine. Without lingering too long on her back view, the shot naturally alternates between profile, hands, diagonal rear view, and wide-angle walking. Toward the end, the stall lights recede into the distance, and the night breeze sways her bangs and yukata sleeves. Finally, while walking, the camera sweeps around to the side for a natural close-up of her face. It concludes leaving behind the lingering afterglow of enjoying the festival and the atmosphere of late summer transitioning into early autumn.\n\nNo dialogue, subtitles, BGM, or logos. No exaggerated acting, model-like behavior, or looking into the camera. Do not keep a fixed camera angle for long. Do not bite directly into the boat-shaped dish; takoyaki must be eaten with a toothpick. Maintain consistency in the person's face, yukata, obi sash, hairstyle, uchiwa fan, and boat-shaped dish.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096903888813330826"></a>
 

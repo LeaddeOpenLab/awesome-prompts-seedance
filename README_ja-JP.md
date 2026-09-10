@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**30** 件 · 最新の追加: **2026-09-10**
+**31** 件 · 最新の追加: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1035,6 +1035,30 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2097891120701480996"></a>
+
+### 翻訳中
+
+作者：[@akiyoshisan](https://x.com/akiyoshisan) · [元の投稿](https://x.com/akiyoshisan/status/2097891120701480996)
+
+キャラクター · 配信済み
+
+元の投稿：[@akiyoshisan](https://x.com/akiyoshisan) · [元の投稿](https://x.com/akiyoshisan/status/2097185065772138617)
+
+**概要:** 翻訳中
+
+<img src="covers/2097891120701480996.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2096903888813330826"></a>
 

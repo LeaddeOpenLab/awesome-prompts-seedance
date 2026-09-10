@@ -19,7 +19,7 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**30** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-10**
+**31** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1032,6 +1032,30 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 <a name="category-other"></a>
 
 ## अन्य
+
+<a name="prompt-2097891120701480996"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@akiyoshisan](https://x.com/akiyoshisan) · [मूल पोस्ट](https://x.com/akiyoshisan/status/2097891120701480996)
+
+कैरेक्टर · प्रकाशित
+
+मूल पोस्ट：[@akiyoshisan](https://x.com/akiyoshisan) · [मूल पोस्ट](https://x.com/akiyoshisan/status/2097185065772138617)
+
+**सारांश:** अनुवाद जारी है
+
+<img src="covers/2097891120701480996.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
 
 <a name="prompt-2096903888813330826"></a>
 
