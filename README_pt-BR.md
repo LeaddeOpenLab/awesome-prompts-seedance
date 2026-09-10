@@ -313,20 +313,114 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2097942616415568240"></a>
 
-### Tradução em andamento
+### Prompt de ficção científica com uma mulher em uma cidade futurista sob um oceano suspenso com baleias nadando.
 
 Autor：[@IsabelWhite24](https://x.com/IsabelWhite24) · [Publicação original](https://x.com/IsabelWhite24/status/2097942616415568240)
 
 Cinematográfico / Imagem de Filme · Cyberpunk / Ficção Científica · Personagem · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de ficção científica com uma mulher em uma cidade futurista sob um oceano suspenso com baleias nadando.
 
 <img src="covers/2097942616415568240.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo cinematográfico de ficção científica e fantasia ultrarrealista de 10 segundos no formato vertical 9:16.
+
+PERSONAGEM PRINCIPAL
+
+Uma bela jovem mulher de cerca de 20 anos caminha sozinha por uma cidade futurista à noite. Ela tem cabelos escuros longos e naturalmente esvoaçantes e uma expressão calma e ligeiramente curiosa.
+
+Ela veste um elegante vestido longo que vai até o chão, feito de tecido leve e etéreo. O vestido é sofisticado e cinematográfico, com camadas longas e fluidas que se movem suavemente com o vento enquanto ela caminha. O tecido capta reflexos das luzes da cidade. Sem roupas reveladoras.
+
+Mantenha sua aparência, penteado, rosto, vestido e proporções consistentes ao longo de todo o vídeo.
+
+AMBIENTE
+
+A cidade é enorme, futurista e quase completamente silenciosa. Arranha-céus imponentes de vidro desaparecem nas nuvens, cobertos com luzes de neon sutis e janelas brilhantes. As ruas estão molhadas de uma chuva recente, criando belos reflexos.
+
+Há uma névoa leve no ar, partículas minúsculas flutuando, veículos voadores distantes e uma suave neblina atmosférica.
+
+A atmosfera geral deve parecer misteriosa, bela, surreal, pacífica e ligeiramente inquietante.
+
+0–2 SEGUNDOS
+
+Comece com um plano de rastreamento (tracking shot) médio-aberto cinematográfico por trás da mulher.
+
+Ela caminha lentamente por uma rua futurista tranquila, seu vestido longo arrastando naturalmente atrás dela.
+
+A câmera a segue suavemente na altura do caminhar. Seus passos criam pequenas ondulações na água rasa da chuva sobre o pavimento.
+
+Ela subitamente diminui o ritmo.
+
+As luzes ambientes da cidade refletem por toda a rua molhada.
+
+2–4 SEGUNDOS
+
+A mulher gradualmente olha para cima.
+
+A câmera inclina-se lentamente para cima acompanhando seu olhar.
+
+Revele um oceano enorme flutuando de forma impossível acima da cidade, suspenso no céu noturno entre os arranha-céus.
+
+O oceano parece uma gigantesca massa de água transparente suspensa no céu, com uma iluminação azul semelhante à luz solar filtrando através de suas profundezas.
+
+Dentro do oceano flutuante, baleias imensas nadam lentamente acima dos arranha-céus.
+
+Suas silhuetas enormes passam pela água azul brilhante acima.
+
+Faça as baleias realistas e majestosas, movendo-se de forma natural e lenta.
+
+A mulher permanece completamente imóvel por um momento, olhando para cima em espanto silencioso.
+
+4–6 SEGUNDOS
+
+Corte para um plano cinematográfico mais próximo da mulher olhando para cima.
+
+De repente, minúsculas gotas de água começam a surgir acima do pavimento molhado.
+
+Em vez de cair, as gotas sobem contra a gravidade.
+
+Centenas de pequenas gotas se elevam de poças e das ruas e flutuam em direção ao enorme oceano acima.
+
+As gotas devem se mover de maneira suave e fisicamente natural, deixando rastros sutis de luz refletida da cidade.
+
+A mulher levanta lentamente uma das mãos e observa as gotas de água passarem por seus dedos.
+
+6–8 SEGUNDOS
+
+O fenômeno torna-se muito maior.
+
+A água começa a subir de fontes, poças, telhados e ruas por toda a cidade.
+
+A câmera recua e sobe para um plano geral panorâmico de estabelecimento.
+
+Toda a cidade futurista começa a se elevar lentamente com a água ascendente.
+
+Os prédios se erguem suavemente do chão, permanecendo estruturalmente intactos.
+
+Luzes cintilam suavemente pelos arranha-céus.
+
+Veículos voadores pairam confusos enquanto a cidade lentamente fica sem gravidade.
+
+O vestido e o cabelo da mulher flutuam ligeiramente para cima conforme a gravidade começa a desaparecer.
+
+8–10 SEGUNDOS
+
+Termine com uma tomada aérea panorâmica cinematográfica de tirar o fôlego.
+
+Toda a cidade futurista agora está subindo lentamente em direção ao enorme oceano flutuante.
+
+A mulher está em um telhado ou rua elevada abaixo, parecendo minúscula diante do espetáculo gigantesco.
+
+Baleias deslizam pacificamente pelo oceano acima dela.
+
+Milhares de gotas de água brilhantes sobem ao redor da cidade como estrelas.
+
+A câmera se afasta lentamente ainda mais, revelando a escala impossível da cena.
+
+Termine com uma bela imagem surreal da mulher, da cidade flutuante, do enorme oceano e das baleias nadando acima, todos suspensos entre o céu noturno e a cidade resplandecente.
 ```
 
 [↑ Voltar às categorias](#catalog)

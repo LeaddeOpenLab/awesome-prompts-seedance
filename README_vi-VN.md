@@ -329,20 +329,114 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2097942616415568240"></a>
 
-### Đang dịch
+### Lời nhắc khoa học viễn tưởng mô tả một người phụ nữ trong thành phố tương lai bên dưới một đại dương lơ lửng trên cao cùng những chú cá voi đang bơi lội.
 
 Tác giả：[@IsabelWhite24](https://x.com/IsabelWhite24) · [Bài gốc](https://x.com/IsabelWhite24/status/2097942616415568240)
 
 Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc khoa học viễn tưởng mô tả một người phụ nữ trong thành phố tương lai bên dưới một đại dương lơ lửng trên cao cùng những chú cá voi đang bơi lội.
 
 <img src="covers/2097942616415568240.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video khoa học viễn tưởng giả tưởng đậm chất điện ảnh, siêu thực dài 10 giây ở định dạng dọc 9:16.
+
+NHÂN VẬT CHÍNH
+
+Một phụ nữ trẻ đẹp khoảng 20 tuổi bước đi một mình qua một thành phố tương lai vào ban đêm. Cô có mái tóc đen dài bồng bềnh tự nhiên và nét mặt điềm tĩnh, hơi tò mò.
+
+Cô mặc một chiếc váy dạ hội thướt tha dài chấm đất trang nhã được làm từ chất liệu vải nhẹ nhàng, thanh thoát. Chiếc váy tinh tế và mang tính điện ảnh, với các lớp vải dài thướt tha khẽ lay động theo gió khi cô bước đi. Tấm vải bắt những vệt phản chiếu từ ánh đèn của thành phố. Không có trang phục hở hang.
+
+Giữ nguyên diện mạo, kiểu tóc, khuôn mặt, váy dạ hội và tỷ lệ cơ thể của cô trong suốt toàn bộ video.
+
+MÔI TRƯỜNG
+
+Thành phố rộng lớn vô cùng, mang phong cách tương lai và gần như hoàn toàn tĩnh lặng. Những tòa nhà chọc trời bằng kính cao chót vót chìm vào trong mây, được bao phủ bởi ánh đèn neon dịu nhẹ và những ô cửa sổ phát sáng. Đường phố ướt sũng sau cơn mưa gần đây, tạo nên những hình ảnh phản chiếu tuyệt đẹp.
+
+Có sương mù nhẹ trong không khí, các hạt nhỏ li ti lơ lửng, các phương tiện bay ở phía xa và làn sương mù mờ ảo trong bầu khí quyển.
+
+Bầu không khí tổng thể nên mang lại cảm giác bí ẩn, tuyệt đẹp, siêu thực, thanh bình và có phần kỳ lạ.
+
+0–2 GIÂY
+
+Bắt đầu bằng một cảnh quay theo dõi (tracking shot) từ góc trung-rộng đậm chất điện ảnh từ phía sau người phụ nữ.
+
+Cô bước đi chậm rãi dọc theo con phố tương lai yên tĩnh, tà váy dài buông lơi tự nhiên phía sau.
+
+Máy quay mượt mà đi theo cô ở tầm cao của bước chân. Từng bước đi của cô tạo ra những gợn sóng nhỏ trên vũng nước mưa nông trên vỉa hè.
+
+Cô đột nhiên đi chậm lại.
+
+Ánh đèn xung quanh thành phố phản chiếu trên mặt đường ướt át.
+
+2–4 GIÂY
+
+Người phụ nữ dần ngước nhìn lên trên.
+
+Máy quay từ từ nghiêng lên theo ánh nhìn của cô.
+
+Để lộ một đại dương khổng lồ đang lơ lửng một cách khó tin phía trên thành phố, treo lơ lửng trên bầu trời đêm giữa các tòa nhà chọc trời.
+
+Đại dương hiện ra như một khối nước trong suốt khổng lồ lơ lửng giữa bầu trời, với ánh sáng xanh lam tựa ánh mặt trời lọc qua làn nước sâu.
+
+Bên trong đại dương lơ lửng, những chú cá voi khổng lồ bơi chậm rãi phía trên các tòa nhà chọc trời.
+
+Bóng hình đồ sộ của chúng lướt qua làn nước xanh biếc phát sáng trên đầu.
+
+Hãy làm cho những chú cá voi trông chân thực và uy nghi, chuyển động tự nhiên và chậm rãi.
+
+Người phụ nữ đứng bất động trong giây lát, ngước nhìn lên trong sự kinh ngạc thầm lặng.
+
+4–6 GIÂY
+
+Chuyển sang cảnh quay điện ảnh cận hơn ghi lại khoảnh khắc người phụ nữ ngước nhìn lên trên.
+
+Đột nhiên, những giọt nước li ti bắt đầu xuất hiện phía trên mặt đường ẩm ướt.
+
+Thay vì rơi xuống, các giọt nước lại bay ngược lên trên chống lại trọng lực.
+
+Hàng trăm giọt nước nhỏ li ti nhấc mình khỏi các vũng nước và đường phố rồi trôi dạt về phía đại dương khổng lồ phía trên.
+
+Các giọt nước phải chuyển động mượt mà và tự nhiên về mặt vật lý, để lại những vệt sáng tinh tế phản chiếu từ ánh đèn thành phố.
+
+Người phụ nữ từ từ giơ một tay lên và quan sát những giọt nước trôi qua ngón tay mình.
+
+6–8 GIÂY
+
+Hiện tượng này trở nên quy mô hơn rất nhiều.
+
+Nước bắt đầu dâng lên từ các đài phun nước, vũng nước, mái nhà và đường phố khắp nơi trong thành phố.
+
+Máy quay lùi lại và bay lên cao thành một cảnh quay toàn cảnh thiết lập không gian (establishing shot).
+
+Toàn bộ thành phố tương lai bắt đầu từ từ dâng lên cùng với dòng nước đang bốc lên.
+
+Các tòa nhà nhẹ nhàng nhấc khỏi mặt đất, vẫn giữ nguyên vẹn cấu trúc.
+
+Ánh đèn chớp nhẹ nhàng trên khắp các tòa nhà chọc trời.
+
+Các phương tiện bay lơ lửng trong sự bối rối khi thành phố dần dần trở nên không trọng lượng.
+
+Váy dạ hội và mái tóc của người phụ nữ khẽ bay bổng lên trên khi trọng lực bắt đầu biến mất.
+
+8–10 GIÂY
+
+Kết thúc bằng một cảnh quay điện ảnh từ trên không góc rộng ngoạn mục.
+
+Toàn bộ thành phố tương lai giờ đây đang từ từ bay lên hướng về phía đại dương lơ lửng khổng lồ.
+
+Người phụ nữ đứng trên một sân thượng hoặc đường trên cao phía dưới, trông thật nhỏ bé trước khung cảnh hoành tráng vĩ đại.
+
+Những chú cá voi lướt đi thanh bình qua đại dương phía trên cô.
+
+Hàng ngàn giọt nước phát sáng bay lên quanh thành phố như những vì sao.
+
+Máy quay từ từ lùi ra xa hơn nữa, hé lộ quy mô không tưởng của khung cảnh.
+
+Kết thúc bằng hình ảnh siêu thực tuyệt đẹp về người phụ nữ, thành phố lơ lửng, đại dương bao la và những chú cá voi đang bơi trên đầu, tất cả đều treo lơ lửng giữa bầu trời đêm và thành phố rực rỡ ánh đèn.
 ```
 
 [↑ Về danh mục](#catalog)

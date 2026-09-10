@@ -327,20 +327,114 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2097942616415568240"></a>
 
-### Traduzione in corso
+### Prompt di fantascienza con una donna in una città futuristica sotto un oceano sospeso in cielo con balene che nuotano.
 
 Autore：[@IsabelWhite24](https://x.com/IsabelWhite24) · [Post originale](https://x.com/IsabelWhite24/status/2097942616415568240)
 
 Fermo immagine cinematografico / Still fotografico · Cyberpunk / Sci-Fi · Personaggio · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di fantascienza con una donna in una città futuristica sotto un oceano sospeso in cielo con balene che nuotano.
 
 <img src="covers/2097942616415568240.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video sci-fi fantasy cinematografico ultra-realistico di 10 secondi in formato verticale 9:16.
+
+PERSONAGGIO PRINCIPALE
+
+Una bellissima giovane donna sulla ventina cammina da sola attraverso una città futuristica di notte. Ha lunghi capelli scuri che cadono naturalmente e un'espressione calma e leggermente incuriosita.
+
+Indossa un elegante abito lungo fino a terra, fluido, realizzato in tessuto leggero ed etereo. L'abito è sofisticato e cinematografico, con lunghi strati fluttuanti che si muovono dolcemente con il vento mentre cammina. Il tessuto cattura i riflessi delle luci della città. Nessun abbigliamento rivelatore.
+
+Mantieni il suo aspetto, l'acconciatura, il viso, l'abito e le proporzioni coerenti per l'intero video.
+
+AMBIENTE
+
+La città è enorme, futuristica e quasi del tutto silenziosa. Imponenti grattacieli di vetro scompaiono tra le nuvole, coperti da tenui luci al neon e finestre luminose. Le strade sono bagnate da una recente pioggia, creando splendidi riflessi.
+
+C'è una leggera foschia nell'aria, minuscole particelle fluttuanti, lontani veicoli volanti e una morbida nebbia atmosferica.
+
+L'atmosfera generale deve risultare misteriosa, bellissima, surreale, pacifica e leggermente inquietante.
+
+0–2 SECONDI
+
+Inizia con una carrellata cinematografica a figura intera/piano medio da dietro la donna.
+
+Cammina lentamente lungo una tranquilla strada futuristica, con il suo lungo abito che la segue naturalmente.
+
+La telecamera la segue fluidamente all'altezza della camminata. I suoi passi creano minuscole increspature nell'acqua piovana poco profonda sul marciapiede.
+
+Improvvisamente rallenta.
+
+Le luci ambientali della città si riflettono sulla strada bagnata.
+
+2–4 SECONDI
+
+La donna alza gradualmente lo sguardo.
+
+La telecamera si inclina lentamente verso l'alto seguendo il suo sguardo.
+
+Rivelazione di un enorme oceano che galleggia impossibilmente sopra la città, sospeso nel cielo notturno tra i grattacieli.
+
+L'oceano appare come un gigantesco specchio d'acqua trasparente trattenuto nel cielo, con un'illuminazione blu simile alla luce del sole che filtra attraverso le sue profondità.
+
+All'interno dell'oceano fluttuante, enormi balene nuotano lentamente sopra i grattacieli.
+
+Le loro sagome imponenti passano attraverso l'acqua blu brillante sopra la testa.
+
+Rendi le balene realistiche e maestose, che si muovono con naturalezza e lentezza.
+
+La donna rimane completamente immobile per un istante, guardando verso l'alto con silenzioso stupore.
+
+4–6 SECONDI
+
+Stacco su un'inquadratura cinematografica più ravvicinata della donna che guarda verso l'alto.
+
+All'improvviso, minuscole goccioline d'acqua iniziano ad apparire sopra il pavimento bagnato.
+
+Invece di cadere verso il basso, le goccioline salgono verso l'alto contro la gravità.
+
+Centinaia di goccioline minuscole si sollevano da pozzanghere e strade, fluttuando verso l'enorme oceano sovrastante.
+
+Le goccioline devono muoversi in modo fluido e fisicamente naturale, lasciando sottili scie di luce riflessa della città.
+
+La donna solleva lentamente una mano e osserva le goccioline d'acqua scivolare oltre le sue dita.
+
+6–8 SECONDI
+
+Il fenomeno diventa molto più vasto.
+
+L'acqua inizia a sollevarsi da fontane, pozzanghere, tetti e strade in tutta la città.
+
+La telecamera arretra e sale verso l'alto in un campo lungo d'ambientazione.
+
+L'intera città futuristica inizia a sollevarsi lentamente insieme all'acqua che ascende.
+
+Gli edifici si staccano dolcemente dal suolo, rimanendo strutturalmente intatti.
+
+Le luci scintillano dolcemente lungo i grattacieli.
+
+I veicoli volanti rimangono a mezz'aria confusi mentre la città perde gradualmente peso.
+
+L'abito e i capelli della donna fluttuano leggermente verso l'alto mentre la gravità comincia a svanire.
+
+8–10 SECONDI
+
+Concludi con una spettacolare e ampia ripresa aerea cinematografica.
+
+L'intera città futuristica sta ora salendo lentamente verso l'enorme oceano fluttuante.
+
+La donna si trova su un tetto o su una strada sopraelevata in basso, apparendo minuscola di fronte a questo gigantesco spettacolo.
+
+Le balene planano pacificamente attraverso l'oceano sopra di lei.
+
+Migliaia di goccioline d'acqua luminose si sollevano intorno alla città come stelle.
+
+La telecamera si allontana lentamente ancora di più, rivelando la scala impossibile della scena.
+
+Termina con una splendida immagine surreale della donna, della città fluttuante, dell'enorme oceano e delle balene che nuotano in alto, tutto sospeso tra il cielo notturno e la città luminosa.
 ```
 
 [↑ Torna alle categorie](#catalog)

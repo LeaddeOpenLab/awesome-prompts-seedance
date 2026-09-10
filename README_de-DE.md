@@ -327,20 +327,114 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2097942616415568240"></a>
 
-### Übersetzung läuft
+### Sci-Fi-Prompt mit einer Frau in einer futuristischen Stadt unter einem schwebenden Ozean mit schwimmenden Walen.
 
 Autor：[@IsabelWhite24](https://x.com/IsabelWhite24) · [Originalbeitrag](https://x.com/IsabelWhite24/status/2097942616415568240)
 
 Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Charakter · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Sci-Fi-Prompt mit einer Frau in einer futuristischen Stadt unter einem schwebenden Ozean mit schwimmenden Walen.
 
 <img src="covers/2097942616415568240.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 10-sekündiges, ultrarealistisches, filmisches Sci-Fi-Fantasy-Video im vertikalen 9:16-Format.
+
+HAUPTFIGUR
+
+Eine wunderschöne junge erwachsene Frau in ihren Zwanzigern geht nachts allein durch eine futuristische Stadt. Sie hat langes, natürlich fallendes dunkles Haar und einen ruhigen, leicht neugierigen Gesichtsausdruck.
+
+Sie trägt ein elegantes, bodenlanges, fließendes Kleid aus leichtem, ätherischem Stoff. Das Kleid ist raffiniert und filmreif, mit langen, fließenden Schichten, die sich beim Gehen sanft im Wind bewegen. Der Stoff fängt die Reflexionen der Lichter der Stadt ein. Keine freizügige Kleidung.
+
+Halte ihr Aussehen, ihre Frisur, ihr Gesicht, ihr Kleid und ihre Proportionen während des gesamten Videos konsistent.
+
+UMGEBUNG
+
+Die Stadt ist gigantisch, futuristisch und fast völlig still. Emportragende Glaswolkenkratzer verlieren sich in den Wolken, bedeckt mit dezenten Neonlichtern und leuchtenden Fenstern. Die Straßen sind nass von einem kürzlichen Regen und erzeugen wunderschöne Reflexionen.
+
+Es liegt ein leichter Dunst in der Luft, winzige schwebende Partikel, ferne fliegende Fahrzeuge und weicher atmosphärischer Nebel.
+
+Die allgemeine Atmosphäre sollte geheimnisvoll, wunderschön, surreal, friedlich und leicht unheimlich wirken.
+
+0–2 SEKUNDEN
+
+Beginne mit einer filmischen halbtotale Verfolgungsaufnahme von hinten auf die Frau.
+
+Sie geht langsam eine ruhige futuristische Straße entlang, ihr langes Kleid zieht auf natürliche Weise hinter ihr her.
+
+Die Kamera folgt ihr sanft auf Gehhöhe. Ihre Schritte erzeugen winzige Kräuselungen im seichten Regenwasser auf dem Pflaster.
+
+Plötzlich verlangsamt sie ihren Schritt.
+
+Die Umgebungslichter der Stadt spiegeln sich auf der nassen Straße wider.
+
+2–4 SEKUNDEN
+
+Die Frau blickt allmählich nach oben.
+
+Die Kamera neigt sich mit ihrem Blick langsam nach oben.
+
+Ein riesiger Ozean wird sichtbar, der unmöglich über der Stadt schwebt, aufgehängt am Nachthimmel zwischen den Wolkenkratzern.
+
+Der Ozean wirkt wie eine gigantische, transparente Wassermasse, die am Himmel gehalten wird, durch deren Tiefen sonnenlichtähnliches blaues Licht dringt.
+
+Innerhalb des schwebenden Ozeans schwimmen riesige Wale langsam über den Wolkenkratzern.
+
+Ihre gewaltigen Silhouetten ziehen durch das leuchtend blaue Wasser über ihren Köpfen.
+
+Lass die Wale realistisch und majestätisch wirken, wie sie sich natürlich und langsam bewegen.
+
+Die Frau bleibt für einen Moment völlig regungslos stehen und starrt in lautlosem Staunen nach oben.
+
+4–6 SEKUNDEN
+
+Schnitt zu einer näheren filmischen Aufnahme der Frau, die nach oben schaut.
+
+Plötzlich beginnen über dem nassen Pflaster winzige Wassertröpfchen aufzutauchen.
+
+Anstatt nach unten zu fallen, steigen die Tröpfchen gegen die Schwerkraft nach oben.
+
+Hunderte winzige Tröpfchen heben sich von Pfützen und Straßen ab und schweben empor zu dem riesigen Ozean darüber.
+
+Die Tröpfchen sollten sich flüssig und physikalisch natürlich bewegen und dezente Spuren reflektierten Stadtlichts hinterlassen.
+
+Die Frau hebt langsam eine Hand und sieht zu, wie die Wassertröpfchen an ihren Fingern vorbeiziehen.
+
+6–8 SEKUNDEN
+
+Das Phänomen gewinnt enorm an Ausmaß.
+
+Wasser beginnt aus Brunnen, Pfützen, von Dächern und Straßen in der gesamten Stadt aufzusteigen.
+
+Die Kamera zieht nach hinten und oben zurück in eine weite Einstellungsaufnahme.
+
+Die gesamte futuristische Stadt beginnt sich langsam mit dem aufsteigenden Wasser zu heben.
+
+Gebäude lösen sich sanft vom Boden und bleiben dabei strukturell intakt.
+
+Lichter flackern sanft an den Wolkenkratzern.
+
+Fliegende Fahrzeuge schweben verwirrt, während die Stadt langsam schwerelos wird.
+
+Das Kleid und das Haar der Frau schweben leicht nach oben, als die Schwerkraft zu schwinden beginnt.
+
+8–10 SEKUNDEN
+
+Schließe mit einer atemberaubenden, weiten filmischen Luftaufnahme ab.
+
+Die gesamte futuristische Stadt steigt nun langsam empor in Richtung des gewaltigen schwebenden Ozeans.
+
+Die Frau steht unten auf einem Dach oder einer erhöhten Straße und wirkt winzig vor dem gigantischen Schauspiel.
+
+Wale gleiten friedlich durch den Ozean über ihr.
+
+Tausende leuchtende Wassertropfen steigen wie Sterne um die Stadt empor.
+
+Die Kamera zieht sich langsam weiter zurück und offenbart das unmögliche Ausmaß der Szenerie.
+
+Ende mit einem wunderschönen, surrealen Bild der Frau, der schwebenden Stadt, des gewaltigen Ozeans und der über ihr schwimmenden Wale, alle schwebend zwischen dem Nachthimmel und der leuchtenden Stadt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

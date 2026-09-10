@@ -327,20 +327,114 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2097942616415568240"></a>
 
-### Traduction en cours
+### Prompt de science-fiction mettant en scène une femme dans une ville futuriste sous un océan suspendu dans les airs avec des baleines qui nagent.
 
 Auteur：[@IsabelWhite24](https://x.com/IsabelWhite24) · [Publication originale](https://x.com/IsabelWhite24/status/2097942616415568240)
 
 Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction · Personnage · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de science-fiction mettant en scène une femme dans une ville futuriste sous un océan suspendu dans les airs avec des baleines qui nagent.
 
 <img src="covers/2097942616415568240.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo cinématographique de science-fiction et de fantasy ultra-réaliste de 10 secondes au format vertical 9:16.
+
+PERSONNAGE PRINCIPAL
+
+Une belle jeune femme adulte dans la vingtaine marche seule à travers une ville futuriste la nuit. Elle a de longs cheveux sombres qui ondulent naturellement et une expression calme et légèrement curieuse.
+
+Elle porte une élégante robe fluide descendant jusqu'au sol, faite d'un tissu léger et éthéré. La robe est sophistiquée et cinématographique, avec de longues couches fluides qui bougent doucement avec le vent lorsqu'elle marche. Le tissu capte les reflets des lumières de la ville. Aucun vêtement révélateur.
+
+Conservez son apparence, sa coiffure, son visage, sa robe et ses proportions constants tout au long de la vidéo.
+
+ENVIRONNEMENT
+
+La ville est gigantesque, futuriste et presque totalement silencieuse. D'imposants gratte-ciel de verre disparaissent dans les nuages, couverts de subtiles lumières néon et de fenêtres lumineuses. Les rues sont mouillées par une pluie récente, créant de magnifiques reflets.
+
+Il y a une légère brume dans l'air, de minuscules particules flottantes, des véhicules volants lointains et un doux brouillard atmosphérique.
+
+L'atmosphère générale doit sembler mystérieuse, belle, surréaliste, paisible et légèrement troublante.
+
+0–2 SECONDES
+
+Commencez par un plan de suivi cinématographique en plan moyen-large depuis l'arrière de la femme.
+
+Elle marche lentement dans une rue futuriste et calme, sa longue robe traînant naturellement derrière elle.
+
+La caméra la suit fluidement à hauteur de marche. Ses pas créent de minuscules ondulations dans l'eau de pluie peu profonde sur le trottoir.
+
+Elle ralentit soudainement.
+
+Les lumières ambiantes de la ville se reflètent sur la rue mouillée.
+
+2–4 SECONDES
+
+La femme lève progressivement les yeux.
+
+La caméra s'incline lentement vers le haut en suivant son regard.
+
+Révélez un océan gigantesque flottant de façon impossible au-dessus de la ville, suspendu dans le ciel nocturne entre les gratte-ciel.
+
+L'océan apparaît comme une gigantesque masse d'eau transparente suspendue dans le ciel, avec une illumination bleue semblable à la lumière du soleil filtrant à travers ses profondeurs.
+
+À l'intérieur de l'océan flottant, d'immenses baleines nagent lentement au-dessus des gratte-ciel.
+
+Leurs énormes silhouettes passent à travers l'eau bleue et lumineuse au-dessus de sa tête.
+
+Rendez les baleines réalistes et majestueuses, se déplaçant naturellement et lentement.
+
+La femme reste complètement immobile un instant, fixant le ciel dans un émerveillement silencieux.
+
+4–6 SECONDES
+
+Passez à un plan cinématographique plus rapproché de la femme regardant vers le haut.
+
+Soudain, de minuscules gouttelettes d'eau commencent à apparaître au-dessus du sol humide.
+
+Au lieu de tomber, les gouttelettes s'élèvent vers le haut contre la gravité.
+
+Des centaines de minuscules gouttelettes s'élèvent des flaques d'eau et des rues et flottent vers l'océan colossal au-dessus.
+
+Les gouttelettes doivent se déplacer de manière fluide et physiquement naturelle, laissant de subtiles traînées de lumière urbaine réfléchie.
+
+La femme lève lentement une main et regarde les gouttelettes d'eau passer entre ses doigts.
+
+6–8 SECONDES
+
+Le phénomène prend une ampleur bien plus vaste.
+
+L'eau commence à s'élever des fontaines, des flaques, des toits et des rues dans toute la ville.
+
+La caméra recule et s'élève pour passer à un plan d'ensemble large.
+
+Toute la ville futuriste commence à s'élever lentement avec l'eau ascendante.
+
+Les bâtiments décollent doucement du sol tout en restant structurellement intacts.
+
+Des lumières scintillent doucement le long des gratte-ciel.
+
+Des véhicules volants restent en vol stationnaire, désorientés, tandis que la ville devient peu à peu en apesanteur.
+
+La robe et les cheveux de la femme flottent légèrement vers le haut à mesure que la gravité commence à disparaître.
+
+8–10 SECONDES
+
+Terminez par un plan cinématographique aérien large et à couper le souffle.
+
+Toute la ville futuriste s'élève désormais lentement vers le gigantesque océan flottant.
+
+La femme se tient sur un toit ou une rue surélevée en bas, paraissant minuscule face à ce spectacle titanesque.
+
+Des baleines glissent paisiblement à travers l'océan au-dessus d'elle.
+
+Des milliers de gouttelettes d'eau lumineuses s'élèvent autour de la ville telles des étoiles.
+
+La caméra s'éloigne lentement encore plus, révélant l'échelle impossible de la scène.
+
+Terminez sur une magnifique image surréaliste de la femme, de la ville flottante, de l'océan immense et des baleines nageant au-dessus d'elle, le tout suspendu entre le ciel nocturne et la ville étincelante.
 ```
 
 [↑ Retour aux catégories](#catalog)

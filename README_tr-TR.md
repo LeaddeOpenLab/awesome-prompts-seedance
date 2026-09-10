@@ -313,20 +313,114 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2097942616415568240"></a>
 
-### Çeviri sürüyor
+### Tepesinde yüzen balinaların bulunduğu bir okyanusun yer aldığı fütüristik bir şehirdeki kadını konu alan bilim kurgu istemi.
 
 Yazar：[@IsabelWhite24](https://x.com/IsabelWhite24) · [Orijinal gönderi](https://x.com/IsabelWhite24/status/2097942616415568240)
 
 Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Tepesinde yüzen balinaların bulunduğu bir okyanusun yer aldığı fütüristik bir şehirdeki kadını konu alan bilim kurgu istemi.
 
 <img src="covers/2097942616415568240.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dikey 9:16 formatında 10 saniyelik ultra gerçekçi sinematik bir bilim kurgu fantastik video oluşturun.
+
+ANA KARAKTER
+
+20'li yaşlarında güzel bir genç yetişkin kadın, gece vakti fütüristik bir şehirde tek başına yürüyor. Uzun, doğal olarak dalgalanan koyu renk saçları ve sakin, hafif meraklı bir ifadesi var.
+
+Hafif, ruhani kumaştan yapılmış yere kadar uzanan zarif ve dökümlü bir elbise giyiyor. Elbise sofistike ve sinematik; yürüdükçe rüzgarla hafifçe hareket eden uzun, dökümlü katmanlara sahip. Kumaş, şehrin ışıklarından yansımalar yakalıyor. Açık saçık kıyafet yok.
+
+Video boyunca kadının görünümünü, saç stilini, yüzünü, elbisesini ve oranlarını tutarlı tutun.
+
+ÇEVRE
+
+Şehir muazzam büyüklükte, fütüristik ve neredeyse tamamen sessiz. Göğe uzanan cam gökdelenler, hafif neon ışıklar ve parlayan pencerelerle kaplı bir şekilde bulutların arasında kayboluyor. Sokaklar yakın zamanda yağan yağmurdan dolayı ıslak ve güzel yansımalar oluşturuyor.
+
+Havada hafif bir sis, havada asılı minik parçacıklar, uzakta uçan araçlar ve yumuşak bir atmosferik pus var.
+
+Genel atmosfer gizemli, güzel, gerçeküstü, huzurlu ve hafif tekinsiz hissettirmelidir.
+
+0–2 SANİYE
+
+Kadının arkasından yapılan sinematik bir orta-geniş takip çekimiyle (tracking shot) başlayın.
+
+Uzun elbisesi arkasında doğal bir şekilde süzülürken, sessiz fütüristik bir sokakta yavaşça yürüyor.
+
+Kamera onu yürüme hizasında pürüzsüz bir şekilde takip ediyor. Adımları, kaldırımdaki sığ yağmur suyunda minik dalgalanmalar yaratıyor.
+
+Aniden yavaşlıyor.
+
+Şehrin ortam ışıkları ıslak sokak boyunca yansıyor.
+
+2–4 SANİYE
+
+Kadın yavaş yavaş yukarı bakıyor.
+
+Kamera onun bakışıyla birlikte yavaşça yukarı doğru eğiliyor (tilt up).
+
+Şehrin üzerinde, gökdelenlerin arasında gece gökyüzünde imkansız bir biçimde asılı duran devasa bir okyanusu ortaya çıkarın.
+
+Okyanus, gökyüzünde tutulan devasa, şeffaf bir su kütlesi gibi görünüyor ve derinliklerinden güneş ışığı benzeri mavi bir aydınlatma süzülüyor.
+
+Yüzen okyanusun içinde, devasa balinalar gökdelenlerin üzerinde yavaşça yüzüyor.
+
+Yukarıdaki parıldayan mavi suyun içinden devasa silüetleri geçiyor.
+
+Balinaları gerçekçi ve görkemli yapın, doğal ve yavaş hareket etmelerini sağlayın.
+
+Kadın sessiz bir hayranlık içinde yukarı bakarak bir an tamamen hareketsiz kalıyor.
+
+4–6 SANİYE
+
+Kadının yukarı baktığı daha yakın bir sinematik çekime geçin.
+
+Aniden, ıslak kaldırımın üzerinde minik su damlacıkları belirmeye başlıyor.
+
+Damlacıklar aşağı düşmek yerine yer çekimine karşı yukarı doğru yükseliyor.
+
+Yüzlerce minik damlacık su birikintilerinden ve sokaklardan yukarı kalkarak yukarıdaki devasa okyanusa doğru süzülüyor.
+
+Damlacıklar, şehrin yansıyan ışığının ince izlerini bırakarak pürüzsüz ve fiziksel olarak doğal bir şekilde hareket etmelidir.
+
+Kadın yavaşça bir elini kaldırıyor ve su damlacıklarının parmaklarının arasından geçişini izliyor.
+
+6–8 SANİYE
+
+Olay çok daha büyük bir hale geliyor.
+
+Şehrin dört bir yanındaki çeşmelerden, su birikintilerinden, çatılardan ve sokaklardan su yükselmeye başlıyor.
+
+Kamera geriye ve yukarıya doğru çekilerek geniş bir çevre tanıtım çekimine (establishing shot) geçiyor.
+
+Tüm fütüristik şehir, yükselen suyla birlikte yavaşça yükselmeye başlıyor.
+
+Binalar yapısal olarak bozulmadan nazikçe yerden havalanıyor.
+
+Gökdelenler boyunca ışıklar hafifçe titreşiyor.
+
+Şehir yavaş yavaş ağırlıksız hale gelirken uçan araçlar şaşkınlık içinde havada asılı kalıyor.
+
+Yer çekimi kaybolmaya başladıkça kadının elbisesi ve saçları hafifçe yukarı doğru süzülüyor.
+
+8–10 SANİYE
+
+Nefes kesici geniş bir hava sinematik çekimiyle bitirin.
+
+Tüm fütüristik şehir artık devasa yüzen okyanusa doğru yavaşça yükseliyor.
+
+Kadın, aşağıdaki bir çatıda veya yükseltilmiş bir sokakta duruyor ve bu devasa gösterinin karşısında küçücük görünüyor.
+
+Balinalar onun üzerindeki okyanusta huzurla süzülüyor.
+
+Binlerce parıldayan su damlası yıldızlar gibi şehrin etrafında yükseliyor.
+
+Kamera yavaşça daha da uzaklaşarak sahnenin imkansız büyüklükteki ölçeğini gözler önüne seriyor.
+
+Gece gökyüzü ile ışıldayan şehir arasında asılı kalmış kadının, yüzen şehrin, devasa okyanusun ve tepede yüzen balinaların güzel, gerçeküstü bir görüntüsüyle sonlandırın.
 ```
 
 [↑ Kategorilere dön](#catalog)
