@@ -933,20 +933,26 @@ Traduzione in corso
 
 <a name="prompt-2097917075176178101"></a>
 
-### Traduzione in corso
+### Crea un vlog realistico di 30 secondi sullo stile di vita in un ranch americano, seguendo la routine quotidiana di una donna del ranch dall'alba al tramonto.
 
 Autore：[@aiwithaly](https://x.com/aiwithaly) · [Post originale](https://x.com/aiwithaly/status/2097917075176178101)
 
 Personaggio · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un vlog realistico di 30 secondi sullo stile di vita in un ranch americano, seguendo la routine quotidiana di una donna del ranch dall'alba al tramonto.
 
 <img src="covers/2097917075176178101.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un vlog ultra-fotorealistico di 30 secondi sullo stile di vita in un ranch americano, seguendo la stessa giovane donna del ranch attraverso un'autentica giornata di lavoro, dall'alba al tramonto. Inizia con lei che apre la stalla e dà da mangiare ai cavalli, poi ripara una staccionata di legno prima di sellare un cavallo e cavalcare attraverso i campi aperti del West.
+
+Mostra un vero ranch funzionante con fienili consumati dalle intemperie, paddock per cavalli, fieno, sentieri sterrati, staccionate di legno, pickup, campi verdi e colline in lontananza. Mantieni il personaggio, il cavallo, l'abbigliamento e l'ambiente del ranch perfettamente coerenti.
+
+Cattura il comportamento realistico dei cavalli, la biomeccanica della cavalcata, l'impatto degli zoccoli, la polvere, il movimento dell'erba, i finimenti in cuoio, il foraggio, il legno, i colpi di martello e la luce naturale del sole. Usa una cinematografia in stile vlog documentaristico del 2026 con riprese a mano libera, primi piani, ampie vedute del ranch, autofocus realistico, lievi oscillazioni della fotocamera e una cavalcata fluida durante l'ora d'oro.
+
+Solo audio diegetico naturale: cavalli, uccelli, vento, suoni della stalla, zoccoli, attrezzi, cuoio e insetti. Brevi dialoghi sincronizzati in inglese americano. Niente musica, narrazione, sottotitoli, CGI, movimenti artificiali, fisica impossibile, loghi o filigrane.
 ```
 
 [↑ Torna alle categorie](#catalog)

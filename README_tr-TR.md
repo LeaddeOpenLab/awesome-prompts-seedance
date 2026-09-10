@@ -919,20 +919,26 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 
 <a name="prompt-2097917075176178101"></a>
 
-### Çeviri sürüyor
+### Bir çiftlik kadınının gündoğumundan günbatımına kadarki günlük rutinini takip eden, 30 saniyelik gerçekçi bir Amerikan çiftlik yaşam tarzı vlog'u oluşturun.
 
 Yazar：[@aiwithaly](https://x.com/aiwithaly) · [Orijinal gönderi](https://x.com/aiwithaly/status/2097917075176178101)
 
 Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir çiftlik kadınının gündoğumundan günbatımına kadarki günlük rutinini takip eden, 30 saniyelik gerçekçi bir Amerikan çiftlik yaşam tarzı vlog'u oluşturun.
 
 <img src="covers/2097917075176178101.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gündoğumundan günbatımına kadar otantik bir çalışma günü boyunca aynı genç çiftlik kadınını takip eden, 30 saniyelik ultra fotogerçekçi bir Amerikan çiftlik yaşam tarzı vlog'u oluşturun. Ahırı açıp atları beslemesiyle başlayın, ardından bir atı eyerleyip açık Batı arazilerinde sürmeden önce ahşap bir çiti tamir etmesini gösterin.
+
+Yıpranmış ahırlar, at padokları, saman, toprak yollar, ahşap çitler, kamyonetler, yeşil tarlalar ve uzaktaki tepelerle dolu gerçek bir çalışan çiftlik sergileyin. Karakteri, atı, kıyafetleri ve çiftlik ortamını mükemmel bir şekilde tutarlı tutun.
+
+Gerçekçi at davranışlarını, binicilik biyomekaniğini, toynak darbelerini, tozu, çim hareketini, deri eyer takımlarını, yemi, ahşabı, çekiç vuruşlarını ve doğal güneş ışığını yakalayın. Yakın çekimler, geniş çiftlik manzaraları, gerçekçi otomatik odaklama, ince kamera sarsıntısı ve altın saatte akıcı bir biniş içeren, 2026 yılı el kamerası belgesel-vlog sinematografisi kullanın.
+
+Yalnızca doğal diegetik ses: atlar, kuşlar, rüzgar, ahır sesleri, nal sesleri, aletler, deri ve böcekler. Amerikan İngilizcesinde kısa, senkronize diyaloglar. Müzik, dış ses, altyazı, CGI, yapay hareket, imkansız fizik kuralları, logo veya filigran olmasın.
 ```
 
 [↑ Kategorilere dön](#catalog)

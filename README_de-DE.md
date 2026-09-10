@@ -933,20 +933,26 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 
 <a name="prompt-2097917075176178101"></a>
 
-### Übersetzung läuft
+### Erstelle einen realistischen 30-sekündigen Vlog über den Lebensstil auf einer amerikanischen Ranch, der die tägliche Routine einer Rancherin von Sonnenaufgang bis Sonnenuntergang verfolgt.
 
 Autor：[@aiwithaly](https://x.com/aiwithaly) · [Originalbeitrag](https://x.com/aiwithaly/status/2097917075176178101)
 
 Charakter · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle einen realistischen 30-sekündigen Vlog über den Lebensstil auf einer amerikanischen Ranch, der die tägliche Routine einer Rancherin von Sonnenaufgang bis Sonnenuntergang verfolgt.
 
 <img src="covers/2097917075176178101.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 30-sekündigen, ultrafotorealistischen Vlog über den Lebensstil auf einer amerikanischen Ranch, der dieselbe junge Rancherin durch einen authentischen Arbeitstag von Sonnenaufgang bis Sonnenuntergang begleitet. Beginne damit, wie sie den Stall öffnet und die Pferde füttert, dann einen Holzzaun repariert, bevor sie ein Pferd sattelt und über weite westliche Felder reitet.
+
+Zeige eine echte Arbeitsranch mit verwitterten Scheunen, Pferdekoppeln, Heu, Feldwegen, Holzzäunen, Pickups, grünen Feldern und fernen Hügeln. Halte die Figur, das Pferd, die Kleidung und die Ranch-Umgebung vollkommen einheitlich.
+
+Fange realistisches Pferdeverhalten, die Biomechanik des Reitens, Hufabdrücke und -aufschläge, Staub, Grasbewegung, Lederzeug, Futter, Holz, Hammerschläge und natürliches Sonnenlicht ein. Nutze eine handgeführte Dokumentar-Vlog-Kameraführung im Stil von 2026 mit Nahaufnahmen, weiten Ranch-Ansichten, realistischem Autofokus, dezentem Kamerawackeln und einem sanften Ritt in der goldenen Stunde.
+
+Nur natürlicher diegetischer Ton: Pferde, Vögel, Wind, Stallgeräusche, Hufgetrappel, Werkzeuge, Leder und Insekten. Kurze synchronisierte Dialoge auf amerikanischem Englisch. Keine Musik, keine Erzählung, keine Untertitel, kein CGI, keine künstlichen Bewegungen, keine unmögliche Physik, keine Logos oder Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

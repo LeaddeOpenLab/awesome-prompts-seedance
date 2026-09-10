@@ -933,20 +933,26 @@ Traducción en curso
 
 <a name="prompt-2097917075176178101"></a>
 
-### Traducción en curso
+### Crea un vlog realista de 30 segundos sobre el estilo de vida en un rancho estadounidense, siguiendo la rutina diaria de una ranchera desde el amanecer hasta el atardecer.
 
 Autor：[@aiwithaly](https://x.com/aiwithaly) · [Publicación original](https://x.com/aiwithaly/status/2097917075176178101)
 
 Personaje · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un vlog realista de 30 segundos sobre el estilo de vida en un rancho estadounidense, siguiendo la rutina diaria de una ranchera desde el amanecer hasta el atardecer.
 
 <img src="covers/2097917075176178101.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un vlog ultra fotorrealista de 30 segundos sobre el estilo de vida en un rancho estadounidense, siguiendo a la misma joven ranchera a lo largo de un día de trabajo auténtico, desde el amanecer hasta el atardecer. Comienza con ella abriendo el establo y alimentando a los caballos, luego reparando una cerca de madera antes de ensillar un caballo y cabalgar por campos abiertos del oeste.
+
+Muestra un rancho de trabajo genuino con graneros desgastados por el tiempo, corrales para caballos, heno, caminos de tierra, cercas de madera, camionetas pickup, campos verdes y colinas distantes. Mantén al personaje, el caballo, la ropa y el entorno del rancho perfectamente consistentes.
+
+Captura el comportamiento realista de los caballos, la biomecánica de montar, los impactos de los cascos, el polvo, el movimiento del pasto, los aperos de cuero, el alimento, la madera, los golpes de martillo y la luz solar natural. Utiliza una cinematografía tipo vlog documental de 2026 cámara en mano con primeros planos, vistas amplias del rancho, enfoque automático realista, movimiento sutil de la cámara y un suave paseo durante la hora dorada.
+
+Únicamente audio diegético natural: caballos, pájaros, viento, sonidos del establo, pisadas de cascos, herramientas, cuero e insectos. Breves diálogos sincronizados en inglés estadounidense. Sin música, narración, subtítulos, CGI, movimientos artificiales, física imposible, logotipos ni marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

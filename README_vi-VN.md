@@ -1063,20 +1063,26 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 <a name="prompt-2097917075176178101"></a>
 
-### Đang dịch
+### Tạo một vlog phong cách sống tại trang trại Mỹ chân thực dài 30 giây theo dõi lịch trình sinh hoạt hàng ngày của một phụ nữ làm việc tại trang trại từ lúc bình minh đến khi hoàng hôn.
 
 Tác giả：[@aiwithaly](https://x.com/aiwithaly) · [Bài gốc](https://x.com/aiwithaly/status/2097917075176178101)
 
 Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một vlog phong cách sống tại trang trại Mỹ chân thực dài 30 giây theo dõi lịch trình sinh hoạt hàng ngày của một phụ nữ làm việc tại trang trại từ lúc bình minh đến khi hoàng hôn.
 
 <img src="covers/2097917075176178101.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một vlog phong cách sống tại trang trại Mỹ siêu thực kéo dài 30 giây theo chân một cô gái trẻ làm việc tại trang trại trong một ngày làm việc chân thực, từ lúc bình minh đến khi hoàng hôn. Bắt đầu bằng cảnh cô mở cửa chuồng và cho ngựa ăn, sau đó sửa chữa hàng rào gỗ trước khi thắng yên ngựa và cưỡi ngựa băng qua những cánh đồng miền Tây rộng mở.
+
+Thể hiện một trang trại lao động thực thụ với những chuồng trại phong sương, bãi quây ngựa, cỏ khô, đường đất, hàng rào gỗ, xe bán tải, đồng cỏ xanh và những ngọn đồi xa xăm. Giữ cho nhân vật, con ngựa, trang phục và môi trường trang trại hoàn toàn nhất quán.
+
+Ghi lại hành vi chân thực của ngựa, cơ sinh học cưỡi ngựa, tác động của móng guốc, bụi cát, chuyển động của ngọn cỏ, yên cương bằng da, thức ăn gia súc, gỗ, tiếng búa gõ và ánh sáng mặt trời tự nhiên. Sử dụng kỹ thuật quay phim tài liệu-vlog cầm tay phong cách năm 2026 với các góc cận cảnh, góc nhìn toàn cảnh trang trại, tự động lấy nét chân thực, máy rung lắc nhẹ và cảnh cưỡi ngựa êm ả trong khung giờ vàng.
+
+Chỉ sử dụng âm thanh thực tế trong cảnh (diegetic audio): tiếng ngựa, chim chóc, gió, âm thanh chuồng trại, tiếng vó ngựa, công cụ, đồ da và côn trùng. Đoạn hội thoại ngắn bằng tiếng Anh Mỹ đồng bộ với khẩu hình. Không có âm nhạc, lời thuyết minh, phụ đề, CGI, chuyển động nhân tạo, vật lý phi thực tế, logo hay hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -933,20 +933,26 @@ Traduction en cours
 
 <a name="prompt-2097917075176178101"></a>
 
-### Traduction en cours
+### Créez un vlog réaliste de 30 secondes sur le mode de vie dans un ranch américain, suivant la routine quotidienne d'une femme de ranch du lever au coucher du soleil.
 
 Auteur：[@aiwithaly](https://x.com/aiwithaly) · [Publication originale](https://x.com/aiwithaly/status/2097917075176178101)
 
 Personnage · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créez un vlog réaliste de 30 secondes sur le mode de vie dans un ranch américain, suivant la routine quotidienne d'une femme de ranch du lever au coucher du soleil.
 
 <img src="covers/2097917075176178101.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un vlog ultra-photoréaliste de 30 secondes sur le mode de vie dans un ranch américain, suivant la même jeune femme de ranch tout au long d'une journée de travail authentique, du lever au coucher du soleil. Commencez par la montrer ouvrant l'écurie et nourrissant les chevaux, puis réparant une clôture en bois avant de seller un cheval et de chevaucher à travers de vastes plaines de l'Ouest.
+
+Montrez un véritable ranch en activité avec des granges patinées par le temps, des paddocks pour chevaux, du foin, des chemins de terre, des clôtures en bois, des camionnettes, des champs verdoyants et des collines lointaines. Conservez une cohérence parfaite pour le personnage, le cheval, les vêtements et l'environnement du ranch.
+
+Capturez le comportement réaliste des chevaux, la biomécanique équestre, l'impact des sabots, la poussière, le mouvement de l'herbe, le harnachement en cuir, le fourrage, le bois, les coups de marteau et la lumière naturelle du soleil. Utilisez une cinématographie caméra à l'épaule de style vlog documentaire 2026 avec des gros plans, de larges vues du ranch, un autofocus réaliste, de légers tremblements de caméra et une chevauchée fluide pendant l'heure dorée.
+
+Son diégétique naturel uniquement : chevaux, oiseaux, vent, bruits d'écurie, bruits de sabots, outils, cuir et insectes. Courts dialogues synchronisés en anglais américain. Pas de musique, de narration, de sous-titres, d'effets spéciaux CGI, de mouvements artificiels, de physique impossible, de logos ou de filigranes.
 ```
 
 [↑ Retour aux catégories](#catalog)

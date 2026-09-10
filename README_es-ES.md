@@ -1049,20 +1049,26 @@ Traducción en curso
 
 <a name="prompt-2097917075176178101"></a>
 
-### Traducción en curso
+### Crea un vlog realista de 30 segundos sobre el estilo de vida en un rancho estadounidense siguiendo la rutina diaria de una ranchera de sol a sol.
 
 Autor：[@aiwithaly](https://x.com/aiwithaly) · [Publicación original](https://x.com/aiwithaly/status/2097917075176178101)
 
 Personaje · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un vlog realista de 30 segundos sobre el estilo de vida en un rancho estadounidense siguiendo la rutina diaria de una ranchera de sol a sol.
 
 <img src="covers/2097917075176178101.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un vlog de 30 segundos sobre el estilo de vida en un rancho estadounidense, ultrafotorrealista, que siga a la misma joven ranchera a lo largo de una auténtica jornada laboral, de sol a sol. Comienza con ella abriendo el establo y alimentando a los caballos, luego reparando una valla de madera antes de ensillar un caballo y cabalgar por abiertos campos del Oeste.
+
+Muestra un auténtico rancho en funcionamiento con establos desgastados por el tiempo, prados para caballos, heno, caminos de tierra, cercas de madera, camionetas pickup, campos verdes y colinas a lo lejos. Mantén al personaje, al caballo, la vestimenta y el entorno del rancho perfectamente consistentes.
+
+Captura el comportamiento realista de los caballos, la biomecánica de la equitación, los impactos de los cascos, el polvo, el movimiento de la hierba, los aparejos de cuero, el forraje, la madera, los golpes de martillo y la luz solar natural. Emplea una cinematografía estilo vlog documental en mano de 2026, con primeros planos, vistas panorámicas del rancho, enfoque automático realista, ligeros temblores de cámara y un suave paseo a caballo durante la hora dorada.
+
+Únicamente audio diegético natural: caballos, pájaros, viento, sonidos de establo, cascos de caballo, herramientas, cuero e insectos. Diálogo breve sincronizado en inglés estadounidense. Sin música, narración, subtítulos, CGI, movimientos artificiales, física imposible, logotipos ni marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

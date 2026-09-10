@@ -919,20 +919,26 @@ Tradução em andamento
 
 <a name="prompt-2097917075176178101"></a>
 
-### Tradução em andamento
+### Crie um vlog realista de 30 segundos sobre o estilo de vida em um rancho americano, acompanhando a rotina diária de uma rancheira do nascer ao pôr do sol.
 
 Autor：[@aiwithaly](https://x.com/aiwithaly) · [Publicação original](https://x.com/aiwithaly/status/2097917075176178101)
 
 Personagem · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie um vlog realista de 30 segundos sobre o estilo de vida em um rancho americano, acompanhando a rotina diária de uma rancheira do nascer ao pôr do sol.
 
 <img src="covers/2097917075176178101.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vlog ultrafotorrealista de 30 segundos sobre o estilo de vida em um rancho americano, acompanhando a mesma jovem fazendeira ao longo de um autêntico dia de trabalho, do nascer ao pôr do sol. Comece com ela abrindo o estábulo e alimentando os cavalos, depois consertando uma cerca de madeira antes de selar um cavalo e cavalgar por campos abertos do Oeste.
+
+Mostre um rancho funcional genuíno, com celeiros desgastados pelo tempo, piquetes para cavalos, feno, caminhos de terra, cercas de madeira, caminhonetes, campos verdes e colinas ao longe. Mantenha a personagem, o cavalo, as roupas e o ambiente do rancho perfeitamente consistentes.
+
+Capture o comportamento realista dos cavalos, a biomecânica da cavalgada, o impacto dos cascos, a poeira, o movimento da grama, os arreios de couro, a ração, a madeira, as batidas de martelo e a luz solar natural. Utilize uma cinematografia de vlog documental de 2026 com câmera na mão, incluindo close-ups, planos gerais do rancho, foco automático realista, tremores sutis de câmera e uma cavalgada suave durante a hora de ouro.
+
+Apenas áudio diegético natural: cavalos, pássaros, vento, sons do celeiro, passos de cascos, ferramentas, couro e insetos. Diálogos curtos e sincronizados em inglês americano. Sem música, narração, legendas, CGI, movimento artificial, física impossível, logotipos ou marcas d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)
