@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T04:20:30.249Z",
+  "model": "seedance2.5",
+  "prompt": "Create a 30-second ultra-photorealistic cinematic American county-fair vlog following a young American woman through a warm summer evening. Start with her entering a small rural fair as golden light fades, then riding the Ferris wheel, sharing a fresh funnel cake, trying a ring-toss game, wandering through families and local vendors, listening to a live country band, and watching fireworks light up the night.\n\nMake the fair feel genuinely local and lived-in, with dusty paths, pickup trucks, food stalls, wooden booths, string lights, children, families, farmland and glowing carnival rides. Maintain identical character appearance and clothing throughout.\n\nUse realistic handheld 2026 vlog cinematography, natural expressions, subtle camera movement, authentic evening lighting, realistic crowd behavior and physically accurate motion. Capture detailed food, snow-like powdered sugar, ride mechanics, thrown rings, fireworks, drifting smoke, wind and reflections.\n\nUse only natural fairground audio and live music with short, synchronized American English dialogue. No narration, subtitles, CGI, animation, fake crowds, impossible physics, floating camera, logos or watermark.",
+  "promptTranslations": {
+    "en": "Create a 30-second ultra-photorealistic cinematic American county-fair vlog following a young American woman through a warm summer evening. Start with her entering a small rural fair as golden light fades, then riding the Ferris wheel, sharing a fresh funnel cake, trying a ring-toss game, wandering through families and local vendors, listening to a live country band, and watching fireworks light up the night.\\n\\nMake the fair feel genuinely local and lived-in, with dusty paths, pickup trucks, food stalls, wooden booths, string lights, children, families, farmland and glowing carnival rides. Maintain identical character appearance and clothing throughout.\\n\\nUse realistic handheld 2026 vlog cinematography, natural expressions, subtle camera movement, authentic evening lighting, realistic crowd behavior and physically accurate motion. Capture detailed food, snow-like powdered sugar, ride mechanics, thrown rings, fireworks, drifting smoke, wind and reflections.\\n\\nUse only natural fairground audio and live music with short, synchronized American English dialogue. No narration, subtitles, CGI, animation, fake crowds, impossible physics, floating camera, logos or watermark."
+  },
+  "summaryTranslations": {
+    "en": "Prompt for a 30-second realistic vlog video of a woman at a rural county fair on a summer evening."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt for a 30-second realistic vlog video of a woman at a rural county fair on a summer evening.",
+  "summaryEn": "Prompt for a 30-second realistic vlog video of a woman at a rural county fair on a summer evening.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097901351049294063",
+    "canonicalUrl": "https://x.com/nawalsehar/status/2097901351049294063",
+    "author": {
+      "username": "nawalsehar",
+      "displayName": "Nawal",
+      "profileUrl": "https://x.com/nawalsehar"
+    },
+    "publishedAt": "2026-09-10T04:13:53.000Z",
+    "collectedAt": "2026-09-10T04:17:05.195Z",
+    "language": "en",
+    "originalText": "One summer night, one little county fair, a thousand memories. \n\nCreated on seedance 2.5\n\nPrompt:\nCreate a 30-second ultra-photorealistic cinematic American county-fair vlog following a young American woman through a warm summer evening. Start with her entering a small rural fair as golden light fades, then riding the Ferris wheel, sharing a fresh funnel cake, trying a ring-toss game, wandering through families and local vendors, listening to a live country band, and watching fireworks light up the night.\n\nMake the fair feel genuinely local and lived-in, with dusty paths, pickup trucks, food stalls, wooden booths, string lights, children, families, farmland and glowing carnival rides. Maintain identical character appearance and clothing throughout.\n\nUse realistic handheld 2026 vlog cinematography, natural expressions, subtle camera movement, authentic evening lighting, realistic crowd behavior and physically accurate motion. Capture detailed food, snow-like powdered sugar, ride mechanics, thrown rings, fireworks, drifting smoke, wind and reflections.\n\nUse only natural fairground audio and live music with short, synchronized American English dialogue. No narration, subtitles, CGI, animation, fake crowds, impossible physics, floating camera, logos or watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/nawalsehar/status/2097901351049294063",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097900959905292288/img/cubbTuwBspFvYFSn.jpg",
+        "analysisUrl": "https://x.com/nawalsehar/status/2097901351049294063"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 21
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/nawalsehar/status/2097901351049294063",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097900959905292288/img/cubbTuwBspFvYFSn.jpg",
+  "coverPath": "covers/2097901351049294063.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097900959905292288",
+    "x-post:2097901351049294063"
+  ],
+  "analysis": {
+    "summary": "Prompt for a 30-second realistic vlog video of a woman at a rural county fair on a summer evening.",
+    "summaryEn": "Prompt for a 30-second realistic vlog video of a woman at a rural county fair on a summer evening.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video exactly shows the woman walking into the fair, riding the Ferris wheel, eating funnel cake, playing the ring toss, watching the country band, and viewing fireworks at night."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 30-second ultra-photorealistic cinematic American county-fair vlog following a young American woman through a warm summer evening. Start with her entering a small rural fair as golden light fades, then riding the Ferris wheel, sharing a fresh funnel cake, trying a ring-toss game, wandering through families and local vendors, listening to a live country band, and watching fireworks light up the night.\n\nMake the fair feel genuinely local and lived-in, with dusty paths, pickup trucks, food stalls, wooden booths, string lights, children, families, farmland and glowing carnival rides. Maintain identical character appearance and clothing throughout.\n\nUse realistic handheld 2026 vlog cinematography, natural expressions, subtle camera movement, authentic evening lighting, realistic crowd behavior and physically accurate motion. Capture detailed food, snow-like powdered sugar, ride mechanics, thrown rings, fireworks, drifting smoke, wind and reflections.\n\nUse only natural fairground audio and live music with short, synchronized American English dialogue. No narration, subtitles, CGI, animation, fake crowds, impossible physics, floating camera, logos or watermark.",
+    "sourceRange": {
+      "start": 98,
+      "end": 1279
+    },
+    "translations": {
+      "zh": "创作一段30秒的超逼真电影感美国乡村集市Vlog，跟随一位年轻美国女性度过温暖夏夜。从黄昏入场、乘坐摩天轮、品尝漏斗蛋糕、玩套圈游戏，到穿梭在人群与摊位间、听现场乡村乐队演奏，以及观看烟花点亮夜空。营造纯正的当地生活气息，包含尘土小径、皮卡车、小吃摊、木质货摊、串灯和发光的游乐设施。全程保持一致的人物外观与服饰。采用逼真的手持Vlog摄影、自然表情、细微运镜及真实晚间光影。只使用真实集市环境音、现场音乐及简短同步的英语对话。",
+      "en": "Create a 30-second ultra-photorealistic cinematic American county-fair vlog following a young American woman through a warm summer evening. Start with her entering a small rural fair as golden light fades, then riding the Ferris wheel, sharing a fresh funnel cake, trying a ring-toss game, wandering through families and local vendors, listening to a live country band, and watching fireworks light up the night.\n\nMake the fair feel genuinely local and lived-in, with dusty paths, pickup trucks, food stalls, wooden booths, string lights, children, families, farmland and glowing carnival rides. Maintain identical character appearance and clothing throughout.\n\nUse realistic handheld 2026 vlog cinematography, natural expressions, subtle camera movement, authentic evening lighting, realistic crowd behavior and physically accurate motion. Capture detailed food, snow-like powdered sugar, ride mechanics, thrown rings, fireworks, drifting smoke, wind and reflections.\n\nUse only natural fairground audio and live music with short, synchronized American English dialogue. No narration, subtitles, CGI, animation, fake crowds, impossible physics, floating camera, logos or watermark."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "vlog cinematic video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
