@@ -313,20 +313,51 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2097961776969109709"></a>
 
-### Tradução em andamento
+### Crie um curta de suspense cinematográfico e realista de 30 segundos sobre um confronto tácito e perseguição entre três pessoas em um elevador e corredor de um prédio antigo.
 
 Autor：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publicação original](https://x.com/bmx_ai13/status/2097961776969109709)
 
 Fotografia · Cinematográfico / Imagem de Filme · Arquitetura / Interiores · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie um curta de suspense cinematográfico e realista de 30 segundos sobre um confronto tácito e perseguição entre três pessoas em um elevador e corredor de um prédio antigo.
 
 <img src="covers/2097961776969109709.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um suspense cinematográfico fotorrealista de 30 segundos em widescreen 16:9. Cinematografia teatral de alto nível, atuações sóbrias, movimentos de câmera cuidadosamente motivados, ação física verossímil e tensão rigorosamente controlada.
+
+CENÁRIO E PERSONAGENS:
+Um antigo prédio residencial de Hong Kong: elevador apertado com painéis de madeira cor de mel, ferragens de latão arranhadas e iluminação quente superior; do lado de fora, corredores estreitos com azulejos em verde e ocre, portões de segurança de metal, tubulações expostas e lâmpadas fluorescentes frias.
+Mantenha três personagens consistentes do início ao fim:
+— Uma jovem mulher do Leste Asiático com cabelo chanel preto liso, sobrecamisa xadrez vermelha e cinza, fones de ouvido circum-auriculares brancos e uma bolsa transversal preta.
+— Um protetor de meia-idade do Leste Asiático com cabelo escuro curto, óculos retangulares, colete tático cinza-chumbo e camisa polo escura. Seus modos aparentemente comuns disfarçam uma vigilância constante.
+— Um perseguidor idoso do Leste Asiático com rosto marcado pelo tempo, boina marrom, óculos redondos, cardigã escuro e lenço estampado no pescoço. Praticamente imóvel, discretamente ameaçador.
+
+00:00–00:04 — A AMEAÇA OCULTA
+Comece imediatamente em um primeiríssimo plano da mão do idoso ocultando um canivete fechado ao lado do cardigã. Um clique metálico contido. Corte para um plano geral do interior do elevador: a mulher está em primeiro plano à esquerda usando fones de ouvido; o idoso espera atrás dela, à direita. Luz âmbar, quietude opressiva. Avance lentamente enquanto as portas do elevador começam a se fechar.
+00:04–00:08 — A INTERRUPÇÃO
+Uma mão segura as portas que se fecham. Elas se reabrem, revelando o protetor de óculos contra o corredor verde e frio. Ele entra calmamente e se posiciona entre a mulher e o idoso. Em um plano conjunto fechado (two-shot), ele gesticula para que ela abaixe os fones de ouvido. Ela o faz, inicialmente irritada, mas logo nota a expressão séria dele. Os olhos dele acompanham brevemente a mão oculta.
+00:08–00:12 — O CONFRONTO SILENCIOSO
+Um movimento lateral controlado da câmera revela os três rostos em profundidade em camadas. O protetor casualmente oferece uma maçã vermelha, usando o gesto para se virar em direção ao perseguidor. Corte para os olhos do idoso sob a boina; em seguida, para os dedos dele apertando o canivete oculto. A mulher observa a interação, começando a entender. Atuação contida, sem reações exageradas.
+00:12–00:15 — ALGUÉM ESTÁ OBSERVANDO
+Corte seco para uma sala de vigilância escura iluminada por monitores azuis e frios. Um operador de headset se inclina em direção a uma tela que mostra o idoso dentro do mesmo elevador. Avance em direção ao monitor e, em seguida, faça um corte por correspondência (match-cut) da imagem de vigilância para o rosto dele no elevador. O pulso musical grave acelera.
+
+00:15–00:20 — A SAÍDA
+O aviso sonoro do elevador interrompe a tensão. As portas se abrem para o corredor de azulejos verdes. O protetor conduz a mulher para fora com um gesto sutil e urgente, mantendo uma expressão comum. Faça um travelling para trás à frente deles. Atrás de seus ombros, o idoso permanece centralizado dentro do elevador âmbar, encarando. As portas começam a se fechar ao redor dele.
+00:20–00:25 — A TRANCA
+Siga a dupla pela estreita passarela do condomínio em um único travelling suave. Eles param diante de uma porta de metal gasta de um apartamento. Plano de detalhe fechado: o protetor tenta usar uma chave; ela emperra sem girar. Sua compostura vacila pela primeira vez. A mulher olha para trás ao longo do corredor. Mudança de foco de seu perfil ansioso para o elevador distante enquanto as portas dele se reabrem.
+
+00:25–00:30 — O DESFECHO SUSPENSO (CLIFFHANGER)
+O idoso perseguidor sai para o corredor, agora mais próximo do que o esperado. Passos lentos e ritmados. Intercale uma vez com o protetor finalmente girando a chave. A porta do apartamento se abre e ele conduz a mulher para dentro. De dentro do apartamento, a câmera mantém o foco no vão estreito da porta conforme o perseguidor se aproxima. A porta se fecha bruscamente com força um instante antes de ele alcançá-la. Corte para o preto aos 00:29. Mantenha a tela preta pelo segundo final com um único e discreto clique metálico.
+DIREÇÃO VISUAL:
+Componha nativamente em 16:9, usando o espaço horizontal para obstruções em primeiro plano, figuras ameaçadoras em segundo plano e relações visuais claras entre os personagens. Textura natural de pele, tecidos detalhados, granulação sutil de película cinematográfica, pretos ricos com detalhes visíveis nas sombras. A luz âmbar e quente do elevador contrastada com os corredores verdes frios e as telas azuis de vigilância. Use enquadramento de 35mm para tensão espacial, closes de 85mm para olhos e mãos. Desfoque de movimento realista, movimento de câmera na mão contido apenas durante a fuga final. Mantenha a direção de tela, figurino, rostos, posicionamento de objetos de cena e continuidade arquitetônica.
+
+DIREÇÃO DE SOM:
+Zumbido do motor do elevador, música tênue de fone de ouvido que esmaece quando os fones são baixados, farfalhar de roupas, sutil clique da faca, zumbido de luz fluorescente, sinal sonoro do elevador, passos cadenciados, mecanismo de chave resistente e uma pesada batida final de porta. Cordas graves mínimas e um pulso de baixo que acelera gradualmente. Sem diálogos ou narração.
+EVITE:
+Legendas na tela, títulos, marcas d'água, logotipos, combates exagerados, violência explícita, pele artificial, mãos distorcidas, rostos mutáveis, personagens duplicados, movimentos impossíveis de câmera atravessando paredes, câmera lenta aleatória, reflexos de lente (lens flares) excessivos ou montagem frenética. Construa o suspense através de olhares, posicionamento cênico, som e ritmo temporal.
 ```
 
 [↑ Voltar às categorias](#catalog)

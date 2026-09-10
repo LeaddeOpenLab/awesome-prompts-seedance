@@ -327,20 +327,51 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2097961776969109709"></a>
 
-### Traduction en cours
+### Créer un court-métrage à suspense cinématographique et réaliste de 30 secondes montrant une confrontation secrète et une poursuite entre trois personnes dans l'ascenseur et le couloir d'un vieil immeuble.
 
 Auteur：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publication originale](https://x.com/bmx_ai13/status/2097961776969109709)
 
 Photographie · Image cinématographique / Photogramme de film · Architecture / Intérieur · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créer un court-métrage à suspense cinématographique et réaliste de 30 secondes montrant une confrontation secrète et une poursuite entre trois personnes dans l'ascenseur et le couloir d'un vieil immeuble.
 
 <img src="covers/2097961776969109709.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un thriller à suspense cinématographique et photoréaliste de 30 secondes au format écran large 16:9. Cinématographie théâtrale haut de gamme, interprétations crédibles, mouvements de caméra soigneusement motivés, action physique réaliste et tension rigoureusement maîtrisée.
+
+DÉCOR ET PERSONNAGES :
+Un vieil immeuble d'habitation de Hong Kong : un ascenseur exigu aux panneaux de bois couleur miel, ferrures en laiton rayées et éclairage zénithal chaleureux ; à l'extérieur, d'étroits couloirs carrelés de vert et d'ocre, grilles de sécurité métalliques, tuyaux apparents et néons froids.
+Conservez trois personnages constants tout du long :
+— Une jeune femme est-asiatique avec un carré court noir et lisse, une surchemise à carreaux rouge et gris, un casque audio circum-aural blanc et un sac en bandoulière noir.
+— Un protecteur d'âge mûr est-asiatique aux cheveux courts et sombres, lunettes rectangulaires, gilet utilitaire anthracite et polo sombre. Son allure apparemment ordinaire dissimule une vigilance constante.
+— Un poursuivant âgé est-asiatique au visage buriné, casquette plate marron, lunettes rondes, gilet sombre et foulard à motifs autour du cou. Presque immobile, discrètement menaçant.
+
+00:00–00:04 — LA MENACE CACHÉE
+Commencez immédiatement sur un très gros plan de la main du vieil homme dissimulant un couteau pliant fermé le long de son gilet. Un clic métallique feutré. Coupez sur un plan large de l'intérieur de l'ascenseur : la femme se tient au premier plan à gauche, son casque sur les oreilles ; le vieil homme attend derrière elle, à droite. Lumière ambrée, immobilité oppressante. Travelling avant lent alors que les portes de l'ascenseur commencent à se refermer.
+00:04–00:08 — L'INTERRUPTION
+Une main bloque les portes qui se ferment. Elles se rouvrent, révélant le protecteur à lunettes sur le fond froid du couloir vert. Il entre calmement et se positionne entre la femme et le vieil homme. Dans un plan rapproché à deux, il lui fait signe de baisser son casque. Elle s'exécute, d'abord agacée, puis remarque son expression grave. Ses yeux à lui surveillent brièvement la main dissimulée.
+00:08–00:12 — LA CONFRONTATION SILENCIEUSE
+Un mouvement de caméra latéral maîtrisé révèle les trois visages selon une profondeur étagée. Le protecteur tend négligemment une pomme rouge, utilisant ce geste pour se tourner vers le poursuivant. Coupez sur les yeux du vieil homme sous sa casquette ; puis sur ses doigts qui se resserrent autour du couteau caché. La femme observe leur échange et commence à comprendre. Jeu sobre, aucune réaction exagérée.
+00:12–00:15 — QUELQU'UN OBSERVE
+Coupe franche sur une salle de surveillance sombre éclairée par des moniteurs au bleu glacial. Un opérateur portant un micro-casque se penche vers un écran montrant le vieil homme à l'intérieur du même ascenseur. Zoom avant vers le moniteur, puis raccord dans l'axe/match-cut de son image de surveillance à son visage dans l'ascenseur. La pulsation musicale sourde s'accélère.
+
+00:15–00:20 — LA SORTIE
+Le carillon de l'ascenseur interrompt la tension. Les portes s'ouvrent sur le couloir carrelé de vert. Le protecteur guide la femme vers la sortie d'un geste mesuré et urgent tout en conservant une expression banale. Travelling arrière devant eux. Derrière leurs épaules, le vieil homme reste au centre de l'ascenseur ambré, le regard fixe. Les portes commencent à se refermer sur lui.
+00:20–00:25 — LA SERRURE
+Suivez le duo le long de l'étroit palier de l'immeuble en un seul plan-séquence fluide. Ils s'arrêtent devant une porte métallique d'appartement usée. Insert serré : le protecteur insère une clé ; elle accroche sans tourner. Son sang-froid vacille pour la première fois. La femme jette un regard en arrière dans le couloir. Bascule de point de son profil inquiet vers l'ascenseur lointain dont les portes se rouvrent.
+
+00:25–00:30 — LE SUSPENSE FINAL
+Le vieux poursuivant s'avance dans le couloir, désormais plus proche que prévu. Bruits de pas lents et réguliers. Un insert rapide sur le protecteur tournant enfin la clé. La porte de l'appartement s'ouvre et il pousse la femme à l'intérieur. Depuis l'intérieur du logement, la caméra reste fixée sur l'encadrement de porte qui rétrécit à mesure que le poursuivant approche. La porte claque violemment juste avant qu'il ne l'atteigne. Coupez au noir à 00:29. Maintenez le noir pendant la dernière seconde avec un unique clic métallique discret.
+DIRECTION VISUELLE :
+Composez nativement pour le format 16:9, en exploitant l'espace horizontal pour les amorces au premier plan, les silhouettes menaçantes à l'arrière-plan et des relations spatiales claires entre les personnages. Texture de peau naturelle, tissus détaillés, grain argentique subtil, noirs profonds avec détails visibles dans les ombres. Lumière ambrée et chaude de l'ascenseur contrastant avec le vert froid des couloirs et le bleu des écrans de surveillance. Utilisez un cadrage 35 mm pour la tension spatiale, des plans rapprochés 85 mm pour les yeux et les mains. Flou de mouvement réaliste, caméra à l'épaule sobre uniquement pendant la fuite finale. Conservez la continuité des axes, de la garde-robe, des visages, du placement des accessoires et de l'architecture.
+
+DIRECTION SONORE :
+Bourdonnement du moteur d'ascenseur, musique étouffée du casque qui s'estompe quand il est retiré, froissement de vêtements, subtil clic de couteau, grésillement de néon, carillon d'ascenseur, pas mesurés, mécanisme de serrure qui coince et claquement de porte lourd final. Cordes graves minimalistes et pulsation de basse qui s'accélère progressivement. Aucun dialogue ni voix off.
+À ÉVITER :
+Légendes à l'écran, sous-titres, titres, filigranes, logos, combats outranciers, gore, peau artificielle, mains déformées, visages changeants, personnages dupliqués, passages de caméra impossibles à travers les murs, ralentis aléatoires, reflets d'objectif excessifs ou montage frénétique. Bâtir le suspense par les regards, le placement des corps, le son et le tempo.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -327,20 +327,51 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2097961776969109709"></a>
 
-### Traduzione in corso
+### Crea un cortometraggio thriller di suspense realistico e cinematografico di 30 secondi su un confronto segreto e un inseguimento a tre nell'ascensore e nel corridoio di un vecchio condominio.
 
 Autore：[@bmx\_ai13](https://x.com/bmx_ai13) · [Post originale](https://x.com/bmx_ai13/status/2097961776969109709)
 
 Fotografia · Fermo immagine cinematografico / Still fotografico · Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un cortometraggio thriller di suspense realistico e cinematografico di 30 secondi su un confronto segreto e un inseguimento a tre nell'ascensore e nel corridoio di un vecchio condominio.
 
 <img src="covers/2097961776969109709.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un thriller di suspense cinematografico e fotorealistico di 30 secondi in formato widescreen 16:9. Cinematografia teatrale di alto livello, recitazione credibile, movimenti di macchina accuratamente motivati, azione fisica realistica e tensione rigorosamente controllata.
+
+AMBIENTAZIONE E PERSONAGGI:
+Un vecchio condominio di Hong Kong: un ascensore angusto con pannelli in legno color miele, rifiniture in ottone graffiate e calda illuminazione dall'alto; all'esterno, corridoi stretti con piastrelle verde e ocra, cancelli di sicurezza in metallo, tubature a vista e fredde luci fluorescenti.
+Mantenere tre personaggi coerenti per tutta la durata:
+— Una giovane donna dell'Asia orientale con caschetto nero liscio, sovracamicia a quadri rossi e grigi, cuffie over-ear bianche e una borsa a tracolla nera.
+— Un protettore di mezza età dell'Asia orientale con capelli scuri corti, occhiali rettangolari, gilet multitasche antracite e polo scura. Il suo atteggiamento apparentemente ordinario cela una costante vigilanza.
+— Un anziano inseguitore dell'Asia orientale dal volto segnato, berretto piatto marrone, occhiali rotondi, cardigan scuro e sciarpa fantasia al collo. Quasi immobile, silenziosamente minaccioso.
+
+00:00–00:04 — LA MINACCIA NASCOSTA
+Inizia subito con un primissimo piano della mano dell'anziano che nasconde un coltello a serramanico chiuso accanto al suo cardigan. Un sobrio scatto metallico. Stacco su un'inquadratura totale dell'interno dell'ascensore: la donna si trova in primo piano a sinistra con le cuffie; l'anziano aspetta dietro di lei, a destra. Luce ambrata, immobilità opprimente. Lenta carrellata in avanti mentre le porte dell'ascensore iniziano a chiudersi.
+00:04–00:08 — L'INTERRUZIONE
+Una mano blocca le porte in chiusura. Si riaprono, rivelando il protettore con gli occhiali sullo sfondo del freddo corridoio verde. Entra con calma e si posiziona tra la donna e l'anziano. In un'inquadratura a due ravvicinata, le fa un gesto per farle abbassare le cuffie. Lei lo fa, inizialmente infastidita, poi nota la sua espressione seria. Gli occhi dell'uomo controllano brevemente la mano nascosta.
+00:08–00:12 — IL CONFRONTO SILENZIOSO
+Un movimento di camera laterale controllato rivela tutti e tre i volti a diverse profondità. Il protettore offre con disinvoltura una mela rossa, usando il gesto per voltarsi verso l'inseguitore. Stacco sugli occhi dell'anziano sotto il berretto; poi sulle sue dita che stringono il coltello nascosto. La donna osserva il loro scambio, iniziando a comprendere. Recitazione contenuta, nessuna reazione esagerata.
+00:12–00:15 — QUALCUNO STA GUARDANDO
+Stacco netto su una stanza di videosorveglianza fioca, illuminata da monitor blu freddo. Un operatore con le cuffie si sporge verso uno schermo che mostra l'anziano nello stesso ascensore. Carrellata verso il monitor, poi raccordo sull'asse/match cut dalla sua immagine di sorveglianza al suo volto nell'ascensore. Il cupo battito musicale accelera.
+
+00:15–00:20 — L'USCITA
+Il segnale sonoro dell'ascensore interrompe la tensione. Le porte si aprono sul corridoio piastrellato di verde. Il protettore fa strada alla donna con un gesto piccolo e urgente, mantenendo un'espressione neutra. Carrellata a ritroso davanti a loro. Dietro le loro spalle, l'anziano rimane al centro dell'ascensore illuminato di ambra, fissandoli. Le porte iniziano a chiudersi intorno a lui.
+00:20–00:25 — LA SERRATURA
+Segui la coppia lungo lo stretto ballatoio dell'appartamento in un unico piano sequenza fluido. Si fermano davanti a una porta metallica logora. Dettaglio stretto: il protettore prova una chiave; si inceppa senza girare. Per la prima volta perde la sua compostezza. La donna si guarda indietro lungo il corridoio. Cambio di fuoco dal suo profilo ansioso al lontano ascensore mentre le sue porte si riaprono.
+
+00:25–00:30 — IL FINALE SOSPESO
+L'anziano inseguitore entra nel corridoio, ora più vicino del previsto. Passi lenti e misurati. Breve stacco sul protettore che finalmente riesce a girare la chiave. La porta dell'appartamento si apre e fa entrare rapidamente la donna. Dall'interno dell'appartamento, la telecamera indugia sullo spiraglio che si restringe man mano che l'inseguitore si avvicina. La porta sbatte violentemente un attimo prima che lui la raggiunga. Stacco sul nero a 00:29. Mantieni il nero per l'ultimo secondo con un unico e tenue clic metallico.
+DIREZIONE VISIVA:
+Componi nativamente per il formato 16:9, sfruttando lo spazio orizzontale per elementi di disturbo in primo piano, figure minacciose sullo sfondo e relazioni chiare tra i personaggi. Texture della pelle naturale, tessuti dettagliati, grana della pellicola sottile, neri ricchi con dettagli visibili nelle ombre. Calda luce ambrata dell'ascensore a contrasto con i corridoi verde freddo e gli schermi di sorveglianza blu. Usa inquadrature a 35 mm per la tensione spaziale e primi piani a 85 mm per occhi e mani. Sfocatura di movimento realistica, camera a mano controllata solo durante la fuga finale. Mantieni la continuità di direzione dello sguardo, costumi, volti, oggetti di scena e architettura.
+
+DIREZIONE DEL SUONO:
+Ronzio del motore dell'ascensore, flebile musica delle cuffie che sfuma quando vengono abbassate, fruscio di vestiti, sottile scatto del coltello, ronzio dei neon, rintocco dell'ascensore, passi cadenzati, meccanismo della chiave che fa resistenza e un pesante tonfo finale della porta che si chiude. Archi gravi minimali e una pulsazione di basso che accelera gradualmente. Nessun dialogo o voce fuori campo.
+DA EVITARE:
+Didascalie su schermo, sottotitoli, titoli, filigrane, loghi, combattimenti esagerati, sangue, pelle artificiale, mani distorte, volti mutevoli, personaggi duplicati, passaggi impossibili della telecamera attraverso i muri, rallentatore casuale, bagliori di lente eccessivi o montaggio frenetico. Costruire la suspense attraverso sguardi, posizionamento, suono e tempismo.
 ```
 
 [↑ Torna alle categorie](#catalog)

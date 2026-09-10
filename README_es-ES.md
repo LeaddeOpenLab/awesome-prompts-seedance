@@ -327,20 +327,51 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2097961776969109709"></a>
 
-### Traducción en curso
+### Crea un cortometraje de suspense realista y cinematográfico de 30 segundos sobre una confrontación encubierta y una persecución entre tres personas en el ascensor y el pasillo de un edificio de apartamentos antiguo.
 
 Autor：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publicación original](https://x.com/bmx_ai13/status/2097961776969109709)
 
 Fotografía · Cine / Fotograma de película · Arquitectura / Interiorismo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un cortometraje de suspense realista y cinematográfico de 30 segundos sobre una confrontación encubierta y una persecución entre tres personas en el ascensor y el pasillo de un edificio de apartamentos antiguo.
 
 <img src="covers/2097961776969109709.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un thriller de suspense cinematográfico y fotorrealista de 30 segundos en pantalla ancha 16:9. Cinematografía cinematográfica prémium, actuaciones verosímiles, movimientos de cámara cuidadosamente motivados, acción física creíble y tensión estrictamente controlada.
+
+ESCENARIO Y PERSONAJES:
+Un envejecido edificio de apartamentos en Hong Kong: un ascensor angosto con paneles de madera de color miel, herrajes de latón rayados y cálida iluminación superior; en el exterior, pasillos estrechos con azulejos verdes y ocres, rejas de seguridad metálicas, tuberías a la vista y luces fluorescentes frías.
+Mantén tres personajes consistentes en todo momento:
+— Una mujer joven del este de Asia con un corte bob negro y liso, sobrecamisa de cuadros rojos y grises, auriculares circumaurales blancos y un bolso cruzado negro.
+— Un protector de mediana edad del este de Asia con pelo corto y oscuro, gafas rectangulares, chaleco utilitario color carbón y polo oscuro. Su actitud aparentemente ordinaria oculta una vigilancia constante.
+— Un anciano perseguidor del este de Asia con rostro curtido, boina plana marrón, gafas redondas, cárdigan oscuro y bufanda estampada. Casi inmóvil, silenciosamente amenazante.
+
+00:00–00:04 — LA AMENAZA OCULTA
+Comienza de inmediato con un primerísimo primer plano de la mano del anciano ocultando una navaja plegable cerrada junto a su cárdigan. Un chasquido metálico contenido. Corta a una composición amplia del interior del ascensor: la mujer está de pie en primer término a la izquierda con los auriculares puestos; el anciano espera detrás de ella, a la derecha. Luz ámbar, quietud opresiva. Avanza lentamente hacia adelante mientras las puertas del ascensor comienzan a cerrarse.
+00:04–00:08 — LA INTERRUPCIÓN
+Una mano detiene las puertas que se cierran. Se reabren, revelando al protector con gafas contra el frío pasillo verde. Entra con calma y se posiciona entre la mujer y el anciano. En un plano medio corto de dos personas, le hace un gesto para que se baje los auriculares. Ella lo hace, inicialmente irritada, y luego nota su expresión seria. Los ojos de él rastrean brevemente la mano oculta.
+00:08–00:12 — LA CONFRONTACIÓN SILENCIOSA
+Un movimiento lateral controlado de la cámara revela los tres rostros en una profundidad por capas. El protector ofrece de manera casual una manzana roja, usando el gesto para girarse hacia el perseguidor. Corta a los ojos del anciano bajo su boina; luego a sus dedos apretándose alrededor de la navaja oculta. La mujer observa su intercambio, empezando a comprender. Actuación contenida, sin reacciones exageradas.
+00:12–00:15 — ALGUIEN ESTÁ MIRANDO
+Corte seco a una sala de vigilancia en penumbra iluminada por monitores de un azul frío. Un operador con auriculares se inclina hacia una pantalla que muestra al anciano dentro del mismo ascensor. Empuja la cámara hacia el monitor y luego haz un corte por coincidencia (match-cut) desde su imagen de vigilancia hasta su rostro en el ascensor. El pulso musical grave se acelera.
+
+00:15–00:20 — LA SALIDA
+Un timbre de ascensor interrumpe la tensión. Las puertas se abren hacia el pasillo de azulejos verdes. El protector guía a la mujer hacia afuera con un gesto breve y urgente mientras mantiene una expresión normal. Sigue hacia atrás por delante de ellos. Tras sus hombros, el anciano permanece centrado dentro del ascensor de luz ámbar, mirando fijamente. Las puertas comienzan a cerrarse a su alrededor.
+00:20–00:25 — LA CERRADURA
+Sigue a la pareja por el estrecho pasillo del edificio en un único y fluido plano de seguimiento. Se detienen ante una desgastada puerta metálica de apartamento. Inserto cerrado: el protector prueba una llave; se traba sin girar. Su compostura se quiebra por primera vez. La mujer mira hacia atrás por el pasillo. Cambio de foco (rack focus) desde su perfil ansioso hasta el ascensor distante mientras sus puertas vuelven a abrirse.
+
+00:25–00:30 — EL FINAL EN SUSPENSO
+El anciano perseguidor entra al pasillo, ahora más cerca de lo esperado. Pasos lentos y medidos. Intercala una vez con el protector girando finalmente la llave. La puerta del apartamento se abre y él hace entrar a la mujer. Desde el interior del apartamento, la cámara se mantiene en la puerta que se estrecha a medida que el perseguidor se acerca. La puerta se cierra de golpe justo antes de que él la alcance. Corta a negro en 00:29. Mantén la pantalla en negro durante el segundo final con un único y tenue chasquido metálico.
+DIRECCIÓN VISUAL:
+Compón de forma nativa para 16:9, utilizando el espacio horizontal para obstrucciones en primer término, figuras amenazantes en el fondo y relaciones claras entre los personajes. Textura de piel natural, tela detallada, grano de película sutil, negros profundos con detalle de sombras visible. Luz ámbar cálida del ascensor en contraste con los pasillos verdes fríos y las pantallas de vigilancia azules. Usa encuadre de 35 mm para la tensión espacial y primeros planos de 85 mm para ojos y manos. Desenfoque de movimiento realista, movimiento de cámara en mano contenido únicamente durante la huida final. Preserva la dirección de pantalla, el vestuario, los rostros, la colocación de la utilería y la continuidad arquitectónica.
+
+DIRECCIÓN DE SONIDO:
+Zumbido del motor del ascensor, música tenue de auriculares que se desvanece al bajarlos, crujido de ropa, sutil clic de navaja, zumbido de fluorescentes, timbre del ascensor, pasos medidos, mecanismo de llave trabado y un pesado portazo final. Cuerdas graves minimalistas y un pulso de bajo que se acelera gradualmente. Sin diálogos ni voz en off.
+EVITAR:
+Subtítulos en pantalla, rótulos, marcas de agua, logotipos, combates exagerados, gore, piel artificial, manos distorsionadas, rostros cambiantes, personajes duplicados, movimientos imposibles de cámara a través de paredes, cámara lenta aleatoria, destellos de lente excesivos o montajes frenéticos. Construye el suspense a través de miradas, bloqueo de escena, sonido y ritmo.
 ```
 
 [↑ Volver a categorías](#catalog)

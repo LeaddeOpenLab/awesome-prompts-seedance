@@ -313,20 +313,51 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2097961776969109709"></a>
 
-### Çeviri sürüyor
+### Eski bir apartmanın asansöründe ve koridorunda üç kişi arasında geçen üstü kapalı yüzleşmeyi ve takibi anlatan 30 saniyelik gerçekçi, sinematik bir gerilim kısa filmi oluşturun.
 
 Yazar：[@bmx\_ai13](https://x.com/bmx_ai13) · [Orijinal gönderi](https://x.com/bmx_ai13/status/2097961776969109709)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Mimari / İç Mekan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Eski bir apartmanın asansöründe ve koridorunda üç kişi arasında geçen üstü kapalı yüzleşmeyi ve takibi anlatan 30 saniyelik gerçekçi, sinematik bir gerilim kısa filmi oluşturun.
 
 <img src="covers/2097961776969109709.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+16:9 geniş ekranda 30 saniyelik fotogerçekçi, sinematik bir gerilim filmi oluşturun. Birinci sınıf teatral sinematografi, ölçülü oyunculuklar, dikkatle gerekçelendirilmiş kamera hareketleri, inandırıcı fiziksel aksiyon ve sıkı bir şekilde kontrol edilen gerilim.
+
+MEKÂN VE KARAKTERLER:
+Eski bir Hong Kong apartmanı: bal rengi ahşap panelleri, çizik pirinç aksamları ve tepeden gelen sıcak aydınlatması olan dar bir asansör; dışarıda ise yeşil ve aşı boyası rengi karolar, metal güvenlik parmaklıkları, açıkta duran borular ve soğuk floresan ışıkları olan dar koridorlar.
+Baştan sona üç tutarlı karakteri koruyun:
+— Düz siyah küt saçlı, kırmızı-gri ekose gömlek ceketli, beyaz kulak üstü kulaklıklı ve siyah çapraz askılı çantalı genç yetişkin bir Doğu Asyalı kadın.
+— Kısa koyu renk saçlı, dikdörtgen gözlüklü, antrasit taktik yelekli ve koyu polo tişörtlü orta yaşlı bir Doğu Asyalı koruyucu. Sıradan görünen tavırları, sürekli bir tetikte olma hâlini gizler.
+— Yıpranmış bir yüze, kahverengi kasket şapkaya, yuvarlak gözlüklere, koyu renk hırkaya ve desenli boyun atkısına sahip yaşlı bir Doğu Asyalı takipçi. Neredeyse hareketsiz, sessizce tehditkâr.
+
+00:00–00:04 — GİZLİ TEHDİT
+Hemen yaşlı adamın hırkasının yanında kapalı bir çakıyı gizleyen elinin aşırı yakın çekimiyle başlayın. Ölçülü bir metalik tıkırtı sesi. Asansör içi geniş çekim kompozisyonuna kesin: kadın ön planda solda kulaklık takmış hâlde duruyor; yaşlı adam arkasında, sağda bekliyor. Kehribar rengi ışık, bunaltıcı bir sessizlik. Asansör kapıları kapanmaya başlarken kamerayla yavaşça öne doğru yaklaşın.
+00:04–00:08 — ARAYA GİRİŞ
+Bir el kapanmakta olan kapıları tutar. Kapılar tekrar açılır ve soğuk yeşil koridorun önünde gözlüklü koruyucu görünür. Sakin bir şekilde içeri girer ve kendisini kadınla yaşlı adamın arasına konumlandırır. Yakın ikili çekimde kadına kulaklığını indirmesini işaret eder. Kadın başta rahatsız olarak kulaklığını indirir, ardından adamın ciddi ifadesini fark eder. Koruyucunun gözleri kısa bir an gizlenen eli takip eder.
+00:08–00:12 — SESSİZ YÜZLEŞME
+Kontrollü yanal kamera hareketi, her üç yüzü de katmanlı bir derinlikte ortaya çıkarır. Koruyucu, kayıtsızca kırmızı bir elma uzatır ve bu hareketi takipçiye doğru dönmek için kullanır. Yaşlı adamın kasketinin altındaki gözlerine kesin; ardından parmaklarının gizli çakıyı daha sıkı kavramasına geçin. Kadın aralarındaki bu etkileşimi izler ve durumu anlamaya başlar. Ölçülü oyunculuk, abartılı tepkiler yok.
+00:12–00:15 — BİRİ İZLİYOR
+Soğuk mavi monitörlerle aydınlatılan loş bir güvenlik odasına sert kesme yapın. Kulaklık takan bir operatör, aynı asansörün içindeki yaşlı adamı gösteren ekrana doğru eğilir. Monitöre doğru yaklaşın, ardından güvenlik kamerasındaki görüntüsünden asansördeki yüzüne eşleşmeli kesme (match-cut) yapın. Derinden gelen müzikal ritim hızlanır.
+
+00:15–00:20 — ÇIKIŞ
+Asansör zili gerilimi böler. Kapılar yeşil karolu koridora açılır. Koruyucu, sıradan ifadesini korurken kadını küçük ve acil bir hareketle dışarı yönlendirir. Önlerinde geriye doğru kaydırma yapın. Omuzlarının arkasında, yaşlı adam kehribar rengi asansörün tam ortasında dik dik bakarak kalır. Kapılar onun etrafında kapanmaya başlar.
+00:20–00:25 — KİLİT
+İkiliyi tek bir akıcı kaydırma çekimiyle dar apartman koridoru boyunca takip edin. Yıpranmış metal bir daire kapısında dururlar. Dar detay çekim: Koruyucu bir anahtar dener; anahtar dönmeden takılır. Soğukkanlılığı ilk kez bozulur. Kadın koridordan geriye bakar. Odağı, kadının endişeli profilinden uzaktaki asansörün tekrar açılan kapılarına kaydırın (rack focus).
+
+00:25–00:30 — MERAK VE GERİLİM DORUKTA (CLIFFHANGER)
+Yaşlı takipçi, şimdi beklenenden daha yakın bir şekilde koridora adım atar. Derin, ölçülü adımlar. Koruyucunun nihayet anahtarı çevirmesiyle bir kez çapraz kesme yapın. Daire kapısı açılır ve koruyucu kadını içeri sokar. Dairenin içinden kamera, takipçi yaklaşırken daralan kapı aralığına odaklanır. Kapı, tam o ulaşmadan önce hızla çarparak kapanır. 00:29'da siyaha kesin. Son bir saniyeyi sessiz, tek bir metalik tıkırtı eşliğinde siyah ekranda tutun.
+GÖRSEL YÖNETİM:
+Ön plan engelleri, tehditkâr arka plan figürleri ve net karakter ilişkileri için yatay alanı kullanarak yerel olarak 16:9 formatında kadrajlayın. Doğal cilt dokusu, ayrıntılı kumaşlar, hafif film greni, görünür gölge ayrıntılarına sahip zengin siyahlar. Soğuk yeşil koridorlar ve mavi güvenlik ekranlarıyla tezat oluşturan sıcak kehribar asansör ışığı. Mekânsal gerilim için 35mm çerçeveleme, gözler ve eller için 85mm yakın çekimler kullanın. Gerçekçi hareket bulanıklığı, yalnızca son kaçış sırasında ölçülü el kamerası hareketi. Ekran yönünü, kostümleri, yüzleri, nesne yerleşimini ve mimari sürekliliği koruyun.
+
+SES YÖNETİMİ:
+Asansör motorunun uğultusu, kulaklık indirildiğinde solan zayıf kulaklık müziği, kumaş hışırtısı, hafif çakı tıkırtısı, floresan cızırtısı, asansör zili, tempolu adımlar, zorlanan anahtar mekanizması ve son olarak sert bir kapı çarpması. Asgari düzeyde derinden gelen yaylılar ve kademeli olarak hızlanan bir bas atımı. Diyalog veya dış ses yok.
+KAÇINILMASI GEREKENLER:
+Ekranda altyazılar, metinler, başlıklar, filigranlar, logolar, abartılı dövüşler, vahşet/kan, yapay cilt, bozuk eller, değişen yüzler, yinelenen karakterler, duvarların içinden geçen imkânsız kamera hareketleri, rastgele ağır çekim, aşırı lens parlamaları veya çılgınca montaj. Gerilimi bakışlar, mizansen, ses ve zamanlama yoluyla oluşturun.
 ```
 
 [↑ Kategorilere dön](#catalog)

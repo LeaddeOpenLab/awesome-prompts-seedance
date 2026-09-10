@@ -327,20 +327,51 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2097961776969109709"></a>
 
-### Übersetzung läuft
+### Einen 30-sekündigen, realistischen cineastischen Suspense-Kurzfilm erstellen über eine verdeckte Konfrontation und Verfolgung dreier Personen in einem alten Wohnungsaufzug und Flur.
 
 Autor：[@bmx\_ai13](https://x.com/bmx_ai13) · [Originalbeitrag](https://x.com/bmx_ai13/status/2097961776969109709)
 
 Fotografie · Kinematisch / Filmstill · Architektur / Interieur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Einen 30-sekündigen, realistischen cineastischen Suspense-Kurzfilm erstellen über eine verdeckte Konfrontation und Verfolgung dreier Personen in einem alten Wohnungsaufzug und Flur.
 
 <img src="covers/2097961776969109709.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 30-sekündigen, fotorealistischen, cineastischen Suspense-Thriller im 16:9-Breitbildformat. Erstklassige Kino-Kameraführung, bodenständiges Schauspiel, wohlüberlegte Kamerabewegungen, glaubwürdige physische Aktionen und straff kontrollierte Spannung.
+
+SCHAUPLATZ UND CHARAKTERE:
+Ein in die Jahre gekommenes Hongkonger Wohngebäude: enger Aufzug mit honigfarbenen Holzpaneelen, zerkratzten Messingbeschlägen und warmer Deckenbeleuchtung; draußen schmale Korridore mit grün-ockerfarbenen Fliesen, metallenen Sicherheitsgittern, freiliegenden Rohren und kaltem Leuchtstoffröhrenlicht.
+Behalte durchgehend drei konsistente Charaktere bei:
+— Eine junge ostasiatische Frau mit glattem schwarzem Bob, rot-grau kariertem Überhemd, weißen Over-Ear-Kopfhörern und einer schwarzen Umhängetasche.
+— Ein ostasiatischer Beschützer mittleren Alters mit kurzem dunklem Haar, rechteckiger Brille, anthrazitfarbener Funktionsweste und dunklem Poloshirt. Sein scheinbar gewöhnliches Auftreten verbirgt ständige Wachsamkeit.
+— Ein älterer ostasiatischer Verfolger mit wettergegerbtem Gesicht, brauner Schiebermütze, runder Brille, dunkler Strickjacke und gemustertem Halstuch. Fast regungslos, unterschwellig bedrohlich.
+
+00:00–00:04 — DIE VERBORGENE BEDROHUNG
+Beginne sofort mit einer extremen Nahaufnahme der Hand des älteren Mannes, die ein geschlossenes Klappmesser neben seiner Strickjacke verbirgt. Ein verhaltenes metallisches Klicken. Schnitt auf eine weite Innenansicht des Aufzugs: Die Frau steht mit Kopfhörern im linken Vordergrund; der ältere Mann wartet rechts hinter ihr. Bernsteinfarbenes Licht, beklemmende Stille. Langsames Heranfahren der Kamera, während sich die Aufzugtüren zu schließen beginnen.
+00:04–00:08 — DIE UNTERBRECHUNG
+Eine Hand fängt die sich schließenden Türen ab. Sie öffnen sich wieder und geben den Blick auf den bebrillten Beschützer vor dem kalten grünen Korridor frei. Er tritt ruhig ein und positioniert sich zwischen der Frau und dem älteren Mann. In einer Naheinstellung beider Figuren deutet er ihr mit einer Geste an, die Kopfhörer abzunehmen. Sie tut es, anfangs irritiert, bemerkt dann jedoch seinen ernsten Gesichtsausdruck. Seine Augen erfassen kurz die verborgene Hand.
+00:08–00:12 — DIE LAUTLOSE KONFRONTATION
+Eine kontrollierte laterale Kamerabewegung offenbart alle drei Gesichter in gestaffelter Tiefe. Der Beschützer bietet beiläufig einen roten Apfel an und nutzt diese Geste, um sich dem Verfolger zuzuwenden. Schnitt auf die Augen des älteren Mannes unter seiner Mütze; dann auf seine Finger, die sich um das verborgene Messer spannen. Die Frau beobachtet die Interaktion und beginnt zu verstehen. Zurückhaltendes Schauspiel, keine übertriebenen Reaktionen.
+00:12–00:15 — JEMAND BEOBACHTET
+Harter Schnitt in einen schwach beleuchteten Überwachungsraum, erhellt von kühlen blauen Monitoren. Eine Person mit Headset beugt sich zu einem Bildschirm vor, der den älteren Mann im selben Aufzug zeigt. Kamerafahrt auf den Monitor zu, dann ein Match-Cut von seinem Überwachungsbild auf sein Gesicht im Aufzug. Der tiefe musikalische Puls beschleunigt sich.
+
+00:15–00:20 — DER AUSSTIEG
+Ein Aufzugssignalton unterbricht die Anspannung. Die Türen öffnen sich zum grün gefliesten Korridor. Der Beschützer führt die Frau mit einer kleinen, dringlichen Geste hinaus, während er einen unauffälligen Gesichtsausdruck bewahrt. Rückwärts-Tracking vor ihnen her. Hinter ihren Schultern bleibt der ältere Mann zentriert im bernsteinfarbenen Aufzug stehen und starrt ihnen nach. Die Türen beginnen sich um ihn herum zu schließen.
+00:20–00:25 — DAS SCHLOSS
+Folge dem Paar in einer einzigen, flüssigen Kamerafahrt durch den engen Wohnungsflur. Sie halten vor einer abgenutzten metallenen Wohnungstür an. Enger Einschub: Der Beschützer versucht einen Schlüssel; er verhakt sich, ohne sich zu drehen. Zum ersten Mal bröckelt seine Gelassenheit. Die Frau blickt den Korridor hinunter. Schärfeverlagerung von ihrem besorgten Profil zum fernen Aufzug, als dessen Türen sich wieder öffnen.
+
+00:25–00:30 — DER CLIFFHANGER
+Der ältere Verfolger tritt in den Korridor, nun näher als erwartet. Leise, gemessene Schritte. Ein kurzer Zwischenschnitt darauf, wie der Beschützer den Schlüssel endlich herumdreht. Die Wohnungstür öffnet sich und er schiebt die Frau hinein. Aus dem Inneren der Wohnung verharrt die Kamera auf dem sich verengenden Türspalt, während der Verfolger näher kommt. Die Tür fällt lautstark ins Schloss, kurz bevor er sie erreicht. Schnitt auf Schwarzblende bei 00:29. Die letzte Sekunde in Schwarz halten, begleitet von einem einzigen leisen metallischen Klicken.
+VISUELLE REGIE:
+Nativ für 16:9 komponieren und den horizontalen Raum für Vordergrundverdeckungen, bedrohliche Hintergrundfiguren und klare Figurenbeziehungen nutzen. Natürliche Hauttextur, detaillierte Stoffe, feines Filmkorn, sattes Schwarz mit sichtbaren Schattendetails. Warmes bernsteinfarbenes Aufzugslicht im Kontrast zu kühlen grünen Fluren und blauen Überwachungsbildschirmen. 35mm-Kadrierung für räumliche Spannung, 85mm-Nahaufnahmen für Augen und Hände. Realistische Bewegungsunschärfe, verhaltene Handkamera nur während der finalen Flucht. Blickrichtung, Garderobe, Gesichter, Platzierung von Requisiten und architektonische Kontinuität strikt beibehalten.
+
+TONREGIE:
+Aufzugsmotorensurren, schwache Kopfhörermusik, die verblasst, wenn die Kopfhörer abgenommen werden, Kleidergeräusche, subtiles Messerklicken, Leuchtstoffröhrensummen, Aufzugssignal, gemessene Schritte, klemmender Schlüsselmechanismus und ein schwerer abschließender Schlag der zufallenden Tür. Minimale tiefe Streicher und ein sich allmählich beschleunigender Basspuls. Kein Dialog oder Voiceover.
+ZU VERMEIDEN:
+Texteinblendungen, Untertitel, Titel, Wasserzeichen, Logos, übertriebene Kämpfe, Gore, künstliche Haut, verzerrte Hände, wechselnde Gesichter, duplizierte Figuren, unmögliche Kamerabewegungen durch Wände, willkürliche Zeitlupen, übermäßige Blendenflecke oder hektische Schnittfolgen. Spannung rein über Blicke, Blocking, Ton und Timing aufbauen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

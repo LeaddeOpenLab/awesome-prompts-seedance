@@ -329,20 +329,51 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2097961776969109709"></a>
 
-### Đang dịch
+### Tạo một phim ngắn giật gân chân thực, đậm chất điện ảnh dài 30 giây kể về cuộc đối đầu ngầm và rượt đuổi giữa ba người trong thang máy và hành lang của một chung cư cũ.
 
 Tác giả：[@bmx\_ai13](https://x.com/bmx_ai13) · [Bài gốc](https://x.com/bmx_ai13/status/2097961776969109709)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Kiến trúc / Nội thất · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một phim ngắn giật gân chân thực, đậm chất điện ảnh dài 30 giây kể về cuộc đối đầu ngầm và rượt đuổi giữa ba người trong thang máy và hành lang của một chung cư cũ.
 
 <img src="covers/2097961776969109709.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một đoạn phim giật gân hồi hộp đậm chất điện ảnh, chân thực dài 30 giây ở tỷ lệ màn ảnh rộng 16:9. Quay phim điện ảnh cao cấp, diễn xuất chân thật, chuyển động máy quay có chủ đích kỹ lưỡng, hành động thể chất đáng tin cậy và sự căng thẳng được kiểm soát chặt chẽ.
+
+BỐI CẢNH VÀ NHÂN VẬT:
+Một tòa chung cư cũ kỹ ở Hồng Kông: thang máy chật chội với các tấm ốp gỗ màu mật ong, phụ kiện bằng đồng trầy xước và ánh sáng ấm áp từ trên cao; bên ngoài là những hành lang hẹp với gạch màu xanh lá cây và màu đất son, cổng sắt an ninh, đường ống lộ thiên và ánh đèn huỳnh quang lạnh lẽo.
+Duy trì ba nhân vật nhất quán xuyên suốt:
+— Một phụ nữ trẻ Đông Á với mái tóc bob đen thẳng, áo khoác sơ mi kẻ ca-rô đỏ xám, tai nghe trùm tai màu trắng và một chiếc túi đeo chéo màu đen.
+— Một người bảo vệ trung niên Đông Á với mái tóc ngắn sẫm màu, kính chữ nhật, áo ghi-lê đa năng màu than và áo polo sẫm màu. Phong thái có vẻ bình thường của anh che giấu sự cảnh giác liên tục.
+— Một kẻ truy đuổi lớn tuổi người Đông Á với khuôn mặt phong trần, mũ beret phẳng màu nâu, kính tròn, áo cardigan sẫm màu và khăn quàng cổ có hoa văn. Hầu như bất động, đe dọa trong im lặng.
+
+00:00–00:04 — MỐI ĐE DỌA ẨN GIẤU
+Bắt đầu ngay bằng một cú quay cận cảnh cực độ bàn tay của người đàn ông lớn tuổi đang giấu một con dao gấp đã đóng bên cạnh áo cardigan. Một tiếng cạch kim loại kìm nén. Chuyển cảnh sang bố cục toàn cảnh bên trong thang máy: người phụ nữ đứng ở tiền cảnh bên trái đeo tai nghe; người đàn ông lớn tuổi chờ phía sau cô, bên phải. Ánh sáng hổ phách, sự tĩnh lặng ngột ngạt. Từ từ đẩy máy tới khi cửa thang máy bắt đầu đóng lại.
+00:04–00:08 — SỰ GIÁN ĐOẠN
+Một bàn tay chặn cửa đang đóng lại. Cửa mở ra lần nữa, để lộ người bảo vệ đeo kính trên nền hành lang màu xanh lạnh. Anh bước vào một cách bình tĩnh và đứng vào giữa người phụ nữ và người đàn ông lớn tuổi. Trong một cảnh quay cận hai người, anh ra hiệu cho cô hạ tai nghe xuống. Cô làm theo, ban đầu có vẻ khó chịu, sau đó nhận ra nét mặt nghiêm túc của anh. Mắt anh thoáng liếc nhìn bàn tay đang giấu vũ khí.
+00:08–00:12 — SỰ ĐỐI ĐẦU TRONG IM LẶNG
+Chuyển động máy quay ngang có kiểm soát làm lộ rõ cả ba khuôn mặt theo các lớp chiều sâu. Người bảo vệ thản nhiên đưa ra một quả táo đỏ, dùng cử chỉ này để xoay người về phía kẻ truy đuổi. Cắt sang ánh mắt của người đàn ông lớn tuổi dưới vành mũ; sau đó là những ngón tay của ông ta siết chặt hơn quanh con dao đang giấu. Người phụ nữ quan sát sự trao đổi của họ và bắt đầu hiểu ra. Lối diễn xuất kiềm chế, không có phản ứng cường điệu.
+00:12–00:15 — CÓ AI ĐÓ ĐANG QUAN SÁT
+Cắt gắt sang một phòng giám sát mờ tối được chiếu sáng bởi các màn hình màu xanh lam mát lạnh. Một nhân viên vận hành đeo tai nghe nghiêng người về phía màn hình hiển thị người đàn ông lớn tuổi bên trong chính thang máy đó. Đẩy máy về phía màn hình, sau đó chuyển cảnh khớp (match-cut) từ hình ảnh giám sát của ông sang khuôn mặt của ông trong thang máy. Nhịp đập âm nhạc trầm bổng tăng tốc.
+
+00:15–00:20 — LỐI RA
+Tiếng chuông thang máy vang lên cắt ngang sự căng thẳng. Cửa mở ra hành lang lát gạch xanh. Người bảo vệ dẫn người phụ nữ bước ra ngoài bằng một cử chỉ nhỏ, gấp gáp trong khi vẫn giữ vẻ mặt bình thường. Máy quay lùi lại phía trước họ. Đằng sau vai họ, người đàn ông lớn tuổi vẫn đứng chính giữa bên trong thang máy màu hổ phách, nhìn chằm chằm. Cửa bắt đầu đóng lại quanh ông ta.
+00:20–00:25 — CHIẾC KHÓA
+Đi theo cặp đôi dọc theo lối đi hẹp của căn hộ trong một cú máy tracking mượt mà duy nhất. Họ dừng lại trước cánh cửa kim loại sờn cũ của căn hộ. Khung hình chèn chặt: người bảo vệ thử chìa khóa; nó bị kẹt mà không xoay được. Sự điềm tĩnh của anh lần đầu tiên dao động. Người phụ nữ nhìn ngược lại hành lang. Chuyển tiêu điểm (rack focus) từ góc nghiêng lo lắng của cô sang thang máy ở xa khi cửa của nó mở ra lần nữa.
+
+00:25–00:30 — ĐOẠN KẾT LƠ LỬNG
+Kẻ truy đuổi lớn tuổi bước vào hành lang, giờ đã ở gần hơn dự kiến. Những bước chân chậm rãi, nặng nề. Cắt xen kẽ một lần cảnh người bảo vệ cuối cùng cũng xoay được chìa khóa. Cửa căn hộ mở ra và anh vội vã đưa người phụ nữ vào trong. Từ bên trong căn hộ, máy quay giữ cố định ở ô cửa đang thu hẹp lại khi kẻ truy đuổi tiến đến gần. Cánh cửa đóng sầm lại ngay trước khi ông ta chạm tới. Cắt sang màn hình đen ở 00:29. Giữ màn hình đen trong giây cuối cùng với một tiếng cạch kim loại khẽ vang.
+HƯỚNG DẪN HÌNH ẢNH:
+Bố cục nguyên bản cho tỷ lệ 16:9, tận dụng không gian nằm ngang cho các vật cản ở tiền cảnh, các bóng hình đe dọa ở hậu cảnh và các mối quan hệ nhân vật rõ ràng. Kết cấu da tự nhiên, chi tiết vải tinh xảo, hạt phim tinh tế, sắc đen phong phú với chi tiết bóng tối nhìn thấy rõ. Ánh sáng màu hổ phách ấm áp của thang máy tương phản với hành lang màu xanh lá cây mát lạnh và màn hình giám sát màu xanh lam. Sử dụng khung hình 35mm để tạo sự căng thẳng không gian, cận cảnh 85mm cho mắt và bàn tay. Độ nhòe chuyển động thực tế, chuyển động cầm tay hạn chế chỉ trong cuộc trốn thoát cuối cùng. Giữ nguyên hướng màn hình, trang phục, khuôn mặt, vị trí đạo cụ và tính liên tục về mặt kiến trúc.
+
+HƯỚNG DẪN ÂM THANH:
+Tiếng vo ve của động cơ thang máy, tiếng nhạc tai nghe thoang thoảng mờ dần khi tai nghe được hạ xuống, tiếng sột soạt của quần áo, tiếng cạch dao tinh tế, tiếng vo ve của đèn huỳnh quang, tiếng chuông thang máy, tiếng bước chân đều đặn, cơ cấu chìa khóa bị kẹt và tiếng đóng sầm cửa mạnh mẽ cuối cùng. Tiếng đàn dây trầm tối giản và nhịp bass tăng tốc dần đều. Không có lời thoại hoặc lồng tiếng.
+CẦN TRÁNH:
+Phụ đề trên màn hình, tiêu đề, hình mờ, biểu trưng, đánh đấm phóng đại, máu me, làn da nhân tạo, bàn tay méo mó, khuôn mặt thay đổi, nhân vật bị trùng lặp, máy quay đi xuyên tường phi lý, quay chậm ngẫu nhiên, lóa ống kính quá mức hoặc dựng phim hỗn loạn. Xây dựng sự hồi hộp thông qua ánh mắt, cách sắp xếp vị trí (blocking), âm thanh và nhịp độ.
 ```
 
 [↑ Về danh mục](#catalog)
