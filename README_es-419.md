@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**60** Prompts · Última incorporación: **2026-09-11**
+**61** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma
+
+<a name="prompt-2098487159363871212"></a>
+
+### Traducción en curso
+
+Autor：[@aaassa120](https://x.com/aaassa120) · [Publicación original](https://x.com/aaassa120/status/2098487159363871212)
+
+Cine / Fotograma · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098487159363871212.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098447487266914317"></a>
 
