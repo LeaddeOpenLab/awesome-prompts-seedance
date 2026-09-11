@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**40** Prompt · Ultima aggiunta: **2026-09-11**
+**41** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -327,7 +327,7 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2098257195347616210"></a>
 
-### Traduzione in corso
+### Genera istruzioni per passaggi di inquadrature cinematografiche basate sull'immagine di riferimento con 20 diverse posizioni della cinepresa, stacchi netti rapidi e soggetto coerente.
 
 Autore：[@0xkyne](https://x.com/0xkyne) · [Post originale](https://x.com/0xkyne/status/2098257195347616210)
 
@@ -335,14 +335,14 @@ Fotografia · Fermo immagine cinematografico / Still fotografico · Pubblicato
 
 Post originale：[@Framer\_X](https://x.com/Framer_X) · [Post originale](https://x.com/Framer_X/status/2097866934725583101)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Genera istruzioni per passaggi di inquadrature cinematografiche basate sull'immagine di riferimento con 20 diverse posizioni della cinepresa, stacchi netti rapidi e soggetto coerente.
 
 <img src="covers/2098257195347616210.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una sequenza cinematografica di angolazioni di ripresa a stacco rapido per l'immagine di riferimento\n\nNumero totale di inquadrature: 20\n\nMantieni personaggio, ambiente, abbigliamento, illuminazione, azione e scena complessiva perfettamente coerenti durante tutto il video. Non cambiare location e non introdurre nuovi elementi.\n\nUtilizza 20 configurazioni di inquadratura nettamente distinte, tra cui:\n\nCampo lunghissimo, campo lungo di ambientazione, campo medio-lungo, campo medio, figura intera/mezza figura (piano medio), primo piano, primissimo piano/dettaglio estremo, angolo dal basso (low angle), angolo estremamente dal basso, angolo dall'alto (high angle), ripresa aerea zenitale (overhead), ripresa dall'alto verso il basso (top-down), ripresa a livello del suolo, ripresa ad altezza occhi, angolazione olandese (inclinata), ripresa di profilo, angolazione a tre quarti, inquadratura frontale diretta, angolazione posteriore, inquadratura da sopra la spalla (over-the-shoulder), controcampo da sopra la spalla, angolazione laterale affiancata, inquadratura con cornice in primo piano, inquadratura con teleobiettivo, primo piano con grandangolo, composizione simmetrica, composizione decentrata, angolazione di inseguimento (tracking), angolazione orbitale e angolazioni con prospettiva drammatica.\n\nNote importanti:\n\n- Utilizza uno stacco netto (hard cut) tra ogni inquadratura.\n\n- Nessuna angolazione di ripresa deve durare più di 1 secondo.\n\n- Non ripetere alcuna angolazione o composizione di ripresa.\n\n- Non creare movimenti di camera lunghi e continui tra un'angolazione e l'altra.\n\n- L'azione deve rimanere continua attraverso tutti gli stacchi.\n\n- Modifica solo la posizione della telecamera, l'angolazione di ripresa, l'obiettivo e l'inquadratura.\n\n- Il soggetto e la scena devono rimanere visivamente coerenti.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1101,6 +1101,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098273068317893063"></a>
+
+### Traduzione in corso
+
+Autore：[@TanLuAI](https://x.com/TanLuAI) · [Post originale](https://x.com/TanLuAI/status/2098273068317893063)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098273068317893063.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098242830661792189"></a>
 

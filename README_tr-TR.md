@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**40** Prompt · Son eklenen: **2026-09-11**
+**41** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -313,7 +313,7 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2098257195347616210"></a>
 
-### Çeviri sürüyor
+### Referans görsele dayalı olarak 20 farklı kamera konumuna sahip, hızlı sert kesmeler içeren ve özne tutarlılığını koruyan sinematik çekim değiştirme talimatı oluşturun.
 
 Yazar：[@0xkyne](https://x.com/0xkyne) · [Orijinal gönderi](https://x.com/0xkyne/status/2098257195347616210)
 
@@ -321,14 +321,14 @@ Fotoğrafçılık · Sinematik / Film Karesi · Yayımlandı
 
 Orijinal gönderi：[@Framer\_X](https://x.com/Framer_X) · [Orijinal gönderi](https://x.com/Framer_X/status/2097866934725583101)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Referans görsele dayalı olarak 20 farklı kamera konumuna sahip, hızlı sert kesmeler içeren ve özne tutarlılığını koruyan sinematik çekim değiştirme talimatı oluşturun.
 
 <img src="covers/2098257195347616210.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Referans görsel için hızlı geçişli sinematik kamera açılarından oluşan bir gösterim oluşturun\n\nToplam çekim sayısı: 20\n\nVideo boyunca karakteri, ortamı, kıyafetleri, aydınlatmayı, hareketi ve genel sahneyi tamamen tutarlı tutun. Konumu değiştirmeyin veya yeni unsurlar eklemeyin.\n\nAşağıdakiler dahil olmak üzere birbirinden belirgin şekilde farklı 20 çekim kurulumu kullanın:\n\nAşırı geniş açı çekim, ortamı tanıtan geniş çekim (establishing shot), orta geniş çekim, orta çekim (medium shot), orta yakın çekim, yakın çekim (close-up), aşırı yakın çekim (extreme close-up), alt açı, aşırı alt açı, üst açı, tepeden çekim (overhead), yukarıdan aşağıya çekim (top-down), zemin seviyesi çekim, göz hizası çekim, eğik açı (dutch angle), profil çekimi, dörtte üç açı, doğrudan karşıdan çekim, arka açı, omuz üstü çekim (over-the-shoulder), ters omuz üstü çekim, yan açı çekimi, ön plan çerçevelemeli çekim, telefoto lens çekimi, geniş açı yakın çekim, simetrik kompozisyon, merkez dışı kompozisyon, takip açısı (tracking), yörünge açısı (orbit) ve dramatik perspektif açıları.\n\nÖnemli notlar:\n\n- Her iki çekim arasında sert kesme (hard cut) kullanın.\n\n- Hiçbir kamera açısı 1 saniyeden uzun sürmemelidir.\n\n- Hiçbir kamera açısını veya kompozisyonunu tekrarlamayın.\n\n- Açılar arasında uzun ve kesintisiz kamera hareketleri oluşturmayın.\n\n- Eylem tüm kesmeler boyunca sürekliliğini korumalıdır.\n\n- Yalnızca kamera konumunu, kamera açısını, lensi ve kadrajı değiştirin.\n\n- Özne ve sahne görsel olarak tutarlı kalmalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1087,6 +1087,28 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098273068317893063"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/TanLuAI/status/2098273068317893063)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098273068317893063.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098242830661792189"></a>
 

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**40** Prompts · Adição mais recente: **2026-09-11**
+**41** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -313,7 +313,7 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2098257195347616210"></a>
 
-### Tradução em curso
+### Gere instruções de alternância de planos cinematográficos com 20 posições de câmara distintas, cortes diretos rápidos e consistência do sujeito com base na imagem de referência.
 
 Autor：[@0xkyne](https://x.com/0xkyne) · [Publicação original](https://x.com/0xkyne/status/2098257195347616210)
 
@@ -321,14 +321,14 @@ Fotografia · Cena de Cinema / Fotograma · Publicado
 
 Publicação original：[@Framer\_X](https://x.com/Framer_X) · [Publicação original](https://x.com/Framer_X/status/2097866934725583101)
 
-**Resumo:** Tradução em curso
+**Resumo:** Gere instruções de alternância de planos cinematográficos com 20 posições de câmara distintas, cortes diretos rápidos e consistência do sujeito com base na imagem de referência.
 
 <img src="covers/2098257195347616210.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma apresentação cinematográfica de ângulos de câmara com cortes rápidos para a imagem de referência\n\nNúmero total de planos: 20\n\nMantenha a personagem, o ambiente, o guarda-roupa, a iluminação, a ação e a cena geral completamente consistentes ao longo de todo o vídeo. Não altere a localização nem introduza novos elementos.\n\nUtilize 20 configurações de planos nitidamente distintas, incluindo:\n\nPlano geral extremo, plano geral de estabelecimento, plano médio longo, plano médio, plano médio aproximado, grande plano, grande plano extremo (plano de pormenor), ângulo picado inverso (baixo), ângulo baixo extremo, ângulo picado (alto), plano zenital (overhead), plano de cima para baixo, plano ao nível do solo, plano ao nível dos olhos, ângulo holandês inclinado, plano de perfil, ângulo de três quartos, plano frontal direto, ângulo posterior, plano sobre o ombro (over-the-shoulder), plano sobre o ombro invertido, ângulo lateral lado a lado, plano com moldura em primeiro plano, plano com teleobjetiva, grande plano com grande angular, composição simétrica, composição descentrada, ângulo de acompanhamento (tracking), ângulo orbital e ângulos de perspetiva dramática.\n\nNotas importantes:\n\n- Utilize cortes diretos (hard cuts) entre cada dois planos.\n\n- Nenhum ângulo de câmara deve durar mais de 1 segundo.\n\n- Não repita qualquer ângulo de câmara ou composição.\n\n- Não crie movimentos de câmara longos e contínuos entre os ângulos.\n\n- A ação deve manter-se contínua ao longo de todos os cortes.\n\n- Altere apenas a posição da câmara, o ângulo da câmara, a lente e o enquadramento.\n\n- O sujeito e a cena têm de permanecer visualmente consistentes.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1087,6 +1087,28 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098273068317893063"></a>
+
+### Tradução em curso
+
+Autor：[@TanLuAI](https://x.com/TanLuAI) · [Publicação original](https://x.com/TanLuAI/status/2098273068317893063)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098273068317893063.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098242830661792189"></a>
 

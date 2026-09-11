@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**40** Prompts · Última incorporación: **2026-09-11**
+**41** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -327,7 +327,7 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2098257195347616210"></a>
 
-### Traducción en curso
+### Genera instrucciones para cambios de tomas cinematográficas con 20 posiciones de cámara distintas, cortes directos rápidos y coherencia del sujeto a partir de la imagen de referencia.
 
 Autor：[@0xkyne](https://x.com/0xkyne) · [Publicación original](https://x.com/0xkyne/status/2098257195347616210)
 
@@ -335,14 +335,14 @@ Fotografía · Cine / Fotograma · Publicado
 
 Publicación original：[@Framer\_X](https://x.com/Framer_X) · [Publicación original](https://x.com/Framer_X/status/2097866934725583101)
 
-**Resumen:** Traducción en curso
+**Resumen:** Genera instrucciones para cambios de tomas cinematográficas con 20 posiciones de cámara distintas, cortes directos rápidos y coherencia del sujeto a partir de la imagen de referencia.
 
 <img src="covers/2098257195347616210.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una muestra cinematográfica de ángulos de cámara con cortes rápidos para la imagen de referencia\n\nNúmero total de tomas: 20\n\nMantén el personaje, el entorno, el vestuario, la iluminación, la acción y la escena general completamente consistentes a lo largo de todo el video. No cambies de ubicación ni introduzcas elementos nuevos.\n\nUtiliza 20 configuraciones de tomas claramente distintas, que incluyan:\n\nPlano general extremo, plano general de establecimiento, plano medio general, plano medio, plano medio corto, primer plano, primerísimo primer plano (plano detalle extremo), ángulo contrapicado (bajo), ángulo contrapicado extremo, ángulo picado (alto), toma cenital, toma cenital directa de arriba hacia abajo, toma a nivel del suelo, toma al nivel de los ojos, ángulo holandés inclinado, toma de perfil, ángulo de tres cuartos, toma frontal directa, ángulo posterior, toma sobre el hombro, toma sobre el hombro inversa, ángulo lateral contiguo, toma enmarcada en primer plano, toma con telefoto, primer plano con gran angular, composición simétrica, composición descentrada, ángulo de seguimiento, ángulo orbital y ángulo con perspectiva dramática.\n\nPuntos importantes:\n\n- Utiliza cortes directos (hard cuts) entre cada dos tomas.\n\n- Ningún ángulo de cámara debe durar más de 1 segundo.\n\n- No repitas ningún ángulo de cámara ni composición.\n\n- No crees movimientos de cámara continuos y prolongados entre los ángulos.\n\n- La acción debe ser continua a través de todos los cortes.\n\n- Modifica únicamente la posición de la cámara, el ángulo de la cámara, el lente y el encuadre.\n\n- El sujeto y la escena deben mantenerse visualmente consistentes.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1101,6 +1101,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098273068317893063"></a>
+
+### Traducción en curso
+
+Autor：[@TanLuAI](https://x.com/TanLuAI) · [Publicación original](https://x.com/TanLuAI/status/2098273068317893063)
+
+Otros · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098273068317893063.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098242830661792189"></a>
 

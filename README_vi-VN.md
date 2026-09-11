@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**40** Prompt · Bổ sung mới nhất: **2026-09-11**
+**41** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -329,7 +329,7 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2098257195347616210"></a>
 
-### Đang dịch
+### Tạo lệnh chuyển đổi góc máy điện ảnh gồm 20 vị trí máy quay khác nhau, cắt cảnh nhanh và giữ tính nhất quán của chủ thể dựa trên hình ảnh tham chiếu.
 
 Tác giả：[@0xkyne](https://x.com/0xkyne) · [Bài gốc](https://x.com/0xkyne/status/2098257195347616210)
 
@@ -337,14 +337,14 @@ Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
 Bài gốc：[@Framer\_X](https://x.com/Framer_X) · [Bài gốc](https://x.com/Framer_X/status/2097866934725583101)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo lệnh chuyển đổi góc máy điện ảnh gồm 20 vị trí máy quay khác nhau, cắt cảnh nhanh và giữ tính nhất quán của chủ thể dựa trên hình ảnh tham chiếu.
 
 <img src="covers/2098257195347616210.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một màn trình diễn các góc máy điện ảnh chuyển cảnh nhanh cho hình ảnh tham chiếu\n\nTổng số cảnh quay: 20\n\nGiữ cho nhân vật, môi trường, trang phục, ánh sáng, hành động và tổng thể khung cảnh hoàn toàn nhất quán trong suốt video. Không thay đổi địa điểm hoặc đưa vào các yếu tố mới.\n\nSử dụng 20 thiết lập cảnh quay khác biệt rõ rệt, bao gồm:\n\nCảnh cực rộng, cảnh rộng thiết lập không gian, cảnh trung rộng, cảnh trung, cảnh trung cận, cảnh cận, cảnh đặc tả cực cận, góc thấp, góc cực thấp, góc cao, cảnh từ trên đỉnh đầu, cảnh từ trên nhìn thẳng xuống, cảnh sát mặt đất, cảnh ngang tầm mắt, góc nghiêng Hà Lan (Dutch tilt), cảnh góc nghiêng một bên (profile), góc ba phần tư, cảnh nhìn thẳng trực diện, góc phía sau, cảnh qua vai, cảnh qua vai đảo ngược, góc nhìn ngang cạnh nhau, cảnh dùng tiền cảnh tạo khung, cảnh ống kính tele, cảnh cận góc rộng, bố cục đối xứng, bố cục lệch tâm, góc bám theo (tracking), góc quay xung quanh (orbit), và góc phối cảnh kịch tính.\n\nLưu ý quan trọng:\n\n- Sử dụng cắt trực tiếp (hard cut) giữa mỗi hai cảnh quay.\n\n- Không có góc máy nào được kéo dài quá 1 giây.\n\n- Không lặp lại bất kỳ góc máy hoặc bố cục nào.\n\n- Không tạo chuyển động máy quay liên tục kéo dài giữa các góc máy.\n\n- Hành động phải liền mạch và liên tục qua tất cả các nhịp cắt.\n\n- Chỉ thay đổi vị trí máy quay, góc máy, ống kính và khung hình.\n\n- Chủ thể và cảnh vật phải hoàn toàn nhất quán về mặt thị giác.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1231,6 +1231,28 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098273068317893063"></a>
+
+### Đang dịch
+
+Tác giả：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/TanLuAI/status/2098273068317893063)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098273068317893063.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098242830661792189"></a>
 

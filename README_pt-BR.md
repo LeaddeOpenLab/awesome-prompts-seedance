@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**40** Prompts · Última adição: **2026-09-11**
+**41** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -313,7 +313,7 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2098257195347616210"></a>
 
-### Tradução em andamento
+### Gere instruções de transição de planos cinematográficos com 20 posições de câmera diferentes, cortes secos rápidos e consistência do sujeito com base na imagem de referência.
 
 Autor：[@0xkyne](https://x.com/0xkyne) · [Publicação original](https://x.com/0xkyne/status/2098257195347616210)
 
@@ -321,14 +321,14 @@ Fotografia · Cinematográfico / Imagem de Filme · Publicado
 
 Publicação original：[@Framer\_X](https://x.com/Framer_X) · [Publicação original](https://x.com/Framer_X/status/2097866934725583101)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Gere instruções de transição de planos cinematográficos com 20 posições de câmera diferentes, cortes secos rápidos e consistência do sujeito com base na imagem de referência.
 
 <img src="covers/2098257195347616210.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma apresentação cinematográfica de ângulos de câmera com cortes rápidos para a imagem de referência\n\nNúmero total de tomadas: 20\n\nMantenha o personagem, o ambiente, o figurino, a iluminação, a ação e a cena geral completamente consistentes ao longo de todo o vídeo. Não mude de local nem introduza novos elementos.\n\nUtilize 20 configurações de tomada nitidamente distintas, incluindo:\n\nPlano geral extremo, plano geral de estabelecimento, plano médio aberto, plano médio, primeiro plano médio, primeiro plano (close-up), primeiríssimo plano (close-up extremo), ângulo baixo (contra-plongée), ângulo baixo extremo, ângulo alto (plongée), tomada aérea vertical (overhead), tomada de cima para baixo, tomada no nível do chão, tomada no nível dos olhos, ângulo holandês inclinado, tomada de perfil, ângulo de três quartos, tomada frontal direta, ângulo traseiro, tomada sobre o ombro (over-the-shoulder), tomada sobre o ombro invertida, ângulo lateral lado a lado, tomada com enquadramento de primeiro plano, tomada com teleobjetiva, close-up com grande-angular, composição simétrica, composição descentralizada, ângulo de acompanhamento (tracking), ângulo orbital e ângulos de perspectiva dramática.\n\nPontos importantes:\n\n- Use cortes secos (hard cuts) entre cada tomada.\n\n- Nenhum ângulo de câmera deve durar mais de 1 segundo.\n\n- Não repita nenhum ângulo de câmera ou composição.\n\n- Não crie movimentos de câmera longos e contínuos entre os ângulos.\n\n- A ação deve permanecer contínua através de todos os cortes.\n\n- Altere apenas a posição da câmera, o ângulo da câmera, a lente e o enquadramento.\n\n- O sujeito e a cena devem permanecer visualmente consistentes.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1087,6 +1087,28 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098273068317893063"></a>
+
+### Tradução em andamento
+
+Autor：[@TanLuAI](https://x.com/TanLuAI) · [Publicação original](https://x.com/TanLuAI/status/2098273068317893063)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098273068317893063.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098242830661792189"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**40** Prompts · Latest addition: **2026-09-11**
+**41** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1458,6 +1458,136 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098273068317893063"></a>
+
+### Prompt for a realistic comedic short video where a duo drops a giant ostrich egg and rice from a helicopter into volcanic lava, causing the crater to erupt a massive shower of egg fried rice that coats them completely, concluding with the man tasting it and praising its flavor.
+
+Author：[@TanLuAI](https://x.com/TanLuAI) · [Source](https://x.com/TanLuAI/status/2098273068317893063)
+
+Other · Published
+
+**Summary:** Prompt for a realistic comedic short video where a duo drops a giant ostrich egg and rice from a helicopter into volcanic lava, causing the crater to erupt a massive shower of egg fried rice that coats them completely, concluding with the man tasting it and praising its flavor.
+
+<img src="covers/2098273068317893063.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+【Style】
+Live-action realistic high-altitude spectacle comedic short video with the texture of handheld wide-angle mobile phone cinematography. Real people, helicopter interior, volcanic rock, and orange-red lava combined with cinematic surreal food visual effects. Natural lighting, authentic materials, slight flight vibrations, and motion blur, highlighting the stark contrast of giant props, dramatic altitude drop, a brief pause of anticipation, and an explosive aftermath.
+
+Egg fried rice with authentic food texture: plump, distinct golden rice grains, fluffy irregular yellow scrambled egg bits, sparse green scallions, with a light glossy sheen of oil and rising steam. Erupting in both clumps of fried rice and scattered rice grains, bouncing, scattering, and piling up upon landing, not resembling foam, liquid, or yellow smoke.
+
+【Duration】
+15 seconds, 9:16 vertical format. Entire video is a single continuous handheld long take, normal speed, no cuts, no slow motion, no freeze frames. Pacing: Duo displaying ingredients → Dropping giant egg first, immediately followed by pouring rice → High-angle shot falling into lava → Brief build-up → Volcano erupts a massive quantity of egg fried rice → Duo showered in fried rice → Man picks fried rice off his clothes to taste, saying in Chinese “真香” ("Zhen xiang").
+
+【Scene】
+A helicopter with a wide side cargo door hovers directly above a volcanic crater, door fully open. The camera is located inside the cabin, maintaining a certain distance from the doorway, framing both characters and their ingredients simultaneously.
+
+Cabin features dark gray non-slip flooring, metal door threshold, dark seats, safety harnesses, and interior wall panels. Below lies a massive nearly circular lava lake, orange-red molten matter churning continuously, surrounded by black volcanic crust and glowing fractures. Distant mountain ridges shrouded in gray mist. At the start, the cabin, people, and camera lens are clean with no food present.
+
+【Characters】
+Character A: Adult female explorer, brown ponytail, neon yellow short-sleeve shirt, gray-green cargo pants, dark boots, wearing black safety harness and aviation headset, responsible for holding and dropping the giant ostrich egg.
+
+Character B: Adult male explorer, short hair, orange short-sleeve shirt, dark gray cargo pants, dark boots, wearing black safety harness and aviation headset, responsible for holding and pouring a large bag of rice.
+
+Both positioned on either side of the wide door, leaning forward sequentially when dropping, without crowding each other. Safety tethers connected to cabin anchor points, keeping both inside the cabin throughout. Opening with knowing mischievous grins, authentic sense of physical weight during actions; ending with the man tasting the fried rice off his body while the woman observes and bursts out laughing.
+
+【Props】
+Giant ostrich egg: approx. 80 cm high, approx. 55 cm at its widest, complete oval egg shape, slightly narrower at one end and wider at the other, milky-white thick eggshell with delicate granular texture and slight natural speckles. The woman must embrace it with both arms, spanning from her chest to thighs, unable to hold it one-handed. Only this single giant egg appears in the entire film, remaining intact until impacting the lava surface.
+
+Rice bag: A large transparent heavy-duty plastic bag nearly half the height of the man, filled with raw white rice, bulging with weight sagging at the bottom, densely packed rice grains clearly discernible inside. Top of the bag already open, man gripping the side of the opening with one hand and supporting the bottom with the other. Rice pours out continuously, bag gradually deflating, empty bag retrieved back into cabin by the man, not thrown into the volcano.
+
+【Camera Angles】
+Opening wide-angle medium shot, clearly showing both facial expressions, arms, giant egg, and rice bag. Camera tilts down following the ingredients, tracking the egg and rice falling towards the same lava patch, remaining at the cabin door without descending.
+
+Maintains high-angle top-down perspective waiting after ingredients fall. When the egg fried rice erupts, camera pulls back and pans toward the duo, capturing the complete process of fried rice flying in from outside and showering over the characters and floor. Ending with a gentle push-in from the two-shot toward the man, clearly capturing the action of picking up rice grains, placing them in mouth, chewing, and speaking.
+
+[00:00–00:01.40] Action Segment 1: Duo Showcase, One Giant Egg & A Large Bag of Rice
+The woman stands on the left side of the frame, knees slightly bent, tightly cradling the giant ostrich egg with both arms, top edge near her chest, bottom edge near her thighs. The man stands on the right, holding the heavy transparent rice bag in front of his abdomen, controlling the opening and bottom with both hands.
+
+Both first look at the camera showing the exaggerated ingredients, then glance at each other with knowing mischievous smiles. The woman steadies the giant egg against her chest, the man adjusts his hand beneath the bag, rice grains shifting inside, causing noticeable tension wrinkles on the plastic bag.
+
+SFX: Helicopter rotors, high-altitude wind, plastic crinkling, and rustling of raw rice grains.
+
+[00:01.40–00:02.80] Action Segment 2: Woman Pushes Egg, Man Prepares to Pour Rice
+The woman turns toward the open air below, lowering her knees, bringing the bottom of the giant egg near the threshold. She extends her arms forward, tilting the egg from vertical toward the outside; once the center of gravity crosses the threshold, she releases her grip, letting the entire giant egg plummet. She immediately pulls her arms back, stepping half a pace rearward.
+
+The man immediately leans forward, one hand controlling the opening, the other lifting the bottom, aiming the open bag downward outside. A small amount of white rice slides to the opening first, followed by a continuous stream of rice pouring out.
+
+Camera tilts down and to the right, keeping both the falling egg and tilting rice bag visible, actions seamlessly synchronized.
+
+SFX: Exertion exhalations, shoe soles scuffing floor, plastic bag compressing.
+
+[00:02.80–00:04.60] Action Segment 3: Giant Egg Leads, Rice Waterfall Follows
+Camera looks straight down from cabin. Giant ostrich egg rapidly recedes along its downward trajectory, spinning slowly, oval contour and milky-white shell remaining clear, continuously shrinking with distance.
+
+A dense white waterfall of rice cascades from the top of the frame right behind it. Rice stream pours from the opening, initially concentrated into a column, then spread slightly by wind into an arc, chasing the egg toward the exact same lava pool. Distinct rice grains visible up close, fine white particulate stream in the distance.
+
+Man raises the bottom of the bag, emptying remaining rice as the bag collapses completely. After the last trickle falls, he pulls the empty bag back, exiting the top of the frame. Angled metal threshold remains visible in bottom left corner, confirming camera remains inside the high-altitude cabin.
+
+Giant egg hits the lava surface first, shell cracking open along the contact zone, translucent egg white and deep yellow yolk briefly spreading before being swallowed by surging lava; following rice rains into the exact same spot like dense white hail. Shell fragments sink into the impact point, no high-altitude debris.
+
+SFX: Continuous rustling of pouring rice, rushing wind, distant muffled crack and impact splash.
+
+[00:04.60–00:07.20] Action Segment 4: Lava Engulfs Ingredients, Brief Pause Then Stir-Frying Begins
+Camera maintains top-down view, impact zone centered. Giant egg and white rice fully submerged by lava, surface briefly returning to churning orange-red molten state, creating a tense "as if nothing happened" pause.
+
+Then fine bubbles and a small amount of white steam rise from the impact point, surrounding molten surface swirling toward the center, forming a broad, slowly spinning depression. Inside the depression, golden flecks appear, followed by increasingly distinct rice grains and fluffy scrambled egg bits, churning up and falling back in rotation, as if a giant stir-fry is underway inside the volcano.
+
+Impact point transitions from orange-red to a golden granular mass, center beginning to swell upward. Surrounding black volcanic rock and outer lava remain stable and visible; the whole volcano does not suddenly turn into a cooking wok.
+
+SFX: Deep churning lava rumbling layering with intensifying sizzling sounds, continuous rotor drone maintained.
+
+[00:07.20–00:09.20] Action Segment 5: Volcano Violently Erupts Massive Egg Fried Rice
+Central golden zone violently arches upward, followed by a massive geyser of egg fried rice erupting violently from the exact impact point, forming a thick golden food fountain.
+
+Erupting mass distinctly recognizable as fried rice: abundant plump golden rice grains, various sizes of yellow scrambled egg chunks, and scattered scallions mixed together, enveloped in light white steam. Continuous surging from base, upper clumps breaking apart into countless individual grains, forming an expanding parabolic umbrella.
+
+As fried rice approaches high altitude, foreground particles become larger and sharper. Camera tilts up slightly to track, then shakes in shock and retreats into the cabin. First few rice grains and egg bits cross the threshold, bouncing across the metal floor.
+
+SFX: Short muffled explosive pop, dense pattering of colliding food particles, surprised gasps from the duo off-camera.
+
+[00:09.20–00:11.50] Action Segment 6: Fried Rice Rain Pours In, Duo Showered Completely
+Camera smoothly backs up and turns toward cabin interior, re-framing both individuals. Woman ducks her head and hunches her shoulders, raising hands before her face; man has discarded the empty bag, gripping an interior handle with one hand and blocking his forehead with his forearm. Both step backward simultaneously, clearing the doorway.
+
+A torrent of egg fried rice rains in from outside the cargo door like dense granular hail. Rice grains and egg chunks strike their forearms, shoulders, and heads, tumbling down chests and pant legs. Grains cling to hair, headsets, fabric folds, and harness straps, piling a light layer on their shoulders, with soft egg bits stuck to hair and collars.
+
+Fried rice simultaneously litters the floor and seats, scattering upon impact with cushions, bouncing repeatedly on the metal threshold. Floor rapidly gets covered in a layer of golden rice, seat crevices packed with grains. One or two grains stick to lens edge, central frame remaining clear.
+
+Food geyser gradually subsides; both stand securely inside, lowering shielding arms, looking down at their messy state. Only egg fried rice enters the cabin, completely free of lava, flames, or volcanic rocks.
+
+SFX: Dense pattering, clicking, and thumping of food impacts, short surprised laughter/exclamations, persistent low-frequency rotor thrum.
+
+[00:11.50–00:15.00] Action Segment 7: Pinching Fried Rice Off Clothes, Tasting and Saying "Zhen Xiang"
+Camera stabilizes in medium two-shot. Both have hair, headsets, shoulders, and shirts coated in golden rice grains and scrambled egg chunks; floor and seats behind them piled with fried rice.
+
+Man looks down at his chest, pinching a few clumped rice grains off his shirt with thumb and forefinger, lifting them to eye level with a skeptical, curious expression. Woman stands beside him, tracking his hand with her eyes, holding back laughter.
+
+Camera gently pushes toward the man. He puts the fried rice into his mouth, closes his lips, and chews gently twice. Eyebrows raise slightly, eyes light up, breaking into a satisfied smile. Swallowing, he looks straight into the camera lens and says clearly and naturally in Mandarin Chinese: “真香” ("Zhen xiang").
+
+Mouth shapes for “真香” accurately synchronized with audio, delivered with a comedic, pleasantly surprised tone, speaking only after chewing. Hearing this, the woman bursts into laughter, and the man grins widely, a few grains on his shoulder dislodging with his laughter.
+
+Ending on the man covered in fried rice smiling contentedly at the camera, woman still visible at side of frame. Fried rice on both people and cabin remains intact, not suddenly cleaned. 
+
+SFX: Subtle fabric rustling, brief chewing sound, clear spoken Mandarin “真香”, followed by woman's laughter. Rotor volume dips slightly during speech, keeping cabin ambiance. No background music, no subtitles displayed.
+
+【Continuity & Framing Constraints】
+Woman strictly handles the giant ostrich egg; man strictly handles the rice bag, never swapping props. Egg dropped first, followed immediately by rice, both entering the exact same impact spot. Only one giant egg and one bag of rice appear; empty bag retrieved back into cabin.
+
+Giant egg falls intact after release, cracking only upon lava impact. Rice pours as a continuous granular stream, bag gradually collapsing. Brief pause after ingredients land before churning and eruption begin; fried rice cannot materialize out of thin air inside cabin.
+
+Egg fried rice consistently displays defined rice grains and scrambled egg chunks; erupting, flying, colliding, bouncing, and accumulating naturally, without turning into foam, yellow liquid, or smoke columns. Ending maintains fried rice on hair, headsets, shoulders, clothes, floor, and seats.
+
+Man must pinch attached rice directly from his own clothes, put into mouth, chew, swallow, then face camera to say “真香”. No bowls, spoons, or extra food appear. The only spoken dialogue is the man's Mandarin phrase “真香”.
+
+Preserve consistency in duo's appearance, clothing, safety gear, cabin structure, and volcano location. Continuous handheld shot throughout, no subtitles, no watermarks, no voiceover, no background music.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098242830661792189"></a>
 

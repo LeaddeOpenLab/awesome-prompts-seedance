@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**40** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**41** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -327,7 +327,7 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2098257195347616210"></a>
 
-### Übersetzung läuft
+### Generiere eine filmreife Schnittanweisung basierend auf dem Referenzbild mit 20 verschiedenen Kamerapositionen, schnellen harten Schnitten und konsistentem Motiv.
 
 Autor：[@0xkyne](https://x.com/0xkyne) · [Originalbeitrag](https://x.com/0xkyne/status/2098257195347616210)
 
@@ -335,14 +335,14 @@ Fotografie · Kinematisch / Filmstill · Veröffentlicht
 
 Originalbeitrag：[@Framer\_X](https://x.com/Framer_X) · [Originalbeitrag](https://x.com/Framer_X/status/2097866934725583101)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Generiere eine filmreife Schnittanweisung basierend auf dem Referenzbild mit 20 verschiedenen Kamerapositionen, schnellen harten Schnitten und konsistentem Motiv.
 
 <img src="covers/2098257195347616210.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine schnell geschnittene filmische Demonstration von Kamerawinkeln für das Referenzbild\n\nGesamtzahl der Aufnahmen: 20\n\nHalte Figur, Umgebung, Kleidung, Beleuchtung, Handlung und die Gesamtszene während des gesamten Videos vollkommen konsistent. Ändere nicht den Ort und füge keine neuen Elemente hinzu.\n\nVerwende 20 deutlich unterschiedliche Kameraeinstellungen, darunter:\n\nExtrem weite Totale, etablierende Weitwinkelaufnahme, Halbtotale, mittlere Einstellung, Halbnaheinstellung, Nahaufnahme, extrem nahe Detailaufnahme, Untersicht (Low Angle), extreme Untersicht, Aufsicht (High Angle), Overhead-Aufnahme, Top-Down-Aufnahme, Aufnahme auf Bodenhöhe, Aufnahme auf Augenhöhe, Dutch Angle (gekippte Perspektive), Profilaufnahme, Dreiviertelperspektive, frontale Aufnahme, Rückenansicht, Over-the-Shoulder-Aufnahme, umgekehrte Over-the-Shoulder-Aufnahme, Seitenwinkel, gerahmte Aufnahme durch den Vordergrund, Teleobjektiv-Aufnahme, Weitwinkel-Nahaufnahme, symmetrische Komposition, außermittige Komposition, Verfolgungswinkel, kreisender Winkel (Orbit) und dramatische perspektivische Aufnahmen.\n\nWichtige Hinweise:\n\n- Verwende zwischen je zwei Aufnahmen einen harten Schnitt (Hard Cut).\n\n- Kein Kamerawinkel darf länger als 1 Sekunde dauern.\n\n- Wiederhole keinen Kamerawinkel oder Bildaufbau.\n\n- Erstelle keine langen, kontinuierlichen Kamerabewegungen zwischen den Winkeln.\n\n- Die Handlung sollte über alle Schnitte hinweg kontinuierlich bleiben.\n\n- Verändere nur Kameraposition, Kamerawinkel, Objektiv und Bildausschnitt.\n\n- Motiv und Szene müssen visuell konsistent bleiben.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1101,6 +1101,28 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098273068317893063"></a>
+
+### Übersetzung läuft
+
+Autor：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https://x.com/TanLuAI/status/2098273068317893063)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098273068317893063.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098242830661792189"></a>
 

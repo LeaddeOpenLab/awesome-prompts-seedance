@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**40** Prompts · Dernier ajout: **2026-09-11**
+**41** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -327,7 +327,7 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2098257195347616210"></a>
 
-### Traduction en cours
+### Générez des instructions de changement de plans cinématographiques basées sur l'image de référence, comprenant 20 positions de caméra distinctes, des coupes franches rapides et une cohérence du sujet.
 
 Auteur：[@0xkyne](https://x.com/0xkyne) · [Publication originale](https://x.com/0xkyne/status/2098257195347616210)
 
@@ -335,14 +335,14 @@ Photographie · Image cinématographique / Photogramme de film · Publié
 
 Publication originale：[@Framer\_X](https://x.com/Framer_X) · [Publication originale](https://x.com/Framer_X/status/2097866934725583101)
 
-**Résumé:** Traduction en cours
+**Résumé:** Générez des instructions de changement de plans cinématographiques basées sur l'image de référence, comprenant 20 positions de caméra distinctes, des coupes franches rapides et une cohérence du sujet.
 
 <img src="covers/2098257195347616210.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une présentation cinématographique d'angles de caméra à coupe rapide pour l'image de référence\n\nNombre total de plans : 20\n\nMaintenez le personnage, l'environnement, les vêtements, l'éclairage, l'action et la scène générale parfaitement cohérents tout au long de la vidéo. Ne modifiez pas l'emplacement et n'introduisez pas de nouveaux éléments.\n\nUtilisez 20 configurations de plans nettement distinctes, comprenant :\n\nPlan d'ensemble extrême, plan large d'établissement, plan moyen large, plan moyen, plan rapproché taille, gros plan, très gros plan, plongée, contre-plongée, contre-plongée extrême, vue zénithale (overhead), plan de haut en bas, plan au ras du sol, plan à hauteur des yeux, plan cassé (angle hollandais), plan de profil, angle de trois-quarts, plan de face direct, angle arrière, plan par-dessus l'épaule, plan par-dessus l'épaule inversé, angle côte à côte, plan cadré par le premier plan, plan au téléobjectif, gros plan au grand-angle, composition symétrique, composition décentrée, angle de poursuite (travelling), angle orbital et angle à perspective dramatique.\n\nPoints importants :\n\n- Utilisez une coupe franche (hard cut) entre chaque plan.\n\n- Aucun angle de caméra ne doit durer plus d'une seconde.\n\n- Ne répétez aucun angle de caméra ni aucune composition.\n\n- Ne créez pas de mouvement de caméra continu et prolongé entre les angles.\n\n- L'action doit rester continue à travers toutes les coupes.\n\n- Modifiez uniquement la position de la caméra, l'angle de prise de vue, l'objectif et le cadrage.\n\n- Le sujet et la scène doivent rester visuellement cohérents.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1101,6 +1101,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098273068317893063"></a>
+
+### Traduction en cours
+
+Auteur：[@TanLuAI](https://x.com/TanLuAI) · [Publication originale](https://x.com/TanLuAI/status/2098273068317893063)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098273068317893063.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098242830661792189"></a>
 
