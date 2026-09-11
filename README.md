@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**62** Prompts · Latest addition: **2026-09-11**
+**63** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098461817555374451"></a>
+
+### Full-workflow instructions for a GTA-style car chase, guiding Blender gray-model and animation creation with PixVerse generating the final video.
+
+Author：[@Aria\_Nawi](https://x.com/Aria_Nawi) · [Source](https://x.com/Aria_Nawi/status/2098461817555374451)
+
+Cinematic / Film Still · 3D Render · Vehicle · Published
+
+**Summary:** Full-workflow instructions for a GTA-style car chase, guiding Blender gray-model and animation creation with PixVerse generating the final video.
+
+<img src="covers/2098461817555374451.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an original GTA-inspired cartoon car chase using this workflow: Design: Define one main driver, one getaway car, one pursuing car, and one urban environment. Keep their designs consistent. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn, and a wide exit shot. Build in Blender: Create clean gray models and functional character and vehicle rigs. No textures or UV unwrapping are required. Animate and test: Animate the driver, steering, wheel rotation, vehicles, and cameras. Maintain coherent travel direction and vehicle order. Fix clipping, floating wheels, sliding tires, broken poses, and hands losing contact with the steering wheel. Render in Blender: Render frames 1–288 at 1280×720, 24 fps. Assemble actual Blender-rendered frames into a complete 12-second gray-model master. Export each shot separately and render matching gray stills as shape and composition references. Finish with PixVerse Plugin: Use Seedance 2.5 at 720p, processing each shot separately. Use the Blender clips as motion references and the gray stills as shape references. Define a consistent cartoon color palette in the generation prompt. Preserve camera movement, action timing, character and vehicle designs, and vehicle count. Review and deliver: Inspect both complete videos for visual defects and continuity. Repair Blender issues and regenerate only failed Seedance shots, with at most two retries per shot. Deliver the editable .blend, the native 720p Blender gray-model video, the separately labeled 720p Seedance version, and a brief assessment of remaining limitations.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098450393277595841"></a>
 
