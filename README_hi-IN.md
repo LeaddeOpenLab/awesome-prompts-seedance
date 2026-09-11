@@ -19,7 +19,7 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**47** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-11**
+**48** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1436,6 +1436,30 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 <a name="category-other"></a>
 
 ## अन्य
+
+<a name="prompt-2098306219903492133"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@yourPlugAI](https://x.com/yourPlugAI) · [मूल पोस्ट](https://x.com/yourPlugAI/status/2098306219903492133)
+
+कॉमिक / स्टोरीबोर्ड · प्रोडक्ट मार्केटिंग · कैरेक्टर · उत्पाद · प्रकाशित
+
+मूल पोस्ट：[@yourPlugAI](https://x.com/yourPlugAI) · [मूल पोस्ट](https://x.com/yourPlugAI/status/2098049745885225020)
+
+**सारांश:** अनुवाद जारी है
+
+<img src="covers/2098306219903492133.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
 
 <a name="prompt-2098284373372018792"></a>
 

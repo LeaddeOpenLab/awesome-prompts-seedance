@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**47** Prompts · Latest addition: **2026-09-11**
+**48** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1696,6 +1696,55 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098306219903492133"></a>
+
+### 15-second botanical perfume luxury commercial storyboard prompt, including macro dewdrops, product close-ups, character monologue, and brand outro.
+
+Author：[@yourPlugAI](https://x.com/yourPlugAI) · [Source](https://x.com/yourPlugAI/status/2098306219903492133)
+
+Comic / Storyboard · Product Marketing · Character · Product · Published
+
+Source：[@yourPlugAI](https://x.com/yourPlugAI) · [Source](https://x.com/yourPlugAI/status/2098049745885225020)
+
+**Summary:** 15-second botanical perfume luxury commercial storyboard prompt, including macro dewdrops, product close-ups, character monologue, and brand outro.
+
+<img src="covers/2098306219903492133.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+15-Second Sequential Video Prompt
+
+0 to 3 Seconds (The Hook)
+Visual: Extreme macro tilt-up shot through vibrant green tropical leaves dripping with morning dew drops. Sunlight flares brightly into the lens, illuminating floating pollen and water particles.
+Action: Dewdrops slide down a large palm leaf and splash onto raw stone in hyper-realistic slow motion, instantly sending micro-droplets upward.
+Sound: Deep organic woodwind harmony opening into a crisp, hyper-detailed splash sound effect paired with gentle birdsong and rustling leaves.
+
+3 to 6 Seconds (The Product Reveal)
+Visual: Smooth camera orbit around a frosted glass perfume bottle standing upright on a mossy basalt rock surrounded by blooming wild orchids.
+Action: A fine, dew-like botanical mist sprays cleanly from the side nozzle, dispersing horizontally while crisp sunlight catches every micro-droplet, creating a subtle rainbow prism effect.
+Sound: Clean, metallic pump spray click followed by a refreshing, atmospheric rush of mist audio and a gentle breeze swoosh.
+
+6 to 9 Seconds (The Character Dialogue)
+Visual: Medium shot of the woman standing in a sun-drenched botanical glasshouse, gently brushing a green fern leaf away from her face and looking directly into the camera lens with a serene, confident gaze.
+Action: She tilts her head slightly into the sunlight, her face relaxed and perfectly steady, speaking her line naturally with a soft smile.
+Sound: Soft, earthy acoustic string chord beneath a warm, breathy voiceover: "Breathe the wild."
+
+9 to 12 Seconds (The Sensory Surge)
+Visual: Fast-forward blooming sequence where golden flower petals unfurl around the perfume bottle, merging seamlessly with swirling sunlight and green leaves in dynamic motion physics.
+Action: Earthy moss and flower petals rise softly into the air surrounding the bottle, creating a weightless, natural float effect.
+Sound: Uplifting acoustic melody swell paired with a soft swooshing air transition and gentle rustling textures.
+
+12 to 15 Seconds (The Brand Outro)
+Visual: Centered hero shot of the frosted glass bottle standing upright on a sunlit marble slab amidst fresh green moss and morning dew. The engraved branding "GILBERTO" stands out in crisp golden typography.
+Action: Morning light sweeps smoothly across the bottle from left to right as delicate botanical mist settles at the base.
+Sound: Warm, grounded acoustic chime lingering into a soft fadeout.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098284373372018792"></a>
 

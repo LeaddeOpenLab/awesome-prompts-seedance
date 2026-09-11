@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**47** Prompt · Ultima aggiunta: **2026-09-11**
+**48** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1306,6 +1306,30 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098306219903492133"></a>
+
+### Traduzione in corso
+
+Autore：[@yourPlugAI](https://x.com/yourPlugAI) · [Post originale](https://x.com/yourPlugAI/status/2098306219903492133)
+
+Fumetto / Storyboard · Marketing di Prodotto · Personaggio · Prodotto · Pubblicato
+
+Post originale：[@yourPlugAI](https://x.com/yourPlugAI) · [Post originale](https://x.com/yourPlugAI/status/2098049745885225020)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098306219903492133.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098284373372018792"></a>
 
