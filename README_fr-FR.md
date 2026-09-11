@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**59** Prompts · Dernier ajout: **2026-09-11**
+**60** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,28 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 ## Image cinématographique / Photogramme de film
 
+<a name="prompt-2098447487266914317"></a>
+
+### Traduction en cours
+
+Auteur：[@liluocheng13](https://x.com/liluocheng13) · [Publication originale](https://x.com/liluocheng13/status/2098447487266914317)
+
+Bande dessinée / Storyboard · Photographie · Image cinématographique / Photogramme de film · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098447487266914317.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2098432763368178141"></a>
 
 ### Instruction de génération complète du flux de travail pour une scène cinématographique de poursuite urbaine en trois plans, basée sur la prévisualisation Blender et le rendu PixVerse.
@@ -349,20 +371,20 @@ Créez une course-poursuite en voiture originale, photoréaliste et cinématogra
 
 <a name="prompt-2098432658166694305"></a>
 
-### Traduction en cours
+### Prompt de workflow combinant animation Blender et rendu IA pour une course-poursuite en voiture style GTA.
 
 Auteur：[@Mapunda\_01](https://x.com/Mapunda_01) · [Publication originale](https://x.com/Mapunda_01/status/2098432658166694305)
 
 Image cinématographique / Photogramme de film · Rendu 3D · Véhicule · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de workflow combinant animation Blender et rendu IA pour une course-poursuite en voiture style GTA.
 
 <img src="covers/2098432658166694305.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une course-poursuite en voiture originale inspirée de GTA avec un rendu cinématographique en prise de vues réelles et photoréaliste. Concevez le conducteur, deux voitures et un environnement urbain. Planifiez trois plans de 4 secondes : poursuite en travelling arrière, travelling latéral dans un virage serré et plan large de sortie. Construisez la scène et l'animation dans Blender, y compris les véhicules, la rotation des roues, la direction, les mouvements du conducteur et les caméras. Rendez la vidéo complète du modèle gris de 12 secondes en 1280×720 et 24 ips. Utilisez ensuite le plugin PixVerse avec Seedance 2.5 pour transformer la première image grise de chaque plan en une référence cinématographique photoréaliste tout en préservant la composition, la perspective, les positions des sujets et le nombre de véhicules. Utilisez chaque référence cinématographique avec sa vidéo Blender correspondante pour générer les plans finaux tout en conservant l'identité des véhicules, les couleurs, les mouvements de caméra, les trajectoires et le timing de l'action.
 ```
 
 [↑ Retour aux catégories](#catalog)

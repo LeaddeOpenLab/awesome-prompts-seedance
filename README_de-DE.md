@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**59** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**60** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,28 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 ## Kinematisch / Filmstill
 
+<a name="prompt-2098447487266914317"></a>
+
+### Übersetzung läuft
+
+Autor：[@liluocheng13](https://x.com/liluocheng13) · [Originalbeitrag](https://x.com/liluocheng13/status/2098447487266914317)
+
+Comic / Storyboard · Fotografie · Kinematisch / Filmstill · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098447487266914317.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2098432763368178141"></a>
 
 ### Vollständige Workflow-Generierungsanweisung für eine filmreife dreiteilige Verfolgungsjagd in der Stadt, basierend auf Blender-Previsualisierung und PixVerse-Rendering.
@@ -349,20 +371,20 @@ Erstellen Sie eine originelle, fotorealistische, filmreife Autoverfolgungsjagd m
 
 <a name="prompt-2098432658166694305"></a>
 
-### Übersetzung läuft
+### Workflow-Prompt für eine Verfolgungsjagd im GTA-Stil mit Blender-Animation und KI-Rendering.
 
 Autor：[@Mapunda\_01](https://x.com/Mapunda_01) · [Originalbeitrag](https://x.com/Mapunda_01/status/2098432658166694305)
 
 Kinematisch / Filmstill · 3D-Rendering · Fahrzeug · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Workflow-Prompt für eine Verfolgungsjagd im GTA-Stil mit Blender-Animation und KI-Rendering.
 
 <img src="covers/2098432658166694305.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine originelle, von GTA inspirierte Verfolgungsjagd mit fotorealistischem Live-Action-Kino-Finish. Entwirf den Fahrer, zwei Autos und eine städtische Umgebung. Plane drei 4-Sekunden-Einstellungen: Verfolgung mit Verfolgungskamera von hinten, seitliche Verfolgung durch eine scharfe Kurve und eine weite Ausfahrts-Totale. Baue die Szene und die Animation in Blender auf, einschließlich Fahrzeuge, Raddrehung, Lenkung, Fahrerbewegung und Kameras. Rendere das vollständige 12-Sekunden-Graumodell-Video mit 1280×720 und 24 fps. Verwende dann das PixVerse-Plugin mit Seedance 2.5, um das graue erste Einzelbild jeder Einstellung in eine fotorealistische filmische Referenz umzuwandeln, wobei Komposition, Perspektive, Objektpositionen und Fahrzeuganzahl beibehalten werden. Verwende jede filmische Referenz zusammen mit dem entsprechenden Blender-Video, um die finalen Aufnahmen zu generieren, während Fahrzeugidentität, Farben, Kamerabewegung, Trajektorien und Action-Timing erhalten bleiben.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**59** Prompts · Última incorporación: **2026-09-11**
+**60** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,28 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 ## Cine / Fotograma
 
+<a name="prompt-2098447487266914317"></a>
+
+### Traducción en curso
+
+Autor：[@liluocheng13](https://x.com/liluocheng13) · [Publicación original](https://x.com/liluocheng13/status/2098447487266914317)
+
+Cómic / Guion gráfico · Fotografía · Cine / Fotograma · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098447487266914317.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2098432763368178141"></a>
 
 ### Instrucción de generación de flujo completo para una persecución cinematográfica urbana de tres tomas basada en previsualización de Blender y renderizado de PixVerse.
@@ -349,20 +371,20 @@ Crea una persecución de autos cinematográfica, original y fotorrealista utiliz
 
 <a name="prompt-2098432658166694305"></a>
 
-### Traducción en curso
+### Prompt de flujo de trabajo que combina animación en Blender y renderizado por IA para una persecución de autos estilo GTA.
 
 Autor：[@Mapunda\_01](https://x.com/Mapunda_01) · [Publicación original](https://x.com/Mapunda_01/status/2098432658166694305)
 
 Cine / Fotograma · Renderizado 3D · Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de flujo de trabajo que combina animación en Blender y renderizado por IA para una persecución de autos estilo GTA.
 
 <img src="covers/2098432658166694305.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una persecución de autos original inspirada en GTA con un acabado cinematográfico hiperrealista de acción real. Diseña al conductor, dos autos y el entorno urbano. Planifica tres tomas de 4 segundos: persecución con seguimiento trasero, seguimiento lateral a través de una curva cerrada y una toma abierta de salida. Construye la escena y la animación en Blender, incluyendo vehículos, rotación de ruedas, dirección, movimiento del conductor y cámaras. Renderiza el video completo de modelo gris de 12 segundos a 1280×720 y 24 fps. Luego utiliza el complemento PixVerse con Seedance 2.5 para transformar el primer fotograma gris de cada toma en una referencia cinematográfica fotorrealista preservando la composición, perspectiva, posiciones de los sujetos y el conteo de vehículos. Utiliza cada referencia cinematográfica junto con su video de Blender correspondiente para generar las tomas finales manteniendo la identidad de los vehículos, colores, movimiento de cámara, trayectorias y tiempos de acción.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**59** Prompt · Ultima aggiunta: **2026-09-11**
+**60** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,28 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 ## Fermo immagine cinematografico / Still fotografico
 
+<a name="prompt-2098447487266914317"></a>
+
+### Traduzione in corso
+
+Autore：[@liluocheng13](https://x.com/liluocheng13) · [Post originale](https://x.com/liluocheng13/status/2098447487266914317)
+
+Fumetto / Storyboard · Fotografia · Fermo immagine cinematografico / Still fotografico · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098447487266914317.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098432763368178141"></a>
 
 ### Istruzione per la generazione dell'intero flusso di lavoro di un inseguimento d'auto urbano cinematografico a tre inquadrature basato su previsualizzazione in Blender e rendering in PixVerse.
@@ -349,20 +371,20 @@ Crea un inseguimento d'auto originale, fotorealistico e cinematografico utilizza
 
 <a name="prompt-2098432658166694305"></a>
 
-### Traduzione in corso
+### Prompt per workflow che combina animazione Blender e rendering AI per un inseguimento d'auto in stile GTA.
 
 Autore：[@Mapunda\_01](https://x.com/Mapunda_01) · [Post originale](https://x.com/Mapunda_01/status/2098432658166694305)
 
 Fermo immagine cinematografico / Still fotografico · Rendering 3D · Veicolo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per workflow che combina animazione Blender e rendering AI per un inseguimento d'auto in stile GTA.
 
 <img src="covers/2098432658166694305.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un inseguimento d'auto originale ispirato a GTA con una finitura cinematografica live-action e fotorealistica. Progetta il guidatore, due auto e l'ambiente urbano. Pianifica tre inquadrature da 4 secondi: inseguimento con tracking posteriore, tracking laterale attraverso una curva a gomito e un'inquadratura ampia di uscita. Costruisci la scena e l'animazione in Blender, inclusi veicoli, rotazione delle ruote, sterzata, movimento del guidatore e telecamere. Esegui il rendering del video completo a modello grigio di 12 secondi a 1280×720 e 24 fps. Usa quindi il plugin PixVerse con Seedance 2.5 per trasformare il primo fotogramma grigio di ciascuna inquadratura in un riferimento cinematografico fotorealistico preservando composizione, prospettiva, posizioni dei soggetti e conteggio dei veicoli. Usa ciascun riferimento cinematografico insieme al relativo video di Blender per generare le inquadrature finali mantenendo identità dei veicoli, colori, movimento della telecamera, traiettorie e tempismo dell'azione.
 ```
 
 [↑ Torna alle categorie](#catalog)

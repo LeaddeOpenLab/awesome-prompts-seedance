@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**59** Prompts · Última adição: **2026-09-11**
+**60** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -311,6 +311,28 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 ## Cinematográfico / Imagem de Filme
 
+<a name="prompt-2098447487266914317"></a>
+
+### Tradução em andamento
+
+Autor：[@liluocheng13](https://x.com/liluocheng13) · [Publicação original](https://x.com/liluocheng13/status/2098447487266914317)
+
+Quadrinhos / Storyboard · Fotografia · Cinematográfico / Imagem de Filme · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098447487266914317.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098432763368178141"></a>
 
 ### Instrução de geração de fluxo completo para cena cinematográfica de perseguição policial urbana em três planos, baseada em prévia no Blender e renderização no PixVerse.
@@ -335,20 +357,20 @@ Crie uma perseguição de carros cinematográfica, original e fotorrealista util
 
 <a name="prompt-2098432658166694305"></a>
 
-### Tradução em andamento
+### Prompt de fluxo de trabalho combinando animação no Blender e renderização por IA para perseguição de carros no estilo GTA.
 
 Autor：[@Mapunda\_01](https://x.com/Mapunda_01) · [Publicação original](https://x.com/Mapunda_01/status/2098432658166694305)
 
 Cinematográfico / Imagem de Filme · Renderização 3D · Veículo · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de fluxo de trabalho combinando animação no Blender e renderização por IA para perseguição de carros no estilo GTA.
 
 <img src="covers/2098432658166694305.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma perseguição de carros original inspirada em GTA com acabamento cinematográfico live-action fotorrealista. Crie o motorista, dois carros e o ambiente urbano. Planeje três tomadas de 4 segundos: perseguição com rastreamento traseiro, rastreamento lateral em uma curva fechada e uma tomada aberta de saída. Construa a cena e a animação no Blender, incluindo veículos, rotação das rodas, direção, movimento do motorista e câmeras. Renderize o vídeo completo do modelo cinza de 12 segundos em 1280×720 e 24 fps. Em seguida, use o plugin PixVerse com Seedance 2.5 para transformar o primeiro quadro cinza de cada tomada em uma referência cinematográfica fotorrealista, preservando a composição, a perspectiva, as posições dos indivíduos e a contagem de veículos. Use cada referência cinematográfica junto com o vídeo correspondente do Blender para gerar as tomadas finais, mantendo a identidade dos veículos, as cores, o movimento da câmera, as trajetórias e o ritmo da ação.
 ```
 
 [↑ Voltar às categorias](#catalog)

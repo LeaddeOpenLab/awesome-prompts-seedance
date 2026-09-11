@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**59** Prompts · Latest addition: **2026-09-11**
+**60** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,72 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098447487266914317"></a>
+
+### Wuxia Temple Sword Duel Generation Prompt with Core Choreography Principles, Second-by-Second Storyboard Script, and Negative Controls
+
+Author：[@liluocheng13](https://x.com/liluocheng13) · [Source](https://x.com/liluocheng13/status/2098447487266914317)
+
+Comic / Storyboard · Photography · Cinematic / Film Still · Published
+
+**Summary:** Wuxia Temple Sword Duel Generation Prompt with Core Choreography Principles, Second-by-Second Storyboard Script, and Negative Controls
+
+<img src="covers/2098447487266914317.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+【Core Rules】
+
+1. Zero-delay transitions: Zero buffering between moves; before one strike lands, the next has already been unleashed, with blades maintaining continuous, high-frequency contact.
+2. Action-driven scene transitions (Crucial): Any scene change (pillar shaft → ground → beam → grand hall) must be executed through specific physical actions of the characters—e.g., "the male protagonist is knocked back, slamming into a palace pillar," "the female protagonist uses momentum to flip down from the pillar top, crashing toward the ground," "the two crash through a row of candle stands while grappling and tumble down the stairs"—under no circumstances should the camera transition between scenes on its own while character movement is interrupted.
+3. Realistic sense of impact: Every clash of blades must show clear physical displacement feedback—the parrying side's arms recoil back half a step, feet slip, the body twists under kinetic force—this is not "two people standing still hacking at each other," but every single strike carrying authentic body weight and momentum.
+4. No idle camera movements: At all times, camera motions (push-in, orbit, whip pan) must follow specific ongoing physical movements of the characters; having characters stand motionless while the camera orbits or rotates on its own is strictly forbidden.
+5. Repertoire of close-quarters hazardous moves: The entire sequence incorporates the following specific moves without repetition:
+• Low-to-ground evasion: One swings a horizontal slash, the other snaps backward almost flush with the ground, the blade barely skimming past the tip of the nose, shearing off strands of hair
+• Thrust counterattack: While evading, executing a backhand thrust, the sword tip lunging straight out
+• Spinning parry: The target of the thrust rapidly spins in place to dodge, simultaneously flipping the wrist to parry the next blow
+• Roll-and-rise counter: The fighter knocked to the ground rolls across the floor, harnessing rotational force to thrust out a direct counterattack
+• Entangled blade lock: After the two swords entangle, both fighters grapple shoulder-to-shoulder at close range, then suddenly break away simultaneously to push off and reset their stances
+
+【Storyboard Control 0:00–0:30, continuous action throughout with zero jump cuts】
+
+[0:00–0:02] 35mm wide-angle, low-angle ground dolly shot, tightly tracking the character sprints
+The female protagonist and male protagonist sprint at full speed toward each other from opposite ends of the grand hall, colliding with full force the instant their blades clash in the center of the hall; the shockwave jolts both back half a step, the floor tiles cracking beneath their feet and sending up debris—starting immediately with a full-force collision, zero buildup.
+
+[0:02–0:07] 50mm medium shot shifting to close-up, camera tightly hugging character body movement, rapid handheld tracking
+Close Combat Sequence 1: The male protagonist executes a wide horizontal slash; the female protagonist snaps backward nearly flat against the ground to dodge, the blade edge grazing just above her nose tip, slicing off loose strands of hair that drift in the air; using the rebound momentum from leaning back, she flips back up while delivering a backhand thrust toward the male protagonist's chest; the male protagonist spins rapidly to dodge while flipping his wrist to parry, blades tangling together; after grappling shoulder-to-shoulder for two seconds, both exert force simultaneously to blast apart, retreating two paces to catch their breath.
+
+[0:07–0:09] 85mm telephoto tracking shot, action-driven scene transition
+The male protagonist is propelled by the force of the separation, slamming against a dragon pillar behind him; utilizing the rebound off the pillar, he flips upward, running vertically up the pillar shaft across the coiled dragon reliefs; the female protagonist follows with an explosive leap, pursuing him up the pillar; their blades clash for two to three strikes on the pillar shaft, the blades scraping against the stone surface and leaving scorch marks.
+
+[0:09–0:12] Telephoto tracking shifting to a diving shot, falling from heights driving the scene transition
+The male protagonist is forced to the edge of the pillar-top crossbeam; the female protagonist delivers a heavy blow that knocks him back into a fall; using the momentum of his descent, the male protagonist flips in mid-air to adjust his posture, diving sword-first like an aerial assault, landing heavily back on the hall floor while swinging a horizontal slash; the female protagonist leaps down from the pillar almost simultaneously to meet the strike head-on; the swords collide with showering sparks, both of their arms visibly vibrating from the impact—here completing a seamless scene transition from the pillar to the hall floor, the entire action uninterrupted.
+
+[0:12–0:17] 50mm close-up, camera continuously tracking character limb movements, no empty scenery transitions
+Close Combat Sequence 2 (the most intense exchange before the climax): The female protagonist executes three consecutive directional slashes, each faster than the last—the male protagonist dodges the first by leaning sideways, ducks low along the ground for the second, and for the third ducks completely beneath her blade to close the distance, executing a reverse horizontal slash toward her flank; the female protagonist executes an aerial backflip to narrowly evade, a corner of her hem sliced open by sword qi the moment she lands; the male protagonist presses in with a direct thrust as she lands; the female protagonist leans sideways just enough for the sword tip to graze past her shoulder, the fabric splitting on contact, as she simultaneously delivers a heavy counter-strike that causes the male protagonist's blade to ring out in metallic agony, his grip nearly torn as he recoils two paces.
+
+[0:17–0:21] Ultra-wide tracking shot, violent grappling colliding into the environment
+The two cross blades in a close-quarters lock, then suddenly disengage and recoil, only to violently lunge at each other again almost simultaneously—this charge knocks down a row of nearby candle stands; the flames are extinguished upon impact only to be reignited by the shockwaves of sword qi; the two continue their close-quarters brawl amidst falling candle stands and splashing candle wax, the blade clashes generating dense sparks, kicking up mist from puddles on the floor.
+
+[0:21–0:26] Alternating close-ups and wide shots, cutting follows the rhythm of offense and defense (no idle camera motion)
+The tempo of techniques reaches the absolute peak of the sequence: slashes, thrusts, parries, and counters occur consecutively within two to three seconds, every collision accompanied by distinct physical feedback—the female protagonist stumbles half a step from an impact and immediately retaliates with a backhand strike; the male protagonist forces a counterattack even as his arms shudder violently from parrying; blue and green sword qi interweave into spiraling streams of light; the sounds of heavy breathing and clashing steel weave into an intense rhythm, with not a single frame showing characters at rest.
+
+[0:26–0:29] Ultra-wide establishing shot, violent camera shake, following the final collision
+At the moment their blades meet, both unleash their full power in a single decisive strike; the collision of energies erupts into a tide of interweaving blue and green light sweeping across the entire hall; the shockwave blasts both backward several meters, cracking floor tiles and pillars, extinguishing candles across the hall, filling the entire sanctuary with smoke and dust; after violent camera shaking, the frame gradually blurs into overexposed white.
+
+[0:29–0:30] Static shot, the scene gradually slows
+The smoke slowly clears; the two steady themselves, one kneeling on one knee and the other standing, chests heaving heavily, sword-wielding hands still trembling from muscular exhaustion; the surviving candle flames flicker back to life one by one; the shot freezes on an epic tableau of the two locked in a tense standoff.
+
+【Universal Constraints】
+
+Never redesign faces. Never change costumes. Never replace the temple. Never introduce additional characters. No face drift. No costume drift. No environment drift. No duplicated people. No dialogue. No narration. No subtitles. No text. No watermark. The camera must follow specific character movements at all times; camera rotation or idle panning while characters are static is strictly prohibited.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098432763368178141"></a>
 

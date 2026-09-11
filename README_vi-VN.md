@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**59** Prompt · Bổ sung mới nhất: **2026-09-11**
+**60** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -327,6 +327,28 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
+<a name="prompt-2098447487266914317"></a>
+
+### Đang dịch
+
+Tác giả：[@liluocheng13](https://x.com/liluocheng13) · [Bài gốc](https://x.com/liluocheng13/status/2098447487266914317)
+
+Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098447487266914317.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098432763368178141"></a>
 
 ### Hướng dẫn tạo quy trình hoàn chỉnh cảnh rượt đuổi xe hơi đô thị ba cảnh quay chuẩn điện ảnh dựa trên tiền kỳ Blender và kết xuất PixVerse.
@@ -351,20 +373,20 @@ Tạo một cảnh rượt đuổi xe hơi mang tính điện ảnh, chân thự
 
 <a name="prompt-2098432658166694305"></a>
 
-### Đang dịch
+### Lời nhắc quy trình làm việc hoạt ảnh Blender kết hợp kết xuất AI cho cảnh rượt đuổi xe phong cách GTA.
 
 Tác giả：[@Mapunda\_01](https://x.com/Mapunda_01) · [Bài gốc](https://x.com/Mapunda_01/status/2098432658166694305)
 
 Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc quy trình làm việc hoạt ảnh Blender kết hợp kết xuất AI cho cảnh rượt đuổi xe phong cách GTA.
 
 <img src="covers/2098432658166694305.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một cảnh rượt đuổi bằng ô tô nguyên bản lấy cảm hứng từ GTA với chất lượng hoàn thiện điện ảnh chân thực như phim người đóng. Thiết kế tài xế, hai chiếc xe và môi trường đô thị. Lên kế hoạch cho ba cảnh quay 4 giây: cảnh theo dấu từ phía sau, cảnh theo dấu bên hông khi vào khúc cua gấp và cảnh toàn khi xe thoát ra ngoài. Xây dựng bối cảnh và hoạt ảnh trong Blender, bao gồm các phương tiện, chuyển động quay của bánh xe, đánh lái, chuyển động của tài xế và máy quay. Kết xuất video mô hình xám hoàn chỉnh dài 12 giây ở độ phân giải 1280×720 và 24 khung hình/giây. Sau đó sử dụng PixVerse Plugin cùng Seedance 2.5 để chuyển đổi khung hình xám đầu tiên của mỗi cảnh quay thành hình ảnh tham chiếu điện ảnh chân thực trong khi vẫn giữ nguyên bố cục, phối cảnh, vị trí đối tượng và số lượng xe. Sử dụng từng hình ảnh tham chiếu điện ảnh cùng với video Blender tương ứng để tạo ra các cảnh quay cuối cùng trong khi vẫn duy trì nhận diện xe, màu sắc, chuyển động của máy quay, quỹ đạo và thời gian hành động.
 ```
 
 [↑ Về danh mục](#catalog)

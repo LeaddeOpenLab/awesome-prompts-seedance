@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**59** Prompt · Son eklenen: **2026-09-11**
+**60** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -311,6 +311,28 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 ## Sinematik / Film Karesi
 
+<a name="prompt-2098447487266914317"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@liluocheng13](https://x.com/liluocheng13) · [Orijinal gönderi](https://x.com/liluocheng13/status/2098447487266914317)
+
+Çizgi Roman / Hikaye Taslağı · Fotoğrafçılık · Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098447487266914317.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098432763368178141"></a>
 
 ### Blender ön görselleştirmesi ve PixVerse render'ına dayalı sinematik üç çekimli şehir içi araba kovalamacası tam süreç üretim talimatı.
@@ -335,20 +357,20 @@ Blender'dan PixVerse'e yapılandırılmış bir iş akışı kullanarak özgün,
 
 <a name="prompt-2098432658166694305"></a>
 
-### Çeviri sürüyor
+### GTA tarzı araba kovalamaca sahnesi için Blender animasyonu ve yapay zeka render iş akışı istemi.
 
 Yazar：[@Mapunda\_01](https://x.com/Mapunda_01) · [Orijinal gönderi](https://x.com/Mapunda_01/status/2098432658166694305)
 
 Sinematik / Film Karesi · 3D Modelleme · Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** GTA tarzı araba kovalamaca sahnesi için Blender animasyonu ve yapay zeka render iş akışı istemi.
 
 <img src="covers/2098432658166694305.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Fotogerçekçi, canlı aksiyon sinematik dokunuşa sahip, GTA'dan ilham alan özgün bir araba takibi sahnesi oluşturun. Sürücüyü, iki arabayı ve kentsel ortamı tasarlayın. Üç adet 4 saniyelik çekim planlayın: arkadan takip eden kovalamaca, keskin bir virajda yandan takip ve geniş bir çıkış çekimi. Araçlar, tekerlek dönüşü, direksiyon, sürücü hareketi ve kameralar dahil olmak üzere sahneyi ve animasyonu Blender'da oluşturun. 12 saniyelik gri model videosunun tamamını 1280×720 ve 24 fps'de render alın. Ardından, kompozisyonu, perspektifi, özne konumlarını ve araç sayısını koruyarak her çekimin ilk gri karesini fotogerçekçi sinematik bir referansa dönüştürmek için Seedance 2.5 ile PixVerse Eklentisini kullanın. Araç kimliğini, renkleri, kamera hareketini, yörüngeleri ve aksiyon zamanlamasını koruyarak nihai çekimleri üretmek için her sinematik referansı ilgili Blender videosuyla birlikte kullanın.
 ```
 
 [↑ Kategorilere dön](#catalog)
