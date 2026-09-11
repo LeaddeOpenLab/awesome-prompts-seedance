@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**48** Prompts · Dernier ajout: **2026-09-11**
+**49** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098319351917002812"></a>
+
+### Traduction en cours
+
+Auteur：[@codewithhajra](https://x.com/codewithhajra) · [Publication originale](https://x.com/codewithhajra/status/2098319351917002812)
+
+Image cinématographique / Photogramme de film · Véhicule · Architecture / Intérieur · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098319351917002812.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098290630179057858"></a>
 

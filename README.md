@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**48** Prompts · Latest addition: **2026-09-11**
+**49** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,48 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098319351917002812"></a>
+
+### A Hollywood action blockbuster-style rainy night alley chase scene, where a female protagonist escapes SUV pursuit and leaps across a building gap on a motorcycle.
+
+Author：[@codewithhajra](https://x.com/codewithhajra) · [Source](https://x.com/codewithhajra/status/2098319351917002812)
+
+Cinematic / Film Still · Vehicle · Architecture / Interior · Published
+
+**Summary:** A Hollywood action blockbuster-style rainy night alley chase scene, where a female protagonist escapes SUV pursuit and leaps across a building gap on a motorcycle.
+
+<img src="covers/2098319351917002812.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Character: A beautiful woman in her early 20s with natural realistic features, long dark brown hair, athletic build, wearing a sleek black tactical jacket, fitted dark pants and combat boots. She looks determined and fearless.
+
+Scene — 0–3s:
+Nighttime in a rain-soaked city alley. Neon signs reflect across the wet pavement. The woman runs toward camera as a black SUV suddenly crashes through a barricade behind her. Sparks and debris fly through the air.
+
+Scene — 3–6s:
+She quickly slides across the hood of a parked car, spins around and narrowly dodges an incoming attack. The camera follows her with a fast handheld tracking shot. Her hair and jacket move naturally with the action.
+
+Scene — 6–8s:
+She grabs a motorcycle helmet from the seat, jumps onto a sleek black motorcycle and accelerates through the alley. The SUV chases behind her, headlights cutting through the rain.
+
+Scene — 8–10s:
+The motorcycle launches off a small ramp between two buildings. Freeze-like slow motion as she flies through the air, city lights glowing behind her. She lands smoothly and speeds away.
+
+Visual style: High-end Hollywood action blockbuster, photorealistic, cinematic lighting, dramatic rain, realistic physics, practical-looking explosions, dynamic camera movement, shallow depth of field, anamorphic lens flares, detailed facial expressions, realistic skin texture, premium VFX.
+
+Camera: Fast tracking shots → low-angle action shot → close-up → wide aerial shot. Smooth but intense camera movement, cinematic motion blur.
+
+Audio: Heavy cinematic percussion, roaring motorcycle engine, tire screech, rain, impact sounds and a dramatic bass hit at the final landing.
+
+Important: Keep the same female character, face, hairstyle and outfit consistent throughout all shots. No text, no subtitles, no distorted anatomy, no extra limbs, no cartoon appearance.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098290630179057858"></a>
 
