@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T16:35:39.546Z",
+  "model": "seedance2.5",
+  "prompt": "Create an original GTA-inspired car chase with a photorealistic, live-action cinematic finish. Design the driver, two cars and urban environment. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn and a wide exit shot. Build the scene and animation in Blender, including vehicles, wheel rotation, steering, driver movement and cameras. Render the complete 12-second gray-model video at 1280×720 and 24 fps. Then use the PixVerse Plugin with Seedance 2.5 to transform each shot's gray first frame into a photorealistic cinematic reference while preserving composition, perspective, subject positions and vehicle count. Use each cinematic reference together with its corresponding Blender video to generate the final shots while maintaining vehicle identity, colors, camera movement, trajectories and action timing.",
+  "promptTranslations": {
+    "en": "Create an original GTA-inspired car chase with a photorealistic, live-action cinematic finish. Design the driver, two cars and urban environment. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn and a wide exit shot. Build the scene and animation in Blender, including vehicles, wheel rotation, steering, driver movement and cameras. Render the complete 12-second gray-model video at 1280×720 and 24 fps. Then use the PixVerse Plugin with Seedance 2.5 to transform each shot's gray first frame into a photorealistic cinematic reference while preserving composition, perspective, subject positions and vehicle count. Use each cinematic reference together with its corresponding Blender video to generate the final shots while maintaining vehicle identity, colors, camera movement, trajectories and action timing."
+  },
+  "summaryTranslations": {
+    "en": "Blender animation combined with AI rendering workflow prompt for a GTA-style car chase."
+  },
+  "translationVersion": 2,
+  "summary": "GTA风格追车戏的Blender动画结合AI渲染工作流提示词。",
+  "summaryEn": "GTA-inspired car chase Blender animation and AI rendering workflow prompt.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098432658166694305",
+    "canonicalUrl": "https://x.com/Mapunda_01/status/2098432658166694305",
+    "author": {
+      "username": "Mapunda_01",
+      "displayName": "MAPUNDA",
+      "profileUrl": "https://x.com/Mapunda_01"
+    },
+    "publishedAt": "2026-09-11T15:25:07.000Z",
+    "collectedAt": "2026-09-11T16:16:29.553Z",
+    "language": "en",
+    "originalText": "A gray Blender animation can become a photorealistic cinematic car chase.\nBlender controls the action, camera and vehicle movement, while PixVerse transforms the look with Seedance 2.5.\nMade by PixVerse. The PixVerse Plugin connects the two workflows.\n\nWatch the car chase ↓\n\nPrompt ↓\n\nCreate an original GTA-inspired car chase with a photorealistic, live-action cinematic finish. Design the driver, two cars and urban environment. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn and a wide exit shot. Build the scene and animation in Blender, including vehicles, wheel rotation, steering, driver movement and cameras. Render the complete 12-second gray-model video at 1280×720 and 24 fps. Then use the PixVerse Plugin with Seedance 2.5 to transform each shot's gray first frame into a photorealistic cinematic reference while preserving composition, perspective, subject positions and vehicle count. Use each cinematic reference together with its corresponding Blender video to generate the final shots while maintaining vehicle identity, colors, camera movement, trajectories and action timing.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Mapunda_01/status/2098432658166694305",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098432638445105152/img/K6hSnUnvsDzZ24vB.jpg",
+        "analysisUrl": "https://x.com/Mapunda_01/status/2098432658166694305"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 1,
+      "replyCount": 21,
+      "quoteCount": 0,
+      "viewCount": 8476
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Mapunda_01/status/2098432658166694305",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098432638445105152/img/K6hSnUnvsDzZ24vB.jpg",
+  "coverPath": "covers/2098432658166694305.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098432638445105152",
+    "x-post:2098432658166694305"
+  ],
+  "analysis": {
+    "summary": "GTA风格追车戏的Blender动画结合AI渲染工作流提示词。",
+    "summaryEn": "GTA-inspired car chase Blender animation and AI rendering workflow prompt.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the Blender viewport animation matching the three shots and the resulting cinematic car chase."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create an original GTA-inspired car chase with a photorealistic, live-action cinematic finish. Design the driver, two cars and urban environment. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn and a wide exit shot. Build the scene and animation in Blender, including vehicles, wheel rotation, steering, driver movement and cameras. Render the complete 12-second gray-model video at 1280×720 and 24 fps. Then use the PixVerse Plugin with Seedance 2.5 to transform each shot's gray first frame into a photorealistic cinematic reference while preserving composition, perspective, subject positions and vehicle count. Use each cinematic reference together with its corresponding Blender video to generate the final shots while maintaining vehicle identity, colors, camera movement, trajectories and action timing.",
+    "sourceRange": {
+      "start": 286,
+      "end": 1133
+    },
+    "translations": {
+      "zh": "制作一个受 GTA 启发的原创追车戏，具有逼真的真人电影质感。设计驾驶员、两辆车和城市环境。规划三个4秒镜头：后方追踪追击、急转弯侧向追踪和广角退出镜头。在 Blender 中构建场景和动画，包括车辆、车轮旋转、转向、驾驶员动作和摄像机。以 1280×720 和 24 fps 渲染完整的 12 秒灰模视频。然后使用 PixVerse 插件配合 Seedance 2.5 将每个镜头的灰色首帧转换为逼真的电影参考图，同时保留构图、透视、主体位置和车辆数量。将每个电影参考图与其对应的 Blender 视频结合使用生成最终镜头，保持车辆特征、颜色、运镜、轨迹与动作时序。",
+      "en": "Create an original GTA-inspired car chase with a photorealistic, live-action cinematic finish. Design the driver, two cars and urban environment. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn and a wide exit shot. Build the scene and animation in Blender, including vehicles, wheel rotation, steering, driver movement and cameras. Render the complete 12-second gray-model video at 1280×720 and 24 fps. Then use the PixVerse Plugin with Seedance 2.5 to transform each shot's gray first frame into a photorealistic cinematic reference while preserving composition, perspective, subject positions and vehicle count. Use each cinematic reference together with its corresponding Blender video to generate the final shots while maintaining vehicle identity, colors, camera movement, trajectories and action timing."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic 3D animation to video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "GTA-inspired"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
