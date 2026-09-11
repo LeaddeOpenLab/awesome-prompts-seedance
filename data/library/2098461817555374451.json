@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T20:23:56.850Z",
+  "model": "seedance2.5",
+  "prompt": "Create an original GTA-inspired cartoon car chase using this workflow: Design: Define one main driver, one getaway car, one pursuing car, and one urban environment. Keep their designs consistent. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn, and a wide exit shot. Build in Blender: Create clean gray models and functional character and vehicle rigs. No textures or UV unwrapping are required. Animate and test: Animate the driver, steering, wheel rotation, vehicles, and cameras. Maintain coherent travel direction and vehicle order. Fix clipping, floating wheels, sliding tires, broken poses, and hands losing contact with the steering wheel. Render in Blender: Render frames 1–288 at 1280×720, 24 fps. Assemble actual Blender-rendered frames into a complete 12-second gray-model master. Export each shot separately and render matching gray stills as shape and composition references. Finish with PixVerse Plugin: Use Seedance 2.5 at 720p, processing each shot separately. Use the Blender clips as motion references and the gray stills as shape references. Define a consistent cartoon color palette in the generation prompt. Preserve camera movement, action timing, character and vehicle designs, and vehicle count. Review and deliver: Inspect both complete videos for visual defects and continuity. Repair Blender issues and regenerate only failed Seedance shots, with at most two retries per shot. Deliver the editable .blend, the native 720p Blender gray-model video, the separately labeled 720p Seedance version, and a brief assessment of remaining limitations.",
+  "promptTranslations": {
+    "en": "Create an original GTA-inspired cartoon car chase using this workflow: Design: Define one main driver, one getaway car, one pursuing car, and one urban environment. Keep their designs consistent. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn, and a wide exit shot. Build in Blender: Create clean gray models and functional character and vehicle rigs. No textures or UV unwrapping are required. Animate and test: Animate the driver, steering, wheel rotation, vehicles, and cameras. Maintain coherent travel direction and vehicle order. Fix clipping, floating wheels, sliding tires, broken poses, and hands losing contact with the steering wheel. Render in Blender: Render frames 1–288 at 1280×720, 24 fps. Assemble actual Blender-rendered frames into a complete 12-second gray-model master. Export each shot separately and render matching gray stills as shape and composition references. Finish with PixVerse Plugin: Use Seedance 2.5 at 720p, processing each shot separately. Use the Blender clips as motion references and the gray stills as shape references. Define a consistent cartoon color palette in the generation prompt. Preserve camera movement, action timing, character and vehicle designs, and vehicle count. Review and deliver: Inspect both complete videos for visual defects and continuity. Repair Blender issues and regenerate only failed Seedance shots, with at most two retries per shot. Deliver the editable .blend, the native 720p Blender gray-model video, the separately labeled 720p Seedance version, and a brief assessment of remaining limitations."
+  },
+  "summaryTranslations": {
+    "en": "Full-workflow instructions for a GTA-style car chase, guiding Blender gray-model and animation creation with PixVerse generating the final video."
+  },
+  "translationVersion": 2,
+  "summary": "GTA风格追车全流程指令，指导Blender制作灰模与动画并由PixVerse生成最终视频。",
+  "summaryEn": "GTA-inspired car chase prompt guiding Blender blockout and PixVerse video generation.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098461817555374451",
+    "canonicalUrl": "https://x.com/Aria_Nawi/status/2098461817555374451",
+    "author": {
+      "username": "Aria_Nawi",
+      "displayName": "Nawi",
+      "profileUrl": "https://x.com/Aria_Nawi"
+    },
+    "publishedAt": "2026-09-11T17:20:59.000Z",
+    "collectedAt": "2026-09-11T20:15:58.107Z",
+    "language": "en",
+    "originalText": "Police chase. Explosion. A cinematic 3D world built with GPT-6 Astra.\n\nMade by @PixVerse. Available on PixVerse and in ChatGPT via the PixVerse Plugin.\n\nPrompt ↓\nCreate an original GTA-inspired cartoon car chase using this workflow: Design: Define one main driver, one getaway car, one pursuing car, and one urban environment. Keep their designs consistent. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn, and a wide exit shot. Build in Blender: Create clean gray models and functional character and vehicle rigs. No textures or UV unwrapping are required. Animate and test: Animate the driver, steering, wheel rotation, vehicles, and cameras. Maintain coherent travel direction and vehicle order. Fix clipping, floating wheels, sliding tires, broken poses, and hands losing contact with the steering wheel. Render in Blender: Render frames 1–288 at 1280×720, 24 fps. Assemble actual Blender-rendered frames into a complete 12-second gray-model master. Export each shot separately and render matching gray stills as shape and composition references. Finish with PixVerse Plugin: Use Seedance 2.5 at 720p, processing each shot separately. Use the Blender clips as motion references and the gray stills as shape references. Define a consistent cartoon color palette in the generation prompt. Preserve camera movement, action timing, character and vehicle designs, and vehicle count. Review and deliver: Inspect both complete videos for visual defects and continuity. Repair Blender issues and regenerate only failed Seedance shots, with at most two retries per shot. Deliver the editable .blend, the native 720p Blender gray-model video, the separately labeled 720p Seedance version, and a brief assessment of remaining limitations.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Aria_Nawi/status/2098461817555374451",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098461747224961028/img/CL85kJjJyaGoiA4F.jpg",
+        "analysisUrl": "https://x.com/Aria_Nawi/status/2098461817555374451"
+      }
+    ],
+    "metrics": {
+      "likeCount": 171,
+      "repostCount": 137,
+      "replyCount": 20,
+      "quoteCount": 0,
+      "viewCount": 19943
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Aria_Nawi/status/2098461817555374451",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098461747224961028/img/CL85kJjJyaGoiA4F.jpg",
+  "coverPath": "covers/2098461817555374451.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098461747224961028",
+    "x-post:2098461817555374451"
+  ],
+  "analysis": {
+    "summary": "GTA风格追车全流程指令，指导Blender制作灰模与动画并由PixVerse生成最终视频。",
+    "summaryEn": "GTA-inspired car chase prompt guiding Blender blockout and PixVerse video generation.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Split-screen video shows Blender gray models on the right and rendered police chase on the left."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create an original GTA-inspired cartoon car chase using this workflow: Design: Define one main driver, one getaway car, one pursuing car, and one urban environment. Keep their designs consistent. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn, and a wide exit shot. Build in Blender: Create clean gray models and functional character and vehicle rigs. No textures or UV unwrapping are required. Animate and test: Animate the driver, steering, wheel rotation, vehicles, and cameras. Maintain coherent travel direction and vehicle order. Fix clipping, floating wheels, sliding tires, broken poses, and hands losing contact with the steering wheel. Render in Blender: Render frames 1–288 at 1280×720, 24 fps. Assemble actual Blender-rendered frames into a complete 12-second gray-model master. Export each shot separately and render matching gray stills as shape and composition references. Finish with PixVerse Plugin: Use Seedance 2.5 at 720p, processing each shot separately. Use the Blender clips as motion references and the gray stills as shape references. Define a consistent cartoon color palette in the generation prompt. Preserve camera movement, action timing, character and vehicle designs, and vehicle count. Review and deliver: Inspect both complete videos for visual defects and continuity. Repair Blender issues and regenerate only failed Seedance shots, with at most two retries per shot. Deliver the editable .blend, the native 720p Blender gray-model video, the separately labeled 720p Seedance version, and a brief assessment of remaining limitations.",
+    "sourceRange": {
+      "start": 162,
+      "end": 1768
+    },
+    "translations": {
+      "zh": "通过以下工作流创建GTA风格卡通追逐戏：设计逃逸车、警车与城市环境并规划三段镜头；在Blender中完成灰模绑定与动画测试并渲染灰模镜头；利用PixVerse插件与Seedance 2.5将灰模作为动作与轮廓参考完成最终渲染交付。",
+      "en": "Create an original GTA-inspired cartoon car chase using this workflow: Design: Define one main driver, one getaway car, one pursuing car, and one urban environment. Keep their designs consistent. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn, and a wide exit shot. Build in Blender: Create clean gray models and functional character and vehicle rigs. No textures or UV unwrapping are required. Animate and test: Animate the driver, steering, wheel rotation, vehicles, and cameras. Maintain coherent travel direction and vehicle order. Fix clipping, floating wheels, sliding tires, broken poses, and hands losing contact with the steering wheel. Render in Blender: Render frames 1–288 at 1280×720, 24 fps. Assemble actual Blender-rendered frames into a complete 12-second gray-model master. Export each shot separately and render matching gray stills as shape and composition references. Finish with PixVerse Plugin: Use Seedance 2.5 at 720p, processing each shot separately. Use the Blender clips as motion references and the gray stills as shape references. Define a consistent cartoon color palette in the generation prompt. Preserve camera movement, action timing, character and vehicle designs, and vehicle count. Review and deliver: Inspect both complete videos for visual defects and continuity. Repair Blender issues and regenerate only failed Seedance shots, with at most two retries per shot. Deliver the editable .blend, the native 720p Blender gray-model video, the separately labeled 720p Seedance version, and a brief assessment of remaining limitations."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic 3D animation to AI video workflow",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
