@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T06:20:57.723Z",
+  "model": "seedance",
+  "prompt": "Ultra-realistic cinematic scene of a tiny human figure walking across an endless pale, cracked desert landscape toward a gigantic mythical white whale-like creature resting peacefully on the ground. The enormous creature has detailed textured skin, massive fins, subtle eyes, and a surreal dreamlike presence. Soft fog surrounds the scene, creating a mysterious atmosphere. Wide-angle composition emphasizing the extreme scale difference between the human and the creature, muted monochromatic tones, soft diffused lighting, realistic shadows, atmospheric depth, highly detailed textures, cinematic photography, 8K, HDR, photorealistic, epic fantasy realism, vertical 9:16 composition.",
+  "promptTranslations": {
+    "en": "Ultra-realistic cinematic scene of a tiny human figure walking across an endless pale, cracked desert landscape toward a gigantic mythical white whale-like creature resting peacefully on the ground. The enormous creature has detailed textured skin, massive fins, subtle eyes, and a surreal dreamlike presence. Soft fog surrounds the scene, creating a mysterious atmosphere. Wide-angle composition emphasizing the extreme scale difference between the human and the creature, muted monochromatic tones, soft diffused lighting, realistic shadows, atmospheric depth, highly detailed textures, cinematic photography, 8K, HDR, photorealistic, epic fantasy realism, vertical 9:16 composition."
+  },
+  "summaryTranslations": {
+    "en": "A fantastical surreal scene of a tiny human walking across a pale cracked desert toward a gigantic sleeping white whale."
+  },
+  "translationVersion": 2,
+  "summary": "微小人类在苍白龟裂的沙漠中走向一只巨大沉睡白鲸的奇幻超现实场景。",
+  "summaryEn": "A tiny human walking across a cracked desert toward a gigantic resting white whale creature.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098284373372018792",
+    "canonicalUrl": "https://x.com/AIwithMinal/status/2098284373372018792",
+    "author": {
+      "username": "AIwithMinal",
+      "displayName": "AIwithMinal",
+      "profileUrl": "https://x.com/AIwithMinal"
+    },
+    "publishedAt": "2026-09-11T05:35:53.000Z",
+    "collectedAt": "2026-09-11T06:03:47.121Z",
+    "language": "en",
+    "originalText": "Sometimes the smallest human can stand before the biggest dream and still find the courage to move closer.\n\nCreated with seedance 2.0\n\nPrompt:\n\nUltra-realistic cinematic scene of a tiny human figure walking across an endless pale, cracked desert landscape toward a gigantic mythical white whale-like creature resting peacefully on the ground. The enormous creature has detailed textured skin, massive fins, subtle eyes, and a surreal dreamlike presence. Soft fog surrounds the scene, creating a mysterious atmosphere. Wide-angle composition emphasizing the extreme scale difference between the human and the creature, muted monochromatic tones, soft diffused lighting, realistic shadows, atmospheric depth, highly detailed textures, cinematic photography, 8K, HDR, photorealistic, epic fantasy realism, vertical 9:16 composition.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIwithMinal/status/2098284373372018792",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098284251066351616/img/dwKKtUnS3ueYNewb.jpg",
+        "analysisUrl": "https://x.com/AIwithMinal/status/2098284373372018792"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 175
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIwithMinal/status/2098284373372018792",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098284251066351616/img/dwKKtUnS3ueYNewb.jpg",
+  "coverPath": "covers/2098284373372018792.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098284251066351616",
+    "x-post:2098284373372018792"
+  ],
+  "analysis": {
+    "summary": "微小人类在苍白龟裂的沙漠中走向一只巨大沉睡白鲸的奇幻超现实场景。",
+    "summaryEn": "A tiny human walking across a cracked desert toward a gigantic resting white whale creature.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频后半段呈现了渺小人物在苍白龟裂沙漠走向巨大白色鲸鱼生物的场景，与提示词主体、色调与氛围高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic cinematic scene of a tiny human figure walking across an endless pale, cracked desert landscape toward a gigantic mythical white whale-like creature resting peacefully on the ground. The enormous creature has detailed textured skin, massive fins, subtle eyes, and a surreal dreamlike presence. Soft fog surrounds the scene, creating a mysterious atmosphere. Wide-angle composition emphasizing the extreme scale difference between the human and the creature, muted monochromatic tones, soft diffused lighting, realistic shadows, atmospheric depth, highly detailed textures, cinematic photography, 8K, HDR, photorealistic, epic fantasy realism, vertical 9:16 composition.",
+    "sourceRange": {
+      "start": 144,
+      "end": 829
+    },
+    "translations": {
+      "zh": "超逼真电影级场景：一个渺小的人类身影走在无尽苍白且龟裂的沙漠中，走向一只静卧在地面上的巨大神话白鲸生物。该生物具有细腻质感的皮肤、巨鳍与微睁的双眼，周围笼罩薄雾，广角构图突出悬殊体型差距，色调沉静单一，柔和漫射光与真实阴影。",
+      "en": "Ultra-realistic cinematic scene of a tiny human figure walking across an endless pale, cracked desert landscape toward a gigantic mythical white whale-like creature resting peacefully on the ground. The enormous creature has detailed textured skin, massive fins, subtle eyes, and a surreal dreamlike presence. Soft fog surrounds the scene, creating a mysterious atmosphere. Wide-angle composition emphasizing the extreme scale difference between the human and the creature, muted monochromatic tones, soft diffused lighting, realistic shadows, atmospheric depth, highly detailed textures, cinematic photography, 8K, HDR, photorealistic, epic fantasy realism, vertical 9:16 composition."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
