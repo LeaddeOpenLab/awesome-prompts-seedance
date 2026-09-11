@@ -1375,7 +1375,7 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 
 <a name="prompt-2098306219903492133"></a>
 
-### Übersetzung läuft
+### 15-sekündiger Storyboard-Prompt für einen luxuriösen Werbespot für botanisches Parfum, einschließlich Makro-Tautropfen, Produkt-Nahaufnahme, Charaktermonolog und Marken-Outro.
 
 Autor：[@yourPlugAI](https://x.com/yourPlugAI) · [Originalbeitrag](https://x.com/yourPlugAI/status/2098306219903492133)
 
@@ -1383,14 +1383,39 @@ Comic / Storyboard · Produktmarketing · Charakter · Produkt · Veröffentlich
 
 Originalbeitrag：[@yourPlugAI](https://x.com/yourPlugAI) · [Originalbeitrag](https://x.com/yourPlugAI/status/2098049745885225020)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 15-sekündiger Storyboard-Prompt für einen luxuriösen Werbespot für botanisches Parfum, einschließlich Makro-Tautropfen, Produkt-Nahaufnahme, Charaktermonolog und Marken-Outro.
 
 <img src="covers/2098306219903492133.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+15-sekündiger sequenzieller Video-Prompt
+
+0 bis 3 Sekunden (Der Hook)
+Visuell: Extreme Makro-Tilt-Up-Aufnahme durch leuchtend grüne tropische Blätter, von denen Morgentautropfen perlen. Sonnenlicht fällt strahlend in das Objektiv und erleuchtet schwebende Pollen und Wasserpartikel.
+Aktion: Tautropfen gleiten an einem großen Palmwedel herab und zerschellen in hyperrealistischer Zeitlupe auf rauem Stein, wodurch augenblicklich winzige Mikrotropfen nach oben geschleudert werden.
+Sound: Tiefe, organische Holzbläserharmonie, die in einen kristallklaren, hyperdetaillierten Spritz-Soundeffekt übergeht, begleitet von sanftem Vogelgezwitscher und Blätterrauschen.
+
+3 bis 6 Sekunden (Die Produktenthüllung)
+Visuell: Sanfte Kameraumrundung eines Parfümflakons aus mattiertem Glas, der aufrecht auf einem moosigen Basaltfelsen steht, umgeben von blühenden wilden Orchideen.
+Aktion: Ein feiner, tauartiger botanischer Nebel sprüht sauber aus der seitlichen Düse und breitet sich horizontal aus, während klares Sonnenlicht jeden einzelnen Mikrotropfen einfängt und einen dezenten Regenbogen-Prisma-Effekt erzeugt.
+Sound: Sauberer, metallischer Klick des Zerstäubers, gefolgt von einem erfrischenden, atmosphärischen Rauschen des Sprühnebels und dem sanften Brausen einer Brise.
+
+6 bis 9 Sekunden (Der Charakter-Dialog)
+Visuell: Halbtotale der Frau, die in einem sonnendurchfluteten botanischen Gewächshaus steht, sanft ein grünes Farnblatt aus ihrem Gesicht streicht und mit einem gelassenen, selbstbewussten Blick direkt in die Kameralinse schaut.
+Aktion: Sie neigt ihren Kopf leicht ins Sonnenlicht, ihr Gesichtsausdruck ist entspannt und vollkommen ruhig, während sie ihre Zeile natürlich mit einem sanften Lächeln spricht.
+Sound: Sanfter, erdiger akustischer Streicherakkord unter einem warmen, gehauchten Voiceover: "Breathe the wild."
+
+9 bis 12 Sekunden (Der sensorische Rausch)
+Visuell: Zeitraffer-Aufblühsequenz, in der sich goldene Blütenblätter um den Parfümflakon entfalten und nahtlos mit wirbelndem Sonnenlicht und grünen Blättern in dynamischer Bewegungsphysik verschmelzen.
+Aktion: Erdiges Moos und Blütenblätter steigen sanft in die Luft rund um den Flakon auf und erzeugen einen schwerelosen, natürlichen Schwebeeffekt.
+Sound: Anschwellende, erhebende akustische Melodie, kombiniert mit einem sanften Luft-Übergangsrauschen und zarten Rascheltexturen.
+
+12 bis 15 Sekunden (Das Marken-Outro)
+Visuell: Zentrierte Hero-Aufnahme des mattierten Glasflakons, der aufrecht auf einer sonnenbeschienenen Marmorplatte inmitten von frischem grünem Moos und Morgentau steht. Der eingravierte Markenname "GILBERTO" hebt sich in klarer, goldener Typografie ab.
+Aktion: Morgenlicht streicht sanft von links nach rechts über den Flakon, während sich zarter botanischer Nebel am Sockel absetzt.
+Sound: Warmer, geerdeter akustischer Klang, der sanft ausklingt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -1491,7 +1491,7 @@ Traducción en curso
 
 <a name="prompt-2098306219903492133"></a>
 
-### Traducción en curso
+### Prompt de guion gráfico para anuncio comercial de lujo de 15 segundos de perfume botánico, que incluye gotas de rocío en macro, primer plano del producto, monólogo del personaje y cierre de marca.
 
 Autor：[@yourPlugAI](https://x.com/yourPlugAI) · [Publicación original](https://x.com/yourPlugAI/status/2098306219903492133)
 
@@ -1499,14 +1499,39 @@ Cómic / Guion gráfico · Marketing de producto · Personaje · Producto · Pub
 
 Publicación original：[@yourPlugAI](https://x.com/yourPlugAI) · [Publicación original](https://x.com/yourPlugAI/status/2098049745885225020)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de guion gráfico para anuncio comercial de lujo de 15 segundos de perfume botánico, que incluye gotas de rocío en macro, primer plano del producto, monólogo del personaje y cierre de marca.
 
 <img src="covers/2098306219903492133.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Prompt de Video Secuencial de 15 Segundos
+
+0 a 3 Segundos (El Gancho)
+Visual: Toma macro extrema con inclinación hacia arriba (tilt-up) a través de vibrantes hojas tropicales verdes que gotean rocío matutino. La luz del sol entra intensamente en la lente, iluminando el polen flotante y las partículas de agua.
+Acción: Las gotas de rocío se deslizan por una gran hoja de palmera y salpican sobre una roca en bruto en cámara lenta hiperrealista, despidiendo instantáneamente microgotas hacia arriba.
+Sonido: Armonía profunda y orgánica de instrumentos de viento madera que da paso a un efecto de sonido de salpicadura nítido y muy detallado, acompañado de un suave canto de pájaros y el susurro de las hojas.
+
+3 a 6 Segundos (La Revelación del Producto)
+Visual: Giro suave de la cámara alrededor de un frasco de perfume de vidrio esmerilado colocado verticalmente sobre una roca de basalto cubierta de musgo, rodeada de orquídeas silvestres en flor.
+Acción: Una fina bruma botánica, similar al rocío, se pulveriza limpiamente desde la boquilla lateral, dispersándose horizontalmente mientras la brillante luz solar incide en cada microgota, creando un sutil efecto de prisma de arcoíris.
+Sonido: Clic limpio y metálico de la bomba pulverizadora seguido de un refrescante sonido ambiental de bruma y el suave silbido de una brisa.
+
+6 a 9 Segundos (El Diálogo del Personaje)
+Visual: Plano medio de la mujer de pie en un invernadero botánico bañado por el sol, apartando suavemente una hoja verde de helecho de su rostro y mirando directamente a la lente de la cámara con una mirada serena y confiada.
+Acción: Inclina ligeramente la cabeza hacia la luz solar, con el rostro relajado y perfectamente sereno, diciendo su línea de manera natural con una suave sonrisa.
+Sonido: Acorde suave y terroso de cuerdas acústicas bajo una voz en off cálida y susurrada: "Breathe the wild."
+
+9 a 12 Segundos (La Oleada Sensorial)
+Visual: Secuencia de floración en avance rápido donde pétalos dorados se despliegan alrededor del frasco de perfume, fusionándose a la perfección con la luz solar arremolinada y las hojas verdes con una física de movimiento dinámico.
+Acción: El musgo terroso y los pétalos de flores se elevan suavemente en el aire rodeando el frasco, creando un efecto de flotación ingrávido y natural.
+Sonido: Creciente melodía acústica inspiradora combinada con una suave transición de aire en movimiento y delicadas texturas de susurros.
+
+12 a 15 Segundos (El Cierre de Marca)
+Visual: Plano protagonista centrado del frasco de vidrio esmerilado de pie sobre una losa de mármol iluminada por el sol, entre musgo verde fresco y rocío matutino. El grabado de la marca "GILBERTO" destaca con una nítida tipografía dorada.
+Acción: La luz de la mañana se desliza suavemente sobre el frasco de izquierda a derecha mientras la delicada bruma botánica se asienta en la base.
+Sonido: Campanilleo acústico cálido y profundo que perdura hasta desvanecerse suavemente.
 ```
 
 [↑ Volver a categorías](#catalog)

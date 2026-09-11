@@ -1375,7 +1375,7 @@ Traduzione in corso
 
 <a name="prompt-2098306219903492133"></a>
 
-### Traduzione in corso
+### Prompt di storyboard per uno spot di lusso di 15 secondi per un profumo botanico, con gocce di rugiada macro, primo piano del prodotto, monologo del personaggio e outro del marchio.
 
 Autore：[@yourPlugAI](https://x.com/yourPlugAI) · [Post originale](https://x.com/yourPlugAI/status/2098306219903492133)
 
@@ -1383,14 +1383,39 @@ Fumetto / Storyboard · Marketing di Prodotto · Personaggio · Prodotto · Pubb
 
 Post originale：[@yourPlugAI](https://x.com/yourPlugAI) · [Post originale](https://x.com/yourPlugAI/status/2098049745885225020)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di storyboard per uno spot di lusso di 15 secondi per un profumo botanico, con gocce di rugiada macro, primo piano del prodotto, monologo del personaggio e outro del marchio.
 
 <img src="covers/2098306219903492133.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Prompt per video sequenziale di 15 secondi
+
+Da 0 a 3 secondi (Il gancio)
+Visivo: Inquadratura macro estrema con inclinazione verso l'alto attraverso vivaci foglie tropicali verdi bagnate da gocce di rugiada mattutina. La luce solare crea bagliori luminosi nell'obiettivo, illuminando il polline fluttuante e le particelle d'acqua.
+Azione: Gocce di rugiada scivolano lungo una grande foglia di palma e si infrangono sulla pietra grezza al rallentatore iperrealistico, sollevando all'istante micro-goccioline verso l'alto.
+Suono: Profonda armonia organica di legni che si apre in un effetto sonoro di spruzzo nitido e iper-dettagliato, unito a un dolce canto di uccelli e al fruscio delle foglie.
+
+Da 3 a 6 secondi (La rivelazione del prodotto)
+Visivo: Fluida orbita della cinepresa attorno a una boccetta di profumo in vetro satinato posizionata verticalmente su una roccia di basalto muschiosa, circondata da orchidee selvatiche in fiore.
+Azione: Una fine nebbiolina botanica simile alla rugiada fuoriesce in modo netto dall'erogatore laterale, disperdendosi orizzontalmente mentre la nitida luce del sole cattura ogni micro-gocciolina, creando un sottile effetto prisma ad arcobaleno.
+Suono: Clic metallico e pulito dell'erogatore spray, seguito dal soffio rinfrescante e atmosferico della vaporizzazione e dal lieve fruscio di una brezza.
+
+Da 6 a 9 secondi (Il dialogo del personaggio)
+Visivo: Mezza figura della donna in piedi in una serra botanica inondata di sole, che scosta delicatamente una foglia verde di felce dal viso e fissa l'obiettivo della telecamera con uno sguardo sereno e sicuro.
+Azione: Inclina leggermente la testa verso la luce del sole, con il viso rilassato e perfettamente fermo, pronunciando la sua battuta in modo naturale con un sorriso dolce.
+Suono: Morbido e caldo accordo di archi acustici sotto una voce fuori campo calda e sussurrata: "Breathe the wild."
+
+Da 9 a 12 secondi (L'ondata sensoriale)
+Visivo: Sequenza accelerata di fioritura in cui petali di fiori dorati si schiudono attorno alla boccetta di profumo, fondendosi armoniosamente con la luce solare vorticosa e le foglie verdi in una fisica di movimento dinamica.
+Azione: Muschio terroso e petali di fiori si sollevano dolcemente nell'aria attorno alla boccetta, creando un effetto di sospensione naturale e privo di peso.
+Suono: Crescendo melodico acustico ed energizzante abbinato a una transizione d'aria morbida e a delicate trame di fruscii.
+
+Da 12 a 15 secondi (L'outro del marchio)
+Visivo: Inquadratura hero centrale della boccetta in vetro satinato posizionata su una lastra di marmo illuminata dal sole, tra fresco muschio verde e rugiada mattutina. Il marchio inciso "GILBERTO" risalta con una nitida tipografia dorata.
+Azione: La luce del mattino accarezza fluidamente la boccetta da sinistra a destra mentre una delicata nebbiolina botanica si posa alla base.
+Suono: Caldo e profondo rintocco acustico che sfuma dolcemente.
 ```
 
 [↑ Torna alle categorie](#catalog)

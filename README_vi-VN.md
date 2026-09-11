@@ -1505,7 +1505,7 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 <a name="prompt-2098306219903492133"></a>
 
-### Đang dịch
+### Lời nhắc phân cảnh video quảng cáo thương mại xa xỉ 15 giây cho nước hoa thực vật, bao gồm giọt sương macro, cận cảnh sản phẩm, độc thoại nhân vật và phần kết thương hiệu.
 
 Tác giả：[@yourPlugAI](https://x.com/yourPlugAI) · [Bài gốc](https://x.com/yourPlugAI/status/2098306219903492133)
 
@@ -1513,14 +1513,39 @@ Truyện tranh / Bảng phân cảnh · Tiếp thị sản phẩm · Nhân vật
 
 Bài gốc：[@yourPlugAI](https://x.com/yourPlugAI) · [Bài gốc](https://x.com/yourPlugAI/status/2098049745885225020)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc phân cảnh video quảng cáo thương mại xa xỉ 15 giây cho nước hoa thực vật, bao gồm giọt sương macro, cận cảnh sản phẩm, độc thoại nhân vật và phần kết thương hiệu.
 
 <img src="covers/2098306219903492133.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Gợi ý Video Tuần tự 15 Giây
+
+0 đến 3 Giây (Phần Thu hút)
+Hình ảnh: Cảnh quay macro nghiêng lên cực cận (tilt-up) xuyên qua những tán lá nhiệt đới xanh mướt đang đọng những giọt sương mai. Ánh nắng rực rỡ lóa vào ống kính, soi sáng các hạt phấn hoa và bụi nước đang lơ lửng.
+Hành động: Những giọt sương trượt xuống một chiếc lá cọ lớn và rơi vỡ trên phiến đá thô trong chuyển động chậm siêu thực, ngay lập tức bắn những giọt nước siêu nhỏ lên trên.
+Âm thanh: Hòa âm kèn gỗ mộc mạc, trầm ấm mở đầu cho hiệu ứng âm thanh tiếng nước bắn sắc nét, siêu chi tiết kết hợp với tiếng chim hót nhẹ nhàng và tiếng lá cây xào xạc.
+
+3 đến 6 Giây (Phần Tiết lộ Sản phẩm)
+Hình ảnh: Camera xoay mượt mà quanh chai nước hoa thủy tinh mờ đứng thẳng trên một tảng đá bazan phủ rêu, xung quanh là những cành phong lan rừng đang nở rộ.
+Hành động: Một làn sương thực vật mịn như sương sớm phun ra dứt khoát từ vòi xịt bên hông, phân tán theo chiều ngang trong khi ánh nắng sắc nét chiếu xuyên qua từng giọt nước siêu nhỏ, tạo nên hiệu ứng lăng kính cầu vồng tinh tế.
+Âm thanh: Tiếng bấm vòi xịt kim loại gọn gàng, theo sau là âm thanh sương mù ùa ra sảng khoái, giàu không gian cùng tiếng gió nhẹ lướt qua.
+
+6 đến 9 Giây (Phần Thoại của Nhân vật)
+Hình ảnh: Cảnh quay cận trung (medium shot) người phụ nữ đứng trong nhà kính thực vật ngập tràn ánh nắng, nhẹ nhàng vén một chiếc lá dương xỉ xanh khỏi gương mặt và nhìn thẳng vào ống kính máy ảnh với ánh mắt thanh thản, tự tin.
+Hành động: Cô hơi nghiêng đầu về phía ánh nắng, gương mặt thư thái và hoàn toàn tĩnh tại, cất lời thoại một cách tự nhiên với nụ cười nhẹ.
+Âm thanh: Hợp âm dây acoustic mộc mạc, êm dịu làm nền cho giọng lồng tiếng ấm áp, như hơi thở: "Breathe the wild."
+
+9 đến 12 Giây (Phần Bùng nổ Giác quan)
+Hình ảnh: Chuỗi cảnh tua nhanh hoa nở khi những cánh hoa vàng bung nở xung quanh chai nước hoa, hòa quyện mượt mà với ánh nắng xoáy nhẹ và lá xanh theo cơ chế vật lý chuyển động đầy năng động.
+Hành động: Rêu đất và cánh hoa nhẹ nhàng bay lên không trung bao quanh chai nước hoa, tạo hiệu ứng lơ lửng tự nhiên không trọng lượng.
+Âm thanh: Giai điệu acoustic ngân vang tràn đầy cảm hứng kết hợp với hiệu ứng chuyển cảnh luồng gió lướt êm ái và âm hưởng xào xạc dịu nhẹ.
+
+12 đến 15 Giây (Phần Kết thúc Thương hiệu)
+Hình ảnh: Khung hình nổi bật chính diện (hero shot) của chai thủy tinh mờ đứng thẳng trên phiến đá cẩm thạch ngập tràn ánh nắng giữa rêu xanh tươi và sương mai. Tên thương hiệu khắc chữ "GILBERTO" nổi bật với kiểu chữ vàng sắc nét.
+Hành động: Ánh sáng ban mai quét mượt mà qua thân chai từ trái sang phải khi làn sương thực vật thanh khiết lắng đọng xuống phần đáy.
+Âm thanh: Tiếng chuông acoustic ấm áp, sâu lắng ngân vang rồi nhẹ nhàng mờ dần.
 ```
 
 [↑ Về danh mục](#catalog)

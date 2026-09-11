@@ -1361,7 +1361,7 @@ Tradução em curso
 
 <a name="prompt-2098306219903492133"></a>
 
-### Tradução em curso
+### Prompt de storyboard para anúncio comercial de luxo de 15 segundos para perfume botânico, com gotas de orvalho em macro, grande plano do produto, monólogo de personagem e fecho da marca.
 
 Autor：[@yourPlugAI](https://x.com/yourPlugAI) · [Publicação original](https://x.com/yourPlugAI/status/2098306219903492133)
 
@@ -1369,14 +1369,39 @@ Banda desenhada / Storyboard · Marketing de Produto · Personagem · Produto ·
 
 Publicação original：[@yourPlugAI](https://x.com/yourPlugAI) · [Publicação original](https://x.com/yourPlugAI/status/2098049745885225020)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de storyboard para anúncio comercial de luxo de 15 segundos para perfume botânico, com gotas de orvalho em macro, grande plano do produto, monólogo de personagem e fecho da marca.
 
 <img src="covers/2098306219903492133.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Prompt para Vídeo Sequencial de 15 Segundos
+
+0 a 3 Segundos (O Gancho)
+Visual: Plano de grande pormenor (extreme macro) com inclinação para cima (tilt-up) através de folhas tropicais verdes e vibrantes a gotejar orvalho matinal. A luz solar cria um reflexo brilhante na lente (lens flare), iluminando o pólen em suspensão e partículas de água.
+Ação: Gotas de orvalho deslizam por uma grande folha de palmeira e embatem numa pedra bruta em câmara lenta hiper-realista, projetando instantaneamente microgotas para cima.
+Som: Harmonia profunda de sopros de madeira orgânicos que abre para um efeito sonoro de salpico nítido e hiperdetalhado, conjugado com o canto suave de pássaros e o sussurro de folhas.
+
+3 a 6 Segundos (A Revelação do Produto)
+Visual: Órbita suave da câmara em redor de um frasco de perfume em vidro fosco, erguido sobre uma rocha de basalto com musgo e rodeado por orquídeas selvagens em flor.
+Ação: Uma névoa botânica fina, semelhante a orvalho, é vaporizada de forma limpa pelo bocal lateral, dispersando-se horizontalmente enquanto a luz solar nítida atinge cada microgota, criando um efeito subtil de prisma de arco-íris.
+Som: Clique metálico e limpo do pulverizador, seguido por um sopro atmosférico e refrescante de névoa e pelo murmúrio suave de uma brisa.
+
+6 a 9 Segundos (O Diálogo da Personagem)
+Visual: Plano médio da mulher numa estufa botânica inundada de sol, afastando suavemente do rosto uma folha verde de feto e olhando diretamente para a lente da câmara com um olhar sereno e confiante.
+Ação: Ela inclina ligeiramente a cabeça em direção à luz solar, com o rosto descontraído e perfeitamente sereno, proferindo a sua fala com naturalidade e um sorriso suave.
+Som: Acorde suave e telúrico de cordas acústicas por baixo de uma voz-off quente e sussurrada: "Breathe the wild."
+
+9 a 12 Segundos (A Onda Sensorial)
+Visual: Sequência de floração em avanço rápido (fast-forward) onde pétalas douradas desabrocham em redor do frasco de perfume, fundindo-se harmoniosamente com a luz solar giratória e folhas verdes numa física de movimento dinâmica.
+Ação: Musgo telúrico e pétalas de flores elevam-se suavemente no ar em redor do frasco, criando um efeito de flutuação natural e sem gravidade.
+Som: Crescendo de uma melodia acústica revigorante combinado com uma transição suave de ar a deslocar-se e texturas subtis de farfalhar.
+
+12 a 15 Segundos (O Encerramento da Marca)
+Visual: Plano de destaque centralizado (hero shot) do frasco de vidro fosco na vertical sobre uma placa de mármore banhada pelo sol, por entre musgo verde fresco e orvalho da manhã. A inscrição gravada da marca "GILBERTO" destaca-se numa tipografia dourada e nítida.
+Ação: A luz matinal percorre suavemente o frasco da esquerda para a direita enquanto uma névoa botânica delicada assenta na base.
+Som: Carrilhão acústico quente e estável a esbater-se num fadeout suave.
 ```
 
 [↑ Voltar às categorias](#catalog)

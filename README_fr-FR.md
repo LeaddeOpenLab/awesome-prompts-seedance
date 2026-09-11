@@ -1375,7 +1375,7 @@ Traduction en cours
 
 <a name="prompt-2098306219903492133"></a>
 
-### Traduction en cours
+### Prompt de storyboard pour une publicité de luxe de 15 secondes pour un parfum botanique, comprenant des gouttes de rosée en macro, un gros plan sur le produit, un monologue du personnage et une conclusion de marque.
 
 Auteur：[@yourPlugAI](https://x.com/yourPlugAI) · [Publication originale](https://x.com/yourPlugAI/status/2098306219903492133)
 
@@ -1383,14 +1383,39 @@ Bande dessinée / Storyboard · Marketing produit · Personnage · Produit · Pu
 
 Publication originale：[@yourPlugAI](https://x.com/yourPlugAI) · [Publication originale](https://x.com/yourPlugAI/status/2098049745885225020)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de storyboard pour une publicité de luxe de 15 secondes pour un parfum botanique, comprenant des gouttes de rosée en macro, un gros plan sur le produit, un monologue du personnage et une conclusion de marque.
 
 <img src="covers/2098306219903492133.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Prompt de vidéo séquentielle de 15 secondes
+
+0 à 3 secondes (L'accroche)
+Visuel : Plan d'inclinaison vers le haut en macro extrême à travers des feuilles tropicales d'un vert vibrant ruisselantes de gouttes de rosée matinale. La lumière du soleil crée un éclat intense dans l'objectif, illuminant le pollen en suspension et les particules d'eau.
+Action : Des gouttes de rosée glissent le long d'une grande feuille de palmier et s'écrasent sur la pierre brute au ralenti hyperréaliste, projetant instantanément des micro-gouttelettes vers le haut.
+Son : Harmonie profonde et organique d'instruments à vent en bois s'ouvrant sur un effet sonore d'éclaboussure net et hyperdétaillé, accompagné de doux chants d'oiseaux et du bruissement des feuilles.
+
+3 à 6 secondes (La révélation du produit)
+Visuel : Orbite fluide de la caméra autour d'un flacon de parfum en verre dépoli dressé sur une roche basaltique moussue, entouré d'orchidées sauvages en fleurs.
+Action : Une fine brume botanique pareille à de la rosée jaillit proprement du vaporisateur latéral, se dispersant horizontalement tandis qu'un soleil vif illumine chaque micro-gouttelette, créant un subtil effet de prisme arc-en-ciel.
+Son : Déclic métallique et net de la pompe de vaporisation, suivi du souffle rafraîchissant et atmosphérique de la brume et du doux murmure d'une brise.
+
+6 à 9 secondes (Le dialogue du personnage)
+Visuel : Plan moyen de la femme debout dans une serre botanique baignée de soleil, écartant doucement une feuille de fougère verte de son visage et regardant directement l'objectif de la caméra d'un regard serein et confiant.
+Action : Elle incline légèrement la tête vers la lumière du soleil, le visage détendu et parfaitement serein, prononçant sa réplique naturellement avec un doux sourire.
+Son : Doux accord de cordes acoustiques aux tons terreux sous une voix off chaleureuse et feutrée : "Breathe the wild."
+
+9 à 12 secondes (La déferlante sensorielle)
+Visuel : Séquence d'éclosion en accéléré où des pétales de fleurs dorées s'ouvrent autour du flacon de parfum, fusionnant harmonieusement avec la lumière tourbillonnante du soleil et les feuilles vertes selon une physique de mouvement dynamique.
+Action : De la mousse terreuse et des pétales de fleurs s'élèvent doucement dans l'air autour du flacon, créant un effet de flottement naturel en apesanteur.
+Son : Montée d'une mélodie acoustique entraînante associée à une douce transition d'air fluide et à de délicates textures de bruissements.
+
+12 à 15 secondes (La conclusion de la marque)
+Visuel : Plan héroïque centré du flacon en verre dépoli dressé sur une plaque de marbre baignée de soleil, au milieu de mousse verte fraîche et de rosée matinale. Le nom de la marque gravé "GILBERTO" se détache dans une typographie dorée nette.
+Action : La lumière du matin balaie doucement le flacon de gauche à droite tandis qu'une délicate brume botanique se dépose à la base.
+Son : Carillon acoustique chaleureux et ancré s'estompant doucement en fondu sonore.
 ```
 
 [↑ Retour aux catégories](#catalog)

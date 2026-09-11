@@ -1361,7 +1361,7 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 
 <a name="prompt-2098306219903492133"></a>
 
-### Çeviri sürüyor
+### Makro çiy damlaları, ürün yakın çekimi, karakter monoloğu ve marka kapanışı içeren 15 saniyelik botanik parfüm lüks reklam filmi storyboard istemi.
 
 Yazar：[@yourPlugAI](https://x.com/yourPlugAI) · [Orijinal gönderi](https://x.com/yourPlugAI/status/2098306219903492133)
 
@@ -1369,14 +1369,39 @@ Yazar：[@yourPlugAI](https://x.com/yourPlugAI) · [Orijinal gönderi](https://x
 
 Orijinal gönderi：[@yourPlugAI](https://x.com/yourPlugAI) · [Orijinal gönderi](https://x.com/yourPlugAI/status/2098049745885225020)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Makro çiy damlaları, ürün yakın çekimi, karakter monoloğu ve marka kapanışı içeren 15 saniyelik botanik parfüm lüks reklam filmi storyboard istemi.
 
 <img src="covers/2098306219903492133.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+15 Saniyelik Sıralı Video İstemi
+
+0 - 3 Saniye (Kanca)
+Görsel: Sabah çiy damlaları damlayan canlı yeşil tropikal yaprakların arasından yapılan aşırı makro yukarı eğim (tilt-up) çekimi. Güneş ışığı lense parlak bir şekilde yansıyarak havada süzülen polenleri ve su parçacıklarını aydınlatır.
+Eylem: Çiy damlaları büyük bir palmiye yaprağından aşağı kayar ve aşırı gerçekçi ağır çekimde ham taşın üzerine sıçrayarak anında mikro damlacıkları yukarı doğru fırlatır.
+Ses: Canlı, son derece ayrıntılı bir su sıçraması ses efektine açılan derin organik nefesli çalgı armonisi; buna eşlik eden tatlı kuş cıvıltıları ve yaprak hışırtıları.
+
+3 - 6 Saniye (Ürün Tanıtımı)
+Görsel: Açan yabani orkidelerle çevrili, yosunlu bir bazalt kaya üzerinde dik duran buzlu cam parfüm şişesinin etrafında yumuşak kamera yörüngesi.
+Eylem: İnce, çiy benzeri botanik bir sis yan püskürtücüden temiz bir şekilde sıkılır, yatay olarak dağılırken keskin güneş ışığı her bir mikro damlacığı yakalar ve hafif bir gökkuşağı prizması etkisi yaratır.
+Ses: Temiz, metalik pompa püskürtme klik sesi ve ardından gelen ferahlatıcı, atmosferik sis akışı sesi ile hafif bir rüzgar esintisi.
+
+6 - 9 Saniye (Karakter Diyaloğu)
+Görsel: Güneşle aydınlanan botanik bir serada duran kadının, yeşil bir eğrelti otu yaprağını nazikçe yüzünden uzaklaştırarak sakin ve kendinden emin bir bakışla doğrudan kamera lensine baktığı orta çekim.
+Eylem: Başını hafifçe güneş ışığına doğru eğer, yüzü rahat ve tamamen dingindir; repliğini yumuşak bir gülümsemeyle doğal bir şekilde söyler.
+Ses: Sıcak, nefesli bir dış sesin altındaki yumuşak, topraksı akustik yaylı akoru: "Breathe the wild."
+
+9 - 12 Saniye (Duyusal Yükseliş)
+Görsel: Altın sarısı çiçek yapraklarının parfüm şişesinin etrafında açıldığı, dönen güneş ışığı ve yeşil yapraklarla dinamik hareket fiziği içinde kusursuzca birleştiği hızlı çekim (fast-forward) çiçek açma sekansı.
+Eylem: Doğal yosun ve çiçek yaprakları şişeyi çevreleyen havaya nazikçe yükselerek ağırlıksız, doğal bir süzülme etkisi yaratır.
+Ses: Yükselen akustik melodi tırmanışına eşlik eden yumuşak bir hava geçiş sesi (swoosh) ve hafif hışırtı dokuları.
+
+12 - 15 Saniye (Marka Kapanışı)
+Görsel: Taze yeşil yosun ve sabah çiyi arasında, güneş alan mermer bir blok üzerinde dik duran buzlu cam şişenin merkezlenmiş ana (hero) çekimi. Kazınmış "GILBERTO" marka adı, net altın rengi tipografisiyle dikkat çeker.
+Eylem: Sabah ışığı soldan sağa doğru şişenin üzerinden yumuşakça geçerken narin botanik sis tabana çöker.
+Ses: Yumuşak bir sönümlemeyle (fadeout) uzayan sıcak, tok akustik çan sesi.
 ```
 
 [↑ Kategorilere dön](#catalog)
