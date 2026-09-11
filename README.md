@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**38** Prompts · Latest addition: **2026-09-10**
+**39** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1410,6 +1410,28 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098242830661792189"></a>
+
+### An ostrich rides a pink toy car and escapes on a skateboard through a busy market.
+
+Author：[@mrdejie](https://x.com/mrdejie) · [Source](https://x.com/mrdejie/status/2098242830661792189)
+
+Vehicle · Published
+
+**Summary:** An ostrich rides a pink toy car and escapes on a skateboard through a busy market.
+
+<img src="covers/2098242830661792189.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Generate a continuous 30-second raw live Nigerian TV news helicopter shot of a chaotic market chase. A huge real ostrich rides a dirty, faded, old pink plastic toy car through a packed open-air market while local food vendors chase it like they want to catch it and cook it. The toy car crashes at a stall blockade. The ostrich kicks one vendor off his feet, then escapes on a skateboard. Unpolished live helicopter footage only: one high-altitude tracking shot, natural shake, real physics, bright daylight. No cinematic grade, no slow motion, no film look, no cuts.\n\nStart on a distant helicopter view of a packed Nigerian market in daylight: food stalls, umbrellas, basins, crates, hanging meat, grill smoke, shoppers, okada, and keke. The ostrich is already moving fast the wrong way on the tiny dirty pink toy car, legs almost hitting the ground. A vendor in a faded singlet and wrapper runs behind it with a long knife. The ostrich weaves between stalls. A bag of peppers drops. A keke brakes. A yam wheelbarrow tips. More vendors join — one with a metal basin, one with a giant ladle, one with a bag of charcoal, one with a suya skewer. They wear Ankara, singlets, rubber slippers, and stained aprons over street clothes. No chef uniforms.\n\nThe ostrich drives at a blockade of tables and a parked danfo. It swerves past a sliding keke. The plastic wheels lock and the toy car skids sideways into a table leg and stops hard. The ostrich jumps off, wings half-open. Vendors rush in from both sides.\n\nThe knife vendor grabs for its neck. The ostrich pecks his forehead. The basin vendor lunges. The ostrich plants one foot and kicks him in the chest — a real heavy ostrich kick — and he flies onto a pile of onions. The basin rolls. The ladle vendor slips in spilled oil. A gap opens.\n\nThe ostrich runs to a worn skateboard lying in the dirt beside a crate, steps on, wobbles, then pushes off with one long leg. It crouches low with wings out and rolls down the market lane between stalls and keke. Vendors chase on foot. The crashed pink toy car is left at the blockade. End on the ostrich already far down the road on the skateboard, vendors shrinking behind it, helicopter still tracking from distance.\n\nKeep the same ostrich, the same dirty pink toy car until the crash, and the skateboard for the escape. Realistic animal weight, kick, wobble, and market physics. Natural daylight. Local food sellers only.\n\nAudio: helicopter rotor, market noise, horns, shouting, clattering basins, strained toy-car motor, hard kick and body fall, skateboard wheels on dirt. No music. No subtitles. No voice-over.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097936691273019608"></a>
 
