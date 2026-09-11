@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**46** Prompts · Dernier ajout: **2026-09-11**
+**47** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Cyberpunk / Science-fiction](#category-cyberpunk-sci-fi) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Rendu 3D](#category-3d-render) · [Cyberpunk / Science-fiction](#category-cyberpunk-sci-fi) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1243,6 +1243,32 @@ Style de caméra : Cinématographie authentique de vlog de voyage, tremblement r
 Style visuel : Film de vacances de rêve à Bali, esthétique de marque de voyage haut de gamme, douce lumière dorée du soleil, texture de peau réaliste, faible profondeur de champ cinématographique, aspect rétro nostalgique de film 35 mm, tons chauds et atmosphériques, expressions naturelles et spontanées, narration émouvante.
 
 À éviter : style dessin animé, aspect images de synthèse (CGI), peau d'aspect plastique, visage irréaliste, apparence incohérente du personnage, coiffure changeante, doigts supplémentaires, corps déformé, éclairage artificiel, couleurs sursaturées, visage flou, mouvements anormaux, personnes en double.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Rendu 3D
+
+<a name="prompt-2098326362801221835"></a>
+
+### Traduction en cours
+
+Auteur：[@Chengzilhy](https://x.com/Chengzilhy) · [Publication originale](https://x.com/Chengzilhy/status/2098326362801221835)
+
+Bande dessinée / Storyboard · Photographie · Rendu 3D · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098326362801221835.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

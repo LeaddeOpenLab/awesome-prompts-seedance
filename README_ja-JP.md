@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**46** 件 · 最新の追加: **2026-09-11**
+**47** 件 · 最新の追加: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [3D レンダリング](#category-3d-render) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1371,6 +1371,32 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 ビジュアルスタイル：夢のようなバリ島バカンスフィルム、ブティック旅行ブランドの美学、柔らかな金色の光、リアルな肌の質感、シネマティックな浅い被写界深度、ノスタルジックな35mmフィルム感、温かみのある雰囲気漂うトーン、台本なしの自然な表情、感情豊かなストーリーテリング。
 
 除外要素（ネガティブプロンプト）：カートゥーン調、CGI感、プラスチックのような肌、不自然な顔、キャラクターの外見の不一致、髪型の変化、余分な指、歪んだ身体、人工的なライティング、過度な彩度、ぼやけた顔、不自然な動き、重複した人物。
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D レンダリング
+
+<a name="prompt-2098326362801221835"></a>
+
+### 翻訳中
+
+作者：[@Chengzilhy](https://x.com/Chengzilhy) · [元の投稿](https://x.com/Chengzilhy/status/2098326362801221835)
+
+コミック / ストーリーボード · 写真撮影 · 3D レンダリング · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2098326362801221835.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)

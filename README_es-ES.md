@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**46** Prompts · Última incorporación: **2026-09-11**
+**47** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Ciberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Render 3D](#category-3d-render) · [Ciberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1359,6 +1359,32 @@ Estilo de cámara: Cinematografía auténtica de vlog de viajes, temblor de cám
 Estilo visual: Película de ensueño de vacaciones en Bali, estética de marca de viajes exclusiva, suave luz dorada, textura de piel realista, profundidad de campo cinematográfica reducida, aspecto nostálgico de película de 35 mm, tonos atmosféricos cálidos, expresiones espontáneas y naturales, narrativa emotiva.
 
 Evitar: estilo de dibujos animados, aspecto CGI, piel plástica, rostro poco realista, apariencia inconsistente del personaje, cambio de peinado, dedos adicionales, cuerpo distorsionado, iluminación artificial, colores sobresaturados, rostro borroso, movimientos antinaturales, personas duplicadas.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Render 3D
+
+<a name="prompt-2098326362801221835"></a>
+
+### Traducción en curso
+
+Autor：[@Chengzilhy](https://x.com/Chengzilhy) · [Publicación original](https://x.com/Chengzilhy/status/2098326362801221835)
+
+Cómic / Guion gráfico · Fotografía · Render 3D · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098326362801221835.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

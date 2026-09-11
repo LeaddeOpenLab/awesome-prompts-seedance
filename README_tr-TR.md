@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**46** Prompt · Son eklenen: **2026-09-11**
+**47** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [3D Modelleme](#category-3d-render) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1229,6 +1229,32 @@ Kamera Tarzı: Otantik seyahat vlogger sinematografisi, el kamerası sarsıntıs
 Görsel Tarz: Rüya gibi Bali tatil filmi, butik seyahat markası estetiği, yumuşak altın güneş ışığı, gerçekçi cilt dokusu, sinematik sığ alan derinliği, nostaljik 35mm film görünümü, sıcak atmosferik tonlar, doğal ve kurgusuz ifadeler, duygusal hikaye anlatımı.
 
 Kaçınılması gerekenler: çizgi film tarzı, CGI görünümü, plastik cilt, gerçekçi olmayan yüz, tutarsız karakter görünümü, değişen saç modeli, fazladan parmaklar, bozuk vücut, yapay aydınlatma, aşırı doygun renkler, bulanık yüz, doğal olmayan hareketler, yinelenen insanlar.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D Modelleme
+
+<a name="prompt-2098326362801221835"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Chengzilhy](https://x.com/Chengzilhy) · [Orijinal gönderi](https://x.com/Chengzilhy/status/2098326362801221835)
+
+Çizgi Roman / Hikaye Taslağı · Fotoğrafçılık · 3D Modelleme · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098326362801221835.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

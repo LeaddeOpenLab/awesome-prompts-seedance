@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**46** Prompts · Latest addition: **2026-09-11**
+**47** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [3D Render](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1539,6 +1539,119 @@ Camera Style: Authentic travel vlog cinematography, handheld camera shake, smoot
 Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
 
 Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D Render
+
+<a name="prompt-2098326362801221835"></a>
+
+### A 30-second semi-realistic 3D snowy wuxia chase and combat storyboard prompt, meticulously defining continuous offensive and defensive exchanges, camera movements, and sword aura visual effects between a black-haired and a blonde swordswoman weaving through a torii-like paifang arch and an ancient tree.
+
+Author：[@Chengzilhy](https://x.com/Chengzilhy) · [Source](https://x.com/Chengzilhy/status/2098326362801221835)
+
+Comic / Storyboard · Photography · 3D Render · Published
+
+**Summary:** A 30-second semi-realistic 3D snowy wuxia chase and combat storyboard prompt, meticulously defining continuous offensive and defensive exchanges, camera movements, and sword aura visual effects between a black-haired and a blonde swordswoman weaving through a torii-like paifang arch and an ancient tree.
+
+<img src="covers/2098326362801221835.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+[Global Settings]
+30 seconds, 16:9, 4K resolution target, 24fps, semi-realistic stylized 3D CG, bleak snowy fantasy wuxia cinematic aesthetic. Finely animated characters combined with physically realistic 3D textures: subsurface scattering on skin, fabric weave, worn leather, metallic reflections, distinct inertia in hair strands and clothing drape. Characters have realistic weight; slashes are driven by pushing off the ground, pivoting hips, and twisting the torso, with clothing and hair violently whipping during high-speed directional shifts. A blue-gray snowy landscape and cold white rim backlight unify the characters and environment, while dual-colored blade auras briefly illuminate faces, wooden pillars, and drifting snow.
+Not a gentle back-and-forth exchange, not circling in place. Core combat loop: Explosive close-in → dense attack and defense → heavy strike forcing knockback → immediate pursuit → clashing again at a new landing point. A forces a breakthrough, B repeatedly contests positioning to cut off the route and counterattacks fiercely; the fight continuously cuts past boulders, a paifang archway, and tree roots. Ultimately, A wins the passage behind the gate while B remains in hot pursuit.
+
+Non-stop high-speed combat from 0 to 30 seconds at normal time speed, free of slow motion, slow camera moves, bullet time, hit-stops, or freeze frames. Clashing already in the first frame, still trading slashes in rapid advance at the final frame. No independent skill activations, charging, magic arrays, or summons; every weapon swing inevitably carries a blade aura that unfurls along the edge; heavy impact camera shakes must occur after actual physical contact.
+
+[Asset References and Lock-in]
+@Image 1 : A, adult black-haired swordswoman, strictly following the facial identity, high ponytail, red hair ribbon, red-and-black short combat outfit, long bracers, leg armor, and black tall boots from the reference image. Wields the curved-blade single long saber from the reference image, unsheathed from the very first frame, right hand as primary grip with left hand providing support; empty scabbard strapped to the back. Vermilion fluid blade aura with an orange-gold blade edge. Combat style leans toward aggressive assault, breaking through defensive lines with lunging blade presses and returning heavy cuts.
+
+@Image 2 : B, adult blonde swordswoman, strictly following the facial identity, long pale-blonde hair, blue hair ornament, blue-and-black patterned dress with white lace trim, wrist guards, white stockings, and black shoes from the reference image. Wields a curved-blade long saber in each hand from the reference image; cyan-silver fluid blade aura with a silver-white blade edge and a deep cyan outer contour. Combat style leans toward high-speed interception, parrying with one blade while immediately counter-cutting with the other, repositioning diagonally to re-block the route.
+@Image 3 : A massive, weathered wooden paifang archway entwined with an ancient gnarled tree in a snow-covered canyon. Lock in the modeling, textures, and spatial relationships of the boulders, paifang, gate posts, tree canopy, thick exposed roots, and icicles beneath the eaves. Use only the environment; do not retain the distant small figures or the top/bottom black bars from the image.
+
+Only A and B appear throughout the entire clip, with three blades in total. A always wields one blade, B always wields dual blades; no face swaps, no outfit changes, no weapon swapping, no duplicate clones, and no repeated asset references in the prompt body. Snow gradually accumulates on their shoe soles and hem skirts; subtle wear marks progressively appear on armor and blade surfaces, and battle damage does not reset.
+
+[Scene and Spatial Trajectory]
+Snow squalls sweep across a blue-gray canyon, where a colossal ancient tree twines around a dilapidated paifang. Thick branches are blanketed in snow, and icicles dangle under the wooden eaves. Distant cold mist is preserved, while the foreground combat zone remains crisp and clear, ensuring characters are never swallowed by the fog.
+
+In the foreground lies an open snowfield; the inner flank of the boulder on the left connects to the left portal of the paifang. Fleshing out the space behind the mist in the reference image: behind the portal lies a wide root path extending along the left flank of the ancient tree, lined with low, step-able root shoulders; the end of this path bypasses a horizontal root, connecting to a gentle downhill snow slope behind the gate. Weathered low wooden railings stand along the gate's side, with snow-laden withered branches above the horizontal root, leaving the path unblocked.
+
+The fight advances continuously along the route: "Foreground snowfield → inner flank of the left boulder → left portal of the paifang → root path along the ancient tree's left side → snow slope behind the gate", never looping back to the starting point. The paifang and ancient tree gradually shift from front to side, then recede behind them, serving as authentic spatial markers of displacement.
+Destruction accumulates along the path: ice crusts shatter off boulder surfaces, side railings snap on impact, eaves icicles shatter and plummet, withered branches beside the root path snap, and continuous skid trenches carve into the ground. The main paifang structure and ancient tree trunk remain structurally sound; destroyed objects do not restore.
+
+[VFX and Camera Work]
+50% fluid + 25% particles + 25% snow/ice medium: Vermilion/orange-gold and cyan-silver fluid blade auras thickly envelop the cutting edges, bright particles spray along the direction of each swing, and snow powder, ice chips, and chilled mist erupt alongside footwork, blade paths, and collisions.
+
+Horizontal sweeps form wide fan arcs, upward cuts form rising crescents, and heavy downward cleaves create thick wedge-shaped blade lights; visual effects tightly follow the authentic blade trajectory without homing or expanding into ranged ultimate abilities. Short strikes still exhibit clean blade auras; sparks merely accentuate impact rhythm without replacing blade light. Cyan-silver blade auras preserve deep cyan silhouettes so they do not blend into the white snow backdrop; the two colors briefly flare together only at intersection points, never tinting the entire screen.
+
+Heavy strikes first show clear weapon contact, followed by a brief directional camera shake, immediately pulling back along the direction of the knockback; time does not stop, characters and debris keep moving. Light clashes produce no camera shake; no black-and-white impact frames. Motion blur is concentrated on the environment and moving edges, keeping key collision points, faces, and weapon grips sharp and readable.
+
+Pseudo-one-shot technique, written in 3-second blocks with second-by-second descriptions; transitions achieved via rapid push-ins, whip pans, sudden rises/descents, and close passes by rocks and wooden pillars. Close-up combat sticks tight, rapid knockbacks immediately pull wide, and pursuits close the distance again at high velocity; no prolonged constant-speed side tracking, no arbitrary roll rotations. Wide shots must clearly show the origin, trajectory of the knockback, and new landing spot, never substituting background swaps for physical displacement.
+Each short burst of engagement features a combined 8–10 tight, active moves between both fighters, rather than artificially squeezing ten weapon swings into long knockbacks and pursuits. Pure melee weapon combat without punches or kicks. After every impact-driven displacement, the pursuer instantly follows up, and the opponent counters immediately upon landing without waiting for the snow and smoke to settle.
+
+[Shot 1 (0–3s) | Crashing Clash in the Snow]
+t=1s: Camera skims low over the snow surface rushing forward at extreme speed; FS full-shot low-angle: A, at the front-left, is already bounding across the snow toward B at the back-right, driving a diagonal cleave into B's right blade. B's left blade immediately counters with a return slash; A parries it away and continues pressing forward. Vermilion and cyan-silver blade auras cross and unfurl, kicking twin sprays of snow powder outward from behind their heels.
+t=2s: Camera whips tightly along the clash point toward the left boulder; MS medium shot: A's horizontal slash forces B's right blade to parry; A's upward flick clashes against B's downward pressing left blade, followed by a diagonal cleave forcing B to alternate guard blocks. Seizing an opening during A's recovery, B slashes toward A's weapon-holding side; A pulls back her shoulder, parries, and both sprint along a diagonal vector as dense sparks burst intermittently between thick blade arcs.
+t=3s: Camera pulls back sharply into a wide full shot along B's retreat direction; A pushes off the ground, pivots her hips, and executes a two-handed heavy cleave slamming into B's crossed dual blades. Following contact, the camera shakes violently in the direction of the force; B's feet momentarily leave the snow as she flies back toward the inner edge of the boulder, carving deep skid troughs in the snow. A instantly pursues with another strike, treading on the still-airborne snow dust.
+
+[Shot 2 (3–6s) | Pursuit to the Rock Base]
+t=4s: Camera skims fast and low along the snow trough; FS full shot: B lands, bending her knees as she skids back, executing an upward slice with her right blade and a horizontal block with her left. A deflects the upward slash with an angled parry, strides toward the inner side of the rock, and cuts back; B catches it with her left blade, their dual-colored arcs churning the snow at the base of the rock into a low snow crest.
+t=5s: Camera closes in quickly along the curved surface of the boulder; MS medium shot: B's diagonal cleave with the right blade forces A to raise her guard; B's left blade hooks back, forcing A to tuck her waist. A deflects the edge, advances with a horizontal slash, B blocks with her right blade and thrusts upward with her left; both circle the rock's outcrop, trading blows continuously as blade flashes graze the camera lens without occluding the point of contact.
+t=6s: Tracking A's counter-slash, the camera whips forcefully from the rock face to the snow path in front of the gate; FS full shot: B tilts her head and dodges sideways; A's blade aura grazes the rock face, shearing off a large sheet of ice crust. Exploiting the gap, B presses in with successive dual-blade strikes; A parries repeatedly, driven toward the portal. Fighting their way through falling ice, the boulder shifts to their side and recedes behind them.
+
+[Shot 3 (6–9s) | Contesting the Path, Shattering the Fence]
+t=7s: Camera rapidly tracks backward at a low angle along the snow path before the gate; FS full shot: B cuts inside along a tighter line to intercept A, swinging her right blade horizontally to block the route and immediately following with a reverse cut from her left blade. A halts the horizontal slash with a vertical blade, turns her wrist to parry the left blade, and steps in with a diagonal press to close the distance again, their footprints and snow grooves carving a trail straight toward the left portal.
+t=8s: Camera slingshots forward tightly alongside A's weapon side; MS medium shot: A shifts attack angles fluidly with a low cut, upward flick, and diagonal cleave; B presses down with her left blade, parries with her right, and flicks upward with her left. A twists her shoulders to evade and immediately slashes back; her wide red-gold arc pushes through the cyan-silver blade trajectory, forcing B's arms to one side.
+t=9s: Camera pulls back rapidly from the clash toward the portal; FS full shot: A steps through with a two-handed heavy downward slash, crashing into B's hastily braced defense. A brief jolt follows contact; B flies backward, crashing through the weathered low wooden railing beside the gate. Splintered planks and snow chunks blast toward the portal along her knockback path, while A charges through the breach without breaking stride.
+
+[Shot 4 (9–12s) | Slashing Through the Gate in Pursuit]
+t=10s: Camera pushes through swirling wooden splinters; FS full shot: B lands inside the gate and skids back, her right blade already slashing back at the pursuing A. A ducks low, evades to the side, and delivers a return horizontal slice; B blocks with her left blade as both physically cross the threshold from outside, leaving the broken railing behind in the snow.
+t=11s: Camera pulls in tight beside both fighters to an MS medium shot: A's upward strike clashes with B's downward right parry; A cuts back, forcing B's left blade into a horizontal guard; B draws back her right blade for a counter-cleave, and A meets it before immediately pressing a slash toward the inside of the gate post. Dense clashes erupt along their forward trajectory, the gate post rapidly sweeping past in the foreground.
+t=12s: Tracking the final diagonal slash, the camera whips toward the root path behind the gate; FS full shot: B deflects A's blade tip, and the deflected red-gold arc shatters decayed wooden ornaments on the gate, dislodging hanging icicles from the eaves. Seizing the momentum, A cuts back and slams into B's guard again, driving her back toward the root path. Following contact, a brief jolt occurs as both fighters trade strikes while slicing through falling ice.
+
+[Shot 5 (12–15s) | Dual Blades Counter-Pressure]
+t=13s: Camera tracks backward at high speed along the root path to the left of the ancient tree; FS full shot: B abruptly delivers a low cut with her left blade, forcing A to parry downward, then charges in with a diagonal cleave from her right blade. Even as A brings up her guard, she is shoved sideways; the thick cyan-silver arc grinds along the red-gold blade body, carving a curved snow line from A's boot soles toward the root shoulder.
+t=14s: Camera tracks A's sliding recovery, closing in fast; MS medium shot: B advances across the snow, her right horizontal slash slamming into A's vertical block, followed by an upward reverse flick with the left that forces A to roll her wrists and press down. A immediately counters toward B's weapon side; B pulls her right blade to meet it and slashes back with her left, their tight melee continuing deeper along the root path.
+t=15s: Camera pulls sharply from the blade clash to the side of the root shoulder; FS full shot: B's heavy right slash crashes down on A's two-handed guard. A camera shake occurs upon contact; A is forced diagonally backward onto the low root shoulder, her boot crushing the ice crust. B's left blade is already pursuing along a rising arc; A charges forward while deflecting the blade back, her hem swept upward by the cyan-silver shockwave.
+
+[Shot 6 (15–18s) | High-Angle Counter-Slash]
+t=16s: Camera rises swiftly and swoops downward as A leaps off the root shoulder; FS full shot: Leveraging the height difference, A dips her shoulder and drives a diagonal cleave into B's guard. B catches the blow on layered dual blades as a vermilion wedge of blade light slams down along the physical edge; a brief camera shake follows contact. B sinks into her knees, feet sliding backward as the snow crust beside her feet blasts into a flat fan shape.
+t=17s: Following A's landing, the camera rapidly pulls in to an MS medium shot: A stabilizes her footing and flows through a horizontal slice, upward flick, and downward chop; B counters with right parry, left deflection, right guard, and an instant left counter-cut. A pulls back her blade to meet the strike and steps in with a returning slash. Both race along the root path as sparks, ice splinters, and blade auras disperse in layers to either side.
+t=18s: Tracking A's two-handed horizontal slash, the camera whips wide into an FS full shot: A strikes B's closed blades, blasting her off the outer edge of the root shoulder. B skids backward a short distance, crashing through withered branches beside the root path before landing in a snow trough ahead, knocking loose sheets of snow from the boughs. A immediately leaps over the snapped branches, chasing down the new landing position.
+
+[Shot 7 (18–21s) | Circling Roots, Re-blocking the Way]
+t=19s: Camera skims along the snow trough close to the horizontal root; FS full shot: The moment B lands, she counter-cuts with her right blade; A meets the strike and lunges forward. B's left blade slashes back to force A to veer, simultaneously cutting across the inner curve of the horizontal root to take the lead; A pursues swiftly along the outside edge, their circular path fully visible.
+t=20s: Camera arcs along the edge of the horizontal root, tightening into an MS medium shot: B swings her right blade to cut off A's path; A flicks upward to parry and immediately cuts back. B blocks with her left blade and follows with a right reverse slice; A presses her blade edge, deflects it, and cleaves diagonally. Alternating blade arcs illuminate the coarse tree bark as both contest for the forward position along the root margin.
+t=21s: Camera whips toward the tip of the horizontal root following B's downward press; FS full shot: A guards with both hands and leaps over the low root using the momentum of the impact; B vaults the root right behind her, slashing forward with her left blade, but A parries instantly upon landing. A brief shake follows the heavy clash, scraping thin ice off the root surface; both fighters press toward the exit along the root path without lingering beside the root.
+
+[Shot 8 (21–24s) | Snow-Cleaving Pursuit Slash · Key Highlight]
+t=22s: Camera closes in from behind A's flank toward the exit; MS medium shot: A's horizontal slash forces B's right blade outward; B's left blade immediately counters, but A raises her blade to meet it and presses down. The deflected blade aura severs a snow-laden twig, causing snow to cascade before the exit like a white curtain while both continue clashing forward.
+t=23s: Camera pushes forward into the snow curtain, tracking A's blade; FS full shot: A charges through without pausing, cleaving the falling snow horizontally; her red-gold fan-shaped blade aura carves a brilliant tear through the drift. Across the breach, B parries with her right blade and counter-attacks with her left, while A parries in return, their silhouettes sharply delineated through the severed snow curtain.
+t=24s: Camera bursts out of the snow curtain and tracks sideways into a wide FS full shot: A steps forward with a heavy two-handed slash striking B's crossed dual blades. Upon contact, the camera jolts briefly in the direction of the knockback; the arc of the blade aura blasts the falling snow into massive wings expanding outward on both sides. B is knocked clear of the passage onto the snow slope behind the gate, while A bursts through the cascading snow wings in immediate pursuit.
+
+[Shot 9 (24–27s) | Continuous Exchanges and Position Contests on the Slope]
+t=25s: Camera retreats at high speed at a low angle down the snow slope; FS full shot: B's boots skid down the slope to absorb the impact; her right blade hooks upward to halt A's pursuit, and her left sweeps horizontally to block the inside line. A deflects the upward slash, raises a vertical guard against the horizontal cut, and immediately steps in, the snow trench trailing all the way from the exit to their feet.
+t=26s: Camera tightens into a two-character MS medium shot advancing down the slope: A's horizontal cut forces B's left block; A's upward flick clashes against B's downward right press, followed by an angled slash forcing B to cross-guard. B separates her blades to counter-cut; A withdraws her edge, deflects, and side-steps half a pace. The continuous blade trajectories shift angles at full sprint, hair and garments whipping wildly as they change direction abruptly.
+t=27s: Camera arcs swiftly along A's inside flank, expanding into a full shot: A presses B's right blade down and lunges downhill into the forward position; B immediately sweeps her left blade horizontally to seal the gap. A meets the heavy clash with a two-handed guard; the camera shakes briefly upon impact. The fighters stagger their positions one behind the other, with B still attempting to cut diagonally back in front of A.
+
+[Shot 10 (27–30s) | Heavy Slash Breakthrough · Relentless Pursuit]
+t=28s: Camera tracks backward at high speed just ahead and to the side of both fighters; MS medium shot: B cuts back with her right blade and flicks upward with her left, trying repeatedly to reclaim the blocking position. A blocks downward, twists her wrist to parry, then steps forward with a horizontal sweep that forces B back into a dual-blade guard; vermilion and cyan-silver arcs overlap in dense succession as A persistently drives down the slope.
+t=29s: Camera widens abruptly as A pivots her hips for a heavy cleave; FS full shot: A's two-handed diagonal strike crashes squarely into B's dual-blade guard. A violent directional shake erupts upon contact; B is knocked sideways off the snow slope, flying a short distance and plowing a wide snow furrow upon landing. The central path opens, and A charges into the breach along the momentum of her swing, leaving the paifang far behind them.
+t=30s: Camera charges along A's breakthrough path at high speed; FS full shot: A sprints down the slope in the lead; B catches her footing and pursues from the side-rear, swinging her blade. Without breaking stride, A twists her torso and brings her blade back to parry the incoming strike. The dual-colored blade auras clash once more in full motion, blasting snow dust rearward. A maintains the lead as she passes through the clearing beyond the gate, while B pursues relentlessly with dual blades raised, ending abruptly at normal speed.
+
+[Audio and Ending]
+Rapid drumbeats match the furious pace; light clashes are crisp and metallic, while heavy slashes feature an initial metallic crash followed by a low-frequency rumble. Footfalls in snow, scraping against ice on landing, splintering railings, and shattering icicles synchronize precisely with the on-screen action. A fierce whooshing sound accompanies the cleaving of the snow curtain, with continuous winter wind and blizzard noise throughout. No dialogue, no on-screen text, no muting at the end, no freeze, and no sheathing of weapons.
+A claims the path and achieves a breakthrough; B loses her blocking position but remains able to pursue; both survive and retain their respective weapons throughout. The final frame preserves A ahead and B to the side-rear in continuous motion, with no third characters, new enemies, or standalone spell abilities added.
+
+[Negative Prompt]
+Circling in place, gentle turn-based fencing, repeating the exact same four-slash four-parry sequence, heavy strikes causing only half-step recoil, sliding without distinct knockback, failing to pursue after knockback, waiting after landing, running without clashing, static standing beam attacks, sourceless explosions, swinging weapons without blade auras, only tiny sparks throughout, overly thin blade auras, cyan-silver blade aura blending into white snow, visual effects occluding collision points, full-screen white flashes, full-screen defocus, characters floating slowly, hovering, mid-air direction shifts without leverage, teleportation, swapping backgrounds to fake movement, repeatedly looping back to the starting point, slow motion, slow camera moves, bullet time, freeze frames, hit-stops, black-and-white impact frames, continuous erratic camera shaking, camera shaking before impact, unmotivated rolling camera angles, unarmed punches and kicks, charging up attacks, independent spell skills, magic circles, summoning, clones, flamethrowing, freezing magic, homing blade auras, weapon clipping through bodies or deforming, extra limbs, face swapping, abrupt costume changes, changing weapon count, A wielding dual blades, B losing a blade, floating scabbards, scene teleportation, destroyed structures resetting, skid marks vanishing, ancient tree falling without cause, blood, severed limbs, exposed viscera, standing stare-down ending, sheathing swords, victory celebration poses, third character, distant small figures from reference image, live-action photography style, flat 2D anime, chibi style, plastic figurine look, subtitles, watermarks, UI elements, letterboxing, black screen.
 ```
 
 [↑ Back to categories](#catalog)

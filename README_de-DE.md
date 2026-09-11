@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**46** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**47** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [3D-Rendering](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1243,6 +1243,32 @@ Kamerastil: Authentische Reise-Vlog-Kinematografie, Handkamerawackeln, sanfte fi
 Visueller Stil: Verträumter Bali-Urlaubsfilm, Ästhetik einer Boutique-Reisemarke, weiches goldenes Sonnenlicht, realistische Hauttextur, filmische geringe Schärfentiefe, nostalgischer 35mm-Film-Look, warme atmosphärische Töne, natürliche ungestellte Gesichtsausdrücke, emotionales Storytelling.
 
 Vermeiden: Cartoon-Stil, CGI-Look, plastische Haut, unrealistisches Gesicht, uneinheitliches Erscheinungsbild der Person, wechselnde Frisur, zusätzliche Finger, verzerrter Körper, künstliche Beleuchtung, übersättigte Farben, verschwommenes Gesicht, unnatürliche Bewegungen, doppelte Personen.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D-Rendering
+
+<a name="prompt-2098326362801221835"></a>
+
+### Übersetzung läuft
+
+Autor：[@Chengzilhy](https://x.com/Chengzilhy) · [Originalbeitrag](https://x.com/Chengzilhy/status/2098326362801221835)
+
+Comic / Storyboard · Fotografie · 3D-Rendering · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098326362801221835.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

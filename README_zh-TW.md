@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**46** 筆內容 · 最新收錄: **2026-09-11**
+**47** 筆內容 · 最新收錄: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [賽博龐克 / 科幻](#category-cyberpunk-sci-fi) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [3D 渲染](#category-3d-render) · [賽博龐克 / 科幻](#category-cyberpunk-sci-fi) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1370,6 +1370,32 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 視覺風格：夢幻峇里島度假影片，精品旅行品牌美學，柔和的金色陽光，逼真的皮膚質感，電影級淺景深，懷舊35毫米底片質感，溫暖的氛圍色調，自然無劇本的真情流露，富有感染力的敘事感。
 
 避免：卡通風格，CGI外觀，塑膠假皮，不真實的臉部，角色外觀不一致，變換髮型，多餘手指，扭曲身體，人造假光，過度飽和的色彩，模糊的面容，不自然的動作，重複出現的人物。
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D 渲染
+
+<a name="prompt-2098326362801221835"></a>
+
+### 翻譯中
+
+作者：[@Chengzilhy](https://x.com/Chengzilhy) · [查看 X 原帖](https://x.com/Chengzilhy/status/2098326362801221835)
+
+漫畫 / 分鏡腳本 · 攝影 · 3D 渲染 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2098326362801221835.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)
