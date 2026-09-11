@@ -329,7 +329,7 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2098290630179057858"></a>
 
-### Đang dịch
+### Phân cảnh khoa học viễn tưởng đậm chất điện ảnh mô tả một người phụ nữ bước lên chuyến tàu nửa đêm du hành qua không gian đến một trạm mặt trăng bị bỏ hoang.
 
 Tác giả：[@Strength04\_X](https://x.com/Strength04_X) · [Bài gốc](https://x.com/Strength04_X/status/2098290630179057858)
 
@@ -337,14 +337,14 @@ Tác giả：[@Strength04\_X](https://x.com/Strength04_X) · [Bài gốc](https:
 
 Bài gốc：[@Strength04\_X](https://x.com/Strength04_X) · [Bài gốc](https://x.com/Strength04_X/status/2098256490238755226)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Phân cảnh khoa học viễn tưởng đậm chất điện ảnh mô tả một người phụ nữ bước lên chuyến tàu nửa đêm du hành qua không gian đến một trạm mặt trăng bị bỏ hoang.
 
 <img src="covers/2098290630179057858.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+REFERENCE: Sử dụng hình ảnh tham chiếu nhân vật được cung cấp làm nhận diện hình ảnh chính xác của nhân vật chính. Giữ nguyên khuôn mặt, kiểu tóc, trang phục, tỷ lệ cơ thể và các chi tiết thị giác của cô ấy không thay đổi trong toàn bộ phân cảnh. 0–5 GIÂY Một nhà ga tàu điện ngầm bị bỏ hoang hoàn toàn vắng lặng vào lúc nửa đêm. Bụi bay lơ lửng qua những ánh đèn chập chờn. Một người phụ nữ trẻ đứng đợi một mình trên sân ga thì một đoàn tàu cũ đột ngột tiến đến mà không phát ra bất kỳ âm thanh nào. Các cửa sổ của tàu để lộ bầu trời đầy sao thay vì hành khách. 5–10 GIÂY Cửa tàu tự động mở ra. Cô bước vào bên trong. Máy quay đi theo sau cô khi cửa đóng lại → đoàn tàu tăng tốc qua đường hầm tối tăm → các bức tường của đường hầm bắt đầu biến đổi thành các thiên hà và các hành tinh xa xôi. 10–16 GIÂY Đoàn tàu lao ra khỏi đường hầm và di chuyển qua không gian mở trên những đường ray vô hình. Trái Đất hiện ra ở phía xa bên dưới. Cô nhìn qua cửa sổ khi những mảnh vỡ khổng lồ của một mặt trăng vỡ vụn trôi qua đoàn tàu. 16–22 GIÂY Đoàn tàu tiếp cận một trạm mặt trăng khổng lồ bị bỏ hoang được xây dựng trên bề mặt của mặt trăng. Đột nhiên, từng ánh đèn đã tắt trên trạm lần lượt bật sáng. Máy quay di chuyển bên cạnh đoàn tàu khi hàng ngàn sân ga trống trải trải dài vào xa xăm. 22–27 GIÂY Đoàn tàu dừng lại. Cô bước ra ngoài mặt trăng. Trước mặt cô sừng sững một cấu trúc bí ẩn khổng lồ có hình dáng như một cánh cửa, đang từ từ mở ra về phía Trái Đất. Một chùm ánh sáng mặt trời ấm áp xuyên qua nó và chiếu rọi lên khuôn mặt cô. 27–30 GIÂY Máy quay lùi nhanh ra xa khỏi trạm mặt trăng → toàn bộ mặt trăng hiện vào tầm mắt → đoàn tàu bắt đầu rời đi dọc theo đường ray không tưởng hướng về phía Trái Đất → cảnh quay cuối cùng cho thấy đoàn tàu phát sáng nhỏ bé đang băng qua không gian bên dưới một hành tinh xanh khổng lồ. VISUAL STYLE: Khoa học viễn tưởng kỳ ảo điện ảnh siêu thực, nhân vật chân thực như ảnh chụp, môi trường mặt trăng thực tế, ánh sáng không gian hợp lý theo vật lý, kiến trúc bỏ hoang chi tiết, ánh sáng thể tích, hiệu ứng ống kính tinh tế, quy mô đồ sộ, kỹ thuật quay phim Hollywood cao cấp, bố cục IMAX. CAMERA: Mở đầu chậm rãi hồi hộp, các cảnh theo dõi mượt mà, gia tốc sống động trong quá trình chuyển đổi không gian, các cảnh quay quỹ đạo rộng, cú kéo lùi có kiểm soát ở phần kết. NEGATIVE: hoạt hình, anime, CGI chất lượng thấp, biến dạng khuôn mặt, nhân vật không nhất quán, thay đổi trang phục, giải phẫu méo mó, phản xạ phi thực tế, rung máy quá mức, văn bản, phụ đề, logo, hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

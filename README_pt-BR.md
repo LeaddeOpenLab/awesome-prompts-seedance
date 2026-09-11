@@ -313,7 +313,7 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2098290630179057858"></a>
 
-### Tradução em andamento
+### Sequência cinematográfica de ficção científica retratando uma mulher embarcando em um trem à meia-noite que viaja pelo espaço até uma estação lunar abandonada.
 
 Autor：[@Strength04\_X](https://x.com/Strength04_X) · [Publicação original](https://x.com/Strength04_X/status/2098290630179057858)
 
@@ -321,14 +321,14 @@ Cinematográfico / Imagem de Filme · Cyberpunk / Ficção Científica · Person
 
 Publicação original：[@Strength04\_X](https://x.com/Strength04_X) · [Publicação original](https://x.com/Strength04_X/status/2098256490238755226)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Sequência cinematográfica de ficção científica retratando uma mulher embarcando em um trem à meia-noite que viaja pelo espaço até uma estação lunar abandonada.
 
 <img src="covers/2098290630179057858.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+REFERÊNCIA: Use a imagem de referência de personagem fornecida como a identidade visual exata da protagonista. Mantenha seu rosto, penteado, roupas, proporções corporais e detalhes visuais inalterados ao longo de toda a sequência. 0–5 SEG Uma estação ferroviária subterrânea abandonada jaz completamente vazia à meia-noite. A poeira flutua através de luzes piscantes. Uma jovem espera sozinha na plataforma quando um trem antigo chega de repente sem emitir nenhum som. Suas janelas revelam um céu repleto de estrelas em vez de passageiros. 5–10 SEG As portas do trem se abrem sozinhas. Ela entra. A câmera segue atrás dela enquanto as portas se fecham → o trem acelera através do túnel escuro → as paredes do túnel começam a se transformar em galáxias e planetas distantes. 10–16 SEG O trem irrompe para fora do túnel e viaja pelo espaço aberto sobre trilhos invisíveis. A Terra aparece lá embaixo. Ela olha pela janela enquanto pedaços enormes de uma lua estilhaçada passam à deriva pelo trem. 16–22 SEG O trem se aproxima de uma gigantesca estação lunar abandonada, construída ao longo da superfície da lua. De repente, todas as luzes apagadas da estação se acendem uma a uma. A câmera se move ao lado do trem enquanto milhares de plataformas vazias se estendem na distância. 22–27 SEG O trem para. Ela desembarca na lua. Diante dela ergue-se uma enorme e misteriosa estrutura em forma de portal, abrindo-se lentamente em direção à Terra. Um feixe de luz solar acolhedora passa por ele e ilumina seu rosto. 27–30 SEG A câmera se afasta rapidamente para trás a partir da estação lunar → a lua inteira entra em vista → o trem começa a partir ao longo de seus trilhos impossíveis em direção à Terra → o plano final mostra o pequeno trem brilhante cruzando o espaço sob um enorme planeta azul. ESTILO VISUAL: Ficção científica/fantasia cinematográfica ultrarrealista, personagem fotorrealista, ambiente lunar realista, iluminação espacial fisicamente crível, arquitetura abandonada detalhada, luz volumétrica, efeitos sutis de lente, escala massiva, cinematografia premium de Hollywood, composição IMAX. CÂMERA: Abertura lenta e cheia de suspense, travellings suaves, aceleração dinâmica durante a transição espacial, planos orbitais amplos, recuo final controlado. NEGATIVO: desenho animado, anime, CGI de baixa qualidade, metamorfose de rosto, inconsistência de personagem, trocas de roupa, anatomia distorcida, reflexos irreais, movimento excessivo de câmera, texto, legendas, logotipos, marca d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)

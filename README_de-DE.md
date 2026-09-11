@@ -327,7 +327,7 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2098290630179057858"></a>
 
-### Übersetzung läuft
+### Cineastische Sci-Fi-Sequenz, die eine Frau zeigt, die in einen Mitternachtszug einsteigt, der durch das All zu einer verlassenen Mondstation fährt.
 
 Autor：[@Strength04\_X](https://x.com/Strength04_X) · [Originalbeitrag](https://x.com/Strength04_X/status/2098290630179057858)
 
@@ -335,14 +335,14 @@ Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Charakter · Fahrzeug · Veröf
 
 Originalbeitrag：[@Strength04\_X](https://x.com/Strength04_X) · [Originalbeitrag](https://x.com/Strength04_X/status/2098256490238755226)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Cineastische Sci-Fi-Sequenz, die eine Frau zeigt, die in einen Mitternachtszug einsteigt, der durch das All zu einer verlassenen Mondstation fährt.
 
 <img src="covers/2098290630179057858.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+REFERENZ: Verwende das bereitgestellte Charakter-Referenzbild als exakte visuelle Identität der Protagonistin. Behalte ihr Gesicht, ihre Frisur, ihre Kleidung, ihre Körperproportionen und visuellen Details während der gesamten Sequenz unverändert bei. 0–5 SEK Ein verlassener unterirdischer Bahnhof liegt um Mitternacht vollkommen leer da. Staub schwebt durch flackernde Lichter. Eine junge Frau wartet allein auf dem Bahnsteig, als plötzlich ein alter Zug ankommt, ohne ein Geräusch zu machen. Seine Fenster offenbaren einen sternenübersäten Himmel statt Passagieren. 5–10 SEK Die Zugtüren öffnen sich wie von selbst. Sie steigt ein. Die Kamera folgt ihr von hinten, während sich die Türen schließen → der Zug beschleunigt durch den dunklen Tunnel → die Tunnelwände beginnen sich in Galaxien und ferne Planeten zu verwandeln. 10–16 SEK Der Zug bricht aus dem Tunnel hervor und fährt auf unsichtbaren Eisenbahnschienen durch den offenen Weltraum. Die Erde erscheint weit unten. Sie blickt durch das Fenster, während riesige Trümmer eines zersplitterten Mondes am Zug vorbeiziehen. 16–22 SEK Der Zug nähert sich einer gigantischen verlassenen Mondstation, die quer über die Mondoberfläche gebaut wurde. Plötzlich schaltet sich jedes erloschene Licht der Station nacheinander ein. Die Kamera bewegt sich neben dem Zug, während sich Tausende leerer Bahnsteige in die Ferne erstrecken. 22–27 SEK Der Zug hält an. Sie tritt hinaus auf den Mond. Vor ihr steht eine riesige, geheimnisvolle Struktur in Form eines Tors, das sich langsam in Richtung Erde öffnet. Ein Strahl warmen Sonnenlichts fällt hindurch und erleuchtet ihr Gesicht. 27–30 SEK Die Kamera zieht sich rasch von der Mondstation zurück → der gesamte Mond gerät ins Blickfeld → der Zug beginnt seine Abfahrt entlang seiner unmöglichen Schiene in Richtung Erde → die letzte Einstellung zeigt den winzigen, leuchtenden Zug, der den Weltraum unter einem gewaltigen blauen Planeten durchquert. VISUELLER STIL: Ultrarealistische cineastische Science-Fantasy, fotorealistischer Charakter, realistische Mondumgebung, physikalisch glaubwürdige Weltraumbeleuchtung, detaillierte verlassene Architektur, volumetrisches Licht, subtile Linseneffekte, massiver Maßstab, erstklassige Hollywood-Kinematographie, IMAX-Komposition. KAMERA: Langsamer, spannungsgeladener Auftakt, sanfte Tracking-Shots, dynamische Beschleunigung während des Übergangs ins All, weite Orbitalaufnahmen, kontrollierter finaler Rückzug. NEGATIV: Zeichentrick, Anime, minderwertiges CGI, Gesichtsmorphing, Inkonsistenz des Charakters, Kostümwechsel, verzerrte Anatomie, unrealistische Reflexionen, übermäßiges Kamerawackeln, Text, Untertitel, Logos, Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

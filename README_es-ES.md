@@ -327,7 +327,7 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2098290630179057858"></a>
 
-### Traducción en curso
+### Secuencia cinematográfica de ciencia ficción que representa a una mujer abordando un tren de medianoche que viaja por el espacio hacia una estación lunar abandonada.
 
 Autor：[@Strength04\_X](https://x.com/Strength04_X) · [Publicación original](https://x.com/Strength04_X/status/2098290630179057858)
 
@@ -335,14 +335,14 @@ Cine / Fotograma de película · Ciberpunk / Ciencia ficción · Personaje · Ve
 
 Publicación original：[@Strength04\_X](https://x.com/Strength04_X) · [Publicación original](https://x.com/Strength04_X/status/2098256490238755226)
 
-**Resumen:** Traducción en curso
+**Resumen:** Secuencia cinematográfica de ciencia ficción que representa a una mujer abordando un tren de medianoche que viaja por el espacio hacia una estación lunar abandonada.
 
 <img src="covers/2098290630179057858.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+REFERENCE: Utiliza la imagen de referencia del personaje proporcionada como la identidad visual exacta de la protagonista. Mantén su rostro, peinado, vestimenta, proporciones corporales y detalles visuales sin cambios a lo largo de toda la secuencia. 0–5 SEC Una estación de metro subterránea abandonada se encuentra completamente vacía a medianoche. El polvo flota a través de luces parpadeantes. Una mujer joven espera sola en el andén cuando de repente llega un tren antiguo sin emitir ningún sonido. En lugar de pasajeros, sus ventanas muestran un cielo lleno de estrellas. 5–10 SEC Las puertas del tren se abren solas. Ella entra. La cámara la sigue por detrás mientras las puertas se cierran → el tren acelera por el túnel oscuro → las paredes del túnel comienzan a transformarse en galaxias y planetas lejanos. 10–16 SEC El tren sale del túnel y viaja por el espacio abierto sobre vías invisibles. La Tierra aparece a lo lejos abajo. Ella mira a través de la ventana mientras enormes fragmentos de una luna destrozada flotan más allá del tren. 16–22 SEC El tren se aproxima a una gigantesca estación lunar abandonada construida a lo largo de la superficie de la luna. De repente, todas las luces apagadas de la estación se encienden una por una. La cámara se desplaza junto al tren mientras miles de andenes vacíos se extienden en la distancia. 22–27 SEC El tren se detiene. Ella sale a la superficie de la luna. Frente a ella se alza una enorme y misteriosa estructura con forma de puerta, que se abre lentamente hacia la Tierra. Un rayo de cálida luz solar la atraviesa e ilumina su rostro. 27–30 SEC La cámara retrocede rápidamente desde la estación lunar → la luna entera entra en plano → el tren comienza a alejarse a lo largo de su vía imposible hacia la Tierra → el plano final muestra el diminuto tren resplandeciente cruzando el espacio bajo un colosal planeta azul. VISUAL STYLE: Ciencia-fantasía cinematográfica ultrarrealista, personaje fotorrealista, entorno lunar realista, iluminación espacial físicamente creíble, arquitectura abandonada detallada, luz volumétrica, sutiles efectos de lente, escala colosal, cinematografía de Hollywood de primera calidad, composición IMAX. CAMERA: Apertura lenta y de suspenso, tomas de seguimiento fluidas, aceleración dinámica durante la transición espacial, tomas orbitales amplias, alejamiento final controlado. NEGATIVE: dibujos animados, anime, CGI de baja calidad, deformación facial, inconsistencia de personajes, cambios de vestuario, anatomía distorsionada, reflejos poco realistas, vibración excesiva de la cámara, texto, subtítulos, logotipos, marca de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

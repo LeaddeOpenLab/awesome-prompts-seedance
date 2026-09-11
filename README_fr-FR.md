@@ -327,7 +327,7 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2098290630179057858"></a>
 
-### Traduction en cours
+### Séquence cinématographique de science-fiction dépeignant une femme montant à bord d'un train de minuit qui voyage à travers l'espace vers une station lunaire abandonnée.
 
 Auteur：[@Strength04\_X](https://x.com/Strength04_X) · [Publication originale](https://x.com/Strength04_X/status/2098290630179057858)
 
@@ -335,14 +335,14 @@ Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction ·
 
 Publication originale：[@Strength04\_X](https://x.com/Strength04_X) · [Publication originale](https://x.com/Strength04_X/status/2098256490238755226)
 
-**Résumé:** Traduction en cours
+**Résumé:** Séquence cinématographique de science-fiction dépeignant une femme montant à bord d'un train de minuit qui voyage à travers l'espace vers une station lunaire abandonnée.
 
 <img src="covers/2098290630179057858.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+RÉFÉRENCE : Utilisez l'image de référence de personnage fournie comme identité visuelle exacte de la protagoniste. Conservez son visage, sa coiffure, ses vêtements, ses proportions corporelles et ses détails visuels inchangés tout au long de la séquence. 0–5 SEC Une gare souterraine abandonnée est complètement vide à minuit. La poussière flotte à travers des lumières vacillantes. Une jeune femme attend seule sur le quai lorsqu'un vieux train arrive soudainement sans émettre le moindre son. Ses fenêtres révèlent un ciel rempli d'étoiles au lieu de passagers. 5–10 SEC Les portes du train s'ouvrent d'elles-mêmes. Elle monte à bord. La caméra la suit par-derrière tandis que les portes se ferment → le train accélère à travers le tunnel obscur → les parois du tunnel commencent à se transformer en galaxies et en planètes lointaines. 10–16 SEC Le train jaillit hors du tunnel et voyage à travers l'espace ouvert sur des rails invisibles. La Terre apparaît loin en dessous. Elle regarde par la fenêtre tandis que d'immenses morceaux d'une lune brisée défilent le long du train. 16–22 SEC Le train s'approche d'une gigantesque station lunaire abandonnée construite à la surface de la lune. Soudain, chaque lumière éteinte de la station s'allume une à une. La caméra se déplace à côté du train tandis que des milliers de quais vides s'étendent à perte de vue. 22–27 SEC Le train s'arrête. Elle pose le pied dehors, sur la lune. Devant elle se dresse une imposante structure mystérieuse en forme d'embrasure de porte, s'ouvrant lentement vers la Terre. Un faisceau de lumière solaire chaleureuse la traverse et illumine son visage. 27–30 SEC La caméra recule rapidement depuis la station lunaire → la lune entière entre dans le champ → le train commence à repartir le long de sa voie ferrée impossible vers la Terre → le plan final montre le minuscule train lumineux traversant l'espace sous une gigantesque planète bleue. STYLE VISUEL : Science-fantasy cinématographique ultra-réaliste, personnage photoréaliste, environnement lunaire réaliste, éclairage spatial physiquement crédible, architecture abandonnée détaillée, lumière volumétrique, effets d'objectif subtils, échelle monumentale, cinématographie hollywoodienne haut de gamme, composition IMAX. CAMÉRA : Ouverture lente et pleine de suspense, travellings fluides, accélération dynamique pendant la transition spatiale, plans orbitaux larges, recul final maîtrisé. NÉGATIF : dessin animé, anime, CGI de basse qualité, déformation faciale, incohérence du personnage, changements de costume, anatomie déformée, reflets irréalistes, tremblements de caméra excessifs, texte, sous-titres, logos, filigrane.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -327,7 +327,7 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2098290630179057858"></a>
 
-### Traduzione in corso
+### Sequenza cinematografica di fantascienza che ritrae una donna che sale su un treno di mezzanotte che viaggia nello spazio verso una stazione lunare abbandonata.
 
 Autore：[@Strength04\_X](https://x.com/Strength04_X) · [Post originale](https://x.com/Strength04_X/status/2098290630179057858)
 
@@ -335,14 +335,14 @@ Fermo immagine cinematografico / Still fotografico · Cyberpunk / Sci-Fi · Pers
 
 Post originale：[@Strength04\_X](https://x.com/Strength04_X) · [Post originale](https://x.com/Strength04_X/status/2098256490238755226)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Sequenza cinematografica di fantascienza che ritrae una donna che sale su un treno di mezzanotte che viaggia nello spazio verso una stazione lunare abbandonata.
 
 <img src="covers/2098290630179057858.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+RIFERIMENTO: Usa l'immagine di riferimento del personaggio fornita come esatta identità visiva della protagonista. Mantieni il suo viso, la sua acconciatura, i suoi vestiti, le proporzioni del corpo e i dettagli visivi invariati per tutta la sequenza. 0–5 SEC Una stazione ferroviaria sotterranea abbandonata giace completamente deserta a mezzanotte. La polvere fluttua tra luci tremolanti. Una giovane donna aspetta da sola sulla banchina quando un vecchio treno arriva improvvisamente senza emettere alcun suono. I suoi finestrini rivelano un cielo pieno di stelle invece di passeggeri. 5–10 SEC Le porte del treno si aprono da sole. Lei sale a bordo. La telecamera la segue alle spalle mentre le porte si chiudono → il treno accelera attraverso il tunnel buio → le pareti del tunnel iniziano a trasformarsi in galassie e pianeti lontani. 10–16 SEC Il treno sfreccia fuori dal tunnel e viaggia nello spazio aperto su binari ferroviari invisibili. La Terra appare molto più in basso. Lei guarda attraverso il finestrino mentre enormi frammenti di una luna frantumata passano accanto al treno. 16–22 SEC Il treno si avvicina a una gigantesca stazione lunare abbandonata costruita lungo la superficie della luna. Improvvisamente, ogni luce spenta della stazione si accende una per una. La telecamera si muove accanto al treno mentre migliaia di banchine vuote si estendono in lontananza. 22–27 SEC Il treno si ferma. Lei scende sulla luna. Davanti a lei si erge un'enorme e misteriosa struttura a forma di portale, che si apre lentamente verso la Terra. Un fascio di calda luce solare la attraversa e le illumina il volto. 27–30 SEC La telecamera si allontana rapidamente dalla stazione lunare → l'intera luna entra nell'inquadratura → il treno inizia a ripartire lungo il suo binario impossibile verso la Terra → l'inquadratura finale mostra il minuscolo treno luminoso che attraversa lo spazio sotto un imponente pianeta blu. STILE VISIVO: Science-fantasy cinematografico ultra-realistico, personaggio fotorealistico, ambiente lunare realistico, illuminazione spaziale fisicamente credibile, architettura abbandonata dettagliata, luce volumetrica, sottili effetti lente, scala imponente, cinematografia hollywoodiana di alta qualità, composizione IMAX. TELECAMERA: Apertura lenta e ricca di suspense, carrellate fluide, accelerazione dinamica durante la transizione nello spazio, ampie inquadrature orbitali, allontanamento finale controllato. NEGATIVO: cartone animato, anime, CGI di bassa qualità, morphing del volto, incoerenza del personaggio, cambi di costume, anatomia distorta, riflessi non realistici, eccessivo tremolio della telecamera, testo, sottotitoli, loghi, watermark.
 ```
 
 [↑ Torna alle categorie](#catalog)

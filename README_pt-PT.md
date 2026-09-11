@@ -313,7 +313,7 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2098290630179057858"></a>
 
-### Tradução em curso
+### Sequência cinematográfica de ficção científica que retrata uma mulher a embarcar num comboio à meia-noite que viaja pelo espaço até uma estação lunar abandonada.
 
 Autor：[@Strength04\_X](https://x.com/Strength04_X) · [Publicação original](https://x.com/Strength04_X/status/2098290630179057858)
 
@@ -321,14 +321,14 @@ Cena de Cinema / Fotograma · Cyberpunk / Ficção Científica · Personagem · 
 
 Publicação original：[@Strength04\_X](https://x.com/Strength04_X) · [Publicação original](https://x.com/Strength04_X/status/2098256490238755226)
 
-**Resumo:** Tradução em curso
+**Resumo:** Sequência cinematográfica de ficção científica que retrata uma mulher a embarcar num comboio à meia-noite que viaja pelo espaço até uma estação lunar abandonada.
 
 <img src="covers/2098290630179057858.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+REFERÊNCIA: Use a imagem de referência de personagem fornecida como a identidade visual exata da protagonista. Mantenha o seu rosto, penteado, roupa, proporções corporais e detalhes visuais inalterados ao longo de toda a sequência. 0–5 SEG Uma estação ferroviária subterrânea abandonada jaz completamente vazia à meia-noite. A poeira flutua através de luzes trémulas. Uma jovem espera sozinha na plataforma quando um comboio antigo chega subitamente sem emitir qualquer som. As suas janelas revelam um céu repleto de estrelas em vez de passageiros. 5–10 SEG As portas do comboio abrem-se sozinhas. Ela entra. A câmara segue atrás dela enquanto as portas se fecham → o comboio acelera através do túnel escuro → as paredes do túnel começam a transformar-se em galáxias e planetas distantes. 10–16 SEG O comboio irrompe para fora do túnel e viaja pelo espaço aberto sobre carris invisíveis. A Terra surge lá em baixo. Ela olha através da janela enquanto pedaços gigantescos de uma lua estilhaçada passam à deriva pelo comboio. 16–22 SEG O comboio aproxima-se de uma gigantesca estação lunar abandonada, construída ao longo da superfície da lua. Subitamente, todas as luzes apagadas da estação acendem-se uma a uma. A câmara move-se ao lado do comboio enquanto milhares de plataformas vazias se estendem na distância. 22–27 SEG O comboio para. Ela desembarca na lua. Diante de si ergue-se uma enorme e misteriosa estrutura em forma de portal, abrindo-se lentamente em direção à Terra. Um feixe de luz solar calorosa passa por ele e ilumina o seu rosto. 27–30 SEG A câmara recua rapidamente a partir da estação lunar → a lua inteira entra no campo de visão → o comboio começa a partir ao longo do seu trajeto impossível em direção à Terra → o plano final mostra o pequeno comboio brilhante a cruzar o espaço sob um enorme planeta azul. ESTILO VISUAL: Ficção científica/fantasia cinematográfica ultrarrealista, personagem fotorrealista, ambiente lunar realista, iluminação espacial fisicamente credível, arquitetura abandonada detalhada, luz volumétrica, efeitos subtis de lente, escala maciça, cinematografia premium de Hollywood, composição IMAX. CÂMARA: Abertura lenta e cheia de suspense, travellings suaves, aceleração dinâmica durante a transição espacial, planos orbitais amplos, recuo final controlado. NEGATIVO: desenho animado, anime, CGI de baixa qualidade, metamorfose de rosto, inconsistência de personagem, mudanças de indumentária, anatomia distorcida, reflexos irrealistas, vibração excessiva de câmara, texto, legendas, logótipos, marca de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

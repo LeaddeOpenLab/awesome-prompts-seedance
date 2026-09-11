@@ -313,7 +313,7 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2098290630179057858"></a>
 
-### Çeviri sürüyor
+### Bir kadının gece yarısı uzayda yol alarak terk edilmiş bir ay istasyonuna giden bir trene binişini betimleyen sinematik bilimkurgu sekansı.
 
 Yazar：[@Strength04\_X](https://x.com/Strength04_X) · [Orijinal gönderi](https://x.com/Strength04_X/status/2098290630179057858)
 
@@ -321,14 +321,14 @@ Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Karakter · Araç · Yayı
 
 Orijinal gönderi：[@Strength04\_X](https://x.com/Strength04_X) · [Orijinal gönderi](https://x.com/Strength04_X/status/2098256490238755226)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir kadının gece yarısı uzayda yol alarak terk edilmiş bir ay istasyonuna giden bir trene binişini betimleyen sinematik bilimkurgu sekansı.
 
 <img src="covers/2098290630179057858.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+REFERANS: Sağlanan karakter referans görselini başkahramanın birebir görsel kimliği olarak kullanın. Tüm sekans boyunca yüzünü, saç stilini, giysilerini, vücut oranlarını ve görsel detaylarını değiştirmeden koruyun. 0–5 SN Gece yarısı tamamen boş duran terk edilmiş bir yeraltı tren istasyonu. Titreşen ışıkların arasından tozlar süzülüyor. Genç bir kadın peronda tek başına beklerken aniden hiç ses çıkarmadan eski bir tren gelir. Trenin pencereleri yolcular yerine yıldızlarla dolu bir gökyüzünü gösterir. 5–10 SN Tren kapıları kendiliğinden açılır. Kadın içeri adım atar. Kapılar kapanırken kamera onu arkasından takip eder → tren karanlık tünelde hızlanır → tünelin duvarları galaksilere ve uzak gezegenlere dönüşmeye başlar. 10–16 SN Tren tünelden dışarı fırlar ve görünmez raylar üzerinde açık uzayda yol alır. Dünya çok aşağılarda görünür. Kadın, parçalanmış bir ayın devasa kütleleri trenin yanından süzülüp geçerken pencereden dışarı bakar. 16–22 SN Tren, ayın yüzeyi boyunca inşa edilmiş terk edilmiş devasa bir ay istasyonuna yaklaşır. Birdenbire istasyondaki sönük tüm ışıklar tek tek yanar. Binlerce boş peron ufka doğru uzanırken kamera trenin yanında hareket eder. 22–27 SN Tren durur. Kadın ayın üzerine adım atar. Önünde, Dünya'ya doğru yavaşça açılan bir kapı şeklinde inşa edilmiş devasa, gizemli bir yapı durmaktadır. Yapının içinden geçen ılık bir güneş ışığı huzmesi yüzünü aydınlatır. 27–30 SN Kamera ay istasyonundan hızla geriye doğru çekilir → tüm ay görüş alanına girer → tren Dünya'ya doğru uzanan imkansız rayları boyunca ayrılmaya başlar → son çekim, devasa mavi bir gezegenin altında uzayı aşan küçük parıldayan treni gösterir. GÖRSEL TARZ: Aşırı gerçekçi sinematik bilimkurgu-fantezi, fotogerçekçi karakter, gerçekçi ay ortamı, fiziksel olarak inandırıcı uzay aydınlatması, ayrıntılı terk edilmiş mimari, hacimsel ışık, zarif lens efektleri, devasa ölçek, birinci sınıf Hollywood sinematografisi, IMAX kompozisyonu. KAMERA: Yavaş ve gerilimli açılış, pürüzsüz takip çekimleri, uzay geçişi sırasında dinamik hızlanma, geniş yörünge çekimleri, kontrollü son geri çekilme. NEGATİF: çizgi film, anime, düşük kaliteli CGI, yüz bozulması/başkalaşımı, karakter tutarsızlığı, kostüm değişiklikleri, bozuk anatomi, gerçek dışı yansımalar, aşırı kamera sarsıntısı, metin, altyazı, logolar, filigran.
 ```
 
 [↑ Kategorilere dön](#catalog)
