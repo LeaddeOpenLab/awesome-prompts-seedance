@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T06:11:34.606Z",
+  "model": "seedance2.5",
+  "prompt": "{\n  \"format\": \"16:9, 30s, native audio on, cinematic realism, no text overlay, no on-screen subtitles\",\n  \"style\": \"1990s Manhattan street cinematography, warm Kodak film-stock emulation, fine grain, soft haze, anamorphic lens flare\",\n  \"subject_and_action\": {\n    \"0-6s\": \"Wide handheld shot drifting forward through a dense Midtown Manhattan sidewalk crowd. Foreground man in a navy suit glances at his wristwatch mid-stride. A woman with curly auburn hair in a beige blazer walks beside him. Steam rises from a hot dog cart with blue-and-yellow striped umbrellas center-frame. Yellow taxis crawl past on the street.\",\n    \"6-14s\": \"Camera holds medium-wide as a woman in a bright floral-print top exchanges a glance and smile with a man in a tan-and-white outfit near the food cart. Behind them a man in a gray suit and burgundy tie walks toward camera. Crowd density remains high, all in business attire, natural staggered walking pace.\",\n    \"14-20s\": \"Cut to a lower, closer angle at a storefront corner marked 'W 34th St.' Two young men in casual streetwear (backpack, jeans, polo shirts) walk laughing in the opposite direction, foreground, as a yellow taxi speeds through the lower frame in motion blur. Clothing-store mannequins and a neon 'OPEN' sign visible in the window behind them.\",\n    \"20-30s\": \"Camera settles at a crosswalk intersection, slightly elevated. A large crowd of office workers crosses on the white-striped crosswalk toward camera, yellow cabs idling in traffic beside them, second hot dog cart with striped umbrellas at right. Camera holds steady as the crowd thins slightly at the end, pulling focus toward the hazy skyline in the deep background.\"\n  },\n  \"environment\": \"Dense Midtown Manhattan intersection, tall office towers fading into atmospheric haze, street vendor carts, painted crosswalks, period-accurate signage (kept intentionally generic/non-legible), classic boxy yellow taxi cabs\",\n  \"camera\": \"Handheld walking camera, eye-level, slow forward dolly with natural sway; one hard cut at 14s to a secondary angle; deep focus foreground, soft falloff on background towers\",\n  \"lighting_and_color\": \"Bright midday sun, warm amber key light, soft shadow edges, slightly desaturated background with punchy yellow/blue saturation on cabs and umbrellas\",\n  \"audio\": \"Ambient city traffic hum, overlapping crowd murmur and footsteps, distant car horns, brief bus engine rumble under the 14s cut, no dialogue, no music\",\n  \"continuity\": \"Same crowd density, same taxi model/color, same food-cart umbrella design, and same warm color grade held across all four segments\",\n  \"constraints\": \"No legible or readable text on any signage, no modern phones or vehicles, no anachronistic clothing, no visible logos, no distorted or duplicated faces\"\n}",
+  "promptTranslations": {
+    "en": "{\n  \"format\": \"16:9, 30s, native audio on, cinematic realism, no text overlay, no on-screen subtitles\",\n  \"style\": \"1990s Manhattan street cinematography, warm Kodak film-stock emulation, fine grain, soft haze, anamorphic lens flare\",\n  \"subject_and_action\": {\n    \"0-6s\": \"Wide handheld shot drifting forward through a dense Midtown Manhattan sidewalk crowd. Foreground man in a navy suit glances at his wristwatch mid-stride. A woman with curly auburn hair in a beige blazer walks beside him. Steam rises from a hot dog cart with blue-and-yellow striped umbrellas center-frame. Yellow taxis crawl past on the street.\",\n    \"6-14s\": \"Camera holds medium-wide as a woman in a bright floral-print top exchanges a glance and smile with a man in a tan-and-white outfit near the food cart. Behind them a man in a gray suit and burgundy tie walks toward camera. Crowd density remains high, all in business attire, natural staggered walking pace.\",\n    \"14-20s\": \"Cut to a lower, closer angle at a storefront corner marked 'W 34th St.' Two young men in casual streetwear (backpack, jeans, polo shirts) walk laughing in the opposite direction, foreground, as a yellow taxi speeds through the lower frame in motion blur. Clothing-store mannequins and a neon 'OPEN' sign visible in the window behind them.\",\n    \"20-30s\": \"Camera settles at a crosswalk intersection, slightly elevated. A large crowd of office workers crosses on the white-striped crosswalk toward camera, yellow cabs idling in traffic beside them, second hot dog cart with striped umbrellas at right. Camera holds steady as the crowd thins slightly at the end, pulling focus toward the hazy skyline in the deep background.\"\n  },\n  \"environment\": \"Dense Midtown Manhattan intersection, tall office towers fading into atmospheric haze, street vendor carts, painted crosswalks, period-accurate signage (kept intentionally generic/non-legible), classic boxy yellow taxi cabs\",\n  \"camera\": \"Handheld walking camera, eye-level, slow forward dolly with natural sway; one hard cut at 14s to a secondary angle; deep focus foreground, soft falloff on background towers\",\n  \"lighting_and_color\": \"Bright midday sun, warm amber key light, soft shadow edges, slightly desaturated background with punchy yellow/blue saturation on cabs and umbrellas\",\n  \"audio\": \"Ambient city traffic hum, overlapping crowd murmur and footsteps, distant car horns, brief bus engine rumble under the 14s cut, no dialogue, no music\",\n  \"continuity\": \"Same crowd density, same taxi model/color, same food-cart umbrella design, and same warm color grade held across all four segments\",\n  \"constraints\": \"No legible or readable text on any signage, no modern phones or vehicles, no anachronistic clothing, no visible logos, no distorted or duplicated faces\"\n}"
+  },
+  "summaryTranslations": {
+    "en": "Multi-segment video generation prompt for 1990s Manhattan street cinematic realism."
+  },
+  "translationVersion": 2,
+  "summary": "1990年代曼哈顿街头写实电影感的多段落视频生成提示词。",
+  "summaryEn": "A multi-segment video prompt depicting a realistic 1990s Manhattan street scene with crowds and yellow cabs.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098265557237989841",
+    "canonicalUrl": "https://x.com/AiwithBloodline/status/2098265557237989841",
+    "author": {
+      "username": "AiwithBloodline",
+      "displayName": "Dr Bloodline | AI",
+      "profileUrl": "https://x.com/AiwithBloodline"
+    },
+    "publishedAt": "2026-09-11T04:21:07.000Z",
+    "collectedAt": "2026-09-11T06:03:47.121Z",
+    "language": "en",
+    "originalText": "This entire street isn't real 😍. \nNo camera, no crew, no actors — just a prompt. Welcome to what \"video\" means now. \n\nCreated with Seedance 2.5 on @itsPolloAI\n@polloai_creator \n\nPrompt ⤵️ ; \n\n{\n  \"format\": \"16:9, 30s, native audio on, cinematic realism, no text overlay, no on-screen subtitles\",\n  \"style\": \"1990s Manhattan street cinematography, warm Kodak film-stock emulation, fine grain, soft haze, anamorphic lens flare\",\n  \"subject_and_action\": {\n    \"0-6s\": \"Wide handheld shot drifting forward through a dense Midtown Manhattan sidewalk crowd. Foreground man in a navy suit glances at his wristwatch mid-stride. A woman with curly auburn hair in a beige blazer walks beside him. Steam rises from a hot dog cart with blue-and-yellow striped umbrellas center-frame. Yellow taxis crawl past on the street.\",\n    \"6-14s\": \"Camera holds medium-wide as a woman in a bright floral-print top exchanges a glance and smile with a man in a tan-and-white outfit near the food cart. Behind them a man in a gray suit and burgundy tie walks toward camera. Crowd density remains high, all in business attire, natural staggered walking pace.\",\n    \"14-20s\": \"Cut to a lower, closer angle at a storefront corner marked 'W 34th St.' Two young men in casual streetwear (backpack, jeans, polo shirts) walk laughing in the opposite direction, foreground, as a yellow taxi speeds through the lower frame in motion blur. Clothing-store mannequins and a neon 'OPEN' sign visible in the window behind them.\",\n    \"20-30s\": \"Camera settles at a crosswalk intersection, slightly elevated. A large crowd of office workers crosses on the white-striped crosswalk toward camera, yellow cabs idling in traffic beside them, second hot dog cart with striped umbrellas at right. Camera holds steady as the crowd thins slightly at the end, pulling focus toward the hazy skyline in the deep background.\"\n  },\n  \"environment\": \"Dense Midtown Manhattan intersection, tall office towers fading into atmospheric haze, street vendor carts, painted crosswalks, period-accurate signage (kept intentionally generic/non-legible), classic boxy yellow taxi cabs\",\n  \"camera\": \"Handheld walking camera, eye-level, slow forward dolly with natural sway; one hard cut at 14s to a secondary angle; deep focus foreground, soft falloff on background towers\",\n  \"lighting_and_color\": \"Bright midday sun, warm amber key light, soft shadow edges, slightly desaturated background with punchy yellow/blue saturation on cabs and umbrellas\",\n  \"audio\": \"Ambient city traffic hum, overlapping crowd murmur and footsteps, distant car horns, brief bus engine rumble under the 14s cut, no dialogue, no music\",\n  \"continuity\": \"Same crowd density, same taxi model/color, same food-cart umbrella design, and same warm color grade held across all four segments\",\n  \"constraints\": \"No legible or readable text on any signage, no modern phones or vehicles, no anachronistic clothing, no visible logos, no distorted or duplicated faces\"\n}\n\n#polloai #polloaiCPP",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AiwithBloodline/status/2098265557237989841",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098265295311994880/img/sz2zPf4S4fc-EusH.jpg",
+        "analysisUrl": "https://x.com/AiwithBloodline/status/2098265557237989841"
+      }
+    ],
+    "metrics": {
+      "likeCount": 23,
+      "repostCount": 0,
+      "replyCount": 18,
+      "quoteCount": 0,
+      "viewCount": 240
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AiwithBloodline/status/2098265557237989841",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098265295311994880/img/sz2zPf4S4fc-EusH.jpg",
+  "coverPath": "covers/2098265557237989841.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098265295311994880",
+    "x-post:2098265557237989841"
+  ],
+  "analysis": {
+    "summary": "1990年代曼哈顿街头写实电影感的多段落视频生成提示词。",
+    "summaryEn": "A multi-segment video prompt depicting a realistic 1990s Manhattan street scene with crowds and yellow cabs.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely follows the prompt timing, actions, camera shifts, and visual details like the W 34th St storefront and 90s film aesthetic."
+    },
+    "videoQuality": null,
+    "originalPrompt": "{\n  \"format\": \"16:9, 30s, native audio on, cinematic realism, no text overlay, no on-screen subtitles\",\n  \"style\": \"1990s Manhattan street cinematography, warm Kodak film-stock emulation, fine grain, soft haze, anamorphic lens flare\",\n  \"subject_and_action\": {\n    \"0-6s\": \"Wide handheld shot drifting forward through a dense Midtown Manhattan sidewalk crowd. Foreground man in a navy suit glances at his wristwatch mid-stride. A woman with curly auburn hair in a beige blazer walks beside him. Steam rises from a hot dog cart with blue-and-yellow striped umbrellas center-frame. Yellow taxis crawl past on the street.\",\n    \"6-14s\": \"Camera holds medium-wide as a woman in a bright floral-print top exchanges a glance and smile with a man in a tan-and-white outfit near the food cart. Behind them a man in a gray suit and burgundy tie walks toward camera. Crowd density remains high, all in business attire, natural staggered walking pace.\",\n    \"14-20s\": \"Cut to a lower, closer angle at a storefront corner marked 'W 34th St.' Two young men in casual streetwear (backpack, jeans, polo shirts) walk laughing in the opposite direction, foreground, as a yellow taxi speeds through the lower frame in motion blur. Clothing-store mannequins and a neon 'OPEN' sign visible in the window behind them.\",\n    \"20-30s\": \"Camera settles at a crosswalk intersection, slightly elevated. A large crowd of office workers crosses on the white-striped crosswalk toward camera, yellow cabs idling in traffic beside them, second hot dog cart with striped umbrellas at right. Camera holds steady as the crowd thins slightly at the end, pulling focus toward the hazy skyline in the deep background.\"\n  },\n  \"environment\": \"Dense Midtown Manhattan intersection, tall office towers fading into atmospheric haze, street vendor carts, painted crosswalks, period-accurate signage (kept intentionally generic/non-legible), classic boxy yellow taxi cabs\",\n  \"camera\": \"Handheld walking camera, eye-level, slow forward dolly with natural sway; one hard cut at 14s to a secondary angle; deep focus foreground, soft falloff on background towers\",\n  \"lighting_and_color\": \"Bright midday sun, warm amber key light, soft shadow edges, slightly desaturated background with punchy yellow/blue saturation on cabs and umbrellas\",\n  \"audio\": \"Ambient city traffic hum, overlapping crowd murmur and footsteps, distant car horns, brief bus engine rumble under the 14s cut, no dialogue, no music\",\n  \"continuity\": \"Same crowd density, same taxi model/color, same food-cart umbrella design, and same warm color grade held across all four segments\",\n  \"constraints\": \"No legible or readable text on any signage, no modern phones or vehicles, no anachronistic clothing, no visible logos, no distorted or duplicated faces\"\n}",
+    "sourceRange": {
+      "start": 192,
+      "end": 2973
+    },
+    "translations": {
+      "zh": "{\n  \"格式\": \"16:9，30秒，开启原生音频，电影写实感，无文字叠加，无屏幕字幕\",\n  \"风格\": \"1990年代曼哈顿街头电影摄影，温暖柯达胶片模拟，细腻颗粒，柔和薄雾，变形镜头光晕\",\n  \"主体与动作\": {\n    \"0-6s\": \"广角手持镜头向前穿过曼哈顿中城拥挤的人行道人群。前景中身穿藏青色西装的男子在行走中低头看手表。一名留着赤褐色卷发、身着米色西装外套的女性走在他身旁。画面中央带蓝黄条纹遮阳伞的热狗摊升起蒸汽。黄色出租车在街上缓缓驶过。\",\n    \"6-14s\": \"镜头保持中广角，一名穿着鲜艳碎花上衣的女性与食品摊旁身穿棕白服饰的男子相视而笑。他们身后一名身穿灰色西装系红领带的男子走向镜头。人群密度依然很高，皆着商务装，步伐自然错落。\",\n    \"14-20s\": \"切换到标有'W 34th St'的店角较低特写角度。两名身穿休闲街头装（背包、牛仔裤、Polo衫）的年轻男子在前景中笑着向反方向走去，一辆黄色出租车带着运动模糊快速穿过画面下方。身后橱窗可见服装店人体模型和霓虹'OPEN'标志。\",\n    \"20-30s\": \"镜头停在微仰的人行横道交叉口。大批上班族沿斑马线走向镜头，旁有怠速行驶的黄色出租车，右侧有第二辆带条纹伞的热狗摊。结尾人群稍散，焦点拉向深处朦胧的天际线。\"\n  },\n  \"环境\": \"曼哈顿中城繁忙交叉路口，高楼融入薄雾，小贩摊车，经典方框黄色出租车\",\n  \"摄像机\": \"平视手持漫步镜头，带轻微摇摆的缓慢推轨，14秒硬切切换角度\",\n  \"光影与色彩\": \"正午明亮阳光，暖琥珀主光，出租车与伞呈现鲜艳黄色和蓝色\",\n  \"音频\": \"城市交通低鸣，交错的人群杂音与脚步声，远处汽车鸣笛\",\n  \"连贯性\": \"四个片段保持一致的人群密度、出租车型号及暖色调\",\n  \"约束\": \"无清晰文字标牌，无现代手机或车辆，无时代错位服饰，无扭曲面部\"\n}",
+      "en": "{\n  \"format\": \"16:9, 30s, native audio on, cinematic realism, no text overlay, no on-screen subtitles\",\n  \"style\": \"1990s Manhattan street cinematography, warm Kodak film-stock emulation, fine grain, soft haze, anamorphic lens flare\",\n  \"subject_and_action\": {\n    \"0-6s\": \"Wide handheld shot drifting forward through a dense Midtown Manhattan sidewalk crowd. Foreground man in a navy suit glances at his wristwatch mid-stride. A woman with curly auburn hair in a beige blazer walks beside him. Steam rises from a hot dog cart with blue-and-yellow striped umbrellas center-frame. Yellow taxis crawl past on the street.\",\n    \"6-14s\": \"Camera holds medium-wide as a woman in a bright floral-print top exchanges a glance and smile with a man in a tan-and-white outfit near the food cart. Behind them a man in a gray suit and burgundy tie walks toward camera. Crowd density remains high, all in business attire, natural staggered walking pace.\",\n    \"14-20s\": \"Cut to a lower, closer angle at a storefront corner marked 'W 34th St.' Two young men in casual streetwear (backpack, jeans, polo shirts) walk laughing in the opposite direction, foreground, as a yellow taxi speeds through the lower frame in motion blur. Clothing-store mannequins and a neon 'OPEN' sign visible in the window behind them.\",\n    \"20-30s\": \"Camera settles at a crosswalk intersection, slightly elevated. A large crowd of office workers crosses on the white-striped crosswalk toward camera, yellow cabs idling in traffic beside them, second hot dog cart with striped umbrellas at right. Camera holds steady as the crowd thins slightly at the end, pulling focus toward the hazy skyline in the deep background.\"\n  },\n  \"environment\": \"Dense Midtown Manhattan intersection, tall office towers fading into atmospheric haze, street vendor carts, painted crosswalks, period-accurate signage (kept intentionally generic/non-legible), classic boxy yellow taxi cabs\",\n  \"camera\": \"Handheld walking camera, eye-level, slow forward dolly with natural sway; one hard cut at 14s to a secondary angle; deep focus foreground, soft falloff on background towers\",\n  \"lighting_and_color\": \"Bright midday sun, warm amber key light, soft shadow edges, slightly desaturated background with punchy yellow/blue saturation on cabs and umbrellas\",\n  \"audio\": \"Ambient city traffic hum, overlapping crowd murmur and footsteps, distant car horns, brief bus engine rumble under the 14s cut, no dialogue, no music\",\n  \"continuity\": \"Same crowd density, same taxi model/color, same food-cart umbrella design, and same warm color grade held across all four segments\",\n  \"constraints\": \"No legible or readable text on any signage, no modern phones or vehicles, no anachronistic clothing, no visible logos, no distorted or duplicated faces\"\n}"
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "video-generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
