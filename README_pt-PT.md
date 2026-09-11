@@ -1090,20 +1090,32 @@ Tradução em curso
 
 <a name="prompt-2098242830661792189"></a>
 
-### Tradução em curso
+### Uma avestruz anda num carrinho de brincar cor-de-rosa e foge num skate através de um mercado movimentado.
 
 Autor：[@mrdejie](https://x.com/mrdejie) · [Publicação original](https://x.com/mrdejie/status/2098242830661792189)
 
 Veículo · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma avestruz anda num carrinho de brincar cor-de-rosa e foge num skate através de um mercado movimentado.
 
 <img src="covers/2098242830661792189.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Gere um plano contínuo de 30 segundos, cru e em direto, de um helicóptero de notícias da televisão nigeriana mostrando uma perseguição caótica num mercado. Uma avestruz enorme e real anda num carrinho de brincar de plástico cor-de-rosa, velho, desbotado e sujo, através de um mercado ao ar livre apinhado de gente, enquanto vendedores locais de comida a perseguem como se a quisessem apanhar e cozinhar. O carrinho de brincar bate num bloqueio de bancas. A avestruz derruba um vendedor com um pontapé e foge depois num skate. Apenas filmagens em direto e sem polimento de helicóptero: um único plano de seguimento a grande altitude, vibração natural, física real, luz do dia brilhante. Sem gradação cinematográfica, sem câmara lenta, sem aspeto de película, sem cortes.
+
+Comece numa vista aérea distante de helicóptero de um mercado nigeriano apinhado de gente à luz do dia: bancas de comida, guarda-sóis, bacias, caixotes, carne pendurada, fumo de grelhadores, clientes, okada e keke. A avestruz já se move a alta velocidade em contramão no minúsculo e sujo carrinho cor-de-rosa de brincar, com as pernas quase a bater no chão. Um vendedor de camisola de alças desbotada e pano tradicional enrolado corre atrás dela com uma faca comprida. A avestruz serpenteia por entre as bancas. Um saco de malaguetas cai ao chão. Um keke trava a fundo. Um carrinho de mão com inhames tomba. Juntam-se mais vendedores — um com uma bacia de metal, um com uma concha gigante, um com um saco de carvão, um com um espeto de suya. Vestem tecidos Ankara, camisolas de alças, chinelos de borracha e aventais manchados sobre roupas comuns do dia a dia. Nada de uniformes de chef.
+
+A avestruz avança contra um bloqueio de mesas e um danfo estacionado. Desvia-se à tangente de um keke a derrapar. As rodas de plástico bloqueiam e o carrinho de brincar derrapa de lado contra a perna de uma mesa, parando com violência. A avestruz salta para fora, com as asas entreabertas. Os vendedores avançam de ambos os lados.
+
+O vendedor da faca tenta agarrar-lhe o pescoço. A avestruz dá-lhe uma bicada na testa. O vendedor da bacia investe. A avestruz finca uma pata no chão e desfere-lhe um pontapé no peito — um verdadeiro e pesado pontapé de avestruz — projetando-o contra uma pilha de cebolas. A bacia rebola. O vendedor da concha escorrega em óleo entornado. Abre-se uma brecha.
+
+A avestruz corre em direção a um skate gasto caído na terra junto a um caixote, sobe para cima dele, desequilibra-se momentaneamente e depois dá balanço com uma das compridas pernas. Agacha-se com as asas abertas e rola pelo corredor do mercado entre bancas e kekes. Os vendedores perseguem a pé. O carrinho de brincar cor-de-rosa acidentado fica abandonado no bloqueio. Termine com a avestruz já distante na estrada sobre o skate, os vendedores a ficarem para trás e a diminuírem de tamanho, o helicóptero a continuar o rastreamento à distância.
+
+Mantenha a mesma avestruz, o mesmo carrinho de brincar cor-de-rosa sujo até ao acidente e o skate para a fuga. Peso realista do animal, pontapé, instabilidade e física do mercado. Luz natural do dia. Apenas vendedores de comida locais.
+
+Áudio: rotor de helicóptero, ruído de mercado, buzinas, gritos, bacias metálicas a tilintar, motor em esforço do carrinho de brincar, pontapé seco e queda de corpo, rodas do skate na terra batida. Sem música. Sem legendas. Sem voz-off.
 ```
 
 [↑ Voltar às categorias](#catalog)

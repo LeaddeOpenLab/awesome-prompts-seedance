@@ -1090,20 +1090,32 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 
 <a name="prompt-2098242830661792189"></a>
 
-### Çeviri sürüyor
+### Bir devekuşu pembe bir oyuncak arabaya biner ve kalabalık bir pazarda kaykayla kaçar.
 
 Yazar：[@mrdejie](https://x.com/mrdejie) · [Orijinal gönderi](https://x.com/mrdejie/status/2098242830661792189)
 
 Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir devekuşu pembe bir oyuncak arabaya biner ve kalabalık bir pazarda kaykayla kaçar.
 
 <img src="covers/2098242830661792189.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kaotik bir pazar kovalamacasına ait, 30 saniyelik kesintisiz, ham, canlı bir Nijerya televizyonu haber helikopteri çekimi oluşturun. Gerçek ve devasa bir devekuşu; kirli, soluk, eski pembe plastik bir oyuncak arabayı kalabalık bir açık hava pazarının içinde sürerken yerel yemek satıcıları onu yakalayıp pişirmek istercesine kovalar. Oyuncak araba tezgahlardan oluşan bir barikata çarpar. Devekuşu tekmeyle bir satıcıyı yere serer, ardından bir kaykayın üzerine binip kaçar. Yalnızca işlenmemiş canlı helikopter görüntüleri: yüksek irtifadan tek bir takip çekimi, doğal sarsıntı, gerçek fizik kuralları, parlak gün ışığı. Sinematik renk derecelendirmesi yok, ağır çekim yok, film dokusu yok, kesme yok.
+
+Gün ışığında kalabalık bir Nijerya pazarının uzaktan helikopter görüntüsüyle başlayın: yemek tezgahları, şemsiyeler, leğenler, kasalar, asılı etler, ızgara dumanı, alışveriş yapanlar, okada ve keke. Devekuşu, bacakları neredeyse yere değecek şekilde, kirli küçük pembe oyuncak arabayla çoktan ters yönde hızla ilerlemektedir. Soluk bir atlet ve peştamal giymiş bir satıcı elinde uzun bir bıçakla arkasından koşar. Devekuşu tezgahların arasından kıvrılarak geçer. Bir çuval biber devrilip dökülür. Bir keke fren yapar. Bir yer elması el arabası devrilir. Daha fazla satıcı katılır — biri metal bir leğenle, biri dev bir kepçeyle, biri bir çuval kömürle, biri bir suya şişiyle. Sokak kıyafetlerinin üzerine Ankara kumaşı, atletler, lastik terlikler ve lekeli önlükler giymişlerdir. Aşçı üniforması yok.
+
+Devekuşu, masalardan oluşan bir barikata ve park halindeki bir danfo minibüsüne doğru sürer. Kayan bir kekenin yanından manevra yaparak sıyrılır. Plastik tekerlekler kilitlenir ve oyuncak araba yan kayarak bir masa ayağına sertçe çarpıp durur. Devekuşu kanatları yarı açık halde üzerinden fırlar. Satıcılar her iki taraftan hücum eder.
+
+Bıçaklı satıcı boynunu yakalamaya çalışır. Devekuşu onun alnını gagalar. Leğenli satıcı hamle yapar. Devekuşu tek ayağını yere basar ve onun göğsüne tekme atar — devekuşlarına has gerçek, çok sert bir tekme — ve adam bir soğan yığınının üzerine uçar. Leğen yuvarlanır. Kepçeli satıcı dökülen yağın üzerinde kayar. Bir boşluk açılır.
+
+Devekuşu, bir kasanın yanında toprakta duran yıpranmış bir kaykaya doğru koşar, üzerine adım atar, hafifçe bocaladıktan sonra uzun bir bacağıyla yeri iterek hız alır. Kanatları açık halde alçakça çömelir ve tezgahlar ile kekelerin arasındaki pazar sokağında kayarak ilerler. Satıcılar yaya olarak kovalar. Çarpan pembe oyuncak araba barikatta geride kalır. Devekuşu kaykayla yolda çoktan uzaklaşmışken, satıcılar arkasında küçülürken ve helikopter hala onu uzaktan takip ederken sona erdirin.
+
+Çarpışmaya kadar aynı devekuşunu ve aynı kirli pembe oyuncak arabayı, kaçış içinse aynı kaykayı muhafaza edin. Gerçekçi hayvan ağırlığı, tekme, bocalama ve pazar fiziği. Doğal gün ışığı. Yalnızca yerel yemek satıcıları.
+
+Ses: helikopter pervanesi, pazar gürültüsü, kornalar, bağırmalar, takırdayan leğenler, zorlanan oyuncak araba motoru, sert tekme ve yere düşen beden sesi, toprak üzerindeki kaykay tekerlekleri. Müzik yok. Altyazı yok. Dış ses yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

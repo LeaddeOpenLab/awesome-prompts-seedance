@@ -1104,20 +1104,32 @@ Traduzione in corso
 
 <a name="prompt-2098242830661792189"></a>
 
-### Traduzione in corso
+### Uno struzzo guida una macchinina rosa e fugge su uno skateboard attraverso un mercato affollato.
 
 Autore：[@mrdejie](https://x.com/mrdejie) · [Post originale](https://x.com/mrdejie/status/2098242830661792189)
 
 Veicolo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Uno struzzo guida una macchinina rosa e fugge su uno skateboard attraverso un mercato affollato.
 
 <img src="covers/2098242830661792189.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Genera una ripresa continua e grezza di 30 secondi dall'elicottero di un telegiornale nigeriano in diretta di un caotico inseguimento al mercato. Un vero e gigantesco struzzo guida una vecchia macchinina giocattolo di plastica rosa, sporca e sbiadita, attraverso un affollato mercato all'aperto, mentre i venditori di cibo locali lo inseguono come se volessero catturarlo e cucinarlo. La macchinina si schianta contro una barricata di bancarelle. Lo struzzo atterra un venditore con un calcio, poi fugge su uno skateboard. Solo filmati grezzi in diretta dall'elicottero: un'unica ripresa di tracciamento ad alta quota, tremolio naturale, fisica reale, piena luce del giorno. Nessun color grading cinematografico, nessuno slow motion, nessun look da film, nessun taglio.
+
+Inizia con una vista aerea lontana di un affollato mercato nigeriano alla luce del giorno: bancarelle di cibo, ombrelloni, bacinelle, casse, carne appesa, fumo di griglie, clienti, okada e keke. Lo struzzo si muove già velocemente contromano sulla minuscola macchinina rosa sporca, con le zampe che quasi toccano terra. Un venditore con una canottiera sbiadita e un telo corre dietro con un lungo coltello. Lo struzzo fa lo slalom tra le bancarelle. Cade un sacco di peperoni. Un keke frena bruscamente. Una carriola di ignami si ribalta. Si uniscono altri venditori: uno con una bacinella di metallo, uno con un mestolo gigante, uno con un sacco di carbone, uno con uno spiedino di suya. Indossano abiti in tessuto Ankara, canottiere, ciabatte di gomma e grembiuli macchiati sopra i vestiti comuni. Niente divise da chef.
+
+Lo struzzo si dirige verso una barricata di tavoli e un danfo parcheggiato. Scarta per evitare un keke che scivola. Le ruote di plastica si bloccano e la macchinina derapa lateralmente contro la gamba di un tavolo e si ferma di colpo. Lo struzzo salta giù, con le ali mezze aperte. I venditori si precipitano da entrambi i lati.
+
+Il venditore con il coltello cerca di afferrarlo per il collo. Lo struzzo gli dà una beccata sulla fronte. Il venditore con la bacinella si lancia in avanti. Lo struzzo pianta una zampa e gli sferra un calcio al petto — un calcio di struzzo vero e potente — facendolo volare su un mucchio di cipolle. La bacinella rotola. Il venditore con il mestolo scivola sull'olio versato. Si apre un varco.
+
+Lo struzzo corre verso uno skateboard consumato a terra nella polvere accanto a una cassa, ci sale sopra, barcolla, poi si dà la spinta con una zampa lunga. Si accovaccia con le ali aperte e sfreccia lungo la corsia del mercato tra le bancarelle e i keke. I venditori lo inseguono a piedi. La macchinina rosa incidentata viene lasciata alla barricata. Termina con lo struzzo già lontano lungo la strada sullo skateboard, i venditori che rimpiccioliscono alle sue spalle, e l'elicottero che continua a seguirlo a distanza.
+
+Mantieni lo stesso struzzo, la stessa macchinina rosa sporca fino allo schianto e lo skateboard per la fuga. Peso realistico dell'animale, calcio, ondeggiamento e fisica del mercato coerenti. Luce naturale del giorno. Solo venditori di cibo locali.
+
+Audio: rotore dell'elicottero, rumore del mercato, clacson, urla, bacinelle metalliche che sbattono, motore della macchinina sotto sforzo, calcio pesante e tonfo della caduta, ruote dello skateboard sulla terra. Niente musica. Niente sottotitoli. Nessuna voce fuori campo.
 ```
 
 [↑ Torna alle categorie](#catalog)

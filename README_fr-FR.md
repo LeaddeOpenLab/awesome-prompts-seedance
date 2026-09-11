@@ -1104,20 +1104,32 @@ Traduction en cours
 
 <a name="prompt-2098242830661792189"></a>
 
-### Traduction en cours
+### Une autruche monte dans une voiturette rose et s'échappe sur un skateboard à travers un marché bondé.
 
 Auteur：[@mrdejie](https://x.com/mrdejie) · [Publication originale](https://x.com/mrdejie/status/2098242830661792189)
 
 Véhicule · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une autruche monte dans une voiturette rose et s'échappe sur un skateboard à travers un marché bondé.
 
 <img src="covers/2098242830661792189.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Générer un plan continu brut de 30 secondes filmé depuis un hélicoptère d'un journal télévisé nigérian en direct, montrant une course-poursuite chaotique dans un marché. Une énorme autruche réelle conduit une vieille voiture miniature en plastique rose, sale et délavée, à travers un marché en plein air bondé, tandis que des vendeurs de nourriture locaux la pourchassent comme s'ils voulaient l'attraper pour la cuisiner. La voiturette s'écrase contre un barrage d'étals. L'autruche renverse un vendeur d'un coup de patte, puis s'échappe sur un skateboard. Uniquement des images brutes en direct depuis l'hélicoptère : un seul plan de suivi en haute altitude, tremblement naturel, physique réelle, lumière vive du jour. Pas d'étalonnage cinématographique, pas de ralenti, pas d'effet pellicule, pas de coupures.
+
+Commencer par une vue lointaine depuis l'hélicoptère d'un marché nigérian bondé en plein jour : étals de nourriture, parasols, bassines, caisses, viande suspendue, fumée de grillades, clients, okadas et kekes. L'autruche roule déjà à toute allure à contresens sur la minuscule voiture en plastique rose et sale, les pattes frôlant le sol. Un vendeur en maillot de corps délavé et pagne court derrière elle avec un grand couteau. L'autruche se faufile entre les étals. Un sac de piments tombe. Un keke freine brusquement. Une brouette d'ignames bascule. D'autres vendeurs se joignent à la course : un avec une bassine en métal, un avec une louche géante, un avec un sac de charbon de bois, un avec une brochette de suya. Ils portent des tissus Ankara, des maillots de corps, des claquettes en caoutchouc et des tabliers tachés par-dessus leurs vêtements de ville. Pas d'uniformes de chef.
+
+L'autruche fonce vers un barrage de tables et un danfo garé. Elle fait un écart pour éviter un keke qui dérape. Les roues en plastique se bloquent et la voiturette glisse de côté contre le pied d'une table et s'arrête net. L'autruche saute à terre, les ailes à moitié déployées. Les vendeurs accourent des deux côtés.
+
+Le vendeur au couteau tente de l'attraper par le cou. L'autruche lui donne un coup de bec sur le front. Le vendeur à la bassine se jette en avant. L'autruche prend appui sur une patte et lui assène un violent coup au torse — un vrai coup de patte d'autruche, lourd et puissant — et il s'envole sur un tas d'oignons. La bassine roule. Le vendeur à la louche glisse dans de l'huile renversée. Une brèche s'ouvre.
+
+L'autruche court vers un skateboard usé posé dans la poussière à côté d'une caisse, monte dessus, vacille, puis prend son élan avec une longue patte. Elle s'accroupit bas, les ailes déployées, et roule dans l'allée du marché entre les étals et les kekes. Les vendeurs la poursuivent à pied. La voiturette rose accidentée est abandonnée au niveau du barrage. Finir sur l'autruche déjà loin sur la route sur son skateboard, les vendeurs réduits à de petites silhouettes derrière elle, l'hélicoptère continuant son suivi à distance.
+
+Conserver la même autruche, la même voiturette rose sale jusqu'au crash, et le même skateboard pour la fuite. Poids de l'animal, coup de patte, vacillements et physique du marché réalistes. Lumière naturelle du jour. Uniquement des vendeurs de nourriture locaux.
+
+Audio : rotor d'hélicoptère, brouhaha du marché, klaxons, cris, tintement de bassines, moteur poussif de la voiturette, coup de patte sec et chute de corps, roues de skateboard sur la terre. Pas de musique. Pas de sous-titres. Pas de voix off.
 ```
 
 [↑ Retour aux catégories](#catalog)

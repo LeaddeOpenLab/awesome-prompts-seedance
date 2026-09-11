@@ -1234,20 +1234,32 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 <a name="prompt-2098242830661792189"></a>
 
-### Đang dịch
+### Một con đà điểu lái xe đồ chơi màu hồng và trốn thoát bằng ván trượt qua một khu chợ đông đúc.
 
 Tác giả：[@mrdejie](https://x.com/mrdejie) · [Bài gốc](https://x.com/mrdejie/status/2098242830661792189)
 
 Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một con đà điểu lái xe đồ chơi màu hồng và trốn thoát bằng ván trượt qua một khu chợ đông đúc.
 
 <img src="covers/2098242830661792189.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một cảnh quay liên tục 30 giây trực tiếp và thô từ trực thăng tin tức truyền hình Nigeria về một cuộc rượt đuổi hỗn loạn trong chợ. Một con đà điểu thật khổng lồ lái một chiếc xe đồ chơi bằng nhựa màu hồng cũ kỹ, bạc màu và bẩn thỉu băng qua một khu chợ trời đông đúc trong khi những người bán đồ ăn địa phương đuổi theo nó như thể muốn bắt và nấu thịt nó. Chiếc xe đồ chơi đâm vào một rào chắn bằng quầy hàng. Con đà điểu đá ngã một người bán hàng rồi tẩu thoát trên một chiếc ván trượt. Chỉ dùng cảnh quay trực tiếp nguyên bản từ trực thăng: một cú máy theo dõi từ trên cao duy nhất, độ rung lắc tự nhiên, vật lý chân thực, ánh sáng ban ngày rực rỡ. Không chỉnh màu điện ảnh, không chuyển động chậm, không hiệu ứng phim nhựa, không cắt cảnh.
+
+Bắt đầu bằng góc nhìn từ xa của trực thăng bao quát khu chợ Nigeria đông đúc dưới ánh sáng ban ngày: các quầy đồ ăn, ô dù, chậu thau, thùng gỗ, thịt treo, khói nướng, người mua sắm, xe ôm okada và xe lam ba bánh keke. Con đà điểu đang phóng nhanh ngược chiều trên chiếc xe đồ chơi màu hồng bẩn thỉu bé tí, chân nó gần như chạm đất. Một người bán hàng mặc áo ba lỗ bạc màu và quấn xà rông cầm dao dài chạy đuổi theo phía sau. Con đà điểu luồn lách giữa các quầy hàng. Một bao ớt rơi xuống đất. Một chiếc keke phanh gấp. Một xe cút kít chở khoai mỡ bị lật nghiêng. Nhiều tiểu thương khác gia nhập — một người cầm chậu kim loại, một người cầm vá múc canh khổng lồ, một người vác bao than củi, một người cầm xiên thịt nướng suya. Họ mặc vải hoa Ankara, áo ba lỗ, dép cao su và tạp dề lấm lem phủ ngoài quần áo thường. Không có đồng phục đầu bếp.
+
+Con đà điểu lao thẳng về phía chướng ngại vật gồm các bàn kê và một chiếc xe buýt danfo đang đỗ. Nó lách qua một chiếc keke đang trượt bánh. Các bánh xe nhựa bị khóa cứng và chiếc xe đồ chơi trượt nghiêng tông mạnh vào chân bàn rồi dừng phắt lại. Con đà điểu nhảy ra, hai cánh hơi dang rộng. Những người bán hàng ùa tới từ cả hai phía.
+
+Người bán hàng cầm dao chộp lấy cổ nó. Con đà điểu mổ vào trán anh ta. Người bán hàng cầm chậu lao tới. Con đà điểu trụ một chân và tung cú đá cực mạnh vào ngực anh ta — một cú đá nặng đô thực sự của đà điểu — khiến anh ta bay thẳng vào đống hành tây. Chiếc chậu kim loại lăn lóc. Người cầm vá trượt chân trên vũng dầu đổ. Một khoảng trống mở ra.
+
+Con đà điểu chạy về phía một chiếc ván trượt cũ mòn nằm trên nền đất cạnh thùng gỗ, bước lên, hơi lảo đảo rồi lấy một chân dài đạp mạnh lấy đà. Nó khom người thấp xuống, dang rộng cánh và lướt dọc theo lối đi trong chợ giữa các sạp hàng và xe keke. Đám tiểu thương chạy bộ đuổi theo. Chiếc xe đồ chơi màu hồng bị đâm nát bỏ lại ở rào chắn. Kết thúc bằng cảnh con đà điểu đã trượt ván ra xa tít trên đường, bóng người bán hàng nhỏ dần phía sau, trực thăng vẫn tiếp tục theo dõi từ xa.
+
+Giữ nguyên cùng một con đà điểu, cùng một chiếc xe đồ chơi màu hồng bẩn thỉu cho đến lúc va chạm, và cùng chiếc ván trượt để tẩu thoát. Trọng lượng động vật, cú đá, sự lảo đảo và các tương tác vật lý trong chợ phải chân thực. Ánh sáng ban ngày tự nhiên. Chỉ những người bán đồ ăn địa phương.
+
+Âm thanh: tiếng cánh quạt trực thăng, tiếng ồn ào ở chợ, còi xe, tiếng la hét, tiếng kim loại va đập leng keng của chậu, tiếng động cơ xe đồ chơi gầm rú quá tải, cú đá mạnh và tiếng người ngã va đập, tiếng bánh xe ván trượt nghiến trên mặt đất. Không có nhạc. Không có phụ đề. Không có lồng tiếng thuyết minh.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -1220,20 +1220,32 @@ Traducción en curso
 
 <a name="prompt-2098242830661792189"></a>
 
-### Traducción en curso
+### Un avestruz monta en un coche de juguete rosa y escapa en un monopatín a través de un mercado concurrido.
 
 Autor：[@mrdejie](https://x.com/mrdejie) · [Publicación original](https://x.com/mrdejie/status/2098242830661792189)
 
 Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un avestruz monta en un coche de juguete rosa y escapa en un monopatín a través de un mercado concurrido.
 
 <img src="covers/2098242830661792189.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Genera una toma continua de 30 segundos, sin editar y en directo, desde un helicóptero de noticias de la televisión nigeriana, de una caótica persecución en un mercado. Un enorme avestruz real conduce un viejo coche de juguete de plástico rosa, sucio y descolorido, a través de un abarrotado mercado al aire libre mientras los vendedores locales de comida lo persiguen como si quisieran atraparlo y cocinarlo. El coche de juguete choca contra una barricada de puestos. El avestruz derriba de una patada a un vendedor y luego escapa en un monopatín. Solo metraje en directo de helicóptero sin pulir: una única toma de seguimiento a gran altitud, temblor natural, física real, luz de día brillante. Sin etalonaje cinematográfico, sin cámara lenta, sin aspecto de película, sin cortes.
+
+Comienza con una vista distante de helicóptero de un abarrotado mercado nigeriano a plena luz del día: puestos de comida, sombrillas, barreños, cajas de madera, carne colgada, humo de parrilla, compradores, okadas y kekes. El avestruz ya se desplaza a gran velocidad en dirección contraria en el diminuto y sucio coche rosa de juguete, con las patas casi rozando el suelo. Un vendedor con una camiseta de tirantes descolorida y un paño tradicional corre tras él con un cuchillo largo. El avestruz serpentea entre los puestos. Cae una bolsa de pimientos. Un keke frena en seco. Una carretilla de ñames se vuelca. Más vendedores se suman: uno con un barreño de metal, otro con un cucharón gigante, otro con un saco de carbón y otro con una brocheta de suya. Visten ropa con estampados Ankara, camisetas de tirantes, chanclas de goma y delantales manchados sobre su ropa de calle. Nada de uniformes de chef.
+
+El avestruz se dirige hacia un bloqueo de mesas y un danfo aparcado. Esquiva un keke que derrapa. Las ruedas de plástico se bloquean y el coche de juguete derrapa lateralmente contra la pata de una mesa, deteniéndose en seco. El avestruz salta con las alas entreabiertas. Los vendedores se abalanzan desde ambos lados.
+
+El vendedor del cuchillo intenta agarrarlo por el cuello. El avestruz le da un picotazo en la frente. El vendedor del barreño arremete. El avestruz apoya una pata y le propina una patada en el pecho —una patada de avestruz auténtica y pesada— haciéndolo volar sobre una pila de cebollas. El barreño sale rodando. El vendedor del cucharón resbala en aceite derramado. Se abre un hueco.
+
+El avestruz corre hacia un monopatín desgastado tirado en la tierra junto a una caja, se sube, se tambalea y luego se impulsa con una larga pata. Se agacha con las alas extendidas y rueda calle abajo por el mercado entre puestos y kekes. Los vendedores lo persiguen a pie. El coche rosa accidentado se queda en la barricada. Termina con el avestruz ya lejos por el camino sobre el monopatín, los vendedores haciéndose diminutos a sus espaldas y el helicóptero aún siguiéndolo desde la distancia.
+
+Mantén el mismo avestruz, el mismo coche de juguete rosa sucio hasta el choque y el monopatín para la huida. Peso realista del animal, patada, tambaleo y física creíble del mercado. Luz natural del día. Solo vendedores locales de comida.
+
+Audio: rotor de helicóptero, bullicio del mercado, bocinas, gritos, ruido metálico de barreños, motor forzado del coche de juguete, patada seca y caída de cuerpo, ruedas del monopatín sobre la tierra. Sin música. Sin subtítulos. Sin voz en off.
 ```
 
 [↑ Volver a categorías](#catalog)

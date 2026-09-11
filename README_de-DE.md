@@ -1104,20 +1104,32 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 
 <a name="prompt-2098242830661792189"></a>
 
-### Übersetzung läuft
+### Ein Strauß fährt ein rosa Spielzeugauto und entkommt auf einem Skateboard durch einen belebten Markt.
 
 Autor：[@mrdejie](https://x.com/mrdejie) · [Originalbeitrag](https://x.com/mrdejie/status/2098242830661792189)
 
 Fahrzeug · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Strauß fährt ein rosa Spielzeugauto und entkommt auf einem Skateboard durch einen belebten Markt.
 
 <img src="covers/2098242830661792189.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine durchgehende 30-sekündige, ungeschliffene Live-Hubschrauberaufnahme von nigerianischen Fernsehnachrichten, die eine chaotische Verfolgungsjagd auf einem Markt zeigt. Ein riesiger, echter Strauß fährt auf einem schmutzigen, verblichenen, alten rosa Spielzeugauto aus Plastik durch einen vollgepackten Freiluftmarkt, während lokale Essensverkäufer ihn jagen, als wollten sie ihn fangen und kochen. Das Spielzeugauto prallt gegen eine Barrikade aus Marktständen. Der Strauß tritt einen Verkäufer von den Beinen und entkommt dann auf einem Skateboard. Nur unpoliertes Live-Hubschraubermaterial: eine einzige Verfolgungsaufnahme aus großer Höhe, natürliches Wackeln, echte Physik, helles Tageslicht. Kein cineastisches Grading, keine Zeitlupe, kein Filmlook, keine Schnitte.
+
+Beginne mit einem distanzierten Hubschrauberblick auf einen vollgepackten nigerianischen Markt bei Tageslicht: Essensstände, Sonnenschirme, Schüsseln, Kisten, hängendes Fleisch, Grillrauch, Einkäufer, Okadas und Kekes. Der Strauß bewegt sich bereits schnell als Geisterfahrer auf dem winzigen, schmutzigen rosa Spielzeugauto, die Beine berühren fast den Boden. Ein Verkäufer in verblichenem Unterhemd und Wickeltuch rennt mit einem langen Messer hinterher. Der Strauß schlängelt sich zwischen Ständen hindurch. Ein Sack Paprika fällt herunter. Ein Keke bremst scharf. Eine Yamswurzel-Schubkarre kippt um. Weitere Verkäufer schließen sich an – einer mit einer Metallschüssel, einer mit einer riesigen Schöpfkelle, einer mit einem Sack Holzkohle, einer mit einem Suya-Spieß. Sie tragen Ankara-Muster, Unterhemden, Gummischlappen und fleckige Schürzen über der Straßenkleidung. Keine Kochuniformen.
+
+Der Strauß fährt auf eine Barrikade aus Tischen und einen geparkten Danfo zu. Er weicht einem rutschenden Keke aus. Die Plastikräder blockieren und das Spielzeugauto schlittert seitlich in ein Tischbein und stoppt abrupt. Der Strauß springt ab, die Flügel halb geöffnet. Verkäufer stürmen von beiden Seiten herbei.
+
+Der Verkäufer mit dem Messer greift nach seinem Hals. Der Strauß pickt ihm auf die Stirn. Der Schüssel-Verkäufer stürzt vor. Der Strauß setzt einen Fuß auf und tritt ihm vor die Brust – ein echter, wuchtiger Straußentritt –, und er fliegt auf einen Haufen Zwiebeln. Die Schüssel rollt davon. Der Schöpfkellen-Verkäufer rutscht auf verschüttetem Öl aus. Eine Lücke tut sich auf.
+
+Der Strauß rennt zu einem abgenutzten Skateboard, das im Schmutz neben einer Kiste liegt, steigt auf, wackelt und stößt sich dann mit einem langen Bein ab. Er duckt sich tief mit ausgebreiteten Flügeln und rollt die Marktgasse zwischen Ständen und Kekes hinunter. Verkäufer jagen zu Fuß hinterher. Das verunglückte rosa Spielzeugauto bleibt an der Barrikade zurück. Ende mit dem Strauß, der auf dem Skateboard bereits weit die Straße hinunter ist, während die Verkäufer hinter ihm kleiner werden und der Hubschrauber die Verfolgung aus der Ferne fortsetzt.
+
+Behalte denselben Strauß, dasselbe schmutzige rosa Spielzeugauto bis zum Crash und das Skateboard für die Flucht bei. Realistisches Tiergewicht, Treten, Wackeln und Marktphysik. Natürliches Tageslicht. Nur lokale Essensverkäufer.
+
+Audio: Hubschrauberrotor, Marktgeräusche, Hupen, Rufen, klappernde Schüsseln, überlasteter Spielzeugautomotor, harter Tritt und stürzender Körper, Skateboardräder auf Schmutz. Keine Musik. Keine Untertitel. Kein Voice-Over.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
