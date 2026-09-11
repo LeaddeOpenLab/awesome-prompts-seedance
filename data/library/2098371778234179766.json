@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T12:22:21.829Z",
+  "model": "seedance2.5",
+  "prompt": "以下の制作工程に沿って、オリジナルのGTA風3Dカーチェイスを制作してください。\n\n【デザイン】\nメインのドライバー1人、逃走車1台、追跡車1台、都市の舞台1つを設定し、それぞれのデザインを一貫させてください。各4秒、合計3つのショットを計画してください。\n・後方から車両を追う追跡ショット\n・急カーブを曲がる車両を側面から追うショット\n・車両が走り去る様子を広く捉えるショット\n\n【Blenderで構築】\n整ったグレーモデルと、動作可能なキャラクター・車両のリグを作成してください。テクスチャやUV展開は不要です。\n\n【アニメーションとテスト】\nドライバー、ハンドル操作、車輪の回転、車両、カメラをアニメーション化してください。進行方向と車両の前後関係を一貫させ、めり込み、車輪の浮き、タイヤの不自然な滑り、ポーズの崩れ、手がハンドルから離れる問題を修正してください。\n\n【Blenderでレンダリング】\nフレーム1〜288を1280×720、24fpsでレンダリングしてください。実際にBlenderでレンダリングしたフレームをつなぎ、12秒のグレーモデル版マスター動画を作成してください。各ショットを個別に書き出し、形状と構図の参照用に、対応するグレーの静止画もレンダリングしてください。\n\n【PixVerseプラグインで仕上げ】\nSeedance 2.5を720pで使用し、各ショットを個別に処理してください。Blenderの動画を動きの参照に、グレーの静止画を形状の参照に使用してください。生成プロンプトで映像全体に統一感のある配色を指定してください。カメラの動き、アクションのタイミング、キャラクターと車両のデザイン、車両数を維持してください。\n\n【確認と納品】\n完成した両方の動画を確認し、映像の不具合やショット間のつながりを点検してください。Blender側の問題を修正し、Seedanceで失敗したショットのみを再生成してください。再試行は各ショット最大2回までとします。\n\n編集可能な.blendファイル、ネイティブ720pのBlenderグレーモデル動画、Seedance版と明記した720p動画、残っている制約についての簡潔な評価を納品してください。",
+  "promptTranslations": {
+    "en": "Create an original GTA-style 3D car chase following the production workflow below.\n\n[Design]\nEstablish one main driver, one getaway vehicle, one pursuing vehicle, and one urban setting, maintaining design consistency across all elements. Plan a total of 3 shots, each lasting 4 seconds:\n- A chase shot following the vehicles from behind\n- A side tracking shot of the vehicles navigating a sharp turn\n- A wide establishing shot capturing the vehicles speeding away\n\n[Build in Blender]\nCreate clean greybox models along with functional character and vehicle rigs. Texturing and UV unwrapping are not required.\n\n[Animation and Testing]\nAnimate the driver, steering wheel manipulation, wheel rotation, vehicles, and cameras. Maintain consistent travel direction and front-to-back vehicle relationships, and resolve issues such as clipping, floating wheels, unnatural tire slippage, collapsing poses, and hands detaching from the steering wheel.\n\n[Render in Blender]\nRender frames 1 to 288 at 1280x720 and 24fps. Assemble the actual Blender-rendered frames into a 12-second master greybox video. Export each shot separately, and also render corresponding greybox still frames to serve as shape and composition references.\n\n[Finishing with PixVerse Plugin]\nProcess each shot individually using Seedance 2.5 at 720p. Use the Blender video clips as motion references and the greybox still frames as shape references. Specify a unified color palette across the entire sequence via generation prompts. Preserve camera motion, action timing, character and vehicle designs, and vehicle count.\n\n[Review and Delivery]\nReview both finished videos, checking for visual glitches and continuity across shots. Fix any Blender-side issues and regenerate only the shots that failed in Seedance. Limit retries to a maximum of 2 attempts per shot.\n\nDeliver the editable .blend file, the native 720p Blender greybox video, the 720p video clearly labeled as the Seedance version, and a brief evaluation detailing any remaining constraints."
+  },
+  "summaryTranslations": {
+    "en": "Production instructions for a GTA-style car chase, covering everything from 3D greybox modeling in Blender to final video generation using PixVerse (Seedance 2.5)."
+  },
+  "translationVersion": 2,
+  "summary": "Blenderでの3Dグレーモデル制作からPixVerse（Seedance 2.5）による映像化までを指定したGTA風カーチェイスの制作指示。",
+  "summaryEn": "Production instructions for a GTA-style 3D car chase, covering Blender graybox animation to final rendering via PixVerse Seedance 2.5.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098371778234179766",
+    "canonicalUrl": "https://x.com/hasamaru_studio/status/2098371778234179766",
+    "author": {
+      "username": "hasamaru_studio",
+      "displayName": "はさまるスタジオ (Hasamaru Studio)",
+      "profileUrl": "https://x.com/hasamaru_studio"
+    },
+    "publishedAt": "2026-09-11T11:23:12.000Z",
+    "collectedAt": "2026-09-11T12:16:05.734Z",
+    "language": "ja",
+    "originalText": "🚔GTA風の3Dカーチェイス💥\nGPT-6 Astraが制作の流れを設計し、PixVerseが映像化！\n\n@PixVerse \nPixVerse、またはChatGPTのPixVerseプラグインで試してみてください。\n\nプロンプト ↓\n```\n以下の制作工程に沿って、オリジナルのGTA風3Dカーチェイスを制作してください。\n\n【デザイン】\nメインのドライバー1人、逃走車1台、追跡車1台、都市の舞台1つを設定し、それぞれのデザインを一貫させてください。各4秒、合計3つのショットを計画してください。\n・後方から車両を追う追跡ショット\n・急カーブを曲がる車両を側面から追うショット\n・車両が走り去る様子を広く捉えるショット\n\n【Blenderで構築】\n整ったグレーモデルと、動作可能なキャラクター・車両のリグを作成してください。テクスチャやUV展開は不要です。\n\n【アニメーションとテスト】\nドライバー、ハンドル操作、車輪の回転、車両、カメラをアニメーション化してください。進行方向と車両の前後関係を一貫させ、めり込み、車輪の浮き、タイヤの不自然な滑り、ポーズの崩れ、手がハンドルから離れる問題を修正してください。\n\n【Blenderでレンダリング】\nフレーム1〜288を1280×720、24fpsでレンダリングしてください。実際にBlenderでレンダリングしたフレームをつなぎ、12秒のグレーモデル版マスター動画を作成してください。各ショットを個別に書き出し、形状と構図の参照用に、対応するグレーの静止画もレンダリングしてください。\n\n【PixVerseプラグインで仕上げ】\nSeedance 2.5を720pで使用し、各ショットを個別に処理してください。Blenderの動画を動きの参照に、グレーの静止画を形状の参照に使用してください。生成プロンプトで映像全体に統一感のある配色を指定してください。カメラの動き、アクションのタイミング、キャラクターと車両のデザイン、車両数を維持してください。\n\n【確認と納品】\n完成した両方の動画を確認し、映像の不具合やショット間のつながりを点検してください。Blender側の問題を修正し、Seedanceで失敗したショットのみを再生成してください。再試行は各ショット最大2回までとします。\n\n編集可能な.blendファイル、ネイティブ720pのBlenderグレーモデル動画、Seedance版と明記した720p動画、残っている制約についての簡潔な評価を納品してください。\n```",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/hasamaru_studio/status/2098371778234179766",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098371753475276800/img/PnR37lvhrl8kSxcY.jpg",
+        "analysisUrl": "https://x.com/hasamaru_studio/status/2098371778234179766"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 927
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/hasamaru_studio/status/2098371778234179766",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098371753475276800/img/PnR37lvhrl8kSxcY.jpg",
+  "coverPath": "covers/2098371778234179766.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098371753475276800",
+    "x-post:2098371778234179766"
+  ],
+  "analysis": {
+    "summary": "Blenderでの3Dグレーモデル制作からPixVerse（Seedance 2.5）による映像化までを指定したGTA風カーチェイスの制作指示。",
+    "summaryEn": "Production instructions for a GTA-style 3D car chase, covering Blender graybox animation to final rendering via PixVerse Seedance 2.5.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the 3-shot car chase matching the Blender graybox and final PixVerse render with chase, curve drift, and explosive getaway."
+    },
+    "videoQuality": null,
+    "originalPrompt": "以下の制作工程に沿って、オリジナルのGTA風3Dカーチェイスを制作してください。\n\n【デザイン】\nメインのドライバー1人、逃走車1台、追跡車1台、都市の舞台1つを設定し、それぞれのデザインを一貫させてください。各4秒、合計3つのショットを計画してください。\n・後方から車両を追う追跡ショット\n・急カーブを曲がる車両を側面から追うショット\n・車両が走り去る様子を広く捉えるショット\n\n【Blenderで構築】\n整ったグレーモデルと、動作可能なキャラクター・車両のリグを作成してください。テクスチャやUV展開は不要です。\n\n【アニメーションとテスト】\nドライバー、ハンドル操作、車輪の回転、車両、カメラをアニメーション化してください。進行方向と車両の前後関係を一貫させ、めり込み、車輪の浮き、タイヤの不自然な滑り、ポーズの崩れ、手がハンドルから離れる問題を修正してください。\n\n【Blenderでレンダリング】\nフレーム1〜288を1280×720、24fpsでレンダリングしてください。実際にBlenderでレンダリングしたフレームをつなぎ、12秒のグレーモデル版マスター動画を作成してください。各ショットを個別に書き出し、形状と構図の参照用に、対応するグレーの静止画もレンダリングしてください。\n\n【PixVerseプラグインで仕上げ】\nSeedance 2.5を720pで使用し、各ショットを個別に処理してください。Blenderの動画を動きの参照に、グレーの静止画を形状の参照に使用してください。生成プロンプトで映像全体に統一感のある配色を指定してください。カメラの動き、アクションのタイミング、キャラクターと車両のデザイン、車両数を維持してください。\n\n【確認と納品】\n完成した両方の動画を確認し、映像の不具合やショット間のつながりを点検してください。Blender側の問題を修正し、Seedanceで失敗したショットのみを再生成してください。再試行は各ショット最大2回までとします。\n\n編集可能な.blendファイル、ネイティブ720pのBlenderグレーモデル動画、Seedance版と明記した720p動画、残っている制約についての簡潔な評価を納品してください。",
+    "sourceRange": {
+      "start": 122,
+      "end": 1059
+    },
+    "translations": {
+      "zh": "按照以下制作流程制作原创GTA风格的3D飞车追逐。\n\n【设计】\n设定1名主要驾驶员、1辆逃逸车、1辆追击车、1个城市场景并保持设计一致。规划3个各4秒的分镜：追尾追逐、侧视过弯、远景驶离。\n\n【Blender构建】\n创建整洁的灰模及可用绑定，无需贴图或UV。\n\n【动画与测试】\n制作角色与车辆动画，修复穿模与动作异常。\n\n【Blender渲染】\n渲染12秒720p/24fps灰模母带并导出静止参考帧。\n\n【PixVerse插件精修】\n使用Seedance 2.5将灰模视频作为动作参考、静止帧作为造型参考生成统一配色的视频，保持运镜和设计不变。\n\n【确认与交付】\n检查成片并修复瑕疵，交付.blend文件、灰模视频、Seedance成片及评估。",
+      "en": "Produce an original GTA-style 3D car chase following this pipeline:\n\n[Design]\n1 driver, 1 getaway car, 1 pursuit car, 1 city setting. Plan three 4-second shots: rear pursuit, side turn, and wide getaway.\n\n[Blender Build]\nCreate clean gray models and functional rigs without UVs or textures.\n\n[Animation & Testing]\nAnimate driver, steering, wheels, and camera; fix clipping and unnatural motion.\n\n[Blender Render]\nRender 12-second 720p 24fps gray master video and reference stills.\n\n[PixVerse Finishing]\nProcess each shot with Seedance 2.5 using Blender renders for motion and geometry reference while maintaining camera and vehicle consistency.\n\n[Review & Delivery]\nDeliver editable .blend, native 720p gray video, final Seedance video, and brief review."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "3D car chase animation and video generation pipeline",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Grand Theft Auto"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
