@@ -1419,20 +1419,43 @@ Evitar: estilo caricaturesco, aspecto CGI, piel plástica, rostro poco realista,
 
 <a name="prompt-2098371778234179766"></a>
 
-### Traducción en curso
+### Instrucciones de producción para una persecución de autos al estilo GTA, especificando desde el modelado 3D en gris en Blender hasta la renderización de video con PixVerse \(Seedance 2.5\).
 
 Autor：[@hasamaru\_studio](https://x.com/hasamaru_studio) · [Publicación original](https://x.com/hasamaru_studio/status/2098371778234179766)
 
 Renderizado 3D · Producto · Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucciones de producción para una persecución de autos al estilo GTA, especificando desde el modelado 3D en gris en Blender hasta la renderización de video con PixVerse \(Seedance 2.5\).
 
 <img src="covers/2098371778234179766.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Sigue este flujo de trabajo de producción para crear una persecución de autos 3D original al estilo GTA:
+
+[Diseño]
+Diseña 1 conductor principal, 1 auto de escape, 1 auto de persecución y 1 entorno urbano con apariencias consistentes. Planifica 3 tomas de 4 segundos cada una:
+- Una toma de persecución siguiendo a los vehículos desde atrás
+- Una toma lateral siguiendo a los vehículos en una curva cerrada
+- Una toma amplia capturando a los vehículos alejándose a gran velocidad
+
+[Construcción en Blender]
+Crea modelos limpios en sombreado gris y rigs funcionales para los personajes y vehículos. No se requieren texturas ni mapeado UV.
+
+[Animación y pruebas]
+Anima al conductor, el volante, la rotación de las ruedas, los vehículos y las cámaras. Mantén coherente la dirección del recorrido y el orden de los autos; corrige interpenetraciones, ruedas flotantes, deslizamientos irreales de los neumáticos, poses rotas y manos que se despegan del volante.
+
+[Renderizado en Blender]
+Renderiza los fotogramas del 1 al 288 a 1280×720, 24 fps. Ensambla los fotogramas renderizados reales de Blender en un video maestro en modelo gris de 12 segundos. Exporta cada toma por separado y renderiza imágenes fijas correspondientes en gris como referencias de forma y composición.
+
+[Finalización con el complemento PixVerse]
+Usa Seedance 2.5 a 720p para procesar cada toma individualmente. Utiliza el video de Blender como referencia de movimiento y las imágenes fijas en gris para la coherencia de formas. Emplea un esquema de color unificado en las indicaciones de generación. Mantén el movimiento de cámara, el ritmo de la acción, el diseño de personajes y vehículos, y la cantidad de autos.
+
+[Revisión y entrega]
+Revisa ambos videos terminados en busca de artefactos visuales y continuidad entre tomas. Corrige los problemas subyacentes en Blender y vuelve a generar únicamente las tomas fallidas en Seedance, limitando los reintentos a 2 por toma.
+
+Entrega el archivo .blend editable, el video nativo en modelo gris de Blender a 720p, el video a 720p etiquetado como versión de Seedance y una breve evaluación de las limitaciones restantes.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -1413,20 +1413,43 @@ Evite: estilo de desenho animado, aparência de CGI, pele de plástico, rosto ir
 
 <a name="prompt-2098371778234179766"></a>
 
-### Tradução em andamento
+### Instruções de produção para uma perseguição de carros no estilo GTA, detalhando desde a criação do modelo 3D em cinza no Blender até a finalização em vídeo com o PixVerse \(Seedance 2.5\).
 
 Autor：[@hasamaru\_studio](https://x.com/hasamaru_studio) · [Publicação original](https://x.com/hasamaru_studio/status/2098371778234179766)
 
 Renderização 3D · Produto · Veículo · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Instruções de produção para uma perseguição de carros no estilo GTA, detalhando desde a criação do modelo 3D em cinza no Blender até a finalização em vídeo com o PixVerse \(Seedance 2.5\).
 
 <img src="covers/2098371778234179766.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Siga este fluxo de trabalho de produção para criar uma perseguição de carros 3D original no estilo GTA:
+
+[Design]
+Desenvolva 1 motorista principal, 1 carro de fuga, 1 carro perseguidor e 1 cenário urbano com visuais consistentes. Planeje 3 planos de 4 segundos cada:
+- Um plano de perseguição acompanhando os veículos por trás
+- Um plano lateral acompanhando os veículos fazendo uma curva fechada
+- Um plano aberto capturando os veículos acelerando para longe
+
+[Construção no Blender]
+Crie modelos cinzas limpos e rigs funcionais para os personagens e veículos. Texturas e mapeamento UV não são necessários.
+
+[Animação e testes]
+Anime o motorista, o volante, a rotação das rodas, os veículos e as câmeras. Mantenha a direção do trajeto e a ordem dos carros consistentes; corrija interpenetrações, rodas flutuando, derrapagens irreais dos pneus, poses corrompidas e mãos que se soltam do volante.
+
+[Renderização no Blender]
+Renderize os quadros de 1 a 288 em 1280×720 a 24 fps. Junte os quadros efetivamente renderizados no Blender em um vídeo mestre de modelo cinza de 12 segundos. Exporte cada plano separadamente e renderize imagens estáticas cinzas correspondentes como referências de forma e enquadramento.
+
+[Finalização com o plugin PixVerse]
+Use o Seedance 2.5 em 720p para processar cada plano individualmente. Utilize o vídeo do Blender como referência de movimento e as imagens estáticas cinzas para manter a consistência das formas. Especifique um esquema de cores uniforme nos prompts de geração para todas as filmagens. Mantenha os movimentos de câmera, o ritmo da ação, o design de personagens e veículos e a quantidade de carros.
+
+[Revisão e entrega]
+Revise ambos os vídeos finalizados quanto a artefatos visuais e à continuidade entre os planos. Corrija problemas subjacentes no Blender e gere novamente apenas os planos que falharem no Seedance, limitando as novas tentativas a 2 por plano.
+
+Entregue o arquivo .blend editável, o vídeo nativo em 720p do modelo cinza do Blender, o vídeo em 720p rotulado como versão Seedance e uma breve avaliação das limitações restantes.
 ```
 
 [↑ Voltar às categorias](#catalog)

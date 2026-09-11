@@ -1419,20 +1419,43 @@ Style visuel : Film de vacances de rêve à Bali, esthétique de marque de voyag
 
 <a name="prompt-2098371778234179766"></a>
 
-### Traduction en cours
+### Instructions de production pour une course-poursuite façon GTA, détaillant de la modélisation 3D en modèle gris sous Blender jusqu'à la vidéo finalisée avec PixVerse \(Seedance 2.5\).
 
 Auteur：[@hasamaru\_studio](https://x.com/hasamaru_studio) · [Publication originale](https://x.com/hasamaru_studio/status/2098371778234179766)
 
 Rendu 3D · Produit · Véhicule · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Instructions de production pour une course-poursuite façon GTA, détaillant de la modélisation 3D en modèle gris sous Blender jusqu'à la vidéo finalisée avec PixVerse \(Seedance 2.5\).
 
 <img src="covers/2098371778234179766.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Suivez ce flux de production pour créer une course-poursuite 3D originale façon GTA :
+
+[Conception]
+Concevez 1 conducteur principal, 1 voiture de fuite, 1 voiture de poursuite et 1 environnement urbain avec des apparences cohérentes. Prévoyez 3 plans de 4 secondes chacun :
+- Un plan de poursuite suivant les véhicules par l'arrière
+- Un plan latéral suivant les véhicules négociant un virage serré
+- Un plan large capturant les véhicules s'éloignant à toute allure
+
+[Création dans Blender]
+Créez des modèles gris propres ainsi que des rigs fonctionnels pour les personnages et les véhicules. Les textures et le dépliage UV ne sont pas requis.
+
+[Animation et tests]
+Animez le conducteur, le volant, la rotation des roues, les véhicules et les caméras. Maintenez une direction de déplacement et un ordre des véhicules cohérents ; corrigez les interpénétrations, les roues flottantes, les glissements anormaux des pneus, les poses brisées et les mains qui se détachent du volant.
+
+[Rendu dans Blender]
+Rendez les images 1 à 288 en 1280×720 à 24 ips. Assemblez les images réellement rendues dans Blender en une vidéo master de modèle gris de 12 secondes. Exportez chaque plan séparément et effectuez le rendu d'images fixes grises correspondantes pour servir de références de forme et de cadrage.
+
+[Finalisation avec le plug-in PixVerse]
+Utilisez Seedance 2.5 en 720p pour traiter chaque plan individuellement. Utilisez la vidéo de Blender comme référence de mouvement et les images fixes grises pour la conformité des formes. Spécifiez une palette de couleurs uniforme dans les prompts de génération pour l'ensemble des images. Conservez les mouvements de caméra, le rythme de l'action, le design des personnages et des véhicules, ainsi que le nombre de véhicules.
+
+[Vérification et livraison]
+Examinez les deux vidéos finalisées pour déceler tout artefact visuel et vérifier la continuité entre les plans. Corrigez les problèmes sous-jacents dans Blender et ne régénérez que les plans échoués dans Seedance, avec une limite de 2 essais par plan.
+
+Livrables attendus : le fichier .blend modifiable, la vidéo native 720p du modèle gris Blender, la vidéo 720p étiquetée comme version Seedance et une brève évaluation des contraintes restantes.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -1557,20 +1557,43 @@ Tránh: phong cách hoạt hình, giao diện CGI, da nhựa, khuôn mặt phi t
 
 <a name="prompt-2098371778234179766"></a>
 
-### Đang dịch
+### Hướng dẫn sản xuất phân cảnh rượt đuổi xe phong cách GTA chỉ định từ bước dựng mô hình xám 3D trong Blender đến khâu tạo video bằng PixVerse \(Seedance 2.5\).
 
 Tác giả：[@hasamaru\_studio](https://x.com/hasamaru_studio) · [Bài gốc](https://x.com/hasamaru_studio/status/2098371778234179766)
 
 Kết xuất 3D · Sản phẩm · Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hướng dẫn sản xuất phân cảnh rượt đuổi xe phong cách GTA chỉ định từ bước dựng mô hình xám 3D trong Blender đến khâu tạo video bằng PixVerse \(Seedance 2.5\).
 
 <img src="covers/2098371778234179766.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Vui lòng sản xuất một phân cảnh rượt đuổi xe 3D phong cách GTA nguyên bản theo quy trình sản xuất sau.
+
+【Thiết kế】
+Thiết lập 1 tài xế chính, 1 xe tẩu thoát, 1 xe truy đuổi và 1 bối cảnh thành phố, đảm bảo thiết kế của từng yếu tố phải nhất quán. Lập kế hoạch gồm 3 cảnh quay, mỗi cảnh 4 giây.
+・Cảnh bám đuổi theo xe từ phía sau
+・Cảnh bám theo xe từ bên hông khi rẽ khúc cua gấp
+・Cảnh góc rộng bắt trọn hình ảnh các xe lao vút đi
+
+【Xây dựng trong Blender】
+Tạo mô hình xám (gray model) chỉn chu cùng bộ khung xương (rig) có thể chuyển động cho nhân vật và phương tiện. Không cần dựng chất liệu (texture) hay trải UV.
+
+【Làm diễn hoạt và kiểm tra】
+Làm diễn hoạt cho tài xế, thao tác vô-lăng, chuyển động quay của bánh xe, phương tiện và camera. Đảm bảo hướng di chuyển cùng quan hệ trước - sau giữa các xe luôn nhất quán; chỉnh sửa các lỗi xuyên hình (clipping), bánh xe bị hổng trên không, lốp trượt bất thường, lỗi tư thế và tay rời khỏi vô-lăng.
+
+【Kết xuất trong Blender】
+Kết xuất các khung hình từ 1 đến 288 ở độ phân giải 1280×720, 24fps. Ghép các khung hình thực tế kết xuất từ Blender để tạo video master bản mô hình xám dài 12 giây. Xuất riêng từng cảnh quay, đồng thời kết xuất ảnh tĩnh màu xám tương ứng để làm tham chiếu hình khối và bố cục.
+
+【Hoàn thiện bằng plugin PixVerse】
+Sử dụng Seedance 2.5 ở độ phân giải 720p để xử lý riêng từng cảnh quay. Dùng video Blender làm tham chiếu chuyển động và dùng ảnh tĩnh màu xám làm tham chiếu hình khối. Trong prompt tạo sinh, hãy chỉ định bảng màu đồng nhất cho toàn bộ video. Giữ nguyên chuyển động camera, thời gian hành động, thiết kế nhân vật và phương tiện, cùng số lượng xe.
+
+【Kiểm tra và bàn giao】
+Kiểm tra cả hai video đã hoàn thiện để rà soát lỗi hình ảnh và tính liền mạch giữa các cảnh quay. Khắc phục các vấn đề từ phía Blender và chỉ tạo lại các cảnh quay bị hỏng trên Seedance. Số lần thử lại tối đa là 2 lần cho mỗi cảnh quay.
+
+Bàn giao tệp .blend có thể chỉnh sửa, video mô hình xám Blender chuẩn 720p gốc, video 720p ghi rõ là phiên bản Seedance, cùng bản đánh giá ngắn gọn về các hạn chế còn tồn đọng.
 ```
 
 [↑ Về danh mục](#catalog)

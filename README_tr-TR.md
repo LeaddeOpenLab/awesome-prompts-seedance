@@ -1413,20 +1413,43 @@ Kaçınılması gerekenler: çizgi film tarzı, CGI görünümü, plastik cilt, 
 
 <a name="prompt-2098371778234179766"></a>
 
-### Çeviri sürüyor
+### Blender'da 3D gri model yapımından PixVerse \(Seedance 2.5\) ile videolaştırmaya kadar belirlenen GTA tarzı araba kovalamacası prodüksiyon talimatları.
 
 Yazar：[@hasamaru\_studio](https://x.com/hasamaru_studio) · [Orijinal gönderi](https://x.com/hasamaru_studio/status/2098371778234179766)
 
 3D Modelleme · Ürün · Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Blender'da 3D gri model yapımından PixVerse \(Seedance 2.5\) ile videolaştırmaya kadar belirlenen GTA tarzı araba kovalamacası prodüksiyon talimatları.
 
 <img src="covers/2098371778234179766.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Aşağıdaki prodüksiyon iş akışını takip ederek orijinal bir GTA tarzı 3D araba kovalamacası oluşturun:
+
+[Tasarım]
+Tutarlı görünümlere sahip 1 ana sürücü, 1 kaçış aracı, 1 takip aracı ve 1 şehir ortamı tasarlayın. Her biri 4 saniyelik toplam 3 çekim planlayın:
+- Araçları arkadan takip eden bir takip çekimi
+- Keskin bir virajı dönen araçları yandan takip eden bir çekim
+- Araçların hızla uzaklaşmasını yakalayan geniş bir çekim
+
+[Blender'da Modelleme]
+Karakterler ve araçlar için temiz gri modeller ve çalışır durumda rig'ler oluşturun. Doku ve UV haritalandırma gerekli değildir.
+
+[Animasyon ve Test]
+Sürücüyü, direksiyonu, tekerlek dönüşünü, araçları ve kameraları canlandırın. İlerleme yönünü ve araç sıralamasını tutarlı tutun; iç içe geçmeleri, havada duran tekerlekleri, yapay lastik kaymalarını, bozuk pozları ve ellerin direksiyondan ayrılmasını düzeltin.
+
+[Blender'da Render Alma]
+1 ile 288 arasındaki kareleri 1280×720, 24 fps olarak render alın. Blender'da gerçekten render alınmış kareleri 12 saniyelik bir gri model ana videosunda birleştirin. Her çekimi ayrı ayrı dışa aktarın ve şekil ile kompozisyon referansı olarak karşılık gelen gri sabit kareleri render alın.
+
+[PixVerse Eklentisi ile Tamamlama]
+Her çekimi ayrı ayrı işlemek için 720p çözünürlükte Seedance 2.5 kullanın. Hareket referansı olarak Blender videosunu, biçim tutarlılığı için gri sabit kareleri kullanın. Üretim komutlarında tüm görüntüler için tutarlı bir renk düzeni belirtin. Kamera hareketlerini, aksiyon zamanlamasını, karakter ve araç tasarımlarını ve araç sayısını koruyun.
+
+[İnceleme ve Teslimat]
+Tamamlanan her iki videoyu da görsel bozulmalar ve çekimler arası devamlılık açısından inceleyin. Blender'daki altta yatan sorunları düzeltin ve Seedance'te yalnızca başarısız olan çekimleri çekim başına en fazla 2 deneme ile yeniden oluşturun.
+
+Düzenlenebilir .blend dosyasını, yerel 720p Blender gri model videosunu, Seedance versiyonu olarak etiketlenmiş 720p videoyu ve kalan kısıtlamaların kısa bir değerlendirmesini teslim edin.
 ```
 
 [↑ Kategorilere dön](#catalog)
