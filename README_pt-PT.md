@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**57** Prompts · Adição mais recente: **2026-09-11**
+**59** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,50 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2098432763368178141"></a>
+
+### Tradução em curso
+
+Autor：[@n\_\_deborah](https://x.com/n__deborah) · [Publicação original](https://x.com/n__deborah/status/2098432763368178141)
+
+Cena de Cinema / Fotograma · Renderização 3D · Veículo · Paisagem urbana / Rua · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098432763368178141.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098432658166694305"></a>
+
+### Tradução em curso
+
+Autor：[@Mapunda\_01](https://x.com/Mapunda_01) · [Publicação original](https://x.com/Mapunda_01/status/2098432658166694305)
+
+Cena de Cinema / Fotograma · Renderização 3D · Veículo · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098432658166694305.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098432693222715716"></a>
 

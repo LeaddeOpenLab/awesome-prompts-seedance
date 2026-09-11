@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**57** Prompts · Dernier ajout: **2026-09-11**
+**59** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,50 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098432763368178141"></a>
+
+### Traduction en cours
+
+Auteur：[@n\_\_deborah](https://x.com/n__deborah) · [Publication originale](https://x.com/n__deborah/status/2098432763368178141)
+
+Image cinématographique / Photogramme de film · Rendu 3D · Véhicule · Paysage urbain / Rue · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098432763368178141.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098432658166694305"></a>
+
+### Traduction en cours
+
+Auteur：[@Mapunda\_01](https://x.com/Mapunda_01) · [Publication originale](https://x.com/Mapunda_01/status/2098432658166694305)
+
+Image cinématographique / Photogramme de film · Rendu 3D · Véhicule · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098432658166694305.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098432693222715716"></a>
 

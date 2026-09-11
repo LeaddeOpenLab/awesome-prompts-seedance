@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**57** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**59** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,50 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2098432763368178141"></a>
+
+### Übersetzung läuft
+
+Autor：[@n\_\_deborah](https://x.com/n__deborah) · [Originalbeitrag](https://x.com/n__deborah/status/2098432763368178141)
+
+Kinematisch / Filmstill · 3D-Rendering · Fahrzeug · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098432763368178141.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098432658166694305"></a>
+
+### Übersetzung läuft
+
+Autor：[@Mapunda\_01](https://x.com/Mapunda_01) · [Originalbeitrag](https://x.com/Mapunda_01/status/2098432658166694305)
+
+Kinematisch / Filmstill · 3D-Rendering · Fahrzeug · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098432658166694305.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098432693222715716"></a>
 

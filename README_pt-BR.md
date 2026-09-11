@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**57** Prompts · Última adição: **2026-09-11**
+**59** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,50 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2098432763368178141"></a>
+
+### Tradução em andamento
+
+Autor：[@n\_\_deborah](https://x.com/n__deborah) · [Publicação original](https://x.com/n__deborah/status/2098432763368178141)
+
+Cinematográfico / Imagem de Filme · Renderização 3D · Veículo · Paisagem Urbana / Rua · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098432763368178141.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098432658166694305"></a>
+
+### Tradução em andamento
+
+Autor：[@Mapunda\_01](https://x.com/Mapunda_01) · [Publicação original](https://x.com/Mapunda_01/status/2098432658166694305)
+
+Cinematográfico / Imagem de Filme · Renderização 3D · Veículo · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098432658166694305.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098432693222715716"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**57** Prompts · Última incorporación: **2026-09-11**
+**59** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,50 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2098432763368178141"></a>
+
+### Traducción en curso
+
+Autor：[@n\_\_deborah](https://x.com/n__deborah) · [Publicación original](https://x.com/n__deborah/status/2098432763368178141)
+
+Cine / Fotograma de película · Render 3D · Vehículo · Paisaje urbano / Calle · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098432763368178141.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098432658166694305"></a>
+
+### Traducción en curso
+
+Autor：[@Mapunda\_01](https://x.com/Mapunda_01) · [Publicación original](https://x.com/Mapunda_01/status/2098432658166694305)
+
+Cine / Fotograma de película · Render 3D · Vehículo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098432658166694305.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098432693222715716"></a>
 

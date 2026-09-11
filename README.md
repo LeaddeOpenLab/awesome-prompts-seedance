@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**57** Prompts · Latest addition: **2026-09-11**
+**59** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,50 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098432763368178141"></a>
+
+### Full-workflow generation prompt for a cinematic three-shot urban police car chase scene based on Blender previsualization and PixVerse rendering.
+
+Author：[@n\_\_deborah](https://x.com/n__deborah) · [Source](https://x.com/n__deborah/status/2098432763368178141)
+
+Cinematic / Film Still · 3D Render · Vehicle · Cityscape / Street · Published
+
+**Summary:** Full-workflow generation prompt for a cinematic three-shot urban police car chase scene based on Blender previsualization and PixVerse rendering.
+
+<img src="covers/2098432763368178141.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an original photorealistic cinematic car chase using a structured Blender-to-PixVerse workflow. Design two cars, a driver and an urban environment. Create three connected 4-second shots with a rear pursuit, side tracking turn and wide exit. Animate and validate vehicle movement, wheel rotation, steering, driver interaction and camera paths in Blender. Render a 12-second 1280×720 gray-model video. Use PixVerse Plugin and Seedance 2.5 to create cinematic reference images from the corresponding first frames, preserving composition, perspective and vehicle identity. Use those references with the Blender videos to generate each shot while maintaining the original camera movement, trajectories, timing, colors and spatial relationships.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098432658166694305"></a>
+
+### Blender animation combined with AI rendering workflow prompt for a GTA-style car chase.
+
+Author：[@Mapunda\_01](https://x.com/Mapunda_01) · [Source](https://x.com/Mapunda_01/status/2098432658166694305)
+
+Cinematic / Film Still · 3D Render · Vehicle · Published
+
+**Summary:** Blender animation combined with AI rendering workflow prompt for a GTA-style car chase.
+
+<img src="covers/2098432658166694305.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an original GTA-inspired car chase with a photorealistic, live-action cinematic finish. Design the driver, two cars and urban environment. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn and a wide exit shot. Build the scene and animation in Blender, including vehicles, wheel rotation, steering, driver movement and cameras. Render the complete 12-second gray-model video at 1280×720 and 24 fps. Then use the PixVerse Plugin with Seedance 2.5 to transform each shot's gray first frame into a photorealistic cinematic reference while preserving composition, perspective, subject positions and vehicle count. Use each cinematic reference together with its corresponding Blender video to generate the final shots while maintaining vehicle identity, colors, camera movement, trajectories and action timing.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098432693222715716"></a>
 

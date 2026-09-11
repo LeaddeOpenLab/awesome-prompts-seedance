@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**57** Prompt · Ultima aggiunta: **2026-09-11**
+**59** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,50 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2098432763368178141"></a>
+
+### Traduzione in corso
+
+Autore：[@n\_\_deborah](https://x.com/n__deborah) · [Post originale](https://x.com/n__deborah/status/2098432763368178141)
+
+Fermo immagine cinematografico / Still fotografico · Rendering 3D · Veicolo · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098432763368178141.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098432658166694305"></a>
+
+### Traduzione in corso
+
+Autore：[@Mapunda\_01](https://x.com/Mapunda_01) · [Post originale](https://x.com/Mapunda_01/status/2098432658166694305)
+
+Fermo immagine cinematografico / Still fotografico · Rendering 3D · Veicolo · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098432658166694305.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098432693222715716"></a>
 
