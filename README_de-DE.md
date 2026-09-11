@@ -327,20 +327,20 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2098432693222715716"></a>
 
-### Übersetzung läuft
+### Erstelle in Blender eine 12-sekündige Zaubererwerkstatt-Animation in einer Einstellung und stilisiere sie über PixVerse Seedance 2.5.
 
 Autor：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Originalbeitrag](https://x.com/KICHOCHEZI/status/2098432693222715716)
 
 Kinematisch / Filmstill · 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle in Blender eine 12-sekündige Zaubererwerkstatt-Animation in einer Einstellung und stilisiere sie über PixVerse Seedance 2.5.
 
 <img src="covers/2098432693222715716.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle in Blender eine 12-sekündige White-Model-Animation in einer einzigen Einstellung, basierend auf der bereitgestellten Zaubererwerkstatt-Referenz. Baue die Steinwände, Holzregale, das Rundbogenfenster, den Kamin, Bücher, das astronomische Instrument und den mit Trankflaschen gefüllten Alchemietisch. Animiere eine tiefe First-Person-Perspektive mit genau einer rechten Hand, die einen Trank hält. Beginne mit der Flasche nahe dem unteren rechten Rand, blicke dich in der Werkstatt und zum Fenster hin um, hebe den Trank natürlich an, halte kurz inne, um ihn zu betrachten, und senke ihn dann ab, während du dich dem Kamin und den leuchtenden Reagenzien zuwendest. Exportiere das White-Model als MP4. Verwende dann PixVerse mit Seedance 2.5 und beziehe dich dabei auf das Blender-Video für Kamera, Handlung und räumliche Anordnung sowie auf die bereitgestellten Bilder für das Erscheinungsbild. Behalte die durchgehende Einstellung und das Timing bei, während du verwitterten Stein, geschnitztes Holz, abgenutztes Leder, realistisches Glas, kühles Fensterlicht, warme Kaminbeleuchtung, leuchtende magische Flüssigkeiten, natürliche Flammen, Glut, Funken und Rauch hinzufügst.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

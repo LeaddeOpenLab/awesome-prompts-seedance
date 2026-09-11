@@ -329,20 +329,20 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2098432693222715716"></a>
 
-### Đang dịch
+### Tạo hoạt ảnh xưởng phù thủy quay một cú máy dài 12 giây trong Blender và cách điệu hóa thông qua PixVerse Seedance 2.5.
 
 Tác giả：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Bài gốc](https://x.com/KICHOCHEZI/status/2098432693222715716)
 
 Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo hoạt ảnh xưởng phù thủy quay một cú máy dài 12 giây trong Blender và cách điệu hóa thông qua PixVerse Seedance 2.5.
 
 <img src="covers/2098432693222715716.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo hoạt ảnh mô hình trắng (white-model) quay một cú máy (single-take) dài 12 giây trong Blender dựa trên tài liệu tham khảo xưởng phù thủy được cung cấp. Xây dựng các bức tường đá, kệ gỗ, cửa sổ vòm, lò sưởi, sách, dụng cụ thiên văn và bàn giả kim đầy các lọ thuốc. Tạo hoạt cảnh góc nhìn thứ nhất ở tầm thấp với đúng một bàn tay phải đang cầm một lọ thuốc. Bắt đầu với lọ thuốc ở gần cạnh dưới bên phải, nhìn quanh xưởng và hướng về phía cửa sổ, nâng lọ thuốc lên một cách tự nhiên, dừng lại để quan sát kỹ, sau đó hạ xuống trong khi quay người về phía lò sưởi và các chất phản ứng phát sáng. Xuất tệp MP4 mô hình trắng. Sau đó sử dụng PixVerse với Seedance 2.5, tham chiếu video Blender về máy quay, hành động và bố cục không gian, cùng các hình ảnh được cung cấp cho diện mạo bề ngoài. Giữ nguyên cảnh quay liên tục và thời lượng trong khi thêm đá phong hóa, gỗ chạm khắc, da sờn rách, thủy tinh chân thực, ánh sáng cửa sổ mát lạnh, ánh sáng lò sưởi ấm áp, chất lỏng ma thuật phát sáng, ngọn lửa tự nhiên, than hồng, tia lửa và khói.
 ```
 
 [↑ Về danh mục](#catalog)

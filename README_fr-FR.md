@@ -327,20 +327,20 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2098432693222715716"></a>
 
-### Traduction en cours
+### Créez une animation de 12 secondes en plan-séquence d'un atelier de sorcier dans Blender et stylisez-la via PixVerse Seedance 2.5.
 
 Auteur：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Publication originale](https://x.com/KICHOCHEZI/status/2098432693222715716)
 
 Image cinématographique / Photogramme de film · Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créez une animation de 12 secondes en plan-séquence d'un atelier de sorcier dans Blender et stylisez-la via PixVerse Seedance 2.5.
 
 <img src="covers/2098432693222715716.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une animation en modèle blanc (white-model) de 12 secondes en plan-séquence dans Blender, basée sur la référence d'atelier de sorcier fournie. Construisez les murs en pierre, les étagères en bois, la fenêtre cintrée, la cheminée, les livres, l'instrument astronomique et la table d'alchimie remplie de fioles de potions. Animez une vue à la première personne en contre-plongée avec exactement une main droite tenant une potion. Commencez avec la fiole près du bord inférieur droit, regardez autour de l'atelier et vers la fenêtre, levez la potion naturellement, faites une pause pour l'examiner, puis baissez-la tout en vous tournant vers la cheminée et les réactifs incandescents. Exportez le MP4 en modèle blanc. Utilisez ensuite PixVerse avec Seedance 2.5, en faisant référence à la vidéo Blender pour la caméra, l'action et la disposition spatiale, et aux images fournies pour l'apparence. Préservez le plan continu et le timing tout en ajoutant de la pierre vieillie, du bois sculpté, du cuir patiné, du verre réaliste, une lumière froide de fenêtre, un éclairage chaleureux de cheminée, des liquides magiques luminescents, des flammes naturelles, des braises, des étincelles et de la fumée.
 ```
 
 [↑ Retour aux catégories](#catalog)

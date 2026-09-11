@@ -327,20 +327,20 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2098432693222715716"></a>
 
-### Traducción en curso
+### Crea una animación en toma continua de 12 segundos del taller de un mago en Blender y estilízala mediante PixVerse Seedance 2.5.
 
 Autor：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Publicación original](https://x.com/KICHOCHEZI/status/2098432693222715716)
 
 Cine / Fotograma · Renderizado 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea una animación en toma continua de 12 segundos del taller de un mago en Blender y estilízala mediante PixVerse Seedance 2.5.
 
 <img src="covers/2098432693222715716.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una animación de modelo blanco en toma continua de 12 segundos en Blender basada en la referencia del taller de mago provista. Construye los muros de piedra, los estantes de madera, la ventana arqueada, la chimenea, los libros, el instrumento astronómico y la mesa de alquimia llena de frascos de pociones. Anima un punto de vista en primera persona bajo con exactamente una mano derecha sosteniendo una poción. Comienza con la botella cerca del borde inferior derecho, mira alrededor del taller y hacia la ventana, levanta la poción de forma natural, haz una pausa para examinarla, luego bájala mientras giras hacia la chimenea y los reactivos brillantes. Exporta el MP4 del modelo blanco. Luego usa PixVerse con Seedance 2.5, haciendo referencia al video de Blender para la cámara, la acción y la disposición espacial, y a las imágenes suministradas para la apariencia. Conserva la toma continua y la sincronización mientras agregas piedra desgastada, madera tallada, cuero gastado, vidrio realista, luz fresca de la ventana, iluminación cálida de la chimenea, líquidos mágicos brillantes, llamas naturales, brasas, chispas y humo.
 ```
 
 [↑ Volver a categorías](#catalog)

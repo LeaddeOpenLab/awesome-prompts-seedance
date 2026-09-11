@@ -327,20 +327,20 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2098432693222715716"></a>
 
-### Traduzione in corso
+### Crea un'animazione di 12 secondi in un unico piano sequenza del laboratorio di un mago in Blender e stilizzala tramite PixVerse Seedance 2.5.
 
 Autore：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Post originale](https://x.com/KICHOCHEZI/status/2098432693222715716)
 
 Fermo immagine cinematografico / Still fotografico · Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un'animazione di 12 secondi in un unico piano sequenza del laboratorio di un mago in Blender e stilizzala tramite PixVerse Seedance 2.5.
 
 <img src="covers/2098432693222715716.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un'animazione in modello bianco (white-model) di 12 secondi in un unico piano sequenza su Blender basata sul riferimento fornito del laboratorio del mago. Costruisci i muri in pietra, i ripiani in legno, la finestra ad arco, il camino, i libri, lo strumento astronomico e il tavolo da alchimia pieno di boccette di pozioni. Anima un punto di vista in prima persona dal basso con esattamente una mano destra che tiene una pozione. Inizia con la boccetta vicino al bordo inferiore destro, guardati intorno nel laboratorio e verso la finestra, solleva la pozione in modo naturale, fai una pausa per esaminarla, quindi abbassala girandoti verso il camino e i reagenti luminosi. Esporta l'MP4 del modello bianco. Quindi usa PixVerse con Seedance 2.5, facendo riferimento al video di Blender per la telecamera, l'azione e la disposizione spaziale e alle immagini fornite per l'aspetto. Preserva l'inquadratura continua e i tempi aggiungendo pietra invecchiata, legno intagliato, cuoio consumato, vetro realistico, luce fredda della finestra, calda illuminazione del camino, liquidi magici luminescenti, fiamme naturali, braci, scintille e fumo.
 ```
 
 [↑ Torna alle categorie](#catalog)

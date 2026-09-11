@@ -313,20 +313,20 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2098432693222715716"></a>
 
-### Tradução em andamento
+### Crie uma animação de 12 segundos em plano-sequência da oficina de um mago no Blender e estilize-a via PixVerse Seedance 2.5.
 
 Autor：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Publicação original](https://x.com/KICHOCHEZI/status/2098432693222715716)
 
 Cinematográfico / Imagem de Filme · Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie uma animação de 12 segundos em plano-sequência da oficina de um mago no Blender e estilize-a via PixVerse Seedance 2.5.
 
 <img src="covers/2098432693222715716.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma animação de modelo branco de 12 segundos em plano-sequência no Blender com base na referência fornecida da oficina do mago. Construa as paredes de pedra, as prateleiras de madeira, a janela em arco, a lareira, os livros, o instrumento astronômico e a mesa de alquimia repleta de frascos de poções. Anime um ponto de vista em primeira pessoa baixo com exatamente uma mão direita segurando uma poção. Comece com a garrafa perto da borda inferior direita, olhe ao redor da oficina e em direção à janela, erga a poção naturalmente, faça uma pausa para examiná-la e, em seguida, abaixe-a enquanto se vira em direção à lareira e aos reagentes brilhantes. Exporte o MP4 do modelo branco. Em seguida, use o PixVerse com Seedance 2.5, referenciando o vídeo do Blender para câmera, ação e disposição espacial, e as imagens fornecidas para a aparência. Preserve a tomada contínua e a temporização enquanto adiciona pedra desgastada, madeira entalhada, couro gasto, vidro realista, luz fria da janela, iluminação acolhedora da lareira, líquidos mágicos brilhantes, chamas naturais, brasas, faíscas e fumaça.
 ```
 
 [↑ Voltar às categorias](#catalog)

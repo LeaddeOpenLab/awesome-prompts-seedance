@@ -313,20 +313,20 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2098432693222715716"></a>
 
-### Çeviri sürüyor
+### Blender'da 12 saniyelik tek çekim bir büyücü atölyesi animasyonu oluşturun ve bunu PixVerse Seedance 2.5 ile stilize edin.
 
 Yazar：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Orijinal gönderi](https://x.com/KICHOCHEZI/status/2098432693222715716)
 
 Sinematik / Film Karesi · 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Blender'da 12 saniyelik tek çekim bir büyücü atölyesi animasyonu oluşturun ve bunu PixVerse Seedance 2.5 ile stilize edin.
 
 <img src="covers/2098432693222715716.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sağlanan büyücü atölyesi referansına dayalı olarak Blender'da 12 saniyelik, tek çekim bir beyaz model (white-model) animasyonu oluşturun. Taş duvarları, ahşap rafları, kemerli pencereyi, şömineyi, kitapları, astronomik aleti ve iksir şişeleriyle dolu simya masasını inşa edin. Tam olarak bir iksir tutan tek bir sağ elle alçak bir birinci şahıs bakış açısı canlandırın. Şişe sağ alt kenara yakınken başlayın, atölyenin etrafına ve pencereye doğru bakın, iksiri doğal bir şekilde kaldırın, incelemek için duraklayın, ardından şömineye ve parlayan reaktiflere doğru dönerken indirin. Beyaz model MP4'ü dışa aktarın. Ardından, kamera, hareket ve mekânsal düzen için Blender videosunu, görünüm için ise sağlanan görselleri referans alarak PixVerse'i Seedance 2.5 ile kullanın. Yıpranmış taş, oymalı ahşap, eskitilmiş deri, gerçekçi cam, soğuk pencere ışığı, sıcak şömine aydınlatması, parlayan büyülü sıvılar, doğal alevler, közler, kıvılcımlar ve duman eklerken kesintisiz çekimi ve zamanlamayı koruyun.
 ```
 
 [↑ Kategorilere dön](#catalog)
