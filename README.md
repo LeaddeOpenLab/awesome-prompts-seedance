@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**61** Prompts · Latest addition: **2026-09-11**
+**62** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098450393277595841"></a>
+
+### Three-shot workflow instructions for reconstructing the Griffith Observatory 3D hall in Blender based on reference images and rendering with PixVerse.
+
+Author：[@leilamakes](https://x.com/leilamakes) · [Source](https://x.com/leilamakes/status/2098450393277595841)
+
+Cinematic / Film Still · 3D Render · Published
+
+**Summary:** Three-shot workflow instructions for reconstructing the Griffith Observatory 3D hall in Blender based on reference images and rendering with PixVerse.
+
+<img src="covers/2098450393277595841.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an editable 3D recreation of Griffith Observatory’s central rotunda in local Blender, including the Foucault pendulum, dome murals, bronze railings, marble floor, benches, celestial globes, table lamps, and astronomical displays. Create a stable 15-second camera sequence with three 5-second shots: Push into the hall, rise, and orbit around the central pendulum. Use an elevated upward-facing camera to orbit around the dome and murals. Move close to a celestial globe and make a smooth detail orbit. Render gray-model videos using these exact camera animations. Review the camera movement, framing, spatial flow, and occlusion before generating the final videos. In PixVerse, use Seedance 2.5. For each shot, upload the corresponding gray-model video and the same real photograph of Griffith Observatory’s interior. The photograph controls the materials, colors, murals, and lighting. The gray-model video controls the room layout, composition, perspective, and camera movement. Prompt: Use the visual style of @reference image to generate @gray-model video. Strictly preserve the gray-model video’s architecture, furniture positions, object count, framing, perspective, and camera movement. Only apply the realistic materials, dome murals, and warm interior lighting from the reference image. Keep every object stationary. Do not add people, furniture, doors, windows, or exhibits. Do not change the architecture or camera path. Avoid cuts, shaking, warping, flickering, or layout changes. Review every generated shot and regenerate only shots with clear problems. Combine the approved shots into one 15-second video and export the first frame of each shot. Deliver the editable Blender project, gray-model videos, three generated shots, final video, prompts, and first-frame screenshots.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098487159363871212"></a>
 
