@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**50** Prompts · Adição mais recente: **2026-09-11**
+**51** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,28 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2098330707374514573"></a>
+
+### Tradução em curso
+
+Autor：[@meAsifAi](https://x.com/meAsifAi) · [Publicação original](https://x.com/meAsifAi/status/2098330707374514573)
+
+Cena de Cinema / Fotograma · Paisagem urbana / Rua · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098330707374514573.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098284076809719997"></a>
 
