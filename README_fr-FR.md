@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**45** Prompts · Dernier ajout: **2026-09-11**
+**46** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,30 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098290630179057858"></a>
+
+### Traduction en cours
+
+Auteur：[@Strength04\_X](https://x.com/Strength04_X) · [Publication originale](https://x.com/Strength04_X/status/2098290630179057858)
+
+Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction · Personnage · Véhicule · Publié
+
+Publication originale：[@Strength04\_X](https://x.com/Strength04_X) · [Publication originale](https://x.com/Strength04_X/status/2098256490238755226)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098290630179057858.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098261249913970732"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**45** Prompt · Bổ sung mới nhất: **2026-09-11**
+**46** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -326,6 +326,30 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098290630179057858"></a>
+
+### Đang dịch
+
+Tác giả：[@Strength04\_X](https://x.com/Strength04_X) · [Bài gốc](https://x.com/Strength04_X/status/2098290630179057858)
+
+Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Nhân vật · Phương tiện · Đã xuất bản
+
+Bài gốc：[@Strength04\_X](https://x.com/Strength04_X) · [Bài gốc](https://x.com/Strength04_X/status/2098256490238755226)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098290630179057858.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098261249913970732"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**45** Prompts · Latest addition: **2026-09-11**
+**46** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,30 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098290630179057858"></a>
+
+### Cinematic sci-fi sequence depicting a woman boarding a midnight train that travels through space to an abandoned lunar station.
+
+Author：[@Strength04\_X](https://x.com/Strength04_X) · [Source](https://x.com/Strength04_X/status/2098290630179057858)
+
+Cinematic / Film Still · Cyberpunk / Sci-Fi · Character · Vehicle · Published
+
+Source：[@Strength04\_X](https://x.com/Strength04_X) · [Source](https://x.com/Strength04_X/status/2098256490238755226)
+
+**Summary:** Cinematic sci-fi sequence depicting a woman boarding a midnight train that travels through space to an abandoned lunar station.
+
+<img src="covers/2098290630179057858.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+REFERENCE: Use the provided character reference image as the exact visual identity of the protagonist. Keep her face, hairstyle, clothing, body proportions and visual details unchanged throughout the entire sequence. 0–5 SEC An abandoned underground railway station sits completely empty at midnight. Dust floats through flickering lights. A young woman waits alone on the platform when an old train suddenly arrives without making any sound. Its windows reveal a star-filled sky instead of passengers. 5–10 SEC The train doors open by themselves. She steps inside. Camera follows behind her as the doors close → the train accelerates through the dark tunnel → walls of the tunnel begin transforming into galaxies and distant planets. 10–16 SEC The train bursts out of the tunnel and travels through open space on invisible railway tracks. Earth appears far below. She looks through the window as enormous pieces of a shattered moon drift past the train. 16–22 SEC The train approaches a gigantic abandoned lunar station built across the surface of the moon. Suddenly every dead light on the station turns on one by one. Camera moves beside the train as thousands of empty platforms stretch into the distance. 22–27 SEC The train stops. She steps outside onto the moon. In front of her stands an enormous mysterious structure shaped like a doorway, slowly opening toward Earth. A beam of warm sunlight passes through it and illuminates her face. 27–30 SEC Camera pulls rapidly backward from the lunar station → the entire moon comes into view → the train begins leaving along its impossible track toward Earth → final shot shows the tiny glowing train crossing space beneath a massive blue planet. VISUAL STYLE: Ultra-realistic cinematic science-fantasy, photorealistic character, realistic lunar environment, physically believable space lighting, detailed abandoned architecture, volumetric light, subtle lens effects, massive scale, premium Hollywood cinematography, IMAX composition. CAMERA: Slow suspenseful opening, smooth tracking shots, dynamic acceleration during space transition, wide orbital shots, controlled final pullback. NEGATIVE: cartoon, anime, low-quality CGI, face morphing, character inconsistency, costume changes, distorted anatomy, unrealistic reflections, excessive camera shake, text, subtitles, logos, watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098261249913970732"></a>
 
