@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**44** Prompts · Latest addition: **2026-09-11**
+**45** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1559,6 +1559,28 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098284373372018792"></a>
+
+### A fantastical surreal scene of a tiny human walking across a pale cracked desert toward a gigantic sleeping white whale.
+
+Author：[@AIwithMinal](https://x.com/AIwithMinal) · [Source](https://x.com/AIwithMinal/status/2098284373372018792)
+
+Animal / Creature · Published
+
+**Summary:** A fantastical surreal scene of a tiny human walking across a pale cracked desert toward a gigantic sleeping white whale.
+
+<img src="covers/2098284373372018792.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic cinematic scene of a tiny human figure walking across an endless pale, cracked desert landscape toward a gigantic mythical white whale-like creature resting peacefully on the ground. The enormous creature has detailed textured skin, massive fins, subtle eyes, and a surreal dreamlike presence. Soft fog surrounds the scene, creating a mysterious atmosphere. Wide-angle composition emphasizing the extreme scale difference between the human and the creature, muted monochromatic tones, soft diffused lighting, realistic shadows, atmospheric depth, highly detailed textures, cinematic photography, 8K, HDR, photorealistic, epic fantasy realism, vertical 9:16 composition.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098273068317893063"></a>
 

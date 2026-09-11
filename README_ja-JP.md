@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**44** 件 · 最新の追加: **2026-09-11**
+**45** 件 · 最新の追加: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1371,6 +1371,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2098284373372018792"></a>
+
+### 翻訳中
+
+作者：[@AIwithMinal](https://x.com/AIwithMinal) · [元の投稿](https://x.com/AIwithMinal/status/2098284373372018792)
+
+動物 / 生き物 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2098284373372018792.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2098273068317893063"></a>
 
