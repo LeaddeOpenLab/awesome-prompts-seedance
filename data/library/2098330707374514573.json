@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T08:52:15.666Z",
+  "model": "seedance",
+  "prompt": "Create a 30-second ultra-realistic cinematic music video featuring three young adult singers performing an emotional modern song in a neon-lit city at night. The video should look like a high-budget professional music video with realistic humans, precise lip-sync, expressive performances, atmospheric lighting, and sophisticated cinematography.\n\nCHARACTERS\n\nCharacter 1 — Female Lead:\nYoung adult woman, early 20s, long black hair, expressive eyes, elegant black-and-silver outfit, confident yet emotional personality.\n\nCharacter 2 — Male Lead:\nYoung adult man, early 20s, dark textured hair, stylish black jacket and white shirt, charismatic and emotionally expressive.\n\nCharacter 3 — Female Vocalist:\nYoung adult woman, early 20s, shoulder-length dark hair, fashionable deep-red outfit, energetic but natural stage presence.\n\nKeep their faces, clothing, hairstyles, body proportions, and identities perfectly consistent throughout the video.\n\nENVIRONMENT\n\nA futuristic downtown street at night after light rain. Wet pavement reflecting colorful neon signs, glowing storefronts, subtle fog, distant traffic, cinematic bokeh, atmospheric city lights and realistic reflections.\n\nSHOT-BY-SHOT\n\n0–4 sec — Opening\nExtreme close-up of Character 1's eyes. Neon reflections visible in her eyes. Camera slowly pulls back as she begins singing. Rain droplets sparkle in the background.\n\n4–8 sec — Lead Performance\nCharacter 1 walks slowly down the wet street while singing directly toward the camera. Smooth backward tracking shot. Her hair moves naturally in the night breeze.\n\n8–12 sec — Male Verse\nCut to Character 2 leaning against a neon-lit building. He begins singing his section. Slow cinematic camera orbit around him, with colorful city lights blurred behind him.\n\n12–16 sec — Female Vocalist\nCharacter 3 appears walking through the neon street. She sings while looking toward the camera. Smooth side-tracking shot transitions into a close-up.\n\n16–22 sec — Trio Performance\nAll three characters meet in a wide city intersection and perform together. Camera slowly circles around them while they sing. Natural interaction, subtle gestures, believable chemistry.\n\n22–27 sec — Emotional Chorus\nRapid but elegant sequence of close-ups: Character 1 singing, Character 2 joining, Character 3 harmonizing. Every mouth movement precisely follows the provided audio.\n\n27–30 sec — Final Shot\nThe three singers stand together in the middle of the wet street. Camera rises slowly upward and pulls away, revealing the glowing city around them. They finish the final lyric together exactly on the beat. End on a dramatic cinematic wide shot.\n\nCINEMATOGRAPHY\n\nHigh-end music-video cinematography, anamorphic lens look, shallow depth of field, smooth gimbal tracking, slow-motion accents, cinematic close-ups, controlled camera movement, realistic lens flares, natural motion blur, beautiful bokeh and dynamic composition.\n\nAUDIO & PERFORMANCE\n\nUse the provided song/audio as the exact soundtrack. The characters must visibly sing the correct lyrics with accurate phoneme-level lip-sync. Expressions, eye movements and gestures should match the emotion and rhythm of the song. No speaking unrelated dialogue.\n\nQUALITY\n\nUltra-realistic, photorealistic humans, natural skin texture, realistic eyes and teeth, physically accurate lighting, realistic wet surfaces, detailed hair strands, realistic fabric movement, HDR, cinematic contrast, professional color grading, 4K detail, premium music-video aesthetic.\n\nNEGATIVE: face morphing, identity changes, inconsistent clothing, extra people, duplicate characters, distorted hands, deformed faces, unnatural walking, robotic movements, incorrect lip-sync, random talking, flickering, frame interpolation artifacts, text, subtitles, logos, watermarks.",
+  "promptTranslations": {
+    "en": "Create a 30-second ultra-realistic cinematic music video featuring three young adult singers performing an emotional modern song in a neon-lit city at night. The video should look like a high-budget professional music video with realistic humans, precise lip-sync, expressive performances, atmospheric lighting, and sophisticated cinematography.\\n\\nCHARACTERS\\n\\nCharacter 1 — Female Lead:\\nYoung adult woman, early 20s, long black hair, expressive eyes, elegant black-and-silver outfit, confident yet emotional personality.\\n\\nCharacter 2 — Male Lead:\\nYoung adult man, early 20s, dark textured hair, stylish black jacket and white shirt, charismatic and emotionally expressive.\\n\\nCharacter 3 — Female Vocalist:\\nYoung adult woman, early 20s, shoulder-length dark hair, fashionable deep-red outfit, energetic but natural stage presence.\\n\\nKeep their faces, clothing, hairstyles, body proportions, and identities perfectly consistent throughout the video.\\n\\nENVIRONMENT\\n\\nA futuristic downtown street at night after light rain. Wet pavement reflecting colorful neon signs, glowing storefronts, subtle fog, distant traffic, cinematic bokeh, atmospheric city lights and realistic reflections.\\n\\nSHOT-BY-SHOT\\n\\n0–4 sec — Opening\\nExtreme close-up of Character 1's eyes. Neon reflections visible in her eyes. Camera slowly pulls back as she begins singing. Rain droplets sparkle in the background.\\n\\n4–8 sec — Lead Performance\\nCharacter 1 walks slowly down the wet street while singing directly toward the camera. Smooth backward tracking shot. Her hair moves naturally in the night breeze.\\n\\n8–12 sec — Male Verse\\nCut to Character 2 leaning against a neon-lit building. He begins singing his section. Slow cinematic camera orbit around him, with colorful city lights blurred behind him.\\n\\n12–16 sec — Female Vocalist\\nCharacter 3 appears walking through the neon street. She sings while looking toward the camera. Smooth side-tracking shot transitions into a close-up.\\n\\n16–22 sec — Trio Performance\\nAll three characters meet in a wide city intersection and perform together. Camera slowly circles around them while they sing. Natural interaction, subtle gestures, believable chemistry.\\n\\n22–27 sec — Emotional Chorus\\nRapid but elegant sequence of close-ups: Character 1 singing, Character 2 joining, Character 3 harmonizing. Every mouth movement precisely follows the provided audio.\\n\\n27–30 sec — Final Shot\\nThe three singers stand together in the middle of the wet street. Camera rises slowly upward and pulls away, revealing the glowing city around them. They finish the final lyric together exactly on the beat. End on a dramatic cinematic wide shot.\\n\\nCINEMATOGRAPHY\\n\\nHigh-end music-video cinematography, anamorphic lens look, shallow depth of field, smooth gimbal tracking, slow-motion accents, cinematic close-ups, controlled camera movement, realistic lens flares, natural motion blur, beautiful bokeh and dynamic composition.\\n\\nAUDIO & PERFORMANCE\\n\\nUse the provided song/audio as the exact soundtrack. The characters must visibly sing the correct lyrics with accurate phoneme-level lip-sync. Expressions, eye movements and gestures should match the emotion and rhythm of the song. No speaking unrelated dialogue.\\n\\nQUALITY\\n\\nUltra-realistic, photorealistic humans, natural skin texture, realistic eyes and teeth, physically accurate lighting, realistic wet surfaces, detailed hair strands, realistic fabric movement, HDR, cinematic contrast, professional color grading, 4K detail, premium music-video aesthetic.\\n\\nNEGATIVE: face morphing, identity changes, inconsistent clothing, extra people, duplicate characters, distorted hands, deformed faces, unnatural walking, robotic movements, incorrect lip-sync, random talking, flickering, frame interpolation artifacts, text, subtitles, logos, watermarks."
+  },
+  "summaryTranslations": {
+    "en": "Detailed multi-shot cinematic music video prompt featuring three singers in a neon-lit city street at night."
+  },
+  "translationVersion": 2,
+  "summary": "Detailed multi-shot cinematic music video prompt featuring three singers in a neon-lit city street at night.",
+  "summaryEn": "Detailed multi-shot cinematic music video prompt featuring three singers in a neon-lit city street at night.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098330707374514573",
+    "canonicalUrl": "https://x.com/meAsifAi/status/2098330707374514573",
+    "author": {
+      "username": "meAsifAi",
+      "displayName": "M. Asif",
+      "profileUrl": "https://x.com/meAsifAi"
+    },
+    "publishedAt": "2026-09-11T08:40:00.000Z",
+    "collectedAt": "2026-09-11T08:43:19.981Z",
+    "language": "en",
+    "originalText": "Created with  @higgsfield  using seedance 2.0 fast \nprompt :\nCreate a 30-second ultra-realistic cinematic music video featuring three young adult singers performing an emotional modern song in a neon-lit city at night. The video should look like a high-budget professional music video with realistic humans, precise lip-sync, expressive performances, atmospheric lighting, and sophisticated cinematography.\n\nCHARACTERS\n\nCharacter 1 — Female Lead:\nYoung adult woman, early 20s, long black hair, expressive eyes, elegant black-and-silver outfit, confident yet emotional personality.\n\nCharacter 2 — Male Lead:\nYoung adult man, early 20s, dark textured hair, stylish black jacket and white shirt, charismatic and emotionally expressive.\n\nCharacter 3 — Female Vocalist:\nYoung adult woman, early 20s, shoulder-length dark hair, fashionable deep-red outfit, energetic but natural stage presence.\n\nKeep their faces, clothing, hairstyles, body proportions, and identities perfectly consistent throughout the video.\n\nENVIRONMENT\n\nA futuristic downtown street at night after light rain. Wet pavement reflecting colorful neon signs, glowing storefronts, subtle fog, distant traffic, cinematic bokeh, atmospheric city lights and realistic reflections.\n\nSHOT-BY-SHOT\n\n0–4 sec — Opening\nExtreme close-up of Character 1's eyes. Neon reflections visible in her eyes. Camera slowly pulls back as she begins singing. Rain droplets sparkle in the background.\n\n4–8 sec — Lead Performance\nCharacter 1 walks slowly down the wet street while singing directly toward the camera. Smooth backward tracking shot. Her hair moves naturally in the night breeze.\n\n8–12 sec — Male Verse\nCut to Character 2 leaning against a neon-lit building. He begins singing his section. Slow cinematic camera orbit around him, with colorful city lights blurred behind him.\n\n12–16 sec — Female Vocalist\nCharacter 3 appears walking through the neon street. She sings while looking toward the camera. Smooth side-tracking shot transitions into a close-up.\n\n16–22 sec — Trio Performance\nAll three characters meet in a wide city intersection and perform together. Camera slowly circles around them while they sing. Natural interaction, subtle gestures, believable chemistry.\n\n22–27 sec — Emotional Chorus\nRapid but elegant sequence of close-ups: Character 1 singing, Character 2 joining, Character 3 harmonizing. Every mouth movement precisely follows the provided audio.\n\n27–30 sec — Final Shot\nThe three singers stand together in the middle of the wet street. Camera rises slowly upward and pulls away, revealing the glowing city around them. They finish the final lyric together exactly on the beat. End on a dramatic cinematic wide shot.\n\nCINEMATOGRAPHY\n\nHigh-end music-video cinematography, anamorphic lens look, shallow depth of field, smooth gimbal tracking, slow-motion accents, cinematic close-ups, controlled camera movement, realistic lens flares, natural motion blur, beautiful bokeh and dynamic composition.\n\nAUDIO & PERFORMANCE\n\nUse the provided song/audio as the exact soundtrack. The characters must visibly sing the correct lyrics with accurate phoneme-level lip-sync. Expressions, eye movements and gestures should match the emotion and rhythm of the song. No speaking unrelated dialogue.\n\nQUALITY\n\nUltra-realistic, photorealistic humans, natural skin texture, realistic eyes and teeth, physically accurate lighting, realistic wet surfaces, detailed hair strands, realistic fabric movement, HDR, cinematic contrast, professional color grading, 4K detail, premium music-video aesthetic.\n\nNEGATIVE: face morphing, identity changes, inconsistent clothing, extra people, duplicate characters, distorted hands, deformed faces, unnatural walking, robotic movements, incorrect lip-sync, random talking, flickering, frame interpolation artifacts, text, subtitles, logos, watermarks.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/meAsifAi/status/2098330707374514573",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098319436650631168/img/irrALxcEU5p3MHJc.jpg",
+        "analysisUrl": "https://x.com/meAsifAi/status/2098330707374514573"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 21
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/meAsifAi/status/2098330707374514573",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098319436650631168/img/irrALxcEU5p3MHJc.jpg",
+  "coverPath": "covers/2098330707374514573.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098319436650631168",
+    "x-post:2098330707374514573"
+  ],
+  "analysis": {
+    "summary": "Detailed multi-shot cinematic music video prompt featuring three singers in a neon-lit city street at night.",
+    "summaryEn": "Detailed multi-shot cinematic music video prompt featuring three singers in a neon-lit city street at night.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached video faithfully follows the shot-by-shot directions, character designs, neon rain-slicked city setting, and lip-sync singing sequences described in the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 30-second ultra-realistic cinematic music video featuring three young adult singers performing an emotional modern song in a neon-lit city at night. The video should look like a high-budget professional music video with realistic humans, precise lip-sync, expressive performances, atmospheric lighting, and sophisticated cinematography.\n\nCHARACTERS\n\nCharacter 1 — Female Lead:\nYoung adult woman, early 20s, long black hair, expressive eyes, elegant black-and-silver outfit, confident yet emotional personality.\n\nCharacter 2 — Male Lead:\nYoung adult man, early 20s, dark textured hair, stylish black jacket and white shirt, charismatic and emotionally expressive.\n\nCharacter 3 — Female Vocalist:\nYoung adult woman, early 20s, shoulder-length dark hair, fashionable deep-red outfit, energetic but natural stage presence.\n\nKeep their faces, clothing, hairstyles, body proportions, and identities perfectly consistent throughout the video.\n\nENVIRONMENT\n\nA futuristic downtown street at night after light rain. Wet pavement reflecting colorful neon signs, glowing storefronts, subtle fog, distant traffic, cinematic bokeh, atmospheric city lights and realistic reflections.\n\nSHOT-BY-SHOT\n\n0–4 sec — Opening\nExtreme close-up of Character 1's eyes. Neon reflections visible in her eyes. Camera slowly pulls back as she begins singing. Rain droplets sparkle in the background.\n\n4–8 sec — Lead Performance\nCharacter 1 walks slowly down the wet street while singing directly toward the camera. Smooth backward tracking shot. Her hair moves naturally in the night breeze.\n\n8–12 sec — Male Verse\nCut to Character 2 leaning against a neon-lit building. He begins singing his section. Slow cinematic camera orbit around him, with colorful city lights blurred behind him.\n\n12–16 sec — Female Vocalist\nCharacter 3 appears walking through the neon street. She sings while looking toward the camera. Smooth side-tracking shot transitions into a close-up.\n\n16–22 sec — Trio Performance\nAll three characters meet in a wide city intersection and perform together. Camera slowly circles around them while they sing. Natural interaction, subtle gestures, believable chemistry.\n\n22–27 sec — Emotional Chorus\nRapid but elegant sequence of close-ups: Character 1 singing, Character 2 joining, Character 3 harmonizing. Every mouth movement precisely follows the provided audio.\n\n27–30 sec — Final Shot\nThe three singers stand together in the middle of the wet street. Camera rises slowly upward and pulls away, revealing the glowing city around them. They finish the final lyric together exactly on the beat. End on a dramatic cinematic wide shot.\n\nCINEMATOGRAPHY\n\nHigh-end music-video cinematography, anamorphic lens look, shallow depth of field, smooth gimbal tracking, slow-motion accents, cinematic close-ups, controlled camera movement, realistic lens flares, natural motion blur, beautiful bokeh and dynamic composition.\n\nAUDIO & PERFORMANCE\n\nUse the provided song/audio as the exact soundtrack. The characters must visibly sing the correct lyrics with accurate phoneme-level lip-sync. Expressions, eye movements and gestures should match the emotion and rhythm of the song. No speaking unrelated dialogue.\n\nQUALITY\n\nUltra-realistic, photorealistic humans, natural skin texture, realistic eyes and teeth, physically accurate lighting, realistic wet surfaces, detailed hair strands, realistic fabric movement, HDR, cinematic contrast, professional color grading, 4K detail, premium music-video aesthetic.\n\nNEGATIVE: face morphing, identity changes, inconsistent clothing, extra people, duplicate characters, distorted hands, deformed faces, unnatural walking, robotic movements, incorrect lip-sync, random talking, flickering, frame interpolation artifacts, text, subtitles, logos, watermarks.",
+    "sourceRange": {
+      "start": 61,
+      "end": 3841
+    },
+    "translations": {
+      "zh": "创作一部30秒的超逼真电影感音乐MV，展现三位年轻歌手在夜间霓虹闪烁的城市中演唱一首感人的现代歌曲。视频应具备高制作水准，包含逼真的人物、精准的对口型、富有感染力的表演、沉浸式光影以及精湛的运镜技巧，并按分镜详细推进。",
+      "en": "Create a 30-second ultra-realistic cinematic music video featuring three young adult singers performing an emotional modern song in a neon-lit city at night, with precise shot-by-shot progression and lip-sync performance."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "music video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
