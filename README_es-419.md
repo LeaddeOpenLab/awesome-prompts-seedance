@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**52** Prompts · Última incorporación: **2026-09-11**
+**53** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1416,6 +1416,28 @@ Evitar: estilo caricaturesco, aspecto CGI, piel plástica, rostro poco realista,
 <a name="category-3d-render"></a>
 
 ## Renderizado 3D
+
+<a name="prompt-2098371778234179766"></a>
+
+### Traducción en curso
+
+Autor：[@hasamaru\_studio](https://x.com/hasamaru_studio) · [Publicación original](https://x.com/hasamaru_studio/status/2098371778234179766)
+
+Renderizado 3D · Producto · Vehículo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098371778234179766.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098326362801221835"></a>
 

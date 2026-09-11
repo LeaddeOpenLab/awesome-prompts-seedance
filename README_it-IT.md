@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**52** Prompt · Ultima aggiunta: **2026-09-11**
+**53** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1416,6 +1416,28 @@ Evitare: stile cartone animato, aspetto CGI, pelle di plastica, viso irrealistic
 <a name="category-3d-render"></a>
 
 ## Rendering 3D
+
+<a name="prompt-2098371778234179766"></a>
+
+### Traduzione in corso
+
+Autore：[@hasamaru\_studio](https://x.com/hasamaru_studio) · [Post originale](https://x.com/hasamaru_studio/status/2098371778234179766)
+
+Rendering 3D · Prodotto · Veicolo · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098371778234179766.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098326362801221835"></a>
 

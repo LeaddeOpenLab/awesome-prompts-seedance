@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**52** 筆內容 · 最新收錄: **2026-09-11**
+**53** 筆內容 · 最新收錄: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1551,6 +1551,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-3d-render"></a>
 
 ## 3D 渲染
+
+<a name="prompt-2098371778234179766"></a>
+
+### 翻譯中
+
+作者：[@hasamaru\_studio](https://x.com/hasamaru_studio) · [查看 X 原帖](https://x.com/hasamaru_studio/status/2098371778234179766)
+
+3D 渲染 · 產品 · 車輛 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2098371778234179766.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098326362801221835"></a>
 

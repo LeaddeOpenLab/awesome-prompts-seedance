@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**52** Prompt · Bổ sung mới nhất: **2026-09-11**
+**53** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1554,6 +1554,28 @@ Tránh: phong cách hoạt hình, giao diện CGI, da nhựa, khuôn mặt phi t
 <a name="category-3d-render"></a>
 
 ## Kết xuất 3D
+
+<a name="prompt-2098371778234179766"></a>
+
+### Đang dịch
+
+Tác giả：[@hasamaru\_studio](https://x.com/hasamaru_studio) · [Bài gốc](https://x.com/hasamaru_studio/status/2098371778234179766)
+
+Kết xuất 3D · Sản phẩm · Phương tiện · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098371778234179766.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098326362801221835"></a>
 

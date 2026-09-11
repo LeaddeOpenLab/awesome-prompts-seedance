@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**52** Prompts · Latest addition: **2026-09-11**
+**53** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1658,6 +1658,51 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2098371778234179766"></a>
+
+### Production instructions for a GTA-style car chase, covering everything from 3D greybox modeling in Blender to final video generation using PixVerse \(Seedance 2.5\).
+
+Author：[@hasamaru\_studio](https://x.com/hasamaru_studio) · [Source](https://x.com/hasamaru_studio/status/2098371778234179766)
+
+3D Render · Product · Vehicle · Published
+
+**Summary:** Production instructions for a GTA-style car chase, covering everything from 3D greybox modeling in Blender to final video generation using PixVerse \(Seedance 2.5\).
+
+<img src="covers/2098371778234179766.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an original GTA-style 3D car chase following the production workflow below.
+
+[Design]
+Establish one main driver, one getaway vehicle, one pursuing vehicle, and one urban setting, maintaining design consistency across all elements. Plan a total of 3 shots, each lasting 4 seconds:
+- A chase shot following the vehicles from behind
+- A side tracking shot of the vehicles navigating a sharp turn
+- A wide establishing shot capturing the vehicles speeding away
+
+[Build in Blender]
+Create clean greybox models along with functional character and vehicle rigs. Texturing and UV unwrapping are not required.
+
+[Animation and Testing]
+Animate the driver, steering wheel manipulation, wheel rotation, vehicles, and cameras. Maintain consistent travel direction and front-to-back vehicle relationships, and resolve issues such as clipping, floating wheels, unnatural tire slippage, collapsing poses, and hands detaching from the steering wheel.
+
+[Render in Blender]
+Render frames 1 to 288 at 1280x720 and 24fps. Assemble the actual Blender-rendered frames into a 12-second master greybox video. Export each shot separately, and also render corresponding greybox still frames to serve as shape and composition references.
+
+[Finishing with PixVerse Plugin]
+Process each shot individually using Seedance 2.5 at 720p. Use the Blender video clips as motion references and the greybox still frames as shape references. Specify a unified color palette across the entire sequence via generation prompts. Preserve camera motion, action timing, character and vehicle designs, and vehicle count.
+
+[Review and Delivery]
+Review both finished videos, checking for visual glitches and continuity across shots. Fix any Blender-side issues and regenerate only the shots that failed in Seedance. Limit retries to a maximum of 2 attempts per shot.
+
+Deliver the editable .blend file, the native 720p Blender greybox video, the 720p video clearly labeled as the Seedance version, and a brief evaluation detailing any remaining constraints.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098326362801221835"></a>
 

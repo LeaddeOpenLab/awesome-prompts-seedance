@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**52** Prompt · Son eklenen: **2026-09-11**
+**53** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1410,6 +1410,28 @@ Kaçınılması gerekenler: çizgi film tarzı, CGI görünümü, plastik cilt, 
 <a name="category-3d-render"></a>
 
 ## 3D Modelleme
+
+<a name="prompt-2098371778234179766"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@hasamaru\_studio](https://x.com/hasamaru_studio) · [Orijinal gönderi](https://x.com/hasamaru_studio/status/2098371778234179766)
+
+3D Modelleme · Ürün · Araç · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098371778234179766.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098326362801221835"></a>
 

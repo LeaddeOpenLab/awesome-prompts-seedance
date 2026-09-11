@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**52** 条内容 · 最新收录: **2026-09-11**
+**53** 条内容 · 最新收录: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1553,6 +1553,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-3d-render"></a>
 
 ## 3D 渲染
+
+<a name="prompt-2098371778234179766"></a>
+
+### 翻译中
+
+作者：[@hasamaru\_studio](https://x.com/hasamaru_studio) · [查看 X 原帖](https://x.com/hasamaru_studio/status/2098371778234179766)
+
+3D 渲染 · 产品 · 车辆 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098371778234179766.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098326362801221835"></a>
 
