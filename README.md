@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**42** Prompts · Latest addition: **2026-09-11**
+**43** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,43 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098265557237989841"></a>
+
+### Multi-segment video generation prompt for 1990s Manhattan street cinematic realism.
+
+Author：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x.com/AiwithBloodline/status/2098265557237989841)
+
+Photography · Cinematic / Film Still · Cityscape / Street · Published
+
+**Summary:** Multi-segment video generation prompt for 1990s Manhattan street cinematic realism.
+
+<img src="covers/2098265557237989841.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+{
+  "format": "16:9, 30s, native audio on, cinematic realism, no text overlay, no on-screen subtitles",
+  "style": "1990s Manhattan street cinematography, warm Kodak film-stock emulation, fine grain, soft haze, anamorphic lens flare",
+  "subject_and_action": {
+    "0-6s": "Wide handheld shot drifting forward through a dense Midtown Manhattan sidewalk crowd. Foreground man in a navy suit glances at his wristwatch mid-stride. A woman with curly auburn hair in a beige blazer walks beside him. Steam rises from a hot dog cart with blue-and-yellow striped umbrellas center-frame. Yellow taxis crawl past on the street.",
+    "6-14s": "Camera holds medium-wide as a woman in a bright floral-print top exchanges a glance and smile with a man in a tan-and-white outfit near the food cart. Behind them a man in a gray suit and burgundy tie walks toward camera. Crowd density remains high, all in business attire, natural staggered walking pace.",
+    "14-20s": "Cut to a lower, closer angle at a storefront corner marked 'W 34th St.' Two young men in casual streetwear (backpack, jeans, polo shirts) walk laughing in the opposite direction, foreground, as a yellow taxi speeds through the lower frame in motion blur. Clothing-store mannequins and a neon 'OPEN' sign visible in the window behind them.",
+    "20-30s": "Camera settles at a crosswalk intersection, slightly elevated. A large crowd of office workers crosses on the white-striped crosswalk toward camera, yellow cabs idling in traffic beside them, second hot dog cart with striped umbrellas at right. Camera holds steady as the crowd thins slightly at the end, pulling focus toward the hazy skyline in the deep background."
+  },
+  "environment": "Dense Midtown Manhattan intersection, tall office towers fading into atmospheric haze, street vendor carts, painted crosswalks, period-accurate signage (kept intentionally generic/non-legible), classic boxy yellow taxi cabs",
+  "camera": "Handheld walking camera, eye-level, slow forward dolly with natural sway; one hard cut at 14s to a secondary angle; deep focus foreground, soft falloff on background towers",
+  "lighting_and_color": "Bright midday sun, warm amber key light, soft shadow edges, slightly desaturated background with punchy yellow/blue saturation on cabs and umbrellas",
+  "audio": "Ambient city traffic hum, overlapping crowd murmur and footsteps, distant car horns, brief bus engine rumble under the 14s cut, no dialogue, no music",
+  "continuity": "Same crowd density, same taxi model/color, same food-cart umbrella design, and same warm color grade held across all four segments",
+  "constraints": "No legible or readable text on any signage, no modern phones or vehicles, no anachronistic clothing, no visible logos, no distorted or duplicated faces"
+}
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098264877248987394"></a>
 
