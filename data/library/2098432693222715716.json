@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T16:30:33.309Z",
+  "model": "seedance2.5",
+  "prompt": "Create a 12-second single-take white-model animation in Blender based on the supplied wizard workshop reference. Build the stone walls, wooden shelves, arched window, fireplace, books, astronomical instrument and alchemy table filled with potion bottles. Animate a low first-person viewpoint with exactly one right hand holding one potion. Begin with the bottle near the lower-right edge, look around the workshop and toward the window, raise the potion naturally, pause to examine it, then lower it while turning toward the fireplace and glowing reagents. Export the white-model MP4. Then use PixVerse with Seedance 2.5, referencing the Blender video for camera, action and spatial layout and the supplied images for appearance. Preserve the continuous shot and timing while adding weathered stone, carved wood, worn leather, realistic glass, cool window light, warm fireplace illumination, glowing magical liquids, natural flames, embers, sparks and smoke.",
+  "promptTranslations": {
+    "en": "Create a 12-second single-take white-model animation in Blender based on the supplied wizard workshop reference. Build the stone walls, wooden shelves, arched window, fireplace, books, astronomical instrument and alchemy table filled with potion bottles. Animate a low first-person viewpoint with exactly one right hand holding one potion. Begin with the bottle near the lower-right edge, look around the workshop and toward the window, raise the potion naturally, pause to examine it, then lower it while turning toward the fireplace and glowing reagents. Export the white-model MP4. Then use PixVerse with Seedance 2.5, referencing the Blender video for camera, action and spatial layout and the supplied images for appearance. Preserve the continuous shot and timing while adding weathered stone, carved wood, worn leather, realistic glass, cool window light, warm fireplace illumination, glowing magical liquids, natural flames, embers, sparks and smoke."
+  },
+  "summaryTranslations": {
+    "en": "Create a 12-second single-take wizard workshop animation in Blender and stylize it via PixVerse Seedance 2.5."
+  },
+  "translationVersion": 2,
+  "summary": "Create a 12-second single-take wizard workshop animation in Blender and stylize it via PixVerse Seedance 2.5.",
+  "summaryEn": "Create a 12-second single-take wizard workshop animation in Blender and stylize it via PixVerse Seedance 2.5.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098432693222715716",
+    "canonicalUrl": "https://x.com/KICHOCHEZI/status/2098432693222715716",
+    "author": {
+      "username": "KICHOCHEZI",
+      "displayName": "KICHOCHEZI",
+      "profileUrl": "https://x.com/KICHOCHEZI"
+    },
+    "publishedAt": "2026-09-11T15:25:15.000Z",
+    "collectedAt": "2026-09-11T16:16:29.553Z",
+    "language": "en",
+    "originalText": "This started as a simple white-model animation in Blender.\nPixVerse transformed the basic geometry into a cinematic wizard workshop while keeping the camera movement and potion action intact.\nMade by PixVerse. The PixVerse Plugin makes this kind of transformation possible.\n\nWatch the wizard workshop ↓\n\nPrompt ↓\n\nCreate a 12-second single-take white-model animation in Blender based on the supplied wizard workshop reference. Build the stone walls, wooden shelves, arched window, fireplace, books, astronomical instrument and alchemy table filled with potion bottles. Animate a low first-person viewpoint with exactly one right hand holding one potion. Begin with the bottle near the lower-right edge, look around the workshop and toward the window, raise the potion naturally, pause to examine it, then lower it while turning toward the fireplace and glowing reagents. Export the white-model MP4. Then use PixVerse with Seedance 2.5, referencing the Blender video for camera, action and spatial layout and the supplied images for appearance. Preserve the continuous shot and timing while adding weathered stone, carved wood, worn leather, realistic glass, cool window light, warm fireplace illumination, glowing magical liquids, natural flames, embers, sparks and smoke.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/KICHOCHEZI/status/2098432693222715716",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098432672993570816/img/5Uy9tg04jU6B0n5i.jpg",
+        "analysisUrl": "https://x.com/KICHOCHEZI/status/2098432693222715716"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 1,
+      "replyCount": 21,
+      "quoteCount": 0,
+      "viewCount": 8568
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/KICHOCHEZI/status/2098432693222715716",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098432672993570816/img/5Uy9tg04jU6B0n5i.jpg",
+  "coverPath": "covers/2098432693222715716.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098432672993570816",
+    "x-post:2098432693222715716"
+  ],
+  "analysis": {
+    "summary": "Create a 12-second single-take wizard workshop animation in Blender and stylize it via PixVerse Seedance 2.5.",
+    "summaryEn": "Create a 12-second single-take wizard workshop animation in Blender and stylize it via PixVerse Seedance 2.5.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely depicts the Blender white-model blocking followed by the fully rendered, first-person wizard workshop video holding a glowing potion by a fireplace."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 12-second single-take white-model animation in Blender based on the supplied wizard workshop reference. Build the stone walls, wooden shelves, arched window, fireplace, books, astronomical instrument and alchemy table filled with potion bottles. Animate a low first-person viewpoint with exactly one right hand holding one potion. Begin with the bottle near the lower-right edge, look around the workshop and toward the window, raise the potion naturally, pause to examine it, then lower it while turning toward the fireplace and glowing reagents. Export the white-model MP4. Then use PixVerse with Seedance 2.5, referencing the Blender video for camera, action and spatial layout and the supplied images for appearance. Preserve the continuous shot and timing while adding weathered stone, carved wood, worn leather, realistic glass, cool window light, warm fireplace illumination, glowing magical liquids, natural flames, embers, sparks and smoke.",
+    "sourceRange": {
+      "start": 314,
+      "end": 1272
+    },
+    "translations": {
+      "zh": "在 Blender 中根据巫师工坊参考制作 12 秒单镜头白模动画，构建石墙、架子、壁炉、炼金桌等，制作第一人称手持魔药视角的运镜；随后使用 PixVerse 和 Seedance 2.5 结合参考图进行风格化渲染，保留镜头与动作并添加写实材质与光影特效。",
+      "en": "Create a 12-second single-take white-model animation in Blender based on the supplied wizard workshop reference, building the architecture and animating a first-person potion-holding camera move; then use PixVerse with Seedance 2.5 to stylize the scene with realistic textures, lighting, and magical effects while preserving motion."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "image-to-video",
+    "useCase": "3D white-model to cinematic fantasy animation workflow",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
