@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**53** Prompt · Bổ sung mới nhất: **2026-09-11**
+**54** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Kết xuất 3D](#category-3d-render) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Kết xuất 3D](#category-3d-render) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1545,6 +1545,32 @@ Phong cách máy quay: Kỹ thuật quay phim travel vlog chân thực, độ ru
 Phong cách hình ảnh: Thước phim kỳ nghỉ Bali mơ màng, thẩm mỹ thương hiệu du lịch cao cấp, ánh nắng vàng dịu, kết cấu da chân thực, độ sâu trường ảnh nông đậm chất điện ảnh, vẻ hoài niệm của phim 35mm, tông màu khí quyển ấm áp, biểu cảm tự nhiên không theo kịch bản, lối kể chuyện giàu cảm xúc.
 
 Tránh: phong cách hoạt hình, giao diện CGI, da nhựa, khuôn mặt phi thực tế, ngoại hình nhân vật không nhất quán, thay đổi kiểu tóc, thừa ngón tay, cơ thể biến dạng, ánh sáng nhân tạo, màu sắc quá bão hòa, mặt mờ, chuyển động không tự nhiên, người trùng lặp.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2098369249173782695"></a>
+
+### Đang dịch
+
+Tác giả：[@NVTDanh](https://x.com/NVTDanh) · [Bài gốc](https://x.com/NVTDanh/status/2098369249173782695)
+
+Anime / Manga · Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098369249173782695.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

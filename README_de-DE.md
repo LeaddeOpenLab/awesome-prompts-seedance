@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**53** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**54** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [3D-Rendering](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [3D-Rendering](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1407,6 +1407,32 @@ Kamerastil: Authentische Reise-Vlog-Kinematografie, Handkamerawackeln, sanfte fi
 Visueller Stil: Verträumter Bali-Urlaubsfilm, Ästhetik einer Boutique-Reisemarke, weiches goldenes Sonnenlicht, realistische Hauttextur, filmische geringe Schärfentiefe, nostalgischer 35mm-Film-Look, warme atmosphärische Töne, natürliche ungestellte Gesichtsausdrücke, emotionales Storytelling.
 
 Vermeiden: Cartoon-Stil, CGI-Look, plastische Haut, unrealistisches Gesicht, uneinheitliches Erscheinungsbild der Person, wechselnde Frisur, zusätzliche Finger, verzerrter Körper, künstliche Beleuchtung, übersättigte Farben, verschwommenes Gesicht, unnatürliche Bewegungen, doppelte Personen.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2098369249173782695"></a>
+
+### Übersetzung läuft
+
+Autor：[@NVTDanh](https://x.com/NVTDanh) · [Originalbeitrag](https://x.com/NVTDanh/status/2098369249173782695)
+
+Anime / Manga · Cyberpunk / Sci-Fi · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098369249173782695.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**53** Prompt · Ultima aggiunta: **2026-09-11**
+**54** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Rendering 3D](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Rendering 3D](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1407,6 +1407,32 @@ Stile di ripresa: Cinematografia autentica da travel vlog, vibrazione naturale d
 Stile visivo: Film da vacanza da sogno a Bali, estetica da brand di viaggi boutique, morbida luce solare dorata, texture della pelle realistica, ridotta profondità di campo cinematografica, nostalgico look da pellicola 35mm, tonalità atmosferiche calde, espressioni naturali non recitate, narrazione emotiva.
 
 Evitare: stile cartone animato, aspetto CGI, pelle di plastica, viso irrealistico, aspetto del personaggio incoerente, pettinatura che cambia, dita extra, corpo distorto, illuminazione artificiale, colori ipersaturi, viso sfocato, movimenti innaturali, persone duplicate.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2098369249173782695"></a>
+
+### Traduzione in corso
+
+Autore：[@NVTDanh](https://x.com/NVTDanh) · [Post originale](https://x.com/NVTDanh/status/2098369249173782695)
+
+Anime / Manga · Cyberpunk / Sci-Fi · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098369249173782695.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

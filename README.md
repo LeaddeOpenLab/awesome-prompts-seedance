@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**53** Prompts · Latest addition: **2026-09-11**
+**54** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [3D Render](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [3D Render](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1649,6 +1649,32 @@ Camera Style: Authentic travel vlog cinematography, handheld camera shake, smoot
 Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
 
 Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2098369249173782695"></a>
+
+### Futuristic anime sci-fi and mecha concept art prompt with white-black-orange palette.
+
+Author：[@NVTDanh](https://x.com/NVTDanh) · [Source](https://x.com/NVTDanh/status/2098369249173782695)
+
+Anime / Manga · Cyberpunk / Sci-Fi · Published
+
+**Summary:** Futuristic anime sci-fi and mecha concept art prompt with white-black-orange palette.
+
+<img src="covers/2098369249173782695.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Futuristic anime sci-fi concept art, near-future mecha design, hard-surface mechanical detailing, sleek white-black-orange technology palette, intricate armor paneling, exposed joints and machinery, sharp clean linework, semi-realistic anime proportions, high-detail industrial design, cinematic production art, clean technical illustration aesthetic
 ```
 
 [↑ Back to categories](#catalog)

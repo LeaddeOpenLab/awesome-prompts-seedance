@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**53** Prompts · Última incorporación: **2026-09-11**
+**54** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Renderizado 3D](#category-3d-render) · [Cyberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Renderizado 3D](#category-3d-render) · [Cyberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1407,6 +1407,32 @@ Estilo de cámara: Cinematografía auténtica de vlog de viajes, movimiento de c
 Estilo visual: Película de vacaciones de ensueño en Bali, estética de marca de viajes boutique, luz solar dorada y suave, textura de piel realista, profundidad de campo cinematográfica reducida, aspecto nostálgico de película de 35 mm, tonos atmosféricos cálidos, expresiones naturales sin guion, narrativa emotiva.
 
 Evitar: estilo caricaturesco, aspecto CGI, piel plástica, rostro poco realista, apariencia inconsistente del personaje, peinado cambiante, dedos adicionales, cuerpo distorsionado, iluminación artificial, colores sobresaturados, rostro borroso, movimientos antinaturales, personas duplicadas.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2098369249173782695"></a>
+
+### Traducción en curso
+
+Autor：[@NVTDanh](https://x.com/NVTDanh) · [Publicación original](https://x.com/NVTDanh/status/2098369249173782695)
+
+Anime / Manga · Cyberpunk / Ciencia ficción · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098369249173782695.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
