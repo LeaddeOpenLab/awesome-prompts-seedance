@@ -327,20 +327,20 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2098432763368178141"></a>
 
-### Übersetzung läuft
+### Vollständige Workflow-Generierungsanweisung für eine filmreife dreiteilige Verfolgungsjagd in der Stadt, basierend auf Blender-Previsualisierung und PixVerse-Rendering.
 
 Autor：[@n\_\_deborah](https://x.com/n__deborah) · [Originalbeitrag](https://x.com/n__deborah/status/2098432763368178141)
 
 Kinematisch / Filmstill · 3D-Rendering · Fahrzeug · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Vollständige Workflow-Generierungsanweisung für eine filmreife dreiteilige Verfolgungsjagd in der Stadt, basierend auf Blender-Previsualisierung und PixVerse-Rendering.
 
 <img src="covers/2098432763368178141.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstellen Sie eine originelle, fotorealistische, filmreife Autoverfolgungsjagd mithilfe eines strukturierten Workflows von Blender zu PixVerse. Entwerfen Sie zwei Autos, einen Fahrer und eine städtische Umgebung. Erstellen Sie drei zusammenhängende 4-Sekunden-Aufnahmen mit einer Verfolgung von hinten, einer seitlichen Tracking-Kurvenfahrt und einer weiten Ausfahrt. Animieren und validieren Sie die Fahrzeugbewegung, Raddrehung, Lenkung, Fahrerinteraktion und Kamerapfade in Blender. Rendern Sie ein 12-sekündiges Graumodell-Video mit 1280×720. Verwenden Sie das PixVerse Plugin und Seedance 2.5, um filmische Referenzbilder aus den entsprechenden ersten Einzelbildern zu erstellen, wobei Bildkomposition, Perspektive und Fahrzeugidentität erhalten bleiben. Nutzen Sie diese Referenzen zusammen mit den Blender-Videos, um jede Einstellung zu generieren, während die ursprüngliche Kamerabewegung, die Trajektorien, das Timing, die Farben und die räumlichen Beziehungen beibehalten werden.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

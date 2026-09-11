@@ -327,20 +327,20 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2098432763368178141"></a>
 
-### Traduzione in corso
+### Istruzione per la generazione dell'intero flusso di lavoro di un inseguimento d'auto urbano cinematografico a tre inquadrature basato su previsualizzazione in Blender e rendering in PixVerse.
 
 Autore：[@n\_\_deborah](https://x.com/n__deborah) · [Post originale](https://x.com/n__deborah/status/2098432763368178141)
 
 Fermo immagine cinematografico / Still fotografico · Rendering 3D · Veicolo · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Istruzione per la generazione dell'intero flusso di lavoro di un inseguimento d'auto urbano cinematografico a tre inquadrature basato su previsualizzazione in Blender e rendering in PixVerse.
 
 <img src="covers/2098432763368178141.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un inseguimento d'auto originale, fotorealistico e cinematografico utilizzando un flusso di lavoro strutturato da Blender a PixVerse. Progetta due auto, un guidatore e un ambiente urbano. Crea tre inquadrature collegate di 4 secondi con un inseguimento posteriore, un tracciamento laterale in curva e un'uscita in campo lungo. Anima e convalida in Blender il movimento del veicolo, la rotazione delle ruote, la sterzata, l'interazione del conducente e i percorsi della telecamera. Esegui il rendering di un video in modello grigio di 12 secondi a 1280×720. Utilizza PixVerse Plugin e Seedance 2.5 per creare immagini di riferimento cinematografiche dai rispettivi primi fotogrammi, preservando composizione, prospettiva e identità del veicolo. Usa tali riferimenti insieme ai video di Blender per generare ciascuna ripresa mantenendo i movimenti originali della telecamera, le traiettorie, i tempi, i colori e le relazioni spaziali.
 ```
 
 [↑ Torna alle categorie](#catalog)

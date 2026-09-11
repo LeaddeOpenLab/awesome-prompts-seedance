@@ -313,20 +313,20 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2098432763368178141"></a>
 
-### Tradução em curso
+### Instrução de geração de fluxo de trabalho completo para uma perseguição de carros urbana cinematográfica em três planos, baseada em pré-visualização no Blender e renderização no PixVerse.
 
 Autor：[@n\_\_deborah](https://x.com/n__deborah) · [Publicação original](https://x.com/n__deborah/status/2098432763368178141)
 
 Cena de Cinema / Fotograma · Renderização 3D · Veículo · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Instrução de geração de fluxo de trabalho completo para uma perseguição de carros urbana cinematográfica em três planos, baseada em pré-visualização no Blender e renderização no PixVerse.
 
 <img src="covers/2098432763368178141.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma perseguição de carros cinematográfica, original e fotorrealista utilizando um fluxo de trabalho estruturado do Blender para o PixVerse. Desenhe dois carros, um condutor e um ambiente urbano. Crie três planos interligados de 4 segundos com uma perseguição traseira, um acompanhamento lateral em curva e uma saída em plano aberto. Anime e valide no Blender o movimento dos veículos, a rotação das rodas, a viragem da direção, a interação do condutor e as trajetórias da câmara. Renderize um vídeo em modelo cinzento (gray-model) de 12 segundos a 1280×720. Utilize o PixVerse Plugin e o Seedance 2.5 para criar imagens de referência cinematográficas a partir dos primeiros fotogramas correspondentes, preservando a composição, a perspetiva e a identidade dos veículos. Utilize essas referências com os vídeos do Blender para gerar cada plano, mantendo o movimento de câmara original, as trajetórias, a temporização, as cores e as relações espaciais.
 ```
 
 [↑ Voltar às categorias](#catalog)

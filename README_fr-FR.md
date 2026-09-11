@@ -327,20 +327,20 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2098432763368178141"></a>
 
-### Traduction en cours
+### Instruction de génération complète du flux de travail pour une scène cinématographique de poursuite urbaine en trois plans, basée sur la prévisualisation Blender et le rendu PixVerse.
 
 Auteur：[@n\_\_deborah](https://x.com/n__deborah) · [Publication originale](https://x.com/n__deborah/status/2098432763368178141)
 
 Image cinématographique / Photogramme de film · Rendu 3D · Véhicule · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Instruction de génération complète du flux de travail pour une scène cinématographique de poursuite urbaine en trois plans, basée sur la prévisualisation Blender et le rendu PixVerse.
 
 <img src="covers/2098432763368178141.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une course-poursuite en voiture originale, photoréaliste et cinématographique à l'aide d'un flux de travail structuré de Blender vers PixVerse. Concevez deux voitures, un conducteur et un environnement urbain. Créez trois plans connectés de 4 secondes comprenant une poursuite arrière, un travelling latéral en virage et une sortie en plan large. Animez et validez dans Blender le mouvement du véhicule, la rotation des roues, la direction, les interactions du conducteur et les trajectoires de caméra. Rendez une vidéo de modèle gris de 12 secondes en 1280×720. Utilisez PixVerse Plugin et Seedance 2.5 pour créer des images de référence cinématographiques à partir des premières images correspondantes, en préservant la composition, la perspective et l'identité des véhicules. Utilisez ces références avec les vidéos Blender pour générer chaque plan tout en conservant les mouvements de caméra originaux, les trajectoires, le rythme, les couleurs et les relations spatiales.
 ```
 
 [↑ Retour aux catégories](#catalog)

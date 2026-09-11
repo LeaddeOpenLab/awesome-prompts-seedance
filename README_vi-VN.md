@@ -329,20 +329,20 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2098432763368178141"></a>
 
-### Đang dịch
+### Hướng dẫn tạo quy trình hoàn chỉnh cảnh rượt đuổi xe hơi đô thị ba cảnh quay chuẩn điện ảnh dựa trên tiền kỳ Blender và kết xuất PixVerse.
 
 Tác giả：[@n\_\_deborah](https://x.com/n__deborah) · [Bài gốc](https://x.com/n__deborah/status/2098432763368178141)
 
 Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Phương tiện · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hướng dẫn tạo quy trình hoàn chỉnh cảnh rượt đuổi xe hơi đô thị ba cảnh quay chuẩn điện ảnh dựa trên tiền kỳ Blender và kết xuất PixVerse.
 
 <img src="covers/2098432763368178141.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một cảnh rượt đuổi xe hơi mang tính điện ảnh, chân thực và độc đáo bằng quy trình làm việc có cấu trúc từ Blender đến PixVerse. Thiết kế hai chiếc xe hơi, một tài xế và một môi trường đô thị. Tạo ba cảnh quay 4 giây liền mạch gồm rượt đuổi từ phía sau, lia máy theo dõi bên hông khi rẽ và góc rộng khi thoát ra. Tạo hoạt ảnh và xác thực chuyển động của xe, vòng quay bánh xe, đánh lái vô lăng, tương tác của tài xế và đường đi của máy quay trong Blender. Kết xuất một video mô hình xám (gray-model) 12 giây độ phân giải 1280×720. Sử dụng PixVerse Plugin và Seedance 2.5 để tạo các hình ảnh tham chiếu điện ảnh từ các khung hình đầu tiên tương ứng, giữ nguyên bố cục, góc phối cảnh và đặc trưng của xe. Sử dụng các hình ảnh tham chiếu đó cùng với video Blender để tạo từng cảnh quay trong khi vẫn duy trì chuyển động máy quay, quỹ đạo, thời gian, màu sắc và mối quan hệ không gian ban đầu.
 ```
 
 [↑ Về danh mục](#catalog)

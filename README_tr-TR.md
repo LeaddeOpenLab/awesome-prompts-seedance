@@ -313,20 +313,20 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2098432763368178141"></a>
 
-### Çeviri sürüyor
+### Blender ön görselleştirmesi ve PixVerse render'ına dayalı sinematik üç çekimli şehir içi araba kovalamacası tam süreç üretim talimatı.
 
 Yazar：[@n\_\_deborah](https://x.com/n__deborah) · [Orijinal gönderi](https://x.com/n__deborah/status/2098432763368178141)
 
 Sinematik / Film Karesi · 3D Modelleme · Araç · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Blender ön görselleştirmesi ve PixVerse render'ına dayalı sinematik üç çekimli şehir içi araba kovalamacası tam süreç üretim talimatı.
 
 <img src="covers/2098432763368178141.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Blender'dan PixVerse'e yapılandırılmış bir iş akışı kullanarak özgün, fotogerçekçi ve sinematik bir araba kovalamacası oluşturun. İki araba, bir sürücü ve bir kentsel çevre tasarlayın. Arkadan takip, yandan takip eden viraj dönüşü ve geniş açıdan çıkış içeren, birbiriyle bağlantılı 4 saniyelik üç çekim oluşturun. Blender'da araç hareketini, tekerlek dönüşünü, direksiyon yönlendirmesini, sürücü etkileşimini ve kamera yollarını canlandırıp doğrulayın. 12 saniyelik 1280×720 gri model bir video render edin. Kompozisyonu, perspektifi ve araç kimliğini koruyarak ilgili ilk karelerden sinematik referans görseller oluşturmak için PixVerse Plugin ve Seedance 2.5 kullanın. Orijinal kamera hareketini, yörüngeleri, zamanlamayı, renkleri ve mekânsal ilişkileri korurken her bir çekimi üretmek için bu referansları Blender videolarıyla birlikte kullanın.
 ```
 
 [↑ Kategorilere dön](#catalog)

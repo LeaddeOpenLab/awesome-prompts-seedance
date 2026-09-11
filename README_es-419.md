@@ -327,20 +327,20 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2098432763368178141"></a>
 
-### Traducción en curso
+### Instrucción de generación de flujo completo para una persecución cinematográfica urbana de tres tomas basada en previsualización de Blender y renderizado de PixVerse.
 
 Autor：[@n\_\_deborah](https://x.com/n__deborah) · [Publicación original](https://x.com/n__deborah/status/2098432763368178141)
 
 Cine / Fotograma · Renderizado 3D · Vehículo · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucción de generación de flujo completo para una persecución cinematográfica urbana de tres tomas basada en previsualización de Blender y renderizado de PixVerse.
 
 <img src="covers/2098432763368178141.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una persecución de autos cinematográfica, original y fotorrealista utilizando un flujo de trabajo estructurado de Blender a PixVerse. Diseña dos autos, un conductor y un entorno urbano. Crea tres tomas conectadas de 4 segundos con una persecución trasera, un seguimiento lateral en giro y una salida en plano abierto. Anima y valida en Blender el movimiento del vehículo, la rotación de las ruedas, la dirección, la interacción del conductor y las trayectorias de cámara. Renderiza un video en modelo gris de 12 segundos en 1280×720. Utiliza PixVerse Plugin y Seedance 2.5 para crear imágenes de referencia cinematográficas a partir de los primeros fotogramas correspondientes, preservando la composición, la perspectiva y la identidad de los vehículos. Usa esas referencias junto con los videos de Blender para generar cada toma manteniendo el movimiento de cámara original, las trayectorias, la sincronización, los colores y las relaciones espaciales.
 ```
 
 [↑ Volver a categorías](#catalog)
