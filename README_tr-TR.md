@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**54** Prompt · Son eklenen: **2026-09-11**
+**55** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,28 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2098411323562324348"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@johnAGI168](https://x.com/johnAGI168) · [Orijinal gönderi](https://x.com/johnAGI168/status/2098411323562324348)
+
+Çizgi Roman / Hikaye Taslağı · Poster / El İlanı · Sinematik / Film Karesi · Çizgi Roman / Grafik Roman · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098411323562324348.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098353311808385384"></a>
 
@@ -1413,20 +1435,20 @@ Kaçınılması gerekenler: çizgi film tarzı, CGI görünümü, plastik cilt, 
 
 <a name="prompt-2098369249173782695"></a>
 
-### Çeviri sürüyor
+### Beyaz-siyah-turuncu paletli fütüristik anime bilim kurgu ve meka konsept sanatı istemi.
 
 Yazar：[@NVTDanh](https://x.com/NVTDanh) · [Orijinal gönderi](https://x.com/NVTDanh/status/2098369249173782695)
 
 Anime / Manga · Siberpunk / Bilim Kurgu · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Beyaz-siyah-turuncu paletli fütüristik anime bilim kurgu ve meka konsept sanatı istemi.
 
 <img src="covers/2098369249173782695.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Fütüristik anime bilim kurgu konsept sanatı, yakın gelecek meka tasarımı, sert yüzeyli mekanik detaylar, şık beyaz-siyah-turuncu teknoloji paleti, karmaşık zırh panelleri, açıkta duran eklemler ve makineler, keskin temiz çizimler, yarı gerçekçi anime oranları, yüksek detaylı endüstriyel tasarım, sinematik prodüksiyon sanatı, temiz teknik illüstrasyon estetiği
 ```
 
 [↑ Kategorilere dön](#catalog)

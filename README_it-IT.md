@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**54** Prompt · Ultima aggiunta: **2026-09-11**
+**55** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2098411323562324348"></a>
+
+### Traduzione in corso
+
+Autore：[@johnAGI168](https://x.com/johnAGI168) · [Post originale](https://x.com/johnAGI168/status/2098411323562324348)
+
+Fumetto / Storyboard · Poster / Volantino · Fermo immagine cinematografico / Still fotografico · Fumetto / Graphic Novel · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098411323562324348.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098353311808385384"></a>
 
@@ -1419,20 +1441,20 @@ Evitare: stile cartone animato, aspetto CGI, pelle di plastica, viso irrealistic
 
 <a name="prompt-2098369249173782695"></a>
 
-### Traduzione in corso
+### Prompt per concept art sci-fi anime e mecha futuristico con palette bianco-nero-arancione.
 
 Autore：[@NVTDanh](https://x.com/NVTDanh) · [Post originale](https://x.com/NVTDanh/status/2098369249173782695)
 
 Anime / Manga · Cyberpunk / Sci-Fi · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per concept art sci-fi anime e mecha futuristico con palette bianco-nero-arancione.
 
 <img src="covers/2098369249173782695.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Concept art anime sci-fi futuristico, design di mecha del prossimo futuro, dettagli meccanici hard-surface, elegante tavolozza tecnologica bianco-nero-arancione, complessi pannelli di corazza, giunture e meccanismi esposti, tratto netto e pulito, proporzioni anime semi-realistiche, design industriale di alto dettaglio, arte di produzione cinematografica, estetica pulita da illustrazione tecnica
 ```
 
 [↑ Torna alle categorie](#catalog)

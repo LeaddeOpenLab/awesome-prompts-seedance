@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**54** Prompts · Dernier ajout: **2026-09-11**
+**55** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098411323562324348"></a>
+
+### Traduction en cours
+
+Auteur：[@johnAGI168](https://x.com/johnAGI168) · [Publication originale](https://x.com/johnAGI168/status/2098411323562324348)
+
+Bande dessinée / Storyboard · Affiche / Flyer · Image cinématographique / Photogramme de film · Bande dessinée / Roman graphique · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098411323562324348.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098353311808385384"></a>
 
@@ -1419,20 +1441,20 @@ Style visuel : Film de vacances de rêve à Bali, esthétique de marque de voyag
 
 <a name="prompt-2098369249173782695"></a>
 
-### Traduction en cours
+### Prompt d'art conceptuel de science-fiction anime et mecha futuriste avec une palette blanc-noir-orange.
 
 Auteur：[@NVTDanh](https://x.com/NVTDanh) · [Publication originale](https://x.com/NVTDanh/status/2098369249173782695)
 
 Anime / Manga · Cyberpunk / Science-fiction · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'art conceptuel de science-fiction anime et mecha futuriste avec une palette blanc-noir-orange.
 
 <img src="covers/2098369249173782695.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Art conceptuel d'anime de science-fiction futuriste, conception de mecha d'un futur proche, détails mécaniques de surface dure, palette technologique élégante blanc-noir-orange, panneaux de blindage complexes, articulations et machinerie apparentes, linéarité nette et propre, proportions d'anime semi-réalistes, design industriel hautement détaillé, art de production cinématographique, esthétique d'illustration technique épurée
 ```
 
 [↑ Retour aux catégories](#catalog)

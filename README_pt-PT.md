@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**54** Prompts · Adição mais recente: **2026-09-11**
+**55** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,28 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2098411323562324348"></a>
+
+### Tradução em curso
+
+Autor：[@johnAGI168](https://x.com/johnAGI168) · [Publicação original](https://x.com/johnAGI168/status/2098411323562324348)
+
+Banda desenhada / Storyboard · Pôster / Folheto · Cena de Cinema / Fotograma · Banda Desenhada / Romance Gráfico · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098411323562324348.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098353311808385384"></a>
 
@@ -1413,20 +1435,20 @@ Evitar: estilo de desenho animado, aspeto de CGI, pele de plástico, rosto irrea
 
 <a name="prompt-2098369249173782695"></a>
 
-### Tradução em curso
+### Prompt de arte conceptual de ficção científica anime e mecha futurista com paleta em branco-preto-laranja.
 
 Autor：[@NVTDanh](https://x.com/NVTDanh) · [Publicação original](https://x.com/NVTDanh/status/2098369249173782695)
 
 Anime / Mangá · Cyberpunk / Ficção Científica · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de arte conceptual de ficção científica anime e mecha futurista com paleta em branco-preto-laranja.
 
 <img src="covers/2098369249173782695.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Arte conceptual de ficção científica anime futurista, design de mecha de futuro próximo, pormenores mecânicos de superfície rígida, elegante paleta tecnológica em branco-preto-laranja, painéis de blindagem intrincados, articulações e maquinaria expostas, traço nítido e limpo, proporções de anime semirrealistas, design industrial altamente detalhado, arte de produção cinematográfica, estética limpa de ilustração técnica
 ```
 
 [↑ Voltar às categorias](#catalog)

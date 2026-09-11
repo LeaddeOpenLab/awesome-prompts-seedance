@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**54** Prompts · Última incorporación: **2026-09-11**
+**55** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma
+
+<a name="prompt-2098411323562324348"></a>
+
+### Traducción en curso
+
+Autor：[@johnAGI168](https://x.com/johnAGI168) · [Publicación original](https://x.com/johnAGI168/status/2098411323562324348)
+
+Cómic / Guion gráfico · Póster / Volante · Cine / Fotograma · Cómic / Novela gráfica · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098411323562324348.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098353311808385384"></a>
 
@@ -1419,20 +1441,20 @@ Evitar: estilo caricaturesco, aspecto CGI, piel plástica, rostro poco realista,
 
 <a name="prompt-2098369249173782695"></a>
 
-### Traducción en curso
+### Prompt de arte conceptual de ciencia ficción anime y mecha futurista con paleta en blanco, negro y naranja.
 
 Autor：[@NVTDanh](https://x.com/NVTDanh) · [Publicación original](https://x.com/NVTDanh/status/2098369249173782695)
 
 Anime / Manga · Cyberpunk / Ciencia ficción · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de arte conceptual de ciencia ficción anime y mecha futurista con paleta en blanco, negro y naranja.
 
 <img src="covers/2098369249173782695.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Arte conceptual de ciencia ficción anime futurista, diseño de mecha de futuro cercano, detalles mecánicos de superficies duras, elegante paleta tecnológica en blanco, negro y naranja, paneles de armadura intrincados, articulaciones y maquinaria expuestas, líneas nítidas y limpias, proporciones de anime semirrealistas, diseño industrial de gran detalle, arte de producción cinematográfico, estética de ilustración técnica limpia
 ```
 
 [↑ Volver a categorías](#catalog)

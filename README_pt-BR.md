@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**54** Prompts · Última adição: **2026-09-11**
+**55** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,28 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2098411323562324348"></a>
+
+### Tradução em andamento
+
+Autor：[@johnAGI168](https://x.com/johnAGI168) · [Publicação original](https://x.com/johnAGI168/status/2098411323562324348)
+
+Quadrinhos / Storyboard · Pôster / Flyer · Cinematográfico / Imagem de Filme · Quadrinhos / Graphic Novel · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098411323562324348.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098353311808385384"></a>
 
@@ -1413,20 +1435,20 @@ Evite: estilo de desenho animado, aparência de CGI, pele de plástico, rosto ir
 
 <a name="prompt-2098369249173782695"></a>
 
-### Tradução em andamento
+### Prompt de arte conceitual de ficção científica anime e mecha futurista com paleta em branco-preto-laranja.
 
 Autor：[@NVTDanh](https://x.com/NVTDanh) · [Publicação original](https://x.com/NVTDanh/status/2098369249173782695)
 
 Anime / Mangá · Cyberpunk / Ficção Científica · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de arte conceitual de ficção científica anime e mecha futurista com paleta em branco-preto-laranja.
 
 <img src="covers/2098369249173782695.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Arte conceitual de ficção científica anime futurista, design de mecha de futuro próximo, detalhes mecânicos de superfície dura, elegante paleta tecnológica em branco-preto-laranja, blindagem de painéis intrincada, articulações e maquinário expostos, traçado nítido e limpo, proporções de anime semirrealistas, design industrial altamente detalhado, arte de produção cinematográfica, estética limpa de ilustração técnica
 ```
 
 [↑ Voltar às categorias](#catalog)

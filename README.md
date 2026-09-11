@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**54** Prompts · Latest addition: **2026-09-11**
+**55** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,176 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098411323562324348"></a>
+
+### A 30-second 3:4 vertical shot-by-shot prompt for a beautiful woman's outfit transformation, featuring card-based character selection, action-matched cuts \(yellow/orange/green/pink outfits\), doll showcases, and comic collage posters.
+
+Author：[@johnAGI168](https://x.com/johnAGI168) · [Source](https://x.com/johnAGI168/status/2098411323562324348)
+
+Comic / Storyboard · Poster / Flyer · Cinematic / Film Still · Comic / Graphic Novel · Character · Fashion Item · Published
+
+**Summary:** A 30-second 3:4 vertical shot-by-shot prompt for a beautiful woman's outfit transformation, featuring card-based character selection, action-matched cuts \(yellow/orange/green/pink outfits\), doll showcases, and comic collage posters.
+
+<img src="covers/2098411323562324348.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Duration: 30 seconds
+Aspect Ratio: 3:4 vertical screen
+A live-action themed outfit transformation short film combining character selection cards, match-cut action transitions, and comic photo collages. Fast-paced, playful, and lively.
+
+[Character Reference]
+Image 1 serves as the sole character identity reference.
+The entire film consistently features the same adult female, with stable facial identity and body proportions.
+The opening uses the original outfit and original hairstyle from the character card.
+The subsequent four outfits and the hairstyles following completed transformations must follow the instructions below.
+Before each complete look appears, retain the opening hairstyle first, switching hairstyles, accessories, and makeup styling via the designated action.
+Do not bring the background or multi-view layout of the character card into the video.
+
+[Overall Video Structure]
+Four silhouette cards are presented at the opening for selection.
+The presentation order is strictly fixed as: Yellow → Orange → Green → Pink.
+Each outfit follows this flow:
+Silhouette card flips into a full-color character card → New outfit with the opening hairstyle → Designated action triggers complete transformation → Showcase holding the corresponding doll → Three-photo comic collage.
+Finally, a sequential recap of all four looks.
+
+[0–3s: Character Selection]
+Light gray studio backdrop; the character turns from a semi-profile toward the camera.
+Both hands frame a rectangular viewfinder in front of her chest using her thumbs and index fingers.
+
+Four floating vertical cards fan out below her chest.
+Strictly from screen left to right: Orange, Pink, Green, Yellow.
+In the center of each card face is a distinct, cute black doll silhouette.
+
+The character taps her right index finger toward the cards, then performs a selection gesture as if grabbing an invisible thread and pulling it back toward her body.
+The rightmost yellow card is selected and scales forward.
+The card flips, revealing the black silhouette as a full-color yellow doll character, then slides away to reveal the subject.
+The cards are an independent animation layer; no physical grasp of the card with fingers is required.
+
+[3–8s: Yellow Look, Raising Camera Triggers Transformation]
+Light blue background, accented with yellow stars and comic-style small burst lines.
+
+Outfit consists of a yellow short-sleeved collared shirt, dark blue bowtie, and dark blue pleated mini-skirt with star details.
+The character initially retains the opening hairstyle, holding a yellow Polaroid camera with both hands, its yellow camera strap hanging naturally.
+
+The character raises the camera from her chest to eye level, partially obscuring her face, making a photo-taking gesture.
+A clean match cut occurs right on the beat when the camera covers the face.
+The next shot reveals the completed look: neatly groomed hair styled with yellow star hairclips; hands now hold a small yellow doll.
+The prop swap is achieved entirely through editing; the camera does not melt or morph into the doll on-screen.
+
+The character brings the doll close to the side of her face, rests her other hand on her hip, and tilts her head with a smile.
+
+Approximately in the final 1 second, transitions into a yellow comic collage:
+A thick white outline first appears along the character's contour, then the cut-out figure is scaled and arranged into a poster layout.
+A large full-body photo sits in the foreground, with two rectangular frames in the background displaying close-up photos.
+All three photos feature the same person in the exact same yellow look.
+The character photos remain completely static; yellow halftone dots, diagonal frames, and small doll stickers may feature subtle motion.
+
+An orange silhouette card pops into the foreground, flips to reveal an orange fox doll, then slides away into the next outfit.
+
+[8–14s: Orange Look, Back-Turn Head Whip Transformation]
+Cream-yellow background with orange diagonally sliced border graphics.
+
+Orange bandeau tube top paired with an orange-and-white tiered ruffled mini-skirt.
+Initially retaining the opening hairstyle, the character gently holds the skirt hem, swaying her body to the beat.
+
+The character turns her back to the camera, then swiftly whips her head and hair back around.
+A match-cut transition occurs right at the moment the hair whips and obscures the face.
+Turning back to face front, the hairstyle has transformed into two long black braids, accessorized with orange-and-white fox ear headpieces and star ornaments.
+Facial identity remains consistent; the long braids naturally swing with the inertia of the turn.
+
+Briefly showcases the full look and skirt hem, then cuts to a pose holding the orange fox doll.
+With the doll held close beside her cheek, the character closes her eyes with a gentle smile.
+
+Approximately in the final 1 second, transitions into an orange comic collage:
+In the foreground is a playful full-body cut-out lifting one foot, with two close-up freeze-frame photos in the background.
+Thick white outlines, orange halftone dots, and burst lines compose the layout.
+Character photos remain static, while background graphics retain subtle animation.
+
+A green silhouette card pops into the foreground, flips into a green doll character, then slides away.
+
+[14–19s: Green Look, Crown Toss Transformation]
+Mint green background.
+
+Light green corset-style top with yellow lacing and off-the-shoulder accents, paired with a pale yellow sheer tulle maxi skirt.
+Initially retaining the opening hairstyle, the character balances a small golden crown on the palm of her right hand, presenting it in front of her chest.
+
+The character tosses the crown gently upward, her palm following through in an upward sweep.
+A match cut occurs on the beat as the crown ascends and the character turns slightly sideways.
+In the next shot, the character is already wearing the same crown, with her hairstyle transformed into long, voluminous reddish-brown curls.
+The crown's placement is precise and stable; no duplicate crowns appear, and the crown does not clip through the head.
+
+Maintaining her semi-profile stance, she completes the follow-through motion of her hand, then shifts her gaze toward the camera.
+Cuts to a pose cradling a red rose in one arm and lifting the green doll close beside her face with the other hand.
+
+Approximately in the final 1 second, transitions into a green comic collage:
+Foreground displays a static full-body cut-out in the long skirt, with two close-up photos behind.
+Green borders, halftone dots, small crown, and doll stickers maintain a comic aesthetic.
+Expressions and hair within the photos remain frozen, while the graphic layer as a whole can slide in.
+
+A pink silhouette card pops up, flips into a pink doll character, then slides away.
+
+[19–24s: Pink & Blue Look, Racket Swing Transformation]
+Light purple background, pink diagonal graphic cuts, accented with minimal tennis racket line art.
+
+Pink and mint blue patterned sleeveless top, light blue denim pleated mini-skirt, pink belt.
+Initially retaining the opening hairstyle, the character grips a white tennis racket with both hands, executing a single horizontal swing.
+
+A match cut occurs right on the beat when the racket and arms swiftly sweep across the front of her body.
+As the swing concludes, the styling has transformed into twin side buns styled with small ribbons and hairpins.
+The swing trajectory and body posture remain continuous; no repeated second swing, without using the racket to cover the entire screen.
+
+The character completes the racket follow-through pose, tilting her head to smile at the camera.
+Then cuts to a medium close-up holding the pink doll beside her face, the other hand resting naturally on her hip.
+
+Approximately in the final 1 second, transitions into a pink comic collage:
+One foreground full-body cut-out alongside two background close-up photos.
+All three character photos remain frozen with clean white outlines.
+Background color blocks, halftone patterns, and doll stickers can exhibit subtle motion.
+
+[24–30s: Four-Look Recap]
+Approximately 1.5 seconds per look, hard cut precisely on beat in the order: Yellow, Orange, Green, Pink & Blue.
+Background colors match each respective look, with uniform medium close-up framing.
+
+Yellow:
+Holds the yellow doll in one hand, pointing clearly at the doll with the other index finger, displaying a playful expression.
+
+Orange:
+Holds the orange doll in one hand, bringing a small fist close to her cheek with the other hand, giving a single wink.
+
+Green:
+Holds the green doll close to her face, tilting her head gently, closing her eyes with a tender smile.
+
+Pink & Blue:
+Holds the pink doll in front of her chest near her chin with both hands, giving a brief winking expression.
+Finally holds this pose, concluding on the final musical downbeat.
+
+[Comic Collages & Cards]
+Cards must include a reveal process from black silhouette to colored doll; cannot simply be color block obscurations.
+Comic posters for all four looks follow a uniform layout: one full-body subject, two close-up photo frames, white outlines, corresponding colored halftone dots, and doll stickers.
+Character photos must be genuinely frozen; no continued blinking, talking, or hair movement.
+Background graphics and overall photo layers may animate.
+Multiple figures in the collage are photos of the same individual, not multiple real people appearing simultaneously in the studio.
+
+[Music & Sound]
+Upbeat, brisk pop soundtrack with clear drum beats throughout the entire film.
+Raising the camera, whipping hair, tossing the crown, and swinging the racket hit distinct musical downbeats respectively.
+Photo freezes paired with a crisp shutter click, card flips paired with a snappy card-flip sound.
+No character dialogue, no lip-syncing/mouth movement for speaking, no dialogue subtitles.
+
+[Visual Constraints]
+Do not add brand logos, random commercial text, or garbled characters; preserve character cards, color blocks, doll stickers, and comic embellishments.
+Do not alter the character's facial identity; do not introduce new outfits.
+Colors and shapes of each doll remain consistent.
+No fused fingers, extraneous limbs, or clipping props.
+Outfit transformations rely on action match-cutting; do not use body melting, morphing vortexes, or smoke obscuration.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098353311808385384"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**54** Prompt · Bổ sung mới nhất: **2026-09-11**
+**55** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -326,6 +326,28 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098411323562324348"></a>
+
+### Đang dịch
+
+Tác giả：[@johnAGI168](https://x.com/johnAGI168) · [Bài gốc](https://x.com/johnAGI168/status/2098411323562324348)
+
+Truyện tranh / Bảng phân cảnh · Áp phích / Tờ rơi · Điện ảnh / Ảnh tĩnh từ phim · Truyện tranh / Tiểu thuyết đồ họa · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098411323562324348.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098353311808385384"></a>
 
@@ -1557,20 +1579,20 @@ Tránh: phong cách hoạt hình, giao diện CGI, da nhựa, khuôn mặt phi t
 
 <a name="prompt-2098369249173782695"></a>
 
-### Đang dịch
+### Gợi ý nghệ thuật ý niệm mecha và khoa học viễn tưởng anime tương lai với bảng màu trắng-đen-cam.
 
 Tác giả：[@NVTDanh](https://x.com/NVTDanh) · [Bài gốc](https://x.com/NVTDanh/status/2098369249173782695)
 
 Anime / Manga · Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Gợi ý nghệ thuật ý niệm mecha và khoa học viễn tưởng anime tương lai với bảng màu trắng-đen-cam.
 
 <img src="covers/2098369249173782695.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Nghệ thuật ý niệm khoa học viễn tưởng anime tương lai, thiết kế mecha tương lai gần, chi tiết cơ khí bề mặt cứng, bảng màu công nghệ trắng-đen-cam bóng bẩy, các tấm giáp phức tạp, khớp nối và máy móc lộ ra ngoài, nét vẽ sắc sảo gọn gàng, tỷ lệ anime bán thực tế, thiết kế công nghiệp độ chi tiết cao, nghệ thuật sản xuất chuẩn điện ảnh, thẩm mỹ minh họa kỹ thuật sạch sẽ
 ```
 
 [↑ Về danh mục](#catalog)
