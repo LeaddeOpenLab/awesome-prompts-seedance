@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**39** Prompt · Bổ sung mới nhất: **2026-09-11**
+**40** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -326,6 +326,30 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098257195347616210"></a>
+
+### Đang dịch
+
+Tác giả：[@0xkyne](https://x.com/0xkyne) · [Bài gốc](https://x.com/0xkyne/status/2098257195347616210)
+
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+Bài gốc：[@Framer\_X](https://x.com/Framer_X) · [Bài gốc](https://x.com/Framer_X/status/2097866934725583101)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098257195347616210.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097961776969109709"></a>
 

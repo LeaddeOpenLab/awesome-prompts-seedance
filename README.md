@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**39** Prompts · Latest addition: **2026-09-11**
+**40** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,54 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098257195347616210"></a>
+
+### Generate cinematic shot-switching instructions featuring 20 different camera setups, rapid hard cuts, and consistent subjects based on a reference image.
+
+Author：[@0xkyne](https://x.com/0xkyne) · [Source](https://x.com/0xkyne/status/2098257195347616210)
+
+Photography · Cinematic / Film Still · Published
+
+Source：[@Framer\_X](https://x.com/Framer_X) · [Source](https://x.com/Framer_X/status/2097866934725583101)
+
+**Summary:** Generate cinematic shot-switching instructions featuring 20 different camera setups, rapid hard cuts, and consistent subjects based on a reference image.
+
+<img src="covers/2098257195347616210.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a fast-cutting cinematic camera angle showcase for the reference image
+
+Total number of shots: 20
+
+Keep the character, environment, clothing, lighting, action, and overall scene completely consistent throughout the entire video. Do not change locations or introduce new elements.
+
+Use 20 distinctly different shot setups, including:
+
+extreme wide shot, wide establishing shot, medium wide shot, medium shot, medium close-up, close-up, extreme close-up, low angle, extreme low angle, high angle, overhead shot, top-down shot, ground-level shot, eye-level shot, Dutch tilt angle, profile shot, three-quarter angle, straight-on front shot, rear angle, over-the-shoulder shot, reverse over-the-shoulder shot, side angle, foreground framed shot, telephoto lens shot, wide-angle close-up, symmetrical framing, off-center framing, tracking angle, orbit angle, and dramatic perspective angle.
+
+Important notes:
+
+- Use hard cuts between every two shots.
+
+- No camera angle should last longer than 1 second.
+
+- Do not repeat any camera angle or framing.
+
+- Do not create long continuous camera movements between angles.
+
+- Action should remain continuous across all cuts.
+
+- Only change camera position, camera angle, lens, and framing.
+
+- The subject and scene must remain visually consistent.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097961776969109709"></a>
 

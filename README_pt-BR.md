@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**39** Prompts · Última adição: **2026-09-11**
+**40** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,30 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2098257195347616210"></a>
+
+### Tradução em andamento
+
+Autor：[@0xkyne](https://x.com/0xkyne) · [Publicação original](https://x.com/0xkyne/status/2098257195347616210)
+
+Fotografia · Cinematográfico / Imagem de Filme · Publicado
+
+Publicação original：[@Framer\_X](https://x.com/Framer_X) · [Publicação original](https://x.com/Framer_X/status/2097866934725583101)
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098257195347616210.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097961776969109709"></a>
 
