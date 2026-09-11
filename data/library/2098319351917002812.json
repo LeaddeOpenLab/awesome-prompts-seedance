@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T08:48:58.768Z",
+  "model": "seedance2.5",
+  "prompt": "Character: A beautiful woman in her early 20s with natural realistic features, long dark brown hair, athletic build, wearing a sleek black tactical jacket, fitted dark pants and combat boots. She looks determined and fearless.\n\nScene — 0–3s:\nNighttime in a rain-soaked city alley. Neon signs reflect across the wet pavement. The woman runs toward camera as a black SUV suddenly crashes through a barricade behind her. Sparks and debris fly through the air.\n\nScene — 3–6s:\nShe quickly slides across the hood of a parked car, spins around and narrowly dodges an incoming attack. The camera follows her with a fast handheld tracking shot. Her hair and jacket move naturally with the action.\n\nScene — 6–8s:\nShe grabs a motorcycle helmet from the seat, jumps onto a sleek black motorcycle and accelerates through the alley. The SUV chases behind her, headlights cutting through the rain.\n\nScene — 8–10s:\nThe motorcycle launches off a small ramp between two buildings. Freeze-like slow motion as she flies through the air, city lights glowing behind her. She lands smoothly and speeds away.\n\nVisual style: High-end Hollywood action blockbuster, photorealistic, cinematic lighting, dramatic rain, realistic physics, practical-looking explosions, dynamic camera movement, shallow depth of field, anamorphic lens flares, detailed facial expressions, realistic skin texture, premium VFX.\n\nCamera: Fast tracking shots → low-angle action shot → close-up → wide aerial shot. Smooth but intense camera movement, cinematic motion blur.\n\nAudio: Heavy cinematic percussion, roaring motorcycle engine, tire screech, rain, impact sounds and a dramatic bass hit at the final landing.\n\nImportant: Keep the same female character, face, hairstyle and outfit consistent throughout all shots. No text, no subtitles, no distorted anatomy, no extra limbs, no cartoon appearance.",
+  "promptTranslations": {
+    "en": "Character: A beautiful woman in her early 20s with natural realistic features, long dark brown hair, athletic build, wearing a sleek black tactical jacket, fitted dark pants and combat boots. She looks determined and fearless.\n\nScene — 0–3s:\nNighttime in a rain-soaked city alley. Neon signs reflect across the wet pavement. The woman runs toward camera as a black SUV suddenly crashes through a barricade behind her. Sparks and debris fly through the air.\n\nScene — 3–6s:\nShe quickly slides across the hood of a parked car, spins around and narrowly dodges an incoming attack. The camera follows her with a fast handheld tracking shot. Her hair and jacket move naturally with the action.\n\nScene — 6–8s:\nShe grabs a motorcycle helmet from the seat, jumps onto a sleek black motorcycle and accelerates through the alley. The SUV chases behind her, headlights cutting through the rain.\n\nScene — 8–10s:\nThe motorcycle launches off a small ramp between two buildings. Freeze-like slow motion as she flies through the air, city lights glowing behind her. She lands smoothly and speeds away.\n\nVisual style: High-end Hollywood action blockbuster, photorealistic, cinematic lighting, dramatic rain, realistic physics, practical-looking explosions, dynamic camera movement, shallow depth of field, anamorphic lens flares, detailed facial expressions, realistic skin texture, premium VFX.\n\nCamera: Fast tracking shots → low-angle action shot → close-up → wide aerial shot. Smooth but intense camera movement, cinematic motion blur.\n\nAudio: Heavy cinematic percussion, roaring motorcycle engine, tire screech, rain, impact sounds and a dramatic bass hit at the final landing.\n\nImportant: Keep the same female character, face, hairstyle and outfit consistent throughout all shots. No text, no subtitles, no distorted anatomy, no extra limbs, no cartoon appearance."
+  },
+  "summaryTranslations": {
+    "en": "A Hollywood action blockbuster-style rainy night alley chase scene, where a female protagonist escapes SUV pursuit and leaps across a building gap on a motorcycle."
+  },
+  "translationVersion": 2,
+  "summary": "好莱坞动作大片风格的雨夜小巷追逐戏，女性主角逃离SUV追捕并骑摩托跃过建筑跨度。",
+  "summaryEn": "Hollywood blockbuster-style night alley chase featuring a female protagonist pursued by an SUV before escaping on a motorcycle jump.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098319351917002812",
+    "canonicalUrl": "https://x.com/codewithhajra/status/2098319351917002812",
+    "author": {
+      "username": "codewithhajra",
+      "displayName": "H A J R A",
+      "profileUrl": "https://x.com/codewithhajra"
+    },
+    "publishedAt": "2026-09-11T07:54:53.000Z",
+    "collectedAt": "2026-09-11T08:43:19.981Z",
+    "language": "en",
+    "originalText": "Made with Seedance 2.5\n\nPrompt:\n\nCharacter: A beautiful woman in her early 20s with natural realistic features, long dark brown hair, athletic build, wearing a sleek black tactical jacket, fitted dark pants and combat boots. She looks determined and fearless.\n\nScene — 0–3s:\nNighttime in a rain-soaked city alley. Neon signs reflect across the wet pavement. The woman runs toward camera as a black SUV suddenly crashes through a barricade behind her. Sparks and debris fly through the air.\n\nScene — 3–6s:\nShe quickly slides across the hood of a parked car, spins around and narrowly dodges an incoming attack. The camera follows her with a fast handheld tracking shot. Her hair and jacket move naturally with the action.\n\nScene — 6–8s:\nShe grabs a motorcycle helmet from the seat, jumps onto a sleek black motorcycle and accelerates through the alley. The SUV chases behind her, headlights cutting through the rain.\n\nScene — 8–10s:\nThe motorcycle launches off a small ramp between two buildings. Freeze-like slow motion as she flies through the air, city lights glowing behind her. She lands smoothly and speeds away.\n\nVisual style: High-end Hollywood action blockbuster, photorealistic, cinematic lighting, dramatic rain, realistic physics, practical-looking explosions, dynamic camera movement, shallow depth of field, anamorphic lens flares, detailed facial expressions, realistic skin texture, premium VFX.\n\nCamera: Fast tracking shots → low-angle action shot → close-up → wide aerial shot. Smooth but intense camera movement, cinematic motion blur.\n\nAudio: Heavy cinematic percussion, roaring motorcycle engine, tire screech, rain, impact sounds and a dramatic bass hit at the final landing.\n\nImportant: Keep the same female character, face, hairstyle and outfit consistent throughout all shots. No text, no subtitles, no distorted anatomy, no extra limbs, no cartoon appearance.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/codewithhajra/status/2098319351917002812",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098319327774605319/img/7-PdbNIQFZT5ltUz.jpg",
+        "analysisUrl": "https://x.com/codewithhajra/status/2098319351917002812"
+      }
+    ],
+    "metrics": {
+      "likeCount": 22,
+      "repostCount": 1,
+      "replyCount": 18,
+      "quoteCount": 0,
+      "viewCount": 467
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/codewithhajra/status/2098319351917002812",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098319327774605319/img/7-PdbNIQFZT5ltUz.jpg",
+  "coverPath": "covers/2098319351917002812.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098319327774605319",
+    "x-post:2098319351917002812"
+  ],
+  "analysis": {
+    "summary": "好莱坞动作大片风格的雨夜小巷追逐戏，女性主角逃离SUV追捕并骑摩托跃过建筑跨度。",
+    "summaryEn": "Hollywood blockbuster-style night alley chase featuring a female protagonist pursued by an SUV before escaping on a motorcycle jump.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely replicates all outlined scenes: alley run with crashing SUV, car hood slide, motorcycle escape, and rooftop jump."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Character: A beautiful woman in her early 20s with natural realistic features, long dark brown hair, athletic build, wearing a sleek black tactical jacket, fitted dark pants and combat boots. She looks determined and fearless.\n\nScene — 0–3s:\nNighttime in a rain-soaked city alley. Neon signs reflect across the wet pavement. The woman runs toward camera as a black SUV suddenly crashes through a barricade behind her. Sparks and debris fly through the air.\n\nScene — 3–6s:\nShe quickly slides across the hood of a parked car, spins around and narrowly dodges an incoming attack. The camera follows her with a fast handheld tracking shot. Her hair and jacket move naturally with the action.\n\nScene — 6–8s:\nShe grabs a motorcycle helmet from the seat, jumps onto a sleek black motorcycle and accelerates through the alley. The SUV chases behind her, headlights cutting through the rain.\n\nScene — 8–10s:\nThe motorcycle launches off a small ramp between two buildings. Freeze-like slow motion as she flies through the air, city lights glowing behind her. She lands smoothly and speeds away.\n\nVisual style: High-end Hollywood action blockbuster, photorealistic, cinematic lighting, dramatic rain, realistic physics, practical-looking explosions, dynamic camera movement, shallow depth of field, anamorphic lens flares, detailed facial expressions, realistic skin texture, premium VFX.\n\nCamera: Fast tracking shots → low-angle action shot → close-up → wide aerial shot. Smooth but intense camera movement, cinematic motion blur.\n\nAudio: Heavy cinematic percussion, roaring motorcycle engine, tire screech, rain, impact sounds and a dramatic bass hit at the final landing.\n\nImportant: Keep the same female character, face, hairstyle and outfit consistent throughout all shots. No text, no subtitles, no distorted anatomy, no extra limbs, no cartoon appearance.",
+    "sourceRange": {
+      "start": 33,
+      "end": 1884
+    },
+    "translations": {
+      "zh": "角色：一名20岁出头的美丽女性，五官自然写实，深褐色长发，身材健美，身穿黑色战术夹克、修身深色裤子和作战靴，眼神坚定无畏。\n\n场景 — 0–3秒：\n雨水浸湿的城市霓虹小巷夜景。女子迎着镜头奔跑，一辆黑色SUV冲破身后的路障，火花碎片四溅。\n\n场景 — 3–6秒：\n她迅速滑过停靠车辆的引擎盖，转身险险避开袭击。手持跟拍镜头跟随，头发与夹克随动作自然摆动。\n\n场景 — 6–8秒：\n她拿起头盔跃上一辆黑色摩托车加速驶出，SUV在后方紧追不舍。\n\n场景 — 8–10秒：\n摩托车从两栋建筑间跃起，定格般慢动作穿过半空，随后平稳落地疾驰而去。\n\n视觉风格：好莱坞动作大片、写实逼真、电影感光影、动态运镜。\n镜头：快速跟拍到低角度动作镜头及特写。\n音频：沉重打击乐、摩托引擎轰鸣、撞击音效。\n注意：保持角色面容服饰连贯，无多余肢体或文字。",
+      "en": "Character: A beautiful woman in her early 20s with natural realistic features, long dark brown hair, athletic build, wearing a sleek black tactical jacket, fitted dark pants and combat boots. She looks determined and fearless.\n\nScene — 0–3s:\nNighttime in a rain-soaked city alley. Neon signs reflect across the wet pavement. The woman runs toward camera as a black SUV suddenly crashes through a barricade behind her. Sparks and debris fly through the air.\n\nScene — 3–6s:\nShe quickly slides across the hood of a parked car, spins around and narrowly dodges an incoming attack. The camera follows her with a fast handheld tracking shot. Her hair and jacket move naturally with the action.\n\nScene — 6–8s:\nShe grabs a motorcycle helmet from the seat, jumps onto a sleek black motorcycle and accelerates through the alley. The SUV chases behind her, headlights cutting through the rain.\n\nScene — 8–10s:\nThe motorcycle launches off a small ramp between two buildings. Freeze-like slow motion as she flies through the air, city lights glowing behind her. She lands smoothly and speeds away.\n\nVisual style: High-end Hollywood action blockbuster, photorealistic, cinematic lighting, dramatic rain, realistic physics, practical-looking explosions, dynamic camera movement, shallow depth of field, anamorphic lens flares, detailed facial expressions, realistic skin texture, premium VFX.\n\nCamera: Fast tracking shots → low-angle action shot → close-up → wide aerial shot. Smooth but intense camera movement, cinematic motion blur.\n\nAudio: Heavy cinematic percussion, roaring motorcycle engine, tire screech, rain, impact sounds and a dramatic bass hit at the final landing.\n\nImportant: Keep the same female character, face, hairstyle and outfit consistent throughout all shots. No text, no subtitles, no distorted anatomy, no extra limbs, no cartoon appearance."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic action chase sequence generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
