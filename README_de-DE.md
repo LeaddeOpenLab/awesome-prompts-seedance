@@ -349,20 +349,20 @@ Kinematisch / Filmstill · 3D-Rendering · Fahrzeug · Veröffentlicht
 
 <a name="prompt-2098450393277595841"></a>
 
-### Übersetzung läuft
+### Workflow-Anweisung für drei Einstellungen zur 3D-Rekonstruktion der Halle des Griffith-Observatoriums in Blender anhand eines Referenzbildes und Rendering mit PixVerse.
 
 Autor：[@leilamakes](https://x.com/leilamakes) · [Originalbeitrag](https://x.com/leilamakes/status/2098450393277595841)
 
 Kinematisch / Filmstill · 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Workflow-Anweisung für drei Einstellungen zur 3D-Rekonstruktion der Halle des Griffith-Observatoriums in Blender anhand eines Referenzbildes und Rendering mit PixVerse.
 
 <img src="covers/2098450393277595841.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine bearbeitbare 3D-Nachbildung der zentralen Rotunde des Griffith-Observatoriums in lokalem Blender, einschließlich des Foucaultschen Pendels, der Kuppel-Wandgemälde, der Bronzegeländer, des Marmorbodens, der Bänke, der Himmelsgloben, der Tischlampen und der astronomischen Ausstellungen. Erstelle eine stabile 15-sekündige Kamerasequenz mit drei 5-Sekunden-Einstellungen: Fahrt in die Halle, Aufsteigen und Umkreisen des zentralen Pendels. Verwende eine erhöhte, nach oben gerichtete Kamera, um die Kuppel und die Wandgemälde zu umkreisen. Bewege dich nah an einen Himmelsglobus heran und führe eine sanfte Detail-Orbitbewegung durch. Rendere Graumodell-Videos mit genau diesen Kameraanimationen. Überprüfe die Kamerabewegung, den Bildausschnitt, den räumlichen Fluss und die Verdeckung vor der Erstellung der finalen Videos. Verwende in PixVerse Seedance 2.5. Lade für jede Einstellung das entsprechende Graumodell-Video und dasselbe echte Foto des Innenraums des Griffith-Observatoriums hoch. Das Foto steuert die Materialien, Farben, Wandgemälde und die Beleuchtung. Das Graumodell-Video steuert die Raumaufteilung, Komposition, Perspektive und Kamerabewegung. Prompt: Verwende den visuellen Stil von @reference image, um @gray-model video zu generieren. Behalte die Architektur, Möbelpositionen, Objektanzahl, den Bildausschnitt, die Perspektive und die Kamerabewegung des Graumodell-Videos strikt bei. Wende nur die realistischen Materialien, Kuppel-Wandgemälde und die warme Innenbeleuchtung aus dem Referenzbild an. Halte jedes Objekt unbeweglich. Füge keine Personen, Möbel, Türen, Fenster oder Ausstellungsstücke hinzu. Ändere weder die Architektur noch den Kamerapfad. Vermeide Schnitte, Verwacklungen, Verzerrungen, Flackern oder Änderungen des Layouts. Überprüfe jede generierte Einstellung und generiere nur Einstellungen mit deutlichen Problemen neu. Füge die freigegebenen Einstellungen zu einem 15-sekündigen Video zusammen und exportiere das erste Bild jeder Einstellung. Liefere das bearbeitbare Blender-Projekt, die Graumodell-Videos, die drei generierten Einstellungen, das finale Video, die Prompts und Screenshots des ersten Bildes ab.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

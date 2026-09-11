@@ -335,20 +335,20 @@ Sinematik / Film Karesi · 3D Modelleme · Araç · Yayımlandı
 
 <a name="prompt-2098450393277595841"></a>
 
-### Çeviri sürüyor
+### Referans görsele dayanarak Griffith Gözlemevi 3D salonunu Blender'da yeniden oluşturmaya ve PixVerse ile render almaya yönelik üç çekimli iş akışı talimatı.
 
 Yazar：[@leilamakes](https://x.com/leilamakes) · [Orijinal gönderi](https://x.com/leilamakes/status/2098450393277595841)
 
 Sinematik / Film Karesi · 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Referans görsele dayanarak Griffith Gözlemevi 3D salonunu Blender'da yeniden oluşturmaya ve PixVerse ile render almaya yönelik üç çekimli iş akışı talimatı.
 
 <img src="covers/2098450393277595841.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Foucault sarkacı, kubbe duvar resimleri, bronz korkuluklar, mermer zemin, banklar, gök küreleri, masa lambaları ve astronomik sergiler dahil olmak üzere yerel Blender'da Griffith Gözlemevi'nin merkezi kubbeli salonunun düzenlenebilir bir 3D yeniden canlandırmasını oluşturun. Üç adet 5 saniyelik çekimden oluşan 15 saniyelik stabil bir kamera sekansı oluşturun: Salona doğru ilerleyin, yükselin ve merkezi sarkacın etrafında dönün. Kubbenin ve duvar resimlerinin etrafında dönmek için yukarı bakan yükseltilmiş bir kamera kullanın. Bir gök küresine yaklaşın ve akıcı bir detay yörünge hareketi yapın. Tam olarak bu kamera animasyonlarını kullanarak gri model videoları işleyin (render alın). Nihai videoları üretmeden önce kamera hareketini, çerçevelemeyi, mekânsal akışı ve örtünmeyi inceleyin. PixVerse'te Seedance 2.5 kullanın. Her çekim için ilgili gri model videoyu ve Griffith Gözlemevi'nin iç mekanına ait aynı gerçek fotoğrafı yükleyin. Fotoğraf malzemeleri, renkleri, duvar resimlerini ve aydınlatmayı kontrol eder. Gri model video ise oda düzenini, kompozisyonu, perspektifi ve kamera hareketini kontrol eder. Prompt: @gray-model video üretmek için @reference image görsel stilini kullanın. Gri model videodaki mimariyi, mobilya konumlarını, nesne sayısını, çerçevelemeyi, perspektifi ve kamera hareketini kesinlikle koruyun. Yalnızca referans görseldeki gerçekçi malzemeleri, kubbe duvar resimlerini ve sıcak iç mekan aydınlatmasını uygulayın. Her nesneyi hareketsiz tutun. İnsan, mobilya, kapı, pencere veya sergi ögesi eklemeyin. Mimariyi veya kamera yolunu değiştirmeyin. Kesintilerden, sarsıntılardan, bükülmelerden, titremelerden veya düzen değişikliklerinden kaçının. Üretilen her çekimi inceleyin ve yalnızca belirgin sorunları olan çekimleri yeniden üretin. Onaylanan çekimleri 15 saniyelik tek bir videoda birleştirin ve her çekimin ilk karesini dışa aktarın. Düzenlenebilir Blender projesini, gri model videoları, üretilen üç çekimi, nihai videoyu, prompt'ları ve ilk kare ekran görüntülerini teslim edin.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -349,20 +349,20 @@ Traduzione in corso
 
 <a name="prompt-2098450393277595841"></a>
 
-### Traduzione in corso
+### Istruzioni per il flusso di lavoro a tre inquadrature per ricostruire la sala 3D del Griffith Observatory in Blender basandosi su un'immagine di riferimento e renderizzarla con PixVerse.
 
 Autore：[@leilamakes](https://x.com/leilamakes) · [Post originale](https://x.com/leilamakes/status/2098450393277595841)
 
 Fermo immagine cinematografico / Still fotografico · Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Istruzioni per il flusso di lavoro a tre inquadrature per ricostruire la sala 3D del Griffith Observatory in Blender basandosi su un'immagine di riferimento e renderizzarla con PixVerse.
 
 <img src="covers/2098450393277595841.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una ricostruzione 3D modificabile della rotonda centrale del Griffith Observatory in locale su Blender, inclusi il pendolo di Foucault, i murales della cupola, le ringhiere di bronzo, il pavimento di marmo, le panchine, i globi celesti, le lampade da tavolo e le esposizioni astronomiche. Crea una sequenza di ripresa stabile di 15 secondi con tre inquadrature da 5 secondi: Avanza nella sala, sollevati e orbita attorno al pendolo centrale. Usa una telecamera rialzata rivolta verso l'alto per orbitare attorno alla cupola e ai murales. Avvicinati a un globo celeste ed esegui un'orbita fluida sui dettagli. Renderizza i video del modello grigio utilizzando esattamente queste animazioni della telecamera. Rivedi il movimento della telecamera, l'inquadratura, la fluidità spaziale e l'occlusione prima di generare i video finali. In PixVerse, utilizza Seedance 2.5. Per ciascuna inquadratura, carica il rispettivo video del modello grigio e la medesima fotografia reale dell'interno del Griffith Observatory. La fotografia controlla i materiali, i colori, i murales e l'illuminazione. Il video del modello grigio controlla la disposizione della stanza, la composizione, la prospettiva e il movimento della telecamera. Prompt: Usa lo stile visivo di @reference image per generare @gray-model video. Preserva rigorosamente l'architettura, le posizioni dei mobili, il numero di oggetti, l'inquadratura, la prospettiva e il movimento della telecamera del video del modello grigio. Applica solo i materiali realistici, i murales della cupola e la calda illuminazione degli interni provenienti dall'immagine di riferimento. Mantieni fermo ogni oggetto. Non aggiungere persone, arredi, porte, finestre o elementi espositivi. Non modificare l'architettura né la traiettoria della telecamera. Evita stacchi, scuotimenti, deformazioni, sfarfallii o cambiamenti di disposizione. Rivedi ogni ripresa generata e rigenera solo le riprese con evidenti problemi. Unisci le riprese approvate in un unico video di 15 secondi ed esporta il primo fotogramma di ciascuna ripresa. Consegna il progetto Blender modificabile, i video del modello grigio, le tre inquadrature generate, il video finale, i prompt e gli screenshot del primo fotogramma.
 ```
 
 [↑ Torna alle categorie](#catalog)

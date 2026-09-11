@@ -335,20 +335,20 @@ Tradução em curso
 
 <a name="prompt-2098450393277595841"></a>
 
-### Tradução em curso
+### Instruções de fluxo de trabalho de três planos para reconstruir o átrio 3D do Observatório Griffith no Blender com base numa imagem de referência e renderizar no PixVerse.
 
 Autor：[@leilamakes](https://x.com/leilamakes) · [Publicação original](https://x.com/leilamakes/status/2098450393277595841)
 
 Cena de Cinema / Fotograma · Renderização 3D · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Instruções de fluxo de trabalho de três planos para reconstruir o átrio 3D do Observatório Griffith no Blender com base numa imagem de referência e renderizar no PixVerse.
 
 <img src="covers/2098450393277595841.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma recriação 3D editável da rotunda central do Observatório Griffith no Blender local, incluindo o pêndulo de Foucault, os murais da cúpula, os varandins de bronze, o chão de mármore, os bancos, os globos celestes, os candeeiros de mesa e as exposições astronómicas. Crie uma sequência de câmara estável de 15 segundos com três planos de 5 segundos: Avance pelo átrio, eleve-se e orbite em torno do pêndulo central. Utilize uma câmara elevada virada para cima para orbitar em redor da cúpula e dos murais. Aproxime-se de um globo celeste e faça uma órbita suave de detalhe. Renderize vídeos em modelo cinzento utilizando exatamente estas animações de câmara. Reveja o movimento da câmara, o enquadramento, o fluxo espacial e a oclusão antes de gerar os vídeos finais. No PixVerse, utilize o Seedance 2.5. Para cada plano, carregue o vídeo em modelo cinzento correspondente e a mesma fotografia real do interior do Observatório Griffith. A fotografia controla os materiais, as cores, os murais e a iluminação. O vídeo em modelo cinzento controla a disposição da sala, a composição, a perspetiva e o movimento da câmara. Prompt: Utilize o estilo visual de @reference image para gerar @gray-model video. Preserve rigorosamente a arquitetura, as posições do mobiliário, a contagem de objetos, o enquadramento, a perspetiva e o movimento de câmara do vídeo em modelo cinzento. Aplique apenas os materiais realistas, os murais da cúpula e a iluminação interior acolhedora da imagem de referência. Mantenha todos os objetos imóveis. Não adicione pessoas, móveis, portas, janelas ou elementos de exposição. Não altere a arquitetura nem o percurso da câmara. Evite cortes, tremores, distorções, cintilações ou alterações na disposição. Reveja cada plano gerado e volte a gerar apenas os planos com problemas evidentes. Combine os planos aprovados num único vídeo de 15 segundos e exporte o primeiro fotograma de cada plano. Entregue o projeto editável do Blender, os vídeos em modelo cinzento, os três planos gerados, o vídeo final, os prompts e as capturas de ecrã do primeiro fotograma.
 ```
 
 [↑ Voltar às categorias](#catalog)

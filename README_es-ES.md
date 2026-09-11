@@ -349,20 +349,20 @@ Traducción en curso
 
 <a name="prompt-2098450393277595841"></a>
 
-### Traducción en curso
+### Instrucciones de flujo de trabajo de tres tomas para reconstruir el vestíbulo 3D del Observatorio Griffith en Blender a partir de una imagen de referencia y renderizarlo con PixVerse.
 
 Autor：[@leilamakes](https://x.com/leilamakes) · [Publicación original](https://x.com/leilamakes/status/2098450393277595841)
 
 Cine / Fotograma de película · Render 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucciones de flujo de trabajo de tres tomas para reconstruir el vestíbulo 3D del Observatorio Griffith en Blender a partir de una imagen de referencia y renderizarlo con PixVerse.
 
 <img src="covers/2098450393277595841.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una recreación editable en 3D de la rotonda central del Observatorio Griffith en Blender local, que incluya el péndulo de Foucault, los murales de la cúpula, las barandillas de bronce, el suelo de mármol, los bancos, los globos celestes, las lámparas de mesa y las exhibiciones astronómicas. Crea una secuencia de cámara estable de 15 segundos con tres tomas de 5 segundos: avanzar hacia el vestíbulo, elevarse y orbitar alrededor del péndulo central. Utiliza una cámara elevada orientada hacia arriba para orbitar alrededor de la cúpula y los murales. Acércate a un globo celeste y realiza una órbita suave de detalle. Renderiza vídeos de modelo gris (gray-model) utilizando exactamente estas animaciones de cámara. Revisa el movimiento de la cámara, el encuadre, la fluidez espacial y la oclusión antes de generar los vídeos finales. En PixVerse, utiliza Seedance 2.5. Para cada toma, sube el vídeo de modelo gris correspondiente y la misma fotografía real del interior del Observatorio Griffith. La fotografía controla los materiales, los colores, los murales y la iluminación. El vídeo de modelo gris controla la distribución de la sala, la composición, la perspectiva y el movimiento de la cámara. Prompt: Usa el estilo visual de @reference image para generar @gray-model video. Conserva estrictamente la arquitectura, la posición del mobiliario, la cantidad de objetos, el encuadre, la perspectiva y el movimiento de cámara del vídeo de modelo gris. Aplica únicamente los materiales realistas, los murales de la cúpula y la cálida iluminación interior de la imagen de referencia. Mantén inmóvil cada objeto. No agregues personas, muebles, puertas, ventanas ni elementos de exhibición. No cambies la arquitectura ni la trayectoria de la cámara. Evita cortes, temblores, deformaciones, parpadeos o cambios en la distribución. Revisa cada toma generada y regenera únicamente las tomas que presenten problemas evidentes. Une las tomas aprobadas en un único vídeo de 15 segundos y exporta el primer fotograma de cada toma. Entrega el proyecto editable de Blender, los vídeos de modelo gris, las tres tomas generadas, el vídeo final, los prompts y las capturas de pantalla del primer fotograma.
 ```
 
 [↑ Volver a categorías](#catalog)

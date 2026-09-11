@@ -335,20 +335,20 @@ Tradução em andamento
 
 <a name="prompt-2098450393277595841"></a>
 
-### Tradução em andamento
+### Instruções do fluxo de trabalho de três tomadas para reconstruir o salão 3D do Observatório Griffith no Blender com base em imagem de referência e renderizar com o PixVerse.
 
 Autor：[@leilamakes](https://x.com/leilamakes) · [Publicação original](https://x.com/leilamakes/status/2098450393277595841)
 
 Cinematográfico / Imagem de Filme · Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Instruções do fluxo de trabalho de três tomadas para reconstruir o salão 3D do Observatório Griffith no Blender com base em imagem de referência e renderizar com o PixVerse.
 
 <img src="covers/2098450393277595841.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma recriação 3D editável da rotunda central do Observatório Griffith no Blender local, incluindo o pêndulo de Foucault, os murais da cúpula, os guarda-corpos de bronze, o piso de mármore, os bancos, os globos celestes, os abajures de mesa e as exibições astronômicas. Crie uma sequência de câmera estável de 15 segundos com três tomadas de 5 segundos: Avance pelo salão, eleve-se e orbite ao redor do pêndulo central. Use uma câmera elevada voltada para cima para orbitar ao redor da cúpula e dos murais. Aproxime-se de um globo celeste e faça uma órbita suave e detalhada. Renderize vídeos em modelo cinza usando exatamente essas animações de câmera. Revise o movimento da câmera, o enquadramento, a fluidez espacial e a oclusão antes de gerar os vídeos finais. No PixVerse, use o Seedance 2.5. Para cada tomada, envie o vídeo em modelo cinza correspondente e a mesma fotografia real do interior do Observatório Griffith. A fotografia controla os materiais, as cores, os murais e a iluminação. O vídeo em modelo cinza controla o layout da sala, a composição, a perspectiva e o movimento da câmera. Prompt: Use o estilo visual de @reference image para gerar @gray-model video. Preserve estritamente a arquitetura, a posição dos móveis, a quantidade de objetos, o enquadramento, a perspectiva e o movimento de câmera do vídeo em modelo cinza. Aplique apenas os materiais realistas, os murais da cúpula e a iluminação interior acolhedora da imagem de referência. Mantenha todos os objetos imóveis. Não adicione pessoas, móveis, portas, janelas ou itens de exibição. Não altere a arquitetura nem o trajeto da câmera. Evite cortes, tremores, distorções, oscilações ou alterações de layout. Revise cada tomada gerada e regenere apenas as tomadas com problemas claros. Una as tomadas aprovadas em um único vídeo de 15 segundos e exporte o primeiro quadro de cada tomada. Entregue o projeto editável do Blender, os vídeos em modelo cinza, as três tomadas geradas, o vídeo final, os prompts e as capturas de tela do primeiro quadro.
 ```
 
 [↑ Voltar às categorias](#catalog)

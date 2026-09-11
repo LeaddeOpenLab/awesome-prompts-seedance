@@ -351,20 +351,20 @@ Tác giả：[@Aria\_Nawi](https://x.com/Aria_Nawi) · [Bài gốc](https://x.co
 
 <a name="prompt-2098450393277595841"></a>
 
-### Đang dịch
+### Hướng dẫn quy trình làm việc 3 cảnh để tái tạo sảnh 3D của Đài thiên văn Griffith trong Blender dựa trên ảnh tham chiếu và kết xuất bằng PixVerse.
 
 Tác giả：[@leilamakes](https://x.com/leilamakes) · [Bài gốc](https://x.com/leilamakes/status/2098450393277595841)
 
 Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hướng dẫn quy trình làm việc 3 cảnh để tái tạo sảnh 3D của Đài thiên văn Griffith trong Blender dựa trên ảnh tham chiếu và kết xuất bằng PixVerse.
 
 <img src="covers/2098450393277595841.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo bản tái tạo 3D có thể chỉnh sửa của sảnh tròn trung tâm Đài thiên văn Griffith trong phần mềm Blender trên máy cục bộ, bao gồm con lắc Foucault, các bức bích họa trên mái vòm, lan can bằng đồng, sàn đá cẩm thạch, băng ghế, quả địa cầu thiên thể, đèn bàn và các khu trưng bày thiên văn. Tạo một chuỗi cảnh quay camera 15 giây ổn định với ba cảnh quay 5 giây: Đẩy vào trong sảnh, nâng lên cao và quay quanh con lắc trung tâm. Sử dụng một camera nâng cao hướng lên trên để quay quanh mái vòm và các bức bích họa. Di chuyển lại gần một quả địa cầu thiên thể và thực hiện một vòng quay chi tiết mượt mà. Kết xuất (render) video mô hình xám (gray-model) bằng chính xác các hoạt ảnh camera này. Xem lại chuyển động của camera, bố cục khung hình, luồng không gian và sự che khuất trước khi tạo video cuối cùng. Trong PixVerse, hãy sử dụng Seedance 2.5. Đối với mỗi cảnh quay, hãy tải lên video mô hình xám tương ứng và cùng một bức ảnh chụp thực tế nội thất của Đài thiên văn Griffith. Bức ảnh sẽ kiểm soát chất liệu, màu sắc, tranh bích họa và ánh sáng. Video mô hình xám kiểm soát bố cục phòng, cấu trúc hình ảnh, phối cảnh và chuyển động của camera. Lời nhắc (Prompt): Sử dụng phong cách trực quan của @reference image để tạo @gray-model video. Giữ nguyên nghiêm ngặt kiến trúc, vị trí đồ nội thất, số lượng vật thể, bố cục khung hình, phối cảnh và chuyển động camera của video mô hình xám. Chỉ áp dụng các chất liệu chân thực, tranh bích họa mái vòm và ánh sáng nội thất ấm áp từ hình ảnh tham chiếu. Giữ cố định mọi vật thể. Không thêm người, đồ nội thất, cửa ra vào, cửa sổ hoặc vật phẩm trưng bày. Không thay đổi kiến trúc hoặc đường đi của camera. Tránh các vết cắt cảnh, rung lắc, biến dạng, nhấp nháy hoặc thay đổi bố cục. Xem lại từng cảnh quay được tạo và chỉ tạo lại những cảnh quay có vấn đề rõ ràng. Kết hợp các cảnh quay đã được duyệt thành một video dài 15 giây và xuất khung hình đầu tiên của mỗi cảnh quay. Bàn giao dự án Blender có thể chỉnh sửa, các video mô hình xám, ba cảnh quay đã tạo, video cuối cùng, các lời nhắc và ảnh chụp màn hình khung hình đầu tiên.
 ```
 
 [↑ Về danh mục](#catalog)

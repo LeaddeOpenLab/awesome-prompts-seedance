@@ -349,20 +349,20 @@ Traduction en cours
 
 <a name="prompt-2098450393277595841"></a>
 
-### Traduction en cours
+### Instructions de flux de travail en trois plans pour reconstruire le hall 3D de l'observatoire Griffith dans Blender sur la base d'une image de référence et effectuer le rendu avec PixVerse.
 
 Auteur：[@leilamakes](https://x.com/leilamakes) · [Publication originale](https://x.com/leilamakes/status/2098450393277595841)
 
 Image cinématographique / Photogramme de film · Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Instructions de flux de travail en trois plans pour reconstruire le hall 3D de l'observatoire Griffith dans Blender sur la base d'une image de référence et effectuer le rendu avec PixVerse.
 
 <img src="covers/2098450393277595841.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une reconstitution 3D modifiable de la rotonde centrale de l'observatoire Griffith dans Blender en local, comprenant le pendule de Foucault, les fresques de la coupole, les garde-corps en bronze, le sol en marbre, les bancs, les globes célestes, les lampes de table et les présentoirs astronomiques. Créez une séquence de caméra stable de 15 secondes comprenant trois plans de 5 secondes : avancez dans le hall, élevez-vous et effectuez une orbite autour du pendule central. Utilisez une caméra surélevée orientée vers le haut pour orbiter autour de la coupole et des fresques. Rapprochez-vous d'un globe céleste et réalisez une orbite fluide et détaillée. Rendez des vidéos en modèle gris en utilisant ces animations de caméra exactes. Vérifiez le mouvement de la caméra, le cadrage, la fluidité spatiale et l'occlusion avant de générer les vidéos finales. Dans PixVerse, utilisez Seedance 2.5. Pour chaque plan, téléversez la vidéo en modèle gris correspondante et la même photo réelle de l'intérieur de l'observatoire Griffith. La photo contrôle les matériaux, les couleurs, les fresques et l'éclairage. La vidéo en modèle gris contrôle l'agencement de la pièce, la composition, la perspective et le mouvement de la caméra. Prompt : Utilisez le style visuel de @reference image pour générer @gray-model video. Préservez rigoureusement l'architecture, la disposition des meubles, le nombre d'objets, le cadrage, la perspective et le mouvement de caméra de la vidéo en modèle gris. Appliquez uniquement les matériaux réalistes, les fresques de la coupole et l'éclairage intérieur chaleureux de l'image de référence. Gardez chaque objet stationnaire. N'ajoutez pas de personnes, de meubles, de portes, de fenêtres ou d'éléments d'exposition. Ne modifiez ni l'architecture ni la trajectoire de la caméra. Évitez les coupures, les tremblements, les déformations, les scintillements ou les modifications de disposition. Examinez chaque plan généré et ne régénérez que les plans présentant des problèmes évidents. Combinez les plans approuvés en une seule vidéo de 15 secondes et exportez la première image de chaque plan. Livrez le projet Blender modifiable, les vidéos en modèle gris, les trois plans générés, la vidéo finale, les prompts et les captures d'écran de la première image.
 ```
 
 [↑ Retour aux catégories](#catalog)
