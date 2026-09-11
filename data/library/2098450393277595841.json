@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T20:21:59.429Z",
+  "model": "seedance2.5",
+  "prompt": "Create an editable 3D recreation of Griffith Observatory’s central rotunda in local Blender, including the Foucault pendulum, dome murals, bronze railings, marble floor, benches, celestial globes, table lamps, and astronomical displays. Create a stable 15-second camera sequence with three 5-second shots: Push into the hall, rise, and orbit around the central pendulum. Use an elevated upward-facing camera to orbit around the dome and murals. Move close to a celestial globe and make a smooth detail orbit. Render gray-model videos using these exact camera animations. Review the camera movement, framing, spatial flow, and occlusion before generating the final videos. In PixVerse, use Seedance 2.5. For each shot, upload the corresponding gray-model video and the same real photograph of Griffith Observatory’s interior. The photograph controls the materials, colors, murals, and lighting. The gray-model video controls the room layout, composition, perspective, and camera movement. Prompt: Use the visual style of @reference image to generate @gray-model video. Strictly preserve the gray-model video’s architecture, furniture positions, object count, framing, perspective, and camera movement. Only apply the realistic materials, dome murals, and warm interior lighting from the reference image. Keep every object stationary. Do not add people, furniture, doors, windows, or exhibits. Do not change the architecture or camera path. Avoid cuts, shaking, warping, flickering, or layout changes. Review every generated shot and regenerate only shots with clear problems. Combine the approved shots into one 15-second video and export the first frame of each shot. Deliver the editable Blender project, gray-model videos, three generated shots, final video, prompts, and first-frame screenshots.",
+  "promptTranslations": {
+    "en": "Create an editable 3D recreation of Griffith Observatory’s central rotunda in local Blender, including the Foucault pendulum, dome murals, bronze railings, marble floor, benches, celestial globes, table lamps, and astronomical displays. Create a stable 15-second camera sequence with three 5-second shots: Push into the hall, rise, and orbit around the central pendulum. Use an elevated upward-facing camera to orbit around the dome and murals. Move close to a celestial globe and make a smooth detail orbit. Render gray-model videos using these exact camera animations. Review the camera movement, framing, spatial flow, and occlusion before generating the final videos. In PixVerse, use Seedance 2.5. For each shot, upload the corresponding gray-model video and the same real photograph of Griffith Observatory’s interior. The photograph controls the materials, colors, murals, and lighting. The gray-model video controls the room layout, composition, perspective, and camera movement. Prompt: Use the visual style of @reference image to generate @gray-model video. Strictly preserve the gray-model video’s architecture, furniture positions, object count, framing, perspective, and camera movement. Only apply the realistic materials, dome murals, and warm interior lighting from the reference image. Keep every object stationary. Do not add people, furniture, doors, windows, or exhibits. Do not change the architecture or camera path. Avoid cuts, shaking, warping, flickering, or layout changes. Review every generated shot and regenerate only shots with clear problems. Combine the approved shots into one 15-second video and export the first frame of each shot. Deliver the editable Blender project, gray-model videos, three generated shots, final video, prompts, and first-frame screenshots."
+  },
+  "summaryTranslations": {
+    "en": "Three-shot workflow instructions for reconstructing the Griffith Observatory 3D hall in Blender based on reference images and rendering with PixVerse."
+  },
+  "translationVersion": 2,
+  "summary": "基于参考图在Blender中重建格里菲斯天文台3D大厅并用PixVerse渲染的三镜头工作流指令。",
+  "summaryEn": "Workflow prompt to recreate Griffith Observatory in Blender and render animated shots via PixVerse.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098450393277595841",
+    "canonicalUrl": "https://x.com/leilamakes/status/2098450393277595841",
+    "author": {
+      "username": "leilamakes",
+      "displayName": "Leila 👩🏻‍💻",
+      "profileUrl": "https://x.com/leilamakes"
+    },
+    "publishedAt": "2026-09-11T16:35:35.000Z",
+    "collectedAt": "2026-09-11T20:15:58.107Z",
+    "language": "en",
+    "originalText": "✨ From a reference of Griffith Observatory’s iconic central rotunda to a fully editable 3D recreation in Blender — GPT-6 Astra planned the workflow. PixVerse brought it to life.\n@PixVerse Try it on PixVerse, or in ChatGPT with the PixVerse Plugin.\n\nPrompt ↓\nCreate an editable 3D recreation of Griffith Observatory’s central rotunda in local Blender, including the Foucault pendulum, dome murals, bronze railings, marble floor, benches, celestial globes, table lamps, and astronomical displays. Create a stable 15-second camera sequence with three 5-second shots: Push into the hall, rise, and orbit around the central pendulum. Use an elevated upward-facing camera to orbit around the dome and murals. Move close to a celestial globe and make a smooth detail orbit. Render gray-model videos using these exact camera animations. Review the camera movement, framing, spatial flow, and occlusion before generating the final videos. In PixVerse, use Seedance 2.5. For each shot, upload the corresponding gray-model video and the same real photograph of Griffith Observatory’s interior. The photograph controls the materials, colors, murals, and lighting. The gray-model video controls the room layout, composition, perspective, and camera movement. Prompt: Use the visual style of @reference image to generate @gray-model video. Strictly preserve the gray-model video’s architecture, furniture positions, object count, framing, perspective, and camera movement. Only apply the realistic materials, dome murals, and warm interior lighting from the reference image. Keep every object stationary. Do not add people, furniture, doors, windows, or exhibits. Do not change the architecture or camera path. Avoid cuts, shaking, warping, flickering, or layout changes. Review every generated shot and regenerate only shots with clear problems. Combine the approved shots into one 15-second video and export the first frame of each shot. Deliver the editable Blender project, gray-model videos, three generated shots, final video, prompts, and first-frame screenshots.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/leilamakes/status/2098450393277595841",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098450359484129285/img/nCmbuw6DEJjHzst5.jpg",
+        "analysisUrl": "https://x.com/leilamakes/status/2098450393277595841"
+      }
+    ],
+    "metrics": {
+      "likeCount": 172,
+      "repostCount": 7,
+      "replyCount": 14,
+      "quoteCount": 0,
+      "viewCount": 33088
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/leilamakes/status/2098450393277595841",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098450359484129285/img/nCmbuw6DEJjHzst5.jpg",
+  "coverPath": "covers/2098450393277595841.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098450359484129285",
+    "x-post:2098450393277595841"
+  ],
+  "analysis": {
+    "summary": "基于参考图在Blender中重建格里菲斯天文台3D大厅并用PixVerse渲染的三镜头工作流指令。",
+    "summaryEn": "Workflow prompt to recreate Griffith Observatory in Blender and render animated shots via PixVerse.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video showcases the gray-model animatic alongside the fully textured Griffith Observatory interior shots matching the pendulum, murals, and globe orbits specified in the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create an editable 3D recreation of Griffith Observatory’s central rotunda in local Blender, including the Foucault pendulum, dome murals, bronze railings, marble floor, benches, celestial globes, table lamps, and astronomical displays. Create a stable 15-second camera sequence with three 5-second shots: Push into the hall, rise, and orbit around the central pendulum. Use an elevated upward-facing camera to orbit around the dome and murals. Move close to a celestial globe and make a smooth detail orbit. Render gray-model videos using these exact camera animations. Review the camera movement, framing, spatial flow, and occlusion before generating the final videos. In PixVerse, use Seedance 2.5. For each shot, upload the corresponding gray-model video and the same real photograph of Griffith Observatory’s interior. The photograph controls the materials, colors, murals, and lighting. The gray-model video controls the room layout, composition, perspective, and camera movement. Prompt: Use the visual style of @reference image to generate @gray-model video. Strictly preserve the gray-model video’s architecture, furniture positions, object count, framing, perspective, and camera movement. Only apply the realistic materials, dome murals, and warm interior lighting from the reference image. Keep every object stationary. Do not add people, furniture, doors, windows, or exhibits. Do not change the architecture or camera path. Avoid cuts, shaking, warping, flickering, or layout changes. Review every generated shot and regenerate only shots with clear problems. Combine the approved shots into one 15-second video and export the first frame of each shot. Deliver the editable Blender project, gray-model videos, three generated shots, final video, prompts, and first-frame screenshots.",
+    "sourceRange": {
+      "start": 258,
+      "end": 2056
+    },
+    "translations": {
+      "zh": "在本地Blender中创建格里菲斯天文台中央圆形大厅的可编辑3D重建，包含傅科摆、穹顶壁画、铜栏杆、大理石地面、长椅、天球仪与天象展品。设置包含三个5秒镜头的15秒运镜序列并渲染灰模视频。在PixVerse中配合Seedance 2.5与实景参考图完成材质渲染与成片输出。",
+      "en": "Create an editable 3D recreation of Griffith Observatory’s central rotunda in local Blender, featuring the Foucault pendulum, dome murals, railings, and globes. Set up a 15-second camera sequence, render gray-model animatics, and render the final styled shots in PixVerse using Seedance 2.5 driven by reference photos."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-3d",
+    "useCase": "3D scene recreation and video rendering workflow",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
