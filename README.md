@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**55** Prompts · Latest addition: **2026-09-11**
+**56** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -2047,6 +2047,28 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098403961325695379"></a>
+
+### Prompt describes flame traveling slowly down a matchstick, blackening and curling the wood.
+
+Author：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Source](https://x.com/GlennHasABeard/status/2098403961325695379)
+
+Other · Published
+
+**Summary:** Prompt describes flame traveling slowly down a matchstick, blackening and curling the wood.
+
+<img src="covers/2098403961325695379.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+the flame travels slowly down the stick, the wood blackening and curling behind it
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098306219903492133"></a>
 

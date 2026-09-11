@@ -19,7 +19,7 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**55** รายการ · เพิ่มล่าสุด: **2026-09-11**
+**56** รายการ · เพิ่มล่าสุด: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1701,6 +1701,28 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 <a name="category-other"></a>
 
 ## อื่น ๆ
+
+<a name="prompt-2098403961325695379"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@GlennHasABeard](https://x.com/GlennHasABeard) · [โพสต์ต้นฉบับ](https://x.com/GlennHasABeard/status/2098403961325695379)
+
+อื่น ๆ · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="covers/2098403961325695379.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
 
 <a name="prompt-2098306219903492133"></a>
 
