@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**41** Prompts · Latest addition: **2026-09-11**
+**42** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098264877248987394"></a>
+
+### A 30-second cinematic music video prompt featuring three singers performing on a neon-lit wet city street.
+
+Author：[@ChillaiKalan\_\_](https://x.com/ChillaiKalan__) · [Source](https://x.com/ChillaiKalan__/status/2098264877248987394)
+
+Cinematic / Film Still · Cityscape / Street · Published
+
+**Summary:** A 30-second cinematic music video prompt featuring three singers performing on a neon-lit wet city street.
+
+<img src="covers/2098264877248987394.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30-second ultra-realistic cinematic music video featuring three young adult singers performing an emotional modern song in a neon-lit city at night. The video should look like a high-budget professional music video with realistic humans, precise lip-sync, expressive performances, atmospheric lighting, and sophisticated cinematography.\n\nCHARACTERS\n\nCharacter 1 — Female Lead:\nYoung adult woman, early 20s, long black hair, expressive eyes, elegant black-and-silver outfit, confident yet emotional personality.\n\nCharacter 2 — Male Lead:\nYoung adult man, early 20s, dark textured hair, stylish black jacket and white shirt, charismatic and emotionally expressive.\n\nCharacter 3 — Female Vocalist:\nYoung adult woman, early 20s, shoulder-length dark hair, fashionable deep-red outfit, energetic but natural stage presence.\n\nKeep their faces, clothing, hairstyles, body proportions, and identities perfectly consistent throughout the video.\n\nENVIRONMENT\n\nA futuristic downtown street at night after light rain. Wet pavement reflecting colorful neon signs, glowing storefronts, subtle fog, distant traffic, cinematic bokeh, atmospheric city lights and realistic reflections.\n\nSHOT-BY-SHOT\n\n0–4 sec — Opening\nExtreme close-up of Character 1's eyes. Neon reflections visible in her eyes. Camera slowly pulls back as she begins singing. Rain droplets sparkle in the background.\n\n4–8 sec — Lead Performance\nCharacter 1 walks slowly down the wet street while singing directly toward the camera. Smooth backward tracking shot. Her hair moves naturally in the night breeze.\n\n8–12 sec — Male Verse\nCut to Character 2 leaning against a neon-lit building. He begins singing his section. Slow cinematic camera orbit around him, with colorful city lights blurred behind him.\n\n12–16 sec — Female Vocalist\nCharacter 3 appears walking through the neon street. She sings while looking toward the camera. Smooth side-tracking shot transitions into a close-up.\n\n16–22 sec — Trio Performance\nAll three characters meet in a wide city intersection and perform together. Camera slowly circles around them while they sing. Natural interaction, subtle gestures, believable chemistry.\n\n22–27 sec — Emotional Chorus\nRapid but elegant sequence of close-ups: Character 1 singing, Character 2 joining, Character 3 harmonizing. Every mouth movement precisely follows the provided audio.\n\n27–30 sec — Final Shot\nThe three singers stand together in the middle of the wet street. Camera rises slowly upward and pulls away, revealing the glowing city around them. They finish the final lyric together exactly on the beat. End on a dramatic cinematic wide shot.\n\nCINEMATOGRAPHY\n\nHigh-end music-video cinematography, anamorphic lens look, shallow depth of field, smooth gimbal tracking, slow-motion accents, cinematic close-ups, controlled camera movement, realistic lens flares, natural motion blur, beautiful bokeh and dynamic composition.\n\nAUDIO & PERFORMANCE\n\nUse the provided song/audio as the exact soundtrack. The characters must visibly sing the correct lyrics with accurate phoneme-level lip-sync. Expressions, eye movements and gestures should match the emotion and rhythm of the song. No speaking unrelated dialogue.\n\nQUALITY\n\nUltra-realistic, photorealistic humans, natural skin texture, realistic eyes and teeth, physically accurate lighting, realistic wet surfaces, detailed hair strands, realistic fabric movement, HDR, cinematic contrast, professional color grading, 4K detail, premium music-video aesthetic.\n\nNEGATIVE: face morphing, identity changes, inconsistent clothing, extra people, duplicate characters, distorted hands, deformed faces, unnatural walking, robotic movements, incorrect lip-sync, random talking, flickering, frame interpolation artifacts, text, subtitles, logos, watermarks.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098257195347616210"></a>
 

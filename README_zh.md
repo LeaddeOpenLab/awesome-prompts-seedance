@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**41** 条内容 · 最新收录: **2026-09-11**
+**42** 条内容 · 最新收录: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -328,6 +328,28 @@ UGC风格
 <a name="category-cinematic-film-still"></a>
 
 ## 电影 / 电影剧照
+
+<a name="prompt-2098264877248987394"></a>
+
+### 翻译中
+
+作者：[@ChillaiKalan\_\_](https://x.com/ChillaiKalan__) · [查看 X 原帖](https://x.com/ChillaiKalan__/status/2098264877248987394)
+
+电影 / 电影剧照 · 城市风光 / 街道 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098264877248987394.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098257195347616210"></a>
 
