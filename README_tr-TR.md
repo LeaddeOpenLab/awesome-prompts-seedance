@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**56** Prompt · Son eklenen: **2026-09-11**
+**57** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,28 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2098432693222715716"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Orijinal gönderi](https://x.com/KICHOCHEZI/status/2098432693222715716)
+
+Sinematik / Film Karesi · 3D Modelleme · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098432693222715716.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098411323562324348"></a>
 
@@ -1560,20 +1582,20 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 
 <a name="prompt-2098403961325695379"></a>
 
-### Çeviri sürüyor
+### İstem, alevin bir kibrit çöpü boyunca yavaşça aşağıya doğru ilerlemesini, ahşabı karartıp kıvırmasını tarif ediyor.
 
 Yazar：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Orijinal gönderi](https://x.com/GlennHasABeard/status/2098403961325695379)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** İstem, alevin bir kibrit çöpü boyunca yavaşça aşağıya doğru ilerlemesini, ahşabı karartıp kıvırmasını tarif ediyor.
 
 <img src="covers/2098403961325695379.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+alev çubuk boyunca yavaşça aşağı ilerliyor, arkasındaki ahşap kararıp kıvrılıyor
 ```
 
 [↑ Kategorilere dön](#catalog)

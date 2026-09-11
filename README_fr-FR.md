@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**56** Prompts · Dernier ajout: **2026-09-11**
+**57** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098432693222715716"></a>
+
+### Traduction en cours
+
+Auteur：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Publication originale](https://x.com/KICHOCHEZI/status/2098432693222715716)
+
+Image cinématographique / Photogramme de film · Rendu 3D · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098432693222715716.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098411323562324348"></a>
 
@@ -1566,20 +1588,20 @@ Traduction en cours
 
 <a name="prompt-2098403961325695379"></a>
 
-### Traduction en cours
+### Le prompt décrit une flamme descendant lentement le long d'une allumette, noircissant et courbant le bois.
 
 Auteur：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Publication originale](https://x.com/GlennHasABeard/status/2098403961325695379)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Le prompt décrit une flamme descendant lentement le long d'une allumette, noircissant et courbant le bois.
 
 <img src="covers/2098403961325695379.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+la flamme descend lentement le long du bâton, le bois noircissant et s'enroulant derrière elle
 ```
 
 [↑ Retour aux catégories](#catalog)

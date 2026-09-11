@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**56** Prompts · Última incorporación: **2026-09-11**
+**57** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma
+
+<a name="prompt-2098432693222715716"></a>
+
+### Traducción en curso
+
+Autor：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Publicación original](https://x.com/KICHOCHEZI/status/2098432693222715716)
+
+Cine / Fotograma · Renderizado 3D · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098432693222715716.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098411323562324348"></a>
 
@@ -1566,20 +1588,20 @@ Traducción en curso
 
 <a name="prompt-2098403961325695379"></a>
 
-### Traducción en curso
+### El prompt describe una llama que viaja lentamente hacia abajo por un cerillo, ennegreciendo y curvando la madera.
 
 Autor：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Publicación original](https://x.com/GlennHasABeard/status/2098403961325695379)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** El prompt describe una llama que viaja lentamente hacia abajo por un cerillo, ennegreciendo y curvando la madera.
 
 <img src="covers/2098403961325695379.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+la llama avanza lentamente hacia abajo por la vara, la madera ennegreciéndose y doblándose detrás de ella
 ```
 
 [↑ Volver a categorías](#catalog)

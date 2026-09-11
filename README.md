@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**56** Prompts · Latest addition: **2026-09-11**
+**57** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098432693222715716"></a>
+
+### Create a 12-second single-take wizard workshop animation in Blender and stylize it via PixVerse Seedance 2.5.
+
+Author：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Source](https://x.com/KICHOCHEZI/status/2098432693222715716)
+
+Cinematic / Film Still · 3D Render · Published
+
+**Summary:** Create a 12-second single-take wizard workshop animation in Blender and stylize it via PixVerse Seedance 2.5.
+
+<img src="covers/2098432693222715716.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 12-second single-take white-model animation in Blender based on the supplied wizard workshop reference. Build the stone walls, wooden shelves, arched window, fireplace, books, astronomical instrument and alchemy table filled with potion bottles. Animate a low first-person viewpoint with exactly one right hand holding one potion. Begin with the bottle near the lower-right edge, look around the workshop and toward the window, raise the potion naturally, pause to examine it, then lower it while turning toward the fireplace and glowing reagents. Export the white-model MP4. Then use PixVerse with Seedance 2.5, referencing the Blender video for camera, action and spatial layout and the supplied images for appearance. Preserve the continuous shot and timing while adding weathered stone, carved wood, worn leather, realistic glass, cool window light, warm fireplace illumination, glowing magical liquids, natural flames, embers, sparks and smoke.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098411323562324348"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**56** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**57** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2098432693222715716"></a>
+
+### Übersetzung läuft
+
+Autor：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Originalbeitrag](https://x.com/KICHOCHEZI/status/2098432693222715716)
+
+Kinematisch / Filmstill · 3D-Rendering · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098432693222715716.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098411323562324348"></a>
 
@@ -1566,20 +1588,20 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 
 <a name="prompt-2098403961325695379"></a>
 
-### Übersetzung läuft
+### Prompt beschreibt eine Flamme, die sich langsam an einem Streichholz hinabbewegt, während sich das Holz schwärzt und krümmt.
 
 Autor：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Originalbeitrag](https://x.com/GlennHasABeard/status/2098403961325695379)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt beschreibt eine Flamme, die sich langsam an einem Streichholz hinabbewegt, während sich das Holz schwärzt und krümmt.
 
 <img src="covers/2098403961325695379.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+die Flamme wandert langsam am Stab herab, das Holz dahinter schwärzt und krümmt sich
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

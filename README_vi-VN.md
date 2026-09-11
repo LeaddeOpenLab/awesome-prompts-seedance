@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**56** Prompt · Bổ sung mới nhất: **2026-09-11**
+**57** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -326,6 +326,28 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098432693222715716"></a>
+
+### Đang dịch
+
+Tác giả：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Bài gốc](https://x.com/KICHOCHEZI/status/2098432693222715716)
+
+Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098432693222715716.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098411323562324348"></a>
 
@@ -1704,20 +1726,20 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 <a name="prompt-2098403961325695379"></a>
 
-### Đang dịch
+### Lời nhắc mô tả ngọn lửa cháy từ từ dọc theo que diêm, làm đen và cong queo que gỗ.
 
 Tác giả：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Bài gốc](https://x.com/GlennHasABeard/status/2098403961325695379)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc mô tả ngọn lửa cháy từ từ dọc theo que diêm, làm đen và cong queo que gỗ.
 
 <img src="covers/2098403961325695379.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+ngọn lửa cháy từ từ dọc theo que gỗ, phần gỗ phía sau biến thành màu đen và cong queo lại
 ```
 
 [↑ Về danh mục](#catalog)

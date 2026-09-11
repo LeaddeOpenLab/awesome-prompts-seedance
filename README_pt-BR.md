@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**56** Prompts · Última adição: **2026-09-11**
+**57** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,28 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2098432693222715716"></a>
+
+### Tradução em andamento
+
+Autor：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Publicação original](https://x.com/KICHOCHEZI/status/2098432693222715716)
+
+Cinematográfico / Imagem de Filme · Renderização 3D · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098432693222715716.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098411323562324348"></a>
 
@@ -1560,20 +1582,20 @@ Tradução em andamento
 
 <a name="prompt-2098403961325695379"></a>
 
-### Tradução em andamento
+### O prompt descreve a chama descendo lentamente por um fósforo, enegrecendo e curvando a madeira.
 
 Autor：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Publicação original](https://x.com/GlennHasABeard/status/2098403961325695379)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** O prompt descreve a chama descendo lentamente por um fósforo, enegrecendo e curvando a madeira.
 
 <img src="covers/2098403961325695379.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+a chama desce lentamente pelo palito, a madeira enegrecendo e se curvando atrás dela
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**56** 条内容 · 最新收录: **2026-09-11**
+**57** 条内容 · 最新收录: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -328,6 +328,28 @@ UGC风格
 <a name="category-cinematic-film-still"></a>
 
 ## 电影 / 电影剧照
+
+<a name="prompt-2098432693222715716"></a>
+
+### 翻译中
+
+作者：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [查看 X 原帖](https://x.com/KICHOCHEZI/status/2098432693222715716)
+
+电影 / 电影剧照 · 3D 渲染 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098432693222715716.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098411323562324348"></a>
 
@@ -1710,20 +1732,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2098403961325695379"></a>
 
-### 翻译中
+### 提示词描述了火焰顺着火柴棍缓缓向下移动，将木头烧黑并卷曲。
 
 作者：[@GlennHasABeard](https://x.com/GlennHasABeard) · [查看 X 原帖](https://x.com/GlennHasABeard/status/2098403961325695379)
 
 其他 · 已推流
 
-**概括:** 翻译中
+**概括:** 提示词描述了火焰顺着火柴棍缓缓向下移动，将木头烧黑并卷曲。
 
 <img src="covers/2098403961325695379.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+火焰顺着木棒缓缓向下移动，身后的木头逐渐变黑并卷曲
 ```
 
 [↑ 返回分类目录](#catalog)

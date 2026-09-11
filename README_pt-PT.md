@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**56** Prompts · Adição mais recente: **2026-09-11**
+**57** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,28 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2098432693222715716"></a>
+
+### Tradução em curso
+
+Autor：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Publicação original](https://x.com/KICHOCHEZI/status/2098432693222715716)
+
+Cena de Cinema / Fotograma · Renderização 3D · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098432693222715716.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098411323562324348"></a>
 
@@ -1560,20 +1582,20 @@ Tradução em curso
 
 <a name="prompt-2098403961325695379"></a>
 
-### Tradução em curso
+### O prompt descreve a chama a percorrer lentamente um fósforo, enegrecendo e enrolando a madeira.
 
 Autor：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Publicação original](https://x.com/GlennHasABeard/status/2098403961325695379)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** O prompt descreve a chama a percorrer lentamente um fósforo, enegrecendo e enrolando a madeira.
 
 <img src="covers/2098403961325695379.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+a chama desce lentamente pelo pauzinho, com a madeira a enegrecer e a encaracolar atrás dela
 ```
 
 [↑ Voltar às categorias](#catalog)

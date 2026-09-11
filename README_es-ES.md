@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**56** Prompts · Última incorporación: **2026-09-11**
+**57** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2098432693222715716"></a>
+
+### Traducción en curso
+
+Autor：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Publicación original](https://x.com/KICHOCHEZI/status/2098432693222715716)
+
+Cine / Fotograma de película · Render 3D · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098432693222715716.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098411323562324348"></a>
 
@@ -1690,20 +1712,20 @@ Traducción en curso
 
 <a name="prompt-2098403961325695379"></a>
 
-### Traducción en curso
+### El aviso describe la llama desplazándose lentamente por una cerilla, ennegreciendo y curvando la madera.
 
 Autor：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Publicación original](https://x.com/GlennHasABeard/status/2098403961325695379)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** El aviso describe la llama desplazándose lentamente por una cerilla, ennegreciendo y curvando la madera.
 
 <img src="covers/2098403961325695379.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+la llama desciende lentamente por la cerilla, la madera ennegreciéndose y curvándose tras ella
 ```
 
 [↑ Volver a categorías](#catalog)

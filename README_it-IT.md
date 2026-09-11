@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**56** Prompt · Ultima aggiunta: **2026-09-11**
+**57** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2098432693222715716"></a>
+
+### Traduzione in corso
+
+Autore：[@KICHOCHEZI](https://x.com/KICHOCHEZI) · [Post originale](https://x.com/KICHOCHEZI/status/2098432693222715716)
+
+Fermo immagine cinematografico / Still fotografico · Rendering 3D · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098432693222715716.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098411323562324348"></a>
 
@@ -1566,20 +1588,20 @@ Traduzione in corso
 
 <a name="prompt-2098403961325695379"></a>
 
-### Traduzione in corso
+### Il prompt descrive una fiamma che scende lentamente lungo un fiammifero, annerendo e incurvando il legno.
 
 Autore：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Post originale](https://x.com/GlennHasABeard/status/2098403961325695379)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Il prompt descrive una fiamma che scende lentamente lungo un fiammifero, annerendo e incurvando il legno.
 
 <img src="covers/2098403961325695379.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+la fiamma scende lentamente lungo il bastoncino, mentre il legno dietro di essa si annerisce e si arriccia
 ```
 
 [↑ Torna alle categorie](#catalog)
