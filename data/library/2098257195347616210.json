@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T06:06:02.156Z",
+  "model": "seedance2.5",
+  "prompt": "为参考图创建一个快速切换的电影化镜头角度展示\n\n总镜头数量：20\n\n在整个视频中保持角色、环境、服装、光线、动作和整体场景完全一致。不要更改位置或引入新元素。\n\n使用 20 个明显不同的镜头设置，包括：\n\n极宽镜头、宽景建立镜头、中宽镜头、中景、中近景、近景、极近景、低角度、极低角度、高角度、头顶镜头、自上而下镜头、地面高度镜头、眼平镜头、荷兰式倾斜角度、侧面镜头、三四分之三角度、正面对镜头、后方角度、肩后镜头、反向肩后镜头、侧面角度、前景框式镜头、长焦镜头、广角近景、对称构图、非中心构图、跟踪角度、环绕角度，以及戏剧性透视角度。\n\n重要提示：\n\n- 每两个镜头之间使用硬切。\n\n- 任何镜头角度不得持续超过 1 秒。\n\n- 不要重复任何镜头角度或构图。\n\n- 不要在角度之间创建长时间连续的镜头运动。\n\n- 动作应在所有切镜头中保持连续。\n\n- 仅改变相机位置、镜头角度、镜头和取景。\n\n- 主体和场景必须在视觉上保持一致。",
+  "promptTranslations": {
+    "en": "Create a fast-cutting cinematic camera angle showcase for the reference image\n\nTotal number of shots: 20\n\nKeep the character, environment, clothing, lighting, action, and overall scene completely consistent throughout the entire video. Do not change locations or introduce new elements.\n\nUse 20 distinctly different shot setups, including:\n\nextreme wide shot, wide establishing shot, medium wide shot, medium shot, medium close-up, close-up, extreme close-up, low angle, extreme low angle, high angle, overhead shot, top-down shot, ground-level shot, eye-level shot, Dutch tilt angle, profile shot, three-quarter angle, straight-on front shot, rear angle, over-the-shoulder shot, reverse over-the-shoulder shot, side angle, foreground framed shot, telephoto lens shot, wide-angle close-up, symmetrical framing, off-center framing, tracking angle, orbit angle, and dramatic perspective angle.\n\nImportant notes:\n\n- Use hard cuts between every two shots.\n\n- No camera angle should last longer than 1 second.\n\n- Do not repeat any camera angle or framing.\n\n- Do not create long continuous camera movements between angles.\n\n- Action should remain continuous across all cuts.\n\n- Only change camera position, camera angle, lens, and framing.\n\n- The subject and scene must remain visually consistent."
+  },
+  "summaryTranslations": {
+    "en": "Generate cinematic shot-switching instructions featuring 20 different camera setups, rapid hard cuts, and consistent subjects based on a reference image."
+  },
+  "translationVersion": 2,
+  "summary": "基于参考图生成20个不同机位、快速硬切且保持主体一致的电影级镜头切换指令。",
+  "summaryEn": "A prompt for generating 20 varied, fast-cut cinematic camera angles from a reference image while preserving subject consistency.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097866934725583101",
+      "canonicalUrl": "https://x.com/Framer_X/status/2097866934725583101",
+      "author": {
+        "username": "Framer_X",
+        "displayName": "Framer 🇱🇹",
+        "profileUrl": "https://x.com/Framer_X"
+      },
+      "originalText": "Such an interesting Seedance 2.5 trick.\n\nYou can generate up to 20 different camera angles just from one image.\n\nPrompt below 👇 https://t.co/Cj8WdCTkIy"
+    },
+    "id": "2098257195347616210",
+    "canonicalUrl": "https://x.com/0xkyne/status/2098257195347616210",
+    "author": {
+      "username": "0xkyne",
+      "displayName": "月无关 | 0xKyne",
+      "profileUrl": "https://x.com/0xkyne"
+    },
+    "publishedAt": "2026-09-11T03:47:53.000Z",
+    "collectedAt": "2026-09-11T06:03:47.121Z",
+    "language": "zh",
+    "originalText": "救命，这个质感一动起来，直接变时尚大片了！\n\n从木下哥 @underwoodxie96 时间线刷到的\n感谢原博主分享的宝藏视频提示词\n\n使用 Seedance 2.5 生成\n\n- 提示词如下 -\n为参考图创建一个快速切换的电影化镜头角度展示\n\n总镜头数量：20\n\n在整个视频中保持角色、环境、服装、光线、动作和整体场景完全一致。不要更改位置或引入新元素。\n\n使用 20 个明显不同的镜头设置，包括：\n\n极宽镜头、宽景建立镜头、中宽镜头、中景、中近景、近景、极近景、低角度、极低角度、高角度、头顶镜头、自上而下镜头、地面高度镜头、眼平镜头、荷兰式倾斜角度、侧面镜头、三四分之三角度、正面对镜头、后方角度、肩后镜头、反向肩后镜头、侧面角度、前景框式镜头、长焦镜头、广角近景、对称构图、非中心构图、跟踪角度、环绕角度，以及戏剧性透视角度。\n\n重要提示：\n\n- 每两个镜头之间使用硬切。\n\n- 任何镜头角度不得持续超过 1 秒。\n\n- 不要重复任何镜头角度或构图。\n\n- 不要在角度之间创建长时间连续的镜头运动。\n\n- 动作应在所有切镜头中保持连续。\n\n- 仅改变相机位置、镜头角度、镜头和取景。\n\n- 主体和场景必须在视觉上保持一致。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/0xkyne/status/2098257195347616210",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098254366914519040/img/1yJtaFaYxX0uKZQi.jpg",
+        "analysisUrl": "https://x.com/0xkyne/status/2098257195347616210"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/0xkyne/status/2098257195347616210",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097866902576193537/img/y38eWqbUN5gJKEsd.jpg",
+        "analysisUrl": "https://x.com/0xkyne/status/2098257195347616210",
+        "sourcePostId": "2097866934725583101"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 1041
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/0xkyne/status/2098257195347616210",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098254366914519040/img/1yJtaFaYxX0uKZQi.jpg",
+  "coverPath": "covers/2098257195347616210.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098254366914519040",
+    "x-video:2097866902576193537",
+    "x-post:2098257195347616210",
+    "x-post:2097866934725583101"
+  ],
+  "analysis": {
+    "summary": "基于参考图生成20个不同机位、快速硬切且保持主体一致的电影级镜头切换指令。",
+    "summaryEn": "A prompt for generating 20 varied, fast-cut cinematic camera angles from a reference image while preserving subject consistency.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频呈现了多个不同角度与景别的快速硬切展示，同时主体角色与场景完全保持一致，完全吻合提示词结构。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "为参考图创建一个快速切换的电影化镜头角度展示\n\n总镜头数量：20\n\n在整个视频中保持角色、环境、服装、光线、动作和整体场景完全一致。不要更改位置或引入新元素。\n\n使用 20 个明显不同的镜头设置，包括：\n\n极宽镜头、宽景建立镜头、中宽镜头、中景、中近景、近景、极近景、低角度、极低角度、高角度、头顶镜头、自上而下镜头、地面高度镜头、眼平镜头、荷兰式倾斜角度、侧面镜头、三四分之三角度、正面对镜头、后方角度、肩后镜头、反向肩后镜头、侧面角度、前景框式镜头、长焦镜头、广角近景、对称构图、非中心构图、跟踪角度、环绕角度，以及戏剧性透视角度。\n\n重要提示：\n\n- 每两个镜头之间使用硬切。\n\n- 任何镜头角度不得持续超过 1 秒。\n\n- 不要重复任何镜头角度或构图。\n\n- 不要在角度之间创建长时间连续的镜头运动。\n\n- 动作应在所有切镜头中保持连续。\n\n- 仅改变相机位置、镜头角度、镜头和取景。\n\n- 主体和场景必须在视觉上保持一致。",
+    "sourceRange": {
+      "start": 98,
+      "end": 514
+    },
+    "translations": {
+      "zh": "为参考图创建一个快速切换的电影化镜头角度展示\n\n总镜头数量：20\n\n在整个视频中保持角色、环境、服装、光线、动作和整体场景完全一致。不要更改位置或引入新元素。\n\n使用 20 个明显不同的镜头设置，包括：\n\n极宽镜头、宽景建立镜头、中宽镜头、中景、中近景、近景、极近景、低角度、极低角度、高角度、头顶镜头、自上而下镜头、地面高度镜头、眼平镜头、荷兰式倾斜角度、侧面镜头、三四分之三角度、正面对镜头、后方角度、肩后镜头、反向肩后镜头、侧面角度、前景框式镜头、长焦镜头、广角近景、对称构图、非中心构图、跟踪角度、环绕角度，以及戏剧性透视角度。\n\n重要提示：\n\n- 每两个镜头之间使用硬切。\n\n- 任何镜头角度不得持续超过 1 秒。\n\n- 不要重复任何镜头角度或构图。\n\n- 不要在角度之间创建长时间连续的镜头运动。\n\n- 动作应在所有切镜头中保持连续。\n\n- 仅改变相机位置、镜头角度、镜头和取景。\n\n- 主体和场景必须在视觉上保持一致。",
+      "en": "Create a fast-cutting cinematic camera angle showcase for the reference image. Total shots: 20. Maintain complete consistency in character, environment, clothing, lighting, action, and overall scene. Do not change locations or add new elements. Use 20 distinctly different shot setups, including extreme wide shot, establishing shot, medium wide, medium, close-up, extreme close-up, low angle, high angle, top-down, eye level, Dutch angle, side shot, over-the-shoulder, etc. Important: Use hard cuts between shots, duration under 1 second per shot, keep action continuous, only alter camera position, angles, and framing."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "image-to-video",
+    "useCase": "多机位运镜镜头切换生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
