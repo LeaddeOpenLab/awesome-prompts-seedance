@@ -329,20 +329,20 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2098461817555374451"></a>
 
-### Đang dịch
+### Quy trình chỉ dẫn toàn diện tạo cảnh rượt đuổi xe phong cách GTA, hướng dẫn làm mô hình xám và diễn hoạt trong Blender rồi tạo video hoàn thiện bằng PixVerse.
 
 Tác giả：[@Aria\_Nawi](https://x.com/Aria_Nawi) · [Bài gốc](https://x.com/Aria_Nawi/status/2098461817555374451)
 
 Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Quy trình chỉ dẫn toàn diện tạo cảnh rượt đuổi xe phong cách GTA, hướng dẫn làm mô hình xám và diễn hoạt trong Blender rồi tạo video hoàn thiện bằng PixVerse.
 
 <img src="covers/2098461817555374451.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một cảnh rượt đuổi bằng ô tô hoạt hình lấy cảm hứng từ GTA theo quy trình làm việc sau: Thiết kế: Xác định một tài xế chính, một xe tẩu thoát, một xe truy đuổi và một môi trường đô thị. Giữ thiết kế của chúng nhất quán. Lên kế hoạch cho ba cảnh quay 4 giây: bám đuôi theo dõi từ phía sau, theo dõi từ bên hông qua một khúc cua gấp, và cảnh quay toàn cảnh khi xe rời đi. Xây dựng trong Blender: Tạo các mô hình màu xám (gray model) gọn gàng và hệ thống khung xương (rig) hoạt động tốt cho nhân vật và phương tiện. Không yêu cầu chất liệu hay trải UV. Làm diễn hoạt và kiểm thử: Diễn hoạt tài xế, vô lăng, chuyển động quay của bánh xe, phương tiện và máy quay. Duy trì hướng di chuyển và thứ tự phương tiện nhất quán. Sửa lỗi xuyên thấu, bánh xe lơ lửng, lốp trượt, tư thế hỏng và tay rời khỏi vô lăng. Render trong Blender: Render các khung hình từ 1–288 ở độ phân giải 1280×720, 24 fps. Ghép các khung hình thực tế đã render từ Blender thành một bản master mô hình xám hoàn chỉnh dài 12 giây. Xuất riêng từng cảnh quay và render các ảnh tĩnh mô hình xám tương ứng để làm tài liệu tham khảo hình khối và bố cục. Hoàn thiện bằng PixVerse Plugin: Sử dụng Seedance 2.5 ở độ phân giải 720p, xử lý riêng từng cảnh quay. Sử dụng các clip Blender làm tài liệu tham khảo chuyển động và ảnh tĩnh xám làm tài liệu tham khảo hình dáng. Xác định bảng màu hoạt hình nhất quán trong câu lệnh tạo. Giữ nguyên chuyển động máy quay, thời gian hành động, thiết kế nhân vật và phương tiện, cũng như số lượng xe. Kiểm tra và bàn giao: Kiểm tra cả hai video hoàn chỉnh để tìm các lỗi thị giác và tính liền mạch. Khắc phục các vấn đề trong Blender và chỉ tạo lại các cảnh Seedance bị lỗi, thử lại tối đa hai lần cho mỗi cảnh. Bàn giao file .blend có thể chỉnh sửa, video mô hình xám Blender gốc 720p, phiên bản Seedance 720p có dán nhãn riêng, và một bản đánh giá ngắn gọn về các hạn chế còn tồn đọng.
 ```
 
 [↑ Về danh mục](#catalog)

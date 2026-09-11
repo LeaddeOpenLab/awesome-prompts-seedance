@@ -313,20 +313,20 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2098461817555374451"></a>
 
-### Çeviri sürüyor
+### Blender'da gri model ve animasyon yapımını yönlendiren ve PixVerse ile nihai videoyu üreten GTA tarzı araba takibi tüm süreç talimatı.
 
 Yazar：[@Aria\_Nawi](https://x.com/Aria_Nawi) · [Orijinal gönderi](https://x.com/Aria_Nawi/status/2098461817555374451)
 
 Sinematik / Film Karesi · 3D Modelleme · Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Blender'da gri model ve animasyon yapımını yönlendiren ve PixVerse ile nihai videoyu üreten GTA tarzı araba takibi tüm süreç talimatı.
 
 <img src="covers/2098461817555374451.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Şu iş akışını kullanarak GTA'dan ilham alan özgün bir çizgi film araba takibi sahnesi oluşturun: Tasarım: Bir ana sürücü, bir kaçış arabası, bir takip eden araba ve bir kentsel ortam belirleyin. Tasarımlarını tutarlı tutun. 4 saniyelik üç çekim planlayın: arkadan takip eden kovalamaca, keskin bir viraj boyunca yandan takip ve geniş bir çıkış çekimi. Blender'da İnşa: Temiz gri modeller ile işlevsel karakter ve araç donantıları (rig) oluşturun. Doku veya UV açma gerekli değildir. Canlandırma ve Test: Sürücüyü, direksiyonu, tekerlek dönüşünü, araçları ve kameraları canlandırın. Tutarlı bir gidiş yönü ve araç sıralaması sağlayın. İçe geçmeleri (clipping), havada duran tekerlekleri, kayan lastikleri, bozuk pozları ve direksiyonla teması kesilen elleri düzeltin. Blender'da Render: 1–288 arasındaki kareleri 1280×720 çözünürlükte, 24 fps hızında render edin. Blender'da render edilen gerçek kareleri 12 saniyelik eksiksiz bir gri model master videoda birleştirin. Her çekimi ayrı ayrı dışa aktarın ve şekil ile kompozisyon referansı olarak eşleşen gri hareketsiz kareleri render edin. PixVerse Eklentisi ile Tamamlama: Her çekimi ayrı ayrı işleyerek 720p çözünürlükte Seedance 2.5 kullanın. Blender kliplerini hareket referansı, gri hareketsiz kareleri ise şekil referansı olarak kullanın. Üretim isteminde tutarlı bir çizgi film renk paleti tanımlayın. Kamera hareketini, aksiyon zamanlamasını, karakter ve araç tasarımlarını ve araç sayısını koruyun. İnceleme ve Teslimat: Her iki tamamlanmış videoyu görsel kusurlar ve devamlılık açısından inceleyin. Blender'daki sorunları düzeltin ve çekim başına en fazla iki yeniden deneme hakkıyla yalnızca başarısız olan Seedance çekimlerini yeniden üretin. Düzenlenebilir .blend dosyasını, yerel 720p Blender gri model videosunu, ayrı olarak etiketlenmiş 720p Seedance sürümünü ve kalan sınırlılıkların kısa bir değerlendirmesini teslim edin.
 ```
 
 [↑ Kategorilere dön](#catalog)

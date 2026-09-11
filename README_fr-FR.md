@@ -327,20 +327,20 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2098461817555374451"></a>
 
-### Traduction en cours
+### Instructions complètes pour une course-poursuite façon GTA, guidant la création du modèle gris et de l'animation dans Blender puis la génération de la vidéo finale via PixVerse.
 
 Auteur：[@Aria\_Nawi](https://x.com/Aria_Nawi) · [Publication originale](https://x.com/Aria_Nawi/status/2098461817555374451)
 
 Image cinématographique / Photogramme de film · Rendu 3D · Véhicule · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Instructions complètes pour une course-poursuite façon GTA, guidant la création du modèle gris et de l'animation dans Blender puis la génération de la vidéo finale via PixVerse.
 
 <img src="covers/2098461817555374451.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une course-poursuite en voiture originale de style cartoon inspirée de GTA en utilisant ce flux de travail : Conception : Définissez un conducteur principal, une voiture de fuite, une voiture de poursuite et un environnement urbain. Conservez la cohérence de leurs designs. Planifiez trois plans de 4 secondes : poursuite en caméra suiveuse arrière, suivi latéral dans un virage serré et un plan large de sortie. Modélisation dans Blender : Créez des modèles gris propres ainsi que des rigs de personnages et de véhicules fonctionnels. Aucune texture ni dépliage UV n'est requis. Animation et tests : Animez le conducteur, la direction, la rotation des roues, les véhicules et les caméras. Maintenez une direction de déplacement et un ordre des véhicules cohérents. Corrigez les collisions de maillage (clipping), les roues flottantes, les pneus qui glissent, les poses brisées et les mains perdant le contact avec le volant. Rendu dans Blender : Rendez les images 1 à 288 en 1280×720 à 24 ips. Assemblez les images réelles rendues dans Blender en un master complet de modèle gris de 12 secondes. Exportez chaque plan séparément et effectuez le rendu d'images fixes grises correspondantes servant de références de forme et de composition. Finition avec le plugin PixVerse : Utilisez Seedance 2.5 en 720p, en traitant chaque plan séparément. Utilisez les clips Blender comme références de mouvement et les images fixes grises comme références de forme. Définissez une palette de couleurs cartoon cohérente dans le prompt de génération. Préservez les mouvements de caméra, le timing de l'action, les designs des personnages et des véhicules, ainsi que le nombre de véhicules. Révision et livraison : Inspectez les deux vidéos complètes pour détecter les défauts visuels et les problèmes de continuité. Réparez les soucis dans Blender et régénérez uniquement les plans Seedance échoués, avec un maximum de deux tentatives par plan. Livrez le fichier .blend modifiable, la vidéo native du modèle gris Blender en 720p, la version Seedance en 720p étiquetée séparément, ainsi qu'une brève évaluation des limites restantes.
 ```
 
 [↑ Retour aux catégories](#catalog)

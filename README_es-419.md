@@ -327,20 +327,20 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2098461817555374451"></a>
 
-### Traducción en curso
+### Flujo de trabajo completo para una persecución de autos al estilo GTA, que guía la creación de modelos grises y animación en Blender y genera el video final con PixVerse.
 
 Autor：[@Aria\_Nawi](https://x.com/Aria_Nawi) · [Publicación original](https://x.com/Aria_Nawi/status/2098461817555374451)
 
 Cine / Fotograma · Renderizado 3D · Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Flujo de trabajo completo para una persecución de autos al estilo GTA, que guía la creación de modelos grises y animación en Blender y genera el video final con PixVerse.
 
 <img src="covers/2098461817555374451.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una persecución de autos original en estilo de caricatura inspirada en GTA utilizando este flujo de trabajo: Diseño: Define un conductor principal, un auto de escape, un auto perseguidor y un entorno urbano. Mantén la coherencia en sus diseños. Planifica tres tomas de 4 segundos: persecución con seguimiento trasero, seguimiento lateral a través de un giro brusco y una toma amplia de salida. Construcción en Blender: Crea modelos grises limpios y rigs funcionales para personajes y vehículos. No se requieren texturas ni desenvoltura de UV. Animación y pruebas: Anima al conductor, la dirección, la rotación de las ruedas, los vehículos y las cámaras. Mantén una dirección de desplazamiento y un orden de vehículos coherentes. Corrige superposiciones (clipping), ruedas flotantes, neumáticos que se deslizan, poses rotas y manos que pierden contacto con el volante. Renderizado en Blender: Renderiza los fotogramas del 1 al 288 a 1280×720, a 24 fps. Ensambla los fotogramas reales renderizados en Blender en un máster completo de modelo gris de 12 segundos. Exporta cada toma por separado y renderiza imágenes fijas grises coincidentes como referencias de forma y composición. Acabado con PixVerse Plugin: Utiliza Seedance 2.5 a 720p, procesando cada toma por separado. Usa los clips de Blender como referencias de movimiento y las imágenes fijas grises como referencias de forma. Define una paleta de colores de caricatura consistente en el prompt de generación. Conserva el movimiento de cámara, los tiempos de acción, los diseños de personajes y vehículos, y la cantidad de vehículos. Revisión y entrega: Inspecciona ambos videos completos en busca de defectos visuales y continuidad. Repara los problemas de Blender y regenera solo las tomas fallidas de Seedance, con un máximo de dos reintentos por toma. Entrega el archivo .blend editable, el video nativo de modelo gris de Blender a 720p, la versión de Seedance a 720p etiquetada por separado y una breve evaluación de las limitaciones restantes.
 ```
 
 [↑ Volver a categorías](#catalog)

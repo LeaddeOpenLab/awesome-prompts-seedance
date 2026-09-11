@@ -327,20 +327,20 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2098461817555374451"></a>
 
-### Übersetzung läuft
+### Vollständige Workflow-Anweisung für eine Verfolgungsjagd im GTA-Stil, die die Erstellung von Graumodellen und Animationen in Blender sowie die Generierung des finalen Videos über PixVerse anleitet.
 
 Autor：[@Aria\_Nawi](https://x.com/Aria_Nawi) · [Originalbeitrag](https://x.com/Aria_Nawi/status/2098461817555374451)
 
 Kinematisch / Filmstill · 3D-Rendering · Fahrzeug · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Vollständige Workflow-Anweisung für eine Verfolgungsjagd im GTA-Stil, die die Erstellung von Graumodellen und Animationen in Blender sowie die Generierung des finalen Videos über PixVerse anleitet.
 
 <img src="covers/2098461817555374451.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine originelle, von GTA inspirierte Cartoon-Verfolgungsjagd mit folgendem Arbeitsablauf: Design: Definiere einen Hauptfahrer, ein Fluchtfahrzeug, ein Verfolgerfahrzeug und eine urbane Umgebung. Halte deren Designs konsistent. Plane drei 4-Sekunden-Shots: Verfolgung mit Verfolgungskamera von hinten, Verfolgung von der Seite durch eine scharfe Kurve und eine weite Ausfahrtsaufnahme. In Blender bauen: Erstelle saubere graue Modelle sowie funktionale Charakter- und Fahrzeug-Rigs. Texturen oder UV-Unwrapping sind nicht erforderlich. Animieren und testen: Animiere den Fahrer, die Lenkung, die Raddrehung, die Fahrzeuge und die Kameras. Behalte eine kohärente Fahrtrichtung und Fahrzeugreihenfolge bei. Behebe Clipping, schwebende Räder, rutschende Reifen, fehlerhafte Posen und Hände, die den Kontakt zum Lenkrad verlieren. In Blender rendern: Rendere die Frames 1–288 in 1280×720 bei 24 fps. Setze die tatsächlich in Blender gerenderten Frames zu einem vollständigen 12-Sekunden-Graumodell-Master zusammen. Exportiere jeden Shot separat und rendere passende graue Standbilder als Form- und Kompositionsreferenzen. Fertigstellung mit dem PixVerse Plugin: Verwende Seedance 2.5 in 720p und verarbeite jeden Shot separat. Nutze die Blender-Clips als Bewegungsreferenzen und die grauen Standbilder als Formreferenzen. Definiere im Generierungs-Prompt eine konsistente Cartoon-Farbpalette. Behalte Kamerabewegung, Action-Timing, Charakter- und Fahrzeugdesigns sowie die Fahrzeuganzahl bei. Überprüfung und Übergabe: Überprüfe beide vollständigen Videos auf visuelle Mängel und Kontinuität. Behebe Blender-Probleme und generiere nur fehlgeschlagene Seedance-Shots neu, mit maximal zwei Wiederholungen pro Shot. Liefere die bearbeitbare .blend-Datei, das native 720p-Blender-Graumodell-Video, die separat beschriftete 720p-Seedance-Version und eine kurze Einschätzung der verbleibenden Einschränkungen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

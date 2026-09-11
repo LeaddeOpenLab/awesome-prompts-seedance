@@ -313,20 +313,20 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2098461817555374451"></a>
 
-### Tradução em curso
+### Instruções completas do processo de perseguição de carros ao estilo GTA, orientando a produção de modelos cinzentos e animação no Blender e a geração do vídeo final pelo PixVerse.
 
 Autor：[@Aria\_Nawi](https://x.com/Aria_Nawi) · [Publicação original](https://x.com/Aria_Nawi/status/2098461817555374451)
 
 Cena de Cinema / Fotograma · Renderização 3D · Veículo · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Instruções completas do processo de perseguição de carros ao estilo GTA, orientando a produção de modelos cinzentos e animação no Blender e a geração do vídeo final pelo PixVerse.
 
 <img src="covers/2098461817555374451.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma perseguição de carros original em estilo cartoon inspirada em GTA através deste fluxo de trabalho: Design: Defina um condutor principal, um carro de fuga, um carro perseguidor e um ambiente urbano. Mantenha a coerência nos seus designs. Planeie três planos de 4 segundos: perseguição com tracking traseiro, tracking lateral numa curva apertada e um plano geral de saída. Construção no Blender: Crie modelos cinzentos limpos e rigs funcionais para personagens e veículos. Não são necessárias texturas nem mapeamento UV. Animação e testes: Anime o condutor, a direção, a rotação das rodas, os veículos e as câmaras. Mantenha uma direção de deslocamento e uma ordem de veículos coerentes. Corrija sobreposições (clipping), rodas a flutuar, pneus a deslizar, poses incorretas e mãos que perdem o contacto com o volante. Renderização no Blender: Renderize os fotogramas 1–288 a 1280×720, a 24 fps. Monte os fotogramas efetivamente renderizados no Blender num master completo de modelo cinzento de 12 segundos. Exporte cada plano separadamente e renderize imagens fixas cinzentas correspondentes como referências de forma e composição. Finalização com o PixVerse Plugin: Utilize o Seedance 2.5 a 720p, processando cada plano separadamente. Use os clips do Blender como referências de movimento e as imagens fixas cinzentas como referências de forma. Defina uma paleta de cores cartoon consistente no prompt de geração. Conserve o movimento de câmara, o timing da ação, os designs de personagens e veículos e a quantidade de veículos. Revisão e entrega: Inspecione ambos os vídeos completos em busca de anomalias visuais e continuidade. Repare os problemas no Blender e volte a gerar apenas os planos falhados do Seedance, com um máximo de duas tentativas por plano. Entregue o ficheiro .blend editável, o vídeo nativo a 720p do modelo cinzento do Blender, a versão do Seedance a 720p etiquetada separadamente e uma breve avaliação das limitações residuais.
 ```
 
 [↑ Voltar às categorias](#catalog)

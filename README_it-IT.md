@@ -327,20 +327,20 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2098461817555374451"></a>
 
-### Traduzione in corso
+### Istruzioni per l'intero processo di inseguimento d'auto in stile GTA: guida alla creazione di modelli grigi e animazioni in Blender e generazione del video finale con PixVerse.
 
 Autore：[@Aria\_Nawi](https://x.com/Aria_Nawi) · [Post originale](https://x.com/Aria_Nawi/status/2098461817555374451)
 
 Fermo immagine cinematografico / Still fotografico · Rendering 3D · Veicolo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Istruzioni per l'intero processo di inseguimento d'auto in stile GTA: guida alla creazione di modelli grigi e animazioni in Blender e generazione del video finale con PixVerse.
 
 <img src="covers/2098461817555374451.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un inseguimento d'auto originale in stile cartoon ispirato a GTA utilizzando questo flusso di lavoro: Design: Definisci un guidatore principale, un'auto per la fuga, un'auto inseguitrice e un ambiente urbano. Mantieni coerenti i loro design. Pianifica tre inquadrature da 4 secondi: inseguimento con tracking posteriore, tracking laterale attraverso una curva a gomito e un'inquadratura ampia di uscita. Costruzione in Blender: Crea modelli grigi puliti e rig funzionali per personaggi e veicoli. Non sono richieste texture né mappatura UV. Animazione e test: Anima il guidatore, lo sterzo, la rotazione delle ruote, i veicoli e le telecamere. Mantieni una direzione di marcia e un ordine dei veicoli coerenti. Correggi le compenetrazioni (clipping), le ruote fluttuanti, i pneumatici che slittano, le pose errate e le mani che perdono il contatto con il volante. Rendering in Blender: Esegui il render dei frame da 1 a 288 a 1280×720, 24 fps. Assembla i fotogrammi effettivamente renderizzati in Blender in un master completo a modello grigio di 12 secondi. Esporta ogni inquadratura separatamente ed esegui il rendering di fermi immagine grigi corrispondenti come riferimenti di forma e composizione. Rifinitura con PixVerse Plugin: Usa Seedance 2.5 a 720p, elaborando ogni inquadratura separatamente. Usa i filmati di Blender come riferimenti di movimento e i fermi immagine grigi come riferimenti di forma. Definisci una palette cromatica cartoon coerente nel prompt di generazione. Preserva i movimenti di camera, il timing dell'azione, i design di personaggi e veicoli e il conteggio dei veicoli. Revisione e consegna: Ispeziona entrambi i video completi alla ricerca di difetti visivi e problemi di continuità. Risolvi i problemi di Blender e rigenera solo le inquadrature di Seedance non riuscite, con un massimo di due tentativi per inquadratura. Consegna il file .blend modificabile, il video nativo a 720p del modello grigio di Blender, la versione Seedance a 720p etichettata separatamente e una breve valutazione dei limiti residui.
 ```
 
 [↑ Torna alle categorie](#catalog)
