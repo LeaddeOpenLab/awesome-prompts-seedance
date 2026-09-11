@@ -313,20 +313,74 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2098330707374514573"></a>
 
-### Çeviri sürüyor
+### Gece vakti neon ışıklı bir şehir caddesinde üç şarkıcının yer aldığı ayrıntılı çok çekimli sinematik müzik videosu istemi.
 
 Yazar：[@meAsifAi](https://x.com/meAsifAi) · [Orijinal gönderi](https://x.com/meAsifAi/status/2098330707374514573)
 
 Sinematik / Film Karesi · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gece vakti neon ışıklı bir şehir caddesinde üç şarkıcının yer aldığı ayrıntılı çok çekimli sinematik müzik videosu istemi.
 
 <img src="covers/2098330707374514573.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gece vakti neon ışıklı bir şehirde duygusal ve modern bir şarkı seslendiren üç genç yetişkin şarkıcının yer aldığı 30 saniyelik ultra gerçekçi sinematik bir müzik videosu oluşturun. Video; gerçekçi insanlar, kusursuz dudak senkronizasyonu, etkileyici performanslar, atmosferik aydınlatma ve sofistike sinematografi ile yüksek bütçeli profesyonel bir müzik videosu gibi görünmelidir.
+
+KARAKTERLER
+
+Karakter 1 — Baş Kadın Vokal:
+Genç yetişkin kadın, 20'li yaşların başı, uzun siyah saçlar, etkileyici gözler, zarif siyah-gümüş kıyafet, kendinden emin ama duygusal bir kişilik.
+
+Karakter 2 — Baş Erkek Vokal:
+Genç yetişkin erkek, 20'li yaşların başı, koyu renkli dokulu saçlar, şık siyah ceket ve beyaz gömlek, karizmatik ve duygusal açıdan dışavurumcu.
+
+Karakter 3 — Kadın Vokalist:
+Genç yetişkin kadın, 20'li yaşların başı, omuz hizasında koyu renkli saçlar, modaya uygun koyu kırmızı kıyafet, enerjik ama doğal sahne duruşu.
+
+Video boyunca yüzlerini, kıyafetlerini, saç stillerini, vücut oranlarını ve kimliklerini mükemmel bir şekilde tutarlı tutun.
+
+ÇEVRE
+
+Hafif bir yağmurun ardından gece vakti fütüristik bir şehir merkezi caddesi. Renkli neon tabelaları yansıtan ıslak kaldırım, parlayan vitrinler, hafif sis, uzaktaki trafik, sinematik bokeh, atmosferik şehir ışıkları ve gerçekçi yansımalar.
+
+PLAN PLAN ÇEKİM LİSTESİ
+
+0–4 sn — Açılış
+Karakter 1'in gözlerinin aşırı yakın planı (extreme close-up). Gözlerinde neon yansımaları açıkça görülür. Şarkı söylemeye başladıkça kamera yavaşça geriye doğru çekilir. Arka planda yağmur damlaları parıldar.
+
+4–8 sn — Baş Vokal Performansı
+Karakter 1, doğrudan kameraya doğru şarkı söylerken ıslak caddede yavaşça yürür. Geriye doğru akıcı kaydırma çekimi (tracking shot). Saçları gece rüzgarında doğal bir şekilde dalgalanır.
+
+8–12 sn — Erkek Kısmı
+Neon ışıklı bir binaya yaslanmış Karakter 2'ye geçiş. Kendi bölümünü söylemeye başlar. Arkasında rengarenk şehir ışıkları bulanıklaşırken, etrafında ağır sinematik kamera dönüşü (orbit).
+
+12–16 sn — Kadın Vokalist
+Karakter 3 neon caddede yürürken belirir. Kameraya bakarak şarkı söyler. Akıcı yandan kaydırma çekimi yakın plana (close-up) dönüşür.
+
+16–22 sn — Üçlü Performans
+Üç karakter de geniş bir şehir kavşağında buluşur ve birlikte performans sergiler. Onlar şarkı söylerken kamera yavaşça etraflarında döner. Doğal etkileşim, ince jestler, inandırıcı kimya.
+
+22–27 sn — Duygusal Nakarat
+Seri ama zarif yakın plan dizilimi: Karakter 1 söylerken, Karakter 2 katılır, Karakter 3 armoni yapar. Her ağız hareketi sağlanan sesi hassas bir şekilde takip eder.
+
+27–30 sn — Kapanış Çekimi
+Üç şarkıcı ıslak caddenin ortasında birlikte durur. Kamera yavaşça yukarı doğru yükselir ve uzaklaşarak çevrelerindeki ışıl ışıl şehri gözler önüne serer. Şarkının son sözünü tam ritminde birlikte tamamlarlar. Dramatik ve sinematik bir geniş açıyla sona erer.
+
+SİNEMATOGRAFİ
+
+Üst düzey müzik videosu sinematografisi, anamorfik lens görünümü, sığ alan derinliği, gimbal ile akıcı takip, ağır çekim vurguları, sinematik yakın planlar, kontrollü kamera hareketi, gerçekçi lens parlamaları (lens flare), doğal hareket bulanıklığı (motion blur), hoş bokeh ve dinamik kompozisyon.
+
+SES VE PERFORMANS
+
+Verilen şarkıyı/sesi birebir film müziği olarak kullanın. Karakterler doğru sözleri fonem düzeyinde kusursuz dudak senkronizasyonuyla görünür şekilde söylemelidir. İfadeler, göz hareketleri ve jestler şarkının duygusu ve ritmiyle uyuşmalıdır. Konu dışı diyalog konuşması olmamalıdır.
+
+KALİTE
+
+Ultra gerçekçi, fotogerçekçi insanlar, doğal cilt dokusu, gerçekçi gözler ve dişler, fiziksel olarak doğru aydınlatma, gerçekçi ıslak yüzeyler, detaylı saç telleri, gerçekçi kumaş hareketi, HDR, sinematik kontrast, profesyonel renk düzenleme, 4K detay, birinci sınıf müzik videosu estetiği.
+
+NEGATİF: yüz bozulması/morflanması, kimlik değişiklikleri, tutarsız kıyafetler, fazladan insanlar, kopya karakterler, bozuk eller, deforme olmuş yüzler, doğal olmayan yürüyüş, robotik hareketler, hatalı dudak senkronizasyonu, rastgele konuşmalar, titreme, kare enterpolasyonu kusurları, metin, altyazı, logolar, filigranlar.
 ```
 
 [↑ Kategorilere dön](#catalog)

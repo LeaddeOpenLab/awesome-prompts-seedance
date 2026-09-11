@@ -327,20 +327,74 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2098330707374514573"></a>
 
-### Traducción en curso
+### Prompt detallado para un video musical cinematográfico con múltiples tomas que presenta a tres cantantes en una calle urbana iluminada por luces de neón por la noche.
 
 Autor：[@meAsifAi](https://x.com/meAsifAi) · [Publicación original](https://x.com/meAsifAi/status/2098330707374514573)
 
 Cine / Fotograma · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt detallado para un video musical cinematográfico con múltiples tomas que presenta a tres cantantes en una calle urbana iluminada por luces de neón por la noche.
 
 <img src="covers/2098330707374514573.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video musical cinematográfico ultrarrealista de 30 segundos protagonizado por tres cantantes adultos jóvenes que interpretan una emotiva canción moderna en una ciudad iluminada por luces de neón por la noche. El video debe verse como un video musical profesional de alto presupuesto con personas realistas, sincronización labial precisa, interpretaciones expresivas, iluminación atmosférica y cinematografía sofisticada.
+
+PERSONAJES
+
+Personaje 1 — Voz principal femenina:
+Mujer adulta joven, principios de los 20 años, cabello largo y negro, ojos expresivos, elegante atuendo en negro y plateado, personalidad segura pero emotiva.
+
+Personaje 2 — Voz principal masculina:
+Hombre adulto joven, principios de los 20 años, cabello oscuro con textura, elegante chaqueta negra y camisa blanca, carismático y emocionalmente expresivo.
+
+Personaje 3 — Vocalista femenina:
+Mujer adulta joven, principios de los 20 años, cabello oscuro hasta los hombros, atuendo moderno de color rojo intenso, presencia escénica enérgica pero natural.
+
+Mantén sus rostros, vestimenta, peinados, proporciones corporales e identidades perfectamente consistentes a lo largo de todo el video.
+
+ENTORNO
+
+Una calle céntrica y futurista de noche después de una lluvia ligera. Pavimento mojado que refleja coloridos letreros de neón, escaparates brillantes, niebla sutil, tráfico distante, bokeh cinematográfico, luces de ciudad atmosféricas y reflejos realistas.
+
+TOMA POR TOMA
+
+0–4 seg — Apertura
+Primerísimo primer plano de los ojos del Personaje 1. Reflejos de neón visibles en sus ojos. La cámara retrocede lentamente mientras comienza a cantar. Gotas de lluvia brillan en el fondo.
+
+4–8 seg — Actuación principal
+El Personaje 1 camina lentamente por la calle mojada mientras canta directamente a la cámara. Toma fluida de seguimiento hacia atrás. Su cabello se mueve naturalmente con la brisa nocturna.
+
+8–12 seg — Verso masculino
+Corte al Personaje 2 apoyado contra un edificio iluminado con neón. Comienza a cantar su sección. Órbita de cámara cinematográfica y lenta alrededor de él, con las coloridas luces de la ciudad desenfocadas detrás de él.
+
+12–16 seg — Vocalista femenina
+El Personaje 3 aparece caminando por la calle de neón. Canta mientras mira hacia la cámara. Toma fluida de seguimiento lateral que hace una transición hacia un primer plano.
+
+16–22 seg — Actuación en trío
+Los tres personajes se encuentran en una amplia intersección de la ciudad y actúan juntos. La cámara gira lentamente alrededor de ellos mientras cantan. Interacción natural, gestos sutiles, química creíble.
+
+22–27 seg — Coro emotivo
+Secuencia rápida pero elegante de primeros planos: el Personaje 1 cantando, el Personaje 2 uniéndose, el Personaje 3 armonizando. Cada movimiento de la boca sigue con precisión el audio proporcionado.
+
+27–30 seg — Toma final
+Los tres cantantes permanecen juntos en medio de la calle mojada. La cámara se eleva lentamente hacia arriba y se aleja, revelando la ciudad brillante a su alrededor. Terminan la última letra juntos exactamente en el compás. Finaliza en un dramático plano general cinematográfico.
+
+CINEMATOGRAFÍA
+
+Cinematografía de video musical de alta gama, aspecto de lente anamórfica, profundidad de campo reducida, seguimiento suave con cardán (gimbal), tomas en cámara lenta, primeros planos cinematográficos, movimiento de cámara controlado, destellos de lente realistas, desenfoque de movimiento natural, hermoso bokeh y composición dinámica.
+
+AUDIO Y ACTUACIÓN
+
+Usa la canción/audio proporcionado como la banda sonora exacta. Los personajes deben cantar visiblemente la letra correcta con una sincronización labial precisa a nivel de fonemas. Las expresiones, los movimientos oculares y los gestos deben coincidir con la emoción y el ritmo de la canción. Nada de hablar diálogos que no correspondan.
+
+CALIDAD
+
+Ultrarrealista, humanos fotorrealistas, textura de piel natural, ojos y dientes realistas, iluminación físicamente precisa, superficies mojadas realistas, mechones de cabello detallados, movimiento de tela realista, HDR, contraste cinematográfico, gradación de color profesional, detalle en 4K, estética de video musical premium.
+
+NEGATIVO: transformación facial, cambios de identidad, vestimenta inconsistente, personas adicionales, personajes duplicados, manos distorsionadas, caras deformadas, caminar antinatural, movimientos robóticos, sincronización labial incorrecta, conversaciones al azar, parpadeo, artefactos de interpolación de cuadros, texto, subtítulos, logotipos, marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

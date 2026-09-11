@@ -327,20 +327,74 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2098330707374514573"></a>
 
-### Traduzione in corso
+### Prompt dettagliato per video musicale cinematografico a scene multiple con tre cantanti in una strada cittadina illuminata dai neon di notte.
 
 Autore：[@meAsifAi](https://x.com/meAsifAi) · [Post originale](https://x.com/meAsifAi/status/2098330707374514573)
 
 Fermo immagine cinematografico / Still fotografico · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt dettagliato per video musicale cinematografico a scene multiple con tre cantanti in una strada cittadina illuminata dai neon di notte.
 
 <img src="covers/2098330707374514573.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video musicale cinematografico ultra-realistico di 30 secondi con tre giovani cantanti adulti che eseguono una canzone moderna ed emozionante in una città illuminata dai neon di notte. Il video deve sembrare un video musicale professionale ad alto budget con persone realistiche, sincronizzazione labiale precisa, performance espressive, illuminazione d'atmosfera e cinematografia sofisticata.
+
+PERSONAGGI
+
+Personaggio 1 — Voce principale femminile:
+Giovane donna adulta, poco più che ventenne, lunghi capelli neri, occhi espressivi, elegante completo nero e argento, personalità sicura ma emotiva.
+
+Personaggio 2 — Voce principale maschile:
+Giovane uomo adulto, poco più che ventenne, capelli scuri e strutturati, giacca nera alla moda e camicia bianca, carismatico ed emotivamente espressivo.
+
+Personaggio 3 — Cantante donna:
+Giovane donna adulta, poco più che ventenne, capelli scuri lunghi fino alle spalle, abito rosso scuro alla moda, presenza scenica energica ma naturale.
+
+Mantieni i loro volti, vestiti, acconciature, proporzioni corporee e identità perfettamente coerenti per tutto il video.
+
+AMBIENTE
+
+Una strada futuristica del centro di notte dopo una leggera pioggia. Asfalto bagnato che riflette le insegne al neon colorate, vetrine luminose, nebbia sottile, traffico in lontananza, bokeh cinematografico, luci urbane suggestive e riflessi realistici.
+
+SCENA PER SCENA
+
+0–4 sec — Apertura
+Primissimo piano degli occhi del Personaggio 1. Riflessi al neon visibili nei suoi occhi. La telecamera si allontana lentamente mentre inizia a cantare. Gocce di pioggia scintillano sullo sfondo.
+
+4–8 sec — Performance principale
+Il Personaggio 1 cammina lentamente lungo la strada bagnata cantando direttamente verso la telecamera. Fluida carrellata indietro. I suoi capelli si muovono naturalmente nella brezza notturna.
+
+8–12 sec — Strofa maschile
+Stacco sul Personaggio 2 appoggiato a un edificio illuminato dai neon. Inizia a cantare la sua parte. Lenta orbita cinematografica della telecamera intorno a lui, con le colorate luci della città sfocate alle sue spalle.
+
+12–16 sec — Cantante donna
+Il Personaggio 3 appare camminando lungo la strada al neon. Canta guardando verso la telecamera. Una fluida carrellata laterale passa a un primo piano.
+
+16–22 sec — Performance del trio
+Tutti e tre i personaggi si incontrano in un ampio incrocio cittadino e si esibiscono insieme. La telecamera gira lentamente intorno a loro mentre cantano. Interazione naturale, gesti sottili, alchimia credibile.
+
+22–27 sec — Ritornello emozionante
+Sequenza rapida ma elegante di primi piani: il Personaggio 1 che canta, il Personaggio 2 che si unisce, il Personaggio 3 che armonizza. Ogni movimento della bocca segue con precisione l'audio fornito.
+
+27–30 sec — Scena finale
+I tre cantanti stanno insieme in mezzo alla strada bagnata. La telecamera si alza lentamente verso l'alto e si allontana, rivelando la città illuminata intorno a loro. Finiscono l'ultimo verso insieme esattamente sul ritmo. Si conclude con una drammatica inquadratura cinematografica in campo largo.
+
+CINEMATOGRAFIA
+
+Cinematografia da video musicale di fascia alta, look con lenti anamorfiche, ridotta profondità di campo, tracciamento fluido con gimbal, accenti al rallentatore, primi piani cinematografici, movimento controllato della telecamera, lens flare realistici, motion blur naturale, splendido bokeh e composizione dinamica.
+
+AUDIO E PERFORMANCE
+
+Usa la canzone/audio fornito come colonna sonora esatta. I personaggi devono visibilmente cantare il testo corretto con un lip-sync accurato a livello di fonemi. Espressioni, movimenti degli occhi e gesti devono corrispondere all'emozione e al ritmo della canzone. Nessun dialogo parlato non correlato.
+
+QUALITÀ
+
+Ultra-realistico, esseri umani fotorealistici, texture della pelle naturale, occhi e denti realistici, illuminazione fisicamente accurata, superfici bagnate realistiche, ciocche di capelli dettagliate, movimento realistico dei tessuti, HDR, contrasto cinematografico, color grading professionale, dettagli in 4K, estetica premium da video musicale.
+
+NEGATIVO: morphing dei volti, cambiamenti di identità, abbigliamento incoerente, persone extra, personaggi duplicati, mani distorte, volti deformi, camminata innaturale, movimenti robotici, lip-sync errato, chiacchiere casuali, sfarfallio, artefatti di interpolazione dei fotogrammi, testo, sottotitoli, loghi, watermark.
 ```
 
 [↑ Torna alle categorie](#catalog)

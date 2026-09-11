@@ -329,20 +329,74 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2098330707374514573"></a>
 
-### Đang dịch
+### Lời nhắc chi tiết cho video ca nhạc điện ảnh nhiều cảnh quay với sự tham gia của ba ca sĩ trên con phố rực rỡ ánh đèn neon về đêm.
 
 Tác giả：[@meAsifAi](https://x.com/meAsifAi) · [Bài gốc](https://x.com/meAsifAi/status/2098330707374514573)
 
 Điện ảnh / Ảnh tĩnh từ phim · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chi tiết cho video ca nhạc điện ảnh nhiều cảnh quay với sự tham gia của ba ca sĩ trên con phố rực rỡ ánh đèn neon về đêm.
 
 <img src="covers/2098330707374514573.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video ca nhạc điện ảnh siêu thực dài 30 giây với sự tham gia của ba ca sĩ trẻ biểu diễn một ca khúc hiện đại đầy cảm xúc tại một thành phố rực rỡ ánh đèn neon về đêm. Video phải trông giống như một video ca nhạc chuyên nghiệp kinh phí cao với hình ảnh con người chân thực, khớp khẩu hình chính xác, phần trình diễn giàu biểu cảm, ánh sáng đậm chất điện ảnh và kỹ thuật quay phim tinh tế.
+
+NHÂN VẬT
+
+Nhân vật 1 — Nữ chính:
+Phụ nữ trẻ, ngoài 20 tuổi, mái tóc đen dài, đôi mắt biểu cảm, trang phục đen pha bạc thanh lịch, tính cách tự tin nhưng giàu cảm xúc.
+
+Nhân vật 2 — Nam chính:
+Nam thanh niên, ngoài 20 tuổi, mái tóc đen tạo kiểu tự nhiên, áo khoác đen sành điệu và áo sơ mi trắng, cuốn hút và biểu cảm đầy cảm xúc.
+
+Nhân vật 3 — Nữ ca sĩ phụ:
+Phụ nữ trẻ, ngoài 20 tuổi, tóc đen dài ngang vai, trang phục màu đỏ thẫm thời thượng, phong thái sân khấu tràn đầy năng lượng nhưng tự nhiên.
+
+Giữ cho khuôn mặt, trang phục, kiểu tóc, tỷ lệ cơ thể và nhận dạng của họ hoàn toàn nhất quán trong suốt video.
+
+MÔI TRƯỜNG
+
+Một con phố trung tâm mang phong cách tương lai về đêm sau cơn mưa phùn. Mặt đường ướt phản chiếu ánh đèn neon rực rỡ sắc màu, các mặt tiền cửa hàng phát sáng, sương mù nhẹ, giao thông xa xa, hiệu ứng bokeh điện ảnh, ánh đèn thành phố đầy khí chất và các hình ảnh phản chiếu chân thực.
+
+TỪNG CẢNH QUAY
+
+0–4 giây — Mở đầu
+Cận cảnh đặc tả (extreme close-up) đôi mắt của Nhân vật 1. Ánh sáng neon phản chiếu rõ trong mắt cô. Máy quay từ từ lùi lại khi cô bắt đầu cất tiếng hát. Những hạt mưa lấp lánh ở hậu cảnh.
+
+4–8 giây — Phần biểu diễn của giọng ca chính
+Nhân vật 1 bước đi chậm rãi trên con phố ướt át trong khi hát hướng thẳng về phía máy quay. Cú máy tracking lùi mượt mà. Mái tóc cô lay động tự nhiên trong làn gió đêm.
+
+8–12 giây — Đoạn hát của nam chính
+Chuyển sang Nhân vật 2 đang tựa lưng vào một tòa nhà rực rỡ ánh đèn neon. Anh bắt đầu hát phần của mình. Máy quay chuyển động quỹ đạo chậm rãi mang tính điện ảnh quanh anh, với ánh đèn thành phố đầy màu sắc mờ ảo phía sau.
+
+12–16 giây — Nữ ca sĩ phụ
+Nhân vật 3 xuất hiện khi đang bước đi trên con phố neon. Cô hát trong khi nhìn về phía máy quay. Cú máy tracking ngang mượt mà chuyển tiếp thành cảnh cận cảnh.
+
+16–22 giây — Phần trình diễn của cả ba
+Cả ba nhân vật hội ngộ tại một ngã tư lớn trong thành phố và cùng biểu diễn. Máy quay từ từ quay vòng quanh họ khi họ hát. Tương tác tự nhiên, cử chỉ tinh tế, sự ăn ý đầy thuyết phục.
+
+22–27 giây — Điệp khúc đầy cảm xúc
+Chuỗi các cảnh cận cảnh nhanh nhưng thanh lịch: Nhân vật 1 cất giọng, Nhân vật 2 hòa nhịp, Nhân vật 3 bè theo. Từng chuyển động của khuôn miệng khớp chính xác với âm thanh được cung cấp.
+
+27–30 giây — Cảnh kết thúc
+Ba ca sĩ đứng cùng nhau giữa con phố ướt sũng. Máy quay từ từ nâng lên cao và lùi xa dần, để lộ khung cảnh thành phố rực rỡ bao quanh họ. Họ hoàn thành câu hát cuối cùng cùng nhau chuẩn xác từng nhịp. Kết thúc bằng một đại cảnh góc rộng mang tính điện ảnh ấn tượng.
+
+KỸ THUẬT QUAY PHIM
+
+Kỹ thuật quay phim video ca nhạc cao cấp, hiệu ứng ống kính anamorphic, độ sâu trường ảnh nông, cú máy lia mượt bằng gimbal, điểm nhấn chuyển động chậm (slow-motion), cận cảnh điện ảnh, chuyển động máy quay có kiểm soát, vệt sáng ống kính chân thực, chuyển động mờ tự nhiên, hiệu ứng bokeh tuyệt đẹp và bố cục sống động.
+
+ÂM THANH & TRÌNH DIỄN
+
+Sử dụng bài hát/âm thanh được cung cấp làm nhạc nền chính xác. Các nhân vật phải thể hiện rõ ràng việc hát đúng lời bài hát với khả năng khớp khẩu hình chuẩn xác đến từng âm vị. Biểu cảm, chuyển động mắt và cử chỉ phải phù hợp với cảm xúc và nhịp điệu của bài hát. Không nói lời thoại không liên quan.
+
+CHẤT LƯỢNG
+
+Siêu thực, con người chân thực như ảnh chụp, kết cấu da tự nhiên, mắt và răng chân thực, ánh sáng chính xác theo vật lý, bề mặt ướt chân thực, từng lọn tóc chi tiết, chuyển động vải chân thực, HDR, độ tương phản điện ảnh, chỉnh màu chuyên nghiệp, chi tiết 4K, thẩm mỹ video ca nhạc cao cấp.
+
+TIÊU CỰC: biến dạng khuôn mặt, thay đổi nhận dạng, trang phục không nhất quán, thêm người, nhân vật trùng lặp, bàn tay biến dạng, khuôn mặt dị dạng, dáng đi không tự nhiên, cử động như robot, lệch khẩu hình, nói chuyện ngẫu nhiên, nhấp nháy, lỗi nội suy khung hình, văn bản, phụ đề, logo, hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

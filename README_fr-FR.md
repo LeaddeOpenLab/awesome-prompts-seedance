@@ -327,20 +327,74 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2098330707374514573"></a>
 
-### Traduction en cours
+### Prompt détaillé pour un clip musical cinématographique multi-plans mettant en scène trois chanteurs dans une rue de ville éclairée aux néons la nuit.
 
 Auteur：[@meAsifAi](https://x.com/meAsifAi) · [Publication originale](https://x.com/meAsifAi/status/2098330707374514573)
 
 Image cinématographique / Photogramme de film · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt détaillé pour un clip musical cinématographique multi-plans mettant en scène trois chanteurs dans une rue de ville éclairée aux néons la nuit.
 
 <img src="covers/2098330707374514573.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un clip musical cinématographique ultra-réaliste de 30 secondes mettant en scène trois jeunes chanteurs adultes interprétant une chanson moderne et émouvante dans une ville éclairée aux néons la nuit. La vidéo doit ressembler à un clip musical professionnel à gros budget avec des humains réalistes, une synchronisation labiale précise, des performances expressives, un éclairage atmosphérique et une cinématographie sophistiquée.
+
+PERSONNAGES
+
+Personnage 1 — Voix principale féminine :
+Jeune femme adulte, début de la vingtaine, longs cheveux noirs, yeux expressifs, tenue élégante noire et argentée, personnalité confiante mais émotive.
+
+Personnage 2 — Voix principale masculine :
+Jeune homme adulte, début de la vingtaine, cheveux noirs texturés, veste noire élégante et chemise blanche, charismatique et émotionnellement expressif.
+
+Personnage 3 — Chanteuse :
+Jeune femme adulte, début de la vingtaine, cheveux foncés mi-longs, tenue rouge foncé très tendance, présence scénique énergique mais naturelle.
+
+Conservez leurs visages, vêtements, coiffures, proportions corporelles et identités parfaitement cohérents tout au long de la vidéo.
+
+ENVIRONNEMENT
+
+Une rue futuriste du centre-ville la nuit après une pluie légère. Chaussée mouillée reflétant des enseignes au néon colorées, devantures de magasins lumineuses, brume subtile, circulation lointaine, bokeh cinématographique, lumières urbaines atmosphériques et reflets réalistes.
+
+PLAN PAR PLAN
+
+0–4 sec — Ouverture
+Très gros plan sur les yeux du Personnage 1. Reflets de néons visibles dans ses yeux. La caméra recule lentement alors qu'elle commence à chanter. Des gouttes de pluie scintillent en arrière-plan.
+
+4–8 sec — Performance principale
+Le Personnage 1 marche lentement dans la rue mouillée tout en chantant directement face caméra. Travelling arrière fluide. Ses cheveux bougent naturellement au gré de la brise nocturne.
+
+8–12 sec — Couplet masculin
+Coupe vers le Personnage 2 appuyé contre un bâtiment éclairé au néon. Il commence à chanter sa partie. Lent travelling circulaire cinématographique autour de lui, avec les lumières colorées de la ville floues derrière lui.
+
+12–16 sec — Chanteuse
+Le Personnage 3 apparaît en marchant dans la rue aux néons. Elle chante en regardant vers la caméra. Un travelling latéral fluide fait la transition vers un gros plan.
+
+16–22 sec — Performance en trio
+Les trois personnages se retrouvent à une large intersection urbaine et se produisent ensemble. La caméra tourne lentement autour d'eux pendant qu'ils chantent. Interaction naturelle, gestes subtils, alchimie crédible.
+
+22–27 sec — Refrain émouvant
+Séquence rapide mais élégante de gros plans : le Personnage 1 chantant, le Personnage 2 le rejoignant, le Personnage 3 harmonisant. Chaque mouvement de bouche suit précisément la piste audio fournie.
+
+27–30 sec — Plan final
+Les trois chanteurs se tiennent ensemble au milieu de la rue mouillée. La caméra s'élève lentement vers le haut et s'éloigne, révélant la ville étincelante autour d'eux. Ils terminent la dernière parole ensemble exactement sur le temps. Fin sur un plan large cinématographique et spectaculaire.
+
+CINÉMATOGRAPHIE
+
+Cinématographie de clip musical haut de gamme, rendu d'objectif anamorphique, faible profondeur de champ, travelling fluide sur stabilisateur (gimbal), accents de ralenti, gros plans cinématographiques, mouvement de caméra maîtrisé, reflets d'objectif (lens flares) réalistes, flou de mouvement naturel, superbe bokeh et composition dynamique.
+
+AUDIO & PERFORMANCE
+
+Utilisez la chanson/l'audio fourni(e) comme bande-son exacte. Les personnages doivent visiblement chanter les bonnes paroles avec une synchronisation labiale précise au niveau des phonèmes. Les expressions, mouvements oculaires et gestes doivent correspondre à l'émotion et au rythme de la chanson. Aucun dialogue improvisé ou sans rapport.
+
+QUALITÉ
+
+Ultra-réaliste, humains photoréalistes, texture de peau naturelle, yeux et dents réalistes, éclairage physiquement précis, surfaces mouillées réalistes, mèches de cheveux détaillées, mouvement réaliste des tissus, HDR, contraste cinématographique, étalonnage des couleurs professionnel, détails 4K, esthétique haut de gamme de vidéo musicale.
+
+NÉGATIF : morphing de visage, changements d'identité, vêtements incohérents, personnes supplémentaires, personnages dupliqués, mains déformées, visages déformés, démarche non naturelle, mouvements robotiques, mauvaise synchronisation labiale, bavardages aléatoires, scintillement, artefacts d'interpolation d'images, texte, sous-titres, logos, filigranes.
 ```
 
 [↑ Retour aux catégories](#catalog)

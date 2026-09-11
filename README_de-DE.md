@@ -327,20 +327,74 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2098330707374514573"></a>
 
-### Übersetzung läuft
+### Detaillierter Multi-Shot-Prompt für ein filmreifes Musikvideo mit drei Sängern in einer neonbeleuchteten Stadtstraße bei Nacht.
 
 Autor：[@meAsifAi](https://x.com/meAsifAi) · [Originalbeitrag](https://x.com/meAsifAi/status/2098330707374514573)
 
 Kinematisch / Filmstill · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Detaillierter Multi-Shot-Prompt für ein filmreifes Musikvideo mit drei Sängern in einer neonbeleuchteten Stadtstraße bei Nacht.
 
 <img src="covers/2098330707374514573.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 30-sekündiges, ultrarealistisches, filmreifes Musikvideo mit drei jungen erwachsenen Sängern, die nachts in einer neonbeleuchteten Stadt einen emotionalen modernen Song darbieten. Das Video sollte wie ein professionelles High-Budget-Musikvideo mit realistischen Menschen, präzisem Lip-Sync, ausdrucksstarken Darbietungen, atmosphärischer Beleuchtung und anspruchsvoller Kinematografie wirken.
+
+CHARAKTERE
+
+Charakter 1 — Weibliche Hauptstimme:
+Junge erwachsene Frau, Anfang 20, langes schwarzes Haar, ausdrucksstarke Augen, elegantes schwarz-silbernes Outfit, selbstbewusste und doch emotionale Persönlichkeit.
+
+Charakter 2 — Männliche Hauptstimme:
+Junger erwachsener Mann, Anfang 20, dunkles texturiertes Haar, stylische schwarze Jacke und weißes Hemd, charismatisch und emotional ausdrucksstark.
+
+Charakter 3 — Weibliche Sängerin:
+Junge erwachsene Frau, Anfang 20, schulterlanges dunkles Haar, modisches tiefrotes Outfit, energiegeladene, aber natürliche Bühnenpräsenz.
+
+Halte ihre Gesichter, Kleidung, Frisuren, Körperproportionen und Identitäten während des gesamten Videos vollkommen konsistent.
+
+UMGEBUNG
+
+Eine futuristische Innenstadtstraße bei Nacht nach leichtem Regen. Nasses Pflaster, das bunte Neonschilder reflektiert, leuchtende Schaufenster, subtiler Nebel, entfernter Verkehr, filmreifes Bokeh, stimmungsvolle Stadtlichter und realistische Reflexionen.
+
+EINSTELLUNG FÜR EINSTELLUNG
+
+0–4 Sek. — Eröffnung
+Extreme Nahaufnahme der Augen von Charakter 1. Neonreflexionen in ihren Augen sichtbar. Die Kamera zieht sich langsam zurück, während sie zu singen beginnt. Regentropfen funkeln im Hintergrund.
+
+4–8 Sek. — Hauptdarbietung
+Charakter 1 geht langsam die nasse Straße entlang und singt dabei direkt in die Kamera. Sanfte Rückwärts-Tracking-Aufnahme. Ihr Haar bewegt sich natürlich in der Nachtbrise.
+
+8–12 Sek. — Männliche Strophe
+Schnitt auf Charakter 2, der an einem neonbeleuchteten Gebäude lehnt. Er beginnt, seinen Abschnitt zu singen. Langsame filmische Kamera-Kreisfahrt um ihn herum, mit verschwommenen bunten Stadtlichtern hinter ihm.
+
+12–16 Sek. — Weibliche Sängerin
+Charakter 3 erscheint und geht durch die Neonstraße. Sie singt, während sie in die Kamera blickt. Sanfte Seitwärts-Tracking-Aufnahme geht in eine Nahaufnahme über.
+
+16–22 Sek. — Trio-Darbietung
+Alle drei Charaktere treffen sich an einer breiten Straßenkreuzung und treten gemeinsam auf. Die Kamera kreist langsam um sie herum, während sie singen. Natürliche Interaktion, subtile Gesten, glaubwürdige Chemie.
+
+22–27 Sek. — Emotionaler Refrain
+Schnelle, aber elegante Abfolge von Nahaufnahmen: Charakter 1 singt, Charakter 2 stimmt ein, Charakter 3 harmonisiert. Jede Mundbewegung folgt präzise dem bereitgestellten Audio.
+
+27–30 Sek. — Letzte Einstellung
+Die drei Sänger stehen zusammen mitten auf der nassen Straße. Die Kamera steigt langsam nach oben und zieht sich zurück, wodurch die leuchtende Stadt um sie herum sichtbar wird. Sie beenden die letzte Textzeile gemeinsam genau auf den Takt. Ende mit einer dramatischen, filmischen Totalen.
+
+KINEMATOGRAFIE
+
+High-End-Musikvideo-Kinematografie, anamorphotischer Look, geringe Tiefenschärfe, sanfte Gimbal-Kameraführung, Zeitlupenakzente, filmreife Nahaufnahmen, kontrollierte Kamerabewegung, realistische Lens Flares, natürliche Bewegungsunschärfe, wunderschönes Bokeh und dynamische Bildkomposition.
+
+AUDIO & PERFORMANCE
+
+Verwende den bereitgestellten Song/die Tonspur als exakten Soundtrack. Die Charaktere müssen sichtbar den korrekten Liedtext mit präziser Lippensynchronisation auf Phonem-Ebene singen. Mimik, Augenbewegungen und Gesten sollten den Emotionen und dem Rhythmus des Songs entsprechen. Kein Sprechen zusammenhangloser Dialoge.
+
+QUALITÄT
+
+Ultrarealistisch, fotorealistische Menschen, natürliche Hauttextur, realistische Augen und Zähne, physikalisch akkurate Beleuchtung, realistische nasse Oberflächen, detaillierte Haarsträhnen, realistische Stoffbewegung, HDR, filmreifer Kontrast, professionelles Color Grading, 4K-Detailgenauigkeit, erstklassige Musikvideo-Ästhetik.
+
+NEGATIV: Gesichtsmorphing, Identitätswechsel, inkonsistente Kleidung, zusätzliche Personen, doppelte Charaktere, verzerrte Hände, deformierte Gesichter, unnatürliches Gehen, roboterhafte Bewegungen, fehlerhafte Lippensynchronisation, willkürliches Reden, Flackern, Frame-Interpolationsartefakte, Text, Untertitel, Logos, Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

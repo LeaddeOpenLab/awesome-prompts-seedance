@@ -313,20 +313,74 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2098330707374514573"></a>
 
-### Tradução em curso
+### Prompt detalhado de videoclipe cinematográfico multi-plano com três cantores numa rua de cidade iluminada a néon à noite.
 
 Autor：[@meAsifAi](https://x.com/meAsifAi) · [Publicação original](https://x.com/meAsifAi/status/2098330707374514573)
 
 Cena de Cinema / Fotograma · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt detalhado de videoclipe cinematográfico multi-plano com três cantores numa rua de cidade iluminada a néon à noite.
 
 <img src="covers/2098330707374514573.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um videoclipe cinematográfico ultrarrealista de 30 segundos apresentando três cantores jovens adultos a interpretar uma canção moderna e emotiva numa cidade iluminada a néon durante a noite. O vídeo deve parecer um videoclipe profissional de grande orçamento com humanos realistas, sincronização labial precisa, interpretações expressivas, iluminação atmosférica e cinematografia sofisticada.
+
+PERSONAGENS
+
+Personagem 1 — Protagonista Feminina:
+Mulher jovem adulta, início dos 20 anos, cabelo preto comprido, olhos expressivos, indumentária elegante preta e prateada, personalidade confiante mas emotiva.
+
+Personagem 2 — Protagonista Masculino:
+Homem jovem adulto, início dos 20 anos, cabelo escuro texturado, blusão preto moderno e camisa branca, carismático e expressivo emocionalmente.
+
+Personagem 3 — Vocalista Feminina:
+Mulher jovem adulta, início dos 20 anos, cabelo escuro pelos ombros, roupa moderna vermelho-escura, presença de palco enérgica mas natural.
+
+Mantenha as suas caras, roupas, penteados, proporções corporais e identidades perfeitamente consistentes ao longo de todo o vídeo.
+
+AMBIENTE
+
+Uma rua futurista no centro da cidade à noite após uma chuva ligeira. Pavimento molhado a refletir anúncios de néon coloridos, montras iluminadas, nevoeiro subtil, tráfego distante, bokeh cinematográfico, luzes de cidade atmosféricas e reflexos realistas.
+
+PLANO A PLANO
+
+0–4 seg — Abertura
+Grande grande plano dos olhos da Personagem 1. Reflexos de néon visíveis nos seus olhos. A câmara recua lentamente à medida que começa a cantar. Gotículas de chuva cintilam em segundo plano.
+
+4–8 seg — Interpretação da Protagonista
+A Personagem 1 caminha lentamente pela rua molhada enquanto canta diretamente para a câmara. Travelling suave para trás. O seu cabelo move-se naturalmente com a brisa noturna.
+
+8–12 seg — Verso Masculino
+Corte para o Personagem 2 encostado a um edifício iluminado a néon. Começa a cantar a sua parte. Órbita cinematográfica lenta de câmara ao redor dele, com luzes coloridas da cidade desfocadas atrás de si.
+
+12–16 seg — Vocalista Feminina
+A Personagem 3 surge a caminhar pela rua de néon. Canta enquanto olha na direção da câmara. Travelling lateral suave transita para um grande plano.
+
+16–22 seg — Atuação em Trio
+Todos os três personagens encontram-se num cruzamento amplo da cidade e atuam juntos. A câmara circula lentamente ao redor deles enquanto cantam. Interação natural, gestos subtis, química credível.
+
+22–27 seg — Refrão Emocionante
+Sequência rápida mas elegante de grandes planos: Personagem 1 a cantar, Personagem 2 a juntar-se, Personagem 3 a harmonizar. Cada movimento de boca segue com rigor o áudio fornecido.
+
+27–30 seg — Plano Final
+Os três cantores encontram-se juntos no meio da rua molhada. A câmara sobe lentamente e afasta-se, revelando a cidade brilhante ao seu redor. Concluem a última linha da letra juntos com rigor no tempo da música. Termine num plano geral dramático e cinematográfico.
+
+CINEMATOGRAFIA
+
+Cinematografia de videoclipe topo de gama, visual de lente anarmófica, profundidade de campo reduzida, seguimento suave com gimbal, toques de câmara lenta, grandes planos cinematográficos, movimento de câmara controlado, reflexos de lente realistas, desfoque de movimento natural, bokeh bonito e composição dinâmica.
+
+ÁUDIO & INTERPRETAÇÃO
+
+Utilize a música/áudio fornecido como a banda sonora exata. Os personagens devem cantar visivelmente a letra correta com sincronização labial rigorosa ao nível fonético. As expressões, movimentos oculares e gestos devem corresponder à emoção e ao ritmo da canção. Sem diálogo não relacionado.
+
+QUALIDADE
+
+Ultrarrealista, humanos fotorrealistas, textura de pele natural, olhos e dentes realistas, iluminação com rigor físico, superfícies molhadas realistas, fios de cabelo detalhados, movimento realista de tecidos, HDR, contraste cinematográfico, gradação de cor profissional, detalhes em 4K, estética premium de videoclipe.
+
+NEGATIVO: transmutação de rostos, alterações de identidade, vestuário inconsistente, pessoas extra, personagens duplicados, mãos distorcidas, caras deformadas, marcha não natural, movimentos robóticos, sincronização labial incorreta, conversas aleatórias, cintilação, artefactos de interpolação de fotogramas, texto, legendas, logótipos, marcas de água.
 ```
 
 [↑ Voltar às categorias](#catalog)
