@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T08:50:56.958Z",
+  "model": "seedance2.5",
+  "prompt": "Create a highly realistic cinematic fantasy video set in a medieval European village during a mysterious supernatural disaster. A young beautiful woman with pale skin, long straight black hair, wearing a large pointed black witch hat, dark black cloak and deep burgundy medieval dress, walks through a crowded medieval village while villagers stare at her with fear and suspicion. Wooden half-timbered houses, stone streets, old market stalls, medieval villagers in rustic clothing, atmospheric smoke and fog.\n\nShe walks toward a massive stone archway and exits into an open courtyard overlooking the village. In the distance, several medieval houses are burning intensely, with huge orange flames and thick black smoke rising into the sky. The witch suddenly becomes supernatural and flies forward above the ground, her dark cloak and dress flowing dramatically in the wind.\n\nA gigantic magical water tornado suddenly rises in the middle of the burning village, forming a huge swirling column of water that crashes through the streets and begins extinguishing the flames. Villagers gather and look up in shock as a mysterious flying witch passes through the smoky sky.\n\nShow dramatic aerial shots of the medieval village covered in smoke and water, burning rooftops, frightened villagers, and the giant water vortex. End with a cinematic close-up of the young witch standing calmly among the villagers, looking directly toward the camera with an enigmatic expression.\n\nPhotorealistic, cinematic dark fantasy, medieval Europe, realistic human faces, detailed clothing and architecture, volumetric lighting, natural fire and smoke simulation, realistic water physics, dramatic atmosphere, shallow depth of field, realistic camera movement, smooth motion, film-quality composition, high detail, 4K, anamorphic cinematic look, dramatic lighting, realistic textures, epic fantasy movie style.",
+  "promptTranslations": {
+    "en": "Create a highly realistic cinematic fantasy video set in a medieval European village during a mysterious supernatural disaster. A young beautiful woman with pale skin, long straight black hair, wearing a large pointed black witch hat, dark black cloak and deep burgundy medieval dress, walks through a crowded medieval village while villagers stare at her with fear and suspicion. Wooden half-timbered houses, stone streets, old market stalls, medieval villagers in rustic clothing, atmospheric smoke and fog.\\n\\nShe walks toward a massive stone archway and exits into an open courtyard overlooking the village. In the distance, several medieval houses are burning intensely, with huge orange flames and thick black smoke rising into the sky. The witch suddenly becomes supernatural and flies forward above the ground, her dark cloak and dress flowing dramatically in the wind.\\n\\nA gigantic magical water tornado suddenly rises in the middle of the burning village, forming a huge swirling column of water that crashes through the streets and begins extinguishing the flames. Villagers gather and look up in shock as a mysterious flying witch passes through the smoky sky.\\n\\nShow dramatic aerial shots of the medieval village covered in smoke and water, burning rooftops, frightened villagers, and the giant water vortex. End with a cinematic close-up of the young witch standing calmly among the villagers, looking directly toward the camera with an enigmatic expression.\\n\\nPhotorealistic, cinematic dark fantasy, medieval Europe, realistic human faces, detailed clothing and architecture, volumetric lighting, natural fire and smoke simulation, realistic water physics, dramatic atmosphere, shallow depth of field, realistic camera movement, smooth motion, film-quality composition, high detail, 4K, anamorphic cinematic look, dramatic lighting, realistic textures, epic fantasy movie style."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic dark fantasy scene of a young witch extinguishing a burning medieval village with a massive water tornado."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic dark fantasy scene of a young witch extinguishing a burning medieval village with a massive water tornado.",
+  "summaryEn": "Cinematic dark fantasy scene of a young witch extinguishing a burning medieval village with a massive water tornado.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098284076809719997",
+    "canonicalUrl": "https://x.com/Zoyavelle/status/2098284076809719997",
+    "author": {
+      "username": "Zoyavelle",
+      "displayName": "Zoya",
+      "profileUrl": "https://x.com/Zoyavelle"
+    },
+    "publishedAt": "2026-09-11T05:34:42.000Z",
+    "collectedAt": "2026-09-11T08:43:19.981Z",
+    "language": "en",
+    "originalText": "Made with seedance 2.5\n\nPrompt:\n\nCreate a highly realistic cinematic fantasy video set in a medieval European village during a mysterious supernatural disaster. A young beautiful woman with pale skin, long straight black hair, wearing a large pointed black witch hat, dark black cloak and deep burgundy medieval dress, walks through a crowded medieval village while villagers stare at her with fear and suspicion. Wooden half-timbered houses, stone streets, old market stalls, medieval villagers in rustic clothing, atmospheric smoke and fog.\n\nShe walks toward a massive stone archway and exits into an open courtyard overlooking the village. In the distance, several medieval houses are burning intensely, with huge orange flames and thick black smoke rising into the sky. The witch suddenly becomes supernatural and flies forward above the ground, her dark cloak and dress flowing dramatically in the wind.\n\nA gigantic magical water tornado suddenly rises in the middle of the burning village, forming a huge swirling column of water that crashes through the streets and begins extinguishing the flames. Villagers gather and look up in shock as a mysterious flying witch passes through the smoky sky.\n\nShow dramatic aerial shots of the medieval village covered in smoke and water, burning rooftops, frightened villagers, and the giant water vortex. End with a cinematic close-up of the young witch standing calmly among the villagers, looking directly toward the camera with an enigmatic expression.\n\nPhotorealistic, cinematic dark fantasy, medieval Europe, realistic human faces, detailed clothing and architecture, volumetric lighting, natural fire and smoke simulation, realistic water physics, dramatic atmosphere, shallow depth of field, realistic camera movement, smooth motion, film-quality composition, high detail, 4K, anamorphic cinematic look, dramatic lighting, realistic textures, epic fantasy movie style.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Zoyavelle/status/2098284076809719997",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098284026046091265/img/FFhf-dyelaqb9Rc3.jpg",
+        "analysisUrl": "https://x.com/Zoyavelle/status/2098284076809719997"
+      }
+    ],
+    "metrics": {
+      "likeCount": 61,
+      "repostCount": 4,
+      "replyCount": 8,
+      "quoteCount": 0,
+      "viewCount": 943
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Zoyavelle/status/2098284076809719997",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098284026046091265/img/FFhf-dyelaqb9Rc3.jpg",
+  "coverPath": "covers/2098284076809719997.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098284026046091265",
+    "x-post:2098284076809719997"
+  ],
+  "analysis": {
+    "summary": "Cinematic dark fantasy scene of a young witch extinguishing a burning medieval village with a massive water tornado.",
+    "summaryEn": "Cinematic dark fantasy scene of a young witch extinguishing a burning medieval village with a massive water tornado.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely depicts the witch in her attire, the village fire, flight sequence, water vortex extinguishing flames, and the concluding close-up."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a highly realistic cinematic fantasy video set in a medieval European village during a mysterious supernatural disaster. A young beautiful woman with pale skin, long straight black hair, wearing a large pointed black witch hat, dark black cloak and deep burgundy medieval dress, walks through a crowded medieval village while villagers stare at her with fear and suspicion. Wooden half-timbered houses, stone streets, old market stalls, medieval villagers in rustic clothing, atmospheric smoke and fog.\n\nShe walks toward a massive stone archway and exits into an open courtyard overlooking the village. In the distance, several medieval houses are burning intensely, with huge orange flames and thick black smoke rising into the sky. The witch suddenly becomes supernatural and flies forward above the ground, her dark cloak and dress flowing dramatically in the wind.\n\nA gigantic magical water tornado suddenly rises in the middle of the burning village, forming a huge swirling column of water that crashes through the streets and begins extinguishing the flames. Villagers gather and look up in shock as a mysterious flying witch passes through the smoky sky.\n\nShow dramatic aerial shots of the medieval village covered in smoke and water, burning rooftops, frightened villagers, and the giant water vortex. End with a cinematic close-up of the young witch standing calmly among the villagers, looking directly toward the camera with an enigmatic expression.\n\nPhotorealistic, cinematic dark fantasy, medieval Europe, realistic human faces, detailed clothing and architecture, volumetric lighting, natural fire and smoke simulation, realistic water physics, dramatic atmosphere, shallow depth of field, realistic camera movement, smooth motion, film-quality composition, high detail, 4K, anamorphic cinematic look, dramatic lighting, realistic textures, epic fantasy movie style.",
+    "sourceRange": {
+      "start": 33,
+      "end": 1921
+    },
+    "translations": {
+      "zh": "生成写实中世纪奇幻视频：一位戴尖顶巫师帽、穿黑斗篷红裙的年轻女巫走过村庄，村庄着火后她凌空飞起，召唤巨大水龙卷扑灭大火，最后在村民中面对镜头平静注视。",
+      "en": "Create a realistic medieval fantasy video: A young witch in a pointed hat and cloak walks through a village, flies toward burning houses, summons a giant water tornado to extinguish the fire, and ends with a calm close-up gaze."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic dark fantasy storytelling video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
