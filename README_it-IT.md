@@ -1263,20 +1263,20 @@ Traduzione in corso
 
 <a name="prompt-2098284373372018792"></a>
 
-### Traduzione in corso
+### Scena fantastica e surreale di un minuscolo essere umano che cammina in un deserto pallido e screpolato verso una gigantesca balena bianca addormentata.
 
 Autore：[@AIwithMinal](https://x.com/AIwithMinal) · [Post originale](https://x.com/AIwithMinal/status/2098284373372018792)
 
 Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena fantastica e surreale di un minuscolo essere umano che cammina in un deserto pallido e screpolato verso una gigantesca balena bianca addormentata.
 
 <img src="covers/2098284373372018792.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Scena cinematografica ultra-realistica di una minuscola figura umana che cammina attraverso un infinito paesaggio desertico pallido e screpolato verso una gigantesca creatura mitica simile a una balena bianca che riposa pacificamente sul terreno. L'enorme creatura presenta una pelle dalla texture dettagliata, pinne massicce, occhi sottili e una presenza surreale e onirica. Una morbida nebbia circonda la scena, creando un'atmosfera misteriosa. Composizione grandangolare che enfatizza l'estrema differenza di scala tra l'essere umano e la creatura, toni monocromatici tenui, luce soffusa e diffusa, ombre realistiche, profondità atmosferica, texture altamente dettagliate, fotografia cinematografica, 8K, HDR, fotorealistico, realismo fantasy epico, composizione verticale 9:16.
 ```
 
 [↑ Torna alle categorie](#catalog)

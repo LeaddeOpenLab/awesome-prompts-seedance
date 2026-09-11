@@ -1263,20 +1263,20 @@ Traducción en curso
 
 <a name="prompt-2098284373372018792"></a>
 
-### Traducción en curso
+### Escena fantástica y surrealista de un diminuto humano caminando en un desierto pálido y agrietado hacia una gigantesca ballena blanca dormida.
 
 Autor：[@AIwithMinal](https://x.com/AIwithMinal) · [Publicación original](https://x.com/AIwithMinal/status/2098284373372018792)
 
 Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena fantástica y surrealista de un diminuto humano caminando en un desierto pálido y agrietado hacia una gigantesca ballena blanca dormida.
 
 <img src="covers/2098284373372018792.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Escena cinematográfica ultrarrealista de una diminuta figura humana caminando por un interminable paisaje desértico, pálido y agrietado, hacia una gigantesca criatura mítica parecida a una ballena blanca que descansa plácidamente en el suelo. La enorme criatura tiene una piel con textura detallada, aletas macizas, ojos sutiles y una presencia surrealista y de ensueño. Una suave niebla rodea la escena, creando una atmósfera misteriosa. Composición de gran angular que enfatiza la extrema diferencia de escala entre el humano y la criatura, tonos monocromáticos apagados, iluminación suave y difusa, sombras realistas, profundidad atmosférica, texturas sumamente detalladas, fotografía cinematográfica, 8K, HDR, fotorrealista, realismo de fantasía épica, composición vertical 9:16.
 ```
 
 [↑ Volver a categorías](#catalog)

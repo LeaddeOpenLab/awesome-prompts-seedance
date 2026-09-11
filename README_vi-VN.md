@@ -1393,20 +1393,20 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 <a name="prompt-2098284373372018792"></a>
 
-### Đang dịch
+### Khung cảnh siêu thực kỳ ảo về một con người nhỏ bé bước đi trên sa mạc nhợt nhạt nứt nẻ tiến về phía một chú cá voi trắng khổng lồ đang ngủ say.
 
 Tác giả：[@AIwithMinal](https://x.com/AIwithMinal) · [Bài gốc](https://x.com/AIwithMinal/status/2098284373372018792)
 
 Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Khung cảnh siêu thực kỳ ảo về một con người nhỏ bé bước đi trên sa mạc nhợt nhạt nứt nẻ tiến về phía một chú cá voi trắng khổng lồ đang ngủ say.
 
 <img src="covers/2098284373372018792.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cảnh phim siêu thực chân thực đến từng chi tiết về một dáng người nhỏ bé đang bước đi trên cảnh quan sa mạc nứt nẻ, nhợt nhạt vô tận về phía một sinh vật khổng lồ thần thoại giống cá voi trắng đang nằm yên bình trên mặt đất. Sinh vật to lớn này có làn da vân nổi chi tiết, vây đồ sộ, đôi mắt tinh tế và sự hiện diện kỳ ảo như trong giấc mơ. Sương mù nhẹ bao quanh khung cảnh, tạo nên một bầu không khí bí ẩn. Bố cục góc rộng nhấn mạnh sự khác biệt tỷ lệ cực độ giữa con người và sinh vật, tông màu đơn sắc trầm, ánh sáng khuếch tán mềm mại, bóng đổ chân thực, chiều sâu khí quyển, bề mặt kết cấu chi tiết cao, nhiếp ảnh điện ảnh, 8K, HDR, chân thực như ảnh chụp, chủ nghĩa hiện thực kỳ ảo sử thi, bố cục dọc 9:16.
 ```
 
 [↑ Về danh mục](#catalog)

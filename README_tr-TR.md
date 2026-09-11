@@ -1249,20 +1249,20 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 
 <a name="prompt-2098284373372018792"></a>
 
-### Çeviri sürüyor
+### Solgun ve çatlamış bir çölde uyuyan devasa bir beyaz balinaya doğru yürüyen minik bir insanın fantastik ve gerçeküstü sahnesi.
 
 Yazar：[@AIwithMinal](https://x.com/AIwithMinal) · [Orijinal gönderi](https://x.com/AIwithMinal/status/2098284373372018792)
 
 Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Solgun ve çatlamış bir çölde uyuyan devasa bir beyaz balinaya doğru yürüyen minik bir insanın fantastik ve gerçeküstü sahnesi.
 
 <img src="covers/2098284373372018792.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sonsuz, solgun ve çatlamış bir çöl manzarasında yerde huzur içinde dinlenen devasa, efsanevi beyaz balina benzeri bir yaratığa doğru yürüyen minik bir insan figürünün son derece gerçekçi sinematik sahnesi. Devasa yaratık ayrıntılı dokulu bir deriye, muazzam yüzgeçlere, ince belirgin gözlere ve gerçeküstü, rüya gibi bir varlığa sahiptir. Sahneyi saran hafif sis, gizemli bir atmosfer yaratır. İnsan ile yaratık arasındaki aşırı ölçek farkını vurgulayan geniş açılı kompozisyon, yumuşak tek renkli tonlar, yumuşak dağınık aydınlatma, gerçekçi gölgeler, atmosferik derinlik, son derece ayrıntılı dokular, sinematik fotoğrafçılık, 8K, HDR, fotogerçekçi, epik fantezi gerçekçiliği, dikey 9:16 kompozisyon.
 ```
 
 [↑ Kategorilere dön](#catalog)

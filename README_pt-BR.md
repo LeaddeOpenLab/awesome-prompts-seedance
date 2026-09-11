@@ -1249,20 +1249,20 @@ Tradução em andamento
 
 <a name="prompt-2098284373372018792"></a>
 
-### Tradução em andamento
+### Cena fantástica e surreal de um minúsculo humano caminhando em um deserto pálido e rachado em direção a uma gigantesca baleia branca adormecida.
 
 Autor：[@AIwithMinal](https://x.com/AIwithMinal) · [Publicação original](https://x.com/AIwithMinal/status/2098284373372018792)
 
 Animal / Criatura · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Cena fantástica e surreal de um minúsculo humano caminhando em um deserto pálido e rachado em direção a uma gigantesca baleia branca adormecida.
 
 <img src="covers/2098284373372018792.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Cena cinematográfica ultrarrealista de uma minúscula figura humana caminhando por uma paisagem desértica interminável, pálida e rachada, em direção a uma gigantesca criatura mítica semelhante a uma baleia branca repousando pacificamente no chão. A enorme criatura possui pele com textura detalhada, nadadeiras maciças, olhos sutis e uma presença surreal e onírica. Uma névoa suave envolve a cena, criando uma atmosfera misteriosa. Composição em grande-angular enfatizando a extrema diferença de escala entre o humano e a criatura, tons monocromáticos suaves, iluminação suave e difusa, sombras realistas, profundidade atmosférica, texturas altamente detalhadas, fotografia cinematográfica, 8K, HDR, fotorrealista, realismo de fantasia épica, composição vertical 9:16.
 ```
 
 [↑ Voltar às categorias](#catalog)

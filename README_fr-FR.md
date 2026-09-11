@@ -1263,20 +1263,20 @@ Traduction en cours
 
 <a name="prompt-2098284373372018792"></a>
 
-### Traduction en cours
+### Scène fantastique et surréaliste d'un minuscule humain marchant dans un désert pâle et craquelé vers une gigantesque baleine blanche endormie.
 
 Auteur：[@AIwithMinal](https://x.com/AIwithMinal) · [Publication originale](https://x.com/AIwithMinal/status/2098284373372018792)
 
 Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène fantastique et surréaliste d'un minuscule humain marchant dans un désert pâle et craquelé vers une gigantesque baleine blanche endormie.
 
 <img src="covers/2098284373372018792.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Scène cinématographique ultra-réaliste d'une minuscule silhouette humaine marchant à travers un paysage désertique infini, pâle et craquelé, en direction d'une gigantesque créature mythique semblable à une baleine blanche reposant paisiblement sur le sol. L'énorme créature possède une peau à la texture détaillée, des nageoires massives, des yeux subtils et une présence surréaliste et onirique. Une brume douce enveloppe la scène, créant une atmosphère mystérieuse. Composition grand-angle soulignant la différence d'échelle extrême entre l'humain et la créature, tons monochromatiques feutrés, éclairage doux et diffus, ombres réalistes, profondeur atmosphérique, textures hautement détaillées, photographie cinématographique, 8K, HDR, photoréaliste, réalisme fantastique épique, composition verticale 9:16.
 ```
 
 [↑ Retour aux catégories](#catalog)

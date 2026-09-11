@@ -1263,20 +1263,20 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 
 <a name="prompt-2098284373372018792"></a>
 
-### Übersetzung läuft
+### Fantastische surreale Szene eines winzigen Menschen, der in einer blassen, rissigen Wüste auf einen riesigen schlafenden weißen Wal zugeht.
 
 Autor：[@AIwithMinal](https://x.com/AIwithMinal) · [Originalbeitrag](https://x.com/AIwithMinal/status/2098284373372018792)
 
 Tier / Kreatur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fantastische surreale Szene eines winzigen Menschen, der in einer blassen, rissigen Wüste auf einen riesigen schlafenden weißen Wal zugeht.
 
 <img src="covers/2098284373372018792.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultrarealistische filmische Szene einer winzigen menschlichen Gestalt, die über eine endlose, blasse, rissige Wüstenlandschaft auf eine gigantische, mythische, weiße walähnliche Kreatur zugeht, die friedlich auf dem Boden ruht. Die riesige Kreatur besitzt eine detailliert strukturierte Haut, gewaltige Flossen, dezente Augen und eine surreale, traumhafte Präsenz. Sanfter Nebel umgibt die Szene und erzeugt eine geheimnisvolle Atmosphäre. Weitwinkelkomposition, die den extremen Größenunterschied zwischen Mensch und Kreatur betont, gedämpfte monochromatische Töne, weiches diffuses Licht, realistische Schatten, atmosphärische Tiefe, hochdetaillierte Texturen, filmische Fotografie, 8K, HDR, fotorealistisch, epischer Fantasy-Realismus, vertikale 9:16-Komposition.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
