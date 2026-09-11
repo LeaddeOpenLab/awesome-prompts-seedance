@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**49** Prompts · Latest addition: **2026-09-11**
+**50** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098284076809719997"></a>
+
+### Cinematic dark fantasy scene of a young witch extinguishing a burning medieval village with a massive water tornado.
+
+Author：[@Zoyavelle](https://x.com/Zoyavelle) · [Source](https://x.com/Zoyavelle/status/2098284076809719997)
+
+Cinematic / Film Still · Published
+
+**Summary:** Cinematic dark fantasy scene of a young witch extinguishing a burning medieval village with a massive water tornado.
+
+<img src="covers/2098284076809719997.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a highly realistic cinematic fantasy video set in a medieval European village during a mysterious supernatural disaster. A young beautiful woman with pale skin, long straight black hair, wearing a large pointed black witch hat, dark black cloak and deep burgundy medieval dress, walks through a crowded medieval village while villagers stare at her with fear and suspicion. Wooden half-timbered houses, stone streets, old market stalls, medieval villagers in rustic clothing, atmospheric smoke and fog.\n\nShe walks toward a massive stone archway and exits into an open courtyard overlooking the village. In the distance, several medieval houses are burning intensely, with huge orange flames and thick black smoke rising into the sky. The witch suddenly becomes supernatural and flies forward above the ground, her dark cloak and dress flowing dramatically in the wind.\n\nA gigantic magical water tornado suddenly rises in the middle of the burning village, forming a huge swirling column of water that crashes through the streets and begins extinguishing the flames. Villagers gather and look up in shock as a mysterious flying witch passes through the smoky sky.\n\nShow dramatic aerial shots of the medieval village covered in smoke and water, burning rooftops, frightened villagers, and the giant water vortex. End with a cinematic close-up of the young witch standing calmly among the villagers, looking directly toward the camera with an enigmatic expression.\n\nPhotorealistic, cinematic dark fantasy, medieval Europe, realistic human faces, detailed clothing and architecture, volumetric lighting, natural fire and smoke simulation, realistic water physics, dramatic atmosphere, shallow depth of field, realistic camera movement, smooth motion, film-quality composition, high detail, 4K, anamorphic cinematic look, dramatic lighting, realistic textures, epic fantasy movie style.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098319351917002812"></a>
 

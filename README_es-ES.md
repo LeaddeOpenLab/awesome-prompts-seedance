@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**49** Prompts · Última incorporación: **2026-09-11**
+**50** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2098284076809719997"></a>
+
+### Traducción en curso
+
+Autor：[@Zoyavelle](https://x.com/Zoyavelle) · [Publicación original](https://x.com/Zoyavelle/status/2098284076809719997)
+
+Cine / Fotograma de película · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098284076809719997.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098319351917002812"></a>
 
