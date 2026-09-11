@@ -365,20 +365,40 @@ Fotorrealista, dark fantasy cinematográfica, Europa medieval, rostos humanos re
 
 <a name="prompt-2098319351917002812"></a>
 
-### Tradução em andamento
+### Cena de perseguição em beco em noite chuvosa no estilo blockbuster de ação de Hollywood, com protagonista feminina fugindo da perseguição de um SUV e saltando de moto entre prédios.
 
 Autor：[@codewithhajra](https://x.com/codewithhajra) · [Publicação original](https://x.com/codewithhajra/status/2098319351917002812)
 
 Cinematográfico / Imagem de Filme · Veículo · Arquitetura / Interiores · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Cena de perseguição em beco em noite chuvosa no estilo blockbuster de ação de Hollywood, com protagonista feminina fugindo da perseguição de um SUV e saltando de moto entre prédios.
 
 <img src="covers/2098319351917002812.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Personagem: Uma bela mulher no início dos seus 20 anos com traços realistas naturais, longos cabelos castanho-escuros, porte atlético, vestindo uma jaqueta tática preta elegante, calças escuras ajustadas e botas de combate. Ela parece determinada e destemida.
+
+Cena — 0–3s:
+Noite em um beco de cidade encharcado pela chuva. Letreiros em neon refletem no pavimento molhado. A mulher corre em direção à câmera enquanto um SUV preto repentinamente atravessa uma barricada atrás dela. Faíscas e destroços voam pelo ar.
+
+Cena — 3–6s:
+Ela desliza rapidamente sobre o capô de um carro estacionado, gira e desvia por pouco de um ataque iminente. A câmera a segue com uma rápida tomada de rastreamento na mão. Seu cabelo e jaqueta se movem naturalmente com a ação.
+
+Cena — 6–8s:
+Ela pega um capacete de moto do assento, pula em uma elegante motocicleta preta e acelera pelo beco. O SUV persegue atrás dela, faróis cortando a chuva.
+
+Cena — 8–10s:
+A motocicleta salta de uma pequena rampa entre dois edifícios. Câmera lenta quase congelada enquanto ela voa pelo ar, com as luzes da cidade brilhando atrás dela. Ela aterrissa suavemente e se afasta em alta velocidade.
+
+Estilo visual: Superprodução de ação hollywoodiana de ponta, fotorrealista, iluminação cinematográfica, chuva dramática, física realista, explosões de aparência prática, movimento de câmera dinâmico, profundidade de campo rasa, reflexos de lente anamórfica, expressões faciais detalhadas, textura de pele realista, VFX premium.
+
+Câmera: Tomadas rápidas de rastreamento → tomada de ação em ângulo baixo → close-up → tomada aérea ampla. Movimento de câmera suave, mas intenso, desfoque de movimento cinematográfico.
+
+Áudio: Percussão cinematográfica pesada, motor de motocicleta rugindo, guincho de pneus, chuva, sons de impacto e um dramático golpe de graves naterrissagem final.
+
+Importante: Mantenha a mesma personagem feminina, rosto, penteado e traje consistentes em todas as tomadas. Sem texto, sem legendas, sem anatomia distorcida, sem membros extras, sem aparência de desenho animado.
 ```
 
 [↑ Voltar às categorias](#catalog)

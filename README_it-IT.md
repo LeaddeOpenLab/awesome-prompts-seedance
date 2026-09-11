@@ -371,20 +371,40 @@ Crea un video fantasy cinematografico altamente realistico ambientato in un vill
 
 <a name="prompt-2098319351917002812"></a>
 
-### Traduzione in corso
+### Scena di inseguimento in un vicolo in una notte di pioggia in stile kolossal d'azione hollywoodiano, la protagonista femminile fugge dall'inseguimento di un SUV e salta tra gli edifici in moto.
 
 Autore：[@codewithhajra](https://x.com/codewithhajra) · [Post originale](https://x.com/codewithhajra/status/2098319351917002812)
 
 Fermo immagine cinematografico / Still fotografico · Veicolo · Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena di inseguimento in un vicolo in una notte di pioggia in stile kolossal d'azione hollywoodiano, la protagonista femminile fugge dall'inseguimento di un SUV e salta tra gli edifici in moto.
 
 <img src="covers/2098319351917002812.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Personaggio: Una bellissima donna poco più che ventenne con lineamenti naturali e realistici, lunghi capelli castano scuro, corporatura atletica, che indossa un'elegante giacca tattica nera, pantaloni scuri attillati e stivali da combattimento. Ha un aspetto determinato e intrepido.
+
+Scena — 0–3s:
+Notte in un vicolo cittadino bagnato dalla pioggia. Le insegne al neon si riflettono sull'asfalto bagnato. La donna corre verso la telecamera mentre un SUV nero si schianta improvvisamente contro una barricata dietro di lei. Scintille e detriti volano nell'aria.
+
+Scena — 3–6s:
+Scivola rapidamente sul cofano di un'auto parcheggiata, si gira ed evita per un soffio un attacco imminente. La telecamera la segue con una rapida ripresa a mano con movimento di tracking. I suoi capelli e la giacca si muovono naturalmente con l'azione.
+
+Scena — 6–8s:
+Afferra un casco da moto dal sedile, salta su un'elegante moto nera e accelera attraverso il vicolo. Il SUV la insegue da dietro, con i fari che fendono la pioggia.
+
+Scena — 8–10s:
+La moto si lancia da una piccola rampa tra due edifici. Slow motion quasi congelato mentre vola nell'aria, con le luci della città che brillano dietro di lei. Atterra dolcemente e sfreccia via.
+
+Stile visivo: Blockbuster d'azione hollywoodiano di alto livello, fotorealistico, illuminazione cinematografica, pioggia drammatica, fisica realistica, esplosioni dall'aspetto pratico, movimento dinamico della telecamera, profondità di campo ridotta, riflessi di lenti anamorfiche, espressioni facciali dettagliate, texture della pelle realistica, effetti visivi di prima qualità.
+
+Telecamera: Riprese veloci di tracking → inquadratura d'azione dal basso → primo piano → campo lungo aereo. Movimento della telecamera fluido ma intenso, motion blur cinematografico.
+
+Audio: Pesanti percussioni cinematografiche, rombo del motore della moto, stridio di pneumatici, pioggia, suoni di impatto e un drammatico colpo di basso all'atterraggio finale.
+
+Importante: Mantenere lo stesso personaggio femminile, viso, acconciatura e abbigliamento coerenti in tutte le inquadrature. Nessun testo, nessun sottotitolo, nessuna anatomia distorta, nessun arto extra, nessun aspetto da cartone animato.
 ```
 
 [↑ Torna alle categorie](#catalog)

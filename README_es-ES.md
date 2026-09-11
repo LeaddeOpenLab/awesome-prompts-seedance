@@ -379,20 +379,40 @@ Fotorrealista, fantasía oscura cinematográfica, Europa medieval, rostros human
 
 <a name="prompt-2098319351917002812"></a>
 
-### Traducción en curso
+### Escena de persecución en un callejón en una noche lluviosa al estilo de una superproducción de acción de Hollywood, donde la protagonista femenina escapa de la persecución de un SUV y salta entre edificios en motocicleta.
 
 Autor：[@codewithhajra](https://x.com/codewithhajra) · [Publicación original](https://x.com/codewithhajra/status/2098319351917002812)
 
 Cine / Fotograma de película · Vehículo · Arquitectura / Interiorismo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena de persecución en un callejón en una noche lluviosa al estilo de una superproducción de acción de Hollywood, donde la protagonista femenina escapa de la persecución de un SUV y salta entre edificios en motocicleta.
 
 <img src="covers/2098319351917002812.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Personaje: Una mujer hermosa de unos 20 años con rasgos realistas y naturales, cabello largo castaño oscuro, complexión atlética, vestida con una elegante chaqueta táctica negra, pantalones oscuros ajustados y botas de combate. Se ve decidida e intrépida.
+
+Escena — 0–3s:
+Noche en un callejón urbano empapado por la lluvia. Los carteles de neón se reflejan en el pavimento mojado. La mujer corre hacia la cámara mientras un SUV negro se estrella repentinamente contra una barricada detrás de ella. Chispas y escombros vuelan por el aire.
+
+Escena — 3–6s:
+Se desliza rápidamente sobre el capó de un automóvil estacionado, gira y esquiva por poco un ataque entrante. La cámara la sigue con una rápida toma de seguimiento cámara en mano. Su cabello y su chaqueta se mueven con naturalidad al compás de la acción.
+
+Escena — 6–8s:
+Toma un casco de motocicleta del asiento, salta sobre una elegante motocicleta negra y acelera por el callejón. El SUV la persigue por detrás, con los faros cortando la lluvia.
+
+Escena — 8–10s:
+La motocicleta se lanza desde una pequeña rampa entre dos edificios. Cámara lenta casi congelada mientras vuela por el aire, con las luces de la ciudad brillando detrás de ella. Aterriza suavemente y se aleja a toda velocidad.
+
+Estilo visual: Superproducción de acción de Hollywood de alta gama, fotorrealista, iluminación cinematográfica, lluvia dramática, física realista, explosiones de aspecto práctico, movimiento dinámico de cámara, profundidad de campo reducida, destellos de lente anamórfica, expresiones faciales detalladas, textura de piel realista, efectos visuales de primera calidad.
+
+Cámara: Tomas de seguimiento rápidas → toma de acción en ángulo bajo → primer plano → toma aérea amplia. Movimiento de cámara fluido pero intenso, desenfoque de movimiento cinematográfico.
+
+Audio: Percusión cinematográfica pesada, rugido del motor de la motocicleta, chirrido de neumáticos, lluvia, sonidos de impacto y un dramático golpe de bajo en el aterrizaje final.
+
+Importante: Mantener el mismo personaje femenino, rostro, peinado y atuendo consistentes en todas las tomas. Sin texto, sin subtítulos, sin anatomía distorsionada, sin extremidades adicionales, sin apariencia de caricatura.
 ```
 
 [↑ Volver a categorías](#catalog)

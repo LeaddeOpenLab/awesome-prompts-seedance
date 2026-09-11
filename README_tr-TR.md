@@ -365,20 +365,40 @@ Fotogerçekçi, sinematik karanlık fantezi, Orta Çağ Avrupası, gerçekçi in
 
 <a name="prompt-2098319351917002812"></a>
 
-### Çeviri sürüyor
+### Hollywood aksiyon gişe rekortmeni tarzında yağmurlu gece sokak kovalamacası sahnesi; kadın kahraman SUV takibinden kaçıyor ve motosikletle binalar arasında atlayış yapıyor.
 
 Yazar：[@codewithhajra](https://x.com/codewithhajra) · [Orijinal gönderi](https://x.com/codewithhajra/status/2098319351917002812)
 
 Sinematik / Film Karesi · Araç · Mimari / İç Mekan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Hollywood aksiyon gişe rekortmeni tarzında yağmurlu gece sokak kovalamacası sahnesi; kadın kahraman SUV takibinden kaçıyor ve motosikletle binalar arasında atlayış yapıyor.
 
 <img src="covers/2098319351917002812.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Karakter: 20'li yaşlarının başında, doğal gerçekçi hatlara sahip, uzun koyu kahverengi saçlı, atletik yapılı, şık siyah taktik ceket, vücuda oturan koyu renk pantolon ve askeri botlar giyen güzel bir kadın. Kararlı ve korkusuz görünüyor.
+
+Sahne — 0–3sn:
+Yağmurla ıslanmış bir şehir ara sokağında gece vakti. Neon tabelalar ıslak zeminde yansıyor. Kadın kameraya doğru koşarken, arkasında siyah bir SUV aniden bir barikata çarpıp parçalıyor. Havada kıvılcımlar ve enkaz parçaları uçuşuyor.
+
+Sahne — 3–6sn:
+Park halindeki bir arabanın kaputu üzerinden hızla kayıyor, kendi etrafında dönerek gelen bir saldırıdan kıl payı kurtuluyor. Kamera onu hızlı bir elde takip çekimiyle izliyor. Saçları ve ceketi aksiyonla birlikte doğal bir şekilde hareket ediyor.
+
+Sahne — 6–8sn:
+Koltuğun üzerinden bir motosiklet kaskı kapıyor, şık siyah bir motosikletin üzerine atlıyor ve ara sokakta hızlanıyor. Farları yağmuru yarıp geçen SUV onu arkasından kovalıyor.
+
+Sahne — 8–10sn:
+Motosiklet iki bina arasındaki küçük bir rampadan fırlıyor. Havada uçarken adeta donmuş gibi ağır çekim, arkasında şehir ışıkları parlıyor. Sorunsuzca yere iniyor ve hızla uzaklaşıyor.
+
+Görsel stil: Üst düzey Hollywood aksiyon gişe rekortmeni filmi, fotogerçekçi, sinematik aydınlatma, dramatik yağmur, gerçekçi fizik, pratik görünümlü patlamalar, dinamik kamera hareketi, sığ alan derinliği, anamorfik lens parlamaları, ayrıntılı yüz ifadeleri, gerçekçi cilt dokusu, birinci sınıf VFX.
+
+Kamera: Hızlı takip çekimleri → alt açı aksiyon çekimi → yakın plan → geniş hava çekimi. Akıcı ancak yoğun kamera hareketi, sinematik hareket bulanıklığı.
+
+Ses: Ağır sinematik perküsyon, kükreyen motosiklet motoru, lastik gıcırtısı, yağmur, darbe sesleri ve son inişte dramatik bir bas vuruşu.
+
+Önemli: Tüm çekimler boyunca aynı kadın karakteri, yüzü, saç stilini ve kıyafeti tutarlı tutun. Metin yok, altyazı yok, bozuk anatomi yok, fazladan uzuv yok, çizgi film görünümü yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

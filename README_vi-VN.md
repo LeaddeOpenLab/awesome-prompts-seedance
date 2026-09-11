@@ -381,20 +381,40 @@ Chân thực như ảnh chụp, kỳ ảo đen tối đậm chất điện ảnh
 
 <a name="prompt-2098319351917002812"></a>
 
-### Đang dịch
+### Cảnh rượt đuổi trong ngõ hẻm đêm mưa theo phong cách bom tấn hành động Hollywood, nữ nhân vật chính trốn thoát khỏi sự truy đuổi của chiếc SUV và lái xe máy bay qua khoảng trống giữa các tòa nhà.
 
 Tác giả：[@codewithhajra](https://x.com/codewithhajra) · [Bài gốc](https://x.com/codewithhajra/status/2098319351917002812)
 
 Điện ảnh / Ảnh tĩnh từ phim · Phương tiện · Kiến trúc / Nội thất · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh rượt đuổi trong ngõ hẻm đêm mưa theo phong cách bom tấn hành động Hollywood, nữ nhân vật chính trốn thoát khỏi sự truy đuổi của chiếc SUV và lái xe máy bay qua khoảng trống giữa các tòa nhà.
 
 <img src="covers/2098319351917002812.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Nhân vật: Một phụ nữ xinh đẹp ở độ tuổi đầu 20 với các đường nét tự nhiên chân thực, mái tóc dài màu nâu sẫm, vóc dáng thể thao, mặc áo khoác chiến thuật màu đen bóng bẩy, quần tối màu vừa vặn và bốt chiến đấu. Cô ấy trông đầy kiên định và không sợ hãi.
+
+Cảnh — 0–3 giây:
+Ban đêm trong một con hẻm thành phố ướt sũng nước mưa. Biển hiệu neon phản chiếu trên mặt đường ướt. Người phụ nữ chạy về phía máy quay khi một chiếc SUV màu đen bất ngờ tông xuyên qua hàng rào chắn phía sau cô. Tia lửa và mảnh vụn bay tung tóe trong không khí.
+
+Cảnh — 3–6 giây:
+Cô nhanh chóng trượt qua mui một chiếc ô tô đang đỗ, xoay người và né tránh trong gang tấc một đòn tấn công đang lao tới. Máy quay bám theo cô bằng cú máy theo dõi cầm tay nhanh. Tóc và áo khoác của cô chuyển động tự nhiên theo hành động.
+
+Cảnh — 6–8 giây:
+Cô chộp lấy chiếc mũ bảo hiểm xe máy từ yên xe, nhảy lên một chiếc mô tô màu đen bóng bẩy và tăng tốc xuyên qua con hẻm. Chiếc SUV đuổi theo phía sau cô, đèn pha xuyên qua màn mưa.
+
+Cảnh — 8–10 giây:
+Chiếc mô tô phóng vọt lên từ một đoạn dốc nhỏ giữa hai tòa nhà. Chuyển động chậm như đóng băng khoảnh khắc khi cô bay qua không trung, ánh đèn thành phố rực sáng phía sau. Cô tiếp đất êm ái và phóng đi với tốc độ cao.
+
+Phong cách hình ảnh: Phim hành động bom tấn Hollywood đỉnh cao, chân thực như ảnh chụp, ánh sáng điện ảnh, mưa kịch tính, vật lý chân thực, các vụ nổ trông như hiệu ứng thực tế, chuyển động máy quay năng động, độ sâu trường ảnh nông, vệt sáng thấu kính anamorphic, biểu cảm khuôn mặt chi tiết, kết cấu da chân thực, VFX cao cấp.
+
+Máy quay: Cú máy theo dõi nhanh → góc máy hành động tầm thấp → cận cảnh → góc rộng từ trên cao. Chuyển động máy quay mượt mà nhưng dữ dội, độ mờ chuyển động mang tính điện ảnh.
+
+Âm thanh: Bộ gõ điện ảnh dồn dập, tiếng gầm động cơ mô tô, tiếng rít lốp xe, tiếng mưa, âm thanh va chạm và tiếng trầm bass đầy kịch tính ở cú tiếp đất cuối cùng.
+
+Quan trọng: Giữ nguyên cùng một nhân vật nữ, khuôn mặt, kiểu tóc và trang phục nhất quán trong tất cả các cảnh quay. Không có văn bản, không có phụ đề, không giải phẫu méo mó, không thừa chi, không có diện mạo hoạt hình.
 ```
 
 [↑ Về danh mục](#catalog)

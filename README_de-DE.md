@@ -371,20 +371,40 @@ Erstelle ein hochrealistisches filmisches Fantasy-Video, das in einem mittelalte
 
 <a name="prompt-2098319351917002812"></a>
 
-### Übersetzung läuft
+### Verfolgungsjagd in einer regnerischen Nachtgasse im Stil eines Hollywood-Action-Blockbusters, weibliche Hauptfigur entkommt der Verfolgung durch einen SUV und springt mit dem Motorrad über eine Gebäudespanne.
 
 Autor：[@codewithhajra](https://x.com/codewithhajra) · [Originalbeitrag](https://x.com/codewithhajra/status/2098319351917002812)
 
 Kinematisch / Filmstill · Fahrzeug · Architektur / Interieur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Verfolgungsjagd in einer regnerischen Nachtgasse im Stil eines Hollywood-Action-Blockbusters, weibliche Hauptfigur entkommt der Verfolgung durch einen SUV und springt mit dem Motorrad über eine Gebäudespanne.
 
 <img src="covers/2098319351917002812.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Charakter: Eine wunderschöne Frau Anfang 20 mit natürlichen, realistischen Zügen, langen dunkelbraunen Haaren, athletischem Körperbau, gekleidet in eine elegante schwarze Taktikjacke, eng anliegende dunkle Hosen und Kampfstiefel. Sie wirkt entschlossen und furchtlos.
+
+Szene — 0–3s:
+Nachts in einer regennassen Stadtgasse. Neonschilder spiegeln sich auf dem nassen Pflaster. Die Frau rennt auf die Kamera zu, während hinter ihr plötzlich ein schwarzer SUV eine Barrikade durchbricht. Funken und Trümmer fliegen durch die Luft.
+
+Szene — 3–6s:
+Sie rutscht schnell über die Motorhaube eines geparkten Autos, wirbelt herum und weicht einem herannahenden Angriff nur knapp aus. Die Kamera folgt ihr mit einer schnellen Handkamera-Verfolgungsaufnahme. Ihre Haare und ihre Jacke bewegen sich natürlich mit der Aktion.
+
+Szene — 6–8s:
+Sie schnappt sich einen Motorradhelm vom Sitz, springt auf ein elegantes schwarzes Motorrad und beschleunigt durch die Gasse. Der SUV jagt hinter ihr her, die Scheinwerfer schneiden durch den Regen.
+
+Szene — 8–10s:
+Das Motorrad schießt von einer kleinen Rampe zwischen zwei Gebäuden ab. Standbildartige Zeitlupe, während sie durch die Luft fliegt, die Lichter der Stadt leuchten hinter ihr. Sie landet sanft und rast davon.
+
+Visueller Stil: Hochwertiger Hollywood-Action-Blockbuster, fotorealistisch, filmische Beleuchtung, dramatischer Regen, realistische Physik, handgemacht wirkende Explosionen, dynamische Kamerabewegung, geringe Schärfentiefe, anamorphotische Blendenflecke, detaillierte Gesichtsausdrücke, realistische Hauttextur, erstklassige visuelle Effekte.
+
+Kamera: Schnelle Verfolgungsaufnahmen → Froschperspektiven-Actionaufnahme → Nahaufnahme → weite Luftaufnahme. Sanfte, aber intensive Kamerabewegung, filmische Bewegungsunschärfe.
+
+Audio: Wuchtige filmische Perkussion, dröhnender Motorradmotor, Reifenquietschen, Regen, Aufprallgeräusche und ein dramatischer Bassschlag bei der finalen Landung.
+
+Wichtig: Den gleichen weiblichen Charakter, das Gesicht, die Frisur und das Outfit über alle Aufnahmen hinweg konsistent beibehalten. Kein Text, keine Untertitel, keine verzerrte Anatomie, keine zusätzlichen Gliedmaßen, kein Cartoon-Erscheinungsbild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

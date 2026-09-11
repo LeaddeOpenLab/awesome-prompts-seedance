@@ -371,20 +371,40 @@ Créez une vidéo fantastique cinématographique hautement réaliste se déroula
 
 <a name="prompt-2098319351917002812"></a>
 
-### Traduction en cours
+### Scène de poursuite dans une ruelle par une nuit pluvieuse dans le style d'un blockbuster d'action hollywoodien, l'héroïne échappe à la poursuite d'un SUV et saute par-dessus l'espace entre deux bâtiments en moto.
 
 Auteur：[@codewithhajra](https://x.com/codewithhajra) · [Publication originale](https://x.com/codewithhajra/status/2098319351917002812)
 
 Image cinématographique / Photogramme de film · Véhicule · Architecture / Intérieur · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène de poursuite dans une ruelle par une nuit pluvieuse dans le style d'un blockbuster d'action hollywoodien, l'héroïne échappe à la poursuite d'un SUV et saute par-dessus l'espace entre deux bâtiments en moto.
 
 <img src="covers/2098319351917002812.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Personnage : Une belle femme au début de la vingtaine aux traits naturels et réalistes, de longs cheveux châtain foncé, une silhouette athlétique, portant une élégante veste tactique noire, un pantalon sombre ajusté et des bottes de combat. Elle a l'air déterminée et intrépide.
+
+Scène — 0–3s :
+Nuit dans une ruelle urbaine détrempée par la pluie. Des enseignes au néon se reflètent sur la chaussée mouillée. La femme court vers la caméra lorsqu'un SUV noir défonce soudainement une barricade derrière elle. Des étincelles et des débris volent dans les airs.
+
+Scène — 3–6s :
+Elle glisse rapidement sur le capot d'une voiture garée, pivote sur elle-même et esquive de justesse une attaque imminente. La caméra la suit avec un travelling caméra à l'épaule rapide. Ses cheveux et sa veste bougent naturellement au rythme de l'action.
+
+Scène — 6–8s :
+Elle attrape un casque de moto sur le siège, saute sur une élégante moto noire et accélère à travers la ruelle. Le SUV la poursuit par-derrière, ses phares fendant la pluie.
+
+Scène — 8–10s :
+La moto s'élance depuis une petite rampe entre deux bâtiments. Ralenti quasi figé pendant qu'elle vole dans les airs, les lumières de la ville brillant derrière elle. Elle atterrit en douceur et s'éloigne à toute vitesse.
+
+Style visuel : Blockbuster d'action hollywoodien haut de gamme, photoréaliste, éclairage cinématographique, pluie dramatique, physique réaliste, explosions d'aspect pratique, mouvement de caméra dynamique, faible profondeur de champ, reflets d'objectif anamorphique, expressions faciales détaillées, texture de peau réaliste, effets visuels haut de gamme.
+
+Caméra : Travellings rapides → plan d'action en contre-plongée → gros plan → plan large aérien. Mouvement de caméra fluide mais intense, flou de mouvement cinématographique.
+
+Audio : Percussions cinématographiques lourdes, rugissement du moteur de la moto, crissement de pneus, pluie, bruits d'impact et impact de basse dramatique à l'atterrissage final.
+
+Important : Garder le même personnage féminin, le même visage, la même coiffure et la même tenue de manière cohérente tout au long des plans. Pas de texte, pas de sous-titres, pas d'anatomie déformée, pas de membres supplémentaires, pas d'aspect dessin animé.
 ```
 
 [↑ Retour aux catégories](#catalog)
