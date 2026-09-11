@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**43** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**44** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -325,17 +325,17 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 ## Kinematisch / Filmstill
 
-<a name="prompt-2098265557237989841"></a>
+<a name="prompt-2098261249913970732"></a>
 
 ### Übersetzung läuft
 
-Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2098265557237989841)
+Autor：[@bmx\_ai13](https://x.com/bmx_ai13) · [Originalbeitrag](https://x.com/bmx_ai13/status/2098261249913970732)
 
-Fotografie · Kinematisch / Filmstill · Stadtbild / Straße · Veröffentlicht
+Comic / Storyboard · Kinematisch / Filmstill · Veröffentlicht
 
 **Zusammenfassung:** Übersetzung läuft
 
-<img src="covers/2098265557237989841.jpg" alt="Bild 1" width="480" />
+<img src="covers/2098261249913970732.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
@@ -347,22 +347,113 @@ Fotografie · Kinematisch / Filmstill · Stadtbild / Straße · Veröffentlicht
 
 ---
 
+<a name="prompt-2098265557237989841"></a>
+
+### Prompt zur Generierung eines mehrteiligen Videos mit filmischem Realismus auf den Straßen Manhattans der 1990er-Jahre.
+
+Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2098265557237989841)
+
+Fotografie · Kinematisch / Filmstill · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Prompt zur Generierung eines mehrteiligen Videos mit filmischem Realismus auf den Straßen Manhattans der 1990er-Jahre.
+
+<img src="covers/2098265557237989841.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+{
+  "format": "16:9, 30s, nativer Ton ein, filmischer Realismus, keine Texteinblendung, keine Bildschirmuntertitel",
+  "style": "Manhattan-Straßenkinematografie der 1990er-Jahre, Emulation von warmem Kodak-Filmmaterial, feines Korn, weicher Dunst, anamorphotische Linsenreflexionen",
+  "subject_and_action": {
+    "0-6s": "Weite Handkamera-Einstellung, die sich vorwärts durch eine dichte Menschenmenge auf einem Bürgersteig in Midtown Manhattan bewegt. Im Vordergrund blickt ein Mann im dunkelblauen Anzug mitten im Schritt auf seine Armbanduhr. Eine Frau mit lockigem rotbraunem Haar und beigem Blazer geht neben ihm. Dampf steigt von einem Hotdog-Stand mit blau-gelb gestreiften Sonnenschirmen in der Bildmitte auf. Gelbe Taxis kriechen auf der Straße vorbei.",
+    "6-14s": "Die Kamera verharrt in einer halbnahen Einstellung, während eine Frau in einem Oberteil mit leuchtendem Blumenmuster Blicke und ein Lächeln mit einem Mann in einem weiß-braunen Outfit in der Nähe des Imbisswagens austauscht. Hinter ihnen geht ein Mann im grauen Anzug und burgunderroter Krawatte auf die Kamera zu. Die Dichte der Menge bleibt hoch, alle in Geschäftskleidung, natürliches, versetztes Schritttempo.",
+    "14-20s": "Schnitt auf einen tieferen, näheren Winkel an einer Ladenecke, gekennzeichnet mit 'W 34th St.'. Zwei junge Männer in legerer Streetwear (Rucksack, Jeans, Poloshirts) gehen lachend in die entgegengesetzte Richtung, im Vordergrund, während ein gelbes Taxi mit Bewegungsunschärfe durch den unteren Bildbereich rast. Schaufensterpuppen eines Bekleidungsgeschäfts und ein Neon-Schild mit 'OPEN' sind im Schaufenster hinter ihnen sichtbar.",
+    "20-30s": "Kamera verweilt leicht erhöht an einer Fußgängerüberweg-Kreuzung. Eine große Menge von Büroangestellten überquert den weiß gestreiften Zebrastreifen auf die Kamera zu, daneben gelbe Taxis im zähflüssigen Verkehr, rechts ein zweiter Hotdog-Stand mit gestreiften Sonnenschirmen. Die Kamera bleibt ruhig, während sich die Menge am Ende leicht lichtet, und zieht den Fokus auf die dunstige Skyline im fernen Hintergrund."
+  },
+  "environment": "Dichte Kreuzung in Midtown Manhattan, hohe Bürotürme, die im atmosphärischen Dunst verschwinden, Straßenhändlerwagen, bemalte Fußgängerüberwege, zeitgemäße Beschilderung (absichtlich generisch/unleserlich gehalten), klassische kastenförmige gelbe Taxis",
+  "camera": "Mitgeführte Handkamera auf Augenhöhe, langsame Dolly-Fahrt nach vorne mit natürlichem Schwanken; ein harter Schnitt bei 14s zu einem sekundären Winkel; Schärfentiefe im Vordergrund, weicher Abfall bei den Türmen im Hintergrund",
+  "lighting_and_color": "Helle Mittagssonne, warmes bernsteinfarbenes Führungslicht, weiche Schattenkanten, leicht untersättigter Hintergrund mit kräftiger Gelb-/Blausättigung bei Taxis und Sonnenschirmen",
+  "audio": "Umgebendes Summen des Stadtverkehrs, überlagerndes Gemurmel der Menge und Schritte, ferne Autohupen, kurzes Dröhnen eines Busmotors unter dem Schnitt bei 14s, keine Dialoge, keine Musik",
+  "continuity": "Gleiche Menschendichte, gleiches Taximodell/-farbe, gleiches Schirmdesign der Imbisswagen und gleiche warme Farbkorrektur über alle vier Segmente hinweg beibehalten",
+  "constraints": "Kein lesbarer oder entzifferbarer Text auf Schildern, keine modernen Telefone oder Fahrzeuge, keine anachronistische Kleidung, keine sichtbaren Logos, keine verzerrten oder duplizierten Gesichter"
+}
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2098264877248987394"></a>
 
-### Übersetzung läuft
+### Ein Prompt für ein 30-sekündiges filmreifes Musikvideo mit drei Sängern, die auf einer neonbeleuchteten, nassen Straße in der Stadt auftreten.
 
 Autor：[@ChillaiKalan\_\_](https://x.com/ChillaiKalan__) · [Originalbeitrag](https://x.com/ChillaiKalan__/status/2098264877248987394)
 
 Kinematisch / Filmstill · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Prompt für ein 30-sekündiges filmreifes Musikvideo mit drei Sängern, die auf einer neonbeleuchteten, nassen Straße in der Stadt auftreten.
 
 <img src="covers/2098264877248987394.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 30-sekündiges, ultrarealistisches, filmreifes Musikvideo mit drei jungen erwachsenen Sängern, die nachts in einer neonbeleuchteten Stadt ein emotionales modernes Lied vortragen. Das Video sollte wie ein professionelles High-Budget-Musikvideo aussehen, mit realistischen Menschen, präziser Lippensynchronisation, ausdrucksstarken Darbietungen, atmosphärischer Beleuchtung und anspruchsvoller Kinematografie.
+
+CHARAKTERE
+
+Charakter 1 — Weibliche Hauptstimme:
+Junge erwachsene Frau, Anfang 20, langes schwarzes Haar, ausdrucksstarke Augen, elegantes schwarz-silbernes Outfit, selbstbewusste und dennoch emotionale Persönlichkeit.
+
+Charakter 2 — Männliche Hauptstimme:
+Junger erwachsener Mann, Anfang 20, dunkles texturiertes Haar, stilvolle schwarze Jacke und weißes Hemd, charismatisch und emotional ausdrucksstark.
+
+Charakter 3 — Sängerin:
+Junge erwachsene Frau, Anfang 20, schulterlanges dunkles Haar, modisches tiefrotes Outfit, energiegeladene, aber natürliche Bühnenpräsenz.
+
+Halte ihre Gesichter, Kleidung, Frisuren, Körperproportionen und Identitäten während des gesamten Videos vollkommen konsistent.
+
+UMGEBUNG
+
+Eine futuristische Innenstadtstraße bei Nacht nach einem leichten Regen. Nasser Asphalt, der bunte Neonschilder reflektiert, leuchtende Schaufenster, subtiler Nebel, entfernter Verkehr, filmreifes Bokeh, atmosphärische Stadtlichter und realistische Reflexionen.
+
+EINSTELLUNG FÜR EINSTELLUNG
+
+0–4 Sek. — Eröffnung
+Extreme Nahaufnahme der Augen von Charakter 1. Neonreflexionen sind in ihren Augen sichtbar. Die Kamera zieht sich langsam zurück, während sie zu singen beginnt. Regentropfen glitzern im Hintergrund.
+
+4–8 Sek. — Hauptdarbietung
+Charakter 1 geht langsam die nasse Straße entlang und singt dabei direkt in die Kamera. Sanfte Rückwärts-Tracking-Aufnahme. Ihr Haar bewegt sich natürlich in der Nachtbrise.
+
+8–12 Sek. — Männliche Strophe
+Schnitt zu Charakter 2, der an einem neonbeleuchteten Gebäude lehnt. Er beginnt, seinen Abschnitt zu singen. Langsame filmreife Kameraumkreisung um ihn herum, mit farbenfrohen Stadtlichtern, die hinter ihm verschwimmen.
+
+12–16 Sek. — Sängerin
+Charakter 3 erscheint und geht durch die Neonstraße. Sie singt, während sie in die Kamera blickt. Eine sanfte seitliche Tracking-Aufnahme geht in eine Nahaufnahme über.
+
+16–22 Sek. — Trio-Performance
+Alle drei Charaktere treffen sich an einer breiten Straßenkreuzung und treten gemeinsam auf. Die Kamera kreist langsam um sie herum, während sie singen. Natürliche Interaktion, subtile Gesten, glaubwürdige Chemie.
+
+22–27 Sek. — Emotionaler Refrain
+Schnelle, aber elegante Abfolge von Nahaufnahmen: Charakter 1 singt, Charakter 2 stimmt ein, Charakter 3 harmonisiert. Jede Mundbewegung folgt präzise dem bereitgestellten Audio.
+
+27–30 Sek. — Finale Einstellung
+Die drei Sänger stehen zusammen mitten auf der nassen Straße. Die Kamera steigt langsam nach oben und zieht sich zurück, wodurch die leuchtende Stadt um sie herum sichtbar wird. Sie beenden die letzte Textzeile gemeinsam exakt auf dem Beat. Ende mit einer dramatischen, filmreifen Totalen.
+
+KINEMATOGRAFIE
+
+High-End-Musikvideo-Kinematografie, anamorphotischer Linsenlook, geringe Schärfentiefe, sanftes Gimbal-Tracking, Zeitlupenakzente, filmreife Nahaufnahmen, kontrollierte Kamerabewegungen, realistische Linsenreflexionen, natürliche Bewegungsunschärfe, wunderschönes Bokeh und dynamische Komposition.
+
+AUDIO & PERFORMANCE
+
+Verwende den bereitgestellten Song/das bereitgestellte Audio als exakten Soundtrack. Die Charaktere müssen sichtbar den korrekten Text mit präziser Lippensynchronisation auf Phonemebene singen. Mimik, Augenbewegungen und Gesten sollten zur Emotion und zum Rhythmus des Songs passen. Kein Sprechen unpassender Dialoge.
+
+QUALITÄT
+
+Ultrarealistisch, fotorealistische Menschen, natürliche Hauttextur, realistische Augen und Zähne, physikalisch korrekte Beleuchtung, realistische nasse Oberflächen, detaillierte Haarsträhnen, realistische Stoffbewegung, HDR, filmreifer Kontrast, professionelles Color Grading, 4K-Detail, erstklassige Musikvideo-Ästhetik.
+
+NEGATIV: Gesichtsmorphing, Identitätswechsel, inkonsistente Kleidung, zusätzliche Personen, doppelte Charaktere, verzerrte Hände, deformierte Gesichter, unnatürliches Gehen, roboterhafte Bewegungen, falsche Lippensynchronisation, zufälliges Reden, Flackern, Artefakte bei der Bildinterpolation, Text, Untertitel, Logos, Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

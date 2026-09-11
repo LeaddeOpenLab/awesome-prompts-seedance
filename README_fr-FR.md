@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**43** Prompts · Dernier ajout: **2026-09-11**
+**44** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -325,17 +325,17 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 ## Image cinématographique / Photogramme de film
 
-<a name="prompt-2098265557237989841"></a>
+<a name="prompt-2098261249913970732"></a>
 
 ### Traduction en cours
 
-Auteur：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publication originale](https://x.com/AiwithBloodline/status/2098265557237989841)
+Auteur：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publication originale](https://x.com/bmx_ai13/status/2098261249913970732)
 
-Photographie · Image cinématographique / Photogramme de film · Paysage urbain / Rue · Publié
+Bande dessinée / Storyboard · Image cinématographique / Photogramme de film · Publié
 
 **Résumé:** Traduction en cours
 
-<img src="covers/2098265557237989841.jpg" alt="Image 1" width="480" />
+<img src="covers/2098261249913970732.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
@@ -347,22 +347,113 @@ Traduction en cours
 
 ---
 
+<a name="prompt-2098265557237989841"></a>
+
+### Prompt de génération vidéo multi-segments au réalisme cinématographique dans les rues de Manhattan des années 1990.
+
+Auteur：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publication originale](https://x.com/AiwithBloodline/status/2098265557237989841)
+
+Photographie · Image cinématographique / Photogramme de film · Paysage urbain / Rue · Publié
+
+**Résumé:** Prompt de génération vidéo multi-segments au réalisme cinématographique dans les rues de Manhattan des années 1990.
+
+<img src="covers/2098265557237989841.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+{
+  "format": "16:9, 30s, audio natif activé, réalisme cinématographique, pas de texte superposé, pas de sous-titres à l'écran",
+  "style": "Cinématographie de rue à Manhattan des années 1990, émulation de pellicule Kodak chaude, grain fin, brume légère, reflets anamorphiques",
+  "subject_and_action": {
+    "0-6s": "Plan large caméra à l'épaule avançant à travers une foule dense sur un trottoir de Midtown Manhattan. Au premier plan, un homme en costume bleu marine jette un coup d'œil à sa montre-bracelet en plein pas. Une femme aux cheveux auburn bouclés vêtue d'un blazer beige marche à ses côtés. De la vapeur s'élève d'un chariot à hot-dogs aux parasols rayés bleu et jaune au centre du cadre. Des taxis jaunes avancent au ralenti sur la chaussée.",
+    "6-14s": "La caméra maintient un plan moyen-large tandis qu'une femme vêtue d'un haut à imprimé floral éclatant échange un regard et un sourire avec un homme en tenue beige et blanche près du chariot de nourriture. Derrière eux, un homme en costume gris et cravate bordeaux marche vers la caméra. La densité de la foule reste élevée, tout le monde en tenue d'affaires, rythme de marche naturel et échelonné.",
+    "14-20s": "Coupe vers un angle plus bas et plus rapproché à l'angle d'une vitrine marquée 'W 34th St.'. Deux jeunes hommes en vêtements streetwear décontractés (sac à dos, jeans, polos) marchent en riant dans la direction opposée, au premier plan, alors qu'un taxi jaune file à toute allure dans le bas du cadre avec un flou de mouvement. Des mannequins de magasin de vêtements et une enseigne au néon 'OPEN' sont visibles dans la vitrine derrière eux.",
+    "20-30s": "La caméra se stabilise à une intersection avec passage piéton, légèrement en hauteur. Une foule nombreuse d'employés de bureau traverse sur le passage clouté à rayures blanches vers la caméra, des taxis jaunes tournant au ralenti dans les embouteillages à côté d'eux, un deuxième chariot à hot-dogs avec des parasols rayés sur la droite. La caméra reste stable alors que la foule s'éclaircit légèrement vers la fin, faisant la mise au point vers la ligne d'horizon brumeuse à l'arrière-plan profond."
+  },
+  "environment": "Intersection dense de Midtown Manhattan, hautes tours de bureaux s'estompant dans une brume atmosphérique, chariots de vendeurs ambulants, passages pour piétons peints, signalétique fidèle à l'époque (volontairement générique/illisible), taxis jaunes cubiques classiques",
+  "camera": "Caméra portée à hauteur des yeux, travelling avant lent avec balancement naturel ; une coupe franche à 14s vers un angle secondaire ; mise au point nette au premier plan, adoucissement progressif sur les tours en arrière-plan",
+  "lighting_and_color": "Soleil éclatant de midi, lumière principale ambrée et chaude, contours d'ombres doux, arrière-plan légèrement désaturé avec une saturation éclatante des jaunes et bleus sur les taxis et les parasols",
+  "audio": "Bourdonnement ambiant de la circulation urbaine, murmures superposés de la foule et bruits de pas, klaxons de voitures lointains, bref grondement de moteur de bus sous la coupe à 14s, aucun dialogue, aucune musique",
+  "continuity": "Même densité de foule, même modèle/couleur de taxi, même motif de parasol de chariot et même étalonnage des couleurs chaudes conservés sur les quatre segments",
+  "constraints": "Aucun texte lisible ou déchiffrable sur les panneaux, pas de téléphones ni de véhicules modernes, pas de vêtements anachroniques, pas de logos visibles, pas de visages déformés ou dupliqués"
+}
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2098264877248987394"></a>
 
-### Traduction en cours
+### Un prompt pour un clip musical cinématographique de 30 secondes mettant en scène trois chanteurs se produisant dans une rue mouillée illuminée par des néons.
 
 Auteur：[@ChillaiKalan\_\_](https://x.com/ChillaiKalan__) · [Publication originale](https://x.com/ChillaiKalan__/status/2098264877248987394)
 
 Image cinématographique / Photogramme de film · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt pour un clip musical cinématographique de 30 secondes mettant en scène trois chanteurs se produisant dans une rue mouillée illuminée par des néons.
 
 <img src="covers/2098264877248987394.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un clip musical cinématographique ultra-réaliste de 30 secondes mettant en scène trois jeunes chanteurs adultes interprétant une chanson moderne émouvante dans une ville illuminée par des néons la nuit. La vidéo doit ressembler à un clip musical professionnel à gros budget avec des humains réalistes, une synchronisation labiale précise, des performances expressives, un éclairage atmosphérique et une cinématographie sophistiquée.
+
+PERSONNAGES
+
+Personnage 1 — Voix principale féminine :
+Jeune femme adulte, début de la vingtaine, longs cheveux noirs, yeux expressifs, tenue élégante noire et argentée, personnalité confiante mais émotive.
+
+Personnage 2 — Voix principale masculine :
+Jeune homme adulte, début de la vingtaine, cheveux noirs texturés, veste noire élégante et chemise blanche, charismatique et émotionnellement expressif.
+
+Personnage 3 — Chanteuse :
+Jeune femme adulte, début de la vingtaine, cheveux noirs mi-longs, tenue rouge foncé très à la mode, présence scénique énergique mais naturelle.
+
+Gardez leurs visages, vêtements, coiffures, proportions corporelles et identités parfaitement cohérents tout au long de la vidéo.
+
+ENVIRONNEMENT
+
+Une rue futuriste du centre-ville la nuit après une pluie fine. Chaussée mouillée reflétant des enseignes au néon colorées, devantures de magasins lumineuses, brume subtile, circulation lointaine, bokeh cinématographique, lumières de la ville atmosphériques et reflets réalistes.
+
+PLAN PAR PLAN
+
+0–4 sec — Ouverture
+Très gros plan sur les yeux du Personnage 1. Reflets des néons visibles dans ses yeux. La caméra recule lentement alors qu'elle commence à chanter. Des gouttes de pluie scintillent en arrière-plan.
+
+4–8 sec — Performance principale
+Le Personnage 1 marche lentement dans la rue mouillée tout en chantant directement vers la caméra. Travelling arrière fluide. Ses cheveux bougent naturellement dans la brise nocturne.
+
+8–12 sec — Couplet masculin
+Coupe vers le Personnage 2 appuyé contre un bâtiment éclairé aux néons. Il commence à chanter sa partie. Lent travelling circulaire cinématographique autour de lui, avec les lumières colorées de la ville floues derrière lui.
+
+12–16 sec — Chanteuse
+Le Personnage 3 apparaît en marchant dans la rue aux néons. Elle chante tout en regardant vers la caméra. Un travelling latéral fluide fait la transition vers un gros plan.
+
+16–22 sec — Performance en trio
+Les trois personnages se retrouvent à un large carrefour de la ville et chantent ensemble. La caméra tourne lentement autour d'eux pendant qu'ils chantent. Interaction naturelle, gestes subtils, alchimie crédible.
+
+22–27 sec — Refrain émouvant
+Séquence rapide mais élégante de gros plans : le Personnage 1 chantant, le Personnage 2 le rejoignant, le Personnage 3 harmonisant. Chaque mouvement de bouche suit précisément la piste audio fournie.
+
+27–30 sec — Plan final
+Les trois chanteurs se tiennent ensemble au milieu de la rue mouillée. La caméra s'élève lentement vers le haut et s'éloigne, révélant la ville illuminée autour d'eux. Ils terminent la dernière phrase de la chanson ensemble exactement sur le tempo. Fin sur un plan d'ensemble cinématographique dramatique.
+
+CINÉMATOGRAPHIE
+
+Cinématographie haut de gamme de clip musical, rendu d'objectif anamorphique, faible profondeur de champ, travelling fluide au stabilisateur, ralentis accentués, gros plans cinématographiques, mouvements de caméra contrôlés, reflets d'objectif réalistes, flou de mouvement naturel, superbe bokeh et composition dynamique.
+
+AUDIO & PERFORMANCE
+
+Utilisez la chanson/l'audio fourni comme bande sonore exacte. Les personnages doivent chanter visiblement les bonnes paroles avec une synchronisation labiale précise au niveau des phonèmes. Les expressions, les mouvements des yeux et les gestes doivent correspondre à l'émotion et au rythme de la chanson. Aucun dialogue improvisé ou sans rapport.
+
+QUALITÉ
+
+Ultra-réaliste, humains photoréalistes, texture de peau naturelle, yeux et dents réalistes, éclairage physiquement précis, surfaces mouillées réalistes, mèches de cheveux détaillées, mouvement réaliste des tissus, HDR, contraste cinématographique, étalonnage des couleurs professionnel, détails 4K, esthétique de clip musical haut de gamme.
+
+NÉGATIF : morphing de visage, changements d'identité, vêtements incohérents, personnes supplémentaires, personnages en double, mains déformées, visages déformés, démarche non naturelle, mouvements robotiques, mauvaise synchronisation labiale, bavardages aléatoires, scintillement, artefacts d'interpolation d'images, texte, sous-titres, logos, filigranes.
 ```
 
 [↑ Retour aux catégories](#catalog)

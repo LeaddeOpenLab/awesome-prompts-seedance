@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**43** Prompt · Bổ sung mới nhất: **2026-09-11**
+**44** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -327,17 +327,17 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
-<a name="prompt-2098265557237989841"></a>
+<a name="prompt-2098261249913970732"></a>
 
 ### Đang dịch
 
-Tác giả：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2098265557237989841)
+Tác giả：[@bmx\_ai13](https://x.com/bmx_ai13) · [Bài gốc](https://x.com/bmx_ai13/status/2098261249913970732)
 
-Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Quang cảnh thành phố / Đường phố · Đã xuất bản
+Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
 **Tóm tắt:** Đang dịch
 
-<img src="covers/2098265557237989841.jpg" alt="Hình ảnh 1" width="480" />
+<img src="covers/2098261249913970732.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
@@ -349,22 +349,113 @@ Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Quang cảnh thành ph
 
 ---
 
+<a name="prompt-2098265557237989841"></a>
+
+### Lời nhắc tạo video nhiều phân đoạn mang phong cách điện ảnh chân thực về đường phố Manhattan những năm 1990.
+
+Tác giả：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2098265557237989841)
+
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Lời nhắc tạo video nhiều phân đoạn mang phong cách điện ảnh chân thực về đường phố Manhattan những năm 1990.
+
+<img src="covers/2098265557237989841.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+{
+  "format": "16:9, 30 giây, bật âm thanh gốc, chân thực như điện ảnh, không chèn văn bản, không phụ đề trên màn hình",
+  "style": "Nghệ thuật quay phim đường phố Manhattan thập niên 1990, mô phỏng chất phim Kodak ấm áp, hạt mịn, sương mờ dịu nhẹ, hiệu ứng lóa ống kính anamorphic",
+  "subject_and_action": {
+    "0-6s": "Cảnh quay rộng cầm tay lướt về phía trước qua đám đông dày đặc trên vỉa hè Midtown Manhattan. Người đàn ông ở tiền cảnh mặc bộ vest màu xanh hải quân liếc nhìn đồng hồ đeo tay khi đang bước đi. Một phụ nữ có mái tóc xoăn màu nâu đỏ trong chiếc áo blazer màu be bước đi bên cạnh anh. Khói bốc lên từ chiếc xe bán xúc xích với những chiếc ô sọc xanh-vàng ở giữa khung hình. Những chiếc taxi màu vàng bò chầm chậm trên đường.",
+    "6-14s": "Máy quay giữ góc trung bình rộng khi một phụ nữ mặc áo in hoa rực rỡ trao ánh mắt và nụ cười với một người đàn ông mặc trang phục màu nâu vàng và trắng gần xe bán đồ ăn. Phía sau họ, một người đàn ông mặc bộ vest xám và thắt cà vạt màu đỏ tía bước về phía máy quay. Mật độ đám đông vẫn cao, tất cả đều mặc trang phục công sở, nhịp bước đi so le tự nhiên.",
+    "14-20s": "Chuyển sang góc quay thấp hơn, gần hơn tại một góc mặt tiền cửa hàng có gắn biển 'W 34th St.'. Hai thanh niên mặc trang phục dạo phố giản dị (ba lô, quần jean, áo polo) vừa đi vừa cười theo hướng ngược lại ở tiền cảnh, trong khi một chiếc taxi màu vàng chạy vụt qua khung hình phía dưới tạo vệt mờ chuyển động. Ma-nơ-canh cửa hàng quần áo và biển hiệu neon 'OPEN' có thể nhìn thấy qua cửa sổ phía sau họ.",
+    "20-30s": "Máy quay dừng lại ở một giao lộ có lối sang đường, hơi nâng cao góc nhìn. Một đám đông lớn nhân viên văn phòng băng qua lối đi vạch trắng hướng về phía máy quay, những chiếc taxi vàng đang dừng chờ đèn đỏ bên cạnh họ, chiếc xe xúc xích thứ hai có ô sọc ở bên phải. Máy quay giữ ổn định khi đám đông thưa dần ở đoạn cuối, chuyển tiêu điểm về phía đường chân trời mờ ảo ở hậu cảnh sâu."
+  },
+  "environment": "Giao lộ Midtown Manhattan đông đúc, các tòa tháp văn phòng cao tầng mờ dần vào làn sương khí quyển, xe bán hàng rong trên phố, lối sang đường có vạch kẻ sơn, biển báo đúng thời kỳ (cố ý làm mờ/không đọc được), xe taxi vàng hình hộp cổ điển",
+  "camera": "Máy quay cầm tay khi đang đi bộ, ngang tầm mắt, dolly tiến chậm với độ lắc tự nhiên; một cú cắt dứt khoát ở giây thứ 14 sang góc thứ hai; độ sâu trường ảnh sâu ở tiền cảnh, mờ dần mềm mại ở các tòa tháp hậu cảnh",
+  "lighting_and_color": "Nắng trưa rực rỡ, ánh sáng chính màu hổ phách ấm áp, viền bóng mềm mại, hậu cảnh hơi giảm độ bão hòa với sắc vàng/xanh lam rực rỡ trên xe taxi và ô",
+  "audio": "Tiếng ồn ào của giao thông đô thị xung quanh, tiếng thì thầm của đám đông và tiếng bước chân chồng chéo, tiếng còi xe xa xa, tiếng động cơ xe buýt rền nhẹ tại cú cắt ở giây thứ 14, không có hội thoại, không có âm nhạc",
+  "continuity": "Giữ nguyên mật độ đám đông, cùng một mẫu/màu taxi, cùng thiết kế ô của xe bán đồ ăn và cùng tông màu ấm áp xuyên suốt cả bốn phân đoạn",
+  "constraints": "Không có văn bản rõ ràng hoặc đọc được trên bất kỳ biển báo nào, không có điện thoại hoặc phương tiện hiện đại, không có trang phục sai thời kỳ, không có logo nhìn thấy được, không có khuôn mặt bị biến dạng hoặc trùng lặp"
+}
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098264877248987394"></a>
 
-### Đang dịch
+### Lời nhắc video ca nhạc điện ảnh dài 30 giây có ba ca sĩ biểu diễn trên đường phố ướt át rực rỡ ánh đèn neon.
 
 Tác giả：[@ChillaiKalan\_\_](https://x.com/ChillaiKalan__) · [Bài gốc](https://x.com/ChillaiKalan__/status/2098264877248987394)
 
 Điện ảnh / Ảnh tĩnh từ phim · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video ca nhạc điện ảnh dài 30 giây có ba ca sĩ biểu diễn trên đường phố ướt át rực rỡ ánh đèn neon.
 
 <img src="covers/2098264877248987394.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video ca nhạc điện ảnh chân thực tột đỉnh dài 30 giây với sự tham gia của ba ca sĩ trẻ biểu diễn một bài hát hiện đại đầy cảm xúc tại một thành phố rực rỡ ánh đèn neon vào ban đêm. Video phải trông giống như một video ca nhạc chuyên nghiệp với kinh phí lớn, có con người chân thực, hát nhép (lip-sync) chính xác, màn trình diễn đầy biểu cảm, ánh sáng đậm chất bầu không khí và kỹ thuật quay phim tinh tế.
+
+NHÂN VẬT
+
+Nhân vật 1 — Nữ chính:
+Phụ nữ trẻ, đầu độ tuổi 20, tóc đen dài, đôi mắt biểu cảm, trang phục đen và bạc thanh lịch, tính cách tự tin nhưng giàu cảm xúc.
+
+Nhân vật 2 — Nam chính:
+Nam thanh niên, đầu độ tuổi 20, tóc sẫm màu có kết cấu rõ nét, áo khoác đen thời trang và áo sơ mi trắng, lôi cuốn và giàu cảm xúc.
+
+Nhân vật 3 — Nữ ca sĩ phụ:
+Phụ nữ trẻ, đầu độ tuổi 20, tóc sẫm màu ngang vai, trang phục màu đỏ thẫm thời thượng, phong thái sân khấu tràn đầy năng lượng nhưng tự nhiên.
+
+Giữ cho khuôn mặt, trang phục, kiểu tóc, tỷ lệ cơ thể và danh tính của họ hoàn toàn nhất quán trong suốt video.
+
+MÔI TRƯỜNG
+
+Một con phố trung tâm thành phố theo phong cách tương lai vào ban đêm sau cơn mưa nhẹ. Mặt đường ướt phản chiếu những bảng hiệu neon đầy màu sắc, các mặt tiền cửa hàng phát sáng, sương mù nhẹ, giao thông xa xa, hiệu ứng bokeh điện ảnh, ánh đèn thành phố đầy bầu không khí và những phản chiếu chân thực.
+
+TỪNG CẢNH QUAY
+
+0–4 giây — Mở đầu
+Cận cảnh cực đại (extreme close-up) vào đôi mắt của Nhân vật 1. Ánh đèn neon phản chiếu rõ trong mắt cô ấy. Máy quay từ từ lùi lại khi cô bắt đầu hát. Những hạt mưa lấp lánh ở hậu cảnh.
+
+4–8 giây — Phần biểu diễn của giọng ca chính
+Nhân vật 1 bước đi chậm rãi trên con phố ướt át trong khi hát hướng thẳng về phía máy quay. Cảnh quay theo dõi lùi mượt mà. Mái tóc của cô chuyển động tự nhiên trong làn gió đêm.
+
+8–12 giây — Đoạn của nam chính
+Chuyển cảnh sang Nhân vật 2 đang dựa vào một tòa nhà ngập tràn ánh đèn neon. Anh bắt đầu hát phần của mình. Máy quay xoay quanh anh một cách điện ảnh và chậm rãi, với ánh đèn thành phố rực rỡ mờ ảo phía sau anh.
+
+12–16 giây — Nữ ca sĩ
+Nhân vật 3 xuất hiện bước đi qua con phố neon. Cô ấy hát trong khi nhìn về phía máy quay. Cảnh quay theo dõi bên mượt mà chuyển tiếp thành một cảnh cận cảnh.
+
+16–22 giây — Phần biểu diễn của bộ ba
+Cả ba nhân vật gặp nhau tại một giao lộ rộng lớn của thành phố và cùng nhau biểu diễn. Máy quay từ từ quay vòng quanh họ khi họ hát. Tương tác tự nhiên, cử chỉ tinh tế, sự hòa hợp chân thực.
+
+22–27 giây — Đoạn điệp khúc đầy cảm xúc
+Chuỗi cảnh cận cảnh nhanh nhưng thanh lịch: Nhân vật 1 hát, Nhân vật 2 hòa giọng, Nhân vật 3 bè. Mọi chuyển động của miệng đều khớp chính xác với âm thanh được cung cấp.
+
+27–30 giây — Cảnh quay cuối cùng
+Ba ca sĩ đứng cùng nhau giữa con đường ướt sũng. Máy quay từ từ nâng lên cao và lùi ra xa, để lộ thành phố rực rỡ xung quanh họ. Họ cùng nhau kết thúc câu hát cuối cùng chính xác theo từng nhịp điệu. Kết thúc bằng một cảnh toàn rộng mang tính điện ảnh đầy ấn tượng.
+
+QUAY PHIM
+
+Kỹ thuật quay video ca nhạc cao cấp, hiệu ứng ống kính anamorphic, độ sâu trường ảnh nông, bám theo bằng gimbal mượt mà, điểm nhấn chuyển động chậm (slow-motion), các cảnh cận cảnh điện ảnh, chuyển động máy quay có kiểm soát, hiện tượng lóa ống kính (lens flare) chân thực, độ mờ chuyển động tự nhiên, bokeh đẹp mắt và bố cục năng động.
+
+ÂM THANH & BIỂU DIỄN
+
+Sử dụng bài hát/âm thanh được cung cấp làm nhạc nền chính xác. Các nhân vật phải hát rõ ràng lời bài hát chính xác với độ khớp khẩu hình (lip-sync) chuẩn xác đến từng âm vị. Biểu cảm, chuyển động mắt và cử chỉ phải phù hợp với cảm xúc và nhịp điệu của bài hát. Không nói những câu thoại không liên quan.
+
+CHẤT LƯỢNG
+
+Cực kỳ chân thực, con người chân thực như ảnh chụp, kết cấu da tự nhiên, mắt và răng chân thực, ánh sáng chính xác về mặt vật lý, bề mặt ướt chân thực, từng lọn tóc chi tiết, chuyển động vải thực tế, HDR, độ tương phản điện ảnh, chỉnh màu chuyên nghiệp, chi tiết 4K, thẩm mỹ video ca nhạc cao cấp.
+
+TIÊU CỰC: biến dạng khuôn mặt (morphing), thay đổi danh tính, trang phục không nhất quán, thêm người ngoài, nhân vật bị nhân đôi, bàn tay méo mó, khuôn mặt biến dạng, dáng đi không tự nhiên, chuyển động cứng nhắc như robot, hát nhép sai, nói chuyện ngẫu nhiên, nhấp nháy, lỗi nội suy khung hình, văn bản, phụ đề, logo, hình mờ (watermark).
 ```
 
 [↑ Về danh mục](#catalog)

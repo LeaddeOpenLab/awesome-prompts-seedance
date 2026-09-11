@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**43** Prompts · Latest addition: **2026-09-11**
+**44** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,48 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098261249913970732"></a>
+
+### 15-second shot-by-shot video prompt of a football player dropping to one knee to propose to a female referee showing a red card.
+
+Author：[@bmx\_ai13](https://x.com/bmx_ai13) · [Source](https://x.com/bmx_ai13/status/2098261249913970732)
+
+Comic / Storyboard · Cinematic / Film Still · Published
+
+**Summary:** 15-second shot-by-shot video prompt of a football player dropping to one knee to propose to a female referee showing a red card.
+
+<img src="covers/2098261249913970732.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 15-second photorealistic football stadium video for Seedance 2.5. Aspect ratio: 16:9 landscape. Authentic spectator footage, subtle handheld movement, natural daylight, realistic skin, vivid green grass, and crowded stands. One continuous shot with a gradual zoom.
+
+An adult male footballer with short dark hair wears a plain navy-blue kit. An adult female referee with dark hair in a tight bun wears a plain black referee uniform, black socks, wristwatch, and whistle. All clothing and equipment are unbranded.
+
+0–2 seconds: Wide landscape view from the front row beside the touchline. Position the footballer on the left and the referee on the right, with the pitch and stadium crowd stretching behind them. Spectators’ hands and phones partially frame the lower corners. She holds a plain red card overhead as he begins lowering himself onto one knee.
+
+2–4 seconds: Slowly zoom toward the pair as his knee touches the grass. He lifts a small black ring box and opens it toward her. Keep the raised red card, open box, and both characters clearly visible within the horizontal frame.
+
+4–6 seconds: Settle into a medium two-shot, showing the kneeling player in three-quarter profile and the referee’s face clearly. She notices the ring. Her stern expression becomes surprise: eyebrows lift, lips part, and her raised arm stays momentarily frozen.
+
+6–8 seconds: Move slightly closer while retaining both faces. She looks from the ring to his eyes and breaks into a warm, overwhelmed smile. He remains on one knee, smiling and holding the box steadily.
+
+8–10 seconds: She laughs and slowly lowers the red card to her side. Her shoulders relax. Spectators along the edges lift their phones as the crowd’s excitement grows.
+
+10–12 seconds: She gives a happy nod and reaches toward him with her free hand. He closes the ring box, holds it securely, and rises naturally. Gently tilt upward to keep both heads comfortably framed.
+
+12–15 seconds: They step together and embrace warmly beside the touchline. Keep the couple centered, with teammates approaching and applauding across the background. Hold on the hug with subtle handheld sway.
+
+Audio: Natural stadium ambience, rising cheers, applause, and happy laughter. No intelligible dialogue or voiceover.
+
+Visual constraints: Consistent faces, clothing, realistic hands, natural movement, and stable object continuity. Full-frame 16:9 composition, no black bars. No text, captions, subtitles, logos, watermarks, jersey names or numbers, sponsor marks, readable signs, emojis, or graphic overlays.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098265557237989841"></a>
 

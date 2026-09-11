@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**43** Prompts · Última adição: **2026-09-11**
+**44** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -311,17 +311,17 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 ## Cinematográfico / Imagem de Filme
 
-<a name="prompt-2098265557237989841"></a>
+<a name="prompt-2098261249913970732"></a>
 
 ### Tradução em andamento
 
-Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicação original](https://x.com/AiwithBloodline/status/2098265557237989841)
+Autor：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publicação original](https://x.com/bmx_ai13/status/2098261249913970732)
 
-Fotografia · Cinematográfico / Imagem de Filme · Paisagem Urbana / Rua · Publicado
+Quadrinhos / Storyboard · Cinematográfico / Imagem de Filme · Publicado
 
 **Resumo:** Tradução em andamento
 
-<img src="covers/2098265557237989841.jpg" alt="Imagem 1" width="480" />
+<img src="covers/2098261249913970732.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
@@ -333,22 +333,113 @@ Tradução em andamento
 
 ---
 
+<a name="prompt-2098265557237989841"></a>
+
+### Prompt de geração de vídeo multisegmento com realismo cinematográfico nas ruas de Manhattan nos anos 1990.
+
+Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicação original](https://x.com/AiwithBloodline/status/2098265557237989841)
+
+Fotografia · Cinematográfico / Imagem de Filme · Paisagem Urbana / Rua · Publicado
+
+**Resumo:** Prompt de geração de vídeo multisegmento com realismo cinematográfico nas ruas de Manhattan nos anos 1990.
+
+<img src="covers/2098265557237989841.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+{
+  "format": "16:9, 30s, áudio nativo ativado, realismo cinematográfico, sem sobreposição de texto, sem legendas na tela",
+  "style": "Cinematografia de rua de Manhattan dos anos 1990, emulação de película Kodak quente, granulação fina, névoa suave, reflexo de lente anamórfica",
+  "subject_and_action": {
+    "0-6s": "Plano aberto com câmera na mão avançando por uma calçada movimentada em Midtown Manhattan. Em primeiro plano, um homem de terno azul-marinho olha para o relógio de pulso enquanto caminha. Uma mulher de cabelos ruivos cacheados e blazer bege caminha ao lado dele. Vapor sobe de um carrinho de cachorro-quente com guarda-sóis listrados de azul e amarelo no centro do enquadramento. Táxis amarelos passam devagar pela rua.",
+    "6-14s": "A câmera mantém um plano médio-aberto enquanto uma mulher com blusa de estampa floral vibrante troca um olhar e um sorriso com um homem de roupa bege e branca perto do carrinho de comida. Atrás deles, um homem de terno cinza e gravata bordô caminha em direção à câmera. A densidade da multidão permanece alta, todos em trajes profissionais, ritmo de caminhada natural e espaçado.",
+    "14-20s": "Corte para um ângulo mais baixo e próximo na esquina de uma loja marcada como 'W 34th St.' Dois rapazes com roupas casuais streetwear (mochila, jeans, camisas polo) passam rindo na direção oposta, em primeiro plano, enquanto um táxi amarelo cruza velozmente a parte inferior do quadro em desfoque de movimento. Manequins de loja de roupas e uma placa de neon 'OPEN' visíveis na vitrine atrás deles.",
+    "20-30s": "A câmera se estabiliza em um cruzamento com faixa de pedestres, ligeiramente elevada. Uma grande multidão de profissionais cruza a faixa com listras brancas em direção à câmera, táxis amarelos parados no trânsito ao lado, um segundo carrinho de cachorro-quente com guarda-sóis listrados à direita. A câmera permanece fixa enquanto a multidão diminui ligeiramente no final, puxando o foco em direção à linha do horizonte esfumaçada no fundo distante."
+  },
+  "environment": "Cruzamento denso em Midtown Manhattan, torres de escritórios altas sumindo na névoa atmosférica, carrinhos de vendedores ambulantes, faixas de pedestres pintadas, sinalização típica da época (mantida intencionalmente genérica/ilegível), clássicos táxis amarelos quadrados",
+  "camera": "Câmera na mão em movimento de caminhada, nível dos olhos, dolly lento para frente com balanço natural; um corte seco aos 14s para um ângulo secundário; foco profundo em primeiro plano, suave desfoque nas torres ao fundo",
+  "lighting_and_color": "Sol brilhante do meio-dia, luz principal âmbar quente, bordas de sombra suaves, fundo ligeiramente dessaturado com saturação marcante de amarelo/azul nos táxis e guarda-sóis",
+  "audio": "Zumbido do tráfego urbano ambiente, murmúrio de multidão sobreposto e passos, buzinas distantes de carros, breve ronco de motor de ônibus no corte aos 14s, sem diálogos, sem música",
+  "continuity": "Mesma densidade de multidão, mesmo modelo/cor de táxi, mesmo design de guarda-sol de carrinho de comida e mesma gradação de cores quentes mantida em todos os quatro segmentos",
+  "constraints": "Nenhum texto legível em nenhuma placa, sem celulares ou veículos modernos, sem roupas anacrônicas, sem logotipos visíveis, sem rostos distorcidos ou duplicados"
+}
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098264877248987394"></a>
 
-### Tradução em andamento
+### Um prompt para videoclipe cinematográfico de 30 segundos apresentando três cantores se apresentando em uma rua molhada da cidade iluminada por neon.
 
 Autor：[@ChillaiKalan\_\_](https://x.com/ChillaiKalan__) · [Publicação original](https://x.com/ChillaiKalan__/status/2098264877248987394)
 
 Cinematográfico / Imagem de Filme · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um prompt para videoclipe cinematográfico de 30 segundos apresentando três cantores se apresentando em uma rua molhada da cidade iluminada por neon.
 
 <img src="covers/2098264877248987394.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um videoclipe cinematográfico ultrarrealista de 30 segundos com três cantores jovens adultos apresentando uma música moderna e emocionante em uma cidade iluminada por neon à noite. O vídeo deve se parecer com um videoclipe profissional de alto orçamento, com humanos realistas, sincronia labial precisa, performances expressivas, iluminação atmosférica e cinematografia sofisticada.
+
+PERSONAGENS
+
+Personagem 1 — Vocalista Principal Feminina:
+Mulher jovem adulta, início dos 20 anos, longos cabelos pretos, olhos expressivos, traje elegante em preto e prata, personalidade confiante e ao mesmo tempo emotiva.
+
+Personagem 2 — Vocalista Principal Masculino:
+Homem jovem adulto, início dos 20 anos, cabelo escuro texturizado, jaqueta preta estilosa e camisa branca, carismático e emocionalmente expressivo.
+
+Personagem 3 — Vocalista Feminina:
+Mulher jovem adulta, início dos 20 anos, cabelo escuro na altura dos ombros, traje moderno vermelho-escuro, presença de palco enérgica, porém natural.
+
+Mantenha seus rostos, roupas, penteados, proporções corporais e identidades perfeitamente consistentes ao longo de todo o vídeo.
+
+AMBIENTE
+
+Uma rua futurista no centro da cidade à noite após uma chuva leve. Asfalto molhado refletindo letreiros de neon coloridos, vitrines brilhantes, névoa sutil, tráfego distante, bokeh cinematográfico, luzes urbanas atmosféricas e reflexos realistas.
+
+PLANO A PLANO
+
+0–4 seg — Abertura
+Primeiríssimo plano dos olhos da Personagem 1. Reflexos de neon visíveis em seus olhos. A câmera se afasta lentamente enquanto ela começa a cantar. Gotículas de chuva brilham ao fundo.
+
+4–8 seg — Performance Principal
+A Personagem 1 caminha lentamente pela rua molhada enquanto canta diretamente para a câmera. Travelling suave para trás. Seu cabelo se move naturalmente com a brisa da noite.
+
+8–12 seg — Verso Masculino
+Corte para o Personagem 2 encostado em um prédio iluminado por neon. Ele começa a cantar sua parte. Órbita de câmera cinematográfica e lenta ao redor dele, com as luzes coloridas da cidade desfocadas atrás dele.
+
+12–16 seg — Vocalista Feminina
+A Personagem 3 aparece caminhando pela rua de neon. Ela canta enquanto olha em direção à câmera. Travelling lateral suave faz a transição para um close-up.
+
+16–22 seg — Performance em Trio
+Todos os três personagens se encontram em um amplo cruzamento da cidade e se apresentam juntos. A câmera circula lentamente ao redor deles enquanto cantam. Interação natural, gestos sutis, química convincente.
+
+22–27 seg — Refrão Emocionante
+Sequência rápida, porém elegante, de close-ups: Personagem 1 cantando, Personagem 2 se juntando, Personagem 3 harmonizando. Cada movimento labial segue com precisão o áudio fornecido.
+
+27–30 seg — Plano Final
+Os três cantores ficam juntos no meio da rua molhada. A câmera sobe lentamente e se afasta, revelando a cidade brilhante ao redor deles. Eles terminam o verso final juntos exatamente no compasso. Termine em um plano aberto cinematográfico e dramático.
+
+CINEMATOGRAFIA
+
+Cinematografia de videoclipe de alto nível, visual de lente anamórfica, profundidade de campo rasa, travelling suave com gimbal, toques de câmera lenta, close-ups cinematográficos, movimento de câmera controlado, lens flares realistas, desfoque de movimento natural, bokeh bonito e composição dinâmica.
+
+ÁUDIO E PERFORMANCE
+
+Use a música/áudio fornecido como a trilha sonora exata. Os personagens devem cantar visivelmente a letra correta com sincronia labial precisa em nível de fonema. Expressões, movimentos dos olhos e gestos devem corresponder à emoção e ao ritmo da música. Sem diálogos não relacionados falados.
+
+QUALIDADE
+
+Ultrarrealista, humanos fotorrealistas, textura de pele natural, olhos e dentes realistas, iluminação fisicamente precisa, superfícies molhadas realistas, mechas de cabelo detalhadas, movimento realista de tecidos, HDR, contraste cinematográfico, gradação de cores profissional, detalhes em 4K, estética premium de videoclipe.
+
+NEGATIVO: metamorfose de rosto, mudanças de identidade, roupas inconsistentes, pessoas extras, personagens duplicados, mãos distorcidas, rostos deformados, caminhar não natural, movimentos robóticos, sincronia labial incorreta, conversas aleatórias, cintilação, artefatos de interpolação de quadros, texto, legendas, logotipos, marcas d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)

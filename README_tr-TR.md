@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**43** Prompt · Son eklenen: **2026-09-11**
+**44** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -311,17 +311,17 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 ## Sinematik / Film Karesi
 
-<a name="prompt-2098265557237989841"></a>
+<a name="prompt-2098261249913970732"></a>
 
 ### Çeviri sürüyor
 
-Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2098265557237989841)
+Yazar：[@bmx\_ai13](https://x.com/bmx_ai13) · [Orijinal gönderi](https://x.com/bmx_ai13/status/2098261249913970732)
 
-Fotoğrafçılık · Sinematik / Film Karesi · Şehir Manzarası / Sokak · Yayımlandı
+Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · Yayımlandı
 
 **Özet:** Çeviri sürüyor
 
-<img src="covers/2098265557237989841.jpg" alt="Görsel 1" width="480" />
+<img src="covers/2098261249913970732.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
@@ -333,22 +333,113 @@ Fotoğrafçılık · Sinematik / Film Karesi · Şehir Manzarası / Sokak · Yay
 
 ---
 
+<a name="prompt-2098265557237989841"></a>
+
+### 1990'lar Manhattan sokaklarında sinematik gerçekçilik sunan çok bölümlü video oluşturma istemi.
+
+Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2098265557237989841)
+
+Fotoğrafçılık · Sinematik / Film Karesi · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** 1990'lar Manhattan sokaklarında sinematik gerçekçilik sunan çok bölümlü video oluşturma istemi.
+
+<img src="covers/2098265557237989841.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+{
+  "format": "16:9, 30 sn, yerel ses açık, sinematik gerçekçilik, metin katmanı yok, ekranda altyazı yok",
+  "style": "1990'lar Manhattan sokak sinematografisi, sıcak Kodak film stoğu emülasyonu, ince gren, yumuşak sis, anamorfik lens parlaması",
+  "subject_and_action": {
+    "0-6s": "Midtown Manhattan'ın kalabalık bir kaldırımında öne doğru ilerleyen elde çekilmiş geniş açı. Ön planda lacivert takım elbiseli bir adam adım atarken kol saatine bakar. Yanında bej blazer ceketli, kıvırcık kumral saçlı bir kadın yürür. Karenin merkezinde mavi-sarı çizgili şemsiyeli bir sosisli sandviç arabasından buhar yükselir. Sarı taksiler caddede yavaşça ilerler.",
+    "6-14s": "Kamera, sokak lezzetleri arabasının yanında canlı çiçek desenli bluz giymiş bir kadın ile ten rengi ve beyaz kıyafetli bir erkeğin bakışıp gülümsemesini orta-geniş açıda yakalar. Arkalarında gri takım elbiseli ve bordo kravatlı bir adam kameraya doğru yürür. Kalabalık yoğunluğu yüksek kalır, herkes iş kıyafetleri içindedir, doğal ve tempolu bir yürüme hızı vardır.",
+    "14-20s": "'W 34th St.' tabelalı bir mağaza köşesine daha alçak, daha yakın bir açıya geçiş. Ön planda, günlük sokak giyimli (sırt çantası, kot pantolon, polo yaka tişört) iki genç adam zıt yönde gülüşerek yürürken, alt kadrajdan sarı bir taksi hareket bulanıklığı içinde hızla geçer. Arkalarındaki vitrinde giyim mağazası mankenleri ve neon 'OPEN' tabelası görünür.",
+    "20-30s": "Kamera, hafifçe yükseltilmiş olarak bir yaya geçidi kavşağına yerleşir. Beyaz çizgili yaya geçidinde büyük bir ofis çalışanı kalabalığı kameraya doğru yürür, yanlarında trafikte rölantide bekleyen sarı taksiler, sağda çizgili şemsiyeleriyle ikinci bir sosisli arabası bulunur. Kamera, kalabalık sonlara doğru biraz seyreldiğinde sabit durur ve odağı derin arka plandaki puslu silüete doğru çeker."
+  },
+  "environment": "Yoğun Midtown Manhattan kavşağı, atmosferik pus içinde kaybolan yüksek ofis kuleleri, sokak satıcısı arabaları, boyalı yaya geçitleri, döneme uygun tabelalar (kasıtlı olarak genel/okunaksız bırakılmış), klasik köşeli sarı taksiler",
+  "camera": "Elde taşınan yürüyüş kamerası, göz hizası, doğal salınımlı yavaş ileri dolly; 14. saniyede ikincil bir açıya sert bir kesme; ön planda derin odak, arka plandaki kulelerde yumuşak düşüş",
+  "lighting_and_color": "Parlak öğle güneşi, sıcak kehribar ana ışık, yumuşak gölge kenarları, taksilerde ve şemsiyelerde canlı sarı/mavi doygunluk ile hafifçe doygunluğu azaltılmış arka plan",
+  "audio": "Şehir trafiğinin ortam uğultusu, birbirine karışan kalabalık mırıltıları ve ayak sesleri, uzaktan gelen araba kornaları, 14. saniyedeki kesmede kısa bir otobüs motoru gürültüsü, diyalog yok, müzik yok",
+  "continuity": "Dört bölüm boyunca aynı kalabalık yoğunluğu, aynı taksi modeli/rengi, aynı yemek arabası şemsiyesi tasarımı ve aynı sıcak renk tonlaması korunur",
+  "constraints": "Hiçbir tabelada okunabilir metin yok, modern telefonlar veya araçlar yok, anakronik kıyafetler yok, görünür logo yok, bozuk veya yinelenen yüzler yok"
+}
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098264877248987394"></a>
 
-### Çeviri sürüyor
+### Neon ışıklarla aydınlatılmış ıslak bir şehir caddesinde performans sergileyen üç şarkıcının yer aldığı 30 saniyelik sinematik bir müzik videosu istemi.
 
 Yazar：[@ChillaiKalan\_\_](https://x.com/ChillaiKalan__) · [Orijinal gönderi](https://x.com/ChillaiKalan__/status/2098264877248987394)
 
 Sinematik / Film Karesi · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Neon ışıklarla aydınlatılmış ıslak bir şehir caddesinde performans sergileyen üç şarkıcının yer aldığı 30 saniyelik sinematik bir müzik videosu istemi.
 
 <img src="covers/2098264877248987394.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Neon ışıklarla aydınlatılmış bir şehirde geceleyin duygusal ve modern bir şarkı seslendiren üç genç yetişkin şarkıcının yer aldığı 30 saniyelik ultra gerçekçi sinematik bir müzik videosu oluşturun. Video; gerçekçi insanlar, kusursuz dudak senkronizasyonu, etkileyici performanslar, atmosferik aydınlatma ve sofistike sinematografi ile yüksek bütçeli profesyonel bir müzik videosu gibi görünmelidir.
+
+KARAKTERLER
+
+Karakter 1 — Kadın Baş Vokalist:
+Genç yetişkin kadın, 20'li yaşların başı, uzun siyah saçlar, etkileyici gözler, zarif siyah-gümüş kıyafet, kendinden emin ama duygusal bir kişilik.
+
+Karakter 2 — Erkek Baş Vokalist:
+Genç yetişkin erkek, 20'li yaşların başı, koyu renkli dokulu saçlar, şık siyah ceket ve beyaz gömlek, karizmatik ve duygularını dışa vuran.
+
+Karakter 3 — Kadın Vokalist:
+Genç yetişkin kadın, 20'li yaşların başı, omuz hizasında koyu saçlar, modaya uygun koyu kırmızı kıyafet, enerjik ama doğal sahne duruşu.
+
+Yüzlerini, kıyafetlerini, saç stillerini, vücut oranlarını ve kimliklerini video boyunca tamamen tutarlı tutun.
+
+ORTAM
+
+Hafif bir yağmurun ardından geceleyin fütüristik bir şehir merkezi caddesi. Renkli neon tabelaları yansıtan ıslak asfalt, parıldayan vitrinler, hafif sis, uzaktaki trafik, sinematik bokeh, atmosferik şehir ışıkları ve gerçekçi yansımalar.
+
+SAHNE SAHNE AKIŞ
+
+0–4 sn — Açılış
+Karakter 1'in gözlerine aşırı yakın çekim. Gözlerinde görünen neon yansımaları. Şarkı söylemeye başladıkça kamera yavaşça geriye çekilir. Yağmur damlaları arka planda parıldar.
+
+4–8 sn — Baş Vokal Performansı
+Karakter 1 doğrudan kameraya doğru şarkı söylerken ıslak caddede yavaşça yürür. Yumuşak geriye doğru takip çekimi. Saçları gece esintisinde doğal bir şekilde dalgalanır.
+
+8–12 sn — Erkek Bölümü
+Neon ışıklı bir binaya yaslanan Karakter 2'ye geçiş. Kendi bölümünü söylemeye başlar. Arkasında rengârenk şehir ışıkları bulanıklaşırken etrafında yavaş sinematik kamera dönüşü.
+
+12–16 sn — Kadın Vokalist
+Karakter 3 neon caddede yürürken görünür. Kameraya doğru bakarak şarkı söyler. Yumuşak yanal takip çekimi yakın çekime dönüşür.
+
+16–22 sn — Üçlü Performans
+Üç karakter de geniş bir şehir kavşağında buluşur ve birlikte performans sergiler. Onlar şarkı söylerken kamera etraflarında yavaşça döner. Doğal etkileşim, ince jestler, inandırıcı uyum.
+
+22–27 sn — Duygusal Nakarat
+Hızlı ama zarif yakın çekim sekansı: Karakter 1 şarkı söylüyor, Karakter 2 katılıyor, Karakter 3 armoni yapıyor. Her ağız hareketi sağlanan sesi tam olarak takip eder.
+
+27–30 sn — Kapanış Çekimi
+Üç şarkıcı ıslak caddenin ortasında yan yana durur. Kamera yavaşça yukarı doğru yükselir ve uzaklaşarak etraflarındaki parıldayan şehri gözler önüne serer. Son sözü tam vuruşunda birlikte tamamlarlar. Dramatik ve sinematik geniş açılı bir çekimle sonlanır.
+
+SİNEMATOGRAFİ
+
+Üst düzey müzik videosu sinematografisi, anamorfik lens görünümü, sığ alan derinliği, yumuşak gimbal takibi, ağır çekim dokunuşları, sinematik yakın çekimler, kontrollü kamera hareketleri, gerçekçi lens parlamaları, doğal hareket bulanıklığı, harika bokeh ve dinamik kompozisyon.
+
+SES VE PERFORMANS
+
+Verilen şarkıyı/sesi birebir film müziği olarak kullanın. Karakterler doğru şarkı sözlerini fonem düzeyinde hassas dudak senkronizasyonu ile belirgin şekilde söylemelidir. İfadeler, göz hareketleri ve jestler şarkının duygusu ve ritmiyle uyuşmalıdır. Konu dışı alakasız konuşmalar olmamalıdır.
+
+KALİTE
+
+Ultra gerçekçi, fotogerçekçi insanlar, doğal cilt dokusu, gerçekçi gözler ve dişler, fiziksel olarak doğru aydınlatma, gerçekçi ıslak yüzeyler, detaylı saç telleri, gerçekçi kumaş hareketi, HDR, sinematik kontrast, profesyonel renk derecelendirmesi, 4K detay, birinci sınıf müzik videosu estetiği.
+
+NEGATİF: yüz biçim değiştirmesi, kimlik değişiklikleri, tutarsız kıyafetler, fazladan insanlar, yinelenen karakterler, bozuk eller, deforme olmuş yüzler, doğal olmayan yürüyüş, robotik hareketler, hatalı dudak senkronizasyonu, rastgele konuşma, titreme, kare enterpolasyonu kusurları, metin, altyazı, logolar, filigranlar.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**43** Prompts · Última incorporación: **2026-09-11**
+**44** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -325,17 +325,17 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 ## Cine / Fotograma
 
-<a name="prompt-2098265557237989841"></a>
+<a name="prompt-2098261249913970732"></a>
 
 ### Traducción en curso
 
-Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicación original](https://x.com/AiwithBloodline/status/2098265557237989841)
+Autor：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publicación original](https://x.com/bmx_ai13/status/2098261249913970732)
 
-Fotografía · Cine / Fotograma · Paisaje urbano / Calle · Publicado
+Cómic / Guion gráfico · Cine / Fotograma · Publicado
 
 **Resumen:** Traducción en curso
 
-<img src="covers/2098265557237989841.jpg" alt="Imagen 1" width="480" />
+<img src="covers/2098261249913970732.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
@@ -347,22 +347,113 @@ Traducción en curso
 
 ---
 
+<a name="prompt-2098265557237989841"></a>
+
+### Prompt de generación de video de múltiples segmentos con realismo cinematográfico callejero de Manhattan en la década de 1990.
+
+Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicación original](https://x.com/AiwithBloodline/status/2098265557237989841)
+
+Fotografía · Cine / Fotograma · Paisaje urbano / Calle · Publicado
+
+**Resumen:** Prompt de generación de video de múltiples segmentos con realismo cinematográfico callejero de Manhattan en la década de 1990.
+
+<img src="covers/2098265557237989841.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+{
+  "format": "16:9, 30s, audio nativo activado, realismo cinematográfico, sin texto superpuesto, sin subtítulos en pantalla",
+  "style": "Cinematografía callejera de Manhattan de la década de 1990, emulación de película Kodak cálida, grano fino, neblina suave, destello de lente anamórfica",
+  "subject_and_action": {
+    "0-6s": "Toma amplia cámara en mano avanzando a través de una densa multitud en la acera de Midtown Manhattan. En primer plano, un hombre con traje azul marino mira su reloj de pulsera a mitad de su paso. Una mujer con cabello castaño rojizo rizado en un blazer beige camina a su lado. Se eleva vapor de un carrito de hot dogs con sombrillas a rayas azules y amarillas en el centro del encuadre. Taxis amarillos avanzan lentamente por la calle.",
+    "6-14s": "La cámara se mantiene en un plano medio amplio mientras una mujer con una blusa de estampado floral brillante intercambia una mirada y una sonrisa con un hombre con un atuendo en tono tostado y blanco cerca del carrito de comida. Detrás de ellos, un hombre con traje gris y corbata burdeos camina hacia la cámara. La densidad de la multitud sigue siendo alta, todos con vestimenta de negocios, ritmo de caminata natural y escalonado.",
+    "14-20s": "Corte a un ángulo más bajo y cercano en la esquina de una tienda marcada como 'W 34th St.'. Dos hombres jóvenes con ropa informal urbana (mochila, jeans, camisas polo) caminan riendo en dirección contraria, en primer plano, mientras un taxi amarillo pasa velozmente por la parte inferior del encuadre con desenfoque de movimiento. Maniquíes de tienda de ropa y un letrero de neón 'OPEN' son visibles en la vitrina detrás de ellos.",
+    "20-30s": "La cámara se asienta en la intersección de un cruce peatonal, ligeramente elevada. Una gran multitud de oficinistas cruza sobre el paso de cebra blanco hacia la cámara, con taxis amarillos esperando en el tráfico junto a ellos, y un segundo carrito de hot dogs con sombrillas a rayas a la derecha. La cámara se mantiene fija mientras la multitud se despeja levemente hacia el final, enfocando hacia el horizonte brumoso en el fondo profundo."
+  },
+  "environment": "Intersección densa de Midtown Manhattan, altas torres de oficinas desvaneciéndose en la neblina atmosférica, carritos de vendedores ambulantes, pasos peatonales pintados, señalización fiel a la época (mantenida intencionalmente genérica/ilegible), taxis amarillos clásicos de diseño cuadrado",
+  "camera": "Cámara en mano a la altura de los ojos en movimiento de caminata, dolly lento hacia adelante con vaivén natural; un corte directo a los 14s hacia un ángulo secundario; enfoque profundo en primer plano, suave caída de nitidez en las torres de fondo",
+  "lighting_and_color": "Sol brillante de mediodía, luz principal cálida en tono ámbar, bordes de sombra suaves, fondo ligeramente desaturado con saturación viva de amarillos y azules en taxis y sombrillas",
+  "audio": "Zumbido del tráfico ambiental de la ciudad, murmullo superpuesto de la multitud y pisadas, bocinas de autos distantes, breve retumbo del motor de un autobús tras el corte a los 14s, sin diálogo, sin música",
+  "continuity": "Misma densidad de multitud, mismo modelo/color de taxi, mismo diseño de sombrilla del carrito de comida y la misma gradación de color cálido mantenida en los cuatro segmentos",
+  "constraints": "Sin texto legible ni descifrable en ninguna señalización, sin teléfonos ni vehículos modernos, sin ropa anacrónica, sin logotipos visibles, sin rostros distorsionados o duplicados"
+}
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2098264877248987394"></a>
 
-### Traducción en curso
+### Un prompt para un video musical cinematográfico de 30 segundos con tres cantantes actuando en una calle mojada de la ciudad iluminada con neón.
 
 Autor：[@ChillaiKalan\_\_](https://x.com/ChillaiKalan__) · [Publicación original](https://x.com/ChillaiKalan__/status/2098264877248987394)
 
 Cine / Fotograma · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt para un video musical cinematográfico de 30 segundos con tres cantantes actuando en una calle mojada de la ciudad iluminada con neón.
 
 <img src="covers/2098264877248987394.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video musical cinematográfico ultrarrealista de 30 segundos con tres cantantes adultos jóvenes interpretando una emotiva canción moderna en una ciudad iluminada por luces de neón por la noche. El video debe parecer un video musical profesional de alto presupuesto con personas realistas, sincronización labial precisa, interpretaciones expresivas, iluminación atmosférica y cinematografía sofisticada.
+
+PERSONAJES
+
+Personaje 1 — Voz principal femenina:
+Mujer adulta joven, poco más de 20 años, cabello largo y negro, ojos expresivos, atuendo elegante en negro y plateado, personalidad segura pero emotiva.
+
+Personaje 2 — Voz principal masculina:
+Hombre adulto joven, poco más de 20 años, cabello oscuro y texturizado, elegante chaqueta negra y camisa blanca, carismático y emocionalmente expresivo.
+
+Personaje 3 — Vocalista femenina:
+Mujer adulta joven, poco más de 20 años, cabello oscuro a la altura de los hombros, atuendo moderno de color rojo intenso, presencia escénica enérgica pero natural.
+
+Mantén sus rostros, vestimenta, peinados, proporciones corporales e identidades perfectamente consistentes a lo largo del video.
+
+ENTORNO
+
+Una calle céntrica y futurista por la noche tras una ligera lluvia. Pavimento mojado que refleja letreros de neón de colores, escaparates brillantes, niebla sutil, tráfico lejano, bokeh cinematográfico, luces atmosféricas de la ciudad y reflejos realistas.
+
+PLANO A PLANO
+
+0–4 seg — Apertura
+Primerísimo primer plano de los ojos del Personaje 1. Reflejos de neón visibles en sus ojos. La cámara retrocede lentamente mientras comienza a cantar. Las gotas de lluvia brillan en el fondo.
+
+4–8 seg — Interpretación principal
+El Personaje 1 camina lentamente por la calle mojada mientras canta directamente hacia la cámara. Toma de seguimiento fluido hacia atrás. Su cabello se mueve naturalmente con la brisa nocturna.
+
+8–12 seg — Verso masculino
+Corte al Personaje 2 apoyado contra un edificio iluminado con neón. Comienza a cantar su sección. Órbita lenta y cinematográfica de la cámara a su alrededor, con las coloridas luces de la ciudad desenfocadas detrás de él.
+
+12–16 seg — Vocalista femenina
+El Personaje 3 aparece caminando por la calle de neón. Canta mientras mira hacia la cámara. Una toma de seguimiento lateral fluido hace una transición hacia un primer plano.
+
+16–22 seg — Interpretación en trío
+Los tres personajes se encuentran en una amplia intersección de la ciudad y actúan juntos. La cámara gira lentamente alrededor de ellos mientras cantan. Interacción natural, gestos sutiles, química creíble.
+
+22–27 seg — Coro emotivo
+Secuencia rápida pero elegante de primeros planos: el Personaje 1 cantando, el Personaje 2 uniéndose, el Personaje 3 armonizando. Cada movimiento de la boca sigue con precisión el audio proporcionado.
+
+27–30 seg — Plano final
+Los tres cantantes están juntos en medio de la calle mojada. La cámara se eleva lentamente hacia arriba y se aleja, revelando la brillante ciudad que los rodea. Terminan la letra final juntos exactamente al compás. Termina en un plano general dramático y cinematográfico.
+
+CINEMATOGRAFÍA
+
+Cinematografía de video musical de alta gama, aspecto de lente anamórfica, poca profundidad de campo, seguimiento suave con cardán, acentos en cámara lenta, primeros planos cinematográficos, movimiento de cámara controlado, destellos de lente realistas, desenfoque de movimiento natural, hermoso bokeh y composición dinámica.
+
+AUDIO E INTERPRETACIÓN
+
+Usa la canción/audio provisto como la banda sonora exacta. Los personajes deben cantar visiblemente la letra correcta con una sincronización labial precisa a nivel de fonemas. Las expresiones, los movimientos de los ojos y los gestos deben coincidir con la emoción y el ritmo de la canción. Nada de hablar diálogos que no correspondan.
+
+CALIDAD
+
+Ultrarrealista, humanos fotorrealistas, textura de piel natural, ojos y dientes realistas, iluminación físicamente precisa, superficies mojadas realistas, mechones de cabello detallados, movimiento de tela realista, HDR, contraste cinematográfico, gradación de color profesional, detalle en 4K, estética de video musical premium.
+
+NEGATIVO: deformación de rostros, cambios de identidad, vestimenta inconsistente, personas adicionales, personajes duplicados, manos distorsionadas, rostros deformes, caminar antinatural, movimientos robóticos, sincronización labial incorrecta, hablar al azar, parpadeo, artefactos de interpolación de fotogramas, texto, subtítulos, logotipos, marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)
