@@ -349,20 +349,20 @@ Traduction en cours
 
 <a name="prompt-2098284076809719997"></a>
 
-### Traduction en cours
+### Scène cinématique de dark fantasy montrant une jeune sorcière éteignant un village médiéval en flammes grâce à une tornade d'eau massive.
 
 Auteur：[@Zoyavelle](https://x.com/Zoyavelle) · [Publication originale](https://x.com/Zoyavelle/status/2098284076809719997)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène cinématique de dark fantasy montrant une jeune sorcière éteignant un village médiéval en flammes grâce à une tornade d'eau massive.
 
 <img src="covers/2098284076809719997.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo fantastique cinématographique hautement réaliste se déroulant dans un village médiéval européen lors d'une mystérieuse catastrophe surnaturelle. Une belle jeune femme à la peau pâle, aux longs cheveux noirs lisses, portant un grand chapeau de sorcière noir pointu, une cape noire sombre et une robe médiévale bordeaux profond, marche à travers un village médiéval bondé tandis que les villageois la regardent avec peur et méfiance. Maisons en colombages de bois, rues pavées, vieux étals de marché, villageois médiévaux vêtus d'habits rustiques, fumée et brume atmosphériques. Elle marche vers une imposante arche en pierre et débouche sur une cour ouverte surplombant le village. Au loin, plusieurs maisons médiévales brûlent intensément, avec d'immenses flammes orange et une épaisse fumée noire montant vers le ciel. La sorcière devient soudainement surnaturelle et vole vers l'avant au-dessus du sol, sa cape sombre et sa robe flottant dramatiquement dans le vent. Une gigantesque tornade d'eau magique s'élève soudainement au milieu du village en flammes, formant une immense colonne d'eau tourbillonnante qui s'engouffre dans les rues et commence à éteindre les flammes. Les villageois se rassemblent et lèvent les yeux sous le choc tandis qu'une mystérieuse sorcière volante traverse le ciel enfumé. Montrez des plans aériens dramatiques du village médiéval couvert de fumée et d'eau, des toits en flammes, des villageois effrayés et le vortex d'eau géant. Terminez par un gros plan cinématographique de la jeune sorcière debout calmement parmi les villageois, fixant directement la caméra avec une expression énigmatique. Photoréaliste, dark fantasy cinématographique, Europe médiévale, visages humains réalistes, vêtements et architecture détaillés, éclairage volumétrique, simulation naturelle de feu et de fumée, physique de l'eau réaliste, atmosphère dramatique, faible profondeur de champ, mouvement de caméra réaliste, mouvement fluide, composition de qualité cinématographique, haut niveau de détail, 4K, rendu anamorphique cinématographique, éclairage dramatique, textures réalistes, style de film de fantasy épique.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -335,20 +335,28 @@ Tradução em curso
 
 <a name="prompt-2098284076809719997"></a>
 
-### Tradução em curso
+### Cena cinematográfica de fantasia sombria de uma jovem bruxa a extinguir uma aldeia medieval em chamas com um enorme tornado de água.
 
 Autor：[@Zoyavelle](https://x.com/Zoyavelle) · [Publicação original](https://x.com/Zoyavelle/status/2098284076809719997)
 
 Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Cena cinematográfica de fantasia sombria de uma jovem bruxa a extinguir uma aldeia medieval em chamas com um enorme tornado de água.
 
 <img src="covers/2098284076809719997.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo de fantasia cinematográfica altamente realista ambientado numa aldeia medieval europeia durante um misterioso desastre sobrenatural. Uma jovem e bela mulher de pele pálida, longos cabelos pretos e lisos, usando um grande chapéu preto pontiagudo de bruxa, capa preta escura e vestido medieval cor de borgonha profundo, caminha por uma aldeia medieval apinhada enquanto os aldeões olham para ela com medo e desconfiança. Casas de madeira em enxaimel, ruas de pedra, bancas de mercado antigas, aldeões medievais em trajes rústicos, fumo e nevoeiro atmosféricos.
+
+Ela caminha em direção a um arco maciço de pedra e sai para um pátio aberto com vista sobre a aldeia. Ao longe, várias casas medievais ardem intensamente, com enormes chamas cor de laranja e fumo preto e espesso a subir para o céu. A bruxa torna-se subitamente sobrenatural e voa para a frente acima do chão, com a sua capa escura e vestido a fluir dramaticamente ao vento.
+
+Um gigantesco tornado mágico de água ergue-se subitamente no meio da aldeia em chamas, formando uma enorme coluna giratória de água que irrompe pelas ruas e começa a extinguir as chamas. Os aldeões juntam-se e olham para cima em choque enquanto a misteriosa bruxa voadora passa pelo céu fumarento.
+
+Mostre planos aéreos dramáticos da aldeia medieval coberta de fumo e água, telhados em chamas, aldeões assustados e o gigantesco vórtice de água. Termine com um grande plano cinematográfico da jovem bruxa em pé calmamente entre os aldeões, olhando diretamente para a câmara com uma expressão enigmática.
+
+Fotorrealista, fantasia sombria cinematográfica, Europa medieval, rostos humanos realistas, vestuário e arquitetura detalhados, iluminação volumétrica, simulação natural de fogo e fumo, física de água realista, atmosfera dramática, profundidade de campo reduzida, movimento de câmara realista, movimento suave, composição de qualidade cinematográfica, elevado nível de detalhe, 4K, aspeto cinematográfico anamórfico, iluminação dramática, texturas realistas, estilo de filme de fantasia épica.
 ```
 
 [↑ Voltar às categorias](#catalog)

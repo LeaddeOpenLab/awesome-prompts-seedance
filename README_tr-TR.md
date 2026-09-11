@@ -335,20 +335,28 @@ Sinematik / Film Karesi · Şehir Manzarası / Sokak · Yayımlandı
 
 <a name="prompt-2098284076809719997"></a>
 
-### Çeviri sürüyor
+### Genç bir cadının devasa bir su hortumuyla yanan bir Orta Çağ köyünü söndürdüğü sinematik karanlık fantezi sahnesi.
 
 Yazar：[@Zoyavelle](https://x.com/Zoyavelle) · [Orijinal gönderi](https://x.com/Zoyavelle/status/2098284076809719997)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Genç bir cadının devasa bir su hortumuyla yanan bir Orta Çağ köyünü söndürdüğü sinematik karanlık fantezi sahnesi.
 
 <img src="covers/2098284076809719997.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gizemli ve doğaüstü bir felaket sırasında bir Orta Çağ Avrupa köyünde geçen, son derece gerçekçi, sinematik bir fantastik video oluşturun. Solgun tenli, uzun düz siyah saçlı, büyük sivri uçlu siyah bir cadı şapkası, koyu siyah pelerin ve koyu bordo Orta Çağ elbisesi giymiş genç ve güzel bir kadın, köylüler ona korku ve şüpheyle bakarken kalabalık bir Orta Çağ köyünde yürür. Ahşap karkaslı evler, taş sokaklar, eski pazar tezgâhları, rustik giysiler içindeki Orta Çağ köylüleri, atmosferik duman ve sis.
+
+Masif taştan bir kemere doğru yürür ve köye tepeden bakan açık bir avluya çıkar. Uzakta, birkaç Orta Çağ evi yoğun bir şekilde yanmakta, devasa turuncu alevler ve yoğun siyah dumanlar gökyüzüne yükselmektedir. Cadı aniden doğaüstü bir hâl alarak yerin üzerinde öne doğru uçar; koyu renkli pelerini ve elbisesi rüzgârda dramatik bir şekilde dalgalanır.
+
+Devasa büyülü bir su hortumu yanan köyün ortasında aniden yükselir, sokaklara hücum eden ve alevleri söndürmeye başlayan devasa, dönen bir su sütunu oluşturur. Gizemli uçan cadı dumanlı gökyüzünden geçerken köylüler toplanır ve şok içinde yukarı bakar.
+
+Duman ve suyla kaplı Orta Çağ köyünün, yanan çatıların, korkmuş köylülerin ve devasa su girdabının dramatik havadan çekimlerini gösterin. Genç cadının köylülerin arasında sakince durduğu ve doğrudan kameraya esrarengiz bir ifadeyle baktığı sinematik bir yakın çekimle sonlandırın.
+
+Fotogerçekçi, sinematik karanlık fantezi, Orta Çağ Avrupası, gerçekçi insan yüzleri, ayrıntılı kıyafetler ve mimari, hacimsel aydınlatma, doğal yangın ve duman simülasyonu, gerçekçi su fiziği, dramatik atmosfer, sığ alan derinliği, gerçekçi kamera hareketi, akıcı hareket, film kalitesinde kompozisyon, yüksek detay, 4K, anamorfik sinematik görünüm, dramatik aydınlatma, gerçekçi dokular, epik fantastik film tarzı.
 ```
 
 [↑ Kategorilere dön](#catalog)

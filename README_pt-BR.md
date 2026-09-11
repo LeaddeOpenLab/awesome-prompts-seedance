@@ -335,20 +335,28 @@ Tradução em andamento
 
 <a name="prompt-2098284076809719997"></a>
 
-### Tradução em andamento
+### Cena cinematográfica de dark fantasy de uma jovem bruxa extinguindo uma vila medieval em chamas com um enorme tornado de água.
 
 Autor：[@Zoyavelle](https://x.com/Zoyavelle) · [Publicação original](https://x.com/Zoyavelle/status/2098284076809719997)
 
 Cinematográfico / Imagem de Filme · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Cena cinematográfica de dark fantasy de uma jovem bruxa extinguindo uma vila medieval em chamas com um enorme tornado de água.
 
 <img src="covers/2098284076809719997.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo de fantasia cinematográfica altamente realista ambientado em uma vila medieval europeia durante um misterioso desastre sobrenatural. Uma bela jovem de pele pálida, longos cabelos pretos lisos, usando um grande chapéu preto pontudo de bruxa, capa preta escura e vestido medieval borgonha profundo, caminha por uma vila medieval lotada enquanto os aldeões olham para ela com medo e suspeita. Casas de madeira em enxaimel, ruas de pedra, antigas barracas de mercado, aldeões medievais em trajes rústicos, fumaça e névoa atmosféricas.
+
+Ela caminha em direção a um enorme arco de pedra e sai para um pátio aberto com vista para a vila. Ao longe, várias casas medievais estão queimando intensamente, com chamas alaranjadas gigantescas e fumaça preta espessa subindo para o céu. A bruxa de repente se torna sobrenatural e voa para a frente acima do chão, sua capa escura e vestido fluindo dramaticamente ao vento.
+
+Um gigantesco tornado mágico de água de repente se ergue no meio da vila em chamas, formando uma enorme coluna de água giratória que avança pelas ruas e começa a extinguir as chamas. Os aldeões se reúnem e olham para cima em choque enquanto a misteriosa bruxa voadora passa pelo céu enfumaçado.
+
+Mostre tomadas aéreas dramáticas da vila medieval coberta de fumaça e água, telhados em chamas, aldeões assustados e o vórtice gigante de água. Termine com um close-up cinematográfico da jovem bruxa em pé calmamente entre os aldeões, olhando diretamente para a câmera com uma expressão enigmática.
+
+Fotorrealista, dark fantasy cinematográfica, Europa medieval, rostos humanos realistas, roupas e arquitetura detalhadas, iluminação volumétrica, simulação natural de fogo e fumaça, física de água realista, atmosfera dramática, profundidade de campo rasa, movimento de câmera realista, movimento suave, composição de qualidade cinematográfica, alto detalhamento, 4K, visual cinematográfico anamórfico, iluminação dramática, texturas realistas, estilo épico de filme de fantasia.
 ```
 
 [↑ Voltar às categorias](#catalog)

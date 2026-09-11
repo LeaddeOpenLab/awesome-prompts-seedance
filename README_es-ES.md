@@ -349,20 +349,28 @@ Traducción en curso
 
 <a name="prompt-2098284076809719997"></a>
 
-### Traducción en curso
+### Escena de fantasía oscura cinematográfica de una joven bruja extinguiendo una aldea medieval en llamas con un enorme tornado de agua.
 
 Autor：[@Zoyavelle](https://x.com/Zoyavelle) · [Publicación original](https://x.com/Zoyavelle/status/2098284076809719997)
 
 Cine / Fotograma de película · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena de fantasía oscura cinematográfica de una joven bruja extinguiendo una aldea medieval en llamas con un enorme tornado de agua.
 
 <img src="covers/2098284076809719997.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video de fantasía cinematográfica altamente realista ambientado en una aldea europea medieval durante un misterioso desastre sobrenatural. Una hermosa joven de piel pálida, largo cabello negro lacio, que lleva un gran sombrero puntiagudo negro de bruja, una capa negra oscura y un vestido medieval de color burdeos intenso, camina por una aldea medieval concurrida mientras los aldeanos la miran con miedo y sospecha. Casas de entramado de madera, calles de piedra, viejos puestos de mercado, aldeanos medievales con ropas rústicas, humo atmosférico y niebla.
+
+Ella camina hacia un enorme arco de piedra y sale a un patio abierto con vistas a la aldea. A lo lejos, varias casas medievales arden intensamente, con enormes llamas anaranjadas y un denso humo negro elevándose hacia el cielo. La bruja de repente se vuelve sobrenatural y vuela hacia adelante por encima del suelo, con su capa oscura y su vestido ondeando dramáticamente con el viento.
+
+Un gigantesco tornado mágico de agua surge repentinamente en medio de la aldea en llamas, formando una enorme columna giratoria de agua que irrumpe por las calles y comienza a extinguir las llamas. Los aldeanos se reúnen y miran hacia arriba conmocionados mientras una misteriosa bruja voladora atraviesa el cielo lleno de humo.
+
+Muestra tomas aéreas dramáticas de la aldea medieval cubierta de humo y agua, tejados en llamas, aldeanos asustados y el vórtice gigante de agua. Termina con un primer plano cinematográfico de la joven bruja de pie con calma entre los aldeanos, mirando directamente a la cámara con una expresión enigmática.
+
+Fotorrealista, fantasía oscura cinematográfica, Europa medieval, rostros humanos realistas, ropa y arquitectura detalladas, iluminación volumétrica, simulación natural de fuego y humo, física de agua realista, atmósfera dramática, profundidad de campo reducida, movimiento de cámara realista, movimiento suave, composición con calidad de película, alto nivel de detalle, 4K, aspecto cinematográfico anamórfico, iluminación dramática, texturas realistas, estilo de película de fantasía épica.
 ```
 
 [↑ Volver a categorías](#catalog)

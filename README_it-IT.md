@@ -349,20 +349,20 @@ Traduzione in corso
 
 <a name="prompt-2098284076809719997"></a>
 
-### Traduzione in corso
+### Scena cinematografica dark fantasy di una giovane strega che estingue un villaggio medievale in fiamme con un enorme tornado d'acqua.
 
 Autore：[@Zoyavelle](https://x.com/Zoyavelle) · [Post originale](https://x.com/Zoyavelle/status/2098284076809719997)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena cinematografica dark fantasy di una giovane strega che estingue un villaggio medievale in fiamme con un enorme tornado d'acqua.
 
 <img src="covers/2098284076809719997.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video fantasy cinematografico altamente realistico ambientato in un villaggio medievale europeo durante una misteriosa catastrofe soprannaturale. Una giovane e bellissima donna dalla pelle pallida, lunghi capelli neri lisci, che indossa un grande cappello a punta nero da strega, un mantello scuro nero e un abito medievale bordeaux scuro, cammina attraverso un affollato villaggio medievale mentre gli abitanti la fissano con paura e sospetto. Case in legno a graticcio, strade in pietra, vecchie bancarelle del mercato, abitanti del villaggio medievali in abiti rustici, fumo e nebbia d'atmosfera. Cammina verso un imponente arco di pietra ed esce in un cortile aperto che domina il villaggio. In lontananza, diverse case medievali bruciano intensamente, con enormi fiamme arancioni e un denso fumo nero che si alza nel cielo. La strega diventa improvvisamente soprannaturale e vola in avanti a mezz'aria sopra il terreno, con il suo mantello scuro e l'abito che fluttuano drammaticamente nel vento. Un gigantesco tornado d'acqua magico si innalza all'improvviso al centro del villaggio in fiamme, formando un'enorme colonna d'acqua vorticosa che si abbatte per le strade e inizia a estinguere le fiamme. Gli abitanti del villaggio si radunano e guardano verso l'alto sotto shock mentre una misteriosa strega volante attraversa il cielo fumoso. Mostra drammatiche riprese aeree del villaggio medievale coperto di fumo e acqua, tetti in fiamme, abitanti spaventati e il gigantesco vortice d'acqua. Concludi con un primo piano cinematografico della giovane strega in piedi con calma tra gli abitanti, che guarda direttamente verso la telecamera con un'espressione enigmatica. Fotorealistico, dark fantasy cinematografico, Europa medievale, volti umani realistici, abbigliamento e architettura dettagliati, illuminazione volumetrica, simulazione naturale di fuoco e fumo, fisica dell'acqua realistica, atmosfera drammatica, profondità di campo ridotta, movimenti di macchina realistici, movimento fluido, composizione di qualità cinematografica, alto livello di dettaglio, 4K, aspetto cinematografico anamorfico, illuminazione drammatica, texture realistiche, stile da film fantasy epico.
 ```
 
 [↑ Torna alle categorie](#catalog)

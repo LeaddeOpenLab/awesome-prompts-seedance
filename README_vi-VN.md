@@ -351,20 +351,28 @@ Tác giả：[@meAsifAi](https://x.com/meAsifAi) · [Bài gốc](https://x.com/m
 
 <a name="prompt-2098284076809719997"></a>
 
-### Đang dịch
+### Cảnh kỳ ảo đen tối đậm chất điện ảnh về một nữ phù thủy trẻ dập tắt một ngôi làng thời trung cổ đang cháy bằng một cơn lốc xoáy nước khổng lồ.
 
 Tác giả：[@Zoyavelle](https://x.com/Zoyavelle) · [Bài gốc](https://x.com/Zoyavelle/status/2098284076809719997)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh kỳ ảo đen tối đậm chất điện ảnh về một nữ phù thủy trẻ dập tắt một ngôi làng thời trung cổ đang cháy bằng một cơn lốc xoáy nước khổng lồ.
 
 <img src="covers/2098284076809719997.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video giả tưởng điện ảnh chân thực cao lấy bối cảnh tại một ngôi làng châu Âu thời trung cổ trong một thảm họa siêu nhiên bí ẩn. Một thiếu nữ xinh đẹp với làn da nhợt nhạt, mái tóc đen dài thẳng, đội chiếc mũ phù thủy nhọn lớn màu đen, khoác áo choàng đen tuyền và mặc váy thời trung cổ màu đỏ rượu vang đậm, bước đi qua một ngôi làng trung cổ đông đúc trong khi dân làng nhìn cô với ánh mắt sợ hãi và nghi ngờ. Những ngôi nhà khung gỗ nửa phần, đường phố lát đá, các quầy hàng chợ cũ kỹ, dân làng trung cổ trong trang phục mộc mạc, khói và sương mù bao trùm tạo bầu không khí.
+
+Cô bước về phía một cổng vòm đá đồ sộ và bước ra một khoảng sân rộng nhìn ra toàn cảnh ngôi làng. Phía xa, vài ngôi nhà thời trung cổ đang bốc cháy dữ dội, với những ngọn lửa màu cam khổng lồ và khói đen dày đặc bốc lên bầu trời. Nữ phù thủy đột nhiên trở nên siêu nhiên và bay về phía trước trên mặt đất, chiếc áo choàng tối màu và chiếc váy của cô bay bổng đầy kịch tính trong gió.
+
+Một cơn lốc xoáy nước ma thuật khổng lồ bất ngờ nổi lên giữa ngôi làng đang cháy, tạo thành một cột nước xoáy khổng lồ ập qua các con phố và bắt đầu dập tắt ngọn lửa. Dân làng tụ tập và ngước nhìn kinh ngạc khi nữ phù thủy bay bí ẩn lướt qua bầu trời đầy khói.
+
+Thể hiện các cảnh quay ngoạn mục từ trên không về ngôi làng thời trung cổ ngập trong khói và nước, những mái nhà cháy rực, dân làng sợ hãi và vòng xoáy nước khổng lồ. Kết thúc bằng một cảnh cận cảnh đậm chất điện ảnh về nữ phù thủy trẻ đứng bình thản giữa những người dân làng, nhìn thẳng vào máy quay với biểu cảm bí ẩn.
+
+Chân thực như ảnh chụp, kỳ ảo đen tối đậm chất điện ảnh, châu Âu thời trung cổ, khuôn mặt người chân thực, trang phục và kiến trúc chi tiết, ánh sáng thể tích, mô phỏng lửa và khói tự nhiên, vật lý nước chân thực, bầu không khí kịch tính, độ sâu trường ảnh nông, chuyển động máy quay chân thực, chuyển động mượt mà, bố cục chất lượng phim điện ảnh, độ chi tiết cao, 4K, giao diện điện ảnh anamorphic, ánh sáng ấn tượng, kết cấu chân thực, phong cách phim kỳ ảo sử thi.
 ```
 
 [↑ Về danh mục](#catalog)

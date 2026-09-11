@@ -349,20 +349,20 @@ Kinematisch / Filmstill · Stadtbild / Straße · Veröffentlicht
 
 <a name="prompt-2098284076809719997"></a>
 
-### Übersetzung läuft
+### Filmartige Dark-Fantasy-Szene einer jungen Hexe, die ein brennendes mittelalterliches Dorf mit einem gewaltigen Wassertornado löscht.
 
 Autor：[@Zoyavelle](https://x.com/Zoyavelle) · [Originalbeitrag](https://x.com/Zoyavelle/status/2098284076809719997)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmartige Dark-Fantasy-Szene einer jungen Hexe, die ein brennendes mittelalterliches Dorf mit einem gewaltigen Wassertornado löscht.
 
 <img src="covers/2098284076809719997.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein hochrealistisches filmisches Fantasy-Video, das in einem mittelalterlichen europäischen Dorf während einer mysteriösen übernatürlichen Katastrophe spielt. Eine junge, schöne Frau mit blasser Haut, langem glattem schwarzem Haar, die einen großen spitzen schwarzen Hexenhut, einen dunkelbraunen bis tiefschwarzen Umhang und ein tief burgunderrotes mittelalterliches Kleid trägt, geht durch ein belebtes mittelalterliches Dorf, während die Dorfbewohner sie mit Angst und Misstrauen anstarren. Fachwerkshäuser aus Holz, Steinstraßen, alte Marktstände, mittelalterliche Dorfbewohner in rustikaler Kleidung, stimmungsvoller Rauch und Nebel. Sie geht auf einen massiven Steinbogen zu und tritt auf einen offenen Innenhof hinaus, der das Dorf überblickt. In der Ferne brennen mehrere mittelalterliche Häuser lichterloh, wobei riesige orangefarbene Flammen und dichter schwarzer Rauch in den Himmel steigen. Die Hexe wird plötzlich übernatürlich und fliegt über dem Boden vorwärts, während ihr dunkler Umhang und ihr Kleid dramatisch im Wind wehen. Ein gigantischer magischer Wassertornado erhebt sich plötzlich inmitten des brennenden Dorfes und bildet eine riesige wirbelnde Wassersäule, die durch die Straßen bricht und beginnt, die Flammen zu löschen. Die Dorfbewohner versammeln sich und blicken schockiert nach oben, während eine mysteriöse fliegende Hexe durch den verrauchten Himmel zieht. Zeige dramatische Luftaufnahmen des mittelalterlichen Dorfes voller Rauch und Wasser, brennende Dächer, verängstigte Dorfbewohner und den riesigen Wasserwirbel. Ende mit einer filmischen Nahaufnahme der jungen Hexe, die ruhig zwischen den Dorfbewohnern steht und mit einem rätselhaften Ausdruck direkt in die Kamera blickt. Fotorealistisch, filmische Dark Fantasy, mittelalterliches Europa, realistische menschliche Gesichter, detaillierte Kleidung und Architektur, volumetrisches Licht, natürliche Feuer- und Rauchsimulation, realistische Wasserphysik, dramatische Atmosphäre, geringe Schärfentiefe, realistische Kamerabewegung, flüssige Bewegungen, Komposition in Filmqualität, hoher Detailgrad, 4K, anamorphotischer Kino-Look, dramatische Beleuchtung, realistische Texturen, epischer Fantasy-Filmstil.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
