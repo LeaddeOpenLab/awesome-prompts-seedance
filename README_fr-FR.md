@@ -351,20 +351,40 @@ Traduction en cours
 
 <a name="prompt-2098261249913970732"></a>
 
-### Traduction en cours
+### Prompt de vidéo découpée de 15 secondes d'un footballeur s'agenouillant pour demander en mariage une arbitre qui lui montre un carton rouge.
 
 Auteur：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publication originale](https://x.com/bmx_ai13/status/2098261249913970732)
 
 Bande dessinée / Storyboard · Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de vidéo découpée de 15 secondes d'un footballeur s'agenouillant pour demander en mariage une arbitre qui lui montre un carton rouge.
 
 <img src="covers/2098261249913970732.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo photoréaliste de 15 secondes dans un stade de football pour Seedance 2.5. Format d'image : 16:9 paysage. Prise de vue authentique de spectateur, léger mouvement de caméra portée, lumière naturelle du jour, peau réaliste, pelouse d'un vert éclatant et tribunes bondées. Un plan continu unique avec un zoom progressif.
+
+Un footballeur adulte aux cheveux courts et foncés porte une tenue bleu marine unie. Une arbitre adulte aux cheveux foncés attachés en chignon serré porte une tenue d'arbitre noire unie, des chaussettes noires, une montre-bracelet et un sifflet. Tous les vêtements et équipements sont sans marque.
+
+0–2 secondes : Vue panoramique large depuis le premier rang près de la ligne de touche. Positionnez le footballeur à gauche et l'arbitre à droite, le terrain et la foule du stade s'étendant derrière eux. Les mains et téléphones des spectateurs encadrent partiellement les coins inférieurs. Elle brandit un carton rouge uni au-dessus de sa tête tandis qu'il commence à poser un genou à terre.
+
+2–4 secondes : Zoomez lentement vers le duo alors que son genou touche l'herbe. Il lève un petit écrin de bague noir et l'ouvre en sa direction. Gardez le carton rouge levé, l'écrin ouvert et les deux personnages clairement visibles dans le cadre horizontal.
+
+4–6 secondes : Passez à un plan moyen à deux, montrant le joueur à genoux de trois-quarts et le visage de l'arbitre nettement visible. Elle aperçoit la bague. Son expression sévère se change en surprise : ses sourcils se haussent, ses lèvres s'entrouvrent et son bras levé reste figé un instant.
+
+6–8 secondes : Rapprochez-vous légèrement tout en conservant les deux visages dans le cadre. Elle passe du regard de la bague à ses yeux et esquisse un sourire chaleureux et bouleversé. Il reste sur un genou, souriant et maintenant fermement l'écrin.
+
+8–10 secondes : Elle rit et abaisse lentement le carton rouge le long de son corps. Ses épaules se détendent. Les spectateurs sur les côtés lèvent leurs téléphones alors que l'effervescence de la foule s'intensifie.
+
+10–12 secondes : Elle acquiesce joyeusement d'un signe de tête et tend sa main libre vers lui. Il referme l'écrin, le tient fermement et se relève naturellement. Inclinez doucement la caméra vers le haut pour garder leurs deux visages harmonieusement cadrés.
+
+12–15 secondes : Ils font un pas l'un vers l'autre et s'enlacent chaleureusement au bord de la touche. Gardez le couple au centre, avec des coéquipiers s'approchant et applaudissant à l'arrière-plan. Maintenez l'étreinte avec un léger balancement de caméra portée.
+
+Audio : Ambiance naturelle de stade, clameurs montantes, applaudissements et rires joyeux. Aucun dialogue intelligible ni voix off.
+
+Contraintes visuelles : Visages et vêtements cohérents, mains réalistes, mouvements naturels et continuité stable des objets. Cadrage plein écran 16:9, sans bandes noires. Aucun texte, légende, sous-titre, logo, filigrane, nom ou numéro de maillot, marque de sponsor, panneau lisible, émoji ou incrustation graphique.
 ```
 
 [↑ Retour aux catégories](#catalog)

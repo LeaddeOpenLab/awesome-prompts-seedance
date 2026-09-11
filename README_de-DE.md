@@ -351,20 +351,40 @@ Originalbeitrag：[@Strength04\_X](https://x.com/Strength04_X) · [Originalbeitr
 
 <a name="prompt-2098261249913970732"></a>
 
-### Übersetzung läuft
+### 15-sekündiger Storyboard-Videoprompt: Ein Fußballspieler macht einer Schiedsrichterin, die die Rote Karte zeigt, auf einem Knie einen Heiratsantrag.
 
 Autor：[@bmx\_ai13](https://x.com/bmx_ai13) · [Originalbeitrag](https://x.com/bmx_ai13/status/2098261249913970732)
 
 Comic / Storyboard · Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 15-sekündiger Storyboard-Videoprompt: Ein Fußballspieler macht einer Schiedsrichterin, die die Rote Karte zeigt, auf einem Knie einen Heiratsantrag.
 
 <img src="covers/2098261249913970732.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 15-sekündiges fotorealistisches Fußballstadion-Video für Seedance 2.5. Seitenverhältnis: 16:9 Querformat. Authentische Zuschauerperspektive, subtile Handkamerabewegung, natürliches Tageslicht, realistische Haut, sattes grünes Gras und vollbesetzte Tribünen. Eine einzige kontinuierliche Aufnahme mit sanftem Zoom.
+
+Ein erwachsener männlicher Fußballspieler mit kurzen dunklen Haaren trägt ein schlichtes marineblaues Trikot. Eine erwachsene Schiedsrichterin mit dunklem Haar in einem festen Dutt trägt eine schlichte schwarze Schiedsrichteruniform, schwarze Stutzen, eine Armbanduhr und eine Pfeife. Sämtliche Kleidung und Ausrüstung sind markenlos.
+
+0–2 Sekunden: Weite Landschaftsansicht aus der ersten Reihe an der Seitenlinie. Platziere den Fußballer links und die Schiedsrichterin rechts, während sich das Spielfeld und die Zuschauermenge hinter ihnen erstrecken. Hände und Smartphones von Zuschauern rahmen die unteren Ecken teilweise ein. Sie hält eine schlichte rote Karte nach oben, während er beginnt, auf ein Knie zu gehen.
+
+2–4 Sekunden: Zoome langsam auf das Paar heran, während sein Knie den Rasen berührt. Er hebt ein kleines schwarzes Ringetui und öffnet es in ihre Richtung. Halte die erhobene rote Karte, die geöffnete Schatulle und beide Personen innerhalb des horizontalen Bildausschnitts deutlich sichtbar.
+
+4–6 Sekunden: Gehe in eine mittlere Zweier-Einstellung über, die den knienden Spieler im Dreiviertelprofil und das Gesicht der Schiedsrichterin deutlich zeigt. Sie bemerkt den Ring. Ihr ernster Blick verwandelt sich in Überraschung: Die Augenbrauen heben sich, die Lippen öffnen sich leicht und ihr erhobener Arm verharrt für einen Moment wie erstarrt.
+
+6–8 Sekunden: Bewege die Kamera etwas näher heran, während beide Gesichter sichtbar bleiben. Sie blickt vom Ring in seine Augen und bricht in ein warmes, überwältigtes Lächeln aus. Er bleibt auf einem Knie, lächelt und hält die Schatulle ruhig fest.
+
+8–10 Sekunden: Sie lacht und senkt die rote Karte langsam an ihre Seite. Ihre Schultern entspannen sich. Zuschauer an den Bildrändern heben ihre Handys, während die Begeisterung der Menge zunimmt.
+
+10–12 Sekunden: Sie nickt glücklich und streckt ihre freie Hand nach ihm aus. Er schließt das Ringetui, hält es sicher und steht natürlich auf. Schwenke die Kamera sanft nach oben, um beide Köpfe angenehm im Bild zu halten.
+
+12–15 Sekunden: Sie treten aufeinander zu und umarmen sich herzlich an der Seitenlinie. Halte das Paar zentriert, während sich Mitspieler im Hintergrund nähern und applaudieren. Halte die Umarmung mit dezentem Handkamera-Schwanken fest.
+
+Audio: Natürliche Stadionatmosphäre, anschwellender Jubel, Applaus und fröhliches Lachen. Keine verständlichen Dialoge oder Voiceover.
+
+Visuelle Einschränkungen: Konsistente Gesichter, Kleidung, realistische Hände, natürliche Bewegungen und stabile Objektkontinuität. Vollbildkomposition 16:9, keine schwarzen Balken. Kein Text, keine Untertitel, Logos, Wasserzeichen, Trikotnamen oder -nummern, Sponsorenlogos, lesbare Schilder, Emojis oder grafische Überlagerungen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

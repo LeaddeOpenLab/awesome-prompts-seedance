@@ -337,20 +337,40 @@ Orijinal gönderi：[@Strength04\_X](https://x.com/Strength04_X) · [Orijinal g�
 
 <a name="prompt-2098261249913970732"></a>
 
-### Çeviri sürüyor
+### Kırmızı kart gösteren kadın hakeme tek dizinin üzerine çökerek evlenme teklif eden futbolcunun 15 saniyelik sahne sahne video istemi.
 
 Yazar：[@bmx\_ai13](https://x.com/bmx_ai13) · [Orijinal gönderi](https://x.com/bmx_ai13/status/2098261249913970732)
 
 Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kırmızı kart gösteren kadın hakeme tek dizinin üzerine çökerek evlenme teklif eden futbolcunun 15 saniyelik sahne sahne video istemi.
 
 <img src="covers/2098261249913970732.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Seedance 2.5 için 15 saniyelik fotogerçekçi bir futbol stadyumu videosu oluşturun. En boy oranı: 16:9 yatay. Otantik seyirci çekimi, hafif el kamerası hareketi, doğal gün ışığı, gerçekçi ten dokusu, canlı yeşil çimler ve kalabalık tribünler. Kademeli yakınlaştırmaya sahip tek bir kesintisiz çekim.
+
+Kısa koyu saçlı yetişkin bir erkek futbolcu, logosuz düz lacivert bir forma giyiyor. Koyu renk saçları sıkı bir topuz yapılmış yetişkin bir kadın hakem, logosuz düz siyah hakem forması, siyah çoraplar, kol saati ve düdük takıyor. Tüm kıyafetler ve ekipmanlar markasızdır.
+
+0–2 saniye: Taç çizgisinin hemen yanındaki ön sıradan geniş yatay açı. Futbolcuyu solda, hakemi sağda konumlandırın; saha ve stadyum kalabalığı arkalarında uzansın. Seyircilerin elleri ve telefonları alt köşeleri kısmen çerçeveliyor. Kadın hakem havaya düz kırmızı bir kart kaldırırken futbolcu tek dizinin üzerine çökmeye başlar.
+
+2–4 saniye: Futbolcunun dizi çime değer değmez ikiliye doğru yavaşça yakınlaşın. Küçük siyah bir yüzük kutusunu kaldırır ve kadına doğru açar. Kaldırılmış kırmızı kartı, açık kutuyu ve her iki karakteri de yatay çerçevenin içinde net bir şekilde görünür tutun.
+
+4–6 saniye: Diz çökmüş oyuncuyu üç çeyrek profilden ve hakemin yüzünü net bir şekilde gösteren ikili orta plana (medium two-shot) geçin. Hakem yüzüğü fark eder. Sert ifadesi şaşkınlığa dönüşür: kaşları kalkar, dudakları aralanır ve havadaki kolu bir anlığına donup kalır.
+
+6–8 saniye: Her iki yüzü de çerçevede tutarak biraz daha yaklaşın. Hakem yüzükten gözlerine bakar ve sıcak, duygu dolu bir gülümsemeyle parlar. Futbolcu tek dizi üzerinde kalarak gülümser ve kutuyu sabit bir şekilde tutar.
+
+8–10 saniye: Kadın hakem güler ve kırmızı kartı yavaşça yanına indirir. Omuzları rahatlar. Tribün kenarındaki seyirciler, kalabalığın coşkusu arttıkça telefonlarını kaldırır.
+
+10–12 saniye: Hakem mutlulukla başını sallar ve boşta kalan eliyle ona doğru uzanır. Futbolcu yüzük kutusunu kapatır, güvenle tutar ve doğal bir şekilde ayağa kalkar. Her iki başı da çerçevede rahatça tutmak için kamerayı nazikçe yukarı doğru eğin (tilt up).
+
+12–15 saniye: Taç çizgisinin yanında birbirlerine doğru bir adım atıp sıcak bir şekilde kucaklaşırlar. Çifti merkezde tutun; arka planda takım arkadaşları yaklaşarak alkışlasın. Hafif el kamerası sallantısıyla sarılma anında sabit kalın.
+
+Ses: Doğal stadyum ortamı, yükselen tezahüratlar, alkışlar ve mutlu kahkahalar. Anlaşılır bir diyalog veya seslendirme yok.
+
+Görsel kısıtlamalar: Tutarlı yüzler, giysiler, gerçekçi eller, doğal hareket ve nesnelerde kararlı süreklilik. Tam kare 16:9 kompozisyon, siyah şeritler yok. Metin, başlık, altyazı, logo, filigran, forma isimleri veya numaraları, sponsor işaretleri, okunabilir tabelalar, emojiler veya grafik kaplamalar yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

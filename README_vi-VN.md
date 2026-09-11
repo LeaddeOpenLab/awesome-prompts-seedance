@@ -353,20 +353,40 @@ Bài gốc：[@Strength04\_X](https://x.com/Strength04_X) · [Bài gốc](https:
 
 <a name="prompt-2098261249913970732"></a>
 
-### Đang dịch
+### Lời nhắc video phân cảnh 15 giây về cầu thủ bóng đá quỳ gối cầu hôn nữ trọng tài vừa rút thẻ đỏ.
 
 Tác giả：[@bmx\_ai13](https://x.com/bmx_ai13) · [Bài gốc](https://x.com/bmx_ai13/status/2098261249913970732)
 
 Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video phân cảnh 15 giây về cầu thủ bóng đá quỳ gối cầu hôn nữ trọng tài vừa rút thẻ đỏ.
 
 <img src="covers/2098261249913970732.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video sân vận động bóng đá chân thực dài 15 giây cho Seedance 2.5. Tỷ lệ khung hình: 16:9 phong cảnh. Cảnh quay chân thực từ góc nhìn khán giả, chuyển động cầm tay nhẹ nhàng, ánh sáng ban ngày tự nhiên, làn da chân thực, mặt cỏ xanh sống động và khán đài đông đúc. Một cú máy quay liên tục kết hợp thu phóng dần dần.
+
+Một nam cầu thủ bóng đá trưởng thành với mái tóc ngắn màu tối mặc bộ trang phục thi đấu màu xanh navy trơn. Một nữ trọng tài trưởng thành với mái tóc tối màu búi gọn gàng mặc trang phục trọng tài màu đen trơn, tất đen, đồng hồ đeo tay và còi. Tất cả quần áo và trang thiết bị đều không có thương hiệu.
+
+0–2 giây: Góc nhìn phong cảnh rộng từ hàng ghế đầu bên đường biên. Đặt cầu thủ bóng đá ở bên trái và nữ trọng tài ở bên phải, với sân bóng và đám đông khán giả trải dài phía sau họ. Bàn tay và điện thoại của khán giả lọt vào một phần các góc dưới khung hình. Cô ấy giơ cao một chiếc thẻ đỏ trơn trên đầu khi anh ấy bắt đầu quỳ một bên gối xuống.
+
+2–4 giây: Từ từ thu phóng về phía hai người khi đầu gối anh ấy chạm cỏ. Anh ấy nâng một hộp nhẫn nhỏ màu đen lên và mở ra hướng về phía cô. Giữ chiếc thẻ đỏ giơ cao, hộp mở và cả hai nhân vật đều hiển thị rõ ràng trong khung hình ngang.
+
+4–6 giây: Ổn định ở cỡ cảnh trung hai người (medium two-shot), thể hiện rõ cầu thủ đang quỳ ở góc nhìn ba phần tư và khuôn mặt của nữ trọng tài. Cô nhận ra chiếc nhẫn. Biểu cảm nghiêm nghị của cô chuyển sang ngạc nhiên: lông mày nhướng lên, môi hé mở và cánh tay giơ lên của cô khựng lại trong giây lát.
+
+6–8 giây: Di chuyển lại gần hơn một chút nhưng vẫn giữ trọn vẹn cả hai khuôn mặt. Cô nhìn từ chiếc nhẫn vào mắt anh và nở một nụ cười ấm áp, ngập tràn xúc động. Anh ấy vẫn quỳ một gối, mỉm cười và giữ chắc hộp nhẫn.
+
+8–10 giây: Cô bật cười và từ từ hạ thẻ đỏ xuống bên hông. Đôi vai cô thả lỏng. Khán giả dọc theo các góc nâng điện thoại lên khi sự phấn khích của đám đông ngày càng dâng cao.
+
+10–12 giây: Cô gật đầu hạnh phúc và đưa bàn tay rảnh về phía anh. Anh đóng hộp nhẫn lại, cầm chắc chắn và đứng dậy một cách tự nhiên. Nhẹ nhàng nghiêng máy quay lên trên để giữ đầu của cả hai người trong khung hình một cách thoải mái.
+
+12–15 giây: Họ bước lại gần nhau và ôm nhau ấm áp bên đường biên. Giữ cặp đôi ở vị trí trung tâm, với các đồng đội đang tiến lại gần và vỗ tay phía sau hậu cảnh. Giữ nguyên cảnh ôm với độ rung lắc nhẹ của máy quay cầm tay.
+
+Âm thanh: Âm thanh môi trường sân vận động tự nhiên, tiếng reo hò vang lên, tiếng vỗ tay và tiếng cười hạnh phúc. Không có hội thoại rõ lời hoặc thuyết minh.
+
+Ràng buộc thị giác: Khuôn mặt, trang phục nhất quán, bàn tay chân thực, chuyển động tự nhiên và tính liên tục ổn định của vật thể. Bố cục toàn khung hình 16:9, không có vạch đen. Không có chữ, chú thích, phụ đề, logo, hình mờ, tên hoặc số áo, nhãn hiệu tài trợ, biển hiệu đọc được, biểu tượng cảm xúc hoặc đồ họa phủ đè.
 ```
 
 [↑ Về danh mục](#catalog)

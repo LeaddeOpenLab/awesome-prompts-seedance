@@ -351,20 +351,40 @@ Traduzione in corso
 
 <a name="prompt-2098261249913970732"></a>
 
-### Traduzione in corso
+### Prompt video di 15 secondi con storyboard di un calciatore che si inginocchia per fare la proposta di matrimonio a un'arbitra che gli mostra il cartellino rosso.
 
 Autore：[@bmx\_ai13](https://x.com/bmx_ai13) · [Post originale](https://x.com/bmx_ai13/status/2098261249913970732)
 
 Fumetto / Storyboard · Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt video di 15 secondi con storyboard di un calciatore che si inginocchia per fare la proposta di matrimonio a un'arbitra che gli mostra il cartellino rosso.
 
 <img src="covers/2098261249913970732.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video fotorealistico di 15 secondi in uno stadio di calcio per Seedance 2.5. Formato: 16:9 orizzontale. Ripresa autentica dal punto di vista degli spettatori, leggero movimento a spalla, luce diurna naturale, pelle realistica, erba verde brillante e spalti affollati. Un'unica inquadratura continua con zoom graduale.
+
+Un calciatore maschio adulto con capelli scuri corti indossa una divisa blu navy senza scritte. Un'arbitra adulta con capelli scuri raccolti in uno chignon stretto indossa una divisa arbitrale nera senza loghi, calzettoni neri, orologio da polso e fischietto. Tutti gli indumenti e le attrezzature sono privi di marchio.
+
+0–2 secondi: Vista panoramica ampia dalla prima fila vicino alla linea laterale. Posiziona il calciatore a sinistra e l'arbitra a destra, con il campo e la folla dello stadio che si estendono alle loro spalle. Mani e telefoni degli spettatori incorniciano parzialmente gli angoli inferiori. Lei tiene sollevato un cartellino rosso a tinta unita mentre lui inizia a inginocchiarsi su una gamba.
+
+2–4 secondi: Esegui un lento zoom verso la coppia mentre il suo ginocchio tocca l'erba. Lui solleva una piccola scatolina per anello nera e la apre verso di lei. Mantieni chiaramente visibili nell'inquadratura orizzontale il cartellino rosso alzato, la scatola aperta ed entrambi i personaggi.
+
+4–6 secondi: Passa a un'inquadratura media a due, mostrando il giocatore inginocchiato di tre quarti e il volto dell'arbitra in modo chiaro. Lei nota l'anello. La sua espressione severa si trasforma in sorpresa: le sopracciglia si alzano, le labbra si schiudono e il braccio alzato rimane momentaneamente immobile.
+
+6–8 secondi: Avvicinati leggermente mantenendo entrambi i volti nell'inquadratura. Lei sposta lo sguardo dall'anello ai suoi occhi e si scioglie in un sorriso caloroso e commosso. Lui rimane su un ginocchio, sorridendo e tenendo saldamente la scatolina.
+
+8–10 secondi: Lei ride e abbassa lentamente il cartellino rosso lungo il fianco. Le sue spalle si rilassano. Gli spettatori ai lati sollevano i telefoni mentre cresce l'entusiasmo della folla.
+
+10–12 secondi: Lei annuisce felicemente e allunga la mano libera verso di lui. Lui chiude la scatolina, la tiene al sicuro e si rialza in modo naturale. Inclina delicatamente l'inquadratura verso l'alto per mantenere entrambi i volti comodamente incorniciati.
+
+12–15 secondi: Fanno un passo l'uno verso l'altra e si abbracciano calorosamente a bordo campo. Mantieni la coppia al centro, con i compagni di squadra che si avvicinano e applaudono sullo sfondo. Rimani sull'abbraccio con una leggera oscillazione da camera a mano.
+
+Audio: Suoni d'ambiente naturali dello stadio, cori ed esultanze crescenti, applausi e risate felici. Nessun dialogo comprensibile o voce fuori campo.
+
+Vincoli visivi: Volti e abbigliamento coerenti, mani realistiche, movimento naturale e continuità stabile degli oggetti. Composizione 16:9 a schermo intero, senza barre nere. Nessun testo, didascalia, sottotitolo, logo, watermark, nomi o numeri sulle maglie, marchi di sponsor, cartelli leggibili, emoji o elementi grafici sovrapposti.
 ```
 
 [↑ Torna alle categorie](#catalog)

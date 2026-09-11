@@ -351,20 +351,40 @@ Traducción en curso
 
 <a name="prompt-2098261249913970732"></a>
 
-### Traducción en curso
+### Prompt de video con guion gráfico de 15 segundos de un futbolista que se arrodilla para proponerle matrimonio a una árbitra que le muestra la tarjeta roja.
 
 Autor：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publicación original](https://x.com/bmx_ai13/status/2098261249913970732)
 
 Cómic / Guion gráfico · Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video con guion gráfico de 15 segundos de un futbolista que se arrodilla para proponerle matrimonio a una árbitra que le muestra la tarjeta roja.
 
 <img src="covers/2098261249913970732.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video fotorrealista de 15 segundos en un estadio de fútbol para Seedance 2.5. Relación de aspecto: horizontal 16:9. Grabación auténtica desde la tribuna, movimiento sutil de cámara en mano, luz natural diurna, piel realista, césped verde vívido y gradas llenas de gente. Una sola toma continua con un acercamiento gradual.
+
+Un futbolista masculino adulto con cabello corto y oscuro viste un uniforme azul marino liso. Una árbitra adulta con cabello oscuro recogido en un moño apretado viste un uniforme de árbitro negro liso, medias negras, reloj de pulsera y silbato. Toda la indumentaria y el equipamiento no llevan marcas.
+
+0–2 segundos: Vista panorámica amplia desde la primera fila junto a la línea de banda. Coloca al futbolista a la izquierda y a la árbitra a la derecha, con el campo y la multitud del estadio extendiéndose detrás de ellos. Las manos y los teléfonos de los espectadores enmarcan parcialmente las esquinas inferiores. Ella sostiene una tarjeta roja lisa en alto mientras él comienza a arrodillarse sobre una pierna.
+
+2–4 segundos: Acércate lentamente hacia la pareja mientras su rodilla toca el césped. Él levanta una pequeña caja de anillo negra y la abre hacia ella. Mantén la tarjeta roja levantada, la caja abierta y a ambos personajes claramente visibles dentro del encuadre horizontal.
+
+4–6 segundos: Pasa a un plano medio de dos personas, mostrando al jugador arrodillado en perfil de tres cuartos y el rostro de la árbitra con claridad. Ella nota el anillo. Su expresión severa se transforma en sorpresa: levanta las cejas, entreabre los labios y su brazo levantado permanece momentáneamente congelado.
+
+6–8 segundos: Acércate un poco más manteniendo ambos rostros. Ella mira del anillo a los ojos de él y estalla en una sonrisa cálida y conmovida. Él permanece sobre una rodilla, sonriendo y sosteniendo la caja con firmeza.
+
+8–10 segundos: Ella se ríe y baja lentamente la tarjeta roja hacia su costado. Sus hombros se relajan. Los espectadores a los lados levantan sus teléfonos mientras aumenta la emoción del público.
+
+10–12 segundos: Ella asiente felizmente y extiende su mano libre hacia él. Él cierra la caja del anillo, la sujeta con seguridad y se levanta de manera natural. Inclina suavemente la cámara hacia arriba para mantener ambas cabezas cómodamente encuadradas.
+
+12–15 segundos: Dan un paso hacia el otro y se abrazan cálidamente junto a la línea de banda. Mantén a la pareja centrada, con compañeros de equipo acercándose y aplaudiendo de fondo. Mantén el abrazo con un balanceo sutil de cámara en mano.
+
+Audio: Ambiente natural de estadio, vítores crecientes, aplausos y risas alegres. Sin diálogos inteligibles ni voz en off.
+
+Restricciones visuales: Rostros y vestimenta consistentes, manos realistas, movimiento natural y continuidad estable de los objetos. Composición a pantalla completa 16:9, sin barras negras. Sin texto, subtítulos, logos, marcas de agua, nombres o números en las camisetas, marcas de patrocinadores, carteles legibles, emojis o superposiciones gráficas.
 ```
 
 [↑ Volver a categorías](#catalog)

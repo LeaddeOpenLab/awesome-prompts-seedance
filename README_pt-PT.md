@@ -337,20 +337,40 @@ Tradução em curso
 
 <a name="prompt-2098261249913970732"></a>
 
-### Tradução em curso
+### Prompt de vídeo plano a plano de 15 segundos de um futebolista ajoelhado a pedir em casamento uma árbitra que exibe um cartão vermelho.
 
 Autor：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publicação original](https://x.com/bmx_ai13/status/2098261249913970732)
 
 Banda desenhada / Storyboard · Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo plano a plano de 15 segundos de um futebolista ajoelhado a pedir em casamento uma árbitra que exibe um cartão vermelho.
 
 <img src="covers/2098261249913970732.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo fotorrealista de 15 segundos num estádio de futebol para o Seedance 2.5. Proporção de ecrã: paisagem 16:9. Filmagens autênticas de espetadores, movimento subtil de câmara à mão, luz natural do dia, pele realista, relva verde viva e bancadas cheias. Um plano contínuo com zoom gradual.
+
+Um futebolista adulto do sexo masculino com cabelo curto e escuro veste um equipamento azul-escuro simples. Uma árbitra adulta com cabelo escuro preso num carrapito firme veste um equipamento de árbitro totalmente preto e simples, meias pretas, relógio de pulso e apito. Todas as roupas e equipamentos não têm marcas.
+
+0–2 segundos: Vista panorâmica ampla da primeira fila junto à linha lateral. Posicione o futebolista à esquerda e a árbitra à direita, com o relvado e a multidão do estádio a estenderem-se atrás deles. As mãos e os telemóveis dos espetadores enquadram parcialmente os cantos inferiores. Ela segura um cartão vermelho simples no ar enquanto ele começa a ajoelhar-se sobre um dos joelhos.
+
+2–4 segundos: Faça um zoom lento em direção ao par enquanto o joelho dele toca a relva. Ele levanta uma pequena caixa de anel preta e abre-a na direção dela. Mantenha o cartão vermelho erguido, a caixa aberta e ambas as personagens claramente visíveis dentro do enquadramento horizontal.
+
+4–6 segundos: Estabilize num plano médio conjunto (medium two-shot), mostrando o jogador ajoelhado de perfil a três quartos e a cara da árbitra com clareza. Ela repara no anel. A sua expressão severa transforma-se em surpresa: as sobrancelhas erguem-se, os lábios entreabrem-se e o braço levantado fica momentaneamente imóvel.
+
+6–8 segundos: Aproxime-se ligeiramente mantendo ambos os rostos. Ela olha do anel para os olhos dele e abre um sorriso caloroso e emocionado. Ele permanece sobre um joelho, a sorrir e a segurar a caixa com firmeza.
+
+8–10 segundos: Ela ri-se e baixa lentamente o cartão vermelho para o lado do corpo. Os seus ombros relaxam. Os espetadores ao longo dos limites levantam os telemóveis à medida que a emoção da multidão aumenta.
+
+10–12 segundos: Ela acena afirmativamente com a cabeça, feliz, e estende a mão livre na direção dele. Ele fecha a caixa do anel, segura-a com firmeza e levanta-se com naturalidade. Incline ligeiramente para cima para manter ambas as cabeças confortavelmente enquadradas.
+
+12–15 segundos: Eles aproximam-se e abraçam-se calorosamente junto à linha lateral. Mantenha o casal centrado, com os colegas de equipa a aproximarem-se e a aplaudirem no fundo. Mantenha o abraço com uma oscilação subtil de câmara à mão.
+
+Áudio: Ambiente natural de estádio, aplausos e vivas crescentes, e risos alegres. Sem diálogos inteligíveis ou locução.
+
+Restrições visuais: Rostos e roupas consistentes, mãos realistas, movimento natural e continuidade estável dos objetos. Composição em ecrã inteiro 16:9, sem barras pretas. Sem texto, legendas, closed captions, logótipos, marcas de água, nomes ou números na camisola, marcas de patrocinadores, sinais legíveis, emojis ou sobreposições gráficas.
 ```
 
 [↑ Voltar às categorias](#catalog)
