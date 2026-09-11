@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T12:32:39.853Z",
+  "model": "seedance",
+  "prompt": "Futuristic anime sci-fi concept art, near-future mecha design, hard-surface mechanical detailing, sleek white-black-orange technology palette, intricate armor paneling, exposed joints and machinery, sharp clean linework, semi-realistic anime proportions, high-detail industrial design, cinematic production art, clean technical illustration aesthetic",
+  "promptTranslations": {
+    "en": "Futuristic anime sci-fi concept art, near-future mecha design, hard-surface mechanical detailing, sleek white-black-orange technology palette, intricate armor paneling, exposed joints and machinery, sharp clean linework, semi-realistic anime proportions, high-detail industrial design, cinematic production art, clean technical illustration aesthetic"
+  },
+  "summaryTranslations": {
+    "en": "Futuristic anime sci-fi and mecha concept art prompt with white-black-orange palette."
+  },
+  "translationVersion": 2,
+  "summary": "Futuristic anime sci-fi and mecha concept art prompt with white-black-orange palette.",
+  "summaryEn": "Futuristic anime sci-fi and mecha concept art prompt with white-black-orange palette.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098369249173782695",
+    "canonicalUrl": "https://x.com/NVTDanh/status/2098369249173782695",
+    "author": {
+      "username": "NVTDanh",
+      "displayName": "ToaiDanh",
+      "profileUrl": "https://x.com/NVTDanh"
+    },
+    "publishedAt": "2026-09-11T11:13:09.000Z",
+    "collectedAt": "2026-09-11T12:16:05.734Z",
+    "language": "en",
+    "originalText": "100 AI Styles in 100 Days                        \n\nDay 85/100:                        \n\n📷 Art style:  Anime sci-fi concept art\nFuturistic anime sci-fi concept art, near-future mecha design, hard-surface mechanical detailing, sleek white-black-orange technology palette, intricate armor paneling, exposed joints and machinery, sharp clean linework, semi-realistic anime proportions, high-detail industrial design, cinematic production art, clean technical illustration aesthetic\n\n📷 Inspired by a true story, reimagined in another universe, where superheroes exist and peace still has a chance to prevail.\nI wanted to imagine a different ending.\nNot to erase history, but to reflect on loss, courage, and the hope of peace.\nI also made another 15s continuation, but I think this first 15s already says enough.\n\n📷 Created with Seedance 2.0 on @itsPolloAI @polloai_creator",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/NVTDanh/status/2098369249173782695",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098366538114052096/img/cOcTFU4fDquTl85M.jpg",
+        "analysisUrl": "https://x.com/NVTDanh/status/2098369249173782695"
+      }
+    ],
+    "metrics": {
+      "likeCount": 36,
+      "repostCount": 1,
+      "replyCount": 21,
+      "quoteCount": 0,
+      "viewCount": 1032
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/NVTDanh/status/2098369249173782695",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098366538114052096/img/cOcTFU4fDquTl85M.jpg",
+  "coverPath": "covers/2098369249173782695.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098366538114052096",
+    "x-post:2098369249173782695"
+  ],
+  "analysis": {
+    "summary": "Futuristic anime sci-fi and mecha concept art prompt with white-black-orange palette.",
+    "summaryEn": "Futuristic anime sci-fi and mecha concept art prompt with white-black-orange palette.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video exhibits hard-surface mecha styling, anime character aesthetics, and the specified white-black-orange color scheme."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Futuristic anime sci-fi concept art, near-future mecha design, hard-surface mechanical detailing, sleek white-black-orange technology palette, intricate armor paneling, exposed joints and machinery, sharp clean linework, semi-realistic anime proportions, high-detail industrial design, cinematic production art, clean technical illustration aesthetic",
+    "sourceRange": {
+      "start": 127,
+      "end": 477
+    },
+    "translations": {
+      "zh": "未来动漫科幻概念艺术，近未来机甲设计，硬表面机械细节，黑白橙流线科技配色，精密装甲板，外露关节与机械结构，锐利干净的线条，半写实动漫比例，高精度工业设计，电影级制作艺术，干净的技术插画美学",
+      "en": "Futuristic anime sci-fi concept art, near-future mecha design, hard-surface mechanical detailing, sleek white-black-orange technology palette, intricate armor paneling, exposed joints and machinery, sharp clean linework, semi-realistic anime proportions, high-detail industrial design, cinematic production art, clean technical illustration aesthetic"
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept art style",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
