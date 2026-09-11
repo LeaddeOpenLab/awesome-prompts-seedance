@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T16:24:11.218Z",
+  "model": "seedance2.5",
+  "prompt": "the flame travels slowly down the stick, the wood blackening and curling behind it",
+  "promptTranslations": {
+    "en": "the flame travels slowly down the stick, the wood blackening and curling behind it"
+  },
+  "summaryTranslations": {
+    "en": "Prompt describes flame traveling slowly down a matchstick, blackening and curling the wood."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt describes flame traveling slowly down a matchstick, blackening and curling the wood.",
+  "summaryEn": "Prompt describes flame traveling slowly down a matchstick, blackening and curling the wood.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098403961325695379",
+    "canonicalUrl": "https://x.com/GlennHasABeard/status/2098403961325695379",
+    "author": {
+      "username": "GlennHasABeard",
+      "displayName": "Glenn Williams",
+      "profileUrl": "https://x.com/GlennHasABeard"
+    },
+    "publishedAt": "2026-09-11T13:31:05.000Z",
+    "collectedAt": "2026-09-11T16:16:29.553Z",
+    "language": "en",
+    "originalText": "Seedance 2.5. One match, lit at 3, out at 13, still standing.\n\nPrompt: \"the flame travels slowly down the stick, the wood blackening and curling behind it\"\n\nDuration: 15s. Camera: locked macro. Rendered 480p, Topaz to 4K.\n\nTen seconds of burn is a speed instruction. The model has to divide the stick by the time you gave it.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/GlennHasABeard/status/2098403961325695379",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098403924256653312/img/9GAcNZ7AybC8RKPg.jpg",
+        "analysisUrl": "https://x.com/GlennHasABeard/status/2098403961325695379"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 283
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/GlennHasABeard/status/2098403961325695379",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098403924256653312/img/9GAcNZ7AybC8RKPg.jpg",
+  "coverPath": "covers/2098403961325695379.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098403924256653312",
+    "x-post:2098403961325695379"
+  ],
+  "analysis": {
+    "summary": "Prompt describes flame traveling slowly down a matchstick, blackening and curling the wood.",
+    "summaryEn": "Prompt describes flame traveling slowly down a matchstick, blackening and curling the wood.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a single match burning down from top to bottom with the stick blackening exactly as described."
+    },
+    "videoQuality": null,
+    "originalPrompt": "the flame travels slowly down the stick, the wood blackening and curling behind it",
+    "sourceRange": {
+      "start": 72,
+      "end": 154
+    },
+    "translations": {
+      "zh": "火焰缓缓沿着火柴棒向下蔓延，木头在其后变黑卷曲",
+      "en": "the flame travels slowly down the stick, the wood blackening and curling behind it"
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "AI video generation depicting a burning match in macro view",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
