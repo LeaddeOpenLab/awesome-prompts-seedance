@@ -373,20 +373,20 @@ Tạo bản tái tạo 3D có thể chỉnh sửa của sảnh tròn trung tâm 
 
 <a name="prompt-2098487159363871212"></a>
 
-### Đang dịch
+### Cảnh phim giật gân hành động dài 30 giây về người phụ nữ chạy trốn kẻ đột nhập từ phòng khách sạn cao tầng ra ngoài ban công.
 
 Tác giả：[@aaassa120](https://x.com/aaassa120) · [Bài gốc](https://x.com/aaassa120/status/2098487159363871212)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh phim giật gân hành động dài 30 giây về người phụ nữ chạy trốn kẻ đột nhập từ phòng khách sạn cao tầng ra ngoài ban công.
 
 <img src="covers/2098487159363871212.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cảnh phim giật gân hành động 30 giây mang phong cách điện ảnh chân thực tột bậc, lấy bối cảnh bên trong một phòng khách sạn cao cấp hiện đại trên tầng cao vào ban đêm. Một phụ nữ trưởng thành chuyên nghiệp mặc áo khoác tối màu tiện dụng, quần dài và giày thoải mái phát hiện mình đang bị truy đuổi sau khi cất giữ một ổ USB bí ẩn trông như có mã hóa vào túi du lịch của mình.\n\n0–5s: Cận cảnh macro chặt chẽ chiếc USB trên bàn làm việc khách sạn. Cô nhanh chóng chộp lấy nó, nhìn về phía cửa, bỏ vào túi du lịch rồi kéo khóa lại. Ba tiếng gõ cửa bất ngờ khiến cô sững sờ tại chỗ.\n\n5–10s: Cú đẩy máy điện ảnh chậm rãi về phía cửa phòng khách sạn. Một tiếng gõ mạnh theo sau khi giọng nam nghẹt tiếng vang lên: “Mở cửa ra. Chúng tôi biết cô ở bên trong.” Biểu cảm của cô chuyển từ hoang mang sang sợ hãi. Cô thì thầm: “Không thể nào,” rồi thận trọng lùi lại.\n\n10–15s: Cận cảnh đặc tả tay nắm cửa đang từ từ xoay xuống dưới. Âm thanh chốt và ổ khóa chân thực. Chuyển cảnh sang khuôn mặt sợ hãi của cô khi cô chộp lấy túi du lịch và lao về phía ban công.\n\n15–20s: Cô dùng cả hai tay trượt cửa kính ban công ra, dùng lực thắng lực cản của ray trượt một cách chân thực. Gió đêm mát mẻ làm tóc và áo khoác của cô bay tự nhiên. Phía sau cô, cánh cửa phòng khách sạn rung lên dữ dội vì một cú va đập. Cô bước cẩn thận ra ban công, duy trì sự thăng bằng thực tế gần gờ cao.\n\n20–25s: Một cú va đập mạnh mẽ khác giáng vào cửa khách sạn. Ổ khóa và khung cửa chống cự trước khi cánh cửa cuối cùng tự nhiên xoay mở vào trong quanh các bản lề. Một bóng người lờ mờ xuất hiện ở ngưỡng cửa. Những tờ giấy rời bay phần phật do luồng không khí đột ngột khi cô lùi xa hơn ra ngoài ban công.\n\n25–30s: Cô tiến đến lan can và nhìn xuống thành phố xa xăm bên dưới. Cô quay nhìn sang ban công bên cạnh cách nhau một khoảng hẹp, rồi nhìn lại bóng người đang tiến đến gần. Cô nắm chặt lan can và thì thầm: “Nghĩ đi nào.” Cú quay toàn cảnh ngoại cảnh đầy kịch tính để lộ mặt tiền khách sạn, ban công của cô và ban công bên cạnh.\n\nTính chân thực điện ảnh vững chắc, diễn xuất và cơ sinh học con người chân thực, trọng lực, động lượng, quán tính, ma sát, thăng bằng, cơ chế cửa, chuyển động của kính trượt, chuyển động của vải, trọng lượng đồ vật chuẩn xác, ánh sáng ban đêm tự nhiên, kỹ thuật quay cầm tay có kiểm soát, độ sâu trường ảnh chân thực, độ nhòe chuyển động tự nhiên, thẩm mỹ hiệu ứng thực tế, lời thoại và thiết kế âm thanh đồng bộ, âm thanh môi trường thành phố xa xăm, tiếng bước chân, tiếng thở, tiếng đập cửa, rung chấn của khóa, chuyển động của cửa kính và gió đêm.\n\nKhông có vật lý siêu anh hùng, không có cú nhảy bất khả thi, không rơi ngã, không dịch chuyển tức thời, không có đồ vật trôi nổi, không nổ cửa, không vỡ kính vô cớ, không có gió phóng đại, không có diễn xuất robot, không có giải phẫu méo mó, không thay đổi khuôn mặt hoặc trang phục, không nhân đôi nhân vật, không có chuyển động máy quay bất khả thi, không có vẻ ngoài CGI, không máu me, không kinh dị, không có chữ, không logo, không hình mờ.\n\nKết thúc bằng một cú cắt nhanh sang màn hình đen ngay đỉnh điểm của tình huống gay cấn hồi hộp..
 ```
 
 [↑ Về danh mục](#catalog)

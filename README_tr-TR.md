@@ -357,20 +357,38 @@ Foucault sarkacı, kubbe duvar resimleri, bronz korkuluklar, mermer zemin, bankl
 
 <a name="prompt-2098487159363871212"></a>
 
-### Çeviri sürüyor
+### Bir kadının yüksek kattaki bir otel odasından balkona doğru davetsiz misafirlerden kaçtığı 30 saniyelik sinematik aksiyon-gerilim sahnesi.
 
 Yazar：[@aaassa120](https://x.com/aaassa120) · [Orijinal gönderi](https://x.com/aaassa120/status/2098487159363871212)
 
 Sinematik / Film Karesi · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir kadının yüksek kattaki bir otel odasından balkona doğru davetsiz misafirlerden kaçtığı 30 saniyelik sinematik aksiyon-gerilim sahnesi.
 
 <img src="covers/2098487159363871212.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gece vakti, yüksek bir kattaki modern ve lüks bir otel odasında geçen ultra fotogerçekçi, sinematik, 30 saniyelik aksiyon-gerilim sahnesi. Kullanışlı koyu renk bir ceket, pantolon ve rahat ayakkabılar giymiş yetişkin, profesyonel bir kadın, şifrelenmiş gibi görünen gizemli bir USB belleği seyahat çantasına koyup güvenceye aldıktan sonra takip edildiğini fark eder.
+
+0–5 sn: Otel masasındaki USB belleğin dar makro yakın çekimi. Kadın belleği hızla kapar, kapıya bakar, seyahat çantasına koyar ve çantayı kapatır. Üç ani kapı çalışı onu olduğu yere çiviler.
+
+5–10 sn: Otel kapısına doğru yavaş sinematik yaklaşma. Ardından boğuk bir erkek sesi “Kapıyı aç. İçeride olduğunu biliyoruz,” derken sert bir vuruş duyulur. Yüz ifadesi şaşkınlıktan korkuya döner. Fısıldayarak “Bu imkânsız,” der, ardından temkinli bir şekilde geri adım atar.
+
+10–15 sn: Yavaşça aşağı doğru dönen kapı kolunun aşırı yakın çekimi. Gerçekçi mandal ve kilit sesleri. Seyahat çantasını kapıp balkona doğru koşan kadının korku dolu yüzüne kesme.
+
+15–20 sn: Balkonun cam sürgülü kapısını iki eliyle, rayın direncini fiziksel olarak yenerek açar. Serin gece havası saçlarını ve ceketini doğal bir şekilde hareket ettirir. Arkasında, otel odasının kapısı bir darbeyle şiddetle sarsılır. Kadın, yüksek kenarın yakınında gerçekçi bir denge kurarak dikkatlice balkona adım atar.
+
+20–25 sn: Otel kapısına güçlü bir darbe daha iner. Kilit ve pervaz, kapı menteşeleri üzerinde doğal bir şekilde içeri doğru açılmadan önce direnir. Kapı aralığında kısmen görünen bir siluet belirir. Kadın balkonda daha da ilerlerken ani hava akımıyla etraftaki kâğıtlar uçuşur.
+
+25–30 sn: Korkuluğa ulaşır ve çok aşağıdaki şehre bakar. Dar bir boşlukla ayrılan komşu balkona döner, ardından yaklaşan siluete tekrar bakar. Korkuluğu sıkıca kavrar ve fısıldar: “Düşün.” Dramatik dış geniş çekim; otel cephesini, kadının balkonunu ve komşu balkonu gözler önüne serer.
+
+Ayakları yere basan film gerçekçiliği, gerçekçi insan oyunculuğu ve biyomekaniği, doğru yerçekimi, momentum, eylemsizlik, sürtünme, denge, kapı mekaniği, sürgülü cam hareketi, kumaş devinimi, nesne ağırlığı, doğal gece aydınlatması, kontrollü omuz kamerası sinematografisi, gerçekçi alan derinliği, doğal hareket bulanıklığı, pratik efekt estetiği, senkronize diyalog ve ses tasarımı, uzaktaki şehir ambiyansı, ayak sesleri, nefes alışverişi, kapı darbeleri, kilit titreşimi, cam kapı hareketi ve gece rüzgârı.
+
+Süper kahraman fiziği yok, imkânsız sıçrama yok, düşme yok, ışınlanma yok, havada asılı nesneler yok, patlayan kapı yok, sebepsiz kırılan cam yok, abartılı rüzgâr yok, robotik oyunculuk yok, bozuk anatomi yok, değişen yüz veya kıyafet yok, yinelenen karakterler yok, imkânsız kamera hareketleri yok, CGI görünümü yok, kan yok, vahşet yok, metin yok, logo yok, filigran yok.
+
+Heyecanın doruk noktasında siyaha sert bir kesmeyle sona erer..
 ```
 
 [↑ Kategorilere dön](#catalog)

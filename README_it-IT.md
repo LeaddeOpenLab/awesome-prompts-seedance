@@ -371,20 +371,38 @@ Crea una ricostruzione 3D modificabile della rotonda centrale del Griffith Obser
 
 <a name="prompt-2098487159363871212"></a>
 
-### Traduzione in corso
+### Scena d'azione thriller cinematografica di 30 secondi di una donna che fugge da intrusi da una camera d'albergo a un piano alto verso un balcone.
 
 Autore：[@aaassa120](https://x.com/aaassa120) · [Post originale](https://x.com/aaassa120/status/2098487159363871212)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena d'azione thriller cinematografica di 30 secondi di una donna che fugge da intrusi da una camera d'albergo a un piano alto verso un balcone.
 
 <img src="covers/2098487159363871212.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Thriller d'azione cinematografico ultra-fotorealistico di 30 secondi ambientato all'interno di una moderna camera d'albergo di lusso a un piano alto, di notte. Una donna adulta e professionale con una pratica giacca scura, pantaloni e scarpe comode scopre di essere inseguita dopo aver riposto una misteriosa chiavetta USB dall'aspetto criptato nella sua borsa da viaggio.
+
+0–5s: Primo piano macro stretto della chiavetta USB sulla scrivania dell'hotel. La afferra rapidamente, guarda verso la porta, la mette nella borsa da viaggio e la chiude. Tre colpi improvvisi la bloccano all'istante.
+
+5–10s: Lento carrello cinematografico verso la porta dell'hotel. Segue un colpo pesante mentre una voce maschile ovattata dice: “Open the door. We know you're inside.” La sua espressione muta dalla confusione alla paura. Sussurra: “That's not possible,” poi indietreggia con cautela.
+
+10–15s: Primissimo piano della maniglia della porta che gira lentamente verso il basso. Suoni realistici di scatto e serratura. Stacco sul suo viso spaventato mentre afferra la borsa da viaggio e corre verso il balcone.
+
+15–20s: Fa scorrere la porta finestra del balcone con entrambe le mani, vincendo fisicamente la resistenza del binario. L'aria fresca della notte le muove naturalmente i capelli e la giacca. Dietro di lei, la porta della camera d'albergo trema violentemente per un impatto. Muove passi cauti sul balcone, mantenendo un equilibrio realistico vicino all'alto cornicione.
+
+20–25s: Un altro potente impatto colpisce la porta dell'hotel. La serratura e il telaio resistono prima che la porta si apra finalmente verso l'interno in modo naturale sui suoi cardini. Una sagoma parzialmente visibile appare sulla soglia. Fogli sparsi svolazzano per l'improvviso flusso d'aria mentre lei si sposta più avanti sul balcone.
+
+25–30s: Raggiunge la ringhiera e guarda giù verso la città molto in basso. Si volta verso un balcone vicino separato da uno stretto spazio, poi torna a guardare la sagoma che si avvicina. Stringe saldamente la ringhiera e sussurra: “Think.” Un drammatico campo lungo esterno rivela la facciata dell'hotel, il suo balcone e il balcone vicino.
+
+Realismo cinematografico concreto, recitazione umana e biomeccanica realistiche, gravità accurata, quantità di moto, inerzia, attrito, equilibrio, meccanica della porta, movimento del vetro scorrevole, movimento dei tessuti, peso degli oggetti, illuminazione notturna naturale, cinematografia con camera a mano controllata, profondità di campo realistica, motion blur naturale, estetica da effetti pratici, dialoghi e sound design sincronizzati, atmosfera della città in lontananza, passi, respiro, impatti sulla porta, vibrazione della serratura, movimento della porta a vetri e vento notturno.
+
+Nessuna fisica da supereroi, nessun salto impossibile, nessuna caduta, nessun teletrasporto, nessun oggetto fluttuante, nessuna porta che esplode, nessun vetro rotto senza motivo, nessun vento esagerato, nessuna recitazione robotica, nessuna anatomia distorta, nessun volto o abito che cambia, nessun personaggio duplicato, nessun movimento di macchina impossibile, nessun aspetto da CGI, niente sangue, niente gore, nessun testo, nessun logo, nessun watermark.
+
+Termina con uno stacco netto sul nero al culmine del cliffhanger.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -371,20 +371,38 @@ Créez une reconstitution 3D modifiable de la rotonde centrale de l'observatoire
 
 <a name="prompt-2098487159363871212"></a>
 
-### Traduction en cours
+### Scène cinématographique de thriller d'action de 30 secondes montrant une femme fuyant des intrus depuis une chambre d'hôtel en hauteur pour se réfugier sur un balcon.
 
 Auteur：[@aaassa120](https://x.com/aaassa120) · [Publication originale](https://x.com/aaassa120/status/2098487159363871212)
 
 Image cinématographique / Photogramme de film · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène cinématographique de thriller d'action de 30 secondes montrant une femme fuyant des intrus depuis une chambre d'hôtel en hauteur pour se réfugier sur un balcon.
 
 <img src="covers/2098487159363871212.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Thriller d'action cinématographique ultra-photoréaliste de 30 secondes se déroulant dans une chambre d'hôtel moderne et haut de gamme à un étage élevé, de nuit. Une femme adulte professionnelle vêtue d'une veste sombre pratique, d'un pantalon et de chaussures confortables découvre qu'elle est poursuivie après avoir rangé une mystérieuse clé USB à l'aspect chiffré dans son sac de voyage.
+
+0–5s : Gros plan macro serré sur la clé USB posée sur le bureau de l'hôtel. Elle la saisit rapidement, regarde vers la porte, la range dans son sac de voyage et le referme. Trois coups soudains la figent sur place.
+
+5–10s : Lent travelling avant cinématographique vers la porte de la chambre d'hôtel. Un coup lourd suit tandis qu'une voix masculine étouffée déclare : « Open the door. We know you're inside. » Son expression passe de la confusion à la peur. Elle murmure : « That's not possible », puis recule prudemment.
+
+10–15s : Très gros plan sur la poignée de la porte qui s'abaisse lentement. Bruits réalistes de loquet et de serrure. Coupe sur son visage effrayé alors qu'elle attrape son sac de voyage et se précipite vers le balcon.
+
+15–20s : Elle fait coulisser la baie vitrée du balcon à deux mains, surmontant physiquement la résistance du rail. L'air frais de la nuit fait bouger naturellement ses cheveux et sa veste. Derrière elle, la porte de la chambre d'hôtel tremble violemment sous un impact. Elle avance avec précaution sur le balcon, maintenant un équilibre réaliste près du rebord élevé.
+
+20–25s : Un autre impact puissant frappe la porte de l'hôtel. La serrure et le cadre résistent avant que la porte ne pivote finalement vers l'intérieur de manière naturelle sur ses gonds. Une silhouette partiellement visible apparaît dans l'encadrement. Des feuilles de papier éparses s'envolent sous le courant d'air soudain alors qu'elle avance davantage sur le balcon.
+
+25–30s : Elle atteint la rambarde et regarde en bas la ville située loin en contrebas. Elle se tourne vers un balcon voisin séparé par un espace étroit, puis regarde à nouveau vers la silhouette qui approche. Elle s'agrippe fermement à la rambarde et murmure : « Think. » Un plan d'ensemble extérieur dramatique révèle la façade de l'hôtel, son balcon et le balcon voisin.
+
+Réalisme cinématographique ancré dans le réel, jeu d'acteur et biomécanique humaine réalistes, gravité précise, élan, inertie, frottement, équilibre, mécanique de porte, mouvement de baie vitrée coulissante, mouvement des tissus, poids des objets, éclairage nocturne naturel, cinématographie caméra à l'épaule retenue, profondeur de champ réaliste, flou de mouvement naturel, esthétique d'effets pratiques, dialogues et conception sonore synchronisés, ambiance de ville lointaine, bruits de pas, respiration, impacts sur la porte, vibration de la serrure, mouvement de la porte vitrée et vent nocturne.
+
+Pas de physique de super-héros, pas de saut impossible, pas de chute, pas de téléportation, pas d'objets flottants, pas de porte qui explose, pas de verre brisé sans raison, pas de vent exagéré, pas de jeu robotique, pas d'anatomie déformée, pas de changement de visage ou de vêtements, pas de personnages dupliqués, pas de mouvements de caméra impossibles, pas d'apparence CGI, pas de sang, pas de gore, pas de texte, pas de logos, pas de filigrane.
+
+Se termine par une coupure nette au noir au sommet du suspense.
 ```
 
 [↑ Retour aux catégories](#catalog)

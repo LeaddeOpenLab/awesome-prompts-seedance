@@ -371,20 +371,38 @@ Crea una recreación 3D editable de la rotonda central del Observatorio Griffith
 
 <a name="prompt-2098487159363871212"></a>
 
-### Traducción en curso
+### Escena cinematográfica de thriller de acción de 30 segundos de una mujer huyendo de intrusos desde una habitación de hotel en un piso alto hacia un balcón.
 
 Autor：[@aaassa120](https://x.com/aaassa120) · [Publicación original](https://x.com/aaassa120/status/2098487159363871212)
 
 Cine / Fotograma · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena cinematográfica de thriller de acción de 30 segundos de una mujer huyendo de intrusos desde una habitación de hotel en un piso alto hacia un balcón.
 
 <img src="covers/2098487159363871212.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Thriller de acción cinematográfico de 30 segundos, ultrafotorrealista, ambientado dentro de una moderna y elegante habitación de hotel en un piso alto por la noche. Una mujer profesional adulta con una práctica chaqueta oscura, pantalones y zapatos cómodos descubre que la están persiguiendo tras guardar una misteriosa memoria USB de aspecto encriptado dentro de su bolso de viaje.
+
+0–5s: Primer plano macro y cerrado de la memoria USB sobre el escritorio del hotel. Ella la toma rápidamente, mira hacia la puerta, la guarda dentro de su bolso de viaje y lo cierra. Tres golpes repentinos la dejan inmóvil en su lugar.
+
+5–10s: Acercamiento cinemático lento hacia la puerta del hotel. Sigue un golpe fuerte mientras una voz masculina amortiguada dice: “Open the door. We know you're inside.” Su expresión cambia de la confusión al miedo. Ella susurra: “That's not possible,” y luego retrocede con cautela.
+
+10–15s: Primer plano extremo de la manija de la puerta girando lentamente hacia abajo. Sonidos realistas de pestillo y cerradura. Corte a su rostro asustado mientras toma el bolso de viaje y corre hacia el balcón.
+
+15–20s: Desliza la puerta corrediza de vidrio del balcón con ambas manos, venciendo físicamente la resistencia del riel. El aire fresco de la noche mueve su cabello y su chaqueta con naturalidad. Detrás de ella, la puerta de la habitación del hotel se sacude violentamente por un impacto. Da un paso con cuidado hacia el balcón, manteniendo un equilibrio realista cerca de la cornisa alta.
+
+20–25s: Otro impacto potente golpea la puerta del hotel. La cerradura y el marco resisten antes de que la puerta finalmente se abra hacia adentro de forma natural sobre sus bisagras. Una silueta parcialmente visible aparece en el umbral. Hojas de papel sueltas se agitan por la repentina corriente de aire mientras ella se desplaza más hacia el balcón.
+
+25–30s: Llega al barandal y mira hacia abajo, hacia la ciudad muy lejana. Se gira hacia un balcón vecino separado por una estrecha brecha, y luego vuelve a mirar hacia la silueta que se aproxima. Se sujeta con fuerza al barandal y susurra: “Think.” Un plano general exterior dramático revela la fachada del hotel, su balcón y el balcón vecino.
+
+Realismo cinematográfico sobrio, actuación humana y biomecánica realistas, gravedad precisa, cantidad de movimiento, inercia, fricción, equilibrio, mecánica de puertas, movimiento de vidrio corredizo, movimiento de telas, peso de los objetos, iluminación nocturna natural, cinematografía de cámara en mano contenida, profundidad de campo realista, desenfoque de movimiento natural, estética de efectos prácticos, diálogo sincronizado y diseño de sonido, ambiente de ciudad lejana, pasos, respiración, impactos en la puerta, vibración de la cerradura, movimiento de la puerta de vidrio y viento nocturno.
+
+Sin física de superhéroes, sin saltos imposibles, sin caídas, sin teletransportación, sin objetos flotantes, sin puerta que explote, sin vidrios rotos sin causa, sin viento exagerado, sin actuación robótica, sin anatomía distorsionada, sin rostros ni ropa cambiantes, sin personajes duplicados, sin movimientos de cámara imposibles, sin apariencia de CGI, sin sangre, sin vísceras, sin texto, sin logotipos, sin marcas de agua.
+
+Terminar con un corte seco a negro en el punto culminante del suspenso.
 ```
 
 [↑ Volver a categorías](#catalog)

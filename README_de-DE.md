@@ -371,20 +371,38 @@ Erstelle eine bearbeitbare 3D-Nachbildung der zentralen Rotunde des Griffith-Obs
 
 <a name="prompt-2098487159363871212"></a>
 
-### Übersetzung läuft
+### 30-sekündige filmische Action-Thriller-Szene einer Frau, die aus einem hochgelegenen Hotelzimmer vor Eindringlingen auf einen Balkon flieht.
 
 Autor：[@aaassa120](https://x.com/aaassa120) · [Originalbeitrag](https://x.com/aaassa120/status/2098487159363871212)
 
 Kinematisch / Filmstill · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 30-sekündige filmische Action-Thriller-Szene einer Frau, die aus einem hochgelegenen Hotelzimmer vor Eindringlingen auf einen Balkon flieht.
 
 <img src="covers/2098487159363871212.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultraphotorealistischer, filmischer 30-Sekunden-Action-Thriller in einem modernen, gehobenen Hotelzimmer in einem hohen Stockwerk bei Nacht. Eine erwachsene, professionelle Frau in einer praktischen dunklen Jacke, Hose und bequemen Schuhen bemerkt, dass sie verfolgt wird, nachdem sie einen geheimnisvollen, verschlüsselt aussehenden USB-Stick in ihrer Reisetasche verstaut hat.
+
+0–5s: Enge Makro-Nahaufnahme des USB-Sticks auf dem Schreibtisch des Hotels. Sie greift ihn rasch, blickt zur Tür, legt ihn in ihre Reisetasche und schließt diese. Drei plötzliche Klopfer lassen sie erstarren.
+
+5–10s: Langsame filmische Kamerafahrt auf die Hoteltür zu. Ein schwerer Schlag folgt, während eine gedämpfte Männerstimme sagt: „Open the door. We know you're inside.“ Ihr Gesichtsausdruck wechselt von Verwirrung zu Angst. Sie flüstert: „That's not possible“, und weicht dann vorsichtig zurück.
+
+10–15s: Extreme Nahaufnahme des Türgriffs, der sich langsam nach unten dreht. Realistische Riegel- und Schlossgeräusche. Schnitt auf ihr verängstigtes Gesicht, als sie die Reisetasche ergreift und zum Balkon eilt.
+
+15–20s: Sie schiebt die gläserne Balkontür mit beiden Händen auf und überwindet dabei physisch den Widerstand der Führungsschiene. Kühle Nachtluft bewegt ihr Haar und ihre Jacke ganz natürlich. Hinter ihr erzittert die Tür des Hotelzimmers heftig durch einen Stoß. Sie tritt vorsichtig auf den Balkon und hält nahe dem hohen Sims ein realistisches Gleichgewicht.
+
+20–25s: Ein weiterer wuchtiger Stoß trifft die Hoteltür. Schloss und Rahmen leisten Widerstand, bevor die Tür schließlich natürlich in ihren Angeln nach innen schwingt. Eine teilweise sichtbare Silhouette erscheint im Türrahmen. Lose Papiere flattern durch den plötzlichen Luftzug auf, während sie sich weiter auf den Balkon hinausbewegt.
+
+25–30s: Sie erreicht das Geländer und blickt hinab auf die tief unten liegende Stadt. Sie dreht sich zu einem Nachbarbalkon um, der durch eine schmale Lücke getrennt ist, und schaut dann zurück zur herannahenden Silhouette. Sie umklammert das Geländer fest und flüstert: „Think.“ Eine dramatische Außen-Totale zeigt die Hotelfassade, ihren Balkon und den Nachbarbalkon.
+
+Geerdeter Filmrealismus, realistisches menschliches Schauspiel und Biomechanik, akkurate Schwerkraft, Impuls, Trägheit, Reibung, Balance, Türmechanik, Schiebeglasbewegung, Stoffbewegung, Objektgewicht, natürliche Nachtbeleuchtung, zurückhaltende Handkameraführung, realistische Tiefenschärfe, natürliche Bewegungsunschärfe, Ästhetik praktischer Effekte, synchronisierte Dialoge und Sounddesign, ferne Stadtatmosphäre, Schritte, Atmen, Stöße gegen die Tür, Schlossvibration, Bewegung der Glastür und Nachtwind.
+
+Keine Superhelden-Physik, kein unmöglicher Sprung, kein Fallen, keine Teleportation, keine schwebenden Objekte, keine explodierende Tür, kein grundlos zerbrochenes Glas, kein übertriebener Wind, kein roboterhaftes Schauspiel, keine verzerrte Anatomie, keine wechselnden Gesichter oder Kleidungsstücke, keine duplizierten Charaktere, keine unmöglichen Kamerabewegungen, kein CGI-Look, kein Blut, kein Gore, kein Text, keine Logos, kein Wasserzeichen.
+
+Endet mit einem harten Schnitt auf Schwarz auf dem Höhepunkt des Cliffhangers.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

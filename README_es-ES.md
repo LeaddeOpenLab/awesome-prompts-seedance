@@ -371,20 +371,20 @@ Crea una recreación editable en 3D de la rotonda central del Observatorio Griff
 
 <a name="prompt-2098487159363871212"></a>
 
-### Traducción en curso
+### Escena cinematográfica de acción y suspense de 30 segundos de una mujer que huye de unos intrusos desde la habitación de un hotel de gran altura hacia un balcón.
 
 Autor：[@aaassa120](https://x.com/aaassa120) · [Publicación original](https://x.com/aaassa120/status/2098487159363871212)
 
 Cine / Fotograma de película · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena cinematográfica de acción y suspense de 30 segundos de una mujer que huye de unos intrusos desde la habitación de un hotel de gran altura hacia un balcón.
 
 <img src="covers/2098487159363871212.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Escena cinematográfica de suspense y acción de 30 segundos, ultra fotorrealista, ambientada en el interior de una moderna habitación de hotel de lujo en una planta alta por la noche. Una mujer profesional adulta con una práctica chaqueta oscura, pantalones y calzado cómodo descubre que la persiguen tras guardar en su bolsa de viaje una misteriosa unidad USB de aspecto encriptado.\n\n0–5 s: Primer plano macro cerrado de la unidad USB sobre el escritorio del hotel. La coge rápidamente, mira hacia la puerta, la guarda dentro de su bolsa de viaje y la cierra. Tres golpes repentinos la dejan paralizada en el sitio.\n\n5–10 s: Lento travelling cinematográfico de aproximación hacia la puerta del hotel. Sigue un golpe fuerte mientras una voz masculina amortiguada dice: «Abre la puerta. Sabemos que estás dentro». Su expresión pasa de la confusión al miedo. Susurra: «No es posible», y luego retrocede con cautela.\n\n10–15 s: Primerísimo plano de la manilla de la puerta girando lentamente hacia abajo. Sonidos realistas de picaporte y cerradura. Corte a su rostro asustado mientras agarra la bolsa de viaje y corre hacia el balcón.\n\n15–20 s: Abre la puerta corredera de cristal del balcón con ambas manos, venciendo físicamente la resistencia del riel. El aire fresco de la noche mueve su pelo y su chaqueta de forma natural. Detrás de ella, la puerta de la habitación del hotel tiembla violentamente por un impacto. Sale con cuidado al balcón, manteniendo un equilibrio realista cerca de la cornisa elevada.\n\n20–25 s: Otro potente impacto golpea la puerta del hotel. La cerradura y el marco resisten antes de que la puerta finalmente ceda y se abra de manera natural hacia dentro sobre sus bisagras. Una silueta parcialmente visible aparece en el umbral. Hojas de papel sueltas revolotean por la repentina corriente de aire mientras ella avanza más hacia el balcón.\n\n25–30 s: Llega a la barandilla y mira hacia abajo, a la ciudad en la lejanía. Se gira hacia un balcón vecino separado por un estrecho espacio y luego vuelve a mirar hacia la silueta que se aproxima. Se agarra con fuerza a la barandilla y susurra: «Piensa». Un dramático plano general exterior revela la fachada del hotel, su balcón y el balcón contiguo.\n\nRealismo cinematográfico sobrio y fundamentado, interpretación humana y biomecánica realistas, gravedad precisa, cantidad de movimiento, inercia, fricción, equilibrio, mecánica de puertas, movimiento de cristal corredero, movimiento de telas, peso de los objetos, iluminación nocturna natural, cinematografía cámara en mano contenida, profundidad de campo realista, desenfoque de movimiento natural, estética de efectos prácticos, diálogos y diseño de sonido sincronizados, ambiente de ciudad lejana, pasos, respiración, impactos en la puerta, vibración de cerradura, movimiento de la puerta de cristal y viento nocturno.\n\nSin física de superhéroes, sin saltos imposibles, sin caídas, sin teletransporte, sin objetos flotantes, sin puerta que explote, sin cristales rotos sin motivo, sin viento exagerado, sin actuación robótica, sin anatomía distorsionada, sin cambios de rostro o ropa, sin personajes duplicados, sin movimientos de cámara imposibles, sin apariencia de CGI, sin sangre, sin vísceras, sin texto, sin logotipos, sin marcas de agua.\n\nFinalizar con un corte en seco a negro en el punto culminante del suspense final..
 ```
 
 [↑ Volver a categorías](#catalog)

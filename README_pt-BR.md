@@ -357,20 +357,38 @@ Crie uma recriação 3D editável da rotunda central do Observatório Griffith n
 
 <a name="prompt-2098487159363871212"></a>
 
-### Tradução em andamento
+### Cena cinematográfica de ação e suspense de 30 segundos de uma mulher fugindo de invasores de um quarto de hotel em andar alto para uma varanda.
 
 Autor：[@aaassa120](https://x.com/aaassa120) · [Publicação original](https://x.com/aaassa120/status/2098487159363871212)
 
 Cinematográfico / Imagem de Filme · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Cena cinematográfica de ação e suspense de 30 segundos de uma mulher fugindo de invasores de um quarto de hotel em andar alto para uma varanda.
 
 <img src="covers/2098487159363871212.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Suspense de ação cinematográfico ultra-fotorrealista de 30 segundos ambientado dentro de um quarto de hotel moderno de alto padrão em um andar alto à noite. Uma mulher profissional adulta com uma jaqueta escura prática, calças e sapatos confortáveis descobre que está sendo perseguida após guardar um misterioso pendrive USB de aparência criptografada dentro de sua bolsa de viagem.
+
+0–5s: Close-up macro fechado do pendrive USB na mesa do hotel. Ela o pega rapidamente, olha em direção à porta, o coloca dentro de sua bolsa de viagem e a fecha. Três batidas repentinas a paralisam no lugar.
+
+5–10s: Aproximação cinematográfica lenta em direção à porta do hotel. Uma batida forte se segue enquanto uma voz masculina abafada diz: “Abra a porta. Sabemos que você está aí dentro.” Sua expressão muda de confusão para medo. Ela sussurra: “Isso não é possível”, e depois recua cautelosamente.
+
+10–15s: Close-up extremo da maçaneta da porta girando lentamente para baixo. Sons realistas de trinco e fechadura. Corte para o rosto assustado dela enquanto ela agarra a bolsa de viagem e corre em direção à varanda.
+
+15–20s: Ela desliza a porta de vidro da varanda para abrir com as duas mãos, superando fisicamente a resistência do trilho. O ar fresco da noite move seus cabelos e jaqueta naturalmente. Atrás dela, a porta do quarto de hotel treme violentamente com um impacto. Ela dá passos cuidadosos na varanda, mantendo um equilíbrio realista perto da borda alta.
+
+20–25s: Outro impacto poderoso atinge a porta do hotel. A fechadura e o batente resistem antes que a porta finalmente se abra para dentro naturalmente sobre suas dobradiças. Uma silhueta parcialmente visível aparece no vão da porta. Papéis soltos voam com o fluxo de ar repentino enquanto ela se desloca mais para o fundo da varanda.
+
+25–30s: Ela alcança o parapeito e olha para a cidade lá embaixo. Ela se vira para uma varanda vizinha separada por um vão estreito, depois olha de volta para a silhueta que se aproxima. Ela segura o parapeito com força e sussurra: “Pensa.” Um plano geral dramático externo revela a fachada do hotel, a varanda dela e a varanda vizinha.
+
+Realismo cinematográfico sóbrio, atuação humana e biomecânica realistas, gravidade precisa, momento, inércia, atrito, equilíbrio, mecânica de portas, movimento de vidro deslizante, movimento de tecido, peso dos objetos, iluminação noturna natural, cinematografia contida com câmera na mão, profundidade de campo realista, desfoque de movimento natural, estética de efeitos práticos, diálogo e design de som sincronizados, ambiência de cidade distante, passos, respiração, impactos na porta, vibração da fechadura, movimento da porta de vidro e vento noturno.
+
+Sem física de super-herói, sem salto impossível, sem queda, sem teletransporte, sem objetos flutuantes, sem porta explodindo, sem vidro quebrado sem motivo, sem vento exagerado, sem atuação robótica, sem anatomia distorcida, sem mudança de rosto ou roupa, sem personagens duplicados, sem movimento de câmera impossível, sem aparência de CGI, sem sangue, sem violência gráfica, sem texto, sem logotipos, sem marca d'água.
+
+Termine com um corte seco para o preto no ápice do momento de suspense..
 ```
 
 [↑ Voltar às categorias](#catalog)
