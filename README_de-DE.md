@@ -367,20 +367,44 @@ Der Protagonist stößt sich vom vorstoßenden Stab von Assassine C ab, um an H�
 
 <a name="prompt-2098622086608773436"></a>
 
-### Übersetzung läuft
+### 23-sekündige, mehrteilige epische Dark-Fantasy-Schlachtsequenz, die den cineastischen Kampf einer weißhaarigen Kriegerin schildert, die sich allein einer feindlichen Armee und einem riesigen schwer gepanzerten Soldaten stellt.
 
 Autor：[@Noor\_ul\_ain43](https://x.com/Noor_ul_ain43) · [Originalbeitrag](https://x.com/Noor_ul_ain43/status/2098622086608773436)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 23-sekündige, mehrteilige epische Dark-Fantasy-Schlachtsequenz, die den cineastischen Kampf einer weißhaarigen Kriegerin schildert, die sich allein einer feindlichen Armee und einem riesigen schwer gepanzerten Soldaten stellt.
 
 <img src="covers/2098622086608773436.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine 23-sekündige, ultrakinematische Dark-Fantasy-Schlachtsequenz, fotorealistisch, Ästhetik eines Fantasyfilms mit hohem Budget, 16:9-Breitbild.
+
+SZENE 1 — 0–3 Sekunden
+Beginne hinter einer geheimnisvollen weißhaarigen Kriegerin, die allein vor einem riesigen Schlachtfeld steht. Sie hat langes, silberweißes Haar, das natürlich im Wind weht, eine dunkle mittelalterliche Leder- und Metallrüstung und ein Schwert, das über ihren Rücken geschnallt ist. Vor ihr befindet sich eine gigantische Armee, die das Schlachtfeld bedeckt. Verfallene mittelalterliche Türme und kathedralenartige Bauwerke erscheinen in der Ferne. Die Sonne steht tief am Horizont und erzeugt durch dichten Rauch und Staub ein kraftvolles goldenes Gegenlicht. Langsame filmische Kamerafahrt von hinten auf sie zu, dezenter atmosphärischer Dunst, realistische Windbewegung, epische Ausmaße.
+
+SZENE 2 — 3–6 Sekunden
+Plötzlicher Übergang in intensive Action. Die Kriegerin stürmt blitzschnell nach vorn in den Kampf. Dynamische Verfolgungsaufnahme aus der Froschperspektive, während sie sich durch fliegende Funken, Rauch und Trümmer bewegt. Ihr Schwert fängt das warme Sonnenlicht ein, während sie es mit ungeheurer Geschwindigkeit schwingt. Nutze realistische Bewegungsunschärfe, fliegende Glut, Staubpartikel und detaillierte Metallreflexionen. Die Kamera folgt ihrer Bewegung aggressiv und behält dabei eine filmische Komposition bei.
+
+SZENE 3 — 6–9 Sekunden
+Zeige die Kriegerin im Kampf gegen einen großen, gepanzerten Feind auf dem Schlachtfeld. Sie führt einen kraftvollen Schwertstreich aus, während der Feind mit schwerer Wucht angreift. Funken explodieren, als die Waffen aufeinanderprallen. Der Boden ist schlammig, aufgewühlt und mit Schutt bedeckt. Brennende Gegenstände und kleine Feuer umgeben sie. Verwende beim Aufprall eine filmische Kamerabewegung im Handkamera-Stil und verlangsame die Handlung danach kurz für einen dramatischen Akzent.
+
+SZENE 4 — 9–12 Sekunden
+Die Kriegerin landet nach dem Angriff schwer auf dem Schlachtfeld. Zeige ihren gepanzerten Körper nah an der Kamera, während Staub und Rauch um sie herumwirbeln. Ihr silbernes Haar bewegt sich im Wind. Sie erhebt sich langsam mit gezücktem Schwert. Hinter ihr zeichnet sich die zerstörte mittelalterliche Stadt als Silhouette vor einem riesigen goldenen Sonnenuntergang ab. Starke volumetrische Beleuchtung, atmosphärische Perspektive und realistische Umgebungsdetails.
+
+SZENE 5 — 12–15 Sekunden
+Schnitt auf eine intensive Nahaufnahme des Gesichts der Kriegerin. Ihr Ausdruck ist grimmig, fokussiert und entschlossen. Silberweißes Haar umrahmt teilweise ihr Gesicht. Ihre Augen bleiben auf einen herannahenden Feind gerichtet. Warmes Licht des Sonnenuntergangs erhellt eine Seite ihres Gesichts, während die andere Seite dunkler und dramatischer bleibt. Extrem detaillierte Haut, realistische Augen, subtiles Atmen und natürliche Gesichtsbewegungen. Filmische Tiefenschärfe.
+
+SZENE 6 — 15–18 Sekunden
+Enthülle die riesige feindliche Armee, die auf sie vorrückt. Hunderte oder Tausende dunkler, kampferprobter humanoider Gestalten bewegen sich über das zerstörte Schlachtfeld. Rauch, Staub und Glut erfüllen die Luft. Die Kamera zieht sich langsam nach hinten und oben zurück und offenbart das enorme Ausmaß der Armee und die winzige Kriegerin, die allein vor ihnen steht. Gewaltige verfallene Türme ragen im Hintergrund empor.
+
+SZENE 7 — 18–21 Sekunden
+Die Kriegerin steht völlig still da, während das Schlachtfeld um sie herum zunehmend chaotischer wird. Risse und glühende Asche erscheinen auf dem zerstörten Boden. Rauch zieht an der Kamera vorbei. Der Sonnenuntergang brennt hell hinter der zerstörten Stadt. Verwende eine langsame filmische 360-Grad-Kamerabewegung um die Kriegerin, um ihre Einsamkeit und Stärke zu betonen. Der Wind bewegt ihren Umhang, ihr Haar und ihre Kleidung auf natürliche Weise.
+
+SZENE 8 — 21–23 Sekunden
+Schließe mit einer extrem weiten Totale ab. Die Kriegerin steht allein im Zentrum des verwüsteten Schlachtfelds, während sich die riesige zerstörte Stadt und der brennende Horizont hinter ihr erstrecken. Staub und Rauch treiben langsam durch das goldene Licht. Die Kamera entfernt sich allmählich weiter, bis die Figur in der gigantischen Umgebung klein wird. Ende auf einem kraftvollen filmischen Standbild und einer dezenten Schwarzblende.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

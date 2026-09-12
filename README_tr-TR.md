@@ -353,20 +353,44 @@ Başrol, yükseklik kazanmak için Suikastçı C'nin saplama hamlesi yapan asas�
 
 <a name="prompt-2098622086608773436"></a>
 
-### Çeviri sürüyor
+### Beyaz saçlı kadın savaşçının düşman ordusuna ve devasa ağır zırhlı askere karşı tek başına verdiği mücadeleyi film kalitesinde anlatan, 23 saniyelik çok çekimli epik karanlık fantezi savaş sekansı.
 
 Yazar：[@Noor\_ul\_ain43](https://x.com/Noor_ul_ain43) · [Orijinal gönderi](https://x.com/Noor_ul_ain43/status/2098622086608773436)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Beyaz saçlı kadın savaşçının düşman ordusuna ve devasa ağır zırhlı askere karşı tek başına verdiği mücadeleyi film kalitesinde anlatan, 23 saniyelik çok çekimli epik karanlık fantezi savaş sekansı.
 
 <img src="covers/2098622086608773436.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+23 saniyelik ultra sinematik bir karanlık fantezi savaş sekansı oluşturun, fotogerçekçi, yüksek bütçeli fantastik film estetiği, 16:9 geniş ekran.
+
+SAHNE 1 — 0–3 saniye
+Devasa bir savaş alanının önünde tek başına duran beyaz saçlı gizemli bir kadın savaşçının arkasından başlayın. Rüzgarda doğal bir şekilde dalgalanan uzun gümüşi beyaz saçları, koyu renkli orta çağ deri ve metal zırhı ve sırtına asılı bir kılıcı vardır. Önünde, savaş alanını kaplayan devasa bir ordu yer alır. Uzakta orta çağdan kalma harabe kuleler ve katedral benzeri yapılar görünür. Güneş ufukta alçalmış, yoğun duman ve tozun arasından güçlü, altın rengi bir ters ışık oluşturmaktadır. Arkasından yavaş ve sinematik kamera yaklaşması (push-in), hafif atmosferik pus, gerçekçi rüzgar hareketi, destansı ölçek.
+
+SAHNE 2 — 3–6 saniye
+Aniden yoğun aksiyona geçiş yapın. Savaşçı hızla ileriye, çatışmaya doğru atılır. Uçuşan kıvılcımlar, duman ve enkazların arasında ilerlerken dinamik bir alt açı takip çekimi (low-angle tracking shot). Kılıcını muazzam bir hızla savururken kılıç sıcak güneş ışığını yakalar. Gerçekçi hareket bulanıklığı (motion blur), uçuşan közler, toz parçacıkları ve ayrıntılı metal yansımaları kullanın. Kamera, sinematik kompozisyonu korurken hareketini agresif bir şekilde takip eder.
+
+SAHNE 3 — 6–9 saniye
+Savaşçının savaş alanında büyük, zırhlı bir düşmanla dövüştüğünü gösterin. Düşman ağır bir kuvvetle saldırırken o güçlü bir kılıç darbesi indirir. Silahlar çarpıştığında kıvılcımlar saçılır. Zemin çamurlu, hasar görmüş ve molozlarla kaplıdır. Etraflarını yanan nesneler ve küçük ateşler sarmıştır. Çarpışma anında el kamerası tarzında sinematik kamera hareketi kullanın, ardından dramatik etkiyi vurgulamak için aksiyonu kısa süreliğine yavaşlatın.
+
+SAHNE 4 — 9–12 saniye
+Saldırının ardından savaşçı savaş alanına sert bir iniş yapar. Etrafında toz ve duman savrulurken zırhlı gövdesini kameraya yakın gösterin. Gümüşi saçları rüzgarda dalgalanır. Kılıcı hazır vaziyette yavaşça ayağa kalkar. Arkasında, harabeye dönmüş orta çağ şehri devasa altın sarısı gün batımına karşı silüet halindedir. Güçlü hacimsel ışıklandırma, atmosferik perspektif ve gerçekçi çevresel detaylar.
+
+SAHNE 5 — 12–15 saniye
+Savaşçının yüzüne yoğun bir yakın çekime geçin. İfadesi şiddetli, odaklanmış ve kararlıdır. Gümüşi beyaz saçları yüzünü kısmen çerçeveler. Gözleri yaklaşan bir düşmana kilitlenmiş durumdadır. Sıcak gün batımı ışığı yüzünün bir tarafını aydınlatırken diğer tarafı daha karanlık ve dramatik kalır. Son derece ayrıntılı cilt, gerçekçi gözler, ince nefes alışverişi ve doğal yüz hareketleri. Sinematik alan derinliği.
+
+SAHNE 6 — 15–18 saniye
+Ona doğru ilerleyen devasa düşman ordusunu gözler önüne serin. Yüzlerce veya binlerce karanlık, savaştan hırpalanmış insansı figür harap olmuş savaş alanında ilerler. Havayı duman, toz ve korlar doldurur. Kamera yavaşça geriye ve yukarıya doğru çekilerek ordunun muazzam büyüklüğünü ve önlerinde tek başına duran küçük savaşçıyı ortaya çıkarır. Arka planda devasa harabe kuleler yükselir.
+
+SAHNE 7 — 18–21 saniye
+Çevresindeki savaş alanı giderek kaotikleşirken savaşçı tamamen hareketsiz durur. Hasarlı zeminde çatlaklar ve parlayan korlar belirir. Duman kameranın önünden süzülür. Gün batımı harabe şehrin arkasında parlak bir şekilde parıldar. Savaşçının yalnızlığını ve gücünü vurgulamak için onun etrafında yavaş, 360 derecelik sinematik bir kamera hareketi kullanın. Rüzgar pelerinini, saçını ve kıyafetlerini doğal bir şekilde hareket ettirir.
+
+SAHNE 8 — 21–23 saniye
+Son derece geniş bir genel çekimle (establishing shot) bitirin. Savaşçı, arkasında devasa harabe şehir ve yanan ufuk uzanırken harap olmuş savaş alanının merkezinde tek başına durmaktadır. Toz ve duman altın rengi ışığın içinde yavaşça süzülür. Karakter devasa çevre içinde küçücük kalana kadar kamera yavaş yavaş daha da uzaklaşır. Güçlü, sinematik bir donuk kare ile sonlandırın ve hafifçe siyaha karartın.
 ```
 
 [↑ Kategorilere dön](#catalog)

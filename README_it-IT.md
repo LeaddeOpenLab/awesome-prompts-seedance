@@ -367,20 +367,44 @@ Il protagonista fa leva sul bastone proteso dell'Assassino C per guadagnare quot
 
 <a name="prompt-2098622086608773436"></a>
 
-### Traduzione in corso
+### Sequenza bellica dark fantasy epica multi-inquadratura di 23 secondi, che ritrae il combattimento cinematografico di una guerriera dai capelli bianchi che affronta da sola un esercito nemico e un gigantesco soldato con armatura pesante.
 
 Autore：[@Noor\_ul\_ain43](https://x.com/Noor_ul_ain43) · [Post originale](https://x.com/Noor_ul_ain43/status/2098622086608773436)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Sequenza bellica dark fantasy epica multi-inquadratura di 23 secondi, che ritrae il combattimento cinematografico di una guerriera dai capelli bianchi che affronta da sola un esercito nemico e un gigantesco soldato con armatura pesante.
 
 <img src="covers/2098622086608773436.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una sequenza di battaglia dark fantasy ultra-cinematografica di 23 secondi, fotorealistica, con l'estetica di un film fantasy ad alto budget, widescreen 16:9.
+
+SCENA 1 — 0–3 secondi
+Inizia alle spalle di una misteriosa guerriera dai capelli bianchi, in piedi da sola davanti a un enorme campo di battaglia. Ha lunghi capelli bianco-argento che fluttuano naturalmente nel vento, un'armatura medievale scura in cuoio e metallo e una spada legata dietro la schiena. Di fronte a lei c'è un esercito gigantesco che ricopre il campo di battaglia. Torri medievali in rovina e strutture simili a cattedrali appaiono in lontananza. Il sole è basso sull'orizzonte, creando una potente retroilluminazione dorata attraverso fumo denso e polvere. Lento carrello in avanti cinematografico da dietro di lei, foschia atmosferica leggera, movimento realistico del vento, scala epica.
+
+SCENA 2 — 3–6 secondi
+Transizione improvvisa verso un'azione intensa. La guerriera si lancia rapidamente in avanti nel combattimento. Inquadratura dinamica dal basso in movimento mentre si sposta tra scintille volanti, fumo e detriti. La sua spada cattura la calda luce del sole mentre la sferza a una velocità impressionante. Usa un motion blur realistico, braci ardenti nell'aria, particelle di polvere e dettagliati riflessi metallici. La telecamera segue il suo movimento in modo aggressivo mantenendo una composizione cinematografica.
+
+SCENA 3 — 6–9 secondi
+Mostra la guerriera che combatte un grande nemico corazzato sul campo di battaglia. Esegue un potente fendente di spada mentre il nemico attacca con forza devastante. Le scintille esplodono quando le armi collidono. Il terreno è fangoso, martoriato e coperto di macerie. Oggetti in fiamme e piccoli fuochi li circondano. Usa un movimento di camera cinematografico in stile camera a mano durante l'impatto, quindi rallenta brevemente l'azione per dare risalto drammatico.
+
+SCENA 4 — 9–12 secondi
+La guerriera atterra pesantemente sul campo di battaglia dopo l'attacco. Mostra il suo corpo corazzato vicino alla telecamera mentre polvere e fumo vorticano intorno a lei. I suoi capelli argentati si muovono al vento. Si rialza lentamente con la spada pronta. Dietro di lei, la città medievale in rovina si staglia in silhouette contro un enorme tramonto dorato. Forte illuminazione volumetrica, prospettiva atmosferica e dettagli ambientali realistici.
+
+SCENA 5 — 12–15 secondi
+Stacco su un intenso primo piano del volto della guerriera. La sua espressione è fiera, concentrata e determinata. Capelli bianco-argento le incorniciano parzialmente il viso. I suoi occhi restano fissi su un nemico in avvicinamento. La calda luce del tramonto illumina un lato del suo volto mentre l'altro rimane più scuro e drammatico. Pelle estremamente dettagliata, occhi realistici, respiro sottile e movimenti facciali naturali. Profondità di campo cinematografica.
+
+SCENA 6 — 15–18 secondi
+Rivela l'enorme esercito nemico che avanza verso di lei. Centinaia o migliaia di oscure figure umanoidi segnate dalla battaglia si muovono attraverso il campo di battaglia distrutto. Fumo, polvere e braci riempiono l'aria. La telecamera indietreggia lentamente verso l'alto, rivelando l'enorme portata dell'esercito e la minuscola guerriera da sola davanti a loro. Imponenti torri in rovina si innalzano sullo sfondo.
+
+SCENA 7 — 18–21 secondi
+La guerriera rimane completamente immobile mentre il campo di battaglia intorno a lei diventa sempre più caotico. Crepe e braci incandescenti appaiono sul terreno danneggiato. Il fumo scorre davanti alla telecamera. Il tramonto brucia intensamente dietro la città in rovina. Usa un lento movimento di camera cinematografico a 360 gradi intorno alla guerriera, enfatizzando il suo isolamento e la sua forza. Il vento muove naturalmente il mantello, i capelli e gli abiti.
+
+SCENA 8 — 21–23 secondi
+Concludi con un'inquadratura d'ambientazione estremamente ampia. La guerriera si erge da sola al centro del devastato campo di battaglia mentre l'enorme città in rovina e l'orizzonte infuocato si estendono dietro di lei. Polvere e fumo fluttuano lentamente attraverso la luce dorata. La telecamera si allontana gradualmente finché il personaggio non appare minuscolo all'interno del gigantesco ambiente. Termina con un potente fermo immagine cinematografico e una sottile dissolvenza in nero.
 ```
 
 [↑ Torna alle categorie](#catalog)

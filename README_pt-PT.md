@@ -353,20 +353,44 @@ O protagonista apoia-se no bastão projetado do Assassino C para ganhar elevaç�
 
 <a name="prompt-2098622086608773436"></a>
 
-### Tradução em curso
+### Sequência de batalha de fantasia sombria épica com múltiplos planos de 23 segundos, retratando o combate de qualidade cinematográfica de uma guerreira de cabelos brancos enfrentando sozinha um exército inimigo e um guerreiro gigante com armadura pesada.
 
 Autor：[@Noor\_ul\_ain43](https://x.com/Noor_ul_ain43) · [Publicação original](https://x.com/Noor_ul_ain43/status/2098622086608773436)
 
 Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Sequência de batalha de fantasia sombria épica com múltiplos planos de 23 segundos, retratando o combate de qualidade cinematográfica de uma guerreira de cabelos brancos enfrentando sozinha um exército inimigo e um guerreiro gigante com armadura pesada.
 
 <img src="covers/2098622086608773436.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma sequência de batalha de fantasia sombria ultracinematográfica de 23 segundos, fotorrealista, estética de filme de fantasia de grande orçamento, ecrã panorâmico 16:9.
+
+CENA 1 — 0–3 segundos
+Comece atrás de uma misteriosa guerreira de cabelos brancos de pé, sozinha diante de um enorme campo de batalha. Tem longos cabelos branco-prateados a ondular naturalmente ao vento, armadura medieval escura de couro e metal, e uma espada presa às costas. À frente dela encontra-se um exército gigantesco a cobrir o campo de batalha. Torres medievais em ruínas e estruturas semelhantes a catedrais surgem ao longe. O sol está baixo no horizonte, criando uma forte contraluz dourada através do fumo espesso e da poeira. Movimento lento e cinematográfico de avanço da câmara (push-in) por trás dela, névoa atmosférica subtil, movimento de vento realista, escala épica.
+
+CENA 2 — 3–6 segundos
+Transição súbita para ação intensa. A guerreira lança-se rapidamente para a frente em combate. Plano dinâmico em contra-picado e travelling enquanto se move por entre faíscas voadoras, fumo e destroços. A sua espada capta a luz quente do sol enquanto a brande com enorme velocidade. Utilize desfoque de movimento realista, brasas no ar, partículas de poeira e reflexos metálicos detalhados. A câmara segue agressivamente o seu movimento, mantendo uma composição cinematográfica.
+
+CENA 3 — 6–9 segundos
+Mostre a guerreira a combater um grande inimigo com armadura pesada no campo de batalha. Ela desfere um poderoso golpe de espada enquanto o inimigo ataca com tremenda força. Faíscas explodem quando as armas colidem. O solo está lamacento, danificado e coberto de escombros. Objetos a arder e pequenas fogueiras rodeiam-nos. Utilize um movimento de câmara cinematográfico ao estilo de câmara à mão durante o impacto, desacelerando brevemente a ação em seguida para ênfase dramático.
+
+CENA 4 — 9–12 segundos
+A guerreira aterra pesadamente no campo de batalha após o ataque. Mostre o seu corpo blindado próximo da câmara enquanto o pó e o fumo se agitam ao seu redor. Os seus cabelos prateados movem-se ao vento. Ergue-se lentamente com a espada em riste. Atrás dela, a cidade medieval em ruínas recorta-se contra um enorme pôr do sol dourado. Forte iluminação volumétrica, perspetiva atmosférica e detalhes ambientais realistas.
+
+CENA 5 — 12–15 segundos
+Corte para um grande plano intenso do rosto da guerreira. A sua expressão é feroz, focada e determinada. Cabelos branco-prateados emolduram parcialmente o rosto. Os olhos permanecem fixos num inimigo que se aproxima. A luz quente do pôr do sol ilumina um lado da sua face, enquanto o outro permanece mais escuro e dramático. Pele extremamente detalhada, olhos realistas, respiração subtil e movimento facial natural. Profundidade de campo cinematográfica.
+
+CENA 6 — 15–18 segundos
+Revele o enorme exército inimigo a avançar na sua direção. Centenas ou milhares de figuras humanoides escuras e desgastadas pela batalha movem-se pelo campo de batalha arruinado. Fumo, poeira e brasas preenchem o ar. A câmara recua lentamente para trás e para cima, revelando a escala descomunal do exército e a pequena guerreira de pé, sozinha diante deles. Torres gigantescas em ruínas erguem-se em segundo plano.
+
+CENA 7 — 18–21 segundos
+A guerreira permanece totalmente imóvel enquanto o campo de batalha em seu redor se torna cada vez mais caótico. Fendas e brasas incandescentes surgem pelo chão danificado. O fumo flutua pela câmara. O pôr do sol arde intensamente atrás da cidade em ruínas. Utilize um movimento lento de câmara cinematográfica a 360 graus em torno da guerreira, enfatizando o seu isolamento e força. O vento agita a sua capa, cabelo e vestuário de forma natural.
+
+CENA 8 — 21–23 segundos
+Termine com um plano geral extremamente amplo. A guerreira está sozinha no centro do campo de batalha devastado, enquanto a enorme cidade em ruínas e o horizonte em chamas se estendem atrás de si. A poeira e o fumo flutuam lentamente através da luz dourada. A câmara afasta-se gradualmente até que a personagem pareça minúscula dentro do ambiente colossal. Termine num poderoso fotograma estático cinematográfico e faça um desvanecimento subtil para o preto.
 ```
 
 [↑ Voltar às categorias](#catalog)

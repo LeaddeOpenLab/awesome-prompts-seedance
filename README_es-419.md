@@ -367,20 +367,44 @@ El protagonista se apoya en el bastón del Asesino C mientras este embiste para 
 
 <a name="prompt-2098622086608773436"></a>
 
-### Traducción en curso
+### Secuencia de batalla épica de fantasía oscura en múltiples tomas de 23 segundos, que retrata el combate cinematográfico de una guerrera de pelo blanco que se enfrenta sola a un ejército enemigo y a un gigantesco soldado con armadura pesada.
 
 Autor：[@Noor\_ul\_ain43](https://x.com/Noor_ul_ain43) · [Publicación original](https://x.com/Noor_ul_ain43/status/2098622086608773436)
 
 Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Secuencia de batalla épica de fantasía oscura en múltiples tomas de 23 segundos, que retrata el combate cinematográfico de una guerrera de pelo blanco que se enfrenta sola a un ejército enemigo y a un gigantesco soldado con armadura pesada.
 
 <img src="covers/2098622086608773436.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una secuencia de batalla de fantasía oscura ultracinematográfica de 23 segundos, fotorrealista, con estética de película de fantasía de alto presupuesto, pantalla ancha 16:9.
+
+ESCENA 1 — 0–3 segundos
+Comienza detrás de una misteriosa guerrera de cabello blanco parada sola ante un enorme campo de batalla. Tiene el cabello largo de color blanco plateado ondeando naturalmente con el viento, armadura medieval oscura de cuero y metal, y una espada atada a su espalda. Frente a ella se extiende un ejército gigantesco que cubre el campo de batalla. Torres medievales en ruinas y estructuras similares a catedrales aparecen a la distancia. El sol está bajo en el horizonte, creando un potente contraluz dorado a través de un humo espeso y polvo. Acercamiento lento y cinematográfico de la cámara desde detrás de ella, ligera neblina atmosférica, movimiento de viento realista, escala épica.
+
+ESCENA 2 — 3–6 segundos
+Transiciona repentinamente hacia una acción intensa. La guerrera se lanza rápidamente hacia adelante al combate. Toma de seguimiento dinámica en ángulo bajo mientras se mueve entre chispas voladoras, humo y escombros. Su espada capta la cálida luz del sol mientras la blande con tremenda velocidad. Utiliza desenfoque de movimiento realista, brasas voladoras, partículas de polvo y reflejos metálicos detallados. La cámara sigue su movimiento agresivamente mientras mantiene una composición cinematográfica.
+
+ESCENA 3 — 6–9 segundos
+Muestra a la guerrera luchando contra un gran enemigo blindado en el campo de batalla. Ella realiza un poderoso golpe de espada mientras el enemigo ataca con gran fuerza. Las chispas explotan cuando las armas colisionan. El suelo está embarrado, dañado y cubierto de escombros. Objetos ardientes y pequeños fuegos los rodean. Utiliza un movimiento de cámara cinematográfico estilo cámara en mano durante el impacto, luego ralentiza brevemente la acción para lograr un énfasis dramático.
+
+ESCENA 4 — 9–12 segundos
+La guerrera aterriza pesadamente en el campo de batalla tras el ataque. Muestra su cuerpo acorazado cerca de la cámara mientras el polvo y el humo giran a su alrededor. Su cabello plateado se mueve con el viento. Se levanta lentamente con su espada lista. Detrás de ella, la ciudad medieval en ruinas se recorta contra una enorme puesta de sol dorada. Fuerte iluminación volumétrica, perspectiva atmosférica y detalle ambiental realista.
+
+ESCENA 5 — 12–15 segundos
+Corta a un primer plano intenso del rostro de la guerrera. Su expresión es feroz, concentrada y decidida. El cabello blanco plateado enmarca parcialmente su rostro. Sus ojos permanecen fijos en un enemigo que se aproxima. La cálida luz del atardecer ilumina un lado de su rostro mientras el otro permanece más oscuro y dramático. Piel extremadamente detallada, ojos realistas, respiración sutil y movimiento facial natural. Profundidad de campo cinematográfica.
+
+ESCENA 6 — 15–18 segundos
+Revela el enorme ejército enemigo avanzando hacia ella. Cientos o miles de figuras humanoides oscuras y desgastadas por la batalla se mueven a través del campo de batalla en ruinas. El humo, el polvo y las brasas llenan el aire. La cámara retrocede y sube lentamente, revelando la enorme escala del ejército y a la diminuta guerrera parada sola frente a ellos. Torres masivas en ruinas se alzan en el fondo.
+
+ESCENA 7 — 18–21 segundos
+La guerrera permanece completamente quieta mientras el campo de batalla a su alrededor se vuelve cada vez más caótico. Grietas y brasas brillantes aparecen a lo largo del suelo dañado. El humo pasa flotando frente a la cámara. La puesta de sol arde intensamente detrás de la ciudad en ruinas. Utiliza un movimiento lento de cámara cinematográfico de 360 grados alrededor de la guerrera, enfatizando su aislamiento y fuerza. El viento mueve su capa, cabello y ropa de manera natural.
+
+ESCENA 8 — 21–23 segundos
+Termina con un plano general extremadamente amplio. La guerrera permanece sola en el centro del devastado campo de batalla mientras la enorme ciudad en ruinas y el horizonte ardiente se extienden tras ella. El polvo y el humo flotan lentamente a través de la luz dorada. La cámara se aleja gradualmente hasta que el personaje se vuelve pequeño dentro del gigantesco entorno. Termina en un potente fotograma cinematográfico congelado y desvanecimiento sutil a negro.
 ```
 
 [↑ Volver a categorías](#catalog)

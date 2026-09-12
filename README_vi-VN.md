@@ -351,20 +351,44 @@ Tạo một bộ phim ngắn 30 giây, tỉ lệ 16:9, 24fps dành riêng cho nh
 
 <a name="prompt-2098622086608773436"></a>
 
-### Đang dịch
+### Chuỗi cảnh chiến tranh giả tưởng đen tối mang tính sử thi dài 23 giây với nhiều góc máy, khắc họa quá trình chiến đấu đậm chất điện ảnh của nữ chiến binh tóc trắng đơn độc nghênh chiến quân địch và binh lính thiết giáp khổng lồ.
 
 Tác giả：[@Noor\_ul\_ain43](https://x.com/Noor_ul_ain43) · [Bài gốc](https://x.com/Noor_ul_ain43/status/2098622086608773436)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chuỗi cảnh chiến tranh giả tưởng đen tối mang tính sử thi dài 23 giây với nhiều góc máy, khắc họa quá trình chiến đấu đậm chất điện ảnh của nữ chiến binh tóc trắng đơn độc nghênh chiến quân địch và binh lính thiết giáp khổng lồ.
 
 <img src="covers/2098622086608773436.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một chuỗi cảnh chiến đấu giả tưởng đen tối đậm chất điện ảnh dài 23 giây, chân thực như ảnh chụp, thẩm mỹ phim giả tưởng kinh phí cao, tỷ lệ khung hình rộng 16:9.
+
+CẢNH 1 — 0–3 giây
+Bắt đầu từ phía sau một nữ chiến binh tóc trắng bí ẩn đang đứng một mình trước một chiến trường rộng lớn. Cô có mái tóc dài màu trắng bạc bồng bềnh tự nhiên trong gió, bộ giáp da và kim loại thời trung cổ màu tối, cùng một thanh kiếm đeo chéo sau lưng. Trước mặt cô là một đội quân khổng lồ bao phủ khắp chiến trường. Những tòa tháp thời trung cổ đổ nát và các công trình kiến trúc tựa thánh đường xuất hiện ở phía xa. Mặt trời ở vị trí thấp nơi đường chân trời, tạo ra ánh sáng ngược màu vàng kim mạnh mẽ xuyên qua làn khói bụi dày đặc. Máy quay từ từ đẩy tới đậm chất điện ảnh từ phía sau cô, sương mờ khí quyển mỏng, chuyển động của gió chân thực, quy mô sử thi.
+
+CẢNH 2 — 3–6 giây
+Chuyển cảnh đột ngột sang hành động căng thẳng. Nữ chiến binh nhanh chóng lao mình về phía trước vào cuộc chiến. Cú máy theo dõi góc thấp đầy động lực khi cô di chuyển qua những tia lửa, khói và mảnh vụn bay tung tóe. Thanh kiếm của cô bắt lấy ánh nắng ấm áp khi cô vung nó với tốc độ kinh hồn. Sử dụng hiệu ứng làm mờ chuyển động chân thực, tàn lửa bay, hạt bụi và phản chiếu kim loại chi tiết. Máy quay bám theo chuyển động của cô một cách dồn dập nhưng vẫn duy trì bố cục điện ảnh.
+
+CẢNH 3 — 6–9 giây
+Cho thấy nữ chiến binh đang chiến đấu với một kẻ thù to lớn mặc giáp trên chiến trường. Cô thực hiện một cú chém kiếm uy lực trong khi kẻ thù tấn công bằng sức mạnh nặng nề. Tia lửa bùng nổ khi vũ khí va chạm. Mặt đất lầy lội, tan hoang và phủ đầy gạch đá vụn. Những vật thể đang cháy và ngọn lửa nhỏ bao quanh họ. Sử dụng chuyển động máy quay điện ảnh theo phong cách cầm tay (handheld) trong khoảnh khắc va chạm, sau đó làm chậm hành động trong chốc lát để tạo điểm nhấn kịch tính.
+
+CẢNH 4 — 9–12 giây
+Nữ chiến binh đáp xuống chiến trường một cách nặng nề sau đòn tấn công. Cho thấy cơ thể bọc giáp của cô ở cự ly gần máy quay khi bụi và khói cuộn quanh cô. Mái tóc bạc của cô lay động trong gió. Cô từ từ đứng dậy với thanh kiếm trong tư thế sẵn sàng. Phía sau cô, thành phố thời trung cổ đổ nát in bóng trên nền hoàng hôn vàng rực rỡ khổng lồ. Ánh sáng thể tích mạnh mẽ, phối cảnh khí quyển và chi tiết môi trường chân thực.
+
+CẢNH 5 — 12–15 giây
+Cắt sang cận cảnh dữ dội vào khuôn mặt của nữ chiến binh. Biểu cảm của cô khốc liệt, tập trung và kiên định. Mái tóc trắng bạc phủ nhẹ một phần khuôn mặt. Đôi mắt cô vẫn khóa chặt vào kẻ thù đang tiến đến. Ánh hoàng hôn ấm áp chiếu sáng một bên mặt của cô trong khi bên còn lại chìm trong bóng tối đầy kịch tính. Làn da cực kỳ chi tiết, đôi mắt chân thực, hơi thở tinh tế và chuyển động khuôn mặt tự nhiên. Độ sâu trường ảnh điện ảnh.
+
+CẢNH 6 — 15–18 giây
+Tiết lộ đội quân kẻ thù khổng lồ đang tiến về phía cô. Hàng trăm hoặc hàng ngàn bóng người đen tối, dày dạn trận mạc di chuyển qua chiến trường đổ nát. Khói, bụi và tàn lửa tràn ngập không khí. Máy quay từ từ kéo lùi và hướng lên trên, phơi bày quy mô khổng lồ của đội quân và hình bóng nữ chiến binh nhỏ bé đang đứng cô độc trước mặt họ. Những tòa tháp đổ nát đồ sộ vươn lên ở hậu cảnh.
+
+CẢNH 7 — 18–21 giây
+Nữ chiến binh đứng bất động hoàn toàn khi chiến trường xung quanh cô ngày càng trở nên hỗn loạn. Những vết nứt và than hồng phát sáng xuất hiện trên mặt đất bị tàn phá. Khói trôi qua trước máy quay. Hoàng hôn rực cháy phía sau thành phố đổ nát. Sử dụng cú máy quay điện ảnh 360 độ chậm rãi quanh nữ chiến binh, nhấn mạnh sự cô lập và sức mạnh của cô. Gió làm lay động áo choàng, tóc và trang phục của cô một cách tự nhiên.
+
+CẢNH 8 — 21–23 giây
+Kết thúc bằng một cú máy toàn cảnh cực rộng (extremely wide establishing shot). Nữ chiến binh đứng một mình ở trung tâm của chiến trường bị tàn phá trong khi thành phố đổ nát khổng lồ và đường chân trời rực lửa trải dài phía sau cô. Bụi và khói từ từ trôi qua luồng ánh sáng vàng. Máy quay dần dần lùi xa hơn cho đến khi nhân vật trở nên nhỏ bé trong không gian rộng lớn. Kết thúc bằng một khung hình tĩnh đậm chất điện ảnh mạnh mẽ và mờ dần về màu đen một cách tinh tế.
 ```
 
 [↑ Về danh mục](#catalog)

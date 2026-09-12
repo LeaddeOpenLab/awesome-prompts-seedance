@@ -367,20 +367,44 @@ Le protagoniste prend appui sur le bâton d'assaut de l'assassin C pour prendre 
 
 <a name="prompt-2098622086608773436"></a>
 
-### Traduction en cours
+### Séquence de guerre dark fantasy épique de 23 secondes à plans multiples, illustrant le combat cinématographique d'une guerrière aux cheveux blancs affrontant seule une armée ennemie et un gigantesque soldat en armure lourde.
 
 Auteur：[@Noor\_ul\_ain43](https://x.com/Noor_ul_ain43) · [Publication originale](https://x.com/Noor_ul_ain43/status/2098622086608773436)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Séquence de guerre dark fantasy épique de 23 secondes à plans multiples, illustrant le combat cinématographique d'une guerrière aux cheveux blancs affrontant seule une armée ennemie et un gigantesque soldat en armure lourde.
 
 <img src="covers/2098622086608773436.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une séquence de bataille de dark fantasy ultra-cinématographique de 23 secondes, photoréaliste, esthétique de film fantastique à gros budget, grand écran 16:9.
+
+SCÈNE 1 — 0–3 secondes
+Commencez derrière une mystérieuse guerrière aux cheveux blancs debout, seule devant un immense champ de bataille. Elle a de longs cheveux blanc argenté flottant naturellement dans le vent, une armure médiévale sombre en cuir et métal, et une épée attachée dans son dos. Devant elle se trouve une armée gigantesque couvrant le champ de bataille. Des tours médiévales en ruines et des structures semblables à des cathédrales apparaissent au loin. Le soleil est bas sur l'horizon, créant un puissant rétroéclairage doré à travers une fumée épaisse et de la poussière. Lent mouvement de caméra en avant cinématographique depuis l'arrière de son corps, brume atmosphérique subtile, mouvement du vent réaliste, échelle épique.
+
+SCÈNE 2 — 3–6 secondes
+Transition soudaine vers une action intense. La guerrière s'élance rapidement vers l'avant dans le combat. Plan de suivi dynamique en contre-plongée alors qu'elle se déplace à travers des étincelles volantes, de la fumée et des débris. Son épée capte la chaude lumière du soleil lorsqu'elle la manie avec une vitesse phénoménale. Utilisez un flou de mouvement réaliste, des braises incandescentes en suspension, des particules de poussière et des reflets métalliques détaillés. La caméra suit son mouvement de manière agressive tout en conservant une composition cinématographique.
+
+SCÈNE 3 — 6–9 secondes
+Montrez la guerrière combattant un grand ennemi en armure sur le champ de bataille. Elle assène un puissant coup d'épée tandis que l'ennemi attaque avec une lourde force. Des étincelles explosent lors de la collision des armes. Le sol est boueux, endommagé et recouvert de décombres. Des objets en flammes et de petits incendies les entourent. Utilisez un mouvement de caméra cinématographique de style caméra à l'épaule pendant l'impact, puis ralentissez brièvement l'action pour accentuer la tension dramatique.
+
+SCÈNE 4 — 9–12 secondes
+La guerrière atterrit lourdement sur le champ de bataille après l'attaque. Montrez son corps en armure près de la caméra pendant que la poussière et la fumée tourbillonnent autour d'elle. Ses cheveux argentés bougent au vent. Elle se relève lentement, son épée prête. Derrière elle, la cité médiévale en ruines se découpe en silhouette sur un immense coucher de soleil doré. Éclairage volumétrique puissant, perspective atmosphérique et détails environnementaux réalistes.
+
+SCÈNE 5 — 12–15 secondes
+Coupez sur un gros plan intense du visage de la guerrière. Son expression est farouche, concentrée et déterminée. Des cheveux blanc argenté encadrent partiellement son visage. Ses yeux restent rivés sur un ennemi qui approche. La chaude lumière du soleil couchant illumine un côté de son visage tandis que l'autre côté reste plus sombre et dramatique. Peau extrêmement détaillée, yeux réalistes, respiration subtile et mouvements faciaux naturels. Profondeur de champ cinématographique.
+
+SCÈNE 6 — 15–18 secondes
+Révélez l'immense armée ennemie avançant vers elle. Des centaines ou des milliers de silhouettes humanoïdes sombres et marquées par les combats se déplacent à travers le champ de bataille dévasté. La fumée, la poussière et les braises emplissent l'air. La caméra recule lentement et s'élève, révélant l'échelle gigantesque de l'armée et la silhouette minuscule de la guerrière debout, seule face à eux. D'imposantes tours en ruines s'élèvent en arrière-plan.
+
+SCÈNE 7 — 18–21 secondes
+La guerrière reste totalement immobile tandis que le champ de bataille autour d'elle devient de plus en plus chaotique. Des fissures et des braises rougeoyantes apparaissent sur le sol endommagé. De la fumée dérive devant la caméra. Le coucher de soleil brûle d'un éclat intense derrière la cité en ruines. Utilisez un lent mouvement de caméra cinématographique à 360 degrés autour de la guerrière, soulignant son isolement et sa force. Le vent fait bouger naturellement sa cape, ses cheveux et ses vêtements.
+
+SCÈNE 8 — 21–23 secondes
+Terminez par un plan d'ensemble extrêmement large. La guerrière se tient seule au centre du champ de bataille dévasté tandis que l'immense cité en ruines et l'horizon en flammes s'étendent derrière elle. La poussière et la fumée dérivent lentement à travers la lumière dorée. La caméra s'éloigne progressivement jusqu'à ce que le personnage devienne minuscule au sein de cet environnement gigantesque. Terminez sur un arrêt sur image cinématographique percutant et un fondu au noir subtil.
 ```
 
 [↑ Retour aux catégories](#catalog)
