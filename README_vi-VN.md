@@ -397,20 +397,56 @@ Kết thúc bằng một cú máy toàn cảnh cực rộng (extremely wide esta
 
 <a name="prompt-2098625650852815257"></a>
 
-### Đang dịch
+### Prompt điện ảnh chi tiết gồm 6 cảnh quay cho trận chiến kéo dài 30 giây giữa kiếm sĩ và oni trong sân một ngôi chùa đang cháy.
 
 Tác giả：[@bmx\_ai13](https://x.com/bmx_ai13) · [Bài gốc](https://x.com/bmx_ai13/status/2098625650852815257)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt điện ảnh chi tiết gồm 6 cảnh quay cho trận chiến kéo dài 30 giây giữa kiếm sĩ và oni trong sân một ngôi chùa đang cháy.
 
 <img src="covers/2098625650852815257.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+6 cảnh quay, tổng cộng 30 giây: 0.0-5.0 giây, 5.0-10.0 giây, 10.0-15.0 giây, 15.0-20.0 giây, 20.0-25.0 giây, 25.0-30.0 giây. Cắt thẳng (hard cut), không hòa tan (dissolve). Tốc độ bình thường xuyên suốt, không quay chậm (slow motion), không tăng/giảm tốc độ (ramping).
+
+QUY CHUẨN GHI HÌNH CỰC KỲ QUAN TRỌNG: 24 khung hình/giây gốc, góc mở màn trập 180 độ chuẩn xác, thời gian phơi sáng thực 1/48 giây trên mỗi khung hình. Độ mờ chuyển động mượt mà, liên tục. Tuyệt đối không giật cục, không rung lắc lệch khung. Không nội suy khung hình, không bóng ma (ghosting), không mang phong cách video thông thường.
+
+TUYỆT ĐỐI KHÔNG CÓ CHỮ TRÊN MÀN HÌNH: không có bất kỳ loại văn bản nào ở bất cứ đâu trong khung hình. Không phụ đề, không chú thích, không tiêu đề, không ghi công (credit), không watermark, không logo, không mã thời gian (timecode), không lớp phủ giao diện (UI).
+
+TUYỆT ĐỐI KHÔNG CÓ NGƯỜI NÀO KHÁC TRONG KHUNG HÌNH: không có nhà sư, dân làng hay diễn viên quần chúng. Chỉ có kiếm sĩ, oni và một con quạ xuất hiện.
+
+NGỌN LỬA CỰC KỲ QUAN TRỌNG: tàn lửa từ ngôi chùa đang cháy bay lơ lửng và bùng lên qua từng khung hình, thỉnh thoảng lóe sáng đủ để tạo hiệu ứng nhấp nháy chớp giật theo nhịp. Hiệu ứng ánh sáng phân cấp ở bất kỳ thời điểm nào hoàn toàn bắt nguồn từ tàn lửa bùng lên, tuyệt đối không phải do cảnh quay bị vỡ; chuyển động của máy quay vẫn mượt mà xuyên suốt. Tro rơi quét theo đường chéo, từ góc trái sang góc phải màn hình.
+
+Cố định chủ thể - Kiếm sĩ: vóc dáng thon gọn dạn dày sương gió, tóc cắt ngắn điểm bạc, hàm bướng bỉnh cứng cỏi, làn da lấm lem vệt bồ hóng, khuôn mặt sạch sẽ không hình xăm. Mặc hakama màu than củi và haori màu chàm xém lửa, một giáp vai bằng thép, dép rơm. Hai tay cầm thanh katana cong. Tiến bước qua sân chùa đang rực cháy về phía oni, thế đứng thấp và kiểm soát chặt chẽ qua từng đường kiếm.
+
+Cố định chủ thể - Oni: quỷ có sừng khổng lồ sừng sững, không thấy lỗ chân lông, làn da màu đen đỏ vỏ chai nứt nẻ phát ra ánh sáng cam nóng chảy dọc theo các vết nứt, hàm có răng nanh, bờm đen rối bời. Mang theo một cây kanabo bằng sắt khổng lồ gắn đầy gai nhọn. Tiến bước với những bước chân nặng nề làm rung chuyển mặt đất, tuyệt đối không chạy.
+
+Bối cảnh thế giới: sân chùa rực cháy trong đêm với cổng torii bằng đá vỡ vụn, mái chùa đổ sụp làm rơi rụng ngói, khoảng sân sỏi rộng rải rác những chiếc đèn lồng vỡ, mái nhà cháy ở đằng xa phía sau bức tường chùa. Không còn cấu trúc nào khác nguyên vẹn.
+
+BẦU KHÔNG KHÍ CỰC KỲ QUAN TRỌNG, chỉ về chiều sâu: làn khói mù mịt dày đặc với mật độ cao, kiếm sĩ rõ nét ở tiền cảnh, oni mờ nhẹ ở trung cảnh, những mái nhà rực cháy gần như biến mất ở hậu cảnh xa. Chỉ là không khí đặc quánh khói, tuyệt đối không có cảm giác như sương mù nhân tạo từ máy tạo khói.
+
+CẢNH 1 0.0-5.0 giây. TIẾN BƯỚC. Máy quay đặt thấp sát mặt sỏi, nghiêng góc 15°, bám theo bước chân kiếm sĩ về phía trước. Kiếm sĩ sải bước qua tàn lửa lơ lửng, katana giương cao, oni sừng sững phía trước. Kiếm sĩ ở bên trái màn hình đang tiến lên, oni ở bên phải màn hình phủ kín sân. Âm thanh thực tế nội cảnh (diegetic sound).
+
+CẢNH 2 5.0-10.0 giây. VA CHẠM. Máy quay quay tròn ở cự ly hẹp ngang tầm ngực, góc nghiêng dao động 15-35°, không bao giờ để góc vuông cân đối. Katana va mạnh vào kanabo tóe ra cơn mưa tia lửa, kiếm sĩ bị bật lùi một bước. Cả hai ở vị trí trung tâm, sỏi đá văng lên. Âm thanh thực tế nội cảnh.
+
+CẢNH 3 10.0-15.0 giây. ĐIỀM BÁO. Cắt sang cảnh một con quạ bay vút lên từ mái chùa đang sụp đổ khi ngói rơi rào rào. Nó lượn vòng gấp tránh xa các mảnh vỡ đang rơi. Quạ nằm ở trung tâm trên nền mái nhà rực cháy. Âm thanh thực tế nội cảnh.
+
+CẢNH 4 15.0-20.0 giây. SỤP ĐỔ. Máy quay tĩnh đặt thấp trong sân, lia nhanh lên trên (whip-pan) khi mái chùa sập xuống. Mảng mái chùa đứt rời và đâm sầm xuống sân; kiếm sĩ lăn người thoát ra qua làn sỏi và tro bụi. Xà mái nằm chéo khung hình, kiếm sĩ xuất hiện ở phần dưới trung tâm. Âm thanh thực tế nội cảnh.
+
+CẢNH 5 20.0-25.0 giây. LAO LÊN. Máy quay hạ sát mặt đất, phóng nhanh về phía trước qua hành lang tàn lửa bay dạt được thắp sáng bởi ánh lửa bùng phát. Kiếm sĩ hạ thấp người bứt tốc, katana kéo lê tia lửa, áp sát sườn của oni. Kiếm sĩ ở bên trái màn hình lao mạnh sang phải. Âm thanh thực tế nội cảnh.
+
+CẢNH 6 25.0-30.0 giây. KẾT CỤC. Máy quay lùi lại toàn cảnh tĩnh bao quát sân chùa, tàn lửa lắng xuống, gió ngừng thổi. Kiếm sĩ đứng một mình, hạ katana xuống, lồng ngực phập phồng, trong khi các vết nứt phát sáng của oni mờ dần chuyển sang màu đen và nó ngã gục ra ngoài khung hình. Kiếm sĩ nhỏ bé ở trung tâm, ngôi chùa đang cháy chìm trong bóng tối phía sau. Âm thanh thực tế nội cảnh.
+
+Quy tắc nhất quán giữa các cảnh: haori, giáp vai và dép rơm của kiếm sĩ không bao giờ thay đổi. Ánh sáng vết nứt của oni không bao giờ tắt hoàn toàn cho đến Cảnh 6. Chỉ kiếm sĩ, oni và quạ xuất hiện. Hướng tro bay luôn không đổi. Mái chùa giữ nguyên bóng hình mỗi khi xuất hiện. Ánh lửa bùng từ tàn lửa chỉ áp dụng trong Cảnh 1, 2 và 5. Tuyệt đối không có nhạc nền tại bất kỳ thời điểm nào.
+
+Khung hình cuối: kiếm sĩ đứng một mình giữa sân chùa, katana hạ thấp, tàn lửa rơi lả tả xung quanh, bóng dáng sẫm màu đã ngã xuống của oni ở rìa khung hình, bóng hình đổ nát của ngôi chùa cháy leo lét phía sau. Không chữ trên màn hình, không logo, không watermark.
+
+Âm thanh: chỉ dùng âm thanh thực tế nội cảnh — tiếng lửa nổ lép bép, ngói rơi, tiếng katana va leng keng vào sắt, tiếng gầm gừ trầm đục từ cổ họng của oni, tiếng sỏi lạo xạo dưới chân, tiếng quạ kêu sắc nhọn. Không có nhạc nền, không có phụ đề.
+
+Độ chân thực của máy quay & ghi hình: góc nhìn ~32mm/68° FOV, ống kính anamorphic 2x cổ điển với bokeh hình bầu dục và vệt lóe sáng dài từ ngọn lửa, độ sâu trường ảnh nông, kết xuất màu âm bản, hạt phim mịn. Quay cầm tay dữ dội với góc nghiêng dao động 15-45°, tiến sát đột ngột rồi giật giật lùi nhanh, mỗi khung hình đều đang chuyển động nhưng mượt mà trong quỹ đạo riêng, không bao giờ khóa cứng, không dùng gimbal mượt kiểu trôi nổi. Không mang phong cách CGI, không mượt mà giả tạo kiểu AI, không có giao diện trò chơi điện tử (HUD), không làm mượt chuyển động.
 ```
 
 [↑ Về danh mục](#catalog)

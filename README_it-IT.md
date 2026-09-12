@@ -413,20 +413,56 @@ Concludi con un'inquadratura d'ambientazione estremamente ampia. La guerriera si
 
 <a name="prompt-2098625650852815257"></a>
 
-### Traduzione in corso
+### Prompt cinematografico dettagliato in 6 inquadrature per una battaglia di 30 secondi tra uno spadaccino e un oni nel cortile di un tempio in fiamme.
 
 Autore：[@bmx\_ai13](https://x.com/bmx_ai13) · [Post originale](https://x.com/bmx_ai13/status/2098625650852815257)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt cinematografico dettagliato in 6 inquadrature per una battaglia di 30 secondi tra uno spadaccino e un oni nel cortile di un tempio in fiamme.
 
 <img src="covers/2098625650852815257.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+6 inquadrature, totale 30s 0.0-5.0s, 5.0-10.0s, 10.0-15.0s, 15.0-20.0s, 20.0-25.0s, 25.0-30.0s. Stacchi netti, nessuna dissolvenza. Velocità normale per l'intera durata, niente rallentatore, niente ramping.
+
+CADENZA DI RIPRESA CRITICA: 24 fps nativi, otturatore reale a 180 gradi, esposizione reale di 1/48s su ogni fotogramma. Sfocatura di movimento fluida e continua. Mai a scatti, mai tremolante. Nessuna interpolazione, nessun ghosting, nessun look video.
+
+NESSUN TESTO SULLO SCHERMO CRITICO: nessun testo di alcun tipo in nessun punto dell'inquadratura. Niente didascalie, sottotitoli, titoli, crediti, filigrane, loghi, timecode, overlay di interfaccia utente.
+
+NESSUN ALTRO NELL'INQUADRATURA CRITICO: niente monaci, abitanti del villaggio o comparse. Solo lo spadaccino, l'oni e un corvo sono mai visibili.
+
+IL FUOCO CRITICO: braci del tempio in fiamme fluttuano e divampano in ogni fotogramma, a tratti abbastanza luminose da illuminare a intermittenza come uno strobo un battito. La qualità a scatti di qualsiasi momento illuminato deriva interamente dal bagliore delle braci, mai da riprese difettose; il movimento della cinepresa rimane fluido per tutta la durata. La cenere che cade scorre in diagonale, da sinistra a destra dello schermo.
+
+Blocco Soggetto lo spadaccino: corporatura asciutta e segnata dalle intemperie, capelli corti con riflessi grigi, mascella dura, pelle striata di fuliggine, volto pulito, nessun tatuaggio. Hakama color carbone e un haori indaco bruciacchiato, uno spallaccio d'acciaio, sandali di paglia. Impugna una katana ricurva a due mani. Avanza attraverso il cortile del tempio in fiamme verso l'oni, postura bassa e controllata in ogni colpo.
+
+Blocco Soggetto l'oni: torreggiante demone cornuto, nessun poro visibile, pelle spaccata rosso-ossidiana che brilla lungo linee di frattura con luce arancione fusa, mascella con zanne, criniera nera arruffata. Trasporta un massiccio kanabo di ferro tempestato di punte. Avanza con passi pesanti che fanno tremare il terreno, non corre mai.
+
+Ambiente di Base: il cortile di un tempio in fiamme di notte; una porta torii in pietra in frantumi, il tetto di una pagoda che crolla rilasciando tegole, un ampio cortile di ghiaia disseminato di lanterne rotte, tetti lontani in fiamme oltre il muro del tempio. Nessun'altra struttura rimane integra.
+
+L'ATMOSFERA CRITICA, solo profondità: fitta foschia di fumo ad alta densità; spadaccino nitido in primo piano, oni ammorbidito a media distanza, tetti in fiamme quasi cancellati in lontananza. Solo aria resa densa dal fumo, mai un look da macchina del fumo.
+
+INQUADRATURA 1 0.0-5.0s. L'AVANZATA. Cinepresa bassa a livello della ghiaia, inclinazione olandese di 15°, che segue lo spadaccino in avanti. Lo spadaccino avanza a passi lunghi tra le braci fluttuanti, katana alzata, l'oni che incombe davanti. Spadaccino a sinistra dello schermo che avanza, l'oni a destra dello schermo che riempie il cortile. Suono diegetico.
+
+INQUADRATURA 2 5.0-10.0s. LO SCONTRO. La cinepresa orbita stretta all'altezza del petto, inclinazione oscillante tra 15 e 35°, mai ortogonale. La katana risuona contro il kanabo in una pioggia di scintille, lo spadaccino viene respinto indietro di un passo. Entrambi centrati, sollevando ghiaia. Suono diegetico.
+
+INQUADRATURA 3 10.0-15.0s. IL PRESAGIO. Stacco su un corvo che si alza in volo improvviso dal tetto della pagoda che crolla mentre le tegole precipitano a pioggia. Vira bruscamente lontano dai detriti in caduta. Corvo centrato contro la linea del tetto in fiamme. Suono diegetico.
+
+INQUADRATURA 4 15.0-20.0s. IL CROLLO. Cinepresa statica bassa nel cortile, panoramica a schiaffo verso l'alto mentre il tetto della pagoda cede. La sezione del tetto si stacca e si schianta nel cortile; lo spadaccino rotola via mettendosi in salvo tra ghiaia e cenere. Trave del tetto diagonale rispetto all'inquadratura, spadaccino che emerge in basso al centro. Suono diegetico.
+
+INQUADRATURA 5 20.0-25.0s. LO SCATTO. La cinepresa scende all'altezza del suolo, sfreccia in avanti attraverso un corridoio di braci fluttuanti illuminate da una fiammata di fuoco. Lo spadaccino scatta rasoterra, la katana che lascia una scia di scintille, chiudendo le distanze sul fianco dell'oni. Spadaccino a sinistra dello schermo che spinge verso destra. Suono diegetico.
+
+INQUADRATURA 6 25.0-30.0s. L'EPILOGO. La cinepresa si ritrae in un campo lungo statico del cortile, le braci che si posano, il vento che si placa. Lo spadaccino è in piedi da solo, katana abbassata, petto ansimante, mentre le linee di frattura incandescenti dell'oni si spengono fino a diventare nere ed esso stramazza fuori campo. Spadaccino piccolo e centrato, la pagoda in fiamme scura dietro. Suono diegetico.
+
+Regole tra i Fotogrammi: l'haori, lo spallaccio e i sandali dello spadaccino non cambiano mai. Il bagliore delle linee di frattura dell'oni non svanisce mai del tutto fino all'Inquadratura 6. Solo lo spadaccino, l'oni e il corvo sono mai visibili. La direzione della cenere rimane costante. La pagoda mantiene la stessa silhouette ovunque appaia. Il bagliore delle braci si applica solo all'interno delle Inquadrature 1, 2 e 5. Nessuna colonna sonora subentra in nessun momento.
+
+Ultimo Fotogramma: lo spadaccino è in piedi da solo nel cortile, katana abbassata, braci che fluttuano verso il basso intorno a lui, la sagoma scura e caduta dell'oni al bordo dell'inquadratura, la silhouette spezzata della pagoda che arde debolmente dietro. Nessun testo sullo schermo, nessun logo, nessuna filigrana.
+
+Traccia Sonora: solo diegetica — fuoco scoppiettante, tegole che cadono, katana che risuona sul ferro, il ruggito basso e gutturale dell'oni, ghiaia che scricchiola sotto i piedi, il verso acuto di un corvo. Nessuna colonna sonora, niente sottotitoli.
+
+Realismo di Ripresa e Cinepresa: FOV ~32mm/68°, anamorfico vintage 2x con bokeh ovale e riflessi a stria prodotti dalla luce del fuoco, profondità di campo ridotta, resa da negativo a colori, grana fine. Movimenti a spalla violenti con inclinazione oscillante da 15 a 45°, zoomate repentine e ritirate secche, ogni fotogramma a metà movimento ma fluido nel suo spostamento, mai bloccato, mai scorrimento da gimbal. Nessun aspetto CGI, nessuna levigatezza da IA, nessun HUD da videogioco, nessun'interpolazione di movimento.
 ```
 
 [↑ Torna alle categorie](#catalog)

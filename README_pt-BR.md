@@ -399,20 +399,56 @@ Finalize com um plano de estabelecimento extremamente aberto. A guerreira está 
 
 <a name="prompt-2098625650852815257"></a>
 
-### Tradução em andamento
+### Prompt cinematográfico detalhado de 6 planos para uma batalha de 30 segundos entre um espadachim e um oni no pátio de um templo em chamas.
 
 Autor：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publicação original](https://x.com/bmx_ai13/status/2098625650852815257)
 
 Cinematográfico / Imagem de Filme · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt cinematográfico detalhado de 6 planos para uma batalha de 30 segundos entre um espadachim e um oni no pátio de um templo em chamas.
 
 <img src="covers/2098625650852815257.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+6 planos, total de 30s: 0.0-5.0s, 5.0-10.0s, 10.0-15.0s, 15.0-20.0s, 20.0-25.0s, 25.0-30.0s. Cortes secos, sem fusões. Velocidade normal do início ao fim, sem câmera lenta, sem ramping.
+
+CADÊNCIA DE CAPTURA CRÍTICA: 24 fps nativo, obturador real de 180 graus, exposição real de 1/48s a cada quadro. Desfoque de movimento fluido e contínuo. Nunca picotado, nunca tremido. Sem interpolação, sem efeito fantasma, sem aspecto de vídeo.
+
+NENHUM TEXTO NA TELA CRÍTICO: nenhum tipo de texto em qualquer lugar do quadro. Sem legendas, títulos, créditos, marcas d'água, logotipos, timecode, sobreposições de interface.
+
+NINGUÉM MAIS NO QUADRO CRÍTICO: sem monges, aldeões ou figurantes. Apenas o espadachim, o oni e um corvo são visíveis.
+
+O FOGO CRÍTICO: brasas do templo em chamas flutuam e fulguram por todos os quadros, ocasionalmente brilhando forte o suficiente para estrobar uma batida de tempo. A qualidade escalonada de qualquer momento iluminado vem inteiramente do clarão das brasas, nunca de filmagem quebrada; o movimento da câmera permanece suave do início ao fim. As cinzas caindo cortam diagonalmente, da esquerda para a direita da tela.
+
+Bloqueio de Objeto - o espadachim: físico magro e castigado pelo tempo, cabelo curto com mechas grisalhas, mandíbula dura, pele manchada de fuligem, rosto limpo, sem tatuagens. Hakama carvão e um haori índigo chamuscado, uma ombreira de aço, sandálias de palha. Empunha uma katana curva com as duas mãos. Avança pelo pátio do templo em chamas em direção ao oni, postura baixa e controlada a cada golpe.
+
+Bloqueio de Objeto - o oni: demônio imponente com chifres, sem poros visíveis, pele vermelho-obsidiana rachada brilhando ao longo de falhas geológicas com luz laranja derretida, mandíbula com presas, juba preta emaranhada. Carrega um massivo kanabo de ferro cravado de espinhos. Avança com passos pesados que estremecem o chão, nunca corre.
+
+Placa de Mundo: pátio de um templo em chamas à noite, um portal torii de pedra estilhaçado, o telhado de um pagode desabando vertendo telhas, um amplo pátio de cascalho espalhado com lanternas quebradas, telhados distantes em chamas além do muro do templo. Nenhuma outra estrutura permanece intacta.
+
+A ATMOSFERA CRÍTICA, apenas profundidade: névoa densa de fumaça pesada; espadachim nítido no primeiro plano, oni suavizado à meia-distância, telhados em chamas quase apagados ao fundo. Apenas ar denso de fumaça, nunca aparência de máquina de fumaça.
+
+PLANO 1 0.0-5.0s. O AVANÇO. Câmera baixa ao nível do cascalho, inclinação de 15°, acompanhando o espadachim para frente. O espadachim avança através de brasas flutuantes, katana erguida, o oni despontando à frente. Espadachim à esquerda da tela avançando, oni à direita da tela preenchendo o pátio. Som diegético.
+
+PLANO 2 5.0-10.0s. O CONFRONTO. A câmera orbita fechada na altura do peito, inclinação variando de 15 a 35°, nunca nivelada. A katana ressoa contra o kanabo em uma chuva de faíscas, o espadachim é jogado um passo para trás. Ambos centralizados, cascalho subindo. Som diegético.
+
+PLANO 3 10.0-15.0s. O PRESSÁGIO. Corte para um corvo levantando voo abruptamente do telhado do pagode que desaba enquanto telhas despencam. Ele gira bruscamente para longe dos destroços que caem. Corvo centralizado contra a linha do telhado em chamas. Som diegético.
+
+PLANO 4 15.0-20.0s. O DESABAMENTO. Câmera baixa e estática no pátio, chicoteando para cima enquanto o telhado do pagode cede. A seção do telhado se desprende e cai com estrondo no pátio; o espadachim rola para longe através de cascalho e cinzas. Viga do telhado diagonal cortando o quadro, espadachim emergindo baixo no centro. Som diegético.
+
+PLANO 5 20.0-25.0s. O AVANÇO IMPETUOSO. A câmera desce ao nível do solo, disparando em alta velocidade por um corredor de brasas flutuantes iluminadas por um clarão de labaredas. O espadachim corre agachado, katana arrastando faíscas, aproximando-se do flanco do oni. Espadachim à esquerda da tela avançando para a direita. Som diegético.
+
+PLANO 6 25.0-30.0s. O DESFECHO. A câmera recua para um plano aberto estático do pátio, brasas assentando, vento morrendo. O espadachim permanece sozinho, katana abaixada, peito arfando, enquanto o brilho das falhas do oni se apaga para o preto e ele tomba para fora do quadro. Espadachim pequeno e centralizado, pagode em chamas escurecendo atrás. Som diegético.
+
+Regras Entre Planos: o haori, a ombreira e as sandálias do espadachim nunca mudam. O brilho nas fissuras do oni nunca desaparece totalmente até o Plano 6. Apenas espadachim, oni e corvo são visíveis. A direção das cinzas permanece constante. O pagode mantém a mesma silhueta onde quer que apareça. Clarão de brasas se aplica apenas nos Planos 1, 2 e 5. Nenhuma trilha sonora entra em nenhum momento.
+
+Último Quadro: o espadachim fica sozinho no pátio, katana abaixada, brasas flutuando ao redor dele, a forma escura e caída do oni na borda do quadro, a silhueta quebrada do pagode queimando baixo atrás. Sem texto na tela, sem logotipo, sem marca d'água.
+
+Faixa Sonora: apenas diegética — estalar de fogo, telhas caindo, katana ressoando contra o ferro, o rugido gutural e baixo do oni, cascalho estalando sob os pés, o grasnado agudo de um corvo. Sem trilha musical, sem legendas.
+
+Realismo de Câmera e Captura: ~32mm/68° FOV, anamórfico vintage 2x com bokeh oval e reflexos em linha (streak flares) da luz do fogo, profundidade de campo rasa, renderização de negativo colorido, granulação fina. Câmera na mão violenta com inclinação variando de 15 a 45°, avançando e recuando abruptamente, cada quadro no meio de um movimento mas fluido em seu próprio deslocamento, nunca travado, nunca suave como gimbal. Sem aspecto de CGI, sem suavidade de IA, sem HUD de videogame, sem suavização de movimento.
 ```
 
 [↑ Voltar às categorias](#catalog)

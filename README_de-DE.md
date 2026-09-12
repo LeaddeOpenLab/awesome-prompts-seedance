@@ -413,20 +413,56 @@ Schließe mit einer extrem weiten Totale ab. Die Kriegerin steht allein im Zentr
 
 <a name="prompt-2098625650852815257"></a>
 
-### Übersetzung läuft
+### Detaillierter 6-Shot-Kino-Prompt für einen 30-sekündigen Kampf zwischen einem Schwertkämpfer und einem Oni im Innenhof eines brennenden Tempels.
 
 Autor：[@bmx\_ai13](https://x.com/bmx_ai13) · [Originalbeitrag](https://x.com/bmx_ai13/status/2098625650852815257)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Detaillierter 6-Shot-Kino-Prompt für einen 30-sekündigen Kampf zwischen einem Schwertkämpfer und einem Oni im Innenhof eines brennenden Tempels.
 
 <img src="covers/2098625650852815257.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+6 Einstellungen, insgesamt 30s 0.0-5.0s, 5.0-10.0s, 10.0-15.0s, 15.0-20.0s, 20.0-25.0s, 25.0-30.0s. Harte Schnitte, keine Überblendungen. Durchgehend normale Geschwindigkeit, keine Zeitlupe, kein Ramping.
+
+AUFNAHMEKADENZ KRITISCH: native 24fps, echter 180-Grad-Verschluss, echte 1/48s Belichtung in jedem Frame. Flüssige, kontinuierliche Bewegungsunschärfe. Niemals abgehackt, niemals ruckelnd. Keine Interpolation, kein Ghosting, kein Video-Look.
+
+KEIN TEXT AUF DEM BILDSCHIRM KRITISCH: keinerlei Text irgendwo im Bild. Keine Bildunterschriften, Untertitel, Titel, Abspänne, Wasserzeichen, Logos, Timecodes, Benutzeroberflächen-Overlays.
+
+NIEMAND SONST IM BILD KRITISCH: keine Mönche, Dorfbewohner oder Komparsen. Nur der Schwertkämpfer, der Oni und eine Krähe sind jemals sichtbar.
+
+DAS FEUER KRITISCH: brennende Tempelglut treibt und flammt durch jeden Frame auf, flammt gelegentlich hell genug auf, um einen Beat stroboskopartig zu beleuchten. Die abgestufte Qualität jedes beleuchteten Moments entsteht ausschließlich durch das Aufflammen der Glut, niemals durch fehlerhaftes Filmmaterial; die Kamerabewegung bleibt durchgehend flüssig. Fallende Asche streicht diagonal von links nach rechts über den Bildschirm.
+
+Subjektsperre der Schwertkämpfer: schlanker, wettergegerbter Körperbau, kurz geschorenes, grau durchzogenes Haar, harter Kiefer, rußgestreifte Haut, sauberes Gesicht, keine Tattoos. Anthrazitfarbener Hakama und ein versengtes indigoblaues Haori, eine Schulterplatte aus Stahl, Strohsandalen. Hält ein geschwungenes Katana mit beiden Händen. Schreitet durch den brennenden Tempelhof auf den Oni zu, Haltung bei jedem Schlag tief und kontrolliert.
+
+Subjektsperre der Oni: hoch aufragender gehörnter Dämon, keine sichtbaren Poren, rissige obsidianschwarze bis rote Haut, die entlang von Bruchlinien in geschmolzenem orangem Licht glimmt, bezahnter Kiefer mit Stoßzähnen, verfilzte schwarze Mähne. Trägt einen massiven, mit Stacheln besetzten Eisen-Kanabo. Schreitet mit schweren, bodenerschütternden Schritten voran, rennt niemals.
+
+Umgebungs-Plate: ein brennender Tempelhof bei Nacht; ein zerbrochenes Torii-Tor aus Stein, ein einstürzendes Pagodendach, das Ziegel abwirft, ein weiter Kiesplatz übersät mit zerbrochenen Laternen, entfernte brennende Dächer jenseits der Tempelmauer. Keine anderen Strukturen stehen unversehrt.
+
+DIE ATMOSPHÄRE KRITISCH, nur Tiefe: dichter Rauchdunst bei hoher Dichte; Schwertkämpfer nah scharf, Oni in mittlerer Distanz weichgezeichnet, brennende Dächer in der Ferne fast ausgelöscht. Ausschließlich verdichtete Rauchluft, niemals das Aussehen einer Nebelmaschine.
+
+EINSTELLUNG 1 0.0-5.0s. DER VORMARSCH. Tiefe Kamera auf Kieshöhe, 15° Neigung, den Schwertkämpfer nach vorne verfolgend. Schwertkämpfer schreitet durch treibende Glut, Katana erhoben, Oni ragt voraus empor. Schwertkämpfer rückt links im Bild vor, Oni rechts im Bild füllt den Platz aus. Diegetischer Ton.
+
+EINSTELLUNG 2 5.0-10.0s. DAS AUFEINANDERTREFFEN. Kamera kreist eng auf Brusthöhe, Neigung schwingt 15-35°, niemals rechtwinklig. Katana hallt in einem Funkenregen vom Kanabo ab, Schwertkämpfer wird einen Schritt zurückgeworfen. Beide zentriert, Kies wirbelt auf. Diegetischer Ton.
+
+EINSTELLUNG 3 10.0-15.0s. DAS OMEN. Schnitt auf eine Krähe, die vom einstürzenden Pagodendach auffliegt, während Ziegel herabregnen. Sie dreht scharf von den fallenden Trümmern ab. Krähe zentriert vor der brennenden Dachkante. Diegetischer Ton.
+
+EINSTELLUNG 4 15.0-20.0s. DER EINSTURZ. Tiefe statische Kamera im Hof, schlägt mit einem Whip-Pan nach oben, als das Pagodendach nachgibt. Der Dachabschnitt reißt ab und stürzt in den Hof; der Schwertkämpfer rollt sich durch Kies und Asche in Sicherheit. Dachbalken diagonal durch das Bild, Schwertkämpfer taucht unten mittig auf. Diegetischer Ton.
+
+EINSTELLUNG 5 20.0-25.0s. DER ANSTURM. Kamera fällt auf Bodenhöhe, schießt nach vorne durch einen Korridor treibender Glut, beleuchtet von einem Aufflackern des Feuerlichts. Schwertkämpfer sprintet tief, Katana zieht Funken hinter sich her, nähert sich der Flanke des Oni. Schwertkämpfer links im Bild stößt nach rechts vor. Diegetischer Ton.
+
+EINSTELLUNG 6 25.0-30.0s. DIE NACHWIRKUNGEN. Kamera zieht sich zu einem weiten, statischen Hofbild zurück, Glut legt sich, Wind legt sich. Der Schwertkämpfer steht allein, Katana gesenkt, Brust hebt und senkt sich schwer, während die glimmenden Bruchlinien des Oni zu Schwarz verblassen und er aus dem Bild stürzt. Schwertkämpfer klein und zentriert, brennende Pagode dunkel dahinter. Diegetischer Ton.
+
+Frame-übergreifende Regeln: Haori, Schulterplatte und Sandalen des Schwertkämpfers ändern sich nie. Das Glühen der Bruchlinien des Oni verblasst bis Einstellung 6 nie vollständig. Nur Schwertkämpfer, Oni und Krähe sind jemals sichtbar. Ascherichtung bleibt konstant. Pagode behält dieselbe Silhouette, wo immer sie erscheint. Glutaufflammen gilt nur innerhalb der Einstellungen 1, 2 und 5. Zu keinem Zeitpunkt setzt Filmmusik ein.
+
+Letzter Frame: der Schwertkämpfer steht allein im Hof, Katana gesenkt, Glut treibt um ihn herum herab, die dunkle, gefallene Gestalt des Oni am Rand des Bildes, die zerbrochene Silhouette der Pagode brennt niedrig dahinter. Kein Text auf dem Bildschirm, kein Logo, kein Wasserzeichen.
+
+Tonbett: ausschließlich diegetisch — knisterndes Feuer, fallende Ziegel, Katana hallt an Eisen wider, das tiefe kehlige Gebrüll des Oni, unter den Füßen knirschender Kies, der scharfe Schrei einer Krähe. Keine Filmmusik, keine Untertitel.
+
+Kamera- & Aufnahme-Realismus: ~32mm/68° FOV, Vintage-2x-Anamorphot mit ovalem Bokeh und Streiflicht-Flares vom Feuerlicht, geringe Schärfentiefe, Farbnegativ-Wiedergabe, feines Korn. Heftige Handkamera, Neigung schwingt 15-45°, fährt ruckartig hinein und reißt zurück, jeder Frame mitten in der Bewegung, aber in seiner eigenen Bewegung flüssig, niemals arretiert, niemals Gimbal-Gleiten. Kein CGI-Look, keine KI-Glätte, kein Videospiel-HUD, keine Bewegungsglättung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -413,20 +413,56 @@ Terminez par un plan d'ensemble extrêmement large. La guerrière se tient seule
 
 <a name="prompt-2098625650852815257"></a>
 
-### Traduction en cours
+### Prompt cinématographique détaillé en 6 plans pour une bataille de 30 secondes entre un spadassin et un oni dans la cour d'un temple en flammes.
 
 Auteur：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publication originale](https://x.com/bmx_ai13/status/2098625650852815257)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt cinématographique détaillé en 6 plans pour une bataille de 30 secondes entre un spadassin et un oni dans la cour d'un temple en flammes.
 
 <img src="covers/2098625650852815257.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+6 plans, total 30s 0.0-5.0s, 5.0-10.0s, 10.0-15.0s, 15.0-20.0s, 20.0-25.0s, 25.0-30.0s. Coupes franches, aucun fondu. Vitesse normale en continu, pas de ralenti, pas d'accéléré.
+
+CADENCE DE CAPTURE CRITIQUE : 24 ips natif, véritable obturateur à 180 degrés, exposition réelle à 1/48s pour chaque image. Flou de mouvement fluide et continu. Jamais saccadé, jamais de sautillement. Pas d'interpolation, pas d'effet fantôme, pas de rendu vidéo.
+
+AUCUN TEXTE À L'ÉCRAN CRITIQUE : aucun texte d'aucune sorte nulle part dans le cadre. Pas de légendes, sous-titres, titres, crédits, filigranes, logos, timecode, incrustations d'interface.
+
+PERSONNE D'AUTRE DANS LE CADRE CRITIQUE : pas de moines, de villageois ou de figurants. Seuls le spadassin, l'oni et un corbeau sont visibles à tout moment.
+
+LE FEU CRITIQUE : les braises du temple en feu dérivent et rougeoient à travers chaque image, brillant parfois assez fort pour créer un effet stroboscopique sur un temps fort. La qualité saccadée de tout moment éclairé provient entièrement du rougeoiement des braises, jamais de séquences hachées ; le mouvement de la caméra reste fluide tout du long. La cendre qui tombe balaie en diagonale, de la gauche vers la droite de l'écran.
+
+Verrouillage du Sujet le spadassin : carrure élancée et burinée, cheveux coupés ras méchés de gris, mâchoire dure, peau striée de suie, visage net, pas de tatouages. Hakama anthracite et haori indigo brûlé, une épaulière en acier, sandales de paille. Tient un katana courbé à deux mains. Avance à travers la cour du temple en flammes vers l'oni, posture basse et maîtrisée à chaque coup.
+
+Verrouillage du Sujet l'oni : imposant démon cornu, pas de pores visibles, peau craquelée rouge obsidienne brillant le long de lignes de faille d'une lumière orange en fusion, mâchoire à défenses, crinière noire emmêlée. Porte un imposant kanabo en fer bardé de pointes. Avance de pas lourds qui font trembler le sol, ne court jamais.
+
+Décor de Référence : la cour d'un temple en flammes de nuit ; une porte torii en pierre brisée, le toit d'une pagode qui s'effondre perdant ses tuiles, une large cour de gravier parsemée de lanternes brisées, des toits lointains en feu au-delà du mur du temple. Aucune autre structure ne reste intacte.
+
+L'ATMOSPHÈRE CRITIQUE, profondeur uniquement : brume de fumée dense à forte opacité ; spadassin net au premier plan, oni adouci à mi-distance, toits en feu presque effacés au loin. Air épaissi par la fumée uniquement, jamais d'effet machine à fumée.
+
+PLAN 1 0.0-5.0s. L'AVANCÉE. Caméra basse au niveau du gravier, inclinaison hollandaise de 15°, suivant le spadassin vers l'avant. Le spadassin avance à grandes enjambées à travers les braises qui dérivent, katana levé, l'oni se profilant devant. Spadassin à gauche de l'écran avançant, l'oni à droite de l'écran occupant la cour. Son diégétique.
+
+PLAN 2 5.0-10.0s. L'AFFRONTEMENT. La caméra tourne en gros plan à hauteur de poitrine, inclinaison oscillant entre 15 et 35°, jamais d'équerre. Le katana résonne contre le kanabo dans une gerbe d'étincelles, le spadassin est repoussé d'un pas en arrière. Tous deux centrés, soulevant le gravier. Son diégétique.
+
+PLAN 3 10.0-15.0s. LE PRÉSAGE. Coupe vers un corbeau s'envolant brusquement du toit de la pagode qui s'effondre alors qu'une pluie de tuiles s'abat. Il vire brusquement pour s'éloigner des débris qui tombent. Corbeau centré contre la ligne de toit embrasée. Son diégétique.
+
+PLAN 4 15.0-20.0s. L'EFFONDREMENT. Caméra statique basse dans la cour, panoramique filé vers le haut alors que le toit de la pagode cède. La section de toit se détache et s'écrase dans la cour ; le spadassin effectue une roulade d'esquive à travers le gravier et les cendres. Poutre du toit en diagonale à travers le cadre, le spadassin émergeant en bas au centre. Son diégétique.
+
+PLAN 5 20.0-25.0s. L'ÉLAN. La caméra descend au ras du sol, fonce vers l'avant à travers un couloir de braises dérivantes illuminées par un éclat de flammes. Le spadassin sprinte courbé, le katana laissant traîner des étincelles, se rapprochant du flanc de l'oni. Spadassin à gauche de l'écran fonçant vers la droite. Son diégétique.
+
+PLAN 6 25.0-30.0s. LES CONSÉQUENCES. La caméra recule sur un plan large statique de la cour, les braises retombent, le vent faiblit. Le spadassin se tient seul, katana baissé, poitrine haletante, tandis que les lignes de faille lumineuses de l'oni s'éteignent pour devenir noires et qu'il bascule hors cadre. Spadassin petit et centré, pagode en feu sombre à l'arrière-plan. Son diégétique.
+
+Règles Inter-Plans : le haori, l'épaulière et les sandales du spadassin ne changent jamais. La lueur des lignes de faille de l'oni ne s'estompe jamais complètement avant le Plan 6. Seuls le spadassin, l'oni et le corbeau sont visibles. La direction des cendres reste constante. La pagode conserve la même silhouette partout où elle apparaît. L'éclat des braises s'applique uniquement à l'intérieur des Plans 1, 2 et 5. Aucune musique n'intervient à aucun moment.
+
+Dernière Image : le spadassin se tient seul dans la cour, katana baissé, braises dérivant autour de lui, la silhouette sombre et abattue de l'oni au bord du cadre, la silhouette brisée de la pagode brûlant faiblement derrière. Pas de texte à l'écran, pas de logo, pas de filigrane.
+
+Ambiance Sonore : diégétique uniquement — crépitement du feu, tuiles qui tombent, katana résonnant contre le fer, rugissement sourd et guttural de l'oni, gravier qui crisse sous les pas, cri aigu d'un corbeau. Pas de musique, pas de sous-titres.
+
+Réalisme de Caméra et de Capture : FOV ~32mm/68°, anamorphique 2x vintage avec bokeh ovale et reflets linéaires issus de la lueur du feu, faible profondeur de champ, rendu négatif couleur, grain fin. Caméra à l'épaule violente avec inclinaison oscillant de 15 à 45°, recadrant vivement vers l'avant et tirant vers l'arrière, chaque image en plein mouvement mais fluide dans son déplacement, jamais fixe, jamais de glissement sur stabilisateur. Pas d'effet CGI, pas de lissage IA, pas de HUD de jeu vidéo, pas d'adoucissement de mouvement.
 ```
 
 [↑ Retour aux catégories](#catalog)

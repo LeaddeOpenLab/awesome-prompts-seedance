@@ -399,20 +399,56 @@ Son derece geniş bir genel çekimle (establishing shot) bitirin. Savaşçı, ar
 
 <a name="prompt-2098625650852815257"></a>
 
-### Çeviri sürüyor
+### Yanan bir tapınak avlusunda bir kılıç ustası ile bir oni arasındaki 30 saniyelik savaş için ayrıntılı 6 çekimli sinematik istem.
 
 Yazar：[@bmx\_ai13](https://x.com/bmx_ai13) · [Orijinal gönderi](https://x.com/bmx_ai13/status/2098625650852815257)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yanan bir tapınak avlusunda bir kılıç ustası ile bir oni arasındaki 30 saniyelik savaş için ayrıntılı 6 çekimli sinematik istem.
 
 <img src="covers/2098625650852815257.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+6 çekim, toplam 30 sn: 0.0-5.0 sn, 5.0-10.0 sn, 10.0-15.0 sn, 15.0-20.0 sn, 20.0-25.0 sn, 25.0-30.0 sn. Sert kesmeler, erime (dissolve) yok. Baştan sona normal hız, ağır çekim yok, hız rampalama (ramping) yok.
+
+ÇEKİM KADANSI KRİTİK: yerel 24 fps, gerçek 180 derece enstantane, her karede gerçek 1/48 sn pozlama. Akıcı, kesintisiz hareket bulanıklığı (motion blur). Asla kesik kesik değil, asla titreşimli değil. Enterpolasyon yok, gölgelenme (ghosting) yok, video görünümü yok.
+
+EKRANDA METİN OLMAMASI KRİTİK: karenin hiçbir yerinde herhangi bir türde metin yok. Altyazı, başlık, jenerik, filigran, logo, zaman kodu, arayüz kaplaması yok.
+
+KAREDE BAŞKA KİMSE OLMAMASI KRİTİK: keşiş, köylü veya figüran yok. Yalnızca kılıç ustası, oni ve bir karga görünür.
+
+ATEŞ KRİTİK: yanan tapınağın közleri her kare boyunca sürüklenir ve parlar; ara sıra bir vuruşu flaş gibi aydınlatacak kadar parlak parıldar. Aydınlanan herhangi bir anın kademeli niteliği tamamen köz parlamasından gelir, asla bozuk görüntüden kaynaklanmaz; kamera hareketi baştan sona pürüzsüz kalır. Düşen küller ekranın solundan sağına doğru çapraz bir şekilde savrulur.
+
+Özne Kilidi - Kılıç Ustası: zayıf ve yıpranmış vücut yapısı, kırlaşmış kısa kesilmiş saçlar, sert çene, is bulaşmış cilt, temiz yüz, dövme yok. Kömür rengi hakama ve yanmış çivit mavisi haori, tek çelik omuzluk, saman sandaletler. Kavisli katanayı iki eliyle kavrar. Yanan tapınak avlusunda oni'ye doğru ilerler; her vuruşta duruşu alçak ve kontrollüdür.
+
+Özne Kilidi - Oni: devasa boynuzlu iblis, görünür gözenekleri olmayan, erimiş turuncu ışıkla fay hatları boyunca parlayan çatlak obsidyen kırmızısı ten, fildişi dişli çene, birbirine girmiş siyah yele. Sivri uçlu çivilerle kaplı devasa bir demir kanabo taşır. Yeri sarsan ağır adımlarla ilerler, asla koşmaz.
+
+Dünya Katmanı: geceleri yanan bir tapınak avlusu; parçalanmış taştan bir torii kapısı, kiremit döken çöken bir pagoda çatısı, kırık fenerlerin saçıldığı geniş bir çakıllı avlu, tapınak duvarının ötesinde uzaktaki yanan çatılar. Başka hiçbir yapı sağlam durmuyor.
+
+ATMOSFER KRİTİK, yalnızca derinlik: yüksek yoğunlukta ağır duman pusu; kılıç ustası yakında net, oni orta mesafede yumuşatılmış, yanan çatılar uzakta neredeyse silinmiş. Yalnızca yoğunlaştırılmış duman havası, asla bir sis makinesi görünümü yok.
+
+ÇEKİM 1 0.0-5.0 sn. İLERLEYİŞ. Çakıl seviyesinde alçak kamera, 15° eğik açı (cant), kılıç ustasını ileriye doğru takip ediyor. Kılıç ustası savrulan közlerin arasından adımlarla ilerler, katana kaldırılmış, oni ileride heybetle belirir. Kılıç ustası ekranın solunda ilerliyor, oni ekranın sağında avluyu dolduruyor. Diejetik ses.
+
+ÇEKİM 2 5.0-10.0 sn. ÇARPIŞMA. Kamera göğüs hizasında dar açıyla yörüngede döner, eğim 15-35° arasında değişir, asla düz değildir. Katana kıvılcım yağmuru içinde kanabo'ya çarparak çınlar, kılıç ustası bir adım geri savrulur. İkisi de ortalanmış, çakıllar havaya fırlıyor. Diejetik ses.
+
+ÇEKİM 3 10.0-15.0 sn. KEHANET. Çöken pagoda çatısından kiremitler yağarken aniden havalanan bir kargaya kesme. Düşen enkazdan hızla uzaklaşarak süzülür. Karga, yanan çatı hattına karşı ortalanmıştır. Diejetik ses.
+
+ÇEKİM 4 15.0-20.0 sn. ÇÖKÜŞ. Avluda alçak sabit kamera, pagoda çatısı çökerken hızla yukarı kayar (whip-pan). Çatı bölümü kopar ve gürültüyle avluya çarpar; kılıç ustası çakıl ve kül içinden yuvarlanarak kurtulur. Çatı kirişi kadrajı çapraz keser, kılıç ustası alt ortadan yükselir. Diejetik ses.
+
+ÇEKİM 5 20.0-25.0 sn. HÜCUM. Kamera zemin seviyesine iner, ateş ışığının parlamasıyla aydınlanan, sürüklenen közlerden oluşan bir koridor boyunca ileriye doğru fırlar. Kılıç ustası eğilerek koşar, katanası kıvılcımlar saçar, oni'nin yan tarafına doğru sokulur. Kılıç ustası ekranın solundan sağına doğru hamle yapar. Diejetik ses.
+
+ÇEKİM 6 25.0-30.0 sn. SONRASI. Kamera, közlerin yatıştığı ve rüzgarın dindiği geniş ve sabit bir avlu kadrajına çekilir. Oni'nin parlayan fay hatları kararırken ve kadrajın dışına devrilirken, kılıç ustası tek başına durur, katana indirilmiş, göğsü inip kalkmaktadır. Kılıç ustası küçük ve ortalanmış, arkada yanan pagoda karanlığa gömülmüştür. Diejetik ses.
+
+Kareler Arası Kurallar: kılıç ustasının haori'si, omuzluğu ve sandaletleri asla değişmez. Oni'nin fay hattı parıltısı Çekim 6'ya kadar asla tamamen sönmez. Yalnızca kılıç ustası, oni ve karga görünür. Kül yönü sabit kalır. Pagoda nerede görünürse görünsün aynı silueti korur. Köz parıltısı yalnızca Çekim 1, 2 ve 5 içinde geçerlidir. Hiçbir noktada müzik devreye girmez.
+
+Son Kare: kılıç ustası avluda tek başına durur, katana indirilmiş, közler etrafında süzülür, oni'nin karanlık düşmüş silüeti kadrajın kenarında, pagoda'nın kırık silüeti arkada cılız bir şekilde yanmaktadır. Ekranda metin yok, logo yok, filigran yok.
+
+Ses Katmanı: yalnızca diejetik — çıtırdayan ateş, düşen kiremitler, katananın demire çarpıp çınlaması, oni'nin derinden gelen gırtlaksı kükremesi, ayaklar altında ezilen çakıl, bir karganın tiz çığlığı. Müzik yok, altyazı yok.
+
+Kamera ve Çekim Gerçekçiliği: ~32mm/68° Görüş Açısı (FOV), ateş ışığından kaynaklanan oval bokeh ve çizgisel parlamalara (streak flares) sahip vintage 2x anamorfik, sığ alan derinliği, renkli negatif sunumu, ince gren. 15-45° arasında değişen eğik açılı (cant) sert el kamerası kullanımı, hızla içeri girip geri çekilme, her kare hareketin ortasında ama kendi devinimi içinde akıcı, asla sabitlenmemiş, asla gimbal pürüzsüzlüğünde değil. CGI görünümü yok, yapay zeka pürüzsüzlüğü yok, video oyunu arayüzü (HUD) yok, hareket yumuşatma yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

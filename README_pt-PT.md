@@ -399,20 +399,56 @@ Termine com um plano geral extremamente amplo. A guerreira está sozinha no cent
 
 <a name="prompt-2098625650852815257"></a>
 
-### Tradução em curso
+### Prompt cinematográfico detalhado de 6 planos para uma batalha de 30 segundos entre um espadachim e um oni no pátio de um templo em chamas.
 
 Autor：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publicação original](https://x.com/bmx_ai13/status/2098625650852815257)
 
 Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt cinematográfico detalhado de 6 planos para uma batalha de 30 segundos entre um espadachim e um oni no pátio de um templo em chamas.
 
 <img src="covers/2098625650852815257.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+6 planos, total de 30s: 0.0-5.0s, 5.0-10.0s, 10.0-15.0s, 15.0-20.0s, 20.0-25.0s, 25.0-30.0s. Cortes diretos, sem dissolvências. Velocidade normal do início ao fim, sem câmara lenta, sem ramping.
+
+CADÊNCIA DE CAPTURA CRÍTICA: 24 fps nativo, obturador real de 180 graus, exposição real de 1/48s a cada fotograma. Desfocagem de movimento fluida e contínua. Nunca aos solavancos, nunca trémula. Sem interpolação, sem efeito fantasma, sem aspeto de vídeo.
+
+NENHUM TEXTO NO ECRÃ CRÍTICO: nenhum tipo de texto em qualquer ponto do enquadramento. Sem legendas, títulos, créditos, marcas de água, logótipos, timecode, sobreposições de interface.
+
+MAIS NINGUÉM NO ENQUADRAMENTO CRÍTICO: sem monges, aldeãos ou figurantes. Apenas o espadachim, o oni e um corvo são visíveis.
+
+O FOGO CRÍTICO: brasas do templo em chamas flutuam e faiscam através de cada fotograma, ocasionalmente faiscando com intensidade suficiente para criar um efeito estroboscópico. A qualidade graduada de qualquer momento iluminado decorre inteiramente do faiscar das brasas, nunca de filmagem corrompida; o movimento da câmara permanece suave do início ao fim. As cinzas a cair cortam diagonalmente, da esquerda para a direita do ecrã.
+
+Bloqueio de Sujeito - o espadachim: compleição magra e calejada pelo tempo, cabelo rapado com madeixas grisalhas, queixo rijo, pele manchada de fuligem, rosto limpo, sem tatuagens. Hakama de carvão e um haori índigo chamuscado, uma ombreira de aço, sandálias de palha. Empunha uma katana curva com ambas as mãos. Avança pelo pátio do templo em chamas em direção ao oni, postura baixa e controlada a cada golpe.
+
+Bloqueio de Sujeito - o oni: demónio imponente com cornos, sem poros visíveis, pele vermelho-obsidiana fendida a brilhar ao longo de falhas com luz de lava cor de laranja, mandíbula com presas, crina negra emaranhada. Carrega um massivo kanabo de ferro cravado de espigões. Avança com passos pesados que estremecem a terra, nunca corre.
+
+Cenário Global: pátio de um templo em chamas à noite, um portal torii de pedra estilhaçado, o telhado de um pagode a colapsar largando telhas, um amplo pátio de cascalho juncado de lanternas partidas, telhados distantes em chamas além do muro do templo. Nenhuma outra estrutura se mantém de pé.
+
+A ATMOSFERA CRÍTICA, apenas profundidade: névoa densa de fumo espesso; espadachim nítido no primeiro plano, oni suavizado a meia-distância, telhados em chamas quase apagados ao longe. Apenas ar denso de fumo, nunca um aspeto de máquina de fumo.
+
+PLANO 1 0.0-5.0s. O AVANÇO. Câmara baixa ao nível do cascalho, inclinação de 15°, acompanhando o espadachim para a frente. O espadachim caminha por entre brasas flutuantes, katana erguida, o oni a avultar pela frente. Espadachim à esquerda do ecrã a avançar, oni à direita do ecrã a preencher o pátio. Som diegético.
+
+PLANO 2 5.0-10.0s. O EMBATE. A câmara orbita de perto à altura do peito, inclinação oscilando entre 15 e 35°, nunca nivelada. A katana ressoa contra o kanabo num chuveiro de faíscas, o espadachim é projetado um passo para trás. Ambos centrados, cascalho a saltar. Som diegético.
+
+PLANO 3 10.0-15.0s. O PRESSÁGIO. Corte para um corvo a descolar bruscamente do telhado do pagode a ruir enquanto chovem telhas. Gira abruptamente para longe dos escombros em queda. Corvo centrado contra a linha do telhado em chamas. Som diegético.
+
+PLANO 4 15.0-20.0s. O COLAPSO. Câmara baixa e estática no pátio, chicoteando para cima à medida que o telhado do pagode cede. A secção do telhado desprende-se e despenha-se estrondosamente no pátio; o espadachim rola livremente pelo cascalho e pelas cinzas. Viga do telhado diagonal cruzando o plano, espadachim a emergir baixo ao centro. Som diegético.
+
+PLANO 5 20.0-25.0s. O IMPULSO. A câmara desce à altura do chão, disparando velozmente através de um corredor de brasas flutuantes iluminadas por um clarão de chamas. O espadachim corre agachado, a katana a arrastar faíscas, aproximando-se do flanco do oni. Espadachim à esquerda do ecrã a investir para a direita. Som diegético.
+
+PLANO 6 25.0-30.0s. O RESCALDO. A câmara recua para um plano geral estático do pátio, brasas a assentar, o vento a cessar. O espadachim permanece sozinho, katana descida, peito a arquejar, enquanto o brilho das falhas do oni se apaga para negro e este tomba para fora do plano. Espadachim pequeno e centrado, o pagode em chamas escurecido atrás. Som diegético.
+
+Regras Entre Planos: o haori, a ombreira e as sandálias do espadachim nunca mudam. O brilho nas fendas do oni nunca se apaga totalmente até ao Plano 6. Apenas o espadachim, o oni e o corvo são visíveis. A direção das cinzas permanece constante. O pagode mantém a mesma silhueta onde quer que surja. O faiscar das brasas aplica-se unicamente dentro dos Planos 1, 2 e 5. Nenhuma música entra em qualquer instante.
+
+Último Fotograma: o espadachim permanece sozinho no pátio, katana descida, brasas a descer lentamente em seu redor, a forma escura caída do oni no limite do enquadramento, a silhueta partida do pagode a arder lentamente ao fundo. Sem texto no ecrã, sem logótipo, sem marca de água.
+
+Banda Sonora: apenas diegética — crepitar do fogo, telhas a cair, katana a retinir contra o ferro, o rugido gutural grave do oni, cascalho a ranger debaixo dos pés, o grasnido estridente de um corvo. Sem música, sem legendas.
+
+Realismo de Câmara e Captura: ~32mm/68° FOV, anamórfica vintage 2x com bokeh oval e reflexos estriados decorrentes da luz do fogo, profundidade de campo reduzida, reprodução em negativo de cor, grão fino. Câmara à mão violenta com inclinação a oscilar entre 15 e 45°, aproximando-se e afastando-se com brusquidão, cada fotograma a meio do movimento mas suave na sua própria trajetória, nunca fixa, nunca com estabilização tipo gimbal. Sem aspeto de CGI, sem fluidez de IA, sem HUD de videojogo, sem suavização de movimento.
 ```
 
 [↑ Voltar às categorias](#catalog)

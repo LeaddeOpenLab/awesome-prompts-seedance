@@ -413,20 +413,56 @@ Termina con un plano general extremadamente amplio. La guerrera permanece sola e
 
 <a name="prompt-2098625650852815257"></a>
 
-### Traducción en curso
+### Prompt cinematográfico detallado de 6 tomas para una batalla de 30 segundos entre un espadachín y un oni en el patio de un templo en llamas.
 
 Autor：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publicación original](https://x.com/bmx_ai13/status/2098625650852815257)
 
 Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt cinematográfico detallado de 6 tomas para una batalla de 30 segundos entre un espadachín y un oni en el patio de un templo en llamas.
 
 <img src="covers/2098625650852815257.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+6 tomas, total 30s 0.0-5.0s, 5.0-10.0s, 10.0-15.0s, 15.0-20.0s, 20.0-25.0s, 25.0-30.0s. Cortes directos, sin disolvencias. Velocidad normal en todo momento, sin cámara lenta, sin ramping.
+
+CADENCIA DE CAPTURA CRÍTICA: 24 fps nativos, obturador real de 180 grados, exposición real de 1/48s en cada fotograma. Desenfoque de movimiento fluido y continuo. Nunca entrecortado, nunca tembloroso. Sin interpolación, sin efecto fantasma, sin apariencia de video.
+
+SIN TEXTO EN PANTALLA CRÍTICO: ningún tipo de texto en ninguna parte del encuadre. Sin leyendas, subtítulos, títulos, créditos, marcas de agua, logotipos, código de tiempo, superposiciones de interfaz de usuario.
+
+NADIE MÁS EN EL ENCUADRE CRÍTICO: sin monjes, aldeanos ni extras. Solo el espadachín, el oni y un cuervo son visibles en todo momento.
+
+EL FUEGO CRÍTICO: las brasas del templo en llamas flotan y destellan a través de cada fotograma, destellando ocasionalmente con suficiente brillo como para iluminar estroboscópicamente un pulso. La cualidad escalonada de cualquier momento iluminado proviene enteramente del destello de las brasas, nunca de metraje roto; el movimiento de la cámara se mantiene suave en todo momento. La ceniza que cae barre diagonalmente, de izquierda a derecha de la pantalla.
+
+Bloqueo de Sujeto el espadachín: complexión esbelta y curtida, cabello corto con vetas grises, mandíbula dura, piel manchada de hollín, rostro limpio, sin tatuajes. Hakama color carbón y un haori añil chamuscado, un hombrón de acero, sandalias de paja. Empuña una katana curva con ambas manos. Avanza por el patio del templo en llamas hacia el oni, postura baja y controlada en cada golpe.
+
+Bloqueo de Sujeto el oni: demonio con cuernos imponente, sin poros visibles, piel agrietada de color rojo obsidiana que brilla a lo largo de líneas de falla con luz naranja fundida, mandíbula con colmillos, melena negra enredada. Lleva un enorme kanabo de hierro tachonado con púas. Avanza con pasos pesados que hacen temblar el suelo, nunca corre.
+
+Placa de Entorno: el patio de un templo en llamas por la noche; una puerta torii de piedra destrozada, el techo de una pagoda colapsando desprendiendo tejas, un amplio patio de grava salpicado de linternas rotas, techos distantes en llamas más allá del muro del templo. Ninguna otra estructura se mantiene entera.
+
+LA ATMÓSFERA CRÍTICA, solo profundidad: densa neblina de humo a gran densidad; el espadachín nítido de cerca, el oni suavizado a media distancia, los techos en llamas casi borrados a lo lejos. Solo aire denso por el humo, nunca aspecto de máquina de niebla.
+
+TOMA 1 0.0-5.0s. EL AVANCE. Cámara baja a nivel de la grava, inclinación holandesa de 15°, siguiendo al espadachín hacia adelante. El espadachín avanza a grandes zancadas a través de brasas flotantes, katana levantada, el oni cerniéndose adelante. Espadachín avanzando a la izquierda de la pantalla, el oni a la derecha llenando el patio. Sonido diegético.
+
+TOMA 2 5.0-10.0s. EL CHOQUE. La cámara orbita cerrada a la altura del pecho, inclinación oscilando entre 15-35°, nunca recta. La katana resuena contra el kanabo en una lluvia de chispas, el espadachín es lanzado un paso atrás. Ambos centrados, levantando grava. Sonido diegético.
+
+TOMA 3 10.0-15.0s. EL PRESAGIO. Corte a un cuervo saliendo disparado del techo de la pagoda que se derrumba mientras caen tejas en cascada. Vira con fuerza alejándose de los escombros que caen. Cuervo centrado contra la línea del techo en llamas. Sonido diegético.
+
+TOMA 4 15.0-20.0s. EL COLAPSO. Cámara estática baja en el patio, haciendo un paneo rápido hacia arriba mientras el techo de la pagoda cede. La sección del techo se desprende y se estrella contra el patio; el espadachín rueda para ponerse a salvo a través de la grava y la ceniza. Viga del techo diagonal a través del encuadre, el espadachín emergiendo en el centro inferior. Sonido diegético.
+
+TOMA 5 20.0-25.0s. EL EMBATE. La cámara cae a la altura del suelo, sale disparada hacia adelante a través de un corredor de brasas flotantes iluminadas por un resplandor de fuego. El espadachín corre agachado, la katana despidiendo chispas, cerrando la distancia hacia el flanco del oni. Espadachín a la izquierda de la pantalla avanzando hacia la derecha. Sonido diegético.
+
+TOMA 6 25.0-30.0s. EL DESENLACE. La cámara retrocede a un plano general estático del patio, las brasas asentándose, el viento muriendo. El espadachín permanece solo, katana abajo, pecho agitado, mientras las líneas de falla brillantes del oni se atenúan hasta volverse negras y este cae fuera del encuadre. Espadachín pequeño y centrado, pagoda en llamas oscura detrás. Sonido diegético.
+
+Reglas Entre Fotogramas: el haori, el hombrón y las sandalias del espadachín nunca cambian. El brillo de las líneas de falla del oni nunca se desvanece por completo hasta la Toma 6. Solo el espadachín, el oni y el cuervo son visibles en todo momento. La dirección de la ceniza permanece constante. La pagoda mantiene la misma silueta dondequiera que aparezca. El destello de brasas se aplica únicamente dentro de las Tomas 1, 2 y 5. Ninguna banda sonora entra en ningún punto.
+
+Último Fotograma: el espadachín está solo en el patio, katana abajo, brasas cayendo lentamente a su alrededor, la silueta oscura y caída del oni al borde del encuadre, la silueta rota de la pagoda ardiendo bajo detrás. Sin texto en pantalla, sin logotipo, sin marca de agua.
+
+Banda Sonora: diegética únicamente — fuego crepitante, tejas cayendo, katana resonando contra el hierro, el rugido gutural bajo del oni, grava crujiendo bajo los pies, el graznido agudo de un cuervo. Sin música de fondo, sin subtítulos.
+
+Realismo de Cámara y Captura: ~32mm/68° FOV, anamórfico vintage 2x con bokeh ovalado y destellos lineales de la luz del fuego, baja profundidad de campo, interpretación de negativo a color, grano fino. Cámara en mano violenta, inclinación oscilando entre 15-45°, cerrando plano bruscamente y retrocediendo de golpe, cada fotograma en pleno movimiento pero fluido en su propio desplazamiento, nunca bloqueado, nunca con suavidad de estabilizador de gimbal. Sin aspecto de CGI, sin suavidad de IA, sin HUD de videojuego, sin suavizado de movimiento.
 ```
 
 [↑ Volver a categorías](#catalog)
