@@ -379,20 +379,95 @@ Sinematik / Film Karesi · Yayımlandı
 
 <a name="prompt-2098623498922897725"></a>
 
-### Çeviri sürüyor
+### Bir şelalenin yanında çöken ip köprüyü geçen kadın maceracıyı anlatan, zaman çizelgesiyle senkronize ses ipuçları içeren 15 saniyelik ayrıntılı sinematik komut.
 
 Yazar：[@m\_zubaair](https://x.com/m_zubaair) · [Orijinal gönderi](https://x.com/m_zubaair/status/2098623498922897725)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir şelalenin yanında çöken ip köprüyü geçen kadın maceracıyı anlatan, zaman çizelgesiyle senkronize ses ipuçları içeren 15 saniyelik ayrıntılı sinematik komut.
 
 <img src="covers/2098623498922897725.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Uzun, dağınık ve doğal bir şekilde dalgalanan saçlara sahip, gerçekçi doğa yürüyüşü kıyafetleri, dayanıklı botlar ve bir sırt çantası giymiş güzel, genç bir Amerikalı kadın maceracı, iki devasa yeşil dağ arasına asılmış son derece eski ve dengesiz ahşap bir ip köprüyü dikkatle geçmektedir. Köprünün hemen yanından aşağıya gürül gürül dökülen devasa bir şelale, muazzam miktarda çağlayan su ve sis üretmektedir. Aşağıdaki kanyon inanılmaz derecede derin ve ürkütücüdür.
+
+ÖNEMLİ: 15 saniyenin tamamı boyunca son derece gerçekçi, sürükleyici ve senkronize bir ses tasarımı oluşturun. Her ses, görsel eylem ve kamera hareketiyle doğal olarak eşleşmelidir.
+
+00:00–00:03
+Devasa dağ kanyonunun, narin ahşap ip köprünün ve yanındaki dev şelalenin geniş, sinematik bir tanıtım çekimiyle başlayın.
+SES:
+
+- Güçlü ve sürekli şelale kükremesi
+- Yoğun çağlayan su sesi ve uzaktan gelen yankı
+- Sert dağ rüzgârı
+- Hafif ip gıcırtısı ve ahşap köprünün hareketi
+- Çok uzaktan hafifçe duyulan doğal kuş sesleri
+
+Kadın köprüye dikkatle adım atar.
+Eski ahşap tahtalara basan gerçekçi yürüyüş botu adımları ekleyin:
+“GÜM… GICIRTI… GÜM… GICIRTI…”
+
+00:03–00:06
+Kadın köprüde ilerlemeye devam ederken kamera onun arkasına ve hafifçe yukarısına geçer. Salık saçları rüzgârda doğal bir şekilde hareket eder. Şelale yanında şiddetle akmaktadır.
+SES:
+
+- Ayak sesleri daha netleşir ve biraz hızlanır
+- Ahşap tahtalar kadının ağırlığı altında inler
+- İplerin gerilme gıcırtısı
+- Kadının etrafında uğuldayan rüzgâr
+- Sahnenin altında kesintisiz kükreyen güçlü şelale sesi
+
+00:06–00:09
+Ayağını son derece eski bir diğer tahtaya basar. Aniden tahta bükülür ve botunun altında çatlamaya başlar.
+SES TASARIMI ŞİDDETLENMELİDİR:
+
+- Yüksek ahşap çatlama sesleri: “ÇAT… ÇAT…”
+- Keskin tahta kıymıklanma sesleri
+- Gerilen ve kopan iplerin sesi
+- Kadının nefesi hızlanır
+- Korkuyla alınan kısa bir nefes
+
+İlerideki birkaç tahta peş peşe kırılmaya başlar.
+
+00:09–00:12
+Arkasındaki tüm köprünün çökmekte olduğunu fark eder. Ahşap tahtalar kırılıp aşağıdaki devasa kanyona düşerken, kadın çaresizce karşı dağa doğru koşar.
+SES:
+
+- Hızlı ve senkronize ayak sesleri: “KÜT-KÜT-KÜT-KÜT”
+- Çok sayıda yüksek ahşap çatlama ve parçalanma sesi
+- Şiddetle gıcırdayan ve kopan ipler
+- Havada ıslık çalarak düşen ahşap tahtalar
+- Devasa şelale kükremesi ve kanyon yankısı
+- Kadının korku dolu nefes alışverişi
+- Giderek artan sinematik gerilim
+
+00:12–00:14
+Son bir umutsuz sıçrayış yapar ve diğer taraftaki sağlam zemine ulaşır. Geriye döner ve köprünün geri kalanının şelale kanyonuna tamamen çöküşünü şok içinde izler.
+SES:
+
+- Son ve tok bir tahta ÇATLAMASI
+- Aşağıya doğru çarparak düşen çok sayıda tahta
+- Derin ip kopma sesi
+- Kanyon boyunca yankılanan devasa enkaz düşüşü
+- Çok aşağılardan gelen su çarpma sesleri
+
+00:14–00:15
+Hayatta kaldığını anlar. Yüz ifadesi korkudan yerini saf bir rahatlama ve mutluluğa bırakır. Gülümser, hafifçe güler, sevinçle kollarını kaldırır ve yıkılmış köprüye bakarak rahatlamış bir şekilde derin bir nefes alır.
+SES:
+
+- Şelale sesi devam eder ancak biraz yumuşamıştır
+- Dağların arasından hafifçe esen rüzgâr
+- Kadının rahatlamış nefesi
+- Hafif, neşeli bir gülüş / mutluluk dolu iç çekiş
+- Hafif, coşkulu, sinematik müzik yükselişi
+- Huzurlu ve doğal bir dağ ambiyansıyla bitiş
+
+Tüm ses kaydı, devasa bir dağ kanyonunda gerçek mekânda kaydedilmiş hissi vermelidir. Hiçbir yapay veya çizgi film benzeri ses efekti olmamalıdır. Mükemmel işitsel-görsel senkronizasyon, gerçekçi akustik yansımalar, doğal kanyon yankısı, dinamik ses seviyesi değişimleri, etkileyici uzamsal ses, gerilimden rahatlamaya uzanan sinematik ilerleme.
+
+Görsel stil: ultra fotogerçekçi, gerçekçi insan anatomisi, doğal yüz ifadeleri, gerçekçi ten ve saç hareketi, fiziksel olarak doğru ahşap yıkımı, inandırıcı ip fiziği, gerçekçi şelale sisi, dramatik dağ ölçeği, sinematik kamera hareketi, HDR, 4K detay.
 ```
 
 [↑ Kategorilere dön](#catalog)

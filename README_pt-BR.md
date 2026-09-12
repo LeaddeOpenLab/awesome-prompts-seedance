@@ -379,20 +379,95 @@ Tradução em andamento
 
 <a name="prompt-2098623498922897725"></a>
 
-### Tradução em andamento
+### Prompt cinematográfico detalhado de 15 segundos que descreve uma aventureira cruzando uma ponte de cordas em colapso ao lado de uma cachoeira, com marcações de áudio sincronizadas na linha do tempo.
 
 Autor：[@m\_zubaair](https://x.com/m_zubaair) · [Publicação original](https://x.com/m_zubaair/status/2098623498922897725)
 
 Cinematográfico / Imagem de Filme · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt cinematográfico detalhado de 15 segundos que descreve uma aventureira cruzando uma ponte de cordas em colapso ao lado de uma cachoeira, com marcações de áudio sincronizadas na linha do tempo.
 
 <img src="covers/2098623498922897725.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma linda jovem aventureira americana com cabelos longos, soltos e naturalmente esvoaçantes, vestindo roupas realistas de trilha para áreas externas, botas resistentes e uma mochila, está atravessando cuidadosamente uma ponte de corda e madeira extremamente antiga e instável, suspensa entre duas montanhas verdes enormes. Uma cachoeira colossal despenca ao lado da ponte, produzindo um enorme volume de água corrente e névoa. O desfiladeiro abaixo é incrivelmente profundo e aterrorizante.
+
+IMPORTANTE: Crie um design de som sincronizado altamente realista e imersivo ao longo de todos os 15 segundos. Cada som deve corresponder naturalmente à ação visual e ao movimento da câmera.
+
+00:00–00:03
+Comece com um plano geral cinematográfico de contextualização do enorme desfiladeiro montanhoso, da frágil ponte de corda e madeira e da gigantesca cachoeira ao lado dela.
+SOM:
+
+- Rugido contínuo e poderoso da cachoeira
+- Água caudalosa intensa e eco distante
+- Vento forte da montanha
+- Ranger sutil de cordas e movimentação da ponte de madeira
+- Pássaros naturais bem ao fundo, de forma sutil
+
+A mulher dá passos cuidadosos sobre a ponte.
+Adicione passos realistas de botas de trilha tocando as tábuas velhas de madeira:
+“BAQUE… RANGER… BAQUE… RANGER…”
+
+00:03–00:06
+A câmera se move para trás e ligeiramente acima dela enquanto ela continua atravessando a ponte. Seus cabelos soltos se movem naturalmente com o vento. A cachoeira corre violentamente ao lado dela.
+SOM:
+
+- Os passos tornam-se mais claros e ligeiramente mais rápidos
+- Tábuas de madeira rangendo sob seu peso
+- Tensão da corda estalando
+- Vento passando veloz ao redor dela
+- Cachoeira poderosa rugindo continuamente sob a cena
+
+00:06–00:09
+Ela apoia o pé em outra tábua extremamente velha. De repente, a tábua enverga e começa a rachar sob sua bota.
+O DESIGN DE SOM DEVE TORNAR-SE INTENSO:
+
+- Rachaduras altas na madeira: “CRAC… CRAC…”
+- Sons agudos de madeira estilhaçando
+- Sons de cordas esticando e arrebentando
+- A respiração dela fica mais acelerada
+- Um breve suspiro de pavor
+
+Várias tábuas à frente começam a quebrar, uma após a outra.
+
+00:09–00:12
+Ela percebe que a ponte inteira está desmoronando atrás dela. Ela corre desesperadamente em direção à montanha oposta enquanto as tábuas de madeira quebram e despencam no enorme desfiladeiro abaixo.
+SOM:
+
+- Passos rápidos e sincronizados: “TUF-TUF-TUF-TUF”
+- Múltiplos estalos altos de madeira e sons de estilhaçamento
+- Cordas rangendo violentamente e arrebentando
+- Tábuas de madeira caindo e assobiando pelo ar
+- Rugido maciço da cachoeira e eco do desfiladeiro
+- Respiração amedrontada dela
+- Tensão cinematográfica crescente
+
+00:12–00:14
+Ela dá um último salto desesperado e alcança terra firme do outro lado. Ela se vira e observa em choque enquanto o restante da ponte desmorona completamente dentro do desfiladeiro da cachoeira.
+SOM:
+
+- Um forte estalo final de madeira
+- Múltiplas tábuas caindo com impacto em direção ao fundo
+- Estalo profundo de corda arrebentando
+- Eco enorme dos destroços caindo pelo desfiladeiro
+- Sons de impacto na água bem lá embaixo
+
+00:14–00:15
+Ela percebe que sobreviveu. Sua expressão muda do medo para puro alívio e felicidade. Ela sorri, ri suavemente, ergue os braços com alegria e dá um suspiro profundo de alívio enquanto olha para a ponte destruída.
+SOM:
+
+- A cachoeira continua presente, mas ligeiramente suavizada
+- Vento soprando suavemente pelas montanhas
+- A respiração aliviada dela
+- Uma risada sutil e alegre / expiração de felicidade
+- Leve crescendo musical cinematográfico e edificante
+- Finaliza com uma atmosfera pacífica e natural da montanha
+
+Toda a trilha sonora deve parecer som gravado em locação real dentro de um enorme cânion de montanha. Sem efeitos sonoros artificiais ou caricatos. Sincronização audiovisual perfeita, reflexos acústicos realistas, reverberação natural de cânion, mudanças dinâmicas de volume, áudio espacial imersivo, progressão cinematográfica da tensão para o alívio.
+
+Estilo visual: ultra-fotorrealista, anatomia humana realista, expressões faciais naturais, movimento realista de pele e cabelo, destruição de madeira fisicamente precisa, física de cordas verossímil, névoa de cachoeira realista, escala montanhosa dramática, movimento de câmera cinematográfico, HDR, detalhes em 4K.
 ```
 
 [↑ Voltar às categorias](#catalog)

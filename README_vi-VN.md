@@ -395,20 +395,95 @@ Tác giả：[@bmx\_ai13](https://x.com/bmx_ai13) · [Bài gốc](https://x.com/
 
 <a name="prompt-2098623498922897725"></a>
 
-### Đang dịch
+### Lời nhắc điện ảnh chi tiết dài 15 giây mô tả một nữ thám hiểm băng qua cây cầu dây thừng đang sụp đổ bên cạnh thác nước, với các tín hiệu âm thanh theo dòng thời gian được đồng bộ hóa.
 
 Tác giả：[@m\_zubaair](https://x.com/m_zubaair) · [Bài gốc](https://x.com/m_zubaair/status/2098623498922897725)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc điện ảnh chi tiết dài 15 giây mô tả một nữ thám hiểm băng qua cây cầu dây thừng đang sụp đổ bên cạnh thác nước, với các tín hiệu âm thanh theo dòng thời gian được đồng bộ hóa.
 
 <img src="covers/2098623498922897725.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một nữ thám hiểm trẻ người Mỹ xinh đẹp với mái tóc dài xõa tự nhiên bồng bềnh, mặc trang phục đi bộ đường dài dã ngoại chân thực, đi bốt hầm hố và đeo ba lô, đang cẩn thận băng qua một cây cầu treo bằng dây thừng và gỗ vô cùng cũ kỹ và bấp bênh bắc ngang hai ngọn núi xanh khổng lồ. Một thác nước đồ sộ ầm ầm đổ xuống bên cạnh cây cầu, tạo ra một lượng nước cuồn cuộn khổng lồ và sương mù dày đặc. Hẻm núi bên dưới sâu thẳm khôn lường và vô cùng đáng sợ.
+
+QUAN TRỌNG: Tạo thiết kế âm thanh đồng bộ chân thực, đắm chìm trong suốt toàn bộ 15 giây. Mọi âm thanh phải khớp tự nhiên với hành động hình ảnh và chuyển động của máy quay.
+
+00:00–00:03
+Bắt đầu bằng một cảnh quay thiết lập góc rộng chuẩn điện ảnh về hẻm núi khổng lồ, cây cầu treo bằng dây thừng gỗ mỏng manh và thác nước khổng lồ bên cạnh.
+ÂM THANH:
+
+- Tiếng thác nước gầm rú mạnh mẽ liên tục
+- Tiếng nước chảy xiết nặng nề và tiếng vang vọng từ xa
+- Gió núi thổi mạnh
+- Tiếng dây thừng cọt kẹt tinh tế và chuyển động của cầu gỗ
+- Tiếng chim tự nhiên thoang thoảng rất nhỏ ở đằng xa
+
+Người phụ nữ cẩn thận bước lên cầu.
+Thêm tiếng bước chân bốt đi bộ đường dài chân thực giẫm lên các tấm ván gỗ cũ:
+“THUMP… CREAK… THUMP… CREAK…”
+
+00:03–00:06
+Máy quay di chuyển ra phía sau và hơi chếch lên phía trên cô khi cô tiếp tục đi qua cầu. Mái tóc buông xõa của cô lay động tự nhiên trong gió. Thác nước cuộn trào dữ dội bên cạnh cô.
+ÂM THANH:
+
+- Tiếng bước chân trở nên rõ ràng và nhanh hơn một chút
+- Các tấm ván gỗ rên rỉ dưới sức nặng của cô
+- Tiếng cọt kẹt do lực căng dây thừng
+- Gió rít dữ dội quanh cô
+- Thác nước hùng vĩ liên tục gầm rú phía dưới cảnh quay
+
+00:06–00:09
+Cô đặt chân lên một tấm ván khác cực kỳ cũ kỹ. Đột nhiên tấm ván uốn cong và bắt đầu nứt toác dưới đế bốt của cô.
+THIẾT KẾ ÂM THANH PHẢI TRỞ NÊN DỒN DẬP, KỊCH TÍNH:
+
+- Tiếng gỗ nứt toác lớn: “CRACK… CRACK…”
+- Tiếng gỗ vỡ vụn sắc nhọn
+- Tiếng dây thừng căng đứt và kéo dãn
+- Hơi thở của cô trở nên dồn dập hơn
+- Tiếng thở gấp ngắn ngủi vì sợ hãi
+
+Một vài tấm ván phía trước bắt đầu gãy liên tiếp từng tấm một.
+
+00:09–00:12
+Cô nhận ra toàn bộ cây cầu đang sụp đổ sau lưng mình. Cô chạy thục mạng về phía ngọn núi đối diện trong khi các tấm ván gỗ vỡ vụn và rơi xuống hẻm núi khổng lồ bên dưới.
+ÂM THANH:
+
+- Tiếng bước chân dồn dập đồng bộ: “THUMP-THUMP-THUMP-THUMP”
+- Nhiều tiếng gỗ nứt toác và vỡ vụn vang dội
+- Dây thừng kẽo kẹt dữ dội và đứt phựt
+- Các tấm ván gỗ rơi rít xé gió trong không trung
+- Tiếng gầm của thác nước khổng lồ và tiếng vang trong hẻm núi
+- Tiếng thở đầy sợ hãi của cô
+- Căng thẳng điện ảnh tăng dần
+
+00:12–00:14
+Cô thực hiện một cú nhảy tuyệt vọng cuối cùng và chạm tới nền đất vững chắc ở phía bên kia. Cô quay lại và bàng hoàng chứng kiến phần cầu còn lại đổ sập hoàn toàn xuống hẻm núi thác nước.
+ÂM THANH:
+
+- Một tiếng SNAP gỗ gãy nặng nề cuối cùng
+- Nhiều tấm ván rơi đâm sầm xuống dưới
+- Tiếng đứt trầm đục của dây thừng
+- Tiếng mảnh vỡ khổng lồ rơi vang dội khắp hẻm núi
+- Tiếng nước va đập từ phía xa bên dưới
+
+00:14–00:15
+Cô nhận ra mình đã sống sót. Biểu cảm của cô chuyển từ sợ hãi sang nhẹ nhõm và hạnh phúc tột cùng. Cô mỉm cười, cười khẽ, giơ tay vui sướng và hít một hơi thật sâu thở phào nhẹ nhõm trong khi nhìn vào cây cầu đã bị phá hủy.
+ÂM THANH:
+
+- Thác nước vẫn hiện diện nhưng dịu bớt đôi chút
+- Gió nhẹ lướt qua những ngọn núi
+- Tiếng thở phào nhẹ nhõm của cô
+- Tiếng cười khẽ vui mừng / tiếng thở ra hạnh phúc
+- Âm nhạc điện ảnh nhẹ nhàng, nâng bổng cảm xúc trỗi dậy
+- Kết thúc bằng không gian núi rừng tự nhiên yên bình
+
+Toàn bộ âm thanh phải tạo cảm giác như âm thanh hiện trường thực tế được thu âm trong một hẻm núi khổng lồ. Không có hiệu ứng âm thanh nhân tạo hay hoạt hình. Đồng bộ hóa hình ảnh - âm thanh hoàn hảo, phản xạ âm thanh chân thực, độ vang tự nhiên của hẻm núi, thay đổi âm lượng sống động, âm thanh không gian đắm chìm, tiến trình từ căng thẳng điện ảnh đến nhẹ nhõm thảnh thơi.
+
+Phong cách hình ảnh: cực kỳ chân thực (ultra-photorealistic), giải phẫu người thực tế, biểu cảm khuôn mặt tự nhiên, chuyển động da và tóc chân thực, sự phá hủy của gỗ chính xác theo vật lý, vật lý dây thừng đáng tin cậy, sương mù thác nước chân thực, quy mô núi non ấn tượng, chuyển động máy quay mang tính điện ảnh, HDR, chi tiết 4K.
 ```
 
 [↑ Về danh mục](#catalog)

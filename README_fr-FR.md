@@ -393,20 +393,95 @@ Traduction en cours
 
 <a name="prompt-2098623498922897725"></a>
 
-### Traduction en cours
+### Prompt cinématographique détaillé de 15 secondes décrivant une aventurière traversant un pont de corde suspendu en train de s'effondrer près d'une cascade, avec des repères audio synchronisés sur une chronologie.
 
 Auteur：[@m\_zubaair](https://x.com/m_zubaair) · [Publication originale](https://x.com/m_zubaair/status/2098623498922897725)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt cinématographique détaillé de 15 secondes décrivant une aventurière traversant un pont de corde suspendu en train de s'effondrer près d'une cascade, avec des repères audio synchronisés sur une chronologie.
 
 <img src="covers/2098623498922897725.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une magnifique jeune aventurière américaine aux longs cheveux détachés qui flottent naturellement au vent, vêtue de vêtements de randonnée réalistes, de bottes robustes et portant un sac à dos, traverse avec précaution un pont de corde et de bois extrêmement ancien et instable, suspendu entre deux énormes montagnes verdoyantes. Une cascade colossale se fracasse à côté du pont, générant un énorme volume d'eau tumultueuse et de brume. Le canyon en contrebas est incroyablement profond et terrifiant.
+
+IMPORTANT : Créez un design sonore synchronisé hautement réaliste et immersif tout au long des 15 secondes. Chaque son doit correspondre naturellement à l'action visuelle et au mouvement de la caméra.
+
+00:00–00:03
+Commencez par un plan d'ensemble cinématographique du gigantesque canyon de montagne, du fragile pont de corde et de bois, et de la cascade monumentale à côté.
+SON :
+
+- Rugissement continu et puissant de la cascade
+- Fracas d'eau tumultueuse et écho lointain
+- Fort vent de montagne
+- Léger grincement de cordes et mouvement du pont en bois
+- Cris d'oiseaux naturels très lointains
+
+La femme pose prudemment le pied sur le pont.
+Ajoutez des bruits de pas réalistes de bottes de randonnée heurtant de vieilles planches de bois :
+« THUMP… CREAK… THUMP… CREAK… »
+
+00:03–00:06
+La caméra se déplace derrière elle et légèrement au-dessus tandis qu'elle poursuit sa traversée du pont. Ses cheveux détachés bougent naturellement au vent. La cascade déferle violemment à ses côtés.
+SON :
+
+- Les pas deviennent plus nets et légèrement plus rapides
+- Les planches de bois gémissent sous son poids
+- Grincements dus à la tension des cordes
+- Le vent s'engouffre autour d'elle
+- Cascade puissante qui gronde continuellement sous la scène
+
+00:06–00:09
+Elle pose le pied sur une autre planche extrêmement vieille. Soudain, la planche plie et commence à craquer sous sa botte.
+LE DESIGN SONORE DOIT DEVENIR INTENSE :
+
+- Fort craquement de bois : « CRACK… CRACK… »
+- Bruits aigus de bois qui se brise et s'écharde
+- Sons de cordes qui se tendent et se rompent
+- Sa respiration s'accélère
+- Un bref halètement de terreur
+
+Plusieurs planches devant elle commencent à céder les unes après les autres.
+
+00:09–00:12
+Elle réalise que tout le pont est en train de s'effondrer derrière elle. Elle court désespérément vers la montagne d'en face tandis que les planches de bois se brisent et chutent dans l'immense canyon en contrebas.
+SON :
+
+- Pas rapides et synchronisés : « THUMP-THUMP-THUMP-THUMP »
+- Multiples craquements sonores de bois et bruits d'éclats
+- Cordes grinçant violemment et rompant
+- Planches de bois en chute sifflant dans les airs
+- Fracas massif de la cascade et écho du canyon
+- Sa respiration apeurée
+- Tension cinématographique montante
+
+00:12–00:14
+Elle fait un dernier saut désespéré et atteint la terre ferme de l'autre côté. Elle se retourne et regarde sous le choc le reste du pont s'effondrer complètement dans le canyon de la cascade.
+SON :
+
+- Un dernier craquement de bois puissant
+- De multiples planches s'écrasant vers le bas
+- Rupture sourde d'une corde
+- Énorme écho de débris en chute à travers le canyon
+- Sons d'impact dans l'eau tout en bas
+
+00:14–00:15
+Elle réalise qu'elle a survécu. Son expression passe de la peur au soulagement et à un bonheur purs. Elle sourit, rit doucement, lève les bras avec joie et prend une profonde inspiration de soulagement tout en contemplant le pont détruit.
+SON :
+
+- La cascade reste présente mais légèrement adoucie
+- Le vent souffle doucement à travers les montagnes
+- Sa respiration soulagée
+- Un rire joyeux et discret / expiration de bonheur
+- Légère montée musicale cinématographique et exaltante
+- Finissez sur une ambiance de montagne naturelle et paisible
+
+L'ensemble de la bande sonore doit donner l'impression d'un véritable son capté sur place dans un immense canyon de montagne. Aucun effet sonore artificiel ou caricatural. Parfaite synchronisation audiovisuelle, réverbérations acoustiques réalistes, écho naturel du canyon, variations dynamiques de volume, son spatial immersif, progression cinématographique de la tension vers le soulagement.
+
+Style visuel : ultra-photoréaliste, anatomie humaine réaliste, expressions faciales naturelles, mouvement réaliste de la peau et des cheveux, destruction du bois physiquement exacte, physique crédible des cordes, brume de cascade réaliste, échelle spectaculaire des montagnes, mouvement de caméra cinématographique, HDR, détail 4K.
 ```
 
 [↑ Retour aux catégories](#catalog)

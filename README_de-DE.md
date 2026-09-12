@@ -393,20 +393,95 @@ Kinematisch / Filmstill · Veröffentlicht
 
 <a name="prompt-2098623498922897725"></a>
 
-### Übersetzung läuft
+### Detaillierter 15-sekündiger filmischer Prompt, der eine Abenteurerin beschreibt, die eine einstürzende Seilbrücke neben einem Wasserfall überquert, mit synchronisierten Audio-Hinweisen auf der Zeitachse.
 
 Autor：[@m\_zubaair](https://x.com/m_zubaair) · [Originalbeitrag](https://x.com/m_zubaair/status/2098623498922897725)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Detaillierter 15-sekündiger filmischer Prompt, der eine Abenteurerin beschreibt, die eine einstürzende Seilbrücke neben einem Wasserfall überquert, mit synchronisierten Audio-Hinweisen auf der Zeitachse.
 
 <img src="covers/2098623498922897725.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine wunderschöne junge US-amerikanische Abenteurerin mit langem, offenem, natürlich wehendem Haar, die realistische Outdoor-Wanderkleidung, feste Stiefel und einen Rucksack trägt, überquert vorsichtig eine extrem alte und instabile Hängebrücke aus Holz und Seilen, die zwischen zwei gewaltigen grünen Bergen gespannt ist. Ein gewaltiger Wasserfall stürzt neben der Brücke in die Tiefe und erzeugt eine riesige Menge tosenden Wassers und Nebels. Der Canyon darunter ist unfassbar tief und furchterregend.
+
+WICHTIG: Erstellen Sie über die gesamten 15 Sekunden hinweg ein hochrealistisches, immersives und synchronisiertes Sounddesign. Jedes Geräusch muss sich vollkommen natürlich in die visuelle Handlung und die Kamerabewegung einfügen.
+
+00:00–00:03
+Beginnen Sie mit einer weiten filmischen Etablierungsaufnahme des riesigen Bergcanyons, der fragilen Seil- und Holzbrücke und des gigantischen Wasserfalls daneben.
+TON:
+
+- Kraftvolles, anhaltendes Tosen des Wasserfalls
+- Heftig rauschendes Wasser und entferntes Echo
+- Starker Bergwind
+- Subtiles Knarren der Seile und Bewegung der Holzbrücke
+- Natürliche Vögel ganz schwach in der Ferne
+
+Die Frau tritt vorsichtig auf die Brücke.
+Fügen Sie realistische Wanderstiefelschritte hinzu, die auf alte Holzplanken treffen:
+„THUMP… CREAK… THUMP… CREAK…“
+
+00:03–00:06
+Die Kamera bewegt sich hinter und leicht über sie, während sie weiter über die Brücke geht. Ihr offenes Haar bewegt sich natürlich im Wind. Der Wasserfall tobt gewaltig neben ihr.
+TON:
+
+- Schritte werden deutlicher und etwas schneller
+- Holzplanken stöhnen unter ihrem Gewicht
+- Seilspannung knarrt
+- Wind braust um sie herum
+- Der mächtige Wasserfall tost ununterbrochen unter der Szene
+
+00:06–00:09
+Sie setzt ihren Fuß auf eine weitere extrem alte Planke. Plötzlich biegt sich die Planke und beginnt unter ihrem Stiefel zu bersten.
+DAS SOUNDDESIGN MUSS INTENSIV WERDEN:
+
+- Lautes Holzknacken: „CRACK… CRACK…“
+- Scharfe, splitternde Holzgeräusche
+- Reißen und Dehnen von Seilen
+- Ihre Atmung wird schneller
+- Ein kurzes, ängstliches Nach-Luft-Schnappen
+
+Mehrere Planken vor ihr beginnen nacheinander zu brechen.
+
+00:09–00:12
+Sie begreift, dass die gesamte Brücke hinter ihr einstürzt. Sie rennt verzweifelt auf den gegenüberliegenden Berg zu, während die Holzplanken zerbrechen und in den riesigen Canyon hinabfallen.
+TON:
+
+- Schnelle, synchronisierte Schritte: „THUMP-THUMP-THUMP-THUMP“
+- Mehrfaches lautes Holzknacken und splitternde Geräusche
+- Seile knarren heftig und reißen ab
+- Herabfallende Holzbretter zischen durch die Luft
+- Massives Tosen des Wasserfalls und Canyon-Echo
+- Ihre verängstigte Atmung
+- Zunehmende filmische Spannung
+
+00:12–00:14
+Sie wagt einen letzten verzweifelten Sprung und erreicht festen Boden auf der anderen Seite. Sie dreht sich um und beobachtet unter Schock, wie die verbleibende Brücke vollständig in den Wasserfall-Canyon stürzt.
+TON:
+
+- Ein letztes schweres Knacken des Holzes
+- Mehrere Planken krachen in die Tiefe
+- Tiefes Seilreißen
+- Enorme herabstürzende Trümmer hallen durch den Canyon
+- Geräusche des Aufpralls im Wasser weit unten
+
+00:14–00:15
+Sie begreift, dass sie überlebt hat. Ihr Gesichtsausdruck wandelt sich von Angst in pure Erleichterung und Freude. Sie lächelt, lacht leise auf, reißt freudig die Arme hoch und atmet tief erleichtert durch, während sie auf die zerstörte Brücke blickt.
+TON:
+
+- Wasserfall bleibt präsent, aber leicht abgedämpft
+- Wind weht sanft durch die Berge
+- Ihr erleichtertes Atmen
+- Ein dezentes, freudiges Lachen / erleichtertes Ausatmen
+- Leichtes, erhebendes filmisches Anschwellen der Musik
+- Ende mit einer friedlichen, natürlichen Bergatmosphäre
+
+Der gesamte Soundtrack muss wie echter Vor-Ort-Ton klingen, der in einem riesigen Gebirgscanyon aufgenommen wurde. Keine künstlichen oder cartoonhaften Soundeffekte. Perfekte audiovisuelle Synchronisation, realistische akustische Reflexionen, natürlicher Canyon-Hall, dynamische Lautstärkeänderungen, immersiver Raumklang, filmischer Spannungsaufbau hin zur Erlösung.
+
+Visueller Stil: ultraphotorealistisch, realistische menschliche Anatomie, natürliche Gesichtsausdrücke, realistische Haut- und Haarbewegung, physikalisch akkurate Zerstörung des Holzes, glaubwürdige Seilphysik, realistischer Wasserfallnebel, dramatische Bergdimensionen, filmische Kamerabewegung, HDR, 4K-Detailtiefe.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

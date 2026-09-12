@@ -393,20 +393,95 @@ Traducción en curso
 
 <a name="prompt-2098623498922897725"></a>
 
-### Traducción en curso
+### Detallado prompt cinematográfico de 15 segundos que describe a una aventurera cruzando un puente colgante de cuerdas que colapsa junto a una cascada, con indicaciones de audio sincronizadas en una línea de tiempo.
 
 Autor：[@m\_zubaair](https://x.com/m_zubaair) · [Publicación original](https://x.com/m_zubaair/status/2098623498922897725)
 
 Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Detallado prompt cinematográfico de 15 segundos que describe a una aventurera cruzando un puente colgante de cuerdas que colapsa junto a una cascada, con indicaciones de audio sincronizadas en una línea de tiempo.
 
 <img src="covers/2098623498922897725.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una hermosa y joven aventurera estadounidense con cabello largo, suelto y que ondea naturalmente, vestida con ropa realista de senderismo al aire libre, botas resistentes y una mochila, cruza con cautela un puente de cuerdas y madera sumamente viejo e inestable, suspendido entre dos enormes montañas verdes. Una cascada imponente cae con estruendo junto al puente, produciendo un enorme caudal de agua embravecida y neblina. El cañón que se encuentra debajo es increíblemente profundo y aterrador.
+
+IMPORTANTE: Crear un diseño sonoro sincronizado, altamente realista e inmersivo durante los 15 segundos completos. Cada sonido debe coincidir de forma natural con la acción visual y el movimiento de cámara.
+
+00:00–00:03
+Comienza con un plano general de establecimiento cinematográfico del enorme cañón de montaña, el frágil puente de cuerdas y madera, y la gigantesca cascada a su lado.
+SONIDO:
+
+- Rugido continuo y potente de la cascada
+- Agua torrencial densa y eco lejano
+- Fuerte viento de montaña
+- Crujido sutil de cuerdas y movimiento del puente de madera
+- Aves naturales de forma muy tenue en la distancia
+
+La mujer da un paso cuidadoso sobre el puente.
+Añadir pasos realistas de botas de senderismo pisando tablas viejas de madera:
+“THUMP… CREAK… THUMP… CREAK…”
+
+00:03–00:06
+La cámara se desplaza detrás y ligeramente por encima de ella mientras continúa cruzando el puente. Su cabello suelto se mueve naturalmente con el viento. La cascada corre violentamente a su lado.
+SONIDO:
+
+- Los pasos se vuelven más claros y ligeramente más rápidos
+- Tablas de madera gimiendo bajo su peso
+- Crujidos por la tensión de las cuerdas
+- Viento arremolinándose a su alrededor
+- Potente cascada rugiendo continuamente bajo la escena
+
+00:06–00:09
+Ella apoya el pie en otra tabla sumamente vieja. De repente, la tabla se dobla y comienza a quebrarse bajo su bota.
+EL DISEÑO DE SONIDO DEBE VOLVERSE INTENSO:
+
+- Fuerte crujido de madera: “CRACK… CRACK…”
+- Sonidos agudos de astillamiento de madera
+- Sonidos de cuerdas tensándose y rompiéndose
+- Su respiración se acelera
+- Un breve jadeo de miedo
+
+Varias tablas más adelante comienzan a romperse una tras otra.
+
+00:09–00:12
+Se da cuenta de que todo el puente se está derrumbando detrás de ella. Corre desesperadamente hacia la montaña de enfrente mientras las tablas de madera se rompen y caen al enorme cañón de abajo.
+SONIDO:
+
+- Pasos rápidos y sincronizados: “THUMP-THUMP-THUMP-THUMP”
+- Múltiples crujidos fuertes de madera y sonidos de astillas
+- Cuerdas crujiendo violentamente y reventándose
+- Tablas de madera cayendo y silbando en el aire
+- Masivo rugido de la cascada y eco del cañón
+- Su respiración asustada
+- Creciente tensión cinematográfica
+
+00:12–00:14
+Da un último salto desesperado y alcanza suelo firme al otro lado. Se da la vuelta y observa en estado de shock cómo el resto del puente colapsa por completo en el cañón de la cascada.
+SONIDO:
+
+- Un último chasquido fuerte de madera
+- Múltiples tablas estrellándose hacia abajo
+- Ruptura profunda de cuerda
+- Enorme caída de escombros haciendo eco en el cañón
+- Sonidos de impacto en el agua en lo profundo del fondo
+
+00:14–00:15
+Se da cuenta de que ha sobrevivido. Su expresión cambia del miedo al alivio y la felicidad puros. Sonríe, se ríe suavemente, levanta los brazos con alegría y da un profundo suspiro de alivio mientras mira el puente destruido.
+SONIDO:
+
+- La cascada sigue presente pero ligeramente atenuada
+- Viento moviéndose suavemente a través de las montañas
+- Su respiración aliviada
+- Una sutil risa alegre / exhalación de felicidad
+- Ligero crescendo musical cinematográfico y esperanzador
+- Terminar con un ambiente natural y apacible de montaña
+
+Toda la banda sonora debe sentirse como sonido real de locación grabado en un cañón de montaña masivo. Sin efectos de sonido artificiales ni de caricatura. Sincronización audiovisual perfecta, reflexiones acústicas realistas, reverberación natural de cañón, cambios dinámicos de volumen, sonido espacial inmersivo, progresión cinematográfica de la tensión al alivio.
+
+Estilo visual: ultra-fotorrealista, anatomía humana realista, expresiones faciales naturales, movimiento realista de piel y cabello, destrucción de madera físicamente precisa, física creíble de cuerdas, neblina realista de cascada, escala dramática de montañas, movimiento de cámara cinematográfico, HDR, detalle en 4K.
 ```
 
 [↑ Volver a categorías](#catalog)

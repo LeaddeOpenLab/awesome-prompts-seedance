@@ -379,20 +379,95 @@ Tradução em curso
 
 <a name="prompt-2098623498922897725"></a>
 
-### Tradução em curso
+### Prompt cinematográfico detalhado de 15 segundos que descreve uma aventureira a atravessar uma ponte de corda em colapso junto a uma queda de água, com indicações de áudio sincronizadas na linha temporal.
 
 Autor：[@m\_zubaair](https://x.com/m_zubaair) · [Publicação original](https://x.com/m_zubaair/status/2098623498922897725)
 
 Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt cinematográfico detalhado de 15 segundos que descreve uma aventureira a atravessar uma ponte de corda em colapso junto a uma queda de água, com indicações de áudio sincronizadas na linha temporal.
 
 <img src="covers/2098623498922897725.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma jovem e bela aventureira americana com cabelos compridos, soltos e a ondular naturalmente, vestindo roupa realista de caminhada ao ar livre, botas robustas e uma mochila, atravessa cuidadosamente uma ponte de corda e madeira extremamente antiga e instável suspensa entre duas montanhas verdes colossais. Uma enorme queda de água despenha-se ao lado da ponte, gerando um imenso volume de água torrencial e névoa. O desfiladeiro por baixo é incrivelmente profundo e aterrador.
+
+IMPORTANTE: Crie um desenho de som sincronizado altamente realista e envolvente ao longo de todos os 15 segundos. Cada som deve corresponder naturalmente à ação visual e ao movimento de câmara.
+
+00:00–00:03
+Comece com um plano cinematográfico geral de estabelecimento do enorme desfiladeiro montanhoso, da frágil ponte de corda e madeira e da gigantesca queda de água ao seu lado.
+SOM:
+
+- Rugido possante e contínuo da queda de água
+- Água torrencial intensa e eco distante
+- Vento forte de montanha
+- Ranger subtil das cordas e oscilação da ponte de madeira
+- Sons naturais de aves muito ao longe, ao de leve
+
+A mulher avança com cuidado sobre a ponte.
+Adicione passos realistas de botas de caminhada a bater nas tábuas de madeira envelhecidas:
+“PUM… NHÉC… PUM… NHÉC…”
+
+00:03–00:06
+A câmara move-se para trás e ligeiramente acima dela enquanto ela continua pela ponte fora. O seu cabelo solto move-se com naturalidade ao vento. A queda de água corre com violência ao lado dela.
+SOM:
+
+- Os passos tornam-se mais nítidos e ligeiramente mais rápidos
+- Tábuas de madeira a chiar sob o seu peso
+- Tensão das cordas a ranger
+- Vento a soprar velozmente em redor dela
+- Queda de água potente a rugir continuamente por baixo da cena
+
+00:06–00:09
+Ela pousa o pé sobre outra tábua extremamente velha. De repente, a tábua cede e começa a estalar debaixo da sua bota.
+O DESENHO DE SOM DEVE TORNAR-SE INTENSO:
+
+- Estalar ruidoso de madeira: “CRAC… CRAC…”
+- Sons secos de madeira a estilhaçar
+- Sons de cordas a esticar e a partir-se
+- A respiração dela torna-se mais rápida
+- Um arquejo breve de medo
+
+Várias tábuas mais à frente começam a partir-se, uma após a outra.
+
+00:09–00:12
+Ela percebe que a ponte inteira está a colapsar atrás de si. Corre desesperadamente em direção à montanha oposta enquanto as tábuas de madeira se quebram e caem no enorme desfiladeiro abaixo.
+SOM:
+
+- Passos rápidos sincronizados: “TUF-TUF-TUF-TUF”
+- Múltiplos estalos altos de madeira e sons de estilhaços
+- Cordas a ranger violentamente e a rebentar
+- Tábuas de madeira a cair a assobiar pelo ar
+- Rugido massivo da queda de água e eco do desfiladeiro
+- A sua respiração sobressaltada
+- Tensão cinematográfica crescente
+
+00:12–00:14
+Ela dá um último salto desesperado e alcança chão firme do outro lado. Vira-se e observa em choque enquanto o resto da ponte colapsa por completo no desfiladeiro da queda de água.
+SOM:
+
+- Um forte estalo final de madeira
+- Múltiplas tábuas a despenharem-se em queda livre
+- Estalido grave de corda a partir
+- Eco tremendo de destroços a cair pelo desfiladeiro
+- Sons de impacto na água lá em baixo
+
+00:14–00:15
+Ela compreende que sobreviveu. A sua expressão transforma-se de medo em puro alívio e alegria. Sorri, solta uma gargalhada suave, ergue os braços em celebração e respira fundo e aliviada enquanto contempla a ponte desfeita.
+SOM:
+
+- A queda de água continua presente, embora ligeiramente atenuada
+- Vento a soprar suavemente pelas montanhas
+- A respiração aliviada dela
+- Um riso subtil e alegre / expiração de felicidade
+- Leve crescendo musical cinematográfico e inspirador
+- Termine com um ambiente sonoro pacífico e natural da montanha
+
+Toda a banda sonora deve soar a áudio gravado no local real, num enorme desfiladeiro de montanha. Sem efeitos sonoros artificiais ou de desenhos animados. Sincronização audiovisual perfeita, reflexões acústicas realistas, reverberação natural de desfiladeiro, variações dinâmicas de volume, som espacial imersivo e progressão cinematográfica da tensão ao alívio.
+
+Estilo visual: ultrafotorrealista, anatomia humana realista, expressões faciais naturais, movimento realista da pele e dos cabelos, destruição de madeira fisicamente precisa, física de cordas credível, névoa de queda de água realista, escala dramática da montanha, movimentos de câmara cinematográficos, HDR, detalhe em 4K.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -393,20 +393,95 @@ Traduzione in corso
 
 <a name="prompt-2098623498922897725"></a>
 
-### Traduzione in corso
+### Dettagliato prompt cinematografico di 15 secondi che descrive un'avventuriera mentre attraversa un ponte di corda che crolla accanto a una cascata, con indicazioni audio sincronizzate lungo la timeline.
 
 Autore：[@m\_zubaair](https://x.com/m_zubaair) · [Post originale](https://x.com/m_zubaair/status/2098623498922897725)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Dettagliato prompt cinematografico di 15 secondi che descrive un'avventuriera mentre attraversa un ponte di corda che crolla accanto a una cascata, con indicazioni audio sincronizzate lungo la timeline.
 
 <img src="covers/2098623498922897725.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una bellissima giovane avventuriera americana con lunghi capelli sciolti che fluttuano naturalmente, vestita con realistici abiti da trekking outdoor, stivali robusti e uno zaino, sta attraversando con cautela un ponte di corda e legno estremamente vecchio e instabile, sospeso tra due enormi montagne verdi. Un'imponente cascata si infrange accanto al ponte, sollevando un'enorme quantità di acqua impetuosa e vapore. Il canyon sottostante è incredibilmente profondo e terrificante.
+
+IMPORTANTE: Creare un sound design sincronizzato altamente realistico e immersivo per tutti i 15 secondi. Ogni suono deve sposarsi in modo naturale con l'azione visiva e il movimento della cinepresa.
+
+00:00–00:03
+Inizia con un totale cinematografico che stabilisce l'inquadratura dell'enorme canyon montano, del fragile ponte di corda e legno e della gigantesca cascata accanto ad esso.
+SUONO:
+
+- Potente e continuo boato della cascata
+- Fiume d'acqua impetuoso ed eco lontana
+- Forte vento di montagna
+- Sottile cigolio delle corde e movimento del ponte di legno
+- Uccelli in natura udibili molto debolmente in lontananza
+
+La donna mette con cautela il piede sul ponte.
+Aggiungere passi realistici di scarponi da trekking che calpestano vecchie assi di legno:
+“THUMP… CREAK… THUMP… CREAK…”
+
+00:03–00:06
+La telecamera si sposta dietro e leggermente sopra di lei mentre continua ad avanzare sul ponte. I suoi capelli sciolti si muovono naturalmente nel vento. La cascata scorre violentemente accanto a lei.
+SUONO:
+
+- I passi diventano più distinti e leggermente più veloci
+- Le assi di legno gemono sotto il suo peso
+- Tensione delle corde che cigolano
+- Il vento soffia impetuoso attorno a lei
+- La potente cascata che ruggisce continuamente sotto la scena
+
+00:06–00:09
+Appoggia il piede su un'altra asse estremamente vecchia. All'improvviso l'asse si piega e comincia a spaccarsi sotto il suo scarpone.
+IL SOUND DESIGN DEVE FARSI INTENSO:
+
+- Forte scricchiolio di legno: “CRACK… CRACK…”
+- Suoni netti di legno che si scheggia
+- Suoni di corde che si tendono e si spezzano
+- Il suo respiro si fa affannoso
+- Un breve sussulto di terrore
+
+Diverse assi più avanti iniziano a spezzarsi una dopo l'altra.
+
+00:09–00:12
+Si rende conto che l'intero ponte sta crollando dietro di lei. Corre disperatamente verso la montagna opposta mentre le assi di legno si rompono e precipitano nell'enorme canyon sottostante.
+SUONO:
+
+- Passi rapidi sincronizzati: “THUMP-THUMP-THUMP-THUMP”
+- Molteplici forti scricchiolii di legno e suoni di scheggiature
+- Corde che cigolano violentemente e si strappano
+- Assi di legno in caduta che fischiano nell'aria
+- Boato travolgente della cascata ed eco del canyon
+- Il suo respiro spaventato
+- Tensione cinematografica crescente
+
+00:12–00:14
+Compie un ultimo balzo disperato e raggiunge la terraferma sull'altro lato. Si volta e osserva sconvolta mentre il resto del ponte crolla completamente nel canyon della cascata.
+SUONO:
+
+- Un ultimo schianto pesante di legno
+- Molteplici assi che precipitano con fragore
+- Strappo profondo di una corda
+- L'enorme caduta di detriti riecheggia nel canyon
+- Suoni di impatto con l'acqua nelle profondità sottostanti
+
+00:14–00:15
+Si rende conto di essere sopravvissuta. La sua espressione passa dalla paura a puro sollievo e felicità. Sorride, ride sommessamente, alza le braccia con gioia e fa un profondo sospiro di sollievo mentre guarda il ponte distrutto.
+SUONO:
+
+- La cascata rimane presente ma leggermente attenuata
+- Il vento si muove dolcemente tra le montagne
+- Il suo respiro sollevato
+- Una risata sottile e gioiosa / esalazione felice
+- Leggero crescendo musicale cinematografico ed edificante
+- Termina con una pacifica atmosfera naturale di montagna
+
+L'intera colonna sonora deve dare l'impressione di un suono ambientale reale registrato in un enorme canyon montano. Nessun effetto sonoro finto o cartoonesco. Sincronizzazione audiovisiva perfetta, riflessioni acustiche realistiche, riverbero naturale del canyon, variazioni dinamiche del volume, suono spaziale immersivo, progressione cinematografica dalla tensione al sollievo.
+
+Stile visivo: ultra-fotorealistico, anatomia umana realistica, espressioni facciali naturali, movimento realistico di pelle e capelli, distruzione fisica accurata del legno, fisica verosimile delle corde, foschia realistica della cascata, scala montana drammatica, movimento cinematografico della cinepresa, HDR, dettaglio 4K.
 ```
 
 [↑ Torna alle categorie](#catalog)
