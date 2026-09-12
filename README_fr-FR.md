@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**71** Prompts · Dernier ajout: **2026-09-12**
+**73** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,50 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098777905010778507"></a>
+
+### Traduction en cours
+
+Auteur：[@bmx\_ai13](https://x.com/bmx_ai13) · [Publication originale](https://x.com/bmx_ai13/status/2098777905010778507)
+
+Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098777905010778507.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098748314548134381"></a>
+
+### Traduction en cours
+
+Auteur：[@johnAGI168](https://x.com/johnAGI168) · [Publication originale](https://x.com/johnAGI168/status/2098748314548134381)
+
+Bande dessinée / Storyboard · Photographie · Image cinématographique / Photogramme de film · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098748314548134381.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098590274410950732"></a>
 

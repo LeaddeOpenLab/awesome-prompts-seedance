@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**71** Prompts · Latest addition: **2026-09-12**
+**73** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,200 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098777905010778507"></a>
+
+### A multi-shot cyberpunk rooftop chase between a runner and an armored enforcer in heavy neon rain.
+
+Author：[@bmx\_ai13](https://x.com/bmx_ai13) · [Source](https://x.com/bmx_ai13/status/2098777905010778507)
+
+Cinematic / Film Still · Cyberpunk / Sci-Fi · Published
+
+**Summary:** A multi-shot cyberpunk rooftop chase between a runner and an armored enforcer in heavy neon rain.
+
+<img src="covers/2098777905010778507.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+6 shots, total 30s — 0.0-5.0s, 5.0-10.0s, 10.0-15.0s, 15.0-20.0s, 20.0-25.0s, 25.0-30.0s. Hard cuts, no dissolves. Normal speed throughout, no slow motion, no ramping.\n\nCAPTURE CADENCE — CRITICAL: native 24fps, true 180-degree shutter, real 1/48s exposure every frame. Fluid, continuous motion blur. Never choppy, never juddering. No interpolation, no ghosting, no video look.\n\nNO ON-SCREEN TEXT — CRITICAL: no text of any kind anywhere in frame. No captions, subtitles, titles, credits, watermarks, logos, timecode, UI overlays.\n\nNOBODY ELSE IN FRAME — CRITICAL: no pedestrians, no other rooftop figures, no extras. Only the runner, the enforcer, and one drone are ever visible.\n\nTHE NEON FLARE — CRITICAL: neon signage below strobes the rooftops in hard magenta and cyan flashes throughout. The stepped quality of any lit moment comes entirely from this signage-flicker, never from broken footage — camera motion stays smooth throughout. Falling rain streaks diagonally, screen-right to left.\n\nSubject Lock — the runner: lean wiry build, shaved head, sharp cheekbones, rain-slicked dark skin, clean face, no visible tattoos. Matte black tactical jacket over a compression base layer, fingerless gloves, worn parkour shoes. Carries nothing but bare hands. Sprints rooftop to rooftop toward the city's edge, never breaking stride mid-leap.\n\nSubject Lock — the enforcer: bulky armored build, a featureless matte-grey full-face helmet with a single red visor slit, reinforced shoulder plating, heavy boots. Carries a stun baton crackling with blue arcs. Pursues in a steady mechanical stride, never sprinting, always closing distance.\n\nWorld Plate: a dense cyberpunk rooftop skyline at night in rain — sheet-metal water tanks, tangled cable runs, a gap between towers spanned by a rusted service bridge, neon signage glowing far below through the haze. No other structures present.\n\nTHE ATMOSPHERE — CRITICAL, depth only: heavy rain-haze at high density — runner sharp near, enforcer softened mid-distance, distant towers near-erased far. Reads as thickened wet air only, never a fog-machine look.\n\nSHOT 1 — 0.0-5.0s. THE SPRINT. Low camera at rooftop level, cant 15°, tracking the runner forward. Runner sprints across gravel rooftop, enforcer's baton-glow closing from behind. Runner screen-left sprinting, enforcer screen-right pursuing. Diegetic sound.\n\nSHOT 2 — 5.0-10.0s. THE STRIKE. Camera orbits tight at chest height, cant swinging 15-35°, never square. Baton arcs crackle past the runner's shoulder, runner ducks and shoulder-checks the enforcer's plating. Both centered, rain scattering. Diegetic sound.\n\nSHOT 3 — 10.0-15.0s. THE WATCHER. Cut to a small surveillance drone hovering between towers, its red scan-light sweeping as wind gusts rock it sideways. It corrects and holds position. Drone centered against the neon-lit haze. Diegetic sound.\n\nSHOT 4 — 15.0-20.0s. THE COLLAPSE. Low static camera at the service bridge, whip-panning up as a rusted support strut gives way. The bridge section buckles and drops; the runner leaps clear across the widening gap. Bridge diagonal across frame, runner emerging low center. Diegetic sound.\n\nSHOT 5 — 20.0-25.0s. THE SURGE. Camera drops to rooftop height, rockets forward through a rain corridor lit by a fresh neon flare. Runner sprints hard, jacket soaked, closing the last stretch toward the city's edge. Runner screen-left driving right. Diegetic sound.\n\nSHOT 6 — 25.0-30.0s. THE AFTERMATH. Camera pulls back to a wide static rooftop frame, rain falling straight now, wind dying. The runner stands alone at the tower's edge, chest heaving, as the enforcer's red visor dims below the ledge and it stops advancing. Runner small and centered, collapsed bridge dark behind. Diegetic sound.\n\nCross-Frame Rules: runner's jacket and gloves never change. Enforcer's visor-glow never fully fades until Shot 6. Only runner, enforcer, and drone ever visible. Rain direction stays constant. Bridge keeps the same collapsed shape wherever it appears. Neon-flare applies only inside Shots 1, 2, and 5. No score enters at any point.\n\nLast Frame: the runner stands alone at the rooftop's edge, rain falling straight down, the enforcer's dimmed red visor faint at the frame's edge below, the collapsed bridge looming behind under neon haze. No on-screen text, no logo, no watermark.\n\nSound Bed: diegetic only — heavy rain, the baton's electric crackle, boots pounding gravel, metal groaning and snapping, a drone's faint rotor whine. No score, no subtitles.\n\nCamera & Capture Realism: ~32mm/68° FOV, vintage 2x anamorphic with oval bokeh and streak flares off the neon, shallow depth of field, color-negative rendition, fine grain. Violent handheld — cant swinging 15-45°, punching in and ripping back, every frame mid-move but smooth in its own travel, never locked, never gimbal-glide. No CGI look, no AI smoothness, no video-game HUD, no motion smoothing.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098748314548134381"></a>
+
+### Realistic storyboard video prompt of waking up from a rooftop falling dream and watching fireworks.
+
+Author：[@johnAGI168](https://x.com/johnAGI168) · [Source](https://x.com/johnAGI168/status/2098748314548134381)
+
+Comic / Storyboard · Photography · Cinematic / Film Still · Published
+
+**Summary:** Realistic storyboard video prompt of waking up from a rooftop falling dream and watching fireworks.
+
+<img src="covers/2098748314548134381.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Duration: 24 seconds
+Aspect ratio: 16:9 landscape
+
+Overall style:
+Realistic cinematic short film, a person having a falling dream at night, then waking up startled in a bedroom. The entire film is illuminated by post-nightfall blue-black skies, city lights, and fireworks, with no daytime, sunlight, or golden sunset.
+
+Character Reference:
+Use Image 1 to bind the sole protagonist's appearance, hairstyle, physique, and clothing. Kept consistent between the dream and after waking up.
+The protagonist wears white wired earbuds, not taken off until the ending.
+
+Scene:
+Nighttime high-rise rooftop, the edge is a low, thick, flat-topped solid concrete parapet wall, like a low step that can be stepped onto simply by lifting a foot. No metal railings, no climbing required.
+Outside the building is a glittering city and waterfront; the sky is deep blue bordering on black. The character is illuminated by soft ambient lighting on the rooftop, the face is distinguishable, with city lights and fireworks providing backlight and rim lighting.
+
+Fireworks:
+Beautiful large champagne-gold weeping willow and lavender peony fireworks blooming in batches over the distant city. The complete process of ascent, explosion, and golden fine light cascading down is preserved, with reflections mirrored on the water surface.
+At the same moment the character falls backward, fireworks detonate consecutively in a "bang, bang, bang, bang" rhythm. The blooms are distributed across the night sky on both sides of the character, illuminating the sky and the character's silhouette without obscuring the face.
+
+SHOT 1 (0—7 seconds) Stepping onto the wall from behind, turning to face the camera, falling backward with arms spread
+Subject:
+Character reference protagonist, low solid rooftop parapet wall, nighttime city.
+
+Action:
+0—3 seconds:
+Protagonist's back is to the camera, facing the city outside the building.
+One foot steps onto the low parapet wall first, the other foot follows, standing up straight effortlessly. Hands hang naturally at both sides of the body.
+The camera shoots from behind the character, clearly capturing the character stepping onto the top of the wall, with distant nighttime city lights visible.
+
+3—5 seconds:
+Protagonist turns around while standing on top of the wall, facing the camera.
+Now the protagonist faces the interior of the rooftop, with the nighttime sky outside the building behind them.
+The camera pushes forward, smoothly transitioning from the full-body rear shot to a front-facing upper-body shot after the turn. The protagonist looks at the lens with a calm, slightly dazed expression.
+
+5—7 seconds:
+Facing the camera, the protagonist spreads both arms to the left and right, palms naturally relaxed.
+After arms are spread, the protagonist maintains this posture and falls backward toward the exterior of the building, face still facing the camera, subsequently entering a face-up freefall.
+The very moment the body begins falling backward, beautiful fireworks detonate consecutively in the night sky behind, accompanied by the sounds of "bang, bang, bang, bang."
+
+Environment:
+Deep blue-black night sky, illuminated building clusters, distant waterfront. Parapet wall is low and flat, rooftop lighting is soft, character's face is not a pitch-black silhouette.
+
+Camera:
+The camera stays strictly inside the rooftop, shooting outward toward the building exterior.
+First shooting the character's back and the full-body action of stepping onto the wall; as the character turns, the lens pushes forward to a frontal upper-body shot; the protagonist spreads arms facing the camera and falls backward.
+This section does not orbit behind the character, does not suddenly reverse angle, and does not cut to the side prematurely.
+
+Style:
+Distinct night cinematography, authentic human skin texture. When fireworks light up, soft color shifts briefly appear on the face and clothing, while the background maintains nighttime tonal depth.
+
+Constraints:
+Sequence must strictly be:
+Back to camera stepping onto the wall → turning around to face the camera → frontal upper-body framing → spreading both arms → falling backward → fireworks exploding consecutively at the same time.
+Not turning around while still facing away from the camera, not spreading arms sideways.
+No run-up, no crouching to gather momentum, no jumping upward, no somersaults, no slipping.
+
+SHOT 2 (7—10 seconds) Falling through the night, close-up side profile
+Subject:
+Protagonist falling face-up.
+
+Action:
+7—8 seconds: Cut to a front-three-quarter head-and-shoulders close-up, protagonist continuing the posture with arms spread, face turned upward, hair swept upward by the airflow.
+8—10 seconds: Protagonist continues descending, earphone cords and fabric fluttering in the wind, gaze dazed, lips slightly parted, no violent thrashing. Distant fireworks still blooming consecutively.
+
+Environment:
+Building facades with lit windows streak past rapidly, background consistently remains nighttime. Afterglow of fireworks reflects on hair strands and the side of the face.
+
+Camera:
+Front-three-quarter close-up synchronously tracking downward with the character, keeping the face clear. Building lights streak upward quickly in the background, creating a vertical sense of velocity.
+
+Style:
+Realistic weightlessness and air resistance, character's expression calm, strong background motion.
+
+Constraints:
+Continue the arms-spread posture from the previous shot. Must not become flying, hovering, or horizontal gliding. No daytime architecture or sunlight.
+
+SHOT 3 (10—14 seconds) Frontal fall, street closing in
+Subject:
+Protagonist's full face and upper body, nighttime street below.
+
+Action:
+10—12 seconds: Cut to a frontal tracking close-up shot downward from above the character. Protagonist faces upward toward the camera; rooftops, streetlights, streets, and car headlights behind expand continuously.
+12—14 seconds: Protagonist slowly closes eyes, body continuing to descend. A white car and the road surface below rush in rapidly, cutting to the bedroom before any impact occurs.
+
+Environment:
+Nighttime building clusters and streets; window lights, streetlights, and car lights provide spatial layers; the ground is clearly visible but not at daylight brightness.
+
+Camera:
+The position and scale of the character's face remain stable, while the background rushes in rapidly. Finally locking on a frontal framing with closed eyes, matching into the next shot.
+
+Style:
+Urgency stems from the rapidly approaching ground, swift airflow, and intensifying wind noise, while the character still carries a dreamlike dazedness.
+
+Constraints:
+No hitting the ground, no hitting cars, no injuries appearing. No black screen, white flash, or dissolve warping; direct match cut to the bed.
+
+SHOT 4 (14—18 seconds) Waking startled from the falling dream
+Subject:
+The same protagonist lying in bed in a beautiful bedroom.
+
+Action:
+14—15 seconds: Hard cut to an overhead close-up shot on the bed. Character's face size, position, and angle are similar to the previous shot, with the background becoming a soft pillow.
+The protagonist snaps their eyes open, gasps with an open mouth, shoulders giving a brief startle shudder.
+15—16 seconds: Gaze refocused, breathing rapid, fingers briefly gripping the bedsheet tightly.
+16—18 seconds: Protagonist looks at the familiar bedside environment, realizing they are inside the room. Fingers release, brow relaxes, breathing begins to ease.
+
+Environment:
+Refined apartment bedroom at night. Cream-white linen bedding, soft pillows, walnut headboard, warm-toned wall sconce. Blue nighttime light from the window blends with indoor warm lamps, hair spread across the pillow surface.
+
+Camera:
+Static overhead close-up shot. The camera movement, which was continuous during the dream, becomes instantly stable upon waking.
+
+Style:
+Natural, brief startle reaction, gradually subsiding into calm afterward, without sustained screaming or bug-eyed staring.
+
+Constraints:
+The character is already lying in bed, not crashing into the bedroom from the sky. Clothes and earbuds remain consistent; ceiling and bed remain intact.
+
+SHOT 5 (18—24 seconds) Sitting up, removing earphones, watching fireworks outside the window
+Subject:
+Protagonist, refined bedroom, night view and fireworks outside the window.
+
+Action:
+18—20 seconds: Cut to a wide shot of the bedroom. Protagonist props themselves up with hands on the bed surface to sit up, turns toward the edge of the bed, swings legs outside, placing both feet on the rug.
+20—21 seconds: Protagonist sits steady, bowing head and slowly exhaling a breath.
+21—22 seconds: Protagonist removes both left and right earbuds using both hands, placing hands holding the earbuds in front of the thighs, earphone cords draping naturally.
+22—24 seconds: Sounds of fireworks resonate outside the window once again. Protagonist looks up toward the large window; golden weeping willow fireworks spread across the night sky, with lavender specks of light blooming beside them.
+Watching fireworks similar to those in the dream, the protagonist briefly shows confusion, then shoulders relax, sitting quietly. Holds on a frame where the character's side profile, the beautiful bedroom, and the fireworks outside the window are all visible simultaneously.
+
+Environment:
+Bed and character on the right side of the frame, large picture window located at the back left. Cream-colored bedding, walnut furniture, light-colored rug, sheer curtains, and warm lighting—aesthetic yet lived-in.
+Outside the window is a dark sky, city lights, and reflections on the water, maintaining a night scene.
+
+Camera:
+Static wide shot angled from the foot of the bed, clearly capturing the character's side profile, room layout, and fireworks at the same time. Does not cut to an isolated empty shot of the fireworks.
+
+Style:
+Interior is warm and quiet; fireworks outside the window are gorgeous. Tension after waking from the dream gradually dissipates, concluding with evocative open space.
+
+Constraints:
+Must sit up first, then remove earphones, finally look out the window. Character does not stand up to leave. Fireworks are outdoors in the distance, not obscuring the face, not strobing or overexposed.
+
+Audio:
+No dialogue, no voiceover, no subtitles.
+Opens with low-volume hazy melody, nighttime urban ambient hum, and high-altitude wind.
+5—7 seconds as the character falls backward, fireworks synchronously and consecutively burst with "bang, bang, bang, bang" sounds.
+Wind sounds gradually intensify during the falling sequence, with firework sounds carrying from afar.
+At 14 seconds cutting to the bedroom, falling wind sounds cut off immediately, accentuating the gasp, breathing, and rustling of bedding.
+After removing the earbuds, music turns into faint sound leakage, while outside firework sounds and quiet indoor ambient hum become clearer.
+
+Negative:
+Daytime, bright daylight, golden sunset shining on the face, blue sky and white clouds; metal railings, fences, climbing tall walls, hands propping against the wall, straddling the top of the wall; opening shot facing the character directly, still facing away from the camera after turning, falling before spreading arms, camera orbiting outside the building for no reason, side profile replacing frontal upper body; run-up, gathering momentum to jump, somersaults, slipping, wall collapsing, fireworks striking the character; hovering in mid-air, hitting the ground, hitting cars, gore, penetrating the ceiling, crashing into the bed; face swapping, costume change, earbuds disappearing prematurely, plastic skin, melting facial features, extra limbs, fused fingers, body teleportation; sustained screaming, fireworks covering the face, indoor explosions, overexposed strobe, pitch-black room, corrupted text, watermarks, subtitles.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098590274410950732"></a>
 

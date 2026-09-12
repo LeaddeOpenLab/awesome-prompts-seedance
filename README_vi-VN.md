@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**71** Prompt · Bổ sung mới nhất: **2026-09-12**
+**73** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -326,6 +326,50 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098777905010778507"></a>
+
+### Đang dịch
+
+Tác giả：[@bmx\_ai13](https://x.com/bmx_ai13) · [Bài gốc](https://x.com/bmx_ai13/status/2098777905010778507)
+
+Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098777905010778507.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098748314548134381"></a>
+
+### Đang dịch
+
+Tác giả：[@johnAGI168](https://x.com/johnAGI168) · [Bài gốc](https://x.com/johnAGI168/status/2098748314548134381)
+
+Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098748314548134381.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098590274410950732"></a>
 
