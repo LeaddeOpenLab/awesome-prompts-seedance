@@ -327,20 +327,20 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2098590274410950732"></a>
 
-### Traducción en curso
+### Duelo cinematográfico de artes marciales orientales en un bosque de bambú entre un maestro de la espada con túnica carmesí y tres asesinos con sombreros de paja.
 
 Autor：[@rachses2](https://x.com/rachses2) · [Publicación original](https://x.com/rachses2/status/2098590274410950732)
 
 Cine / Fotograma de película · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Duelo cinematográfico de artes marciales orientales en un bosque de bambú entre un maestro de la espada con túnica carmesí y tres asesinos con sombreros de paja.
 
 <img src="covers/2098590274410950732.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Genera un cortometraje de 30 segundos, 16:9, 24 fps dedicado a una coreografía de artes marciales orientales tradicionales ultrarrápida. Imagen real fotorrealista de calidad cinematográfica de alto presupuesto + calidad AAA. Sin subtítulos, sin interfaz de usuario, sin logotipos, sin voz en off, sin música de fondo: conserva únicamente chasquidos de tallos de bambú, susurro de hojas, chasquidos de telas de seda, silbidos de hojas de espada, pisadas firmes y ágiles sobre ramas delgadas, desvíos metálicos, golpes contundentes en el torso, barridos rápidos de cámara (whip pans) y exhalaciones bruscas. Personajes Protagonista: Asesino solitario con túnica carmesí, una sola espada recta de doble filo (Jian), fajín de seda flexible, postura tranquila y letal. Asesinos (3 asesinos con sombreros de paja): Túnicas idénticas de color gris oscuro, sombreros cónicos de bambú que ocultan los ojos. Armas distintas: Asesino A (hoz con cadena/kusarigama), Asesino B (espadas de gancho dobles), Asesino C (bastón de hierro pesado). Núcleo y Acción Agilidad máxima, movimientos entre el follaje que desafían la gravedad y ataques multidireccionales implacables. El primer fotograma comienza con los tres asesinos cayendo simultáneamente desde lo alto del dosel de bambú. Presenta un juego de pies ligero para trepar a los árboles, deslizamientos por tallos de bambú curvados, desvíos de armas en el aire, giros envolventes con el fajín y bloqueos rápidos cuerpo a cuerpo mientras están suspendidos en ramas oscilantes. Rampa de velocidad única Una única microdesaceleración de 0,12 segundos en la marca de los 4 segundos: la hoz con cadena del Asesino A se enrolla alrededor de un tallo de bambú a centímetros de la garganta del protagonista, mostrando fragmentos de corteza volando, tensión en la cadena y la mirada fría del protagonista siguiendo la hoja antes de cortar la cadena en el aire. Cámara y Entorno Inclinaciones verticales de cámara que inducen al vértigo, tomas de seguimiento rápidas a través de densos tallos de bambú, lente gran angular siguiendo caídas hacia abajo, temblor de cámara con los impactos pesados del bastón. El entorno reacciona violentamente: cientos de hojas verdes estallando en ráfagas de viento, tallos de bambú partiéndose bajo la presión de los pies, densa niebla arremolinándose alrededor de cambios bruscos de dirección. Secuencia Final El protagonista se apoya en el bastón del Asesino C para ganar elevación, ejecuta un corte giratorio invertido descendente de 720° que corta las espadas de gancho de B y desarma a A, luego cae directamente detrás de C para una estocada inversa rápida a la altura del cuello. El fotograma final captura las túnicas carmesí asentándose mientras los tallos de bambú rotos se derrumban alrededor del solitario vencedor.
 ```
 
 [↑ Volver a categorías](#catalog)

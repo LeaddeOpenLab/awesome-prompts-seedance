@@ -327,20 +327,38 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2098590274410950732"></a>
 
-### Traduction en cours
+### Duel cinématographique d'arts martiaux orientaux dans une forêt de bambous entre un maître de l'épée en robe cramoisie et trois assassins aux chapeaux de paille.
 
 Auteur：[@rachses2](https://x.com/rachses2) · [Publication originale](https://x.com/rachses2/status/2098590274410950732)
 
 Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Duel cinématographique d'arts martiaux orientaux dans une forêt de bambous entre un maître de l'épée en robe cramoisie et trois assassins aux chapeaux de paille.
 
 <img src="covers/2098590274410950732.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Générez un court métrage de 30 secondes, 16:9, 24 ips dédié à une chorégraphie d'arts martiaux orientaux traditionnels ultra-rapide. Prise de vue réelle photoréaliste de calibre cinéma à gros budget + qualité cinématographique AAA. Pas de sous-titres, pas d'interface utilisateur, pas de logos, pas de voix off, pas de musique de fond — ne conservez que les craquements des tiges de bambou, le bruissement des feuilles, le claquement du tissu de soie, les sifflements de lames, les bruits de pas secs sur de fines branches, les déviations métalliques, les coups lourds portés au torse, les panoramiques filés et les expirations aiguës.
+
+Personnages
+
+Protagoniste : Assassin solitaire en robe cramoisie, une seule épée droite à double tranchant (Jian), ceinture de soie souple, posture calme et létale.
+
+Assassins (3 assassins aux chapeaux de paille) : Robes gris foncé identiques, chapeaux coniques en bambou cachant les yeux. Armes distinctes : Assassin A (faucille à chaîne/Kusarigama), Assassin B (doubles épées à crochet), Assassin C (lourd bâton de fer).
+
+Cœur & Action
+Agilité maximale, mouvements défiant la gravité à travers le feuillage et attaques multidirectionnelles incessantes. Le premier plan s'ouvre sur les trois assassins se laissant tomber simultanément depuis la haute canopée de bambous. Comprend un jeu de jambes agile pour escalader les arbres, des glissades le long de tiges de bambou courbées, des déviations d'armes en plein vol, des enroulements de ceinture tournoyante et des parades rapides au corps à corps tout en étant suspendus à des branches oscillantes.
+
+Rampe de vitesse unique
+Un unique micro-ralenti de 0,12 seconde à la marque des 4 secondes : la faucille à chaîne de l'assassin A s'enroule autour d'une tige de bambou à quelques centimètres de la gorge du protagoniste, montrant des fragments d'écorce voltiger, la tension sur la chaîne et le regard froid du protagoniste suivant la lame avant de trancher la chaîne en plein vol.
+
+Caméra & Environnement
+Plongées et contre-plongées verticales vertigineuses, plans de suivi rapides à travers les tiges denses de bambou, objectif grand-angle suivant les chutes vers le bas, tremblement de caméra lors des impacts lourds du bâton. L'environnement réagit violemment : des centaines de feuilles vertes explosant dans des bourrasques de vent, des tiges de bambou se brisant sous la pression des pieds, un épais brouillard tourbillonnant autour des changements soudains de direction.
+
+Séquence de fin
+Le protagoniste prend appui sur le bâton d'assaut de l'assassin C pour prendre de la hauteur, exécute une fente tournoyante descendante inversée à 720° qui tranche les épées à crochet de B et désarme A, puis retombe directement derrière C pour un coup d'estoc inversé rapide à la gorge. Le plan final capture les robes cramoisies qui retombent tandis que des tiges de bambou brisées s'écrasent autour du vainqueur solitaire.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -327,20 +327,38 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2098590274410950732"></a>
 
-### Traduzione in corso
+### Duello cinematografico di arti marziali orientali in una foresta di bambù tra un maestro di spada in veste cremisi e tre assassini con cappello di paglia.
 
 Autore：[@rachses2](https://x.com/rachses2) · [Post originale](https://x.com/rachses2/status/2098590274410950732)
 
 Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Duello cinematografico di arti marziali orientali in una foresta di bambù tra un maestro di spada in veste cremisi e tre assassini con cappello di paglia.
 
 <img src="covers/2098590274410950732.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Genera un cortometraggio di 30 secondi, 16:9, a 24 fps dedicato a una coreografia ultraveloce di arti marziali orientali tradizionali. Live-action fotorealistico ad alto budget per il cinema + qualità cinematografica AAA. Niente sottotitoli, niente interfaccia utente, niente loghi, niente voce fuori campo, niente musica di sottofondo: mantieni solo il frantumarsi delle canne di bambù, il fruscio delle foglie, lo schiocco del tessuto di seta, i sibili delle lame, i passi netti sui rami sottili, le deviazioni metalliche, i colpi pesanti al busto, le panoramiche a schiaffo e le esalazioni brusche.
+
+Personaggi
+
+Protagonista: Assassino solitario in veste cremisi, singola spada dritta a doppio filo (Jian), fascia di seta flessibile, postura calma e letale.
+
+Assassini (3 assassini con cappello di paglia): Vesti identiche grigio scuro, cappelli conici di bambù che nascondono gli occhi. Armi distinte: Assassino A (falce con catena/Kusarigama), Assassino B (doppie spade a gancio), Assassino C (pesante bastone di ferro).
+
+Cuore e azione
+Massima agilità, movimenti tra il fogliame che sfidano la gravità e implacabili attacchi multidirezionali. Il primo fotogramma si apre con tutti e tre gli assassini che si lanciano simultaneamente dall'alta chioma di bambù. Include passi leggeri per arrampicarsi sugli alberi, scivolate lungo canne di bambù piegate, deviazioni di armi a mezz'aria, avvolgimenti vorticosi della fascia e rapide parate a distanza ravvicinata mentre si è sospesi su rami oscillanti.
+
+Rampa di velocità una tantum
+Un singolo micro-rallentamento di 0,12 secondi al secondo 4: la falce con catena dell'Assassino A si avvolge attorno a una canna di bambù a pochi centimetri dalla gola del protagonista, mostrando frammenti di corteccia che volano, tensione sulla catena e lo sguardo freddo del protagonista che traccia la lama prima di tagliare la catena a mezz'aria.
+
+Telecamera e ambiente
+Inclinazioni verticali della telecamera che inducono vertigini, rapide riprese di tracciamento attraverso le fitte canne di bambù, obiettivo grandangolare che segue le cadute verso il basso, vibrazioni della telecamera sui colpi pesanti del bastone. L'ambiente reagisce violentemente: centinaia di foglie verdi che esplodono in raffiche di vento, canne di bambù che si spezzano sotto la pressione dei piedi, nebbia fitta che vortica attorno a improvvisi cambi di direzione.
+
+Sequenza finale
+Il protagonista fa leva sul bastone proteso dell'Assassino C per guadagnare quota, esegue un fendente rotante invertito a 720° verso il basso che recide le spade a gancio di B e disarma A, poi scende direttamente dietro a C per una rapida stoccata inversa all'altezza del collo. L'ultimo fotogramma cattura le vesti cremisi che si ricompongono mentre le canne di bambù spezzate cadono al suolo attorno al vincitore solitario.
 ```
 
 [↑ Torna alle categorie](#catalog)

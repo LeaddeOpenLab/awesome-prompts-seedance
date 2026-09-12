@@ -329,20 +329,20 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2098590274410950732"></a>
 
-### Đang dịch
+### Màn quyết đấu võ thuật phương Đông đậm chất điện ảnh trong rừng trúc giữa kiếm khách áo đỏ thẫm và ba sát thủ đội nón lá.
 
 Tác giả：[@rachses2](https://x.com/rachses2) · [Bài gốc](https://x.com/rachses2/status/2098590274410950732)
 
 Điện ảnh / Ảnh tĩnh từ phim · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Màn quyết đấu võ thuật phương Đông đậm chất điện ảnh trong rừng trúc giữa kiếm khách áo đỏ thẫm và ba sát thủ đội nón lá.
 
 <img src="covers/2098590274410950732.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bộ phim ngắn 30 giây, tỉ lệ 16:9, 24fps dành riêng cho những pha biên đạo võ thuật truyền thống phương Đông siêu tốc. Chất lượng người đóng chân thực chuẩn điện ảnh kinh phí cao + chất lượng điện ảnh AAA. Không phụ đề, không UI, không logo, không lồng tiếng, không BGM—chỉ giữ lại tiếng thân trúc gãy, tiếng lá xào xạc, tiếng vải lụa vung giật, tiếng lưỡi kiếm xé gió, tiếng bước chân lướt sắc bén trên cành mảnh, tiếng kim loại va đập phản hồi, tiếng đánh mạnh vào thân người, cú lia máy nhanh (whip pans) và tiếng thở dốc dứt khoát. Nhân vật Nhân vật chính: Sát thủ độc hành áo choàng đỏ thẫm, một thanh kiếm thẳng hai lưỡi (Kiếm/Jian), dải lụa mềm quấn eo, tư thế điềm tĩnh đầy sát khí. Các sát thủ (3 sát thủ đội nón lá): Áo choàng màu xám đậm giống nhau, nón lá trúc hình chóp che khuất mắt. Vũ khí riêng biệt: Sát thủ A (Liềm xích/Kusarigama), Sát thủ B (Song câu kiếm), Sát thủ C (Thiết bổng nặng). Cốt lõi & Hành động Độ linh hoạt tối đa, chuyển động đạp ngọn cây bất chấp trọng lực và các đòn tấn công đa hướng dồn dập không ngừng. Khung hình đầu tiên mở ra với cảnh cả ba sát thủ đồng loạt lao xuống từ tán trúc trên cao. Thể hiện khinh công leo cây, trượt xuống dọc theo các thân trúc uốn cong, chuyển hướng vũ khí giữa không trung, vung dải lụa quấn siết và liên tục đỡ gạt cận chiến tốc độ cao khi đang thăng bằng trên các nhánh cây đung đưa. Một lần biến đổi tốc độ Duy nhất một khoảnh khắc làm chậm vi mô 0,12 giây ở giây thứ 4: Liềm xích của Sát thủ A quấn quanh một thân trúc chỉ cách cổ họng nhân vật chính vài inch, hiển thị rõ các mảnh vỏ cây bắn ra, độ căng của xích và ánh mắt lạnh lùng của nhân vật chính dõi theo lưỡi liềm trước khi chém đứt xích giữa không trung. Máy quay & Môi trường Góc nghiêng máy quay thẳng đứng gây cảm giác chóng mặt, các cảnh quay bám sát tốc độ cao xuyên qua rừng trúc rậm rạp, ống kính góc rộng theo sát cú rơi xuống, rung lắc máy quay khi thiết bổng va đập dữ dội. Môi trường phản ứng mãnh liệt: hàng trăm lá xanh nổ tung trong luồng gió lốc, thân trúc gãy rắc dưới lực đạp chân, sương mù dày đặc cuộn xoáy quanh những cú đổi hướng đột ngột. Trình tự kết thúc Nhân vật chính đạp lên cú đâm thiết bổng của Sát thủ C để lấy độ cao, thực hiện cú xoay người lộn ngược 720° chém xuống chém đứt song câu của B và tước vũ khí của A, sau đó đáp xuống ngay phía sau C tung một đòn đâm ngược hiểm hóc ngang cổ. Khung hình cuối cùng ghi lại vạt áo choàng đỏ thẫm buông rủ tĩnh lặng khi các thân trúc gãy đổ rạp xung quanh người chiến thắng duy nhất.
 ```
 
 [↑ Về danh mục](#catalog)

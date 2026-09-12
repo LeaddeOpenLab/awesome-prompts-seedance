@@ -313,20 +313,38 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2098590274410950732"></a>
 
-### Tradução em andamento
+### Duelo cinematográfico de artes marciais orientais em floresta de bambu entre um mestre da espada de vestes carmesim e três assassinos de chapéu de palha.
 
 Autor：[@rachses2](https://x.com/rachses2) · [Publicação original](https://x.com/rachses2/status/2098590274410950732)
 
 Cinematográfico / Imagem de Filme · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Duelo cinematográfico de artes marciais orientais em floresta de bambu entre um mestre da espada de vestes carmesim e três assassinos de chapéu de palha.
 
 <img src="covers/2098590274410950732.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Gere um curta-metragem de 30 segundos, 16:9, 24fps dedicado à coreografia de artes marciais orientais tradicionais ultrarrápida. Live-action fotorrealista teatral de alto orçamento + qualidade cinematográfica AAA. Sem legendas, sem interface de usuário, sem logotipos, sem narração, sem música de fundo (BGM)—mantenha apenas estalos de caules de bambu, farfalhar de folhas, estalos de tecido de seda, zunidos de lâminas, toques firmes dos pés em galhos esguios, deflexões metálicas, golpes pesados no tronco, whip pans e expirações bruscas.
+
+Personagens
+
+Protagonista: Assassino solitário em vestes carmesim, espada reta de dois gumes única (Jian), faixa de seda flexível, postura letal serena.
+
+Assassinos (3 Assassinos de Chapéu de Palha): Vestes cinza-escuro idênticas, chapéus cônicos de bambu ocultando os olhos. Armas distintas: Assassino A (foice com corrente/Kusarigama), Assassino B (espadas-gancho duplas), Assassino C (bastão de ferro pesado).
+
+Núcleo e Ação
+Agilidade máxima, movimento desafiador da gravidade sobre a folhagem e ataques multidirecionais implacáveis. O primeiro quadro abre com todos os três assassinos caindo simultaneamente da copa alta de bambus. Apresenta passos leves escalando árvores, deslizamentos por caules de bambu curvados, redirecionamentos de armas no ar, giros com a faixa de seda e aparadas rápidas em combate corpo a corpo suspensos em galhos oscilantes.
+
+Speed Ramp Único
+Uma única microdesaceleração de 0,12 segundos na marca de 4 segundos: a foice com corrente do Assassino A se enrola em um caule de bambu a centímetros da garganta do protagonista, mostrando fragmentos de casca voando, tensão na corrente e o olhar frio do protagonista acompanhando a lâmina antes de cortar a corrente em pleno ar.
+
+Câmera e Ambiente
+Inclinações verticais de câmera vertiginosas, tomadas de rastreamento rápidas através de densos caules de bambu, lente grande-angular rastreando quedas descendentes, câmera tremendo com os impactos pesados do bastão. O ambiente reage violentamente: centenas de folhas verdes explodindo em rajadas de vento, caules de bambu quebrando sob a pressão dos pés, névoa espessa rodopiando em torno de mudanças bruscas de direção.
+
+Sequência Final
+O protagonista pisa no bastão estocado do Assassino C para ganhar elevação, executa um corte giratório invertido de 720° para baixo que corta as espadas-gancho de B e desarma A, em seguida cai diretamente atrás de C para um estocada reversa rápida na altura do pescoço. O quadro final captura as vestes carmesim assentando enquanto caules de bambu quebrados desabam ao redor do único vencedor.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -313,20 +313,38 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2098590274410950732"></a>
 
-### Çeviri sürüyor
+### Kızıl cübbeli bir kılıç ustası ile üç hasır şapkalı suikastçı arasında bambu ormanında geçen sinematik Doğu dövüş sanatları düellosu.
 
 Yazar：[@rachses2](https://x.com/rachses2) · [Orijinal gönderi](https://x.com/rachses2/status/2098590274410950732)
 
 Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kızıl cübbeli bir kılıç ustası ile üç hasır şapkalı suikastçı arasında bambu ormanında geçen sinematik Doğu dövüş sanatları düellosu.
 
 <img src="covers/2098590274410950732.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ultra hızlı geleneksel Doğu dövüş sanatları koreografisine adanmış 30 saniyelik, 16:9, 24fps bir kısa film oluşturun. Yüksek bütçeli sinematik fotogerçekçi canlı çekim + AAA sinematik kalite. Altyazı yok, kullanıcı arayüzü yok, logo yok, dış ses yok, arka plan müziği yok—yalnızca kırılan bambu sapları, hışırdayan yapraklar, şaklayan ipek kumaş, kılıç vızıltıları, ince dallara basan ayakların keskin sesleri, metalik kılıç çarpmaları, gövdeye inen ağır darbeler, kamçı hareketli kamera kaydırmaları (whip pan) ve keskin nefes verişler korunsun.
+
+Karakterler
+
+Başrol: Kızıl cübbeli yalnız suikastçı, tek bir çift ağızlı düz kılıç (Jian), esnek ipek kuşak, sakin ve ölümcül bir duruş.
+
+Suikastçılar (3 Hasır Şapkalı Suikastçı): Birbirinin aynı koyu gri cübbeler, gözleri gizleyen konik bambu şapkalar. Farklı silahlar: Suikastçı A (Zincirli orak/Kusarigama), Suikastçı B (Çift kanca kılıç), Suikastçı C (Ağır demir asa).
+
+Öz ve Aksiyon
+Maksimum çeviklik, yer çekimine meydan okuyan yaprak üzeri hareketler ve dur durak bilmeyen çok yönlü saldırılar. İlk kare, üç suikastçının da yüksek bambu örtüsünden aynı anda aşağı düşmesiyle açılır. Hafif adımlarla ağaca tırmanma, eğilmiş bambu saplarından aşağı kayma, havada silah yönlendirmeleri, dönerek yapılan kuşak sarmaları ve sallanan dallarda asılıyken yakın mesafeden yapılan seri savuşturmalar içerir.
+
+Tek Seferlik Hız Rampası (Speed Ramp)
+4. saniyede tek bir 0,12 saniyelik mikro yavaşlama: Suikastçı A'nın zincirli orağı, başrolün boğazına santimetreler kala bir bambu sapına dolanır; uçuşan kabuk parçalarını, zincirdeki gerilimi ve başrolün havada zinciri kesmeden önce soğuk bakışlarla bıçağı takip edişini gösterir.
+
+Kamera ve Çevre
+Baş dönmesi hissi veren dikey kamera eğilmeleri (tilt), yoğun bambu sapları arasında hızlı takip çekimleri, aşağı yönlü düşüşleri takip eden geniş açılı lens, ağır asa darbelerinde sarsılan kamera. Çevre şiddetle tepki verir: rüzgâr patlamalarıyla savrulan yüzlerce yeşil yaprak, ayak baskısıyla kırılan bambu sapları, ani yön değişikliklerinin etrafında dönen yoğun sis.
+
+Bitiş Sekansı
+Başrol, yükseklik kazanmak için Suikastçı C'nin saplama hamlesi yapan asasına basar, aşağı doğru 720° ters dönerek B'nin kanca kılıçlarını kesip A'yı silahsızlandıran bir vuruş yapar, ardından boyun hizasında hızlı bir ters saplama için doğrudan C'nin arkasına iner. Son kare, kırılan bambu sapları tek galibin etrafına yıkılırken durulan kızıl cübbeleri yakalar.
 ```
 
 [↑ Kategorilere dön](#catalog)

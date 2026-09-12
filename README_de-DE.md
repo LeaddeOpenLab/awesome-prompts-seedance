@@ -327,20 +327,38 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2098590274410950732"></a>
 
-### Übersetzung läuft
+### Filmreifes fernöstliches Kampfkunst-Duell im Bambuswald zwischen einem Schwertmeister im karmesinroten Gewand und drei Assassinen mit Strohhüten.
 
 Autor：[@rachses2](https://x.com/rachses2) · [Originalbeitrag](https://x.com/rachses2/status/2098590274410950732)
 
 Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmreifes fernöstliches Kampfkunst-Duell im Bambuswald zwischen einem Schwertmeister im karmesinroten Gewand und drei Assassinen mit Strohhüten.
 
 <img src="covers/2098590274410950732.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 30-sekündigen Kurzfilm im Format 16:9 mit 24 fps, der einer ultraschnellen traditionellen fernöstlichen Kampfkunst-Choreografie gewidmet ist. Großbudget-Kinoqualität, fotorealistischer Live-Action-Stil + AAA-Kinostandard. Keine Untertitel, keine Benutzeroberfläche, keine Logos, kein Voiceover, keine Hintergrundmusik – behalte nur das Knacken von Bambushalmen, raschelnde Blätter, peitschende Seidenstoffe, zischende Klingen, scharfe Schritte auf schlanken Ästen, metallische Abpraller, schwere Rumpftreffer, Peitschenschwenks und scharfes Ausatmen bei.
+
+Charaktere
+
+Protagonist: Einzelschwertkämpfer/Assassine im karmesinroten Gewand, einzelnes zweischneidiges gerades Schwert (Jian), flexible Seidenschärpe, ruhige, tödliche Haltung.
+
+Assassinen (3 Assassinen mit Strohhüten): Identische dunkelgraue Gewänder, konische Bambushüte, die ihre Augen verbergen. Unterschiedliche Waffen: Assassine A (Kettensichel/Kusarigama), Assassine B (Doppelhakenschwerter), Assassine C (schwerer Eisenstab).
+
+Kern & Action
+Maximale Agilität, der Schwerkraft trotzende Bewegungen im Blätterdach und unerbittliche Angriffe aus mehreren Richtungen. Der erste Frame beginnt damit, dass sich alle drei Assassinen gleichzeitig aus dem hohen Bambusdach herabfallen lassen. Beinhaltet leichtfüßiges Baumklettern, das Herabgleiten an gebogenen Bambushalmen, das Umlenken von Waffen in der Luft, wirbelnde Schärpenwickel und schnelle Nahkampf-Paraden, während sie auf schwankenden Ästen balancieren.
+
+Einmalige Geschwindigkeitsrampe
+Eine einzige 0,12-sekündige Mikroverlangsamung bei der 4-Sekunden-Marke: Die Kettensichel von Assassine A wickelt sich Zentimeter vor der Kehle des Protagonisten um einen Bambushalm und zeigt umherfliegende Rindenfragmente, Spannung auf der Kette und den kalten Blick des Protagonisten, der die Klinge verfolgt, bevor er die Kette in der Luft durchtrennt.
+
+Kamera & Umgebung
+Schwindelerregende vertikale Kameraneigungen, schnelle Verfolgungsaufnahmen durch dichte Bambushalme, Weitwinkelobjektiv zur Verfolgung von Stürzen nach unten, Kamerawackeln bei schweren Schlägen des Stabs. Die Umgebung reagiert heftig: Hunderte grüner Blätter explodieren in Windstößen, Bambushalme brechen unter dem Druck der Füße, dichter Nebel wirbelt um plötzliche Richtungswechsel.
+
+Endsequenz
+Der Protagonist stößt sich vom vorstoßenden Stab von Assassine C ab, um an Höhe zu gewinnen, führt einen nach unten gerichteten, invertierten 720°-Drehhieb aus, der die Hakenschwerter von B zertrennt und A entwaffnet, und fällt dann direkt hinter C für einen schnellen Rückwärtsstoß auf Halshöhe. Der letzte Frame fängt das sich beruhigende karmesinrote Gewand ein, während zerbrochene Bambushalme um den einsamen Sieger herabstürzen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
