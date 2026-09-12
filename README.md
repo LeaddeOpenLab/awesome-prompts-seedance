@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**64** Prompts · Latest addition: **2026-09-12**
+**65** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -2070,6 +2070,36 @@ Futuristic anime sci-fi concept art, near-future mecha design, hard-surface mech
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2098590744080757223"></a>
+
+### 3D animated scene prompt: depicting a heartwarming scene of an adorable plush otter sitting on an office swivel chair drinking iced coffee with a straw.
+
+Author：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Source](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
+
+3D Render · Character · Food / Drink · Published
+
+**Summary:** 3D animated scene prompt: depicting a heartwarming scene of an adorable plush otter sitting on an office swivel chair drinking iced coffee with a straw.
+
+<img src="covers/2098590744080757223.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a high-quality, ultra-detailed 3D animated scene featuring the same adorable chubby otter-like character with soft gray-brown fur, a creamy white belly and muzzle, tiny rounded ears, glossy black eyes, a small dark nose, rosy cheeks, short paws, and cute visible paw pads. The character has a soft plush-toy appearance, rounded proportions, and an innocent happy expression.
+
+Place the character sitting comfortably in a modern black ergonomic office chair. The character is holding and drinking an iced coffee in a transparent plastic cup with a straw, with both paws wrapped naturally around the cup. Keep the character centered and prominent in the frame.
+
+Set the scene inside a bright modern office with rows of beige-gray cubicles, computer monitors, large windows, soft daylight, polished floors, and subtle office details in the background. Use shallow depth of field so the character remains sharply focused while the background is softly blurred.
+
+Make the image feel like a premium animated movie still: highly detailed soft fur, realistic fabric and plastic textures, expressive glossy eyes, natural soft lighting, cinematic composition, realistic shadows, subtle ambient occlusion, polished 3D rendering, adorable whimsical mood, clean composition, professional animation quality, high resolution, vertical 9:16 composition.
+
+Important: Preserve the exact same character design and proportions throughout, with no humans in the foreground, no text, no logos, no watermark, and no distorted anatomy.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098371778234179766"></a>
 

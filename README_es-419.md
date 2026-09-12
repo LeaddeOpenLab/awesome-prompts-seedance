@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**64** Prompts · Última incorporación: **2026-09-12**
+**65** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1636,6 +1636,28 @@ Arte conceptual de ciencia ficción anime futurista, diseño de mecha de futuro 
 <a name="category-3d-render"></a>
 
 ## Renderizado 3D
+
+<a name="prompt-2098590744080757223"></a>
+
+### Traducción en curso
+
+Autor：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Publicación original](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
+
+Renderizado 3D · Personaje · Comida y bebida · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098590744080757223.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098371778234179766"></a>
 

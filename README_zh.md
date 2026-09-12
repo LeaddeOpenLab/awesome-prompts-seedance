@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**64** 条内容 · 最新收录: **2026-09-12**
+**65** 条内容 · 最新收录: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1773,6 +1773,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-3d-render"></a>
 
 ## 3D 渲染
+
+<a name="prompt-2098590744080757223"></a>
+
+### 翻译中
+
+作者：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [查看 X 原帖](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
+
+3D 渲染 · 角色 · 食品 / 饮料 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098590744080757223.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098371778234179766"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**64** 筆內容 · 最新收錄: **2026-09-12**
+**65** 筆內容 · 最新收錄: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1771,6 +1771,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-3d-render"></a>
 
 ## 3D 渲染
+
+<a name="prompt-2098590744080757223"></a>
+
+### 翻譯中
+
+作者：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [查看 X 原帖](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
+
+3D 渲染 · 角色 · 食物 / 飲品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2098590744080757223.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098371778234179766"></a>
 

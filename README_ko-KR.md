@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**64** 개 · 최근 추가: **2026-09-12**
+**65** 개 · 최근 추가: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1776,6 +1776,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-3d-render"></a>
 
 ## 3D 렌더링
+
+<a name="prompt-2098590744080757223"></a>
+
+### 번역 중
+
+작성자：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [원본 게시물](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
+
+3D 렌더링 · 캐릭터 · 음식 / 음료 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2098590744080757223.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2098371778234179766"></a>
 

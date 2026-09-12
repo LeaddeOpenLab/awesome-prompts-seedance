@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**64** Prompt · Ultima aggiunta: **2026-09-12**
+**65** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1636,6 +1636,28 @@ Concept art anime sci-fi futuristico, design di mecha del prossimo futuro, detta
 <a name="category-3d-render"></a>
 
 ## Rendering 3D
+
+<a name="prompt-2098590744080757223"></a>
+
+### Traduzione in corso
+
+Autore：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Post originale](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
+
+Rendering 3D · Personaggio · Cibo / Bevande · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098590744080757223.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098371778234179766"></a>
 
