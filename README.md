@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**66** Prompts · Latest addition: **2026-09-12**
+**67** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,103 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098623498922897725"></a>
+
+### Detailed 15-second cinematic prompt describing a female adventurer crossing a collapsing rope bridge beside a waterfall, with synchronized timeline audio cues.
+
+Author：[@m\_zubaair](https://x.com/m_zubaair) · [Source](https://x.com/m_zubaair/status/2098623498922897725)
+
+Cinematic / Film Still · Published
+
+**Summary:** Detailed 15-second cinematic prompt describing a female adventurer crossing a collapsing rope bridge beside a waterfall, with synchronized timeline audio cues.
+
+<img src="covers/2098623498922897725.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A beautiful young American female adventurer with long, loose, naturally flowing hair, wearing realistic outdoor hiking clothes, rugged boots, and a backpack, is carefully crossing an extremely old and unstable wooden rope bridge suspended between two enormous green mountains. A massive waterfall crashes down beside the bridge, producing a huge volume of rushing water and mist. The canyon below is incredibly deep and terrifying.
+
+IMPORTANT: Create highly realistic, immersive synchronized sound design throughout the entire 15 seconds. Every sound must naturally match the visual action and camera movement.
+
+00:00–00:03
+Begin with a wide cinematic establishing shot of the enormous mountain canyon, the fragile wooden rope bridge, and the gigantic waterfall beside it.
+SOUND:
+
+- Powerful continuous waterfall roar
+- Heavy rushing water and distant echo
+- Strong mountain wind
+- Subtle rope creaking and wooden bridge movement
+- Natural birds very faintly in the distance
+
+The woman steps carefully onto the bridge.
+Add realistic hiking boot footsteps hitting old wooden planks:
+“THUMP… CREAK… THUMP… CREAK…”
+
+00:03–00:06
+The camera moves behind and slightly above her as she continues across the bridge. Her loose hair moves naturally in the wind. The waterfall is violently rushing beside her.
+SOUND:
+
+- Footsteps become clearer and slightly faster
+- Wooden planks groaning under her weight
+- Rope tension creaking
+- Wind rushing around her
+- Powerful waterfall continuously roaring underneath the scene
+
+00:06–00:09
+She places her foot on another extremely old plank. Suddenly the plank bends and begins cracking beneath her boot.
+SOUND DESIGN MUST BECOME INTENSE:
+
+- Loud wooden cracking: “CRACK… CRACK…”
+- Sharp splintering wood sounds
+- Rope snapping and stretching sounds
+- Her breathing becomes faster
+- A brief gasp of fear
+
+Several planks ahead begin breaking one after another.
+
+00:09–00:12
+She realizes the entire bridge is collapsing behind her. She runs desperately toward the opposite mountain while the wooden planks break and fall into the enormous canyon below.
+SOUND:
+
+- Rapid synchronized footsteps: “THUMP-THUMP-THUMP-THUMP”
+- Multiple loud wooden cracks and splintering sounds
+- Ropes violently creaking and snapping
+- Falling wooden boards whistling through the air
+- Massive waterfall roar and canyon echo
+- Her frightened breathing
+- Increasing cinematic tension
+
+00:12–00:14
+She makes one final desperate leap and reaches solid ground on the other side. She turns around and watches in shock as the remaining bridge completely collapses into the waterfall canyon.
+SOUND:
+
+- One final heavy wood SNAP
+- Multiple planks crashing downward
+- Deep rope snap
+- Huge falling debris echoes through the canyon
+- Water impact sounds far below
+
+00:14–00:15
+She realizes she survived. Her expression changes from fear to pure relief and happiness. She smiles, laughs softly, raises her arms joyfully, and takes a deep relieved breath while looking at the destroyed bridge.
+SOUND:
+
+- Waterfall remains present but slightly softened
+- Wind gently moving through the mountains
+- Her relieved breathing
+- A subtle joyful laugh / happy exhale
+- Light uplifting cinematic musical swell
+- End with a peaceful natural mountain ambience
+
+The entire soundtrack must feel like real location sound recorded in a massive mountain canyon. No artificial or cartoon sound effects. Perfect audio-visual synchronization, realistic acoustic reflections, natural canyon reverb, dynamic volume changes, immersive spatial sound, cinematic tension-to-relief progression.
+
+Visual style: ultra-photorealistic, realistic human anatomy, natural facial expressions, realistic skin and hair movement, physically accurate wooden destruction, believable rope physics, realistic waterfall mist, dramatic mountain scale, cinematic camera movement, HDR, 4K detail.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098461817555374451"></a>
 
