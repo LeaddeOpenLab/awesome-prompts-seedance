@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**63** Prompts · Latest addition: **2026-09-11**
+**64** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -2263,6 +2263,63 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098562237333913765"></a>
+
+### Video storyboard prompt for a first-person MiniDV documentary travelogue and giant python attack in an alien pilgrimage world.
+
+Author：[@john87445528](https://x.com/john87445528) · [Source](https://x.com/john87445528/status/2098562237333913765)
+
+Comic / Storyboard · Published
+
+**Summary:** Video storyboard prompt for a first-person MiniDV documentary travelogue and giant python attack in an alien pilgrimage world.
+
+<img src="covers/2098562237333913765.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+[Style + Camera + Atmosphere]
+Authentic found-footage MiniDV travelogue set in an alien pilgrimage world. Except for the attack sequence, she shoots as she walks, like a trip recorded for a friend to watch: uneven clip lengths, hard cuts. Throughout, she personally holds a silver-gray MiniDV in her right hand to film; no cameraman, no backpack, her left hand empty or occasionally holding railings. Selfie distance is approximately 45 cm; when showing the surroundings, she must first pivot her wrist and body, letting the lens pass her shoulder, white dress sleeve, or railings before pointing toward the scenery; turning back to herself speaking also requires a complete physical pivot. Third-person follow-from-behind shots, aerial shots, or external cameras while the heroine faces the lens recording are strictly prohibited. When the lens points at the surroundings, the heroine may only remain present in the frame through her extended left hand, layered white tulle, dress train, high heels, or ambient on-site sound.
+Exception: The golden giant python attack at 15–22 seconds must switch to a third-person perspective, simultaneously showing the heroine's full body (locked white dress) and the giant python; not using the MiniDV point of view in her hand, not shot from inside the python's jaws, and no subjective rush toward the lens.
+16:9 MiniDV widescreen texture throughout the travelogue segments: natural handheld, walking shakes, imperfect framing, brief defocusing, autofocus hunting, white balance drift, exposure breathing, motion blur, subtle interlaced ghosting, DV grain, soft highlight halation, authentic magnetic tape color. Wind batters the microphone, eating half her voice. No transitions, no slow motion as an aesthetic style, no color grading, no text, no stickers. The sky remains locked to reference images #14 and #24 throughout: daytime spiraling sky-hole, cloud walls resembling wounds, excessively bright sunlight still pouring from behind the aperture.
+Except for that single shutter press during the frozen attack, any photo taking, shutter clicking, or posing with the camera is strictly prohibited across the entire film. At all other times, she is purely recording video.
+
+[Subject]
+Face locked to text settings, costume locked to the white dress reference image. The exact same 24-year-old East Asian female throughout, with consistent facial features, age, and demeanor. Moist black pupils, delicate nose bridge, natural soft pink lips; skin retains visible pores and fine lines beneath the eyes, no beauty smoothing, no influencer makeup. Hair according to the white dress reference: loose light-colored long curly hair draped down, fine pearl chain hair ornaments, never changed into a ponytail or short hair.
+Costume strictly locked to the white dress reference throughout; must not be changed into linen wraps, travel shirts, boots, or backpacks: ivory/off-white layered tulle mini dress, deep V-neck camisole straps, crystals and delicate chains across the chest and shoulder straps, layered ruffles at the hip, a floor-sweeping long tulle train on one side, side slit on the leg, champagne ribbon lace-up high heels. May include a necklace and earrings. No backpack, no mirror props, no second outfit. The wind may lift the tulle train and hemline, but the clothing itself does not change.
+She occasionally utters a brief half-sentence to the camera, then forgets the lens and swings it toward the planetary landscape. Same face in travelogue segments. Calm, curious, slightly fatigued. No acting. The heroine's voice is natural Mandarin of a 20-something East Asian woman: soft, warm, curious, breathing slightly while walking or stepping on stone stairs. Not period drama declamation, AI voiceover, news broadcaster, or high-energy influencer delivery. Prohibited from applying any bystander's face, cloak, or robe color from #17 or #18.
+
+[Location]
+A megastructure cliffside civilization observing the "Day of the Sky-Hole Opening," so immense the camera cannot contain it. The film visits only these locations; re-adding deleted scenes is strictly prohibited:
+#12 Temple courtyard, giant gold statue tilting its hairband, red ceremonial smoke;
+#14 Needle city beyond the torn sky (sky backdrop only, not visited individually);
+#15 Sailing temple ship hull crossing the canyon;
+#16 Tiered waterfalls and curved colonnade bridge;
+#17 Stone bowl theater dug into the mountain and molten gold python.
+Deleted and must not appear: #11 Cliff platform golden head, #13 One-point perspective avenue, #19 Torus sky gate, #20 Kiln-eye colossus head city. If #18 Inverted golden city must appear, it may only flash in the distant background after the attack, without developing into a new scene.
+Wind, sand, snapping robe fabrics, distant chanting, roaring water. No postcard tourist towns. The extraordinary lies right beyond the road shoulder.
+
+[Timeline — MiniDV Travelogue Hard Cuts + One Third-Person Attack Sequence]
+0–6 seconds: First-person MiniDV. She is already walking along the edge of #12 temple courtyard, holding the soiled silver-gray MiniDV in her right hand, no backpack, #14 sky-hole overhead behind her. The lens is about 45 cm from her face; the wind swallows her words—"Look at thi—"—she then pivots her wrist and body, framing past her shoulder and white tulle sleeve toward the cliff-height golden colossus: its hair a shining solid ribbon pouring into red smoke, rows of robed figures at its feet like slow-moving herds. She does not approach. High heels click lightly against stone slabs. Auto-exposure blows out the golden statue. Video recording only, no shutter click.
+
+6–11 seconds: First-person MiniDV. She follows the crowd upward, her sweeping tulle train brushing the stone surface. Turning her body, the lens sweeps past her shoulder and layered tulle to catch #15 sailing temple ship hull spanning the canyon, its fabric vast as farmland, the opposite bank a tiny black dot. Focus hesitates between the sail and the sky-hole. Wind pounds the microphone. No photo taking.
+
+11–15 seconds: First-person MiniDV. Hard cut to #16: Tiered waterfalls roaring under arcades crowded with speck-sized people. Nearby mist rises, moistening the edge of her tulle dress. Water roar overloads the microphone. Railings and the tulle train brush the screen edge. She catches her breath; the camera keeps recording without turning back to take photos. The crowd begins funneling toward the stone bowl.
+
+15–22 seconds: Hard cut. Third-person. Camera positioned outside or slightly front-lateral to the stone bowl, capturing the heroine full-body alongside the python in the #17 theater: white dress, tulle train, lace-up heels, and the MiniDV in her right hand all clearly legible, her face remaining the identical 24-year-old East Asian female. The street-thick molten gold python of #21 uncoils from the opposing slope, jaws parting, head lurching forward, about to bite her, its lower jaw reaching near her collarbone. The world virtually freezes, form locked to #22: robe sleeves halted mid-run, sparks, dust, and the gaping maw suspended beside her shoulder, the tulle train arrested mid-flutter. She holds the posture for about two seconds, only breathing. Then, within the third-person frame, she is seen turning the MiniDV toward herself, aiming at her own face and the frozen gaping mouth behind her shoulder, pressing the shutter once. Time crashes back into motion. The python's head resumes its original trajectory, hot sand grazing the white tulle. She stumbles back two steps, heels striking the stone. This segment strictly forbids cutting back to a first-person jaw POV, sweeping cinematic orbit shots, or stylized slow motion. The freeze and shutter click are permitted only in this segment.
+
+22–26 seconds: Hard cut back to first-person MiniDV. Having left the rim, panting, she wipes the lens glass with her finger. Frame reveals the road, wind, #14 sky-hole; the distant window lights of #18 may briefly pass by without lingering. The python is now a receding dark coil; she does not follow. No more photos. The tulle train sweeps across the bottom edge of the frame.
+
+26–30 seconds: First-person MiniDV. Light sinks into the sky-hole. She turns the still-recording camera outward past her white tulle, facing the fractured sky above the canyon, then completely pivots back to her face for one second: weary, long curls plastered by the wind. No shutter click. Her breath fills the microphone; the recording stops mid-stride, like a magnetic tape abruptly cut off.
+
+[Realism Locks]
+Travelogue segments: Right-hand MiniDV, hard cuts, dirty lens, wind, DV grain. Attack segment: Third-person view showing heroine and python, not first-person. Same face, same white dress reference, no backpack. #14 sky-hole consistent throughout. Plot strictly follows: Ceremony → Sail temple → Waterfall → Third-person python bite frozen snapshot → Departure. Only one single shutter press throughout the entire film during the attack segment. Prohibit #11, #13, #19, #20. Prohibit outdoor hiking boots/backpacks, cinematic color grading, gimbals, subtitles, watermarks, face swapping, turning reference bystanders into protagonists, and subjective attack rushes into the camera.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098403961325695379"></a>
 
