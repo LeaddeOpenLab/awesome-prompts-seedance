@@ -2009,20 +2009,60 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 
 <a name="prompt-2098625551833669826"></a>
 
-### Übersetzung läuft
+### 30-sekündiger Handheld-Selfie-Video-Prompt mit einer Frau und einem getigerten Kätzchen an einem regnerischen Fenster, das mit Jalousieschnüren spielt.
 
 Autor：[@itxabdullaa](https://x.com/itxabdullaa) · [Originalbeitrag](https://x.com/itxabdullaa/status/2098625551833669826)
 
 Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 30-sekündiger Handheld-Selfie-Video-Prompt mit einer Frau und einem getigerten Kätzchen an einem regnerischen Fenster, das mit Jalousieschnüren spielt.
 
 <img src="covers/2098625551833669826.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+REFERENZ & SUBJEKT Verwende "@<image1" als die exakte visuelle Referenz für die Frau. Bewahre ihre Identität, ihr Gesicht, ihre Frisur, ihre Kleidung, ihre Hautstruktur, ihre Körperproportionen und ihr natürliches Erscheinungsbild während des gesamten Clips. Genau EIN kleines getigertes Kätzchen. Dasselbe Kätzchen bleibt durchgehend erhalten. Kein anderes Tier, kein doppeltes Kätzchen.
+
+FORMAT 30-sekündiges vertikales 9:16-Handheld-Frontkamera-Selfie. Innenraum neben einem Fenster an einem regnerischen Tag. Sanftes graues natürliches Tageslicht durch das Glas. Sehr dezente Fensterreflexionen und realistischer Raumklang. Kein Color Grading, keine filmische Beleuchtung, kein Beauty-Filter.
+
+---
+
+0–5 SEK — GEMÜTLICHER REGENMOMENT
+
+Die Frau steht neben dem Fenster und hält das Kätzchen an ihre Brust gedrückt. Regentropfen laufen langsam über das Glas hinter ihr herunter. Sie schaut in das Telefon und krault das Kätzchen dann sanft unter dem Kinn. Das Kätzchen blickt ruhig zum Fenster. Sie lächelt sanft und sagt beiläufig: "So ein gemütlicher Tag, oder?" Das Telefon bleibt leicht unvollkommen und natürlich von Hand gehalten.
+
+---
+
+5–10 SEK — ETWAS BEWEGT SICH
+
+Eine kleine Bewegung der Jalousien erregt die Aufmerksamkeit des Kätzchens. Seine Ohren richten sich plötzlich nach vorne. Die Frau bemerkt, dass das Kätzchen an ihrer Schulter vorbei starrt. Sie dreht sich leicht zum Fenster, während sie das Kätzchen sicher festhält. Das Kätzchen streckt eine Pfote nach der herabhängenden Jalousieschnur aus. Sie lacht leise und sagt: "Was schaust du dir an?"
+
+---
+
+10–15 SEK — JALOUSIESCHNUR-ANGRIFF
+
+Das Kätzchen greift plötzlich mit beiden Pfoten nach der Jalousieschnur. Die Frau reagiert überrascht und versucht behutsam, die Schnur wegzubewegen. Das Kätzchen weigert sich und zieht sie zu sich heran. Sie lacht, während das Telefon in ihrer Hand leicht wackelt. Sie sagt: "Hey, lass das in Ruhe." Das Kätzchen schlägt weiterhin nach der Schnur.
+
+---
+
+15–20 SEK — CHAOTISCHES SPIELEN
+
+Das Kätzchen windet sich aufgeregt an ihrer Brust, während es versucht, die sich bewegende Schnur zu fangen. Sie stützt seinen Körper sicher mit einer Hand und blockiert sanft seine Pfoten mit der anderen. Das Kätzchen windet sich herum und greift erneut danach. Sie lacht lauter und sagt: "Du wirst viel zu neugierig." Ein paar lose Strähnen ihres Haares fallen ganz natürlich neben ihr Gesicht.
+
+---
+
+20–25 SEK — KÄTZCHEN KLETTERT
+
+Das Kätzchen klettert plötzlich in Richtung ihrer Schulter, immer noch auf das Fenster fixiert. Seine Pfoten krallen sich in den Stoff ihres Oberteils. Sie stößt einen kleinen überraschten Aufschrei aus, gefolgt von Gelächter. Ihre Hand mit dem Telefon hebt sich leicht, während sie versucht, sowohl sich selbst als auch das Kätzchen im Bild zu behalten. Die Kamera gerät kurzzeitig in Schräglage, bevor sie sich natürlich wieder zentriert.
+
+---
+
+25–30 SEK — ÜBERRASCHUNGS-SELFIE
+
+Das Kätzchen erreicht ihre Schulter und wendet sich plötzlich vom Fenster weg zum Telefon. Es bewegt sein Gesicht nah an das Objektiv und schnuppert neugierig. Sie lehnt sich lachend nach hinten. Das Kätzchen hebt eine Pfote in Richtung der Kamera. Sie setzt an: "Oh, jetzt willst du—" und bricht in Gelächter aus. Die Pfote berührt fast die Linse. Das Telefon neigt sich natürlich nach unten. Der Clip endet mitten im Lachen.
+
+AUDIO Regenambiente durch das Fenster, leise Jalousiebewegung, Rascheln von Stoff, Kätzchenbewegungen, ein winziges Miauen, die natürliche Stimme der Frau, Atmen, Nasenlachen und echtes Lachen. Keine Hintergrundmusik. Keine Untertitel. Kein Text. Kein Logo. Kein Wasserzeichen. Keine Schnitte. Kein Zoom. Genau ein Kätzchen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

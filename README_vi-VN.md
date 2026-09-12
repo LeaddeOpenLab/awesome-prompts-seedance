@@ -2111,20 +2111,60 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 <a name="prompt-2098625551833669826"></a>
 
-### Đang dịch
+### Lời nhắc video selfie 30 giây cầm tay quay cảnh một người phụ nữ và một chú mèo mướp bên cửa sổ ngày mưa đang nghịch dây kéo rèm.
 
 Tác giả：[@itxabdullaa](https://x.com/itxabdullaa) · [Bài gốc](https://x.com/itxabdullaa/status/2098625551833669826)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video selfie 30 giây cầm tay quay cảnh một người phụ nữ và một chú mèo mướp bên cửa sổ ngày mưa đang nghịch dây kéo rèm.
 
 <img src="covers/2098625551833669826.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+THAM CHIẾU & CHỦ THỂ Sử dụng "@<image1" làm tài liệu tham chiếu hình ảnh chính xác cho người phụ nữ. Giữ nguyên danh tính, khuôn mặt, kiểu tóc, trang phục, kết cấu da, tỷ lệ cơ thể và vẻ ngoài tự nhiên của cô ấy trong toàn bộ video. Chính xác MỘT chú mèo con mướp nhỏ. Cùng một chú mèo con duy nhất xuất hiện xuyên suốt. Không có con vật nào khác, không có mèo con trùng lặp.
+
+ĐỊNH DẠNG Video selfie bằng camera trước quay cầm tay dọc 9:16 trong 30 giây. Phòng trong nhà bên cạnh cửa sổ vào một ngày mưa. Ánh sáng ban ngày tự nhiên màu xám dịu nhẹ xuyên qua lớp kính. Hình ảnh phản chiếu trên cửa sổ rất tinh tế cùng âm thanh phòng môi trường chân thực. Không chỉnh màu điện ảnh, không ánh sáng phim trường, không dùng bộ lọc làm đẹp.
+
+---
+
+0–5 GIÂY — KHOẢNH KHẮC ẤM CÚNG NGÀY MƯA
+
+Người phụ nữ đứng bên cửa sổ ôm chú mèo con trước ngực. Những hạt mưa từ từ lăn dài trên mặt kính phía sau cô. Cô nhìn vào điện thoại, sau đó nhẹ nhàng gãi dưới cằm chú mèo con. Mèo con bình thản nhìn về phía cửa sổ. Cô mỉm cười nhẹ nhàng và thong thả nói: "Such a cozy day, huh?" Chiếc điện thoại hơi rung lắc nhẹ một cách tự nhiên theo chuyển động cầm tay.
+
+---
+
+5–10 GIÂY — CÓ GÌ ĐÓ CHUYỂN ĐỘNG
+
+Một chuyển động nhỏ từ rèm cửa sổ thu hút sự chú ý của chú mèo con. Đôi tai của nó bất ngờ hướng về phía trước. Người phụ nữ nhận thấy chú mèo con đang nhìn chăm chú qua vai mình. Cô hơi xoay người về phía cửa sổ trong khi vẫn giữ chắc chú mèo con. Chú mèo con vươn một chân về phía sợi dây kéo rèm đang treo lơ lửng. Cô bật cười khẽ và nói: "What are you looking at?"
+
+---
+
+10–15 GIÂY — TẤN CÔNG DÂY KÉO RÈM
+
+Chú mèo con bất ngờ chộp lấy sợi dây kéo rèm bằng cả hai chân trước. Người phụ nữ phản ứng bất ngờ và nhẹ nhàng cố gắng kéo sợi dây ra xa. Chú mèo con không chịu thả và kéo dây về phía mình. Cô bật cười khi chiếc điện thoại hơi rung lắc trong tay. Cô nói: "Hey, leave that alone." Chú mèo con vẫn tiếp tục đập đập vào sợi dây.
+
+---
+
+15–20 GIÂY — CHƠI ĐÙA HỖN LOẠN
+
+Chú mèo con cựa quậy đầy phấn khích trên ngực cô trong khi cố gắng bắt lấy sợi dây đang chuyển động. Cô một tay giữ chắc cơ thể nó, tay kia nhẹ nhàng chặn các móng vuốt của nó lại. Chú mèo con vặn mình và lại vươn tay ra lần nữa. Cô cười lớn hơn và nói: "You're getting way too curious." Một vài lọn tóc buông lơi tự nhiên bên cạnh khuôn mặt cô.
+
+---
+
+20–25 GIÂY — MÈO CON LEO TRÈO
+
+Chú mèo con bất ngờ trèo lên phía vai cô, vẫn dán mắt vào cửa sổ. Các móng vuốt của nó bám vào lớp vải áo của cô. Cô khẽ kêu lên một tiếng ngạc nhiên rồi bật cười. Bàn tay cầm điện thoại của cô nâng lên một chút khi cô cố gắng giữ cả bản thân và chú mèo con ở trong khung hình. Góc máy quay hơi lệch đi trong chốc lát trước khi tự căn chỉnh lại giữa khung hình một cách tự nhiên.
+
+---
+
+25–30 GIÂY — BẤT NGỜ TRƯỚC ỐNG KÍNH
+
+Chú mèo con trèo lên đến vai cô và đột ngột quay khỏi cửa sổ hướng về phía chiếc điện thoại. Nó ghé sát mặt vào ống kính, tò mò hít ngửi. Cô ngả người ra sau trong khi cười. Chú mèo con giơ một chân lên về phía máy ảnh. Cô bắt đầu nói: "Oh, now you want—" rồi bật cười phá lên. Bàn chân mèo gần như chạm vào ống kính. Chiếc điện thoại hơi hạ xuống tự nhiên. Đoạn clip kết thúc giữa chừng tiếng cười.
+
+ÂM THANH Tiếng mưa rơi qua cửa sổ, tiếng rèm cửa khẽ chuyển động, tiếng vải sột soạt, chuyển động của mèo con, một tiếng meo nhỏ xíu, giọng nói tự nhiên của người phụ nữ, tiếng thở, tiếng cười khẩy qua mũi và tiếng cười thật lòng. Không có nhạc nền. Không có phụ đề. Không có văn bản. Không có logo. Không có hình mờ. Không có cắt cảnh. Không có thu phóng. Chính xác chỉ có một chú mèo con.
 ```
 
 [↑ Về danh mục](#catalog)

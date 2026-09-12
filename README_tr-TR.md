@@ -2003,20 +2003,20 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 
 <a name="prompt-2098625551833669826"></a>
 
-### Çeviri sürüyor
+### Yağmurlu bir pencere kenarında jaluzi ipleriyle oynayan bir kadın ve tekir yavru kediyi içeren 30 saniyelik elde çekim selfie video istemi.
 
 Yazar：[@itxabdullaa](https://x.com/itxabdullaa) · [Orijinal gönderi](https://x.com/itxabdullaa/status/2098625551833669826)
 
 Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yağmurlu bir pencere kenarında jaluzi ipleriyle oynayan bir kadın ve tekir yavru kediyi içeren 30 saniyelik elde çekim selfie video istemi.
 
 <img src="covers/2098625551833669826.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+REFERANS VE ÖZNE Kadın için tam görsel referans olarak "@<image1" kullanın. Klibin tamamı boyunca kadının kimliğini, yüzünü, saç stilini, giysilerini, cilt dokusunu, vücut oranlarını ve doğal görünümünü koruyun. Tam olarak BİR küçük tekir yavru kedi. Klibin başından sonuna kadar aynı yavru kedi kesintisiz yer alır. Başka hayvan yok, mükerrer kedi yok. FORMAT 30 saniyelik dikey 9:16 elde tutulan ön kamera özçekimi. Yağmurlu bir günde pencere kenarında kapalı bir oda. Camın ardından süzülen yumuşak gri doğal gün ışığı. Çok hafif pencere yansımaları ve gerçekçi oda ortam sesi. Renk derecelendirmesi yok, sinematik aydınlatma yok, güzellik filtresi yok. --- 0–5 SN — HUZURLU YAĞMURLU AN Kadın, pencerenin yanında yavru kediyi göğsüne bastırarak durur. Yağmur damlaları arkasındaki camdan yavaşça aşağı süzülür. Telefona bakar, ardından yavru kedinin çenesinin altını nazikçe kaşır. Yavru kedi sakince pencereye doğru bakar. Kadın hafifçe gülümser ve rahat bir tavırla şöyle der: "Ne kadar huzurlu bir gün, değil mi?" Telefon hafif kusurlu ve doğal bir şekilde elde tutulmaya devam eder. --- 5–10 SN — BİR ŞEY HAREKET EDİYOR Pencere jaluzisinden gelen küçük bir hareket yavru kedinin dikkatini çeker. Kulakları aniden öne doğru dikilir. Kadın, yavru kedinin omzunun üzerinden baktığını fark eder. Yavru kediyi güvenli bir şekilde desteklemeyi sürdürürken hafifçe pencereye doğru döner. Yavru kedi, sarkan jaluzi ipine doğru bir patisini uzatır. Kadın sessizce güler ve şöyle der: "Neye bakıyorsun?" --- 10–15 SN — JALUZİ İPİ SALDIRISI Yavru kedi aniden iki patisiyle jaluzi ipini yakalar. Kadın şaşkınlıkla tepki verir ve ipi nazikçe uzaklaştırmaya çalışır. Yavru kedi direnir ve ipi kendine doğru çeker. Telefon kadının elinde hafifçe titrerken kadın güler. Şöyle der: "Hey, onu rahat bırak." Yavru kedi ipe pati vurmaya devam eder. --- 15–20 SN — KAOTİK OYUN Yavru kedi, hareket eden ipi yakalamaya çalışırken kadının göğsüne doğru heyecanla kıvranır. Kadın bir eliyle kedinin vücudunu güvenle desteklerken diğer eliyle patilerini nazikçe engeller. Yavru kedi dönüp tekrar uzanır. Kadın daha çok güler ve şöyle der: "Fazla meraklı olmaya başladın." Saçından birkaç tutam doğal bir şekilde yüzünün kenarına dökülür. --- 20–25 SN — YAVRU KEDİ TIRMANIYOR Yavru kedi, hala pencereye odaklanmış halde aniden kadının omzuna doğru tırmanır. Patileri kadının üst giysisinin kumaşını kavrar. Kadın şaşkınlıkla küçük bir çığlık atar ve ardından kahkaha atar. Hem kendisini hem de yavru kediyi kadrajda tutmaya çalışırken telefonu tuttuğu eli hafifçe yükselir. Kamera doğal bir şekilde yeniden merkezlenmeden önce kısa süreliğine dengesini kaybeder. --- 25–30 SN — SÜRPRİZ SELFIE Yavru kedi kadının omzuna ulaşır ve aniden pencereden telefona doğru döner. Yüzünü merceğe yaklaştırarak merakla koklar. Kadın gülerken geriye doğru yaslanır. Yavru kedi kameraya doğru bir patisini kaldırır. Kadın "Aa, şimdi de şunu mu—" diye başlar ve kahkahaya boğulur. Pati neredeyse merceğe değer. Telefon doğal bir şekilde aşağı eğilir. Klip kahkahanın ortasında sona erer. SES Pencereden gelen yağmur ortam sesi, hafif jaluzi hareketi, kumaş hışırtısı, yavru kedi hareketi, tek bir minik miyavlama, kadının doğal sesi, nefes alıp verme, burun kıkırdamaları ve içten kahkaha. Arka plan müziği yok. Altyazı yok. Metin yok. Logo yok. Filigran yok. Kesme yok. Yakınlaştırma yok. Tam olarak bir yavru kedi.
 ```
 
 [↑ Kategorilere dön](#catalog)

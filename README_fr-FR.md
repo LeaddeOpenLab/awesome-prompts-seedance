@@ -2009,20 +2009,60 @@ Traduction en cours
 
 <a name="prompt-2098625551833669826"></a>
 
-### Traduction en cours
+### Prompt de vidéo selfie caméra au poing de 30 secondes mettant en scène une femme et un chaton tigré près d'une fenêtre pluvieuse jouant avec les cordons du store.
 
 Auteur：[@itxabdullaa](https://x.com/itxabdullaa) · [Publication originale](https://x.com/itxabdullaa/status/2098625551833669826)
 
 Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de vidéo selfie caméra au poing de 30 secondes mettant en scène une femme et un chaton tigré près d'une fenêtre pluvieuse jouant avec les cordons du store.
 
 <img src="covers/2098625551833669826.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+RÉFÉRENCE & SUJET Utilisez "@<image1" comme référence visuelle exacte pour la femme. Préservez son identité, son visage, sa coiffure, ses vêtements, la texture de sa peau, ses proportions corporelles et son apparence naturelle tout au long du clip. Exactement UN petit chaton tigré. Le même chaton reste présent en continu tout du long. Aucun autre animal, aucun chaton dupliqué.
+
+FORMAT Selfie de 30 secondes au format vertical 9:16 filmé à la main avec la caméra frontale. Pièce intérieure à côté d'une fenêtre un jour de pluie. Lumière du jour naturelle d'un gris doux à travers la vitre. Reflets très subtils sur la fenêtre et son d'ambiance réaliste de la pièce. Aucun étalonnage des couleurs, aucun éclairage cinématographique, aucun filtre de beauté.
+
+---
+
+0–5 SEC — MOMENT DOUILLET DE PLUIE
+
+La femme se tient près de la fenêtre en tenant le chaton contre sa poitrine. Des gouttes de pluie s'écoulent lentement le long de la vitre derrière elle. Elle regarde son téléphone, puis gratte doucement le chaton sous le menton. Le chaton regarde calmement vers la fenêtre. Elle sourit doucement et dit sur un ton décontracté : "Quelle journée douillette, pas vrai ?" Le téléphone conserve des mouvements légèrement imparfaits et naturellement tenus à la main.
+
+---
+
+5–10 SEC — QUELQUE CHOSE BOUGE
+
+Un léger mouvement des stores de la fenêtre attire l'attention du chaton. Ses oreilles pointent soudainement vers l'avant. La femme remarque que le chaton regarde fixement par-dessus son épaule. Elle se tourne légèrement vers la fenêtre tout en maintenant fermement le chaton. Le chaton tend une patte vers le cordon suspendu du store. Elle rit doucement et dit : "Qu'est-ce que tu regardes ?"
+
+---
+
+10–15 SEC — ATTAQUE DU CORDON DU STORE
+
+Le chaton attrape soudainement le cordon du store avec ses deux pattes. La femme réagit avec surprise et tente doucement d'écarter le cordon. Le chaton refuse et le tire vers lui. Elle rit tandis que le téléphone tremble légèrement dans sa main. Elle dit : "Hé, laisse ça tranquille." Le chaton continue de donner des coups de patte dans le cordon.
+
+---
+
+15–20 SEC — JEU CHAOTIQUE
+
+Le chaton s'agite avec excitation contre sa poitrine en essayant d'attraper le cordon en mouvement. Elle soutient fermement son corps d'une main et bloque doucement ses pattes de l'autre. Le chaton se tortille et tend à nouveau la patte. Elle rit plus fort et dit : "Tu deviens bien trop curieux." Quelques mèches de cheveux tombent naturellement le long de son visage.
+
+---
+
+20–25 SEC — LE CHATON GRIMPE
+
+Le chaton grimpe soudainement vers son épaule, toujours concentré sur la fenêtre. Ses pattes s'accrochent au tissu de son haut. Elle pousse un petit cri de surprise suivi d'un rire. La main qui tient le téléphone s'élève légèrement alors qu'elle essaie de garder à la fois elle-même et le chaton dans le cadre. La caméra devient brièvement instable avant de se recentrer naturellement.
+
+---
+
+25–30 SEC — SELFIE SURPRISE
+
+Le chaton atteint son épaule et se détourne soudainement de la fenêtre vers le téléphone. Il approche sa tête près de l'objectif, reniflant avec curiosité. Elle se penche en arrière en riant. Le chaton lève une patte vers la caméra. Elle commence : "Oh, maintenant tu veux—" et éclate de rire. La patte touche presque l'objectif. Le téléphone plonge naturellement vers le bas. Le clip se termine en plein rire.
+
+AUDIO Ambiance de pluie à travers la fenêtre, léger mouvement du store, bruissement de tissu, mouvements du chaton, un tout petit miaulement, voix naturelle de la femme, respiration, rires étouffés et rire authentique. Aucune musique de fond. Aucun sous-titre. Aucun texte. Aucun logo. Aucun filigrane. Aucune coupe. Aucun zoom. Exactement un chaton.
 ```
 
 [↑ Retour aux catégories](#catalog)

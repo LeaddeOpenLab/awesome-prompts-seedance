@@ -2009,20 +2009,60 @@ Traduzione in corso
 
 <a name="prompt-2098625551833669826"></a>
 
-### Traduzione in corso
+### Prompt per video selfie a mano di 30 secondi con una donna e un gattino tigrato vicino a una finestra piovosa che gioca con i cordoncini della tenda.
 
 Autore：[@itxabdullaa](https://x.com/itxabdullaa) · [Post originale](https://x.com/itxabdullaa/status/2098625551833669826)
 
 Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per video selfie a mano di 30 secondi con una donna e un gattino tigrato vicino a una finestra piovosa che gioca con i cordoncini della tenda.
 
 <img src="covers/2098625551833669826.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+RIFERIMENTO & SOGGETTO Usa "@<image1" come riferimento visivo esatto per la donna. Mantieni la sua identità, il viso, l'acconciatura, l'abbigliamento, la grana della pelle, le proporzioni del corpo e l'aspetto naturale per l'intera durata del video. Esattamente UN gattino tigrato piccolo. Lo stesso gattino rimane continuo per tutto il tempo. Nessun altro animale, nessun gattino duplicato.
+
+FORMATO Video selfie di 30 secondi in verticale 9:16 registrato a mano con fotocamera frontale. Stanza interna accanto a una finestra in un giorno di pioggia. Morbida luce naturale grigia attraverso il vetro. Riflessi sulla finestra molto discreti e suono ambientale realistico della stanza. Nessuna color grading, nessuna illuminazione cinematografica, nessun filtro bellezza.
+
+---
+
+0–5 SEC — MOMENTO ACCOGLIENTE E PIOVOSO
+
+La donna è in piedi vicino alla finestra con il gattino stretto al petto. Le gocce di pioggia scivolano lentamente sul vetro dietro di lei. Guarda verso il telefono, poi gratta delicatamente il gattino sotto il mento. Il gattino guarda tranquillamente verso la finestra. Lei sorride dolcemente e dice con fare spontaneo: "Che giornata accogliente, vero?" Il telefono mantiene movimenti leggermente imperfetti e naturali tipici dell'inquadratura a mano.
+
+---
+
+5–10 SEC — QUALCOSA SI MUOVE
+
+Un piccolo movimento delle tende alla finestra cattura l'attenzione del gattino. Le sue orecchie scattano subito in avanti. La donna si accorge che il gattino fissa oltre la sua spalla. Si gira leggermente verso la finestra tenendo il gattino ben saldo. Il gattino allunga una zampina verso il cordoncino penzolante della tenda. Lei ride sottovoce e dice: "Cosa stai guardando?"
+
+---
+
+10–15 SEC — ATTACCO AL CORDONCINO DELLA TENDA
+
+Il gattino afferra all'improvviso il cordoncino della tenda con entrambe le zampe. La donna reagisce con sorpresa e cerca delicatamente di allontanare il cordoncino. Il gattino fa resistenza e lo tira verso di sé. Lei ride mentre il telefono trema leggermente nella sua mano. Dice: "Ehi, lascia stare quello." Il gattino continua a dare zampate al cordoncino.
+
+---
+
+15–20 SEC — GIOCO CAOTICO
+
+Il gattino si dimena eccitato contro il suo petto mentre cerca di acchiappare il cordoncino in movimento. Lei sostiene saldamente il suo corpicino con una mano e gli blocca dolcemente le zampe con l'altra. Il gattino si contorce e ci riprova. Lei ride più forte e dice: "Stai diventando decisamente troppo curioso." Alcune ciocche ribelli dei suoi capelli ricadono con naturalezza accanto al suo viso.
+
+---
+
+20–25 SEC — IL GATTINO SI ARRAMPICA
+
+Il gattino si arrampica all'improvviso verso la sua spalla, ancora concentrato sulla finestra. Le sue zampine si aggrappano al tessuto della maglia. Lei emette un piccolo gridolino di sorpresa seguito da una risata. La mano che regge il telefono si alza leggermente mentre tenta di tenere sia sé stessa che il gattino all'interno dell'inquadratura. La fotocamera si sbilancia brevemente prima di ricentrarsi in modo naturale.
+
+---
+
+25–30 SEC — SELFIE A SORPRESA
+
+Il gattino raggiunge la spalla e improvvisamente si volta dalla finestra verso il telefono. Avvicina il musetto all'obiettivo, annusando con curiosità. Lei si scosta all'indietro ridendo. Il gattino alza una zampina verso la fotocamera. Lei comincia a dire: "Oh, adesso vuoi—" e scoppia a ridere. La zampina quasi tocca l'obiettivo. Il telefono scende in modo naturale. Il filmato si interrompe a metà risata.
+
+AUDIO Ambiente di pioggia attraverso la finestra, debole movimento della tenda, fruscio di tessuti, movimenti del gattino, un minuscolo miagolio, voce naturale della donna, respirazione, risatine sotto i baffi e risata autentica. Nessuna musica di sottofondo. Nessun sottotitolo. Nessun testo. Nessun logo. Nessuna filigrana. Nessun taglio. Nessun zoom. Esattamente un gattino.
 ```
 
 [↑ Torna alle categorie](#catalog)

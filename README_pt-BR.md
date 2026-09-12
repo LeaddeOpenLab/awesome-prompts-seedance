@@ -2003,20 +2003,20 @@ Tradução em andamento
 
 <a name="prompt-2098625551833669826"></a>
 
-### Tradução em andamento
+### Prompt de vídeo selfie de 30 segundos com câmera na mão apresentando uma mulher e um filhote de gato malhado junto a uma janela chuvosa brincando com cordões da persiana.
 
 Autor：[@itxabdullaa](https://x.com/itxabdullaa) · [Publicação original](https://x.com/itxabdullaa/status/2098625551833669826)
 
 Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de vídeo selfie de 30 segundos com câmera na mão apresentando uma mulher e um filhote de gato malhado junto a uma janela chuvosa brincando com cordões da persiana.
 
 <img src="covers/2098625551833669826.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+REFERÊNCIA E SUJEITO Use "@<image1" como a referência visual exata para a mulher. Preserve sua identidade, rosto, penteado, roupas, textura da pele, proporções corporais e aparência natural durante todo o clipe. Exatamente UM pequeno filhote de gato malhado. O mesmo filhote permanece contínuo do início ao fim. Nenhum outro animal, nenhum filhote duplicado. FORMATO Selfie de 30 segundos gravada com câmera na mão em ângulo frontal vertical 9:16. Quarto interno ao lado de uma janela em um dia chuvoso. Luz natural suave e cinzenta do dia através do vidro. Reflexos de janela muito sutis e som ambiente realista do cômodo. Sem gradação de cor, sem iluminação cinematográfica, sem filtro de beleza. --- 0–5 S — MOMENTO CHUVOSO E ACONCHEGANTE A mulher fica ao lado da janela segurando o filhote contra o peito. Gotas de chuva escorrem lentamente pelo vidro atrás dela. Ela olha para o celular e depois faz um carinho suave sob o queixo do gatinho. O gatinho olha calmamente em direção à janela. Ela sorri suavemente e diz de forma descontraída: "Que dia aconchegante, né?" O celular permanece ligeiramente imperfeito e naturalmente segurado com a mão. --- 5–10 S — ALGO SE MOVE Um pequeno movimento da persiana chama a atenção do gatinho. Suas orelhas subitamente se voltam para a frente. A mulher percebe o gatinho olhando fixamente por cima de seu ombro. Ela se vira ligeiramente em direção à janela enquanto mantém o gatinho firmemente apoiado. O gatinho estende uma pata em direção à corda pendurada da persiana. Ela ri baixinho e diz: "Para o que você está olhando?" --- 10–15 S — ATAQUE À CORDA DA PERSIANA O gatinho de repente agarra a corda da persiana com ambas as patas. A mulher reage com surpresa e tenta gentilmente afastar a corda. O gatinho resiste e a puxa para si. Ela ri enquanto o celular treme levemente em sua mão. Ela diz: "Ei, deixa isso pra lá." O gatinho continua dando patadas na corda. --- 15–20 S — BRINCADEIRA CAÓTICA O gatinho se contorce animadamente contra o peito dela enquanto tenta pegar a corda em movimento. Ela apoia o corpo dele firmemente com uma mão e bloqueia suavemente as patas dele com a outra. O gatinho se contorce e tenta alcançar de novo. Ela ri mais alto e diz: "Você está ficando curiosa demais." Algumas mechas soltas de seu cabelo caem naturalmente ao lado de seu rosto. --- 20–25 S — O GATINHO ESCALA O gatinho de repente escala em direção ao ombro dela, ainda focado na janela. Suas patas agarram o tecido da blusa dela. Ela solta um pequeno ganido de surpresa seguido de risos. A mão que segura o celular se ergue ligeiramente enquanto ela tenta manter a si mesma e o gatinho no enquadramento. A câmera fica brevemente desnivelada antes de se recentralizar naturalmente. --- 25–30 S — SELFIE SURPRESA O gatinho alcança o ombro dela e de repente se vira da janela para o celular. Ele aproxima o focinho da lente, farejando com curiosidade. Ela se inclina para trás enquanto ri. O gatinho ergue uma pata em direção à câmera. Ela começa: "Ah, agora você quer—" e cai na risada. A pata quase toca a lente. O celular inclina para baixo naturalmente. O clipe termina no meio da risada. ÁUDIO Ambiência de chuva pela janela, leve movimento da persiana, farfalhar de tecido, movimento do gatinho, um miado minúsculo, voz natural da mulher, respiração, risos pelo nariz e risada genuína. Sem música de fundo. Sem legendas. Sem texto. Sem logotipo. Sem marca d'água. Sem cortes. Sem zoom. Exatamente um filhote de gato.
 ```
 
 [↑ Voltar às categorias](#catalog)

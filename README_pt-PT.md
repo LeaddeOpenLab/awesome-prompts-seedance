@@ -2003,20 +2003,20 @@ Tradução em curso
 
 <a name="prompt-2098625551833669826"></a>
 
-### Tradução em curso
+### Prompt de vídeo selfie de 30 segundos com câmara na mão apresentando uma mulher e um gatinho malhado junto a uma janela chuvosa a brincar com os cordões do estore.
 
 Autor：[@itxabdullaa](https://x.com/itxabdullaa) · [Publicação original](https://x.com/itxabdullaa/status/2098625551833669826)
 
 Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo selfie de 30 segundos com câmara na mão apresentando uma mulher e um gatinho malhado junto a uma janela chuvosa a brincar com os cordões do estore.
 
 <img src="covers/2098625551833669826.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+REFERÊNCIA E SUJEITO Use "@<image1" como a referência visual exata para a mulher. Preserve a sua identidade, rosto, penteado, roupas, textura da pele, proporções corporais e aparência natural durante todo o clipe. Exatamente UM pequeno gatinho malhado. O mesmo gatinho permanece contínuo do início ao fim. Nenhum outro animal, nenhum gatinho duplicado. FORMATO Selfie de 30 segundos gravada com câmara na mão em ângulo frontal vertical 9:16. Divisão interior ao lado de uma janela num dia de chuva. Luz natural suave e cinzenta do dia através do vidro. Reflexos da janela muito subtis e som ambiente realista da divisão. Sem gradação de cor, sem iluminação cinematográfica, sem filtro de beleza. --- 0–5 S — MOMENTO CHUVOSO E ACOLHEDOR A mulher está ao lado da janela a segurar o gatinho contra o peito. Gotas de chuva escorrem lentamente pelo vidro atrás dela. Ela olha para o telemóvel e depois coça suavemente o gatinho sob o queixo. O gatinho olha calmamente em direção à janela. Ela sorri suavemente e diz descontraidamente: "Que dia acolhedor, não é?" O telemóvel permanece ligeiramente imperfeito e naturalmente seguro com a mão. --- 5–10 S — ALGO MEXE-SE Um pequeno movimento do estore capta a atenção do gatinho. As suas orelhas apontam subitamente para a frente. A mulher repara no gatinho a olhar fixamente para além do seu ombro. Ela vira-se ligeiramente para a janela enquanto mantém o gatinho bem apoiado. O gatinho estende uma pata em direção ao cordão pendurado do estore. Ela ri-se baixinho e diz: "Para o que estás a olhar?" --- 10–15 S — ATAQUE AO CORDÃO DO ESTORE O gatinho agarra subitamente o cordão do estore com ambas as patas. A mulher reage com surpresa e tenta afastar suavemente o cordão. O gatinho resiste e puxa-o para si. Ela ri-se enquanto o telemóvel treme ligeiramente na sua mão. Ela diz: "Ei, deixa isso em paz." O gatinho continua a dar patadas no cordão. --- 15–20 S — BRINCADEIRA CAÓTICA O gatinho contorce-se entusiasticamente contra o peito dela enquanto tenta apanhar o cordão em movimento. Ela apoia o corpo dele firmemente com uma mão e bloqueia suavemente as suas patas com a outra. O gatinho gira sobre si e tenta alcançar novamente. Ela ri-se mais alto e diz: "Estás a ficar curioso demais." Algumas madeixas soltas do seu cabelo caem naturalmente ao lado do seu rosto. --- 20–25 S — O GATINHO SOBE O gatinho sobe repentinamente em direção ao ombro dela, ainda focado na janela. As suas patas agarram o tecido da camisola dela. Ela dá um pequeno guincho de surpresa seguido de risos. A mão que segura o telemóvel sobe ligeiramente enquanto ela tenta manter-se a si e ao gatinho dentro do enquadramento. A câmara fica brevemente desnivelada antes de se recentrar naturalmente. --- 25–30 S — SELFIE SURPRESA O gatinho chega ao ombro dela e vira-se subitamente da janela em direção ao telemóvel. Aproxima o focinho da lente, farejando com curiosidade. Ela inclina-se para trás a rir-se. O gatinho ergue uma pata em direção à câmara. Ela começa: "Ah, agora queres—" e começa a rir-se à gargalhada. A pata quase toca na lente. O telemóvel desce naturalmente. O clipe termina a meio do riso. ÁUDIO Ambiente de chuva pela janela, leve movimento do estore, farfalhar de tecido, movimento do gatinho, um miado minúsculo, voz natural da mulher, respiração, risos pelo nariz e riso genuíno. Sem música de fundo. Sem legendas. Sem texto. Sem logótipo. Sem marca de água. Sem cortes. Sem zoom. Exatamente um gatinho.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -2009,20 +2009,60 @@ Traducción en curso
 
 <a name="prompt-2098625551833669826"></a>
 
-### Traducción en curso
+### Prompt de video selfie en mano de 30 segundos con una mujer y un gatito atigrado junto a una ventana lluviosa jugando con los cordones de la persiana.
 
 Autor：[@itxabdullaa](https://x.com/itxabdullaa) · [Publicación original](https://x.com/itxabdullaa/status/2098625551833669826)
 
 Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video selfie en mano de 30 segundos con una mujer y un gatito atigrado junto a una ventana lluviosa jugando con los cordones de la persiana.
 
 <img src="covers/2098625551833669826.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+REFERENCIA Y SUJETO Usa "@<image1" como la referencia visual exacta para la mujer. Conserva su identidad, rostro, peinado, vestimenta, textura de la piel, proporciones corporales y apariencia natural a lo largo de todo el clip. Exactamente UN gatito atigrado pequeño. El mismo gatito se mantiene de manera continua en todo momento. Ningún otro animal, ningún gatito duplicado.
+
+FORMATO Selfie de 30 segundos en formato vertical 9:16 con cámara frontal en mano. Habitación interior junto a una ventana en un día lluvioso. Luz diurna natural de color gris suave a través del vidrio. Reflejos en la ventana muy sutiles y sonido ambiental realista de la habitación. Sin gradación de color, sin iluminación cinematográfica, sin filtros de belleza.
+
+---
+
+0–5 SEG — MOMENTO ACOGEDOR Y LLUVIOSO
+
+La mujer está parada junto a la ventana sosteniendo al gatito contra su pecho. Las gotas de lluvia se deslizan lentamente por el cristal detrás de ella. Mira hacia el teléfono y luego acaricia suavemente al gatito debajo de la barbilla. El gatito mira con calma hacia la ventana. Ella sonríe con ternura y dice con naturalidad: "Un día tan acogedor, ¿verdad?" El teléfono se mantiene ligeramente imperfecto y con un movimiento natural de mano.
+
+---
+
+5–10 SEG — ALGO SE MUEVE
+
+Un pequeño movimiento de las persianas de la ventana llama la atención del gatito. Sus orejas de repente apuntan hacia adelante. La mujer nota que el gatito mira fijamente por encima de su hombro. Se gira ligeramente hacia la ventana mientras mantiene al gatito bien sujeto. El gatito extiende una pata hacia el cordón colgante de la persiana. Ella se ríe bajito y dice: "¿Qué estás mirando?"
+
+---
+
+10–15 SEG — ATAQUE AL CORDÓN DE LA PERSIANA
+
+El gatito de repente atrapa el cordón de la persiana con ambas patas. La mujer reacciona con sorpresa e intenta apartar suavemente el cordón. El gatito se resiste y tira de él hacia sí. Ella se ríe mientras el teléfono tiembla ligeramente en su mano. Dice: "Oye, deja eso en paz". El gatito sigue dando manotazos al cordón.
+
+---
+
+15–20 SEG — JUEGO CAÓTICO
+
+El gatito se retuerce emocionado contra su pecho mientras intenta atrapar el cordón en movimiento. Ella sujeta su cuerpo firmemente con una mano y bloquea suavemente sus patas con la otra. El gatito se contorsiona y vuelve a intentar alcanzarlo. Ella se ríe con más fuerza y dice: "Te estás volviendo demasiado curioso". Unos cuantos mechones sueltos de su cabello caen de forma natural junto a su rostro.
+
+---
+
+20–25 SEG — EL GATITO TREPA
+
+El gatito de repente trepa hacia su hombro, todavía concentrado en la ventana. Sus patitas se aferran a la tela de su prenda superior. Ella suelta un pequeño chillido de sorpresa seguido de risas. La mano con la que sostiene el teléfono se eleva ligeramente mientras intenta mantener tanto a ella como al gatito dentro del encuadre. La cámara se desnivela brevemente antes de volver a centrarse de manera natural.
+
+---
+
+25–30 SEG — SELFIE SORPRESA
+
+El gatito llega a su hombro y de pronto se gira apartándose de la ventana hacia el teléfono. Acerca su carita al lente, olfateando con curiosidad. Ella se inclina hacia atrás mientras se ríe. El gatito levanta una pata hacia la cámara. Ella empieza a decir: "Oh, ¿ahora quieres...?" y estalla en carcajadas. La patita casi toca el lente. El teléfono desciende de forma natural. El clip termina en medio de la risa.
+
+AUDIO Ambiente de lluvia a través de la ventana, tenue movimiento de la persiana, roce de tela, movimientos del gatito, un maullido diminuto, la voz natural de la mujer, respiración, risitas nasales y risa genuina. Sin música de fondo. Sin subtítulos. Sin texto. Sin logotipo. Sin marcas de agua. Sin cortes. Sin zoom. Exactamente un gatito.
 ```
 
 [↑ Volver a categorías](#catalog)
