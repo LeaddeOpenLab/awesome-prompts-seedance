@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**70** Prompts · Latest addition: **2026-09-12**
+**71** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,46 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098590274410950732"></a>
+
+### Cinematic Eastern martial arts bamboo forest duel between a crimson-robed swordmaster and three straw-hatted assassins.
+
+Author：[@rachses2](https://x.com/rachses2) · [Source](https://x.com/rachses2/status/2098590274410950732)
+
+Cinematic / Film Still · Landscape / Nature · Published
+
+**Summary:** Cinematic Eastern martial arts bamboo forest duel between a crimson-robed swordmaster and three straw-hatted assassins.
+
+<img src="covers/2098590274410950732.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Generate a 30-second, 16:9, 24fps short film dedicated to ultra-fast traditional Eastern martial arts choreography. High-budget theatrical photorealistic live-action + AAA cinematic quality. No subtitles, no UI, no logos, no voiceover, no BGM—retain only bamboo stalk snaps, rustling leaves, silk fabric snapping, blade swooshes, sharp foot-taps on slender branches, metallic deflections, heavy torso hits, whip pans, and sharp exhales.
+
+Characters
+
+Protagonist: Crimson-robed solo assassin, single double-edged straight sword (Jian), flexible silk sash, calm lethal posture.
+
+Assassins (3 Straw-Hatted Assassins): Identical dark-grey robes, bamboo conical hats hiding eyes. Distinct weapons: Assassin A (Chain-sickle/Kusarigama), Assassin B (Dual hook swords), Assassin C (Heavy iron staff).
+
+Core & Action
+Maximum agility, gravity-defying foliage movement, and relentless multi-directional attacks. First frame opens with all three assassins dropping simultaneously from high bamboo canopy. Features light-footwork tree-climbing, sliding down bent bamboo stalks, mid-air weapon redirects, spinning sash wraps, and rapid close-quarters parries while suspended on swaying branches.
+
+One-Time Speed Ramp
+A single 0.12-second micro-slowdown at the 4-second mark: Assassin A’s chain-sickle wraps around a bamboo stalk inches from the protagonist's throat, showing flying bark fragments, tension on the chain, and the protagonist’s cold eye tracking the blade before slicing the chain mid-air.
+
+Camera & Environment
+Vertigo-inducing vertical camera tilts, fast tracking shots through dense bamboo stalks, wide-angle lens tracking downward falls, camera shaking on heavy staff impacts. Environment reacts violently: hundreds of green leaves exploding in wind-bursts, bamboo stalks snapping under foot pressure, thick fog swirling around sudden directional shifts.
+
+Ending Sequence
+Protagonist steps off an Assassin C's thrusting staff to gain elevation, executes a downward inverted 720° spin cleave that severs B's hook swords and disarms A, then drops directly behind C for a swift neck-level reverse thrust. Final frame captures crimson robes settling as broken bamboo stalks crash down around the lone winner.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098622086608773436"></a>
 
