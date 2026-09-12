@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T04:17:55.987Z",
+  "model": "seedance2.5",
+  "prompt": "Create a high-quality, ultra-detailed 3D animated scene featuring the same adorable chubby otter-like character with soft gray-brown fur, a creamy white belly and muzzle, tiny rounded ears, glossy black eyes, a small dark nose, rosy cheeks, short paws, and cute visible paw pads. The character has a soft plush-toy appearance, rounded proportions, and an innocent happy expression.\n\nPlace the character sitting comfortably in a modern black ergonomic office chair. The character is holding and drinking an iced coffee in a transparent plastic cup with a straw, with both paws wrapped naturally around the cup. Keep the character centered and prominent in the frame.\n\nSet the scene inside a bright modern office with rows of beige-gray cubicles, computer monitors, large windows, soft daylight, polished floors, and subtle office details in the background. Use shallow depth of field so the character remains sharply focused while the background is softly blurred.\n\nMake the image feel like a premium animated movie still: highly detailed soft fur, realistic fabric and plastic textures, expressive glossy eyes, natural soft lighting, cinematic composition, realistic shadows, subtle ambient occlusion, polished 3D rendering, adorable whimsical mood, clean composition, professional animation quality, high resolution, vertical 9:16 composition.\n\nImportant: Preserve the exact same character design and proportions throughout, with no humans in the foreground, no text, no logos, no watermark, and no distorted anatomy.",
+  "promptTranslations": {
+    "en": "Create a high-quality, ultra-detailed 3D animated scene featuring the same adorable chubby otter-like character with soft gray-brown fur, a creamy white belly and muzzle, tiny rounded ears, glossy black eyes, a small dark nose, rosy cheeks, short paws, and cute visible paw pads. The character has a soft plush-toy appearance, rounded proportions, and an innocent happy expression.\n\nPlace the character sitting comfortably in a modern black ergonomic office chair. The character is holding and drinking an iced coffee in a transparent plastic cup with a straw, with both paws wrapped naturally around the cup. Keep the character centered and prominent in the frame.\n\nSet the scene inside a bright modern office with rows of beige-gray cubicles, computer monitors, large windows, soft daylight, polished floors, and subtle office details in the background. Use shallow depth of field so the character remains sharply focused while the background is softly blurred.\n\nMake the image feel like a premium animated movie still: highly detailed soft fur, realistic fabric and plastic textures, expressive glossy eyes, natural soft lighting, cinematic composition, realistic shadows, subtle ambient occlusion, polished 3D rendering, adorable whimsical mood, clean composition, professional animation quality, high resolution, vertical 9:16 composition.\n\nImportant: Preserve the exact same character design and proportions throughout, with no humans in the foreground, no text, no logos, no watermark, and no distorted anatomy."
+  },
+  "summaryTranslations": {
+    "en": "3D animated scene prompt: depicting a heartwarming scene of an adorable plush otter sitting on an office swivel chair drinking iced coffee with a straw."
+  },
+  "translationVersion": 2,
+  "summary": "3D动画场景提示词：描绘一只可爱的毛绒水獭坐在办公室转椅上用吸管喝冰咖啡的温馨画面。",
+  "summaryEn": "Prompt for a 3D animated scene of an adorable plush otter sitting on an office chair sipping iced coffee.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098590744080757223",
+    "canonicalUrl": "https://x.com/Zarnab_with_Ai/status/2098590744080757223",
+    "author": {
+      "username": "Zarnab_with_Ai",
+      "displayName": "Zarnab Ai",
+      "profileUrl": "https://x.com/Zarnab_with_Ai"
+    },
+    "publishedAt": "2026-09-12T01:53:17.000Z",
+    "collectedAt": "2026-09-12T04:17:01.011Z",
+    "language": "en",
+    "originalText": "Made with seedance 2.5\n\nPrompt 👇 \n Create a high-quality, ultra-detailed 3D animated scene featuring the same adorable chubby otter-like character with soft gray-brown fur, a creamy white belly and muzzle, tiny rounded ears, glossy black eyes, a small dark nose, rosy cheeks, short paws, and cute visible paw pads. The character has a soft plush-toy appearance, rounded proportions, and an innocent happy expression.\n\nPlace the character sitting comfortably in a modern black ergonomic office chair. The character is holding and drinking an iced coffee in a transparent plastic cup with a straw, with both paws wrapped naturally around the cup. Keep the character centered and prominent in the frame.\n\nSet the scene inside a bright modern office with rows of beige-gray cubicles, computer monitors, large windows, soft daylight, polished floors, and subtle office details in the background. Use shallow depth of field so the character remains sharply focused while the background is softly blurred.\n\nMake the image feel like a premium animated movie still: highly detailed soft fur, realistic fabric and plastic textures, expressive glossy eyes, natural soft lighting, cinematic composition, realistic shadows, subtle ambient occlusion, polished 3D rendering, adorable whimsical mood, clean composition, professional animation quality, high resolution, vertical 9:16 composition.\n\nImportant: Preserve the exact same character design and proportions throughout, with no humans in the foreground, no text, no logos, no watermark, and no distorted anatomy.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Zarnab_with_Ai/status/2098590744080757223",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098590421383561216/img/89B5Fe2zTkc8MJrg.jpg",
+        "analysisUrl": "https://x.com/Zarnab_with_Ai/status/2098590744080757223"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-w3pVa4AArgUM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-w3pVa4AArgUM.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 37,
+      "repostCount": 9,
+      "replyCount": 12,
+      "quoteCount": 0,
+      "viewCount": 207
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Zarnab_with_Ai/status/2098590744080757223",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098590421383561216/img/89B5Fe2zTkc8MJrg.jpg",
+  "coverPath": "covers/2098590744080757223.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098590421383561216",
+    "x-image:/media/HR-w3pVa4AArgUM",
+    "x-post:2098590744080757223"
+  ],
+  "analysis": {
+    "summary": "3D动画场景提示词：描绘一只可爱的毛绒水獭坐在办公室转椅上用吸管喝冰咖啡的温馨画面。",
+    "summaryEn": "Prompt for a 3D animated scene of an adorable plush otter sitting on an office chair sipping iced coffee.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached video opens with the exact chubby otter character sitting on a black office chair in an office holding and drinking iced coffee through a straw."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a high-quality, ultra-detailed 3D animated scene featuring the same adorable chubby otter-like character with soft gray-brown fur, a creamy white belly and muzzle, tiny rounded ears, glossy black eyes, a small dark nose, rosy cheeks, short paws, and cute visible paw pads. The character has a soft plush-toy appearance, rounded proportions, and an innocent happy expression.\n\nPlace the character sitting comfortably in a modern black ergonomic office chair. The character is holding and drinking an iced coffee in a transparent plastic cup with a straw, with both paws wrapped naturally around the cup. Keep the character centered and prominent in the frame.\n\nSet the scene inside a bright modern office with rows of beige-gray cubicles, computer monitors, large windows, soft daylight, polished floors, and subtle office details in the background. Use shallow depth of field so the character remains sharply focused while the background is softly blurred.\n\nMake the image feel like a premium animated movie still: highly detailed soft fur, realistic fabric and plastic textures, expressive glossy eyes, natural soft lighting, cinematic composition, realistic shadows, subtle ambient occlusion, polished 3D rendering, adorable whimsical mood, clean composition, professional animation quality, high resolution, vertical 9:16 composition.\n\nImportant: Preserve the exact same character design and proportions throughout, with no humans in the foreground, no text, no logos, no watermark, and no distorted anatomy.",
+    "sourceRange": {
+      "start": 35,
+      "end": 1553
+    },
+    "translations": {
+      "zh": "生成一个高质量、极精细的3D动画场景：一只胖嘟嘟的可爱水獭角色，毛绒玩具质感，坐在人体工学椅上用双手捧着吸管杯喝冰咖啡，置于柔和明亮的现代办公室内，9:16竖屏电影级画质。",
+      "en": "Create an ultra-detailed 3D animated scene featuring a chubby, plush otter-like character in an ergonomic office chair drinking iced coffee in a bright modern office, rendered in high-end movie still quality with a 9:16 vertical ratio."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "3D animated character render",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
