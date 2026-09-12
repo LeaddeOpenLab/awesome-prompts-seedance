@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**65** Prompt · Son eklenen: **2026-09-12**
+**66** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1633,20 +1633,28 @@ Fütüristik anime bilim kurgu konsept sanatı, yakın gelecek meka tasarımı, 
 
 <a name="prompt-2098590744080757223"></a>
 
-### Çeviri sürüyor
+### 3D animasyon sahnesi istemi: Bir ofis döner sandalyesinde oturup pipetle buzlu kahve içen sevimli bir pelüş su samurunun iç ısıtan sahnesini tasvir eder.
 
 Yazar：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Orijinal gönderi](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
 
 3D Modelleme · Karakter · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 3D animasyon sahnesi istemi: Bir ofis döner sandalyesinde oturup pipetle buzlu kahve içen sevimli bir pelüş su samurunun iç ısıtan sahnesini tasvir eder.
 
 <img src="covers/2098590744080757223.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yumuşak gri-kahverengi kürkü, kremsi beyaz göbeği ve burnu, minik yuvarlak kulakları, parlak siyah gözleri, küçük koyu renkli burnu, pembe yanakları, kısa patileri ve görünür sevimli pati yastıkları olan aynı sevimli tombul su samuru benzeri karakteri içeren, yüksek kaliteli ve son derece ayrıntılı bir 3D animasyon sahnesi oluşturun. Karakter yumuşak bir pelüş oyuncak görünümüne, yuvarlak hatlara ve masum, mutlu bir ifadeye sahiptir.
+
+Karakteri modern, siyah ergonomik bir ofis koltuğunda rahatça otururken konumlandırın. Karakter, her iki patisini doğal bir şekilde bardağın etrafına sarmış hâlde, pipetli şeffaf plastik bir bardaktaki buzlu kahveyi tutmakta ve içmektedir. Karakteri kadrajın merkezinde ve belirgin tutun.
+
+Sahneyi; sıra sıra bej-gri çalışma bölmeleri, bilgisayar monitörleri, büyük pencereler, yumuşak gün ışığı, cilalı zeminler ve arka planda zarif ofis detayları içeren aydınlık ve modern bir ofis içine yerleştirin. Karakterin keskin bir şekilde odakta kalması, arka planın ise yumuşak bir şekilde bulanıklaşması için sığ bir alan derinliği kullanın.
+
+Görselin birinci sınıf bir animasyon film karesi hissi vermesini sağlayın: son derece ayrıntılı yumuşak kürk, gerçekçi kumaş ve plastik dokuları, etkileyici parlak gözler, doğal yumuşak aydınlatma, sinematik kompozisyon, gerçekçi gölgeler, ince ortam karartması (ambient occlusion), kusursuz 3D işleme, sevimli masalsı bir hava, temiz kompozisyon, profesyonel animasyon kalitesi, yüksek çözünürlük, dikey 9:16 kompozisyon.
+
+Önemli: Ön planda insan olmadan, metin olmadan, logo olmadan, filigran olmadan ve bozuk anatomi olmadan, baştan sona tamamen aynı karakter tasarımını ve oranlarını koruyun.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1751,6 +1759,28 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098577397717307413"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@mi7\_crypto](https://x.com/mi7_crypto) · [Orijinal gönderi](https://x.com/mi7_crypto/status/2098577397717307413)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098577397717307413.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098562237333913765"></a>
 

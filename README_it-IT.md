@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**65** Prompt · Ultima aggiunta: **2026-09-12**
+**66** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1639,20 +1639,28 @@ Concept art anime sci-fi futuristico, design di mecha del prossimo futuro, detta
 
 <a name="prompt-2098590744080757223"></a>
 
-### Traduzione in corso
+### Prompt per scena animata 3D: raffigura una scena rincuorante di un adorabile peluche di lontra seduto su una sedia da ufficio girevole mentre beve caffè freddo con una cannuccia.
 
 Autore：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Post originale](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
 
 Rendering 3D · Personaggio · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per scena animata 3D: raffigura una scena rincuorante di un adorabile peluche di lontra seduto su una sedia da ufficio girevole mentre beve caffè freddo con una cannuccia.
 
 <img src="covers/2098590744080757223.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una scena animata in 3D di alta qualità e ultra-dettagliata con lo stesso adorabile e paffuto personaggio simile a una lontra, con morbida pelliccia grigio-marrone, pancia e musetto bianco crema, minuscole orecchie arrotondate, occhi neri lucidi, un piccolo naso scuro, guance rosee, zampe corte e graziosi cuscinetti visibili. Il personaggio ha l'aspetto di un morbido peluche, proporzioni arrotondate e un'espressione innocente e felice.
+
+Posiziona il personaggio comodamente seduto su una moderna sedia da ufficio ergonomica nera. Il personaggio tiene e beve un caffè freddo in un bicchiere di plastica trasparente con cannuccia, con entrambe le zampe avvolte naturalmente attorno al bicchiere. Mantieni il personaggio centrato e prominente nell'inquadratura.
+
+Ambienta la scena all'interno di un ufficio moderno e luminoso con file di postazioni di lavoro grigio-beige, monitor di computer, grandi finestre, morbida luce diurna, pavimenti lucidi e sottili dettagli di ufficio sullo sfondo. Usa una profondità di campo ridotta affinché il personaggio rimanga nitidamente a fuoco mentre lo sfondo è delicatamente sfocato.
+
+Rendi l'immagine simile al fotogramma di un film d'animazione di alta gamma: pelliccia morbida altamente dettagliata, texture realistiche di tessuto e plastica, occhi lucidi ed espressivi, illuminazione morbida e naturale, composizione cinematografica, ombre realistiche, sottile occlusione ambientale, rendering 3D rifinito, atmosfera adorabile e stravagante, composizione pulita, qualità di animazione professionale, alta risoluzione, composizione verticale 9:16.
+
+Importante: mantieni esattamente lo stesso design e le stesse proporzioni del personaggio in ogni dettaglio, senza esseri umani in primo piano, senza testo, senza loghi, senza filigrane e senza anatomia distorta.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1757,6 +1765,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098577397717307413"></a>
+
+### Traduzione in corso
+
+Autore：[@mi7\_crypto](https://x.com/mi7_crypto) · [Post originale](https://x.com/mi7_crypto/status/2098577397717307413)
+
+Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098577397717307413.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098562237333913765"></a>
 

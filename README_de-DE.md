@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**65** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**66** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1639,20 +1639,28 @@ Futuristische Anime-Sci-Fi-Konzeptkunst, Mecha-Design der nahen Zukunft, Hard-Su
 
 <a name="prompt-2098590744080757223"></a>
 
-### Übersetzung läuft
+### 3D-Animationsszene-Prompt: Zeigt ein herzerwärmendes Bild eines entzückenden Plüschotters, der auf einem Bürodrehstuhl sitzt und Eiskaffee mit einem Strohhalm trinkt.
 
 Autor：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Originalbeitrag](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
 
 3D-Rendering · Charakter · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 3D-Animationsszene-Prompt: Zeigt ein herzerwärmendes Bild eines entzückenden Plüschotters, der auf einem Bürodrehstuhl sitzt und Eiskaffee mit einem Strohhalm trinkt.
 
 <img src="covers/2098590744080757223.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine hochwertige, extrem detaillierte 3D-Animationsszene mit demselben bezaubernden, rundlichen, otterähnlichen Charakter mit weichem graubraunem Fell, cremeweißem Bauch und Schnauze, winzigen runden Ohren, glänzenden schwarzen Augen, einer kleinen dunklen Nase, rosigen Wangen, kurzen Pfoten und niedlichen sichtbaren Pfotenballen. Der Charakter besitzt das weiche Aussehen eines Plüschtiers, abgerundete Proportionen und einen unschuldigen, glücklichen Gesichtsausdruck.
+
+Platziere den Charakter bequem sitzend in einem modernen, schwarzen, ergonomischen Bürostuhl. Der Charakter hält und trinkt einen Eiskaffee in einem durchsichtigen Plastikbecher mit Strohhalm, wobei beide Pfoten natürlich um den Becher gelegt sind. Halte den Charakter zentriert und markant im Bild.
+
+Platziere die Szene in einem hellen, modernen Büro mit Reihen beigegrauer Arbeitskabinen, Computermonitoren, großen Fenstern, sanftem Tageslicht, polierten Böden und dezenten Bürodetails im Hintergrund. Verwende eine geringe Schärfentiefe, sodass der Charakter scharf fokussiert bleibt, während der Hintergrund sanft verschwimmt.
+
+Lass das Bild wie ein Standbild aus einem erstklassigen Animationsfilm wirken: hochdetailliertes weiches Fell, realistische Stoff- und Kunststofftexturen, ausdrucksstarke glänzende Augen, natürliche weiche Beleuchtung, filmische Komposition, realistische Schatten, subtile Umgebungsverdeckung (Ambient Occlusion), ausgefeiltes 3D-Rendering, bezaubernde verspielte Stimmung, saubere Komposition, professionelle Animationsqualität, hohe Auflösung, vertikale Komposition im Format 9:16.
+
+Wichtig: Behalte das exakt gleiche Charakterdesign und dieselben Proportionen durchgehend bei, ohne Menschen im Vordergrund, ohne Text, ohne Logos, ohne Wasserzeichen und ohne verzerrte Anatomie.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1757,6 +1765,28 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098577397717307413"></a>
+
+### Übersetzung läuft
+
+Autor：[@mi7\_crypto](https://x.com/mi7_crypto) · [Originalbeitrag](https://x.com/mi7_crypto/status/2098577397717307413)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098577397717307413.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098562237333913765"></a>
 

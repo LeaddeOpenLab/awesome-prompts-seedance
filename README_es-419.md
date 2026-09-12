@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**65** Prompts · Última incorporación: **2026-09-12**
+**66** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1639,20 +1639,28 @@ Arte conceptual de ciencia ficción anime futurista, diseño de mecha de futuro 
 
 <a name="prompt-2098590744080757223"></a>
 
-### Traducción en curso
+### Prompt de escena animada en 3D: representa una acogedora escena de una adorable nutria de peluche sentada en una silla de oficina bebiendo café helado con popote.
 
 Autor：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Publicación original](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
 
 Renderizado 3D · Personaje · Comida y bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de escena animada en 3D: representa una acogedora escena de una adorable nutria de peluche sentada en una silla de oficina bebiendo café helado con popote.
 
 <img src="covers/2098590744080757223.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una escena animada en 3D de alta calidad y ultradetallada que muestre al mismo adorable personaje regordete con aspecto de nutria, de suave pelaje marrón grisáceo, vientre y hocico blanco cremoso, pequeñas orejas redondeadas, ojos negros brillantes, una pequeña nariz oscura, mejillas sonrosadas, patas cortas y lindas almohadillas visibles. El personaje tiene una apariencia suave de peluche, proporciones redondeadas y una expresión inocente y feliz.
+
+Ubica al personaje sentado cómodamente en una moderna silla de oficina ergonómica de color negro. El personaje sostiene y bebe un café helado en un vaso de plástico transparente con popote, con ambas patas envueltas de manera natural alrededor del vaso. Mantén al personaje centrado y prominente en el encuadre.
+
+Ambientada en el interior de una oficina moderna y luminosa, con filas de cubículos de color beige grisáceo, monitores de computadora, grandes ventanales, suave luz natural, pisos pulidos y sutiles detalles de oficina en el fondo. Utiliza una profundidad de campo reducida para que el personaje permanezca enfocado con nitidez mientras el fondo queda suavemente desenfocado.
+
+Haz que la imagen parezca un fotograma de una película animada de primera categoría: pelaje suave muy detallado, texturas realistas de tela y plástico, ojos brillantes y expresivos, iluminación suave y natural, composición cinematográfica, sombras realistas, oclusión ambiental sutil, renderizado 3D pulido, atmósfera adorable y fantasiosa, composición limpia, calidad de animación profesional, alta resolución, composición vertical 9:16.
+
+Importante: Conserva exactamente el mismo diseño y proporciones del personaje en todo momento, sin humanos en primer plano, sin texto, sin logotipos, sin marcas de agua y sin anatomía distorsionada.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1757,6 +1765,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098577397717307413"></a>
+
+### Traducción en curso
+
+Autor：[@mi7\_crypto](https://x.com/mi7_crypto) · [Publicación original](https://x.com/mi7_crypto/status/2098577397717307413)
+
+Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098577397717307413.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098562237333913765"></a>
 

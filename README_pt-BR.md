@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**65** Prompts · Última adição: **2026-09-12**
+**66** Prompts · Última adição: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1633,20 +1633,28 @@ Arte conceitual de ficção científica anime futurista, design de mecha de futu
 
 <a name="prompt-2098590744080757223"></a>
 
-### Tradução em andamento
+### Prompt de cena de animação 3D: retrata uma cena aconchegante de uma adorável lontra de pelúcia sentada em uma cadeira giratória de escritório tomando café gelado com canudinho.
 
 Autor：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Publicação original](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
 
 Renderização 3D · Personagem · Alimentos / Bebidas · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de cena de animação 3D: retrata uma cena aconchegante de uma adorável lontra de pelúcia sentada em uma cadeira giratória de escritório tomando café gelado com canudinho.
 
 <img src="covers/2098590744080757223.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma cena animada em 3D de alta qualidade e ultradetalhada apresentando o mesmo adorável personagem rechonchudo semelhante a uma lontra, com pelo macio marrom-acinzentado, barriga e focinho branco-creme, orelhas pequeninas e arredondadas, olhos pretos brilhantes, nariz pequeno e escuro, bochechas rosadas, patas curtas e almofadinhas fofas e visíveis nas patas. O personagem tem a aparência suave de um bicho de pelúcia, proporções arredondadas e uma expressão inocente e feliz.
+
+Posicione o personagem sentado confortavelmente em uma cadeira de escritório ergonômica preta e moderna. O personagem está segurando e tomando um café gelado em um copo de plástico transparente com canudo, com as duas patas naturalmente enroladas ao redor do copo. Mantenha o personagem centralizado e em destaque no enquadramento.
+
+Defina a cena dentro de um escritório moderno e iluminado com fileiras de cubículos bege-acinzentados, monitores de computador, janelas grandes, luz natural suave, pisos polidos e detalhes sutis de escritório ao fundo. Use profundidade de campo rasa para que o personagem permaneça com foco nítido enquanto o fundo fica suavemente desfocado.
+
+Faça a imagem parecer um fotograma de filme de animação de alto nível: pelo macio altamente detalhado, texturas realistas de tecido e plástico, olhos expressivos e brilhantes, iluminação suave natural, composição cinematográfica, sombras realistas, oclusão de ambiente sutil, renderização 3D refinada, clima adorável e fantasioso, composição limpa, qualidade de animação profissional, alta resolução, composição vertical 9:16.
+
+Importante: preserve exatamente o mesmo design e proporções do personagem em todos os momentos, sem humanos em primeiro plano, sem texto, sem logotipos, sem marcas d'água e sem anatomia distorcida.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1751,6 +1759,28 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098577397717307413"></a>
+
+### Tradução em andamento
+
+Autor：[@mi7\_crypto](https://x.com/mi7_crypto) · [Publicação original](https://x.com/mi7_crypto/status/2098577397717307413)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098577397717307413.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098562237333913765"></a>
 

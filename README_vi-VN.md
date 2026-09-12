@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**65** Prompt · Bổ sung mới nhất: **2026-09-12**
+**66** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1759,20 +1759,28 @@ Nghệ thuật ý niệm khoa học viễn tưởng anime tương lai, thiết k
 
 <a name="prompt-2098590744080757223"></a>
 
-### Đang dịch
+### Lời nhắc cảnh hoạt hình 3D: Khắc họa hình ảnh ấm áp về một chú rái cá nhồi bông đáng yêu ngồi trên ghế xoay văn phòng uống cà phê đá bằng ống hút.
 
 Tác giả：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Bài gốc](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
 
 Kết xuất 3D · Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc cảnh hoạt hình 3D: Khắc họa hình ảnh ấm áp về một chú rái cá nhồi bông đáng yêu ngồi trên ghế xoay văn phòng uống cà phê đá bằng ống hút.
 
 <img src="covers/2098590744080757223.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một khung cảnh hoạt hình 3D chất lượng cao, siêu chi tiết với cùng một nhân vật giống rái cá mũm mĩm đáng yêu với bộ lông mềm mại màu nâu xám, bụng và mõm màu trắng kem, đôi tai tròn nhỏ xíu, đôi mắt đen láy long lanh, chiếc mũi nhỏ sẫm màu, đôi má ửng hồng, bốn chân ngắn và đệm bàn chân lộ ra xinh xắn. Nhân vật mang vẻ ngoài như thú nhồi bông mềm mại, tỷ lệ cơ thể tròn trịa và biểu cảm ngây thơ, vui vẻ.
+
+Đặt nhân vật ngồi thoải mái trên một chiếc ghế văn phòng công thái học màu đen hiện đại. Nhân vật đang cầm và uống một ly cà phê đá trong cốc nhựa trong suốt có ống hút, cả hai bàn chân trước ôm tự nhiên quanh chiếc cốc. Giữ nhân vật ở vị trí trung tâm và nổi bật trong khung hình.
+
+Bối cảnh diễn ra bên trong một văn phòng hiện đại sáng sủa với các dãy vách ngăn màu be xám, màn hình máy tính, cửa sổ lớn, ánh sáng ban ngày dịu nhẹ, sàn nhà bóng loáng và các chi tiết văn phòng tinh tế ở hậu cảnh. Sử dụng độ sâu trường ảnh nông để nhân vật luôn được lấy nét sắc nét trong khi hậu cảnh bị mờ nhẹ nhàng.
+
+Làm cho hình ảnh mang lại cảm giác như một khung hình tĩnh từ phim hoạt hình cao cấp: bộ lông mềm mại cực kỳ chi tiết, kết cấu vải và nhựa chân thực, đôi mắt bóng bẩy giàu biểu cảm, ánh sáng dịu tự nhiên, bố cục mang tính điện ảnh, bóng đổ chân thực, hiệu ứng che khuất môi trường tinh tế, kết xuất 3D mượt mà, tâm trạng kỳ thú đáng yêu, bố cục gọn gàng, chất lượng hoạt hình chuyên nghiệp, độ phân giải cao, khung hình dọc tỷ lệ 9:16.
+
+Quan trọng: Giữ nguyên thiết kế và tỷ lệ nhân vật chính xác xuyên suốt, không có con người ở tiền cảnh, không có văn bản, không có logo, không có hình mờ (watermark) và không có cấu trúc giải phẫu bị méo mó.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1877,6 +1885,28 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098577397717307413"></a>
+
+### Đang dịch
+
+Tác giả：[@mi7\_crypto](https://x.com/mi7_crypto) · [Bài gốc](https://x.com/mi7_crypto/status/2098577397717307413)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098577397717307413.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098562237333913765"></a>
 

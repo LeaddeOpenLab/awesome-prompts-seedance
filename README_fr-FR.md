@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**65** Prompts · Dernier ajout: **2026-09-12**
+**66** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1639,20 +1639,28 @@ Art conceptuel d'anime de science-fiction futuriste, conception de mecha d'un fu
 
 <a name="prompt-2098590744080757223"></a>
 
-### Traduction en cours
+### Prompt de scène d'animation 3D : illustrant une scène chaleureuse d'une adorable loutre en peluche assise sur un fauteuil de bureau tournant et buvant un café glacé avec une paille.
 
 Auteur：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Publication originale](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
 
 Rendu 3D · Personnage · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de scène d'animation 3D : illustrant une scène chaleureuse d'une adorable loutre en peluche assise sur un fauteuil de bureau tournant et buvant un café glacé avec une paille.
 
 <img src="covers/2098590744080757223.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une scène d'animation 3D ultra-détaillée et de haute qualité mettant en scène le même adorable personnage potelé ressemblant à une loutre, avec une douce fourrure gris-brun, un ventre et un museau blanc crème, de minuscules oreilles arrondies, des yeux noirs brillants, une petite truffe foncée, des joues roses, des pattes courtes et de jolis coussinets visibles. Le personnage a l'aspect d'une peluche toute douce, des proportions arrondies et une expression innocente et heureuse.
+
+Placez le personnage confortablement assis dans un fauteuil de bureau ergonomique noir et moderne. Le personnage tient et boit un café glacé dans un gobelet en plastique transparent avec une paille, les deux pattes naturellement enroulées autour du gobelet. Gardez le personnage centré et mis en valeur au premier plan.
+
+Placez la scène à l'intérieur d'un bureau moderne et lumineux avec des rangées de cabines de travail beige-gris, des écrans d'ordinateur, de grandes fenêtres, une douce lumière du jour, des sols polis et de subtils détails de bureau en arrière-plan. Utilisez une faible profondeur de champ pour que le personnage reste parfaitement net tandis que l'arrière-plan est doucement flouté.
+
+Donnez à l'image l'impression d'une capture d'un film d'animation haut de gamme : fourrure douce extrêmement détaillée, textures de tissu et de plastique réalistes, yeux expressifs et brillants, éclairage doux et naturel, composition cinématographique, ombres réalistes, occlusion ambiante subtile, rendu 3D soigné, atmosphère adorable et fantaisiste, cadrage épuré, qualité d'animation professionnelle, haute résolution, composition verticale 9:16.
+
+Important : conservez exactement le même design de personnage et les mêmes proportions du début à la fin, sans humains au premier plan, sans texte, sans logos, sans filigrane et sans anatomie déformée.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1757,6 +1765,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098577397717307413"></a>
+
+### Traduction en cours
+
+Auteur：[@mi7\_crypto](https://x.com/mi7_crypto) · [Publication originale](https://x.com/mi7_crypto/status/2098577397717307413)
+
+Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098577397717307413.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098562237333913765"></a>
 

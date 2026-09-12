@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**65** Prompts · Latest addition: **2026-09-12**
+**66** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -2293,6 +2293,73 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098577397717307413"></a>
+
+### Third-person action video prompt in the style of an open-world crime game set in Edo-period Japan.
+
+Author：[@mi7\_crypto](https://x.com/mi7_crypto) · [Source](https://x.com/mi7_crypto/status/2098577397717307413)
+
+Character · Published
+
+**Summary:** Third-person action video prompt in the style of an open-world crime game set in Edo-period Japan.
+
+<img src="covers/2098577397717307413.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A 30-second video in the style of an open-world crime game set in Edo-period Japan. 4:3 aspect ratio. Live-action photorealistic. While it visually depicts a realistic Edo castle town, the presentation is that of modern open-world gameplay footage. Fast-paced, comical, and full of lawless rampage.
+
+The protagonist is a mean-spirited old woman living in a rundown tenement rowhouse. The player character is fixed as the old woman. The old man is an accompanying NPC.
+The old woman is petite, somewhat thin, slightly hunched, yet unnaturally energetic. Her gray hair is messily tied back, with deep wrinkles, sharp eyes, and a spiteful grin showing slightly chipped teeth. She wears a faded, plain kimono, an apron, and straw sandals. Quick-tempered, quick to strike, and foul-mouthed.
+The old man is a cynical, spiteful geezer who loves to drink. Lean build, flushed red face, thin gray hair, stubble, and a slight slouch. He wears a ragged, unbelted casual kimono, a haramaki belly warmer, and straw sandals. His eyes light up instantly at the sight of alcohol. Irritable and servile, yet strangely full of life only when going on a rampage alongside the old woman.
+
+The setting is a lively Edo castle town featuring rundown tenements, narrow alleys, street stalls, a sake shop, bridges, a shrine, wooden merchant houses, townsfolk, ronin, okappiki thief-takers, and doshin police constables. The okappiki wield jutte truncheons, with some carrying paper lanterns. The doshin wear haori jackets or kamishimo, carrying katanas and jutte. The town is filled with authentic Edo-era props such as paper lanterns, andon lamps, wooden crates, buckets, handcarts, and fabric noren curtains. Sake is contained in ceramic tokkuri flasks and sake barrels, never glass bottles.
+
+The entire footage is clearly framed as a gameplay screen. The camera predominantly follows the old woman in a third-person perspective from behind. A circular minimap is located at the bottom-left of the screen. A MISSION display is at top-center. A WANTED level sits at the top-right. A health gauge and inventory display are positioned at the bottom. Includes pop-ups upon acquiring items and a MISSION PASSED prompt. In-game text must be displayed accurately as written without reinterpretation. A slight screen shake occurs with every punch, collision, or hit taken. A subtle red flash flashes upon taking damage. Game-like effect displays appear upon successful heists or item acquisitions. All dialogue spoken by characters must be exclusively in Japanese. Dialogue text must be written only in hiragana. Characters do not speak Chinese, English, or any other foreign language.
+
+[0–5s | Tenement House・Mission Start]
+Inside a single room of a dilapidated, poor tenement house. Starts in a third-person game view from behind the old woman. The old man yells while shaking an empty ceramic tokkuri flask. The sake has run out. The old woman clicks her tongue and turns around.
+Old man: 「さけじゃ！ さけ！」
+Old woman: 「うるさいね！」
+Accurately displayed at the top-center of the screen:
+「MISSION：じじいの酒をGETせよ」
+
+[5–10s | Stepping into Town・First Brawl]
+The old woman storms out of the tenement, with the old man trailing behind. She bumps into a townsman in an alley and immediately slaps him across the face. The old man shoves him from the side. An okappiki notices the disturbance.
+Old woman: 「どきな！」
+Old man: 「じゃまだ！」
+Accurately displayed at the top-right:
+「WANTED ★1」
+
+[10–16s | Sake Shop Raid]
+The duo rushes into a sake shop. An altercation with the shopkeeper turns into an all-out brawl. The old woman punches the shopkeeper while the old man tries to snatch a ceramic tokkuri. A nearby ronin intervenes, and the old woman kicks him. The old man whacks him with a wooden stick. Stall bowls, wooden buckets, and merchandise crates scatter across the scene. The lanterns hanging in front of the shop violently sway.
+Old woman: 「さけ、よこしな！」
+Old man: 「わしの さけじゃ！」
+
+[16–22s | Katana Heist・Escalating Pursuit]
+The old woman wrests the ronin's katana away. She slashes at pursuers with the stolen sword. The old man smirks while clutching the ceramic tokkuri to his chest. Okappiki brandishing jutte rush forward swinging paper lanterns. Doshin draw their swords to join the fray.
+Accurately displayed at the bottom of the screen:
+「KATANA GET」
+「TOKKURI GET」
+Accurately displayed at the top-right:
+「WANTED ★2」
+
+[22–27s | Stealing a Horse・The Escape Begins]
+An okappiki blows a whistle, summoning more doshin. The old woman knocks down pursuers and spots a pack horse. She hijacks the horse, leaping onto its back, while the old man clings onto her from behind. Behind them, okappiki with jutte and doshin with drawn swords give chase. Street lanterns and noren curtains flutter as townsfolk flee in panic.
+Old woman: 「いくよ！」
+Old man: 「にげろ！」
+
+[27–30s | First Half Finale]
+Blasting through the streets of Edo on horseback. The old woman brandishes her katana while the old man screams, clutching the tokkuri. Merchant lanterns, bridge balustrades, and stall fabrics flutter as pursuers close in. Remaining in a third-person gameplay view, the final frame of the first half ends capturing the old woman and old man fleeing on the horse from behind.
+Accurately displayed at the top-right:
+「WANTED ★3」
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098562237333913765"></a>
 
