@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**68** Prompts · Latest addition: **2026-09-12**
+**69** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -2448,6 +2448,68 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098625551833669826"></a>
+
+### 30-second handheld selfie video prompt featuring a woman and a tabby kitten by a rainy window playing with blind cords.
+
+Author：[@itxabdullaa](https://x.com/itxabdullaa) · [Source](https://x.com/itxabdullaa/status/2098625551833669826)
+
+Portrait / Selfie · Character · Published
+
+**Summary:** 30-second handheld selfie video prompt featuring a woman and a tabby kitten by a rainy window playing with blind cords.
+
+<img src="covers/2098625551833669826.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+REFERENCE & SUBJECT Use "@<image1" as the exact visual reference for the woman. Preserve her identity, face, hairstyle, clothing, skin texture, body proportions, and natural appearance throughout the entire clip. Exactly ONE small tabby kitten. The same kitten remains continuous throughout. No other animal, no duplicate kitten.
+
+FORMAT 30-second vertical 9:16 handheld front-camera selfie. Indoor room beside a window on a rainy day. Soft gray natural daylight through the glass. Very subtle window reflections and realistic ambient room sound. No color grading, no cinematic lighting, no beauty filter.
+
+---
+
+0–5 SEC — COZY RAINY MOMENT
+
+The woman stands beside the window holding the kitten against her chest. Rain droplets slowly run down the glass behind her. She looks into the phone, then gently scratches the kitten under its chin. The kitten calmly looks toward the window. She smiles softly and casually says: "Such a cozy day, huh?" The phone remains slightly imperfect and naturally handheld.
+
+---
+
+5–10 SEC — SOMETHING MOVES
+
+A small movement from the window blinds catches the kitten's attention. Its ears suddenly point forward. The woman notices the kitten staring past her shoulder. She turns slightly toward the window while keeping the kitten securely supported. The kitten reaches one paw toward the hanging blind cord. She quietly laughs and says: "What are you looking at?"
+
+---
+
+10–15 SEC — BLIND CORD ATTACK
+
+The kitten suddenly grabs the blind cord with both paws. The woman reacts with surprise and gently tries to move the cord away. The kitten refuses and pulls it toward itself. She laughs as the phone shakes slightly in her hand. She says: "Hey, leave that alone." The kitten keeps batting at the cord.
+
+---
+
+15–20 SEC — CHAOTIC PLAY
+
+The kitten squirms excitedly against her chest while trying to catch the moving cord. She supports its body securely with one hand and gently blocks its paws with the other. The kitten twists around and reaches again. She laughs harder and says: "You're getting way too curious." A few loose strands of her hair fall naturally beside her face.
+
+---
+
+20–25 SEC — KITTEN CLIMBS
+
+The kitten suddenly climbs toward her shoulder, still focused on the window. Its paws grip the fabric of her top. She gives a small surprised yelp followed by laughter. Her phone hand rises slightly as she tries to keep both herself and the kitten in frame. The camera briefly becomes uneven before naturally re-centering.
+
+---
+
+25–30 SEC — SURPRISE SELFIE
+
+The kitten reaches her shoulder and suddenly turns away from the window toward the phone. It moves its face close to the lens, sniffing curiously. She leans backward while laughing. The kitten raises one paw toward the camera. She starts: "Oh, now you want—" and breaks into laughter. The paw nearly touches the lens. The phone dips naturally. The clip ends mid-laugh.
+
+AUDIO Rain ambience through the window, faint blind movement, fabric rustling, kitten movement, one tiny mewl, woman's natural voice, breathing, nose-laughs and genuine laughter. No background music. No subtitles. No text. No logo. No watermark. No cuts. No zoom. Exactly one kitten.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098577397717307413"></a>
 
