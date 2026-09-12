@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T04:19:32.903Z",
+  "model": "seedance2.5",
+  "prompt": "江戸時代の日本を舞台にした、オープンワールド犯罪ゲーム風の30秒映像。4:3。実写フォトリアル。見た目はリアルな江戸の城下町だが、見せ方は現代のオープンワールドゲームのゲームプレイ映像。テンポが速く、コミカルで、無法な大暴れ感がある。\n\n主人公は、貧乏長屋に暮らす意地悪なババア。プレイヤーキャラはババア固定。じじいは同行NPC。\nババアは、小柄でやや痩せ気味、腰が少し曲がっているが異常に元気。白髪を雑に後ろで束ね、深いしわ、鋭い目つき、歯が少し欠けた意地悪そうな笑顔。色褪せた地味な着物、前掛け、草履。すぐ怒る、すぐ殴る、口が悪い。\nじじいは、酒好きでひねくれた意地悪じじい。痩せた体、赤ら顔、薄い白髪、無精髭、少し猫背。ボロい着流し、腹巻き、草履。酒を見ると急に目が輝く。短気で卑屈だが、ババアと一緒に暴れる時だけ妙に生き生きする。\n\n舞台は活気ある江戸の城下町。貧乏長屋、狭い路地、屋台、酒屋、橋、神社、木造の商店、町人、浪人、岡っ引き、同心がいる。岡っ引きは十手を持ち、提灯を掲げる者もいる。同心は羽織や裃で、刀と十手を持つ。町には提灯、行灯、木箱、桶、荷車、布の暖簾など江戸らしい小物が多い。酒はガラス瓶ではなく、陶器の徳利と酒樽にする。\n\n映像全体は、はっきりゲームプレイ画面として見せる。カメラは基本的にババアの背後から追う三人称視点。画面左下に円形ミニマップ。上部中央にMISSION表示。右上にWANTEDレベル。下部に体力ゲージと所持アイテム表示。アイテム取得時のポップアップ、MISSION PASSED表示を入れる。ゲーム文字は必ず正確にそのまま表示し、再解釈しない。殴る、衝突する、被弾するたびに軽い画面揺れ。ダメージ時は軽い赤フラッシュ。強奪成功時やアイテム取得時はゲームらしい効果表示。登場人物のセリフはすべて日本語のみ。セリフ表記はひらがなのみ。中国語、英語、その他の外国語では話さない。\n\n【0–5秒｜長屋・ミッション開始】\nボロい貧乏長屋の一室。三人称ゲーム視点でババアの背後から始まる。じじいが空の陶器の徳利を振って怒鳴る。酒が切れている。ババアは舌打ちして振り向く。\nじじい「さけじゃ！ さけ！」\nばばあ「うるさいね！」\n画面上部中央に正確に表示：\n「MISSION：じじいの酒をGETせよ」\n\n【5–10秒｜町へ出る・最初の乱闘】\nババアが長屋を飛び出し、じじいが後ろからついてくる。路地で町人とぶつかり、ババアがいきなり平手打ち。じじいも横からどつく。岡っ引きが異変に気づく。\nばばあ「どきな！」\nじじい「じゃまだ！」\n右上に正確に表示：\n「WANTED ★1」\n\n【10–16秒｜酒屋襲撃】\n二人は酒屋へ突入。店主ともめて大乱闘。ババアが店主を殴り、じじいが陶器の徳利を掴もうとする。近くの浪人が絡んできて、ババアが蹴る。じじいが棒でどつく。屋台の椀、桶、商品箱が飛び散る。店先の提灯が激しく揺れる。\nばばあ「さけ、よこしな！」\nじじい「わしの さけじゃ！」\n\n【16–22秒｜刀強奪・追跡激化】\nババアが浪人の刀を奪う。奪った刀で追ってくる相手を斬りつける。じじいは陶器の徳利を抱えてニヤつく。十手を構えた岡っ引きが提灯を振りながら突っ込んでくる。同心も刀を抜いて加勢する。\n画面下に正確に表示：\n「KATANA GET」\n「TOKKURI GET」\n右上に正確に表示：\n「WANTED ★2」\n\n【22–27秒｜馬強奪・逃走開始】\n岡っ引きが笛を吹き、同心も集まる。ババアは追手をどつき倒し、荷馬を見つける。ババアが馬を奪って飛び乗り、じじいは後ろにしがみつく。後方では十手を持った岡っ引きと、刀を抜いた同心が追う。町の提灯や暖簾が揺れ、町人が逃げ惑う。\nばばあ「いくよ！」\nじじい「にげろ！」\n\n【27–30秒｜前半ラスト】\n馬で江戸の町を爆走。ババアが刀を振り回し、じじいが徳利を抱えて叫ぶ。商店の提灯、橋の欄干、屋台の布が揺れ、追っ手が迫る。三人称ゲーム画面のまま、前半最後のフレームは、馬で逃走するババアとじじいを背後から捉えた状態で終わる。\nみぎうえに正確に表示：\n「WANTED ★3」",
+  "promptTranslations": {
+    "en": "A 30-second video in the style of an open-world crime game set in Edo-period Japan. 4:3 aspect ratio. Live-action photorealistic. While it visually depicts a realistic Edo castle town, the presentation is that of modern open-world gameplay footage. Fast-paced, comical, and full of lawless rampage.\n\nThe protagonist is a mean-spirited old woman living in a rundown tenement rowhouse. The player character is fixed as the old woman. The old man is an accompanying NPC.\nThe old woman is petite, somewhat thin, slightly hunched, yet unnaturally energetic. Her gray hair is messily tied back, with deep wrinkles, sharp eyes, and a spiteful grin showing slightly chipped teeth. She wears a faded, plain kimono, an apron, and straw sandals. Quick-tempered, quick to strike, and foul-mouthed.\nThe old man is a cynical, spiteful geezer who loves to drink. Lean build, flushed red face, thin gray hair, stubble, and a slight slouch. He wears a ragged, unbelted casual kimono, a haramaki belly warmer, and straw sandals. His eyes light up instantly at the sight of alcohol. Irritable and servile, yet strangely full of life only when going on a rampage alongside the old woman.\n\nThe setting is a lively Edo castle town featuring rundown tenements, narrow alleys, street stalls, a sake shop, bridges, a shrine, wooden merchant houses, townsfolk, ronin, okappiki thief-takers, and doshin police constables. The okappiki wield jutte truncheons, with some carrying paper lanterns. The doshin wear haori jackets or kamishimo, carrying katanas and jutte. The town is filled with authentic Edo-era props such as paper lanterns, andon lamps, wooden crates, buckets, handcarts, and fabric noren curtains. Sake is contained in ceramic tokkuri flasks and sake barrels, never glass bottles.\n\nThe entire footage is clearly framed as a gameplay screen. The camera predominantly follows the old woman in a third-person perspective from behind. A circular minimap is located at the bottom-left of the screen. A MISSION display is at top-center. A WANTED level sits at the top-right. A health gauge and inventory display are positioned at the bottom. Includes pop-ups upon acquiring items and a MISSION PASSED prompt. In-game text must be displayed accurately as written without reinterpretation. A slight screen shake occurs with every punch, collision, or hit taken. A subtle red flash flashes upon taking damage. Game-like effect displays appear upon successful heists or item acquisitions. All dialogue spoken by characters must be exclusively in Japanese. Dialogue text must be written only in hiragana. Characters do not speak Chinese, English, or any other foreign language.\n\n[0–5s | Tenement House・Mission Start]\nInside a single room of a dilapidated, poor tenement house. Starts in a third-person game view from behind the old woman. The old man yells while shaking an empty ceramic tokkuri flask. The sake has run out. The old woman clicks her tongue and turns around.\nOld man: 「さけじゃ！ さけ！」\nOld woman: 「うるさいね！」\nAccurately displayed at the top-center of the screen:\n「MISSION：じじいの酒をGETせよ」\n\n[5–10s | Stepping into Town・First Brawl]\nThe old woman storms out of the tenement, with the old man trailing behind. She bumps into a townsman in an alley and immediately slaps him across the face. The old man shoves him from the side. An okappiki notices the disturbance.\nOld woman: 「どきな！」\nOld man: 「じゃまだ！」\nAccurately displayed at the top-right:\n「WANTED ★1」\n\n[10–16s | Sake Shop Raid]\nThe duo rushes into a sake shop. An altercation with the shopkeeper turns into an all-out brawl. The old woman punches the shopkeeper while the old man tries to snatch a ceramic tokkuri. A nearby ronin intervenes, and the old woman kicks him. The old man whacks him with a wooden stick. Stall bowls, wooden buckets, and merchandise crates scatter across the scene. The lanterns hanging in front of the shop violently sway.\nOld woman: 「さけ、よこしな！」\nOld man: 「わしの さけじゃ！」\n\n[16–22s | Katana Heist・Escalating Pursuit]\nThe old woman wrests the ronin's katana away. She slashes at pursuers with the stolen sword. The old man smirks while clutching the ceramic tokkuri to his chest. Okappiki brandishing jutte rush forward swinging paper lanterns. Doshin draw their swords to join the fray.\nAccurately displayed at the bottom of the screen:\n「KATANA GET」\n「TOKKURI GET」\nAccurately displayed at the top-right:\n「WANTED ★2」\n\n[22–27s | Stealing a Horse・The Escape Begins]\nAn okappiki blows a whistle, summoning more doshin. The old woman knocks down pursuers and spots a pack horse. She hijacks the horse, leaping onto its back, while the old man clings onto her from behind. Behind them, okappiki with jutte and doshin with drawn swords give chase. Street lanterns and noren curtains flutter as townsfolk flee in panic.\nOld woman: 「いくよ！」\nOld man: 「にげろ！」\n\n[27–30s | First Half Finale]\nBlasting through the streets of Edo on horseback. The old woman brandishes her katana while the old man screams, clutching the tokkuri. Merchant lanterns, bridge balustrades, and stall fabrics flutter as pursuers close in. Remaining in a third-person gameplay view, the final frame of the first half ends capturing the old woman and old man fleeing on the horse from behind.\nAccurately displayed at the top-right:\n「WANTED ★3」"
+  },
+  "summaryTranslations": {
+    "en": "Third-person action video prompt in the style of an open-world crime game set in Edo-period Japan."
+  },
+  "translationVersion": 2,
+  "summary": "江戸時代を舞台にしたオープンワールド犯罪ゲーム風の三人称アクション映像プロンプト。",
+  "summaryEn": "Third-person action video prompt in the style of an Edo-period open-world crime game.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098577397717307413",
+    "canonicalUrl": "https://x.com/mi7_crypto/status/2098577397717307413",
+    "author": {
+      "username": "mi7_crypto",
+      "displayName": "M7［mi7］AI",
+      "profileUrl": "https://x.com/mi7_crypto"
+    },
+    "publishedAt": "2026-09-12T01:00:15.000Z",
+    "collectedAt": "2026-09-12T04:17:01.011Z",
+    "language": "ja",
+    "originalText": "GTA IV : 🏯EDO EDITION 🇯🇵\n\nババアGTAに引き続きジジイもバズってるので、時代をさかのぼった『江戸の世界観』のGTAで楽しんでください♪\n\nPollo AIのSeedance2.5で作成されています！\nText to Videoのみで誰でも作れます♪\n\n↓プロンプト公開\n\n＜prompt＞※前半15秒のみ\n（後半は前半をアレンジしてみて）\n===開始===\n江戸時代の日本を舞台にした、オープンワールド犯罪ゲーム風の30秒映像。4:3。実写フォトリアル。見た目はリアルな江戸の城下町だが、見せ方は現代のオープンワールドゲームのゲームプレイ映像。テンポが速く、コミカルで、無法な大暴れ感がある。\n\n主人公は、貧乏長屋に暮らす意地悪なババア。プレイヤーキャラはババア固定。じじいは同行NPC。\nババアは、小柄でやや痩せ気味、腰が少し曲がっているが異常に元気。白髪を雑に後ろで束ね、深いしわ、鋭い目つき、歯が少し欠けた意地悪そうな笑顔。色褪せた地味な着物、前掛け、草履。すぐ怒る、すぐ殴る、口が悪い。\nじじいは、酒好きでひねくれた意地悪じじい。痩せた体、赤ら顔、薄い白髪、無精髭、少し猫背。ボロい着流し、腹巻き、草履。酒を見ると急に目が輝く。短気で卑屈だが、ババアと一緒に暴れる時だけ妙に生き生きする。\n\n舞台は活気ある江戸の城下町。貧乏長屋、狭い路地、屋台、酒屋、橋、神社、木造の商店、町人、浪人、岡っ引き、同心がいる。岡っ引きは十手を持ち、提灯を掲げる者もいる。同心は羽織や裃で、刀と十手を持つ。町には提灯、行灯、木箱、桶、荷車、布の暖簾など江戸らしい小物が多い。酒はガラス瓶ではなく、陶器の徳利と酒樽にする。\n\n映像全体は、はっきりゲームプレイ画面として見せる。カメラは基本的にババアの背後から追う三人称視点。画面左下に円形ミニマップ。上部中央にMISSION表示。右上にWANTEDレベル。下部に体力ゲージと所持アイテム表示。アイテム取得時のポップアップ、MISSION PASSED表示を入れる。ゲーム文字は必ず正確にそのまま表示し、再解釈しない。殴る、衝突する、被弾するたびに軽い画面揺れ。ダメージ時は軽い赤フラッシュ。強奪成功時やアイテム取得時はゲームらしい効果表示。登場人物のセリフはすべて日本語のみ。セリフ表記はひらがなのみ。中国語、英語、その他の外国語では話さない。\n\n【0–5秒｜長屋・ミッション開始】\nボロい貧乏長屋の一室。三人称ゲーム視点でババアの背後から始まる。じじいが空の陶器の徳利を振って怒鳴る。酒が切れている。ババアは舌打ちして振り向く。\nじじい「さけじゃ！ さけ！」\nばばあ「うるさいね！」\n画面上部中央に正確に表示：\n「MISSION：じじいの酒をGETせよ」\n\n【5–10秒｜町へ出る・最初の乱闘】\nババアが長屋を飛び出し、じじいが後ろからついてくる。路地で町人とぶつかり、ババアがいきなり平手打ち。じじいも横からどつく。岡っ引きが異変に気づく。\nばばあ「どきな！」\nじじい「じゃまだ！」\n右上に正確に表示：\n「WANTED ★1」\n\n【10–16秒｜酒屋襲撃】\n二人は酒屋へ突入。店主ともめて大乱闘。ババアが店主を殴り、じじいが陶器の徳利を掴もうとする。近くの浪人が絡んできて、ババアが蹴る。じじいが棒でどつく。屋台の椀、桶、商品箱が飛び散る。店先の提灯が激しく揺れる。\nばばあ「さけ、よこしな！」\nじじい「わしの さけじゃ！」\n\n【16–22秒｜刀強奪・追跡激化】\nババアが浪人の刀を奪う。奪った刀で追ってくる相手を斬りつける。じじいは陶器の徳利を抱えてニヤつく。十手を構えた岡っ引きが提灯を振りながら突っ込んでくる。同心も刀を抜いて加勢する。\n画面下に正確に表示：\n「KATANA GET」\n「TOKKURI GET」\n右上に正確に表示：\n「WANTED ★2」\n\n【22–27秒｜馬強奪・逃走開始】\n岡っ引きが笛を吹き、同心も集まる。ババアは追手をどつき倒し、荷馬を見つける。ババアが馬を奪って飛び乗り、じじいは後ろにしがみつく。後方では十手を持った岡っ引きと、刀を抜いた同心が追う。町の提灯や暖簾が揺れ、町人が逃げ惑う。\nばばあ「いくよ！」\nじじい「にげろ！」\n\n【27–30秒｜前半ラスト】\n馬で江戸の町を爆走。ババアが刀を振り回し、じじいが徳利を抱えて叫ぶ。商店の提灯、橋の欄干、屋台の布が揺れ、追っ手が迫る。三人称ゲーム画面のまま、前半最後のフレームは、馬で逃走するババアとじじいを背後から捉えた状態で終わる。\nみぎうえに正確に表示：\n「WANTED ★3」\n===終了===",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/mi7_crypto/status/2098577397717307413",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098574141024768000/img/ITEXyFKOFjaVBouo.jpg",
+        "analysisUrl": "https://x.com/mi7_crypto/status/2098577397717307413"
+      }
+    ],
+    "metrics": {
+      "likeCount": 33,
+      "repostCount": 7,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 1924
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/mi7_crypto/status/2098577397717307413",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098574141024768000/img/ITEXyFKOFjaVBouo.jpg",
+  "coverPath": "covers/2098577397717307413.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098574141024768000",
+    "x-post:2098577397717307413"
+  ],
+  "analysis": {
+    "summary": "江戸時代を舞台にしたオープンワールド犯罪ゲーム風の三人称アクション映像プロンプト。",
+    "summaryEn": "Third-person action video prompt in the style of an Edo-period open-world crime game.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video matches the prompt's timeline and visuals: elderly protagonists, Edo town setting, sake theft, melee brawl, horse escape, and HUD overlays like 'MISSION' and 'WANTED'."
+    },
+    "videoQuality": null,
+    "originalPrompt": "江戸時代の日本を舞台にした、オープンワールド犯罪ゲーム風の30秒映像。4:3。実写フォトリアル。見た目はリアルな江戸の城下町だが、見せ方は現代のオープンワールドゲームのゲームプレイ映像。テンポが速く、コミカルで、無法な大暴れ感がある。\n\n主人公は、貧乏長屋に暮らす意地悪なババア。プレイヤーキャラはババア固定。じじいは同行NPC。\nババアは、小柄でやや痩せ気味、腰が少し曲がっているが異常に元気。白髪を雑に後ろで束ね、深いしわ、鋭い目つき、歯が少し欠けた意地悪そうな笑顔。色褪せた地味な着物、前掛け、草履。すぐ怒る、すぐ殴る、口が悪い。\nじじいは、酒好きでひねくれた意地悪じじい。痩せた体、赤ら顔、薄い白髪、無精髭、少し猫背。ボロい着流し、腹巻き、草履。酒を見ると急に目が輝く。短気で卑屈だが、ババアと一緒に暴れる時だけ妙に生き生きする。\n\n舞台は活気ある江戸の城下町。貧乏長屋、狭い路地、屋台、酒屋、橋、神社、木造の商店、町人、浪人、岡っ引き、同心がいる。岡っ引きは十手を持ち、提灯を掲げる者もいる。同心は羽織や裃で、刀と十手を持つ。町には提灯、行灯、木箱、桶、荷車、布の暖簾など江戸らしい小物が多い。酒はガラス瓶ではなく、陶器の徳利と酒樽にする。\n\n映像全体は、はっきりゲームプレイ画面として見せる。カメラは基本的にババアの背後から追う三人称視点。画面左下に円形ミニマップ。上部中央にMISSION表示。右上にWANTEDレベル。下部に体力ゲージと所持アイテム表示。アイテム取得時のポップアップ、MISSION PASSED表示を入れる。ゲーム文字は必ず正確にそのまま表示し、再解釈しない。殴る、衝突する、被弾するたびに軽い画面揺れ。ダメージ時は軽い赤フラッシュ。強奪成功時やアイテム取得時はゲームらしい効果表示。登場人物のセリフはすべて日本語のみ。セリフ表記はひらがなのみ。中国語、英語、その他の外国語では話さない。\n\n【0–5秒｜長屋・ミッション開始】\nボロい貧乏長屋の一室。三人称ゲーム視点でババアの背後から始まる。じじいが空の陶器の徳利を振って怒鳴る。酒が切れている。ババアは舌打ちして振り向く。\nじじい「さけじゃ！ さけ！」\nばばあ「うるさいね！」\n画面上部中央に正確に表示：\n「MISSION：じじいの酒をGETせよ」\n\n【5–10秒｜町へ出る・最初の乱闘】\nババアが長屋を飛び出し、じじいが後ろからついてくる。路地で町人とぶつかり、ババアがいきなり平手打ち。じじいも横からどつく。岡っ引きが異変に気づく。\nばばあ「どきな！」\nじじい「じゃまだ！」\n右上に正確に表示：\n「WANTED ★1」\n\n【10–16秒｜酒屋襲撃】\n二人は酒屋へ突入。店主ともめて大乱闘。ババアが店主を殴り、じじいが陶器の徳利を掴もうとする。近くの浪人が絡んできて、ババアが蹴る。じじいが棒でどつく。屋台の椀、桶、商品箱が飛び散る。店先の提灯が激しく揺れる。\nばばあ「さけ、よこしな！」\nじじい「わしの さけじゃ！」\n\n【16–22秒｜刀強奪・追跡激化】\nババアが浪人の刀を奪う。奪った刀で追ってくる相手を斬りつける。じじいは陶器の徳利を抱えてニヤつく。十手を構えた岡っ引きが提灯を振りながら突っ込んでくる。同心も刀を抜いて加勢する。\n画面下に正確に表示：\n「KATANA GET」\n「TOKKURI GET」\n右上に正確に表示：\n「WANTED ★2」\n\n【22–27秒｜馬強奪・逃走開始】\n岡っ引きが笛を吹き、同心も集まる。ババアは追手をどつき倒し、荷馬を見つける。ババアが馬を奪って飛び乗り、じじいは後ろにしがみつく。後方では十手を持った岡っ引きと、刀を抜いた同心が追う。町の提灯や暖簾が揺れ、町人が逃げ惑う。\nばばあ「いくよ！」\nじじい「にげろ！」\n\n【27–30秒｜前半ラスト】\n馬で江戸の町を爆走。ババアが刀を振り回し、じじいが徳利を抱えて叫ぶ。商店の提灯、橋の欄干、屋台の布が揺れ、追っ手が迫る。三人称ゲーム画面のまま、前半最後のフレームは、馬で逃走するババアとじじいを背後から捉えた状態で終わる。\nみぎうえに正確に表示：\n「WANTED ★3」",
+    "sourceRange": {
+      "start": 192,
+      "end": 1917
+    },
+    "translations": {
+      "zh": "设定在江户时代日本的开放世界犯罪游戏风格视频。写实逼真，呈现现代游戏实机游玩视角。老太为主控角色，老头为跟随NPC。讲述两人在江户城镇大肆打斗、洗劫酒肆、抢夺马匹逃亡的过程，画面包含HUD小地图、任务文字及通缉星级。",
+      "en": "A 30-second open-world crime game-style video set in Edo-period Japan. Photorealistic gameplay perspective featuring an aggressive old woman as the player and an old man NPC, causing chaos in town, raiding a sake store, stealing a horse, complete with game HUD and UI."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "AI video generation depicting a humorous open-world Edo action game sequence.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.88,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
