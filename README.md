@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**67** Prompts · Latest addition: **2026-09-12**
+**68** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,64 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098625650852815257"></a>
+
+### Detailed 6-shot cinematic prompt for a 30-second battle between a swordsman and an oni in a burning temple courtyard.
+
+Author：[@bmx\_ai13](https://x.com/bmx_ai13) · [Source](https://x.com/bmx_ai13/status/2098625650852815257)
+
+Cinematic / Film Still · Published
+
+**Summary:** Detailed 6-shot cinematic prompt for a 30-second battle between a swordsman and an oni in a burning temple courtyard.
+
+<img src="covers/2098625650852815257.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+6 shots, total 30s 0.0-5.0s, 5.0-10.0s, 10.0-15.0s, 15.0-20.0s, 20.0-25.0s, 25.0-30.0s. Hard cuts, no dissolves. Normal speed throughout, no slow motion, no ramping.
+
+CAPTURE CADENCE CRITICAL: native 24fps, true 180-degree shutter, real 1/48s exposure every frame. Fluid, continuous motion blur. Never choppy, never juddering. No interpolation, no ghosting, no video look.
+
+NO ON-SCREEN TEXT CRITICAL: no text of any kind anywhere in frame. No captions, subtitles, titles, credits, watermarks, logos, timecode, UI overlays.
+
+NOBODY ELSE IN FRAME CRITICAL: no monks, villagers, or extras. Only the swordsman, the oni, and one crow are ever visible.
+
+THE FIRE CRITICAL: burning temple embers drift and flare through every frame, occasionally flaring bright enough to strobe-light a beat. The stepped quality of any lit moment comes entirely from ember-flare, never from broken footage camera motion stays smooth throughout. Falling ash rakes diagonally, screen-left to right.
+
+Subject Lock the swordsman: lean weathered build, closecropped greystreaked hair, hard jaw, sootstreaked skin, clean face, no tattoos. Charcoal hakama and a scorched indigo haori, one steel pauldron, straw sandals. Grips a curved katana two-handed. Advances through the burning temple courtyard toward the oni, stance low and controlled through every strike.
+
+Subject Lock the oni: towering horned demon, no visible pores cracked obsidian-red skin glowing along fault lines with molten orange light, tusked jaw, matted black mane. Carries a massive iron kanabo studded with spikes. Advances with heavy ground-shaking steps, never runs.
+
+World Plate: a burning temple courtyard at night a shattered stone torii gate, a collapsing pagoda roof shedding tile, a wide gravel yard scattered with broken lanterns, distant burning rooftops beyond the temple wall. No other structures stand whole.
+
+THE ATMOSPHERE CRITICAL, depth only: heavy smoke haze at high density swordsman sharp near, oni softened at mid-distance, burning rooftops near-erased far. Thickened smoke-air only, never a fog-machine look.
+
+SHOT 1 0.0-5.0s. THE ADVANCE. Low camera at gravel level, cant 15°, tracking the swordsman forward. Swordsman strides through drifting embers, katana raised, oni looming ahead. Swordsman screenleft advancing, oni screen-right filling the yard. Diegetic sound.
+
+SHOT 2 5.0-10.0s. THE CLASH. Camera orbits tight at chest height, cant swinging 15-35°, never square. Katana rings off the kanabo in a shower of sparks, swordsman thrown back a step. Both centered, gravel kicking up. Diegetic sound.
+
+SHOT 3 10.0-15.0s. THE OMEN. Cut to a crow bursting off the collapsing pagoda roof as tile showers down. It wheels hard away from the falling debris. Crow centered against the burning roofline. Diegetic sound.
+
+SHOT 4 15.0-20.0s. THE COLLAPSE. Low static camera in the courtyard, whip-panning up as the pagoda roof gives way. The roof section tears free and crashes into the yard; the swordsman rolls clear through gravel and ash. Roof beam diagonal across frame, swordsman emerging low center. Diegetic sound.
+
+SHOT 5 20.0-25.0s. THE SURGE. Camera drops to ground height, rockets forward through a corridor of drifting embers lit by a flare of firelight. Swordsman sprints low, katana trailing sparks, closing on the oni's flank. Swordsman screen-left driving right. Diegetic sound.
+
+SHOT 6 25.0-30.0s. THE AFTERMATH. Camera pulls back to a wide static courtyard frame, embers settling, wind dying. The swordsman stands alone, katana lowered, chest heaving, as the oni's glowing fault-lines dim to black and it topples out of frame. Swordsman small and centered, burning pagoda dark behind. Diegetic sound.
+
+Cross-Frame Rules: swordsman's haori, pauldron, and sandals never change. Oni's fault-line glow never fully fades until Shot 6. Only swordsman, oni, and crow ever visible. Ash direction stays constant. Pagoda keeps the same silhouette wherever it appears. Ember-flare applies only inside Shots 1, 2, and 5. No score enters at any point.
+
+Last Frame: the swordsman stands alone in the courtyard, katana lowered, embers drifting down around him, the oni's dark fallen shape at the frame's edge, the pagoda's broken silhouette burning low behind. No on-screen text, no logo, no watermark.
+
+Sound Bed: diegetic only — crackling fire, falling tile, katana ringing off iron, the oni's low guttural roar, gravel crunching underfoot, a crow's sharp cry. No score, no subtitles.
+
+Camera & Capture Realism: ~32mm/68° FOV, vintage 2x anamorphic with oval bokeh and streak flares off the firelight, shallow depth of field, color-negative rendition, fine grain. Violent handheld  cant swinging 15-45°, punching in and ripping back, every frame mid-move but smooth in its own travel, never locked, never gimbalglide. No CGI look, no AI smoothness, no videogame HUD, no motion smoothing.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098623498922897725"></a>
 
