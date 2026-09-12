@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**69** Prompts · Latest addition: **2026-09-12**
+**70** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098622086608773436"></a>
+
+### A 23-second multi-shot epic dark fantasy battle sequence depicting the cinematic combat of a white-haired female warrior standing alone against an enemy army and a massive armored soldier.
+
+Author：[@Noor\_ul\_ain43](https://x.com/Noor_ul_ain43) · [Source](https://x.com/Noor_ul_ain43/status/2098622086608773436)
+
+Cinematic / Film Still · Published
+
+**Summary:** A 23-second multi-shot epic dark fantasy battle sequence depicting the cinematic combat of a white-haired female warrior standing alone against an enemy army and a massive armored soldier.
+
+<img src="covers/2098622086608773436.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 23-second ultra-cinematic dark fantasy battle sequence, photorealistic, high-budget fantasy film aesthetic, 16:9 widescreen.\n\nSCENE 1 — 0–3 seconds\nStart behind a mysterious white-haired female warrior standing alone before an enormous battlefield. She has long silver-white hair flowing naturally in the wind, dark medieval leather and metal armor, and a sword strapped across her back. In front of her is a gigantic army covering the battlefield. Ruined medieval towers and cathedral-like structures appear in the distance. The sun is low on the horizon, creating powerful golden backlight through thick smoke and dust. Slow cinematic camera push-in from behind her, shallow atmospheric haze, realistic wind movement, epic scale.\n\nSCENE 2 — 3–6 seconds\nSuddenly transition into intense action. The warrior rapidly launches herself forward into combat. Dynamic low-angle tracking shot as she moves through flying sparks, smoke and debris. Her sword catches the warm sunlight as she swings it with tremendous speed. Use realistic motion blur, flying embers, dust particles and detailed metal reflections. The camera follows her movement aggressively while maintaining cinematic composition.\n\nSCENE 3 — 6–9 seconds\nShow the warrior fighting a large armored enemy on the battlefield. She performs a powerful sword strike while the enemy attacks with heavy force. Sparks explode when the weapons collide. The ground is muddy, damaged and covered with rubble. Burning objects and small fires surround them. Use handheld-style cinematic camera movement during the impact, then briefly slow down the action for dramatic emphasis.\n\nSCENE 4 — 9–12 seconds\nThe warrior lands heavily on the battlefield after the attack. Show her armored body close to camera as dust and smoke roll around her. Her silver hair moves in the wind. She slowly rises with her sword ready. Behind her, the ruined medieval city is silhouetted against a huge golden sunset. Strong volumetric lighting, atmospheric perspective and realistic environmental detail.\n\nSCENE 5 — 12–15 seconds\nCut to an intense close-up of the warrior's face. Her expression is fierce, focused and determined. Silver-white hair partially frames her face. Her eyes remain locked on an approaching enemy. Warm sunset light illuminates one side of her face while the other side remains darker and dramatic. Extremely detailed skin, realistic eyes, subtle breathing and natural facial movement. Cinematic depth of field.\n\nSCENE 6 — 15–18 seconds\nReveal the enormous enemy army advancing toward her. Hundreds or thousands of dark, battle-worn humanoid figures move across the ruined battlefield. Smoke, dust and embers fill the air. The camera slowly pulls backward and upward, revealing the enormous scale of the army and the tiny warrior standing alone in front of them. Massive ruined towers rise in the background.\n\nSCENE 7 — 18–21 seconds\nThe warrior stands completely still as the battlefield around her becomes increasingly chaotic. Cracks and glowing embers appear across the damaged ground. Smoke drifts past the camera. The sunset burns brightly behind the ruined city. Use a slow 360-degree cinematic camera movement around the warrior, emphasizing her isolation and strength. Wind moves her cape, hair and clothing naturally.\n\nSCENE 8 — 21–23 seconds\nFinish with an extremely wide establishing shot. The warrior stands alone in the center of the devastated battlefield while the enormous ruined city and burning horizon stretch behind her. Dust and smoke slowly drift through the golden light. The camera gradually pulls farther away until the character becomes small within the gigantic environment. End on a powerful cinematic still frame and fade subtly to black.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098625650852815257"></a>
 
